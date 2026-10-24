@@ -1,3 +1,0 @@
-# mongol
-Mongolian lexicogaphical resources
-
