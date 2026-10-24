@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4533">
+  <head>
+    <unicode>ᠺᠥᠺᠡᠨᠺᠺᠢᠷᠡᠺᠥ</unicode>
+    <transcript>kögenkgirekü</transcript>
+    <transcript2>gögenggiregö</transcript2>
+    <cyrillic>хөөнгөрөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K4534</ref>
+    <ref>K4532</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠭᠡᠩᠭᠢᠷᠡᠬᠦ</unicode>
+      <cyrillic>хөөнгөрөх</cyrillic>
+      <definition>〔动〕呈现烟霭，生烟霭.</definition>
+      <page>1404</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠺᠡᠨᠺᠺᠢᠷᠡᠺᠥ</unicode>
+      <cyrillic>ХӨӨНГӨРӨХ</cyrillic>
+      <definition>пухнуть, вздуваться, пучиться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠭᠡᠩᠭᠢᠷᠡᠬᠦ</unicode>
+      <cyrillic>хөөнгөрөх</cyrillic>
+      <definition>хөөнгөтөх, униар хөөнгө татах.</definition>
+      <page>714</page>
+    </entry_item>
+  </entries>
+</entry>

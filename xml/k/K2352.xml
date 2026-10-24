@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K2352">
+  <head>
+    <unicode>ᠺᠢᠮᠰᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>kimsalǰaqu</transcript>
+    <transcript2>gimsalcago</transcript2>
+    <cyrillic>хямсалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K2351</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠢᠮᠰᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>хямсалзах</cyrillic>
+      <definition>〔动〕хямсайх 的多次体.</definition>
+      <page>1502</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠮᠰᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ХЯМСАЛЗАХ</cyrillic>
+      <definition>хямсайх-ын олонтаа., кичиться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠢᠮᠰᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>хямсалзах</cyrillic>
+      <definition>байн байн хямсайх.</definition>
+      <page>772</page>
+    </entry_item>
+  </entries>
+</entry>

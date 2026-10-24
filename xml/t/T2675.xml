@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T2675">
+  <head>
+    <unicode>ᠲᠠᠷᠢᠶᠠᠯᠠᠩᠴᠢ</unicode>
+    <transcript>tariyalangči</transcript>
+    <transcript2>dariyalangci</transcript2>
+    <cyrillic>тариаланч</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠷᠢᠶᠠᠯᠠᠩᠴᠢ</unicode>
+      <cyrillic>тариаланч</cyrillic>
+      <definition>〔名〕农民，庄稼汉.</definition>
+      <page>1030</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠷᠢᠶᠠᠯᠠᠩᠴᠢ</unicode>
+      <cyrillic>ТАРИАЛАНЧ</cyrillic>
+      <definition>хлебороб, земледелец. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠷᠢᠶᠠᠯᠠᠩᠴᠢ</unicode>
+      <cyrillic>ТАРИАЛАНЧИД</cyrillic>
+      <definition>тариаланч-ийн олон., хлеборобы, земледельцы. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+<related_to><ref>T2674</ref></related_to></entry>

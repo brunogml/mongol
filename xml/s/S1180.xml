@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1180">
+  <head>
+    <unicode>ᠰᠠᠯᠮᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>salmaraγulqu</transcript>
+    <transcript2>salmaragolgo</transcript2>
+    <cyrillic>салмаруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S1179</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠯᠮᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>салмаруулах</cyrillic>
+      <definition>〔动〕салмарах 的使动态.</definition>
+      <page>903</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠯᠮᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>САЛМАРУУЛАХ</cyrillic>
+      <definition>салмарах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠯᠮᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>салмаруулах</cyrillic>
+      <definition>салмарахын үйлдүүлэх хэв.</definition>
+      <page>464</page>
+    </entry_item>
+  </entries>
+</entry>

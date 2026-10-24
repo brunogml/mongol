@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1767">
+  <head>
+    <unicode>ᠥᠶᠠᠯᠢᠳ</unicode>
+    <transcript>üyelid</transcript>
+    <transcript2>öyelid</transcript2>
+    <cyrillic>үеэлд</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠥᠶᠠᠯᠢᠳ</unicode>
+      <uighur>üyelid</uighur>
+      <cyrillic>үеэлд</cyrillic>
+      <transcript>YJELID</transcript>
+      <definition>[= yjegeled, yjegeli, yjeli] n. Offspring of brothers</definition>
+      <page>1002</page>
+      <examples>
+        <example>
+          <unicode>ᠥᠶᠠᠯᠢᠳ ᠠᠬ᠎ᠠ ᠳᠡᠭᠦᠦ</unicode>
+          <transcript>-- ax-a degyy</transcript>
+          <definition> Sons of brothers.</definition>
+        </example>
+        <example>
+          <unicode>ᠥᠶᠠᠯᠢᠳ ᠪᠡᠷᠢ</unicode>
+          <transcript>-- beri</transcript>
+          <definition> Wifeof brother's son.</definition>
+        </example>
+        <example>
+          <unicode>ᠥᠶᠠᠯᠢᠳ ᠺᠦᠪᠡᠭᠦᠨ </unicode>
+          <transcript>-- kybegyn</transcript>
+          <definition> Brother's son.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠦᠶᠡᠯᠢᠳ</unicode>
+      <cyrillic>үеэлд</cyrillic>
+      <definition>〔名〕堂兄弟，堂姐妹：~ ах дүү 堂兄弟；~ бэр 侄媳；~ хүү 侄儿.</definition>
+      <page>1229</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠶᠠᠯᠢᠳ</unicode>
+      <cyrillic>ҮЕЭЛД</cyrillic>
+      <definition>двоюродный брат, двоюродная сестра. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠦᠶᠡᠯᠢᠳ</unicode>
+      <cyrillic>үеэлд</cyrillic>
+      <definition>төрсөн ах дүүгийн хүүхэд ; үеэлд ах дүү.</definition>
+      <page>615</page>
+    </entry_item>
+  </entries>
+</entry>

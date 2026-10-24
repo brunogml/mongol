@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3846">
+  <head>
+    <unicode>ᠳᠠᠯᠠᠰᠺᠥ</unicode>
+    <transcript>deleskü</transcript>
+    <transcript2>delesgö</transcript2>
+    <cyrillic>дэлсэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T3845</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠠᠯᠠᠰᠺᠥ</unicode>
+      <uighur>deleskü</uighur>
+      <cyrillic>дэлсэх</cyrillic>
+      <transcript>DELES-</transcript>
+      <definition>v.t. and i. To beat, hit, pluck; to beat, pulsate.</definition>
+      <page>249</page>
+      <examples>
+        <example>
+          <unicode>ᠶᠠᠲᠤᠭ᠎ᠠ ᠳᠠᠯᠠᠰᠺᠥ</unicode>
+          <transcript>jatuγ-a –ky</transcript>
+          <definition> To play jatuγ-a, q.v.</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠢᠷᠦᠺᠡ ᠳᠠᠯᠠᠰᠺᠥ</unicode>
+          <transcript>ziryke --ky</transcript>
+          <definition> For the heart to throb.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠡᠯᠡᠰᠺᠦ ~ ᠳᠡᠯᠡᠳᠺᠦ</unicode>
+      <definition>frapper du marteau, forger, frapper du tambourin, faire résonner une cloche, etc.</definition>
+      <page>1717</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠯᠠᠰᠺᠥ</unicode>
+      <cyrillic>ДЭЛСЭХ</cyrillic>
+      <definition>1) бить, колотить кого-л.; ударять во что-л.; дэлсээд авах пришлёпнуть, тяпнуть, треснуть; 2) шилж. биться, трепетать, ударять, стучать (о сердце); зүрх дэлсэж байна сильно бьётся сердце; 2) страдать биением сердца; † чих дэлсэх послушать краем уха. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дэлсэх</cyrillic>
+      <definition>pochen; klopfen; миний зүрх дэлсэж байна ich habe Herzklopfen</definition>
+      <page>104</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠯᠡᠰᠬᠦ</unicode>
+      <cyrillic>дэлсэх /1</cyrillic>
+      <definition>дэлдэх, цохих; зүрх дэлсэх; модоор дэлсэх.</definition>
+      <page>226</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠯᠡᠰᠬᠦ</unicode>
+      <cyrillic>дэлсэх /2</cyrillic>
+      <definition>морь малд дэлсгээ өвчин тохиолдох.</definition>
+      <page>226</page>
+    </entry_item>
+  </entries>
+</entry>

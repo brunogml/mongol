@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="E1286">
+  <head>
+    <unicode>ᠡᠴᠡᠰᠢ</unicode>
+    <transcript>ečesi</transcript>
+    <transcript2>ecesi</transcript2>
+    <cyrillic>эцэш</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠴᠠᠰᠢ</unicode>
+      <uighur>ečesi</uighur>
+      <transcript>ECESI</transcript>
+      <page>292</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠴᠠᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition>Indefatigable.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠴᠠᠰᠢ ᠦᠭᠡᠢ</unicode>
+      <cyrillic>ЭЦЭШГҮЙ</cyrillic>
+      <definition>неутомимый; эцэшгүй хөлөг неутомимый скакун.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>эцэшгүй</cyrillic>
+      <definition>rastlos, unermüdlich, unverdrossen</definition>
+      <page>408</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0250">
+  <head>
+    <unicode>ᠴᠠᠬᠴᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čaγčiγulqu</transcript>
+    <transcript2>cagcigolgo</transcript2>
+    <cyrillic>цагчуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C0248</ref>
+  </related_to>
+  <see_also>
+    <ref>C0251</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠭᠴᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цагчуулах</cyrillic>
+      <definition>〔动〕цагчих 的使动态.</definition>
+      <page>1513</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠬᠴᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦАГЧУУЛАХ</cyrillic>
+      <definition>цагчих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠭᠴᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цагчуулах</cyrillic>
+      <definition>цагчихын үйлдүүлэх хэв.</definition>
+      <page>779</page>
+    </entry_item>
+  </entries>
+</entry>

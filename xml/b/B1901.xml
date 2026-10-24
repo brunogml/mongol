@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B1901">
+  <head>
+    <unicode>ᠪᠠᠺᠠᠷᠢᠯᠠᠺᠥ</unicode>
+    <transcript>begerilekü</transcript>
+    <transcript2>begerilegö</transcript2>
+    <cyrillic>бээрлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B1902</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠡᠭᠡᠷᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>бээрлэх</cyrillic>
+      <definition>〔动〕①生脓，化脓；②腐烂，腐臭.</definition>
+      <page>250</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠺᠠᠷᠢᠯᠠᠺᠥ</unicode>
+      <cyrillic>БЭЭРЛЭХ</cyrillic>
+      <definition>нагнаиваться.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠡᠷᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>бээрлэх</cyrillic>
+      <definition>бээртэй болох.</definition>
+      <page>124</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бээрлэх</cyrillic>
+      <definition>eitern</definition>
+      <page>69</page>
+    </entry_item>
+  </entries>
+</entry>

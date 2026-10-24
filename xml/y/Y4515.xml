@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4515">
+  <head>
+    <unicode>ᠵᠣᠯᠮᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰulmalaγulqu</transcript>
+    <transcript2>yolmalagolgo</transcript2>
+    <cyrillic>зулмалуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y4514</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠤᠯᠤᠮᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зулмалуулах</cyrillic>
+      <definition>〔动〕зулмалах 的使动态.</definition>
+      <page>576</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠯᠮᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗУЛМАЛУУЛАХ</cyrillic>
+      <definition>зулмалах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠤᠯᠮᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зулмалуулах</cyrillic>
+      <definition>зулмалахын үйлдүүлэх хэв, зумлуулах.</definition>
+      <page>284</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="U2023">
+  <head>
+    <unicode>ᠣᠮᠲᠠᠭ᠎ᠠ</unicode>
+    <transcript>umtaγ-a</transcript>
+    <transcript2>omdaga</transcript2>
+    <cyrillic>унтаа</cyrillic>
+  </head>
+  <see_also>
+    <ref>U0255</ref>
+    <ref>U2024</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠮᠲᠠᠭ᠎ᠠ</unicode>
+      <uighur>umdaγ-a</uighur>
+      <cyrillic>унтаа</cyrillic>
+      <transcript>UMTAΓ-A</transcript>
+      <definition>[n. imperfecti of umta-] adj. Sleeping.</definition>
+      <page>875</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠮᠲᠠᠭ᠎ᠠ ᠪᠡᠷ</unicode>
+          <transcript>-- ber</transcript>
+          <definition>While asleep, during sleep.</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠮᠲᠠᠭ᠎ᠠ ᠳᠡᠭᠡᠷ᠎ᠡ ᠢᠨᠤ</unicode>
+          <transcript>-- deger-e inu</transcript>
+          <definition>While he was asleep.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠨᠲᠠᠭ᠎ᠠ</unicode>
+      <cyrillic>унтаа</cyrillic>
+      <definition>〔形〕睡着的；睡眼惺松的：~ дээр 在睡觉时，赶在睡觉时；~гаараа ярих 说梦话；~ байдал 半睡半醒状态；~ эмгэг 〈医〉木僵.</definition>
+      <page>1193</page>
+    </entry_item>
+  </entries>
+</entry>

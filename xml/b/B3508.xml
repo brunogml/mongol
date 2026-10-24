@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B3508">
+  <head>
+    <unicode>ᠪᠣᠯᠳᠣᠷ</unicode>
+    <transcript>buldur</transcript>
+    <transcript2>boldor</transcript2>
+    <cyrillic>булдар</cyrillic>
+  </head><see_also>
+    <ref>B3493</ref>
+  
+    <ref>B3508a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠣᠯᠳᠣᠷ</unicode>
+      <uighur>buldur</uighur>
+      <cyrillic>булдар</cyrillic>
+      <transcript>BULDUR</transcript>
+      <page>134</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠯᠳᠤᠷ ᠪᠣᠯᠳᠣᠷ</unicode>
+          <transcript>-- saldur</transcript>
+          <definition> Uneven, rough, rugged (of terrain); coarse, unrefined, impolite</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠤᠯᠳᠣᠷ ᠰᠠᠯᠳᠣᠷ</unicode>
+      <definition>raboteux, rempli de collines: 2 malpropre, sale: 3 impoli, grossier.</definition>
+      <page>1199</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠤᠯᠳᠤᠷ</unicode>
+      <cyrillic>булдар</cyrillic>
+      <definition>见 ~ салдар 不平的崎岖的；粗糙的.</definition>
+      <page>202</page>
+    </entry_item>
+  </entries>
+</entry>

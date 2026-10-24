@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5687">
+  <head>
+    <unicode>ᠰᠣᠳᠠᠯᠲᠣᠬᠣ</unicode>
+    <transcript>sudaltuqu</transcript>
+    <transcript2>sodaldogo</transcript2>
+    <cyrillic>судалтах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5688</ref>
+    <ref>S5689</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠳᠠᠯᠲᠤᠬᠤ</unicode>
+      <cyrillic>судалтах</cyrillic>
+      <definition>〔动〕①有脉；②有管；③有线条，有条纹，有花纹，留下条痕.</definition>
+      <page>956</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠳᠠᠯᠲᠣᠬᠣ</unicode>
+      <cyrillic>СУДАЛТАХ</cyrillic>
+      <definition>быть полосатым, иметь полосатый вид. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>судалтах</cyrillic>
+      <definition>streifig werden</definition>
+      <page>204</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠳᠠᠯᠲᠤᠬᠤ</unicode>
+      <cyrillic>судалтах</cyrillic>
+      <definition>судалтай болох; судалтай харагдах.</definition>
+      <page>487</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S5683</ref>
+  </related_to>
+</entry>

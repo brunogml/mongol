@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N2555">
+  <head>
+    <unicode>ᠨᠣᠷᠺᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>nurgiγulqu</transcript>
+    <transcript2>norgigolgo</transcript2>
+    <cyrillic>нургиулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>N2554</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠤᠷᠭᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нургиулах</cyrillic>
+      <definition>〔动〕нургих 的使动态.</definition>
+      <page>760</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠣᠷᠺᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>НУРГИУЛАХ</cyrillic>
+      <definition>нургих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠤᠷᠭᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нургиулах</cyrillic>
+      <definition>нургихын үйлдүүлэх хэв.</definition>
+      <page>389</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5785">
+  <head>
+    <unicode>ᠲᠣᠭᠣᠰᠬᠠᠷᠠᠬᠣ</unicode>
+    <transcript>toγusqaraqu</transcript>
+    <transcript2>dogosgarago</transcript2>
+    <cyrillic>тоосгорох</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠭᠣᠰᠬᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>тоосгорох</cyrillic>
+      <definition>〔动〕成砖状.</definition>
+      <page>1077</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠭᠣᠰᠬᠠᠷᠠᠬᠣ</unicode>
+      <cyrillic>ТООСГОРОХ</cyrillic>
+      <definition>становљться как кирпљч; приобретать форму и подобие кирпича. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠭᠣᠰᠬᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>тоосгорох</cyrillic>
+      <definition>тоосго мэт болох.</definition>
+      <page>543</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T5783</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0043">
+  <head>
+    <unicode>ᠲᠠᠨᠢᠬᠳᠠᠬᠣ</unicode>
+    <transcript>taniγdaqu</transcript>
+    <transcript2>danigdago</transcript2>
+    <cyrillic>танигдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T0038</ref>
+  </related_to>
+  <see_also>
+    <ref>T0129</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠨᠢᠬᠳᠠᠬᠣ</unicode>
+      <uighur>taniqdaqu</uighur>
+      <cyrillic>танигдах</cyrillic>
+      <transcript>TANIΓDA-</transcript>
+      <definition>v. pass. of tani-.</definition>
+      <page>778</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠨᠢᠬᠳᠠᠬᠣ ᠦᠭᠡᠢ</unicode>
+          <transcript>' --xu ygei</transcript>
+          <definition> Unknowable, unrecognizable.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠳᠦᠷ ᠤᠨᠠᠪᠠᠰᠤ ᠺᠦᠮᠦᠨ ᠢᠨᠤ ᠲᠠᠨᠢᠬᠳᠠᠮᠤᠢ</unicode>
+          <transcript>edyr unabasu kymyn inu --mui</transcript>
+          <definition> A man becomes known in the course of time.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠷᠡ ᠨᠠᠳᠤᠷ ᠲᠠᠨᠢᠬᠳᠠᠭᠰᠠᠨ ᠦᠭᠡᠢ</unicode>
+          <transcript>tere nadur --γsan ygei</transcript>
+          <definition> I did not recognize him (lit.: he was not recognized by me).</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠠᠮ ᠰᠠᠶᠢᠬᠠᠨ ᠲᠠᠨᠢᠬᠳᠠᠵᠤ ᠪᠠᠶᠢᠮᠤᠢ</unicode>
+          <transcript>zam saixan --zu baimui</transcript>
+          <definition> The road is easily recognized.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠨᠢᠬᠳᠠᠬᠤ</unicode>
+      <definition>être reconnu, distingué, remarqué</definition>
+      <page>1560</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠷᠠ ᠴᠠᠭᠠᠨ ᠦᠯᠦ ᠳᠠᠨᠢᠬᠳᠠᠬᠤ ᠎ᠶᠢᠨ ᠭᠠᠵᠠᠷᠠ ᠪᠠᠯᠠᠷᠠᠮ ᠪᠦᠯᠦᠭᠡ</unicode>
+          <definition>j'ai été dans l'endroit où l'on ne paut pas distinguer le blanc du noir</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠨᠢᠬᠳᠠᠬᠣ</unicode>
+      <uighur>daniqdaqu</uighur>
+      <definition>erkannt werden</definition>
+      <page>227</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠨᠢᠬᠳᠠᠬᠣ</unicode>
+      <uighur>taniqdaqu</uighur>
+      <definition>v.p. To become known.</definition>
+      <page>894</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠨᠢᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТАНИГДАХ</cyrillic>
+      <definition>таних-ын үйлдэгд., 1) быть узнаваемым, узнанным; быть опознанным; 2) стать известным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠨᠢᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТАНИГДАХААР</cyrillic>
+      <definition>быть узнаваемым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠨᠢᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТАНИГДАХААРГҮЙ</cyrillic>
+      <definition>танигдахгүй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠨᠢᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТАНИГДАХГҮЙ</cyrillic>
+      <definition>танигдашгүй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠨᠢᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТАНИГДАХГҮЙГЭЭР</cyrillic>
+      <definition>танигдахгүй-н үйлдэх., 1) чтобы не быть узнанным; 2) до неузнаваемости. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠨᠢᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>танигдах</cyrillic>
+      <definition>танихын үйлдэгдэх хэв.</definition>
+      <page>520</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N0604">
+  <head>
+    <unicode>ᠨᠠᠵᠠᠭᠠᠶᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>naǰaγayidaγulqu</transcript>
+    <transcript2>nacagayidagolgo</transcript2>
+    <cyrillic>назгайдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>N0602</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠠᠵᠠᠭᠠᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>назгайдуулах</cyrillic>
+      <definition>〔动〕назгайдах 的使动态.</definition>
+      <page>717</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠵᠠᠭᠠᠶᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>НАЗГАЙДУУЛАХ</cyrillic>
+      <definition>назгайдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠠᠵᠠᠭᠠᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>назгайдуулах</cyrillic>
+      <definition>назгайдахын үйлдүүлэх хэв.</definition>
+      <page>362</page>
+    </entry_item>
+  </entries>
+</entry>

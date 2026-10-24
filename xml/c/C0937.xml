@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0937">
+  <head>
+    <unicode>ᠴᠠᠪᠴᠠᠶᠢᠺᠥ</unicode>
+    <transcript>čebčeyikü</transcript>
+    <transcript2>cebceyigö</transcript2>
+    <cyrillic>цэвцийх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0936</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠪᠴᠡᠢᠬᠦ</unicode>
+      <cyrillic>цэвцийх</cyrillic>
+      <definition>〔动〕变得很白.</definition>
+      <page>1560</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠪᠴᠠᠶᠢᠺᠥ</unicode>
+      <cyrillic>ЦЭВЦИЙХ</cyrillic>
+      <definition>становиться белым-пребелым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цэвцийх</cyrillic>
+      <definition>weißlich od hell werden</definition>
+      <page>363</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠪᠴᠡᠢᠬᠦ</unicode>
+      <cyrillic>цэвцийх</cyrillic>
+      <definition>цэвцгэр болох.</definition>
+      <page>804</page>
+    </entry_item>
+  </entries>
+</entry>

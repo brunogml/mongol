@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A3025">
+  <head>
+    <unicode>ᠠᠮᠣᠷᠠᠯ</unicode>
+    <transcript>amural</transcript>
+    <transcript2>amoral</transcript2>
+    <cyrillic>амрал</cyrillic>
+  </head>
+  <see_also>
+    <ref>A2836</ref>
+  </see_also>
+  <related_to>
+    <ref>A3021</ref>
+  </related_to>
+  <derivatives>
+    <ref>A3027</ref>
+    <ref>A3028</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠮᠣᠷᠠᠯ</unicode>
+      <uighur>amural</uighur>
+      <cyrillic>амрал</cyrillic>
+      <transcript>AMURAL</transcript>
+      <page>41</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠮᠣᠷᠠᠯ ᠦᠭᠡᠢ</unicode>
+          <transcript>ygei</transcript>
+          <definition>Without resting; unceasing[ly], indefatigable[-ly].</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠮᠠᠷᠠᠯ</unicode>
+      <cyrillic>амрал</cyrillic>
+      <definition>〔名〕参见 амралт.</definition>
+      <page>53</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>амрал[т]гүй</cyrillic>
+      <definition>rastlos, ohne Pause, ohne Urlaub zu machen</definition>
+      <page>30</page>
+    </entry_item>
+  </entries>
+</entry>

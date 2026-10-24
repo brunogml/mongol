@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1626">
+  <head>
+    <unicode>ᠨᠢᠯᠴᠠᠭᠠᠶᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>nilčaγayidaγulqu</transcript>
+    <transcript2>nilcagayidagolgo</transcript2>
+    <cyrillic>нялцгайдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>N1624</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠢᠯᠴᠠᠭᠠᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нялцгайдуулах</cyrillic>
+      <definition>〔动〕нялцгайдах 的使动态.</definition>
+      <page>782</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠢᠯᠴᠠᠭᠠᠶᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>НЯЛЦГАЙДУУЛАХ</cyrillic>
+      <definition>нялцгайдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠢᠯᠴᠠᠭᠠᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нялцгайдуулах</cyrillic>
+      <definition>нялцгайдахын үйлдүүлэх хэв.</definition>
+      <page>403</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0315">
+  <head>
+    <unicode>ᠴᠠᠪᠴᠢᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čabčiγanaγulqu</transcript>
+    <transcript2>cabciganagolgo</transcript2>
+    <cyrillic>цавчгануулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C0314</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠪᠴᠢᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цавчгануулах</cyrillic>
+      <definition>〔动〕цавчганах 的使动态：нүдээ ~ 眨眼，使眼色.</definition>
+      <page>1509</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠪᠴᠢᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦАВЧГАНУУЛАХ</cyrillic>
+      <definition>цавчганах-ын үйлдүүл., нүдээ цавчгануулах мигать глазами. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цавчгануулах</cyrillic>
+      <definition>Kaus von цавчганах; нүдзэ ~ mit den Augen blinzeln od zwinkern</definition>
+      <page>350</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠪᠴᠢᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цавчгануулах</cyrillic>
+      <definition>цавчганахын үйлдүүлэх хэв.</definition>
+      <page>776</page>
+    </entry_item>
+  </entries>
+</entry>

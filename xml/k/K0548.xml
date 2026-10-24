@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K0548">
+  <head>
+    <unicode>ᠺᠠᠳᠠᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>gedegenegülkü</transcript>
+    <transcript2>gedegenegölgö</transcript2>
+    <cyrillic>гэдэгнүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K0547</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠡᠳᠡᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>гэдэгнүүлэх</cyrillic>
+      <definition>〔动〕гэдэгнэх 的使动态.</definition>
+      <page>347</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠳᠠᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ГЭДЭГНҮҮЛЭХ</cyrillic>
+      <definition>гэдэгнэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠡᠳᠡᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>гэдэгнүүлэх</cyrillic>
+      <definition>гэдэгнэхийн үйлдүүлэх хэв.</definition>
+      <page>168</page>
+    </entry_item>
+  </entries>
+</entry>

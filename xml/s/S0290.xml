@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S0290">
+  <head>
+    <unicode>ᠰᠠᠭ᠎ᠠ</unicode>
+    <transcript>saγ-a</transcript>
+    <transcript2>saga</transcript2>
+    <cyrillic>сага</cyrillic>
+  </head>
+  <see_also>
+    <ref>S0289</ref>
+    <ref>S0291</ref>
+  </see_also>
+  <derivatives>
+    <ref>S0508</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠭ᠎ᠠ</unicode>
+      <uighur>saγ-a</uighur>
+      <cyrillic>сага</cyrillic>
+      <transcript>SAΓ-A</transcript>
+      <page>656</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠠᠭ᠎ᠠ ᠰᠠᠭ᠎ᠠ</unicode>
+          <transcript>baγ-a --</transcript>
+          <definition>See baγ-a.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠰᠠᠭ᠎ᠠ</unicode>
+      <uighur>saγa</uighur>
+      <definition>ein gewisser Knochen</definition>
+      <page>339</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠰᠠᠭ᠎ᠠ</unicode>
+      <uighur>saγ-a</uighur>
+      <definition>A certain kind of bone. Fragments. Small.</definition>
+      <page>1370</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠭ᠎ᠠ</unicode>
+      <cyrillic>сага</cyrillic>
+      <definition>见 бага ~ 一点的，不多的，少许的，稍微地：над хотод бага ~ ажил байна 我在城里还有一点事情；баг ~ мэднэ 知道一点；бага ~ юм авах 买一点东西.</definition>
+      <page>894</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠭ᠎ᠠ</unicode>
+      <cyrillic>САГА</cyrillic>
+      <definition>: бага сага хорш. кое-что, немного; мелочь, безделица; над хотод бага сага ажил байна мне нужно кое-что сделать в городе; бага сага юм авав кое-что купили.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

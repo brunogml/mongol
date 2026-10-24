@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B3799">
+  <head>
+    <unicode>ᠪᠣᠶᠠᠨᠲᠠᠨ</unicode>
+    <transcript>buyantan</transcript>
+    <transcript2>boyandan</transcript2>
+    <cyrillic>буянтан</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠤᠶᠠᠨᠲᠠᠨ</unicode>
+      <cyrillic>буянтан</cyrillic>
+      <definition>〔名〕①有福气的人，有福分的人，贵人；②慈善家，乐善好施者，有德行者，善人.</definition>
+      <page>221</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠶᠠᠨᠲᠠᠨ</unicode>
+      <cyrillic>БУЯНТАН</cyrillic>
+      <definition>добродетель, добродетели.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠶᠠᠨᠲᠠᠨ</unicode>
+      <cyrillic>буянтан</cyrillic>
+      <definition>&lt;хуучирсан&gt;дээдэс, сайн сэтгэлтэн, энэрэнгүй, өглөгч хүн.</definition>
+      <page>113</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>B3797</ref>
+  </related_to>
+</entry>

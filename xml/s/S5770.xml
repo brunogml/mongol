@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5770">
+  <head>
+    <unicode>ᠰᠣᠯᠠᠯᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>sulalaγdaqu</transcript>
+    <transcript2>solalagdago</transcript2>
+    <cyrillic>суллагдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S5768</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠯᠠᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>суллагдах</cyrillic>
+      <definition>〔动〕суллах 的被动态；①〈法〉被释放，获释：гяндангаас ~ 从监狱里被释放；өршөөлөөр ~ 因大赦而获释；②腾出来，被倒空，被用尽.</definition>
+      <page>959</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠯᠠᠯᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>СУЛЛАГДАХ</cyrillic>
+      <definition>суллах-ын үйлдэгд., освобождаться; быть освобождённым; өршөөлөөр суллагдах освободиться по амнистии; суллагдсан боол хуучир. вольноотпущенник. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠯᠠᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>суллагдах</cyrillic>
+      <definition>суллахын үйлдэгдэх хэв; гяндангаас суллагдах; өршөөлөөр суллагдах.</definition>
+      <page>488</page>
+    </entry_item>
+  </entries>
+</entry>

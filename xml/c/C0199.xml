@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0199">
+  <head>
+    <unicode>ᠴᠠᠬᠣᠲᠣᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čaqutunaγulqu</transcript>
+    <transcript2>cagodonagolgo</transcript2>
+    <cyrillic>цахтнуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C0198</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠬᠤᠲᠤᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цахтнуулах</cyrillic>
+      <definition>〔动〕цахтнах 的使动态.</definition>
+      <page>1525</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠬᠣᠲᠣᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦАХТНУУЛАХ</cyrillic>
+      <definition>цахтнах I, II-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цахтнуулах</cyrillic>
+      <definition>Kaus von цахтнах</definition>
+      <page>354</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠬᠤᠲᠤᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цахтнуулах</cyrillic>
+      <definition>цахтнахын үйлдүүлэх хэв.</definition>
+      <page>786</page>
+    </entry_item>
+  </entries>
+</entry>

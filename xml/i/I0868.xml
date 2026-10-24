@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I0868">
+  <head>
+    <unicode>ᠢᠮᠠᠷᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>imeregülkü</transcript>
+    <transcript2>imeregölgö</transcript2>
+    <cyrillic>имрүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>I0867</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠮᠡᠷᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>имрүүлэх</cyrillic>
+      <definition>〔动〕имрэх 的使动态.</definition>
+      <page>615</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠮᠠᠷᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ИМРҮҮЛЭХ</cyrillic>
+      <definition>имрэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠮᠡᠷᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>имрүүлэх</cyrillic>
+      <definition>имрэхийн үйлдүүлэх хэв.</definition>
+      <page>305</page>
+    </entry_item>
+  </entries>
+</entry>

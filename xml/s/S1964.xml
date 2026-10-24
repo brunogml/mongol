@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1964">
+  <head>
+    <unicode>ᠰᠠᠨᠳᠠᠶᠢᠯᠠᠺᠥ</unicode>
+    <transcript>sendeyilekü</transcript>
+    <transcript2>sendeyilegö</transcript2>
+    <cyrillic>сэндийлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1965</ref>
+    <ref>S1963</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠨᠳᠡᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>сэндийлэх</cyrillic>
+      <definition>〔动〕挖空，掏空：доогуур нь ~ 把下面挖空；газар ~ 翻地.</definition>
+      <page>989</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠨᠳᠠᠶᠢᠯᠠᠺᠥ</unicode>
+      <cyrillic>СЭНДИЙЛЭХ</cyrillic>
+      <definition>разрыхлять; подрывать; копаться, ковырять, колупать; доогуур нь сэндийлэх подрывать землю под чем-л. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сэндийлэх,</cyrillic>
+      <definition>сэндлэх unterhöhlen; aufgraben, aufwühlen</definition>
+      <page>211</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠨᠳᠡᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>сэндийлэх</cyrillic>
+      <definition>газрыг ихэд ухаж хөндийлөх; доогуур нь сэндийлэх.</definition>
+      <page>503</page>
+    </entry_item>
+  </entries>
+</entry>

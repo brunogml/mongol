@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0140">
+  <head>
+    <unicode>ᠮᠠᠨᠴᠣᠶᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>mančuyilaγulqu</transcript>
+    <transcript2>mancoyilagolgo</transcript2>
+    <cyrillic>манцуйлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>M0139</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠨᠴᠤᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>манцуйлуулах</cyrillic>
+      <definition>〔动〕мандуйлах 的使动态.</definition>
+      <page>662</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠨᠴᠣᠶᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>МАНЦУЙЛУУЛАХ</cyrillic>
+      <definition>манцуйлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠨᠴᠤᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>манцуйлуулах</cyrillic>
+      <definition>манцуйлахын үйлдүүлэх хэв.</definition>
+      <page>332</page>
+    </entry_item>
+  </entries>
+</entry>

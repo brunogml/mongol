@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T4950">
+  <head>
+    <unicode>ᠳᠠᠷᠴᠢᠯᠵᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>derčilǰegülkü</transcript>
+    <transcript2>dercilcegölgö</transcript2>
+    <cyrillic>дэрчилзүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T4949</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠡᠷᠴᠢᠯᠵᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дэрчилзүүлэх</cyrillic>
+      <definition>〔动〕дэрчилзэх 的使动态.</definition>
+      <page>477</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠷᠴᠢᠯᠵᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ДЭРЧИЛЗҮҮЛЭХ</cyrillic>
+      <definition>дэрчилзэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠷᠴᠢᠯᠵᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дэрчилзүүлэх</cyrillic>
+      <definition>дэрчилзэхийн үйлдүүлэх хэв.</definition>
+      <page>229</page>
+    </entry_item>
+  </entries>
+</entry>

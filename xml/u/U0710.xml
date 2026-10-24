@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U0710">
+  <head>
+    <unicode>ᠣᠭᠣᠳᠣᠩᠲᠣᠬᠣ</unicode>
+    <transcript>oγodongtuqu</transcript>
+    <transcript2>ogodongdogo</transcript2>
+    <cyrillic>оодонтох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U0711</ref>
+    <ref>U0712</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠭᠣᠳᠣᠩᠲᠣᠬᠤ</unicode>
+      <cyrillic>оодонтох</cyrillic>
+      <definition>〔动〕参见 оодогнох.</definition>
+      <page>812</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠭᠣᠳᠣᠩᠲᠣᠬᠣ</unicode>
+      <cyrillic>ООДОНТОХ</cyrillic>
+      <definition>оодогнох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>оодонтох</cyrillic>
+      <definition>= оодогнох</definition>
+      <page>173</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠭᠣᠳᠣᠩᠲᠣᠬᠤ</unicode>
+      <cyrillic>оодонтох</cyrillic>
+      <definition>оодогнох.</definition>
+      <page>420</page>
+    </entry_item>
+  </entries>
+</entry>

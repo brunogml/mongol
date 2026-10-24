@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="U0108">
+  <head>
+    <unicode>ᠣᠨᠠᠭᠣᠯᠢ</unicode>
+    <transcript>unaγuli</transcript>
+    <transcript2>onagoli</transcript2>
+    <cyrillic>унуул</cyrillic>
+  </head><see_also>
+    <ref>U0107</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠨᠠᠭᠣᠯᠢ</unicode>
+      <uighur>unaγoli</uighur>
+      <cyrillic>унуул</cyrillic>
+      <transcript>UNAΓULI</transcript>
+      <page>876</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠨᠠᠭᠣᠯᠢ ᠺᠥᠭᠦᠷᠭᠡ</unicode>
+          <transcript>-- køgyrge</transcript>
+          <definition> Drawbridge.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠨᠠᠭᠣᠯᠢ ᠺᠦᠺᠦᠷᠭᠡ</unicode>
+      <definition>Pont-levi</definition>
+      <page>341</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠨᠠᠭᠤᠯᠢ</unicode>
+      <cyrillic>унуул</cyrillic>
+      <definition>〔名・形〕见 унууль.</definition>
+      <page>1194</page>
+    </entry_item>
+  </entries>
+</entry>

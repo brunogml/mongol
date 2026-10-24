@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0875">
+  <head>
+    <unicode>ᠪᠠᠯᠪᠠᠬᠣ</unicode>
+    <transcript>balbaqu</transcript>
+    <transcript2>balbago</transcript2>
+    <cyrillic>балбах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0876</ref>
+    <ref>B0879</ref>
+    <ref>B0889</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠠᠯᠪᠠᠬᠣ</unicode>
+      <uighur>balbaqu</uighur>
+      <cyrillic>балбах</cyrillic>
+      <transcript>BALBA-</transcript>
+      <definition>v.t. To smash, beat, hit.</definition>
+      <page>79</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠦᠺᠡ ᠪᠡᠷ ᠪᠠᠯᠪᠠᠬᠣ</unicode>
+          <transcript>syke ber --xu</transcript>
+          <definition> To smash with an axe.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠯᠪᠠᠬᠤ</unicode>
+      <cyrillic>балбах</cyrillic>
+      <definition>〔动〕①频频敲打，捶打，擂，硒：сүхээр ~ 用斧（背）打；төмөр ~ 打铁；②不爱惜衣服，磨损衣服，糟践.</definition>
+      <page>122</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠯᠪᠠᠬᠣ</unicode>
+      <cyrillic>БАЛБАХ</cyrillic>
+      <definition>1. 1) стучать, бить, ударять, колотить, выколачивать, дубасить, лупить; сүхээр балбах стучать, бить обухом топора; үүд хаалга балбан гуйланчлан явах стуча в дверь, обивать пороги; хув­цас балбах выколачивать одежду; 2) избивать; үхтэл балбах избить до полусмерти; 2. балбахуй-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠯᠪᠠᠬᠣ</unicode>
+      <cyrillic>БАЛБАХУЙ</cyrillic>
+      <definition>выколачивание; избиение.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠯᠪᠠᠬᠤ</unicode>
+      <cyrillic>балбах</cyrillic>
+      <definition>1. байн байн цохих нүдэх; төмөр балбах; сүхээр балбалаа;2. &lt;шилжсэн&gt;хувцсыг хайрлахгүй үргэлжлэн өмсөн; дээлээ балбаж өмсөх.</definition>
+      <page>70</page>
+    </entry_item>
+  </entries>
+</entry>

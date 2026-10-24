@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2032">
+  <head>
+    <unicode>ᠰᠠᠪᠠᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>sebegenekü</transcript>
+    <transcript2>sebegenegö</transcript2>
+    <cyrillic>сэвгэнэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S2033</ref>
+    <ref>S2031</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠪᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>сэвгэнэх</cyrillic>
+      <definition>〔动〕①轻风吹拂，轻风徐来，微风拂拂；轻拂，飘拂，微微吹动；②勤快，殷勤.</definition>
+      <page>980</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠪᠠᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>СЭВГЭНЭХ</cyrillic>
+      <definition>1. лёгкое дуновение (о ветре); 2. 1) развеваться (о распущенных волосах); 2) двигаться легко, быстро, проворно. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠪᠠᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>СЭВЭГНЭХ</cyrillic>
+      <definition>сэвэлзэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠪᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>сэвэгнэх</cyrillic>
+      <definition>1. юмны салхинд бага зэрэг хөдлөх; үс сэвэгнэх;2. хүч багатайгар салхилах; салхи сэвэгнэх;3. хөнгөн хөдлөх; сэвэгнэсэн хөнгөн хүн байна шүү.</definition>
+      <page>499</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S2030</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y5042">
+  <head>
+    <unicode>ᠶᠥᠩᠺᠡᠯᠵᠡᠺᠥ</unicode>
+    <transcript>yöngkelǰekü</transcript>
+    <transcript2>yönggelcegö</transcript2>
+    <cyrillic>енхөлзөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y5043</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠥᠩᠬᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>енхөлзөх</cyrillic>
+      <definition>〔动〕参见 енхөгнөх.</definition>
+      <page>484</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠥᠩᠺᠡᠯᠵᠡᠺᠥ</unicode>
+      <cyrillic>ЕНХӨЛЗӨХ</cyrillic>
+      <definition>ёнхолзох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠥᠩᠬᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>енхөлзөх</cyrillic>
+      <definition>енхгөр хүний енхөс енхөс хөдлөх.</definition>
+      <page>232</page>
+    </entry_item>
+  </entries>
+</entry>

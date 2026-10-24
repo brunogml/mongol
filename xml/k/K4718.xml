@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4718">
+  <head>
+    <unicode>ᠺᠥᠺᠢᠺᠥᠯᠺᠡ</unicode>
+    <transcript>kökigülge</transcript>
+    <transcript2>gögigölge</transcript2>
+    <cyrillic>хөхүүлэг</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠺᠢᠺᠥᠯᠺᠡ</unicode>
+      <cyrillic>ХӨХҮҮЛЭГ</cyrillic>
+      <definition>II поощрение, награждение. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠬᠥᠭᠦᠯᠭᠡ</unicode>
+      <cyrillic>хөхүүлэг /1</cyrillic>
+      <definition>өвчний хорыг татуулахаар тавих элдэв эм юм.</definition>
+      <page>719</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠬᠢᠭᠦᠯᠭᠡ</unicode>
+      <cyrillic>хөхүүлэг /2</cyrillic>
+      <definition>хөгжөөлөг, урамшуулга.</definition>
+      <page>719</page>
+    </entry_item>
+  </entries>
+</entry>

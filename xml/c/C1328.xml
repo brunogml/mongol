@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1328">
+  <head>
+    <unicode>ᠴᠢᠢᠳᠠᠮᠯᠠᠺᠥ</unicode>
+    <transcript>čiidemlekü</transcript>
+    <transcript2>ciidemlegö</transcript2>
+    <cyrillic>цийдэмлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1329</ref>
+    <ref>C1327</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠢᠳᠡᠮᠯᠡᠬᠦ</unicode>
+      <cyrillic>цийдэмлэх</cyrillic>
+      <definition>〔动〕往水中搀乳使呈淡白色.</definition>
+      <page>1527</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠢᠳᠠᠮᠯᠠᠺᠥ</unicode>
+      <cyrillic>ЦИЙДЭМЛЭХ</cyrillic>
+      <definition>цийдүүлэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цийдэмлэх</cyrillic>
+      <definition>ein Gemisch aus Wasser mit Milch herstellen, Milchwasser herstellen</definition>
+      <page>355</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠢᠳᠡᠮᠯᠡᠬᠦ</unicode>
+      <cyrillic>цийдэмлэх</cyrillic>
+      <definition>цийдэм болгох.</definition>
+      <page>787</page>
+    </entry_item>
+  </entries>
+</entry>

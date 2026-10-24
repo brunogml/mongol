@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6110">
+  <head>
+    <unicode>ᠰᠣᠶᠣᠯᠵᠢᠬᠣ</unicode>
+    <transcript>soyulǰiqu</transcript>
+    <transcript2>soyolcigo</transcript2>
+    <cyrillic>соёлжих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6112</ref>
+    <ref>S6115</ref>
+  </derivatives>
+  <see_also>
+    <ref>S6111</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠶᠣᠯᠵᠢᠬᠤ</unicode>
+      <cyrillic>соёлжих</cyrillic>
+      <definition>〔动〕有文化，文明化，有教化，开化；成为文明人，有教养.</definition>
+      <page>931</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠶᠣᠯᠵᠢᠬᠣ</unicode>
+      <cyrillic>СОЁЛЖИХ</cyrillic>
+      <definition>быть культурным, цивилизованным; цивилизоваться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠶᠣᠯᠵᠢᠬᠣ</unicode>
+      <cyrillic>СОЁЛЖСОН</cyrillic>
+      <definition>цивилизованный; соёлжсон ертөнц цивилизованный мир. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠶᠣᠯᠵᠢᠬᠤ</unicode>
+      <cyrillic>соёлжих</cyrillic>
+      <definition>соёлтой болох.</definition>
+      <page>476</page>
+    </entry_item>
+  </entries>
+</entry>

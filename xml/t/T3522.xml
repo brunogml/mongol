@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3522">
+  <head>
+    <unicode>ᠳᠠᠪᠰᠠᠴᠢᠺᠥ</unicode>
+    <transcript>debsečikü</transcript>
+    <transcript2>debsecigö</transcript2>
+    <cyrillic>дэвсчих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T3523</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠡᠪᠰᠡᠴᠢᠬᠦ</unicode>
+      <cyrillic>дэвсчих</cyrillic>
+      <definition>〔动〕дэвсэх /2 的多次体.</definition>
+      <page>462</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠪᠰᠠᠴᠢᠺᠥ</unicode>
+      <cyrillic>ДЭВСЧИХ</cyrillic>
+      <definition>дэвсэх II-ийн олонтаа., притаптывать, постукивать ногою; дэвсчих бүжиг трепак. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠪᠰᠡᠴᠢᠬᠦ</unicode>
+      <cyrillic>дэвсчих</cyrillic>
+      <definition>байн байн дэвсэх.</definition>
+      <page>221</page>
+    </entry_item>
+  </entries>
+</entry>

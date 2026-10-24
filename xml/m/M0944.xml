@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0944">
+  <head>
+    <unicode>ᠮᠠᠩᠺᠠᠷᠲᠥᠺᠥ</unicode>
+    <transcript>menggertükü</transcript>
+    <transcript2>menggerdögö</transcript2>
+    <cyrillic>мэнгэртэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M0945</ref>
+    <ref>M0943</ref>
+    <ref>M0945a</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠡᠩᠭᠡᠷᠲᠦᠬᠦ</unicode>
+      <cyrillic>мэнгэртэх</cyrillic>
+      <definition>〔动〕参见 мэнгэрлэх.</definition>
+      <page>705</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠩᠺᠠᠷᠲᠥᠺᠥ</unicode>
+      <cyrillic>МЭНГЭРТЭХ</cyrillic>
+      <definition>1) схватить кашель; страдать хроническим кашлем, бронхитом; 2) шилж. нервничать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>мэнгэртэх</cyrillic>
+      <definition>an Bronchitis erkranken</definition>
+      <page>149</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠡᠩᠭᠡᠷᠲᠦᠬᠦ</unicode>
+      <cyrillic>мэнгэртэх</cyrillic>
+      <definition>мэнгэр өвчинтэй болох.</definition>
+      <page>355</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>M0940</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I0860">
+  <head>
+    <unicode>ᠢᠮᠠᠴᠢᠺᠥ</unicode>
+    <transcript>imečikü</transcript>
+    <transcript2>imecigö</transcript2>
+    <cyrillic>имчих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>I0861</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠮᠡᠴᠢᠬᠦ</unicode>
+      <cyrillic>имчих</cyrillic>
+      <definition>〔动〕频频捻搓.</definition>
+      <page>615</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠮᠠᠴᠢᠺᠥ</unicode>
+      <cyrillic>ИМЧИХ</cyrillic>
+      <definition>то и дело сучить; перебирать (пальцами). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠮᠡᠴᠢᠬᠦ</unicode>
+      <cyrillic>имчих</cyrillic>
+      <definition>байн байн имрэх.</definition>
+      <page>305</page>
+    </entry_item>
+  </entries>
+</entry>

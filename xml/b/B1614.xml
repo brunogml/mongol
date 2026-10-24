@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1614">
+  <head>
+    <unicode>ᠪᠠᠷᠵᠢᠢᠯᠭᠠᠬᠣ</unicode>
+    <transcript>barǰiilγaqu</transcript>
+    <transcript2>barciilgago</transcript2>
+    <cyrillic>баржийлгах</cyrillic>
+  </head>
+  <see_also>
+    <ref>B1613</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠷᠵᠢᠢᠯᠭᠠᠬᠤ</unicode>
+      <cyrillic>баржийлгах</cyrillic>
+      <definition>〔动〕баржийх 的使动态.</definition>
+      <page>132</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠷᠵᠢᠢᠯᠭᠠᠬᠣ</unicode>
+      <cyrillic>БАРЖИЙЛГАХ</cyrillic>
+      <definition>баржийх-ийн үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠷᠵᠢᠢᠯᠭᠠᠬᠤ</unicode>
+      <cyrillic>баржийлгах</cyrillic>
+      <definition>баржийхын үйлдүүлэх хэв.</definition>
+      <page>75</page>
+    </entry_item>
+  </entries>
+</entry>

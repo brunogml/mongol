@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T7695">
+  <head>
+    <unicode>ᠳᠣᠷᠠᠺᠢ</unicode>
+    <transcript>duraki</transcript>
+    <transcript2>doragi</transcript2>
+    <cyrillic>дурхи</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠣᠷᠠᠺᠢ</unicode>
+      <uighur>duraki</uighur>
+      <transcript>DURAKI</transcript>
+      <page>275</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠣᠷᠠᠺᠢ ᠵᠥᠭᠡᠢ</unicode>
+          <transcript>-- zøgei</transcript>
+          <definition> Wasp.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠷᠠᠺᠢ ᠵᠦᠭᠡᠢ</unicode>
+      <definition>guêpe.</definition>
+      <page>1885</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠳᠣᠷᠠᠺᠢ</unicode>
+      <uighur>turaki ǰügei</uighur>
+      <definition>n. The ground bee.</definition>
+      <page>1005</page>
+    </entry_item>
+  </entries>
+</entry>

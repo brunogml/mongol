@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q4543">
+  <head>
+    <unicode>ᠬᠣᠭᠣᠷ</unicode>
+    <transcript>qoγur</transcript>
+    <transcript2>gogor</transcript2>
+  </head><see_also>
+    <ref>Q4542</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠭᠣᠷ</unicode>
+      <uighur>qoγur</uighur>
+      <transcript>XOΓUR</transcript>
+      <page>953</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠭᠣᠷ ᠳᠤᠮᠳᠠ</unicode>
+          <transcript>-- dumda</transcript>
+          <definition> Right in the middle; among themselves.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠭᠤᠷ</unicode>
+      <definition>au milien, entre, au centre</definition>
+      <page>886</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠭᠤᠷ ᠳᠤᠮᠳᠠ</unicode>
+          <definition>au milieu, au centre même, entre, entre soi</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

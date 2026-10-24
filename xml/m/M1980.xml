@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1980">
+  <head>
+    <unicode>ᠮᠣᠶᠢᠬᠣᠷᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>moyiqurlaγulqu</transcript>
+    <transcript2>moyigorlagolgo</transcript2>
+    <cyrillic>муйхарлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>M1979</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠤᠢᠬᠤᠷᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>муйхарлуулах</cyrillic>
+      <definition>〔动〕①муйхарлах 的使动态；②意同 муйхарлагдах.</definition>
+      <page>693</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠶᠢᠬᠣᠷᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>МУЙХАРЛУУЛАХ</cyrillic>
+      <definition>муйхарлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠤᠢᠬᠤᠷᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>муйхарлуулах</cyrillic>
+      <definition>1. муйхарлахын үйлдүүлэх хэв;2. муйхарлагдах.</definition>
+      <page>349</page>
+    </entry_item>
+  </entries>
+</entry>

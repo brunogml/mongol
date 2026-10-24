@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3031">
+  <head>
+    <unicode>ᠰᠢᠨᠠᠰᠺᠥ</unicode>
+    <transcript>sineskü</transcript>
+    <transcript2>sinesgö</transcript2>
+    <cyrillic>шинэсэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3028</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠨᠡᠰᠬᠦ</unicode>
+      <cyrillic>шинэсэх</cyrillic>
+      <definition>〔动〕变新，焕然一新，逐日变新，日益完美.</definition>
+      <page>1639</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠨᠠᠰᠺᠥ</unicode>
+      <cyrillic>ШИНЭСЭХ</cyrillic>
+      <definition>становиться новым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шинэсэх</cyrillic>
+      <definition>neu od frisch werden</definition>
+      <page>387</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠨᠡᠰᠬᠦ</unicode>
+      <cyrillic>шинэсэх</cyrillic>
+      <definition>улам шинэ болох.</definition>
+      <page>849</page>
+    </entry_item>
+  </entries>
+</entry>

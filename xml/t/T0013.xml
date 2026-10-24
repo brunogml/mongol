@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0013">
+  <head>
+    <unicode>ᠳᠠᠨ</unicode>
+    <transcript>dan</transcript>
+    <transcript2>dan</transcript2>
+  </head>
+  <derivatives>
+    <ref>T0822</ref>
+  </derivatives>
+  <see_also>
+    <ref>T0012</ref>
+    <ref>T0014</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠨ</unicode>
+      <definition>très, fort, trop, extrêmement; souvent, frèquemment.</definition>
+      <page>1558</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠨ ᠵᠥᠭᠦᠷ᠎ᠡ</unicode>
+          <definition>si, mais si, en cas de; 2 presque toujours</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠨ ~ ᠳᠠᠩ</unicode>
+      <definition>très. fort; 2 entièrement, totalement, tout - à - fait; 3 toujours</definition>
+      <page>1558</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠳᠠᠨ</unicode>
+      <uighur>dan</uighur>
+      <definition>sehr, überaus</definition>
+      <page>264</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠳᠠᠨ</unicode>
+      <uighur>dan</uighur>
+      <definition>Too. Excessive.</definition>
+      <page>1051</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳ᠋ᠠᠨ</unicode>
+      <cyrillic>даан</cyrillic>
+      <definition>хэтэрхий, дэндүү, тун, огоо, нэн, дандаа; даан дэндүү байсан юм!; даан их хөөрөөд байсан; даан болохгүй хэрэг; даан цөөхөн; даан тэгж сурсан хүн.</definition>
+      <page>174</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳ᠋ᠠᠨ</unicode>
+      <cyrillic>дан /3</cyrillic>
+      <definition>багтаамжийн хэмжээ, арван бяцхан дүү; нэг дан цагаан будаа.</definition>
+      <page>187</page>
+    </entry_item>
+  </entries>
+</entry>

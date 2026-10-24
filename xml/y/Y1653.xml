@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1653">
+  <head>
+    <unicode>ᠵᠠᠶᠢᠯᠬᠣ</unicode>
+    <transcript>ǰayilqu</transcript>
+    <transcript2>yayilgo</transcript2>
+    <cyrillic>зайлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1656</ref>
+  </derivatives>
+  <see_also>
+    <ref>Y1645</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠠᠶᠢᠯᠬᠣ</unicode>
+      <uighur>ǰayilqu</uighur>
+      <cyrillic>зайлах</cyrillic>
+      <transcript>ZAIL-</transcript>
+      <definition>[= zailu-] v.t. To rinse, wash out.</definition>
+      <page>1026</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠮᠠ ᠵᠠᠶᠢᠯᠬᠣ</unicode>
+          <transcript>ama --xu</transcript>
+          <definition>To wash or rinse one's mouth.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠤᠭᠤᠯᠭ᠎ᠠ ᠵᠠᠶᠢᠯᠬᠣ</unicode>
+          <transcript>tuγulγ-a --xu</transcript>
+          <definition>To tin.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠠᠶᠢᠯᠬᠤ</unicode>
+      <definition>se rincer la bouche avec de l'eau, laver qc.</definition>
+      <page>2236</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠮᠠᠨ ᠵᠠᠶᠢᠯᠤᠭᠰᠠᠨ ᠤᠰᠤᠨ ᠢ ᠭᠠᠵᠠᠷ ᠎ᠲᠤᠷ ᠤᠭᠤᠷᠬᠤ</unicode>
+          <definition>verser l'eau avec laquelle on a rincé la bouche</definition>
+        </example>
+        <example>
+          <unicode>ᠤᠰᠤᠨ ᠢᠶᠠᠷ ᠵᠠᠶᠢᠯᠬᠤ</unicode>
+          <definition>laver avec de l'eau</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠪᠠ ᠎ᠶᠢ ᠵᠠᠶᠢᠯᠬᠤ</unicode>
+          <definition>laver un vase</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠵᠠᠶᠢᠯᠬᠣ</unicode>
+      <uighur>ǰayilqu</uighur>
+      <definition>ausspülen (den Mund oder ein Gefäss).</definition>
+      <page>291</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠵᠠᠶᠢᠯᠬᠣ</unicode>
+      <uighur>ǰayilqu</uighur>
+      <definition>v.t.To rinse out (a vessel or mouth).</definition>
+      <page>1171</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠶᠢᠯᠬᠣ</unicode>
+      <cyrillic>ЗАЙЛАХ</cyrillic>
+      <definition>I 1. 1) полоскать; сав зайлах мыть посуду, полоскать посуду; усаар зайлах полоскать водой; хоолой зайлах полоскать горло; зайлан угаах полоскать; шүдээ зайлан угаах полоскать и чистить зубы; эм зайлан уух запивать лекарство; бургуйдан зайлах спринцевать, делать спринцевание; 2) лудить; тугалга зайлах лудить (үгчил. лудить оловом); 3) натирать, смазывать; тосоор зайлах / тос түрхэх смазывать маслом; эмээр зайлах / эм түрхэх растирать лекарством; растирание лекарственное; 4) укачиваться; 2. зайлахуй I-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠶᠢᠯᠬᠣ</unicode>
+      <cyrillic>ЗАЙЛАХУЙ</cyrillic>
+      <definition>I 1) полоскание; 2) укачивание.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠢᠯᠬᠤ</unicode>
+      <cyrillic>зайлах /1</cyrillic>
+      <definition>1. юм сэгсэрхийлэн сажин хөдөлгөх; хир буртгийг угааж зайлах;2. сав суулга мэтэд өөр юм түрхэн тогтоох; тугалгаар зайлах; тосоор зайлах; эмээр зайлах;3. бие ширүүн хөдөлснөөс болж гэдсэнд эмгэг олох; гэдэс зайлах.</definition>
+      <page>260</page>
+    </entry_item>
+  </entries>
+</entry>

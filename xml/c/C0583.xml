@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C0583">
+  <head>
+    <unicode>ᠴᠠᠺᠢᠯᠣᠭᠣᠷ</unicode>
+    <transcript>čakiluγur</transcript>
+    <transcript2>cagilogor</transcript2>
+    <cyrillic>цахилуур</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠬᠢᠯᠠᠭᠤᠷ</unicode>
+      <cyrillic>цахилуур</cyrillic>
+      <definition>〔名〕〈电〉电极：~гүй чийдэн 无电极电子管；~ын хоорондох багтаамж 极间电容.</definition>
+      <page>1524</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠺᠢᠯᠣᠭᠣᠷ</unicode>
+      <cyrillic>ЦАХИЛУУР</cyrillic>
+      <definition>бодос. электрод; цахилуургүй чийдэн безэлектродная лампа. </definition>
+      <page>0</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>цахилуур</cyrillic>
+    <definition>Elektrode f</definition>
+    <page>354</page>
+  </entry_item>
+  </entries>
+</entry>

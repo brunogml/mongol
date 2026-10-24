@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A0943">
+  <head>
+    <unicode>ᠠᠭᠣᠵᠢᠮᠲᠬᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>aγuǰimtqaγulqu</transcript>
+    <transcript2>agocimdgagolgo</transcript2>
+    <cyrillic>уужимтгуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>A0942</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠭᠣᠵᠢᠮᠲᠬᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>уужимтгуулах</cyrillic>
+      <definition>〔动〕уужимтгах 的使动态.</definition>
+      <page>1212</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠣᠵᠢᠮᠲᠬᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>УУЖИМТГУУЛАХ</cyrillic>
+      <definition>уужимтгах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠭᠤᠵᠢᠮᠲᠤᠭᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>уужимтгуулах</cyrillic>
+      <definition>уужимтгахын үйлдүүлэх хэв.</definition>
+      <page>605</page>
+    </entry_item>
+  </entries>
+</entry>

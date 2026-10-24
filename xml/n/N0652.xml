@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N0652">
+  <head>
+    <unicode>ᠨᠠᠺᠢᠶᠠᠯᠠᠬᠣ</unicode>
+    <transcript>nakiyalaqu</transcript>
+    <transcript2>nagiyalago</transcript2>
+    <cyrillic>нахиалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>N0653</ref>
+    <ref>N0654</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠠᠬᠢᠶᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>нахиалах</cyrillic>
+      <definition>〔动〕发芽，抽芽，长出嫩叶.</definition>
+      <page>733</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠺᠢᠶᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>НАХИАЛАХ</cyrillic>
+      <definition>начинать расти; распускаться, покрываться почками, почковаться (о деревьях); модод нахиалав деревья распустились. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠠᠬᠢᠶᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>нахиалах</cyrillic>
+      <definition>нахиа нь ургах: хавар мод ургамал нахиалан, жигүүртэн шувууд жиргэхэд.</definition>
+      <page>372</page>
+    </entry_item>
+  </entries>
+</entry>

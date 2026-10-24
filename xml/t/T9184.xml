@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9184">
+  <head>
+    <unicode>ᠲᠥᠺᠳᠥᠯᠵᠠᠺᠥ</unicode>
+    <transcript>tügdülǰekü</transcript>
+    <transcript2>dögdölcegö</transcript2>
+    <cyrillic>түгдэлзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T9185</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠦᠭᠳᠦᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>түгдэлзэх</cyrillic>
+      <definition>〔动〕参见 түгдэгнэх.</definition>
+      <page>1129</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠺᠳᠥᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>ТҮГДЭЛЗЭХ</cyrillic>
+      <definition>түгдгэнэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠦᠭᠳᠦᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>түгдэлзэх</cyrillic>
+      <definition>түгдгэр юмны байн байн хөдлөх.</definition>
+      <page>564</page>
+    </entry_item>
+  </entries>
+</entry>

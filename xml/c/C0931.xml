@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0931">
+  <head>
+    <unicode>ᠴᠠᠪᠳᠠᠺᠷᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>čebdegregülkü</transcript>
+    <transcript2>cebdegregölgö</transcript2>
+    <cyrillic>цэвдэгрүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>C0930</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠪᠳᠡᠭᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>цэвдэгрүүлэх</cyrillic>
+      <definition>〔动〕цэвдэгрэх 的使动态.</definition>
+      <page>1559</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠪᠳᠠᠺᠷᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЦЭВДЭГРҮҮЛЭХ</cyrillic>
+      <definition>цэвдэгрэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠪᠳᠡᠭᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>цэвдэгрүүлэх</cyrillic>
+      <definition>цэвдэгрэхийн үйлдүүлэх хэв.</definition>
+      <page>803</page>
+    </entry_item>
+  </entries>
+</entry>

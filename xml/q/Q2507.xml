@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q2507">
+  <head>
+    <unicode>ᠬᠠᠮᠰᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>qamsuγulqu</transcript>
+    <transcript2>gamsogolgo</transcript2>
+    <cyrillic>хамсуулах</cyrillic>
+  </head><related_to>
+    <ref>Q2506</ref>
+  </related_to><see_also>
+    <ref>Q2478</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠮᠰᠣᠭᠣᠯᠬᠣ</unicode>
+      <uighur>qamsoγulqu</uighur>
+      <cyrillic>хамсуулах</cyrillic>
+      <transcript>XAMSUΓUL-</transcript>
+      <definition>v. caus. of xamsu-.</definition>
+      <page>924</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠮᠰᠣᠭᠣᠯᠤᠨ ᠨᠠᠶᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+          <transcript>--un nairaγulxu</transcript>
+          <definition> To unite, assemble, put into harmony.</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠢᠭᠡᠨ᠎ᠡ ᠬᠠᠮᠰᠣᠭᠣᠯᠬᠣ</unicode>
+          <transcript>nigen-e --xu</transcript>
+          <definition> To unite, gather together.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠮᠰᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хамсуулах</cyrillic>
+      <definition>〔动〕хамсах 的使动态.</definition>
+      <page>1299</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I0329">
+  <head>
+    <unicode>ᠢᠳᠠᠩᠺᠢᠰᠢᠺᠥ</unicode>
+    <transcript>idenggisikü</transcript>
+    <transcript2>idenggisigö</transcript2>
+    <cyrillic>идэнгэших</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠳᠡᠩᠭᠢᠰᠢᠬᠦ</unicode>
+      <cyrillic>идэнгэших</cyrillic>
+      <definition>〔动〕参见 идэнгэртэх.</definition>
+      <page>604</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠳᠠᠩᠺᠢᠰᠢᠺᠥ</unicode>
+      <cyrillic>ИДЭНГЭШИХ</cyrillic>
+      <definition>приходить аппетит. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠳᠡᠩᠭᠡᠰᠢᠬᠦ</unicode>
+      <cyrillic>идэнгэших</cyrillic>
+      <definition>идэнгэ шинж байдал орох.</definition>
+      <page>300</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>I0328</ref>
+  </related_to>
+</entry>

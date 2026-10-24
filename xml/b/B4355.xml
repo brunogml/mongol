@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4355">
+  <head>
+    <unicode> ᠪᠥᠳᠥᠭᠥᠳᠬᠡᠭᠥᠯᠭᠥ</unicode>
+    <transcript>büdügütgegülkü</transcript>
+    <transcript2>bödögödgegölgö</transcript2>
+    <cyrillic>бүдүүтгүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>B4354</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠦᠳᠦᠭᠦᠳᠬᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бүдүүтгүүлэх</cyrillic>
+      <definition>〔动〕бүдүүтгэх 的使动态.</definition>
+      <page>224</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode> ᠪᠥᠳᠥᠭᠥᠳᠬᠡᠭᠥᠯᠭᠥ</unicode>
+      <cyrillic>БҮДҮҮТГҮҮЛЭХ</cyrillic>
+      <definition>бүдүүтгэх-ийн үйл­дүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠦᠳᠦᠭᠦᠳᠬᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бүдүүтгүүлэх</cyrillic>
+      <definition>бүдүүтгэхийн үйлдүүлэх хэв.</definition>
+      <page>115</page>
+    </entry_item>
+  </entries>
+</entry>

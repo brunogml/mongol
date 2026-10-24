@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C2408">
+  <head>
+    <unicode>ᠴᠣ</unicode>
+    <transcript>čo</transcript>
+    <transcript2>co</transcript2>
+    <cyrillic>цоо</cyrillic>
+  </head><see_also>
+    <ref>C2570</ref>
+  
+    <ref>C2409</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠣ</unicode>
+      <uighur>čo</uighur>
+      <transcript>CO</transcript>
+      <definition>See coγu,</definition>
+      <page>193</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠤ ~ ᠴᠤᠭᠤ</unicode>
+      <definition>travers, d'outre en outre</definition>
+      <page>2189</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠤ ᠬᠠᠳᠬᠤᠬᠤ</unicode>
+          <definition>percer à travers</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠤ ᠭᠠᠳᠠᠰᠤ</unicode>
+          <definition>les deux bâtons qui ressemblent à des cornes et qu'on met sur les bancards des charrettes pour contenir la charge. Amyot. Broche de fer, ou corne de mouton ou chèvre que l'on fiche dans la planche d'un char pour l'assujettir au train</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠤ ᠭᠠᠷᠬᠤ</unicode>
+          <definition>passer à travers</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣ</unicode>
+      <cyrillic>ЦОО</cyrillic>
+      <definition>II нэр үгэнд хүч нэмэгдүүлэх сул үг (усилительная частица при именах); совсем, совершенно; цоо шинэ совсем новый; с иголочки.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣ</unicode>
+      <cyrillic>ЦОО</cyrillic>
+      <definition>III : цоо начин шувуу. птица из породы соколов.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣ</unicode>
+      <cyrillic>ЦОО</cyrillic>
+      <definition>IV тө. озеро.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

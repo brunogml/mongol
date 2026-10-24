@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1380">
+  <head>
+    <unicode>ᠱᠠᠮᠰᠢᠬᠣ</unicode>
+    <transcript>šamsiqu</transcript>
+    <transcript2>samsigo</transcript2>
+    <cyrillic>шамших</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1383</ref>
+    <ref>S1385</ref>
+    <ref>S1395</ref>
+  </derivatives>
+  <see_also>
+    <ref>S1379</ref>
+    <ref>S1381</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠱᠠᠮᠰᠢᠬᠣ</unicode>
+      <uighur>šamsiqu</uighur>
+      <cyrillic>шaмших</cyrillic>
+      <transcript>ŠAMSI-</transcript>
+      <definition>v. t. To gulp, swallow, eat up; to embezzle, appropriate.</definition>
+      <page>751</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠦᠮᠦᠨ ᠤ ᠶᠠᠭᠤᠮ᠎ᠠ ᠎ᠶᠢ ᠱᠠᠮᠰᠢᠬᠣ</unicode>
+          <transcript>kymyn y jaγum-aji --xu</transcript>
+          <definition> To appropriate another person’s property.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠱᠠᠮᠰᠢᠬᠤ</unicode>
+      <definition>disperser , éparpiller.</definition>
+      <page>1450</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠮᠰᠢᠬᠤ</unicode>
+      <cyrillic>шамших</cyrillic>
+      <definition>〔动〕①挥霍，浪费；②贪污，盗用，侵吞：улсын хөрөнгийг ~ 贪污（盗用、侵吞、挥霍）国家财产；бусдын юмыг завшин ~ 盗用（侵吞）他人东西；③给…带来损失，使…遭受损失.</definition>
+      <page>1618</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠮᠰᠢᠬᠣ</unicode>
+      <cyrillic>ШАМШИХ</cyrillic>
+      <definition>1) разбрасывать, рассеивать; 2) присваивать, израсходовать, растрачивать, расхищать (чужое); улсын хөрөнгийг шамших расхищать государственную собственность; 3) причинять, наносить ущерб кому-чему-л.; бусдыг шамших причинять ущерб другим. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шамших</cyrillic>
+      <definition>Kaus von шамших</definition>
+      <page>380</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠮᠰᠢᠬᠤ</unicode>
+      <cyrillic>шамших</cyrillic>
+      <definition>юмыг завшин ашиглах, үрж бусниулах; улсын хөрөнгийг шамших; бусдын юмыг завшин шамших; юмыг ашиглан шамших.</definition>
+      <page>836</page>
+    </entry_item>
+  </entries>
+</entry>

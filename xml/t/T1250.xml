@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1250">
+  <head>
+    <unicode>ᠳᠠᠪᠲᠠᠮᠠᠯ</unicode>
+    <transcript>dabtamal</transcript>
+    <transcript2>dabdamal</transcript2>
+    <cyrillic>давтмал</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1240</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠪᠳᠠᠮᠠᠯ</unicode>
+      <definition>aplati, forgé, battu.</definition>
+      <page>1610</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠪᠳᠠᠮᠠᠯ ᠠᠯᠲᠠᠨ</unicode>
+          <definition>fer forgé, battu</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠳᠠᠪᠲᠠᠮᠠᠯ</unicode>
+      <uighur>dabdamal</uighur>
+      <definition>flachgehämmertes Eisen, Kupfer u. s, w</definition>
+      <page>265</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠳᠠᠪᠲᠠᠮᠠᠯ</unicode>
+      <uighur>dabdamal</uighur>
+      <definition>n Sheet-iron. Iron or copper hammered flat</definition>
+      <page>1057</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠪᠲᠠᠮᠠᠯ</unicode>
+      <cyrillic>давтмал</cyrillic>
+      <definition>〔形〕①循环的，反复的：~ хямрал 循环性危机；②煅成的，锤炼成的：~ төмөр 煅铁，熟铁；~ болд 煅钢.</definition>
+      <page>367</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠪᠲᠠᠮᠠᠯ</unicode>
+      <cyrillic>ДАВТМАЛ</cyrillic>
+      <definition>1) кованый (о металле); давтмал сэлэм кованый меч; 2) утрамбованный; давтмал шороо утрамбованная земля. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>давтмал</cyrillic>
+      <definition>Metall geschmiedet, flachgehämmert; Boden gestampft</definition>
+      <page>87</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠪᠲᠠᠮᠠᠯ</unicode>
+      <cyrillic>давтмал</cyrillic>
+      <definition>давтаж хийсэн юм; давтмал төмөр; давтмал газар.</definition>
+      <page>177</page>
+    </entry_item>
+  </entries>
+</entry>

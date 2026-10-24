@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1390">
+  <head>
+    <unicode>ᠱᠠᠮᠰᠢᠬᠳᠠᠯ</unicode>
+    <transcript>šamsiγdal</transcript>
+    <transcript2>samsigdal</transcript2>
+    <cyrillic>шамшигдал</cyrillic>
+  </head>
+  <related_to>
+    <ref>S1393</ref>
+  </related_to>
+  <see_also>
+    <ref>S1389</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠮᠰᠢᠭᠳᠠᠯ</unicode>
+      <cyrillic>шамшигдал</cyrillic>
+      <definition>〔名〕①被贪污的财物，被侵吞的财物，被盗用的财物，赃物；②损耗；浪费，挥霍；◊ үрэгдэл ~ 损耗.</definition>
+      <page>1617</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠮᠰᠢᠬᠳᠠᠯ</unicode>
+      <cyrillic>ШАМШИГДАЛ</cyrillic>
+      <definition>что-либо растраченное, расхищенное, растрата; мотовство. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шамшигдал</cyrillic>
+      <definition>Geld Unterschlagung f</definition>
+      <page>380</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠮᠰᠢᠭᠳᠠᠯ</unicode>
+      <cyrillic>шамшигдал</cyrillic>
+      <definition>шамшигдсан юм;үрэгдэл шамшигдал&lt;хорш&gt;; шамшигдал багатай; шамшигдалгүй.</definition>
+      <page>836</page>
+    </entry_item>
+  </entries>
+</entry>

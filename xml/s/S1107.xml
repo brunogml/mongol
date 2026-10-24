@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1107">
+  <head>
+    <unicode>ᠱᠠᠯᠪᠢᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>šalbiγanaqu</transcript>
+    <transcript2>salbiganago</transcript2>
+    <cyrillic>шалбиганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1108</ref>
+    <ref>S1109</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠯᠪᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>шалбиганах</cyrillic>
+      <definition>〔动〕（薄物）颤动，摇动，频动.</definition>
+      <page>1611</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠯᠪᠢᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ШАЛБИГАНАХ</cyrillic>
+      <definition>идти, двигаться (о ком-чём-л. легком, тонком). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шалбиганах</cyrillic>
+      <definition>= шалбилзах</definition>
+      <page>378</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠯᠪᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>шалбиганах</cyrillic>
+      <definition>шалбигар юмны шалбига шалбига хөдлөх.</definition>
+      <page>832</page>
+    </entry_item>
+  </entries>
+</entry>

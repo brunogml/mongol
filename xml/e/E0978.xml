@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E0978">
+  <head>
+    <unicode>ᠡᠯᠲᠡᠷᠡᠭᠦᠯᠺᠦ</unicode>
+    <transcript>elteregülkü</transcript>
+    <transcript2>elderegölgö</transcript2>
+    <cyrillic>элтрүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>E0977</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠯᠲᠡᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>элтрүүлэх</cyrillic>
+      <definition>〔动〕элэтрэх 的使动态.</definition>
+      <page>1692</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠯᠲᠠᠷᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЭЛТРҮҮЛЭХ</cyrillic>
+      <definition>элтрэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠯᠲᠡᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>элтрүүлэх</cyrillic>
+      <definition>элтрэхийн үйлдүүлэх хэв, элхтэхэд хүрүүлэх.</definition>
+      <page>874</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1641">
+  <head>
+    <unicode>ᠴᠢᠪᠢᠯ</unicode>
+    <transcript>čibil</transcript>
+    <transcript2>cibil</transcript2>
+    <cyrillic>чивэл</cyrillic>
+  </head>
+  <see_also>
+    <ref>C1650</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠢᠪᠢᠯ</unicode>
+      <uighur>čibil</uighur>
+      <cyrillic>чивэл</cyrillic>
+      <transcript>CIBIL</transcript>
+      <definition>n. Sin, vice; bad omen.</definition>
+      <page>174</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠪᠢᠯ ᠨᠢᠭᠦᠯ</unicode>
+          <transcript>-- nigyl</transcript>
+          <definition>Sin..</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠢᠪᠢᠯ</unicode>
+      <definition>1 péché, vice: 
+2 une tache sur le corps: 
+3 signe, mauvais présage</definition>
+      <page>2149</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠪᠢᠯ ᠵᠢᠭᠠᠪᠠ</unicode>
+          <definition>deviner les choses à venir, prédire</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠴᠢᠪᠢᠯ</unicode>
+      <uighur>čibil</uighur>
+      <definition>n. A birthmark.</definition>
+      <page>1309</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠪᠢᠯ</unicode>
+      <cyrillic>ЧИВЭЛ</cyrillic>
+      <definition>I 1) грех, порок; 2) позор.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠪᠢᠯ</unicode>
+      <cyrillic>ЧИВЭЛГҮЙ</cyrillic>
+      <definition>I безгрешный, непорочный.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠪᠢᠯ</unicode>
+      <cyrillic>чивэл</cyrillic>
+      <definition>нүгэл;нүгэл чивэл&lt;хорш&gt;.</definition>
+      <page>816</page>
+    </entry_item>
+  </entries>
+</entry>

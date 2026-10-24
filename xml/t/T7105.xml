@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7105">
+  <head>
+    <unicode>ᠲᠣᠮᠠᠷᠬᠠᠭᠣ</unicode>
+    <transcript>tumarqaγu</transcript>
+    <transcript2>domargago</transcript2>
+    <cyrillic>тумархуу</cyrillic>
+  </head>
+  <see_also>
+    <ref>T7104</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠮᠠᠷᠬᠠᠭᠤ</unicode>
+      <cyrillic>тумархуу</cyrillic>
+      <definition>〔形〕参见 тумархаг.</definition>
+      <page>1112</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠮᠠᠷᠬᠠᠭᠣ</unicode>
+      <cyrillic>ТУМАРХУУ</cyrillic>
+      <definition>тумархаг-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠮᠠᠷᠬᠠᠤ</unicode>
+      <cyrillic>тумархуу</cyrillic>
+      <definition>тумархаг, тунирхуу.</definition>
+      <page>556</page>
+    </entry_item>
+  </entries>
+</entry>

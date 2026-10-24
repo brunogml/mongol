@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1776">
+  <head>
+    <unicode>ᠣᠯᠣᠶᠢᠷᠲᠣᠬᠣ</unicode>
+    <transcript>oluyirtuqu</transcript>
+    <transcript2>oloyirdogo</transcript2>
+    <cyrillic>олойртох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U1777</ref>
+    <ref>U1778</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠯᠣᠢᠷᠲᠣᠬᠤ</unicode>
+      <cyrillic>олойртох</cyrillic>
+      <definition>〔动〕磨出肚带痕.</definition>
+      <page>800</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠯᠣᠶᠢᠷᠲᠣᠬᠣ</unicode>
+      <cyrillic>ОЛОЙРТОХ</cyrillic>
+      <definition>стираться, сбиваться, появляться (о потёртости). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>олойртох</cyrillic>
+      <definition>Pferd sich aufscheuern, wund werden durch Sattelgurt</definition>
+      <page>169</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠯᠣᠢᠷᠲᠤᠬᠤ</unicode>
+      <cyrillic>олойртох</cyrillic>
+      <definition>олойр гарах.</definition>
+      <page>412</page>
+    </entry_item>
+  </entries>
+</entry>

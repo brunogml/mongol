@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1177">
+  <head>
+    <unicode>ᠮᠠᠺᠠᠲᠠᠶᠢᠺᠥ</unicode>
+    <transcript>megeteyikü</transcript>
+    <transcript2>megedeyigö</transcript2>
+    <cyrillic>мээтийх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M1176</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠡᠲᠦᠢᠬᠦ</unicode>
+      <cyrillic>мээтийх</cyrillic>
+      <definition>〔动〕①变弯曲；②变得下巴长，鼻子尖大.</definition>
+      <page>709</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠺᠠᠲᠠᠶᠢᠺᠥ</unicode>
+      <cyrillic>МЭЭТИЙХ</cyrillic>
+      <definition>мэтийх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠡᠭᠡᠲᠡᠢᠬᠦ</unicode>
+      <cyrillic>мээтийх</cyrillic>
+      <definition>мээтгэр болох.</definition>
+      <page>357</page>
+    </entry_item>
+  </entries>
+</entry>

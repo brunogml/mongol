@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q6006">
+  <head>
+    <unicode>ᠬᠣᠮᠣᠭᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>qomuγalǰaqu</transcript>
+    <transcript2>gomogalcago</transcript2>
+    <cyrillic>хомголзох</cyrillic>
+  </head><derivatives>
+    <ref>Q6007</ref>
+  </derivatives><see_also>
+    <ref>Q6023</ref>
+  
+    <ref>Q6005</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠮᠣᠭᠠᠯᠵᠠᠬᠣ</unicode>
+      <uighur>qomoγalǰaqu</uighur>
+      <cyrillic>хомголзох</cyrillic>
+      <transcript>XOMUΓALZA-</transcript>
+      <definition>[= xomuγulza-] v. i. To ask importunately pester somebody with requests, solicit, beg, wheedle; to be greedy, mercenary; to covet; to desire something ardently.</definition>
+      <page>961</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠤᠰᠤᠳ ᠤᠨ ᠺᠥᠷᠦᠩᠭᠡ ᠎ᠳᠦ ᠬᠣᠮᠣᠭᠠᠯᠵᠠᠬᠣ</unicode>
+          <transcript>busud un køryngge dy --xu</transcript>
+          <definition> To covet other people's property.</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠯᠵᠠ ᠠᠰᠢᠭ ᠤᠨ ᠲᠥᠯᠦᠭᠡ ᠬᠣᠮᠣᠭᠠᠯᠵᠠᠬᠣ</unicode>
+          <transcript>olza asiγ un tølyge --xu</transcript>
+          <definition> To be greedy for profit or gain.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠮᠣᠭᠠᠯᠵᠠᠬᠤ ~ ᠬᠣᠮᠣᠭᠣᠯᠭᠠᠬᠤ</unicode>
+      <definition>être intéressé, avide de gain, qc. vivement, ardemment, avec ardeur.</definition>
+      <page>936</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠮᠣᠭᠠᠯᠵᠠᠬᠤᠢ ᠰᠡᠳᠺᠢᠯ ᠎ᠲᠦ</unicode>
+          <definition>avide, intéressé, envieux, insatiable</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠣᠮᠣᠭᠠᠯᠵᠠᠬᠣ</unicode>
+      <uighur>qumoγalǰaqu</uighur>
+      <definition>begierig seyn, mit Begierde verlangen oder erwarten</definition>
+      <page>166</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠣᠮᠣᠭᠠᠯᠵᠠᠬᠣ</unicode>
+      <uighur>qumuγalǰaqu</uighur>
+      <definition>v.i. To be covetous. To wish for something with eager desire or expectation.</definition>
+      <page>653</page>
+      <examples>
+        <example>
+          <uighur>qumuγalǰaqui sedkil</uighur>
+          <definition>An insatiable heart. A covetable mind.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠮᠣᠭᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ХОМГОЛЗОХ</cyrillic>
+      <definition>1. быть жадным, корыстолюбивым; проявлять жадность; домогаться; өнгөлзөн хомголзох зариться на что-л.; 2. хомголзохуй-г үз., хомголзох сэтгэл жадность, корыстолюбие; хомголзох сэтгэлээр из жадности, из корыстолюбия; хомголзох шунал жадность; хомголзон шунахайрах жадничать, проявлять жадность. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠮᠣᠭᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ХОМГОЛЗОХУЙ</cyrillic>
+      <definition>жадность, корыстолюбие; </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

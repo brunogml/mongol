@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B0032">
+  <head>
+    <unicode>ᠪᠠᠨᠳᠠᠬᠣ</unicode>
+    <transcript>bandaqu</transcript>
+    <transcript2>bandago</transcript2>
+    <cyrillic>бантах</cyrillic>
+  </head><derivatives>
+    <ref>B0037</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠨᠲᠤᠬᠤ</unicode>
+      <cyrillic>бантах</cyrillic>
+      <definition>〔动〕发呆，发愣，犯糊涂.</definition>
+      <page>128</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠨᠳᠠᠬᠣ</unicode>
+      <cyrillic>БАНТАХ</cyrillic>
+      <definition>смутиться, растеряться; путаться; тэвдэх-ийг үз.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

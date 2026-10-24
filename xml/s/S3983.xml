@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3983">
+  <head>
+    <unicode>ᠰᠢᠯᠪᠢᠺᠥᠷᠳᠠᠺᠥ</unicode>
+    <transcript>silbigürdekü</transcript>
+    <transcript2>silbigördegö</transcript2>
+    <cyrillic>шилбүүрдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3984</ref>
+    <ref>S3985</ref>
+    <ref>S3982</ref>
+    <ref>S3981</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠯᠪᠢᠭᠦᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>шилбүүрдэх</cyrillic>
+      <definition>〔动〕鞭打.</definition>
+      <page>1633</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠯᠪᠢᠺᠥᠷᠳᠠᠺᠥ</unicode>
+      <cyrillic>ШИЛБҮҮРДЭХ</cyrillic>
+      <definition>бить кнутом, ударить бичом; шилбүүрдэн туух погонять кнутом. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шилбүүрдэх</cyrillic>
+      <definition>schlagen, peitschen</definition>
+      <page>385</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠯᠪᠢᠭᠦᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>шилбүүрдэх</cyrillic>
+      <definition>шилбүүрээр шавхрах; хурга шилбүүрдэн хөөв.</definition>
+      <page>846</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S3979</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y2362">
+  <head>
+    <unicode>ᠶᠡᠷᠥᠩᠺᠡᠶᠢᠳᠡᠺᠥ</unicode>
+    <transcript>yerüngkeyidekü</transcript>
+    <transcript2>yerönggeyidegö</transcript2>
+    <cyrillic>ерөнхийдөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y2364</ref>
+    <ref>Y2361</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠡᠷᠦᠩᠬᠡᠢᠳᠡᠬᠦ</unicode>
+      <cyrillic>ерөнхийдөх</cyrillic>
+      <definition>〔动〕一般化，一律化，笼统化.</definition>
+      <page>485</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠡᠷᠥᠩᠺᠡᠶᠢᠳᠡᠺᠥ</unicode>
+      <cyrillic>ЕРӨНХИЙДӨХ</cyrillic>
+      <definition>становиться, оказываться слишком общим. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠡᠷᠦᠩᠬᠡᠢᠳᠡᠬᠦ</unicode>
+      <cyrillic>ерөнхийдөх</cyrillic>
+      <definition>хэтэрхий ерөнхий болох ерөнхийдвөл бүрхэгдэнэ.</definition>
+      <page>233</page>
+    </entry_item>
+  </entries>
+</entry>

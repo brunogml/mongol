@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4182">
+  <head>
+    <unicode>ᠭᠣᠨᠵᠣᠭᠣᠷ</unicode>
+    <transcript>γunǰuγur</transcript>
+    <transcript2>goncogor</transcript2>
+    <cyrillic>гунзгар</cyrillic>
+  </head>
+  <see_also>
+    <ref>Q4183</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠤᠨᠵᠣᠭᠣᠷ</unicode>
+      <definition>ovale, oblong</definition>
+      <page>1022</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠤᠨᠵᠣᠭᠣᠷ ᠳᠥᠷᠪᠡᠯᠵᠢᠨ</unicode>
+          <definition>quadrilatère oblong</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠭᠣᠨᠵᠣᠭᠣᠷ</unicode>
+      <uighur>γunǰoγor</uighur>
+      <definition>lang, gestreckt.</definition>
+      <page>202</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠭᠣᠨᠵᠣᠭᠣᠷ</unicode>
+      <uighur>γunǰuγur</uighur>
+      <definition>adj. High. Extended (in height).</definition>
+      <page>797</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠤᠨᠵᠤᠭᠤᠷ</unicode>
+      <cyrillic>гунзгар</cyrillic>
+      <definition>〔形〕见 гонзгор.</definition>
+      <page>327</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠨᠵᠣᠭᠣᠷ</unicode>
+      <cyrillic>ГУНЗГАР</cyrillic>
+      <definition>яриа. гонзгор-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠤᠨᠵᠤᠭᠠᠷ</unicode>
+      <cyrillic>гунзгар</cyrillic>
+      <definition>гонзгор.</definition>
+      <page>159</page>
+    </entry_item>
+  </entries>
+</entry>

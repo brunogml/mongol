@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3390">
+  <head>
+    <unicode>ᠰᠢᠭᠣᠷᠭᠠᠯᠠᠬᠣ</unicode>
+    <transcript>siγurγalaqu</transcript>
+    <transcript2>sigorgalago</transcript2>
+    <cyrillic>шуургалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3391</ref>
+    <ref>S3392</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠭᠣᠷᠭᠠᠯᠠᠬᠣ</unicode>
+      <uighur>siγurγalaqu</uighur>
+      <cyrillic>шуургалах</cyrillic>
+      <transcript>SIΓURΓALA-</transcript>
+      <definition>v. i. To rage (of a snowstorm).</definition>
+      <page>701</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠭᠤᠷᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>шуургалах</cyrillic>
+      <definition>〔动〕参见 шуурах /1; 起暴风雪，风雪交加.</definition>
+      <page>1664</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠭᠣᠷᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ШУУРГАЛАХ</cyrillic>
+      <definition>вьюжить, пуржить. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шуургалах</cyrillic>
+      <definition>= шуурах</definition>
+      <page>392</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠭᠤᠷᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>шуургалах</cyrillic>
+      <definition>шуурга болох, шуурах.</definition>
+      <page>861</page>
+    </entry_item>
+  </entries>
+</entry>

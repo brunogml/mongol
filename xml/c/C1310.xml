@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1310">
+  <head>
+    <unicode>ᠴᠠᠷᠴᠠᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>čerčegenekü</transcript>
+    <transcript2>cercegenegö</transcript2>
+    <cyrillic>цэрцэгнэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1309</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠷᠴᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>цэрцэгнэх</cyrillic>
+      <definition>〔动〕软弱无力者频频动作.</definition>
+      <page>1567</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠷᠴᠠᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>ЦЭРЦЭГНЭХ</cyrillic>
+      <definition>постоянно двигаться (о чём-л. тощем, худом). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠷᠴᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>цэрцэгнэх</cyrillic>
+      <definition>цэрцгэр юмны үргэлжлэн хөдлөх.</definition>
+      <page>807</page>
+    </entry_item>
+  </entries>
+</entry>

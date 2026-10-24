@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E1914">
+  <head>
+    <unicode>ᠡᠶᠢᠰᠢᠳᠡᠺᠦ</unicode>
+    <transcript>eyisidekü</transcript>
+    <transcript2>eyisidegö</transcript2>
+    <cyrillic>ийшдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>E1915</ref>
+  </derivatives>
+  <see_also>
+    <ref>I0004</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠶᠢᠰᠢᠳᠠᠺᠥ</unicode>
+      <cyrillic>ИЙШДЭХ</cyrillic>
+      <definition>быть слишком близким к чему-л. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠢᠰᠢᠳᠡᠬᠦ</unicode>
+      <cyrillic>ийшдэх</cyrillic>
+      <definition>хэтэрхий ийш болох.</definition>
+      <page>302</page>
+    </entry_item>
+  </entries>
+</entry>

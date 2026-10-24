@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M2004">
+  <head>
+    <unicode>ᠮᠣᠷᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>muriγulqu</transcript>
+    <transcript2>morigolgo</transcript2>
+    <cyrillic>муриулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>M1999</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠤᠷᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>муриулах</cyrillic>
+      <definition>〔动〕мурих 的使动态.</definition>
+      <page>696</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠷᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>МУРИУЛАХ</cyrillic>
+      <definition>1) мурих-ийн үйлдүүл.; 2) быть отброшенным в сторону (в национальной борьбе). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠤᠷᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>муриулах</cyrillic>
+      <definition>мурихын үйлдүүлэх хэв.</definition>
+      <page>350</page>
+    </entry_item>
+  </entries>
+</entry>

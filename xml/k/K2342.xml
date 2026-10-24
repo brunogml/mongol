@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K2342">
+  <head>
+    <unicode>ᠺᠢᠮᠰᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>kimsaγanaqu</transcript>
+    <transcript2>gimsaganago</transcript2>
+    <cyrillic>хямсганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K2343</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠢᠮᠰᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>хямсганах</cyrillic>
+      <definition>〔动〕хямсайх 的多次体.</definition>
+      <page>1502</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠮᠰᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ХЯМСГАНАХ</cyrillic>
+      <definition>хямсалзах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠢᠮᠰᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>хямсганах</cyrillic>
+      <definition>үргэлжлэн хямсайх.</definition>
+      <page>772</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>K2341</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T2542">
+  <head>
+    <unicode>ᠳᠠᠶᠢᠴᠢᠩ</unicode>
+    <transcript>dayičing</transcript>
+    <transcript2>dayicing</transcript2>
+    <cyrillic>дайчинг</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠠᠶᠢᠴᠢᠩ</unicode>
+      <uighur>dayičing</uighur>
+      <cyrillic>дайчинг</cyrillic>
+      <transcript>DAICING</transcript>
+      <definition>[Ch.ta(i) -ch&apos;ing] The Great Ch&apos;ing or Manchu dynasty, 1644 - 1911,</definition>
+      <page>222</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠶᠢᠴᠢᠩ ᠭᠦᠷᠦᠨ = ᠳᠠᠶᠢᠴᠢᠩ ᠤᠯᠤᠰ</unicode>
+          <transcript>-- gyryn = daicing ulus</transcript>
+        </example>
+        <example>
+          <unicode>ᠳᠠᠶᠢᠴᠢᠩ ᠤᠯᠤᠰ</unicode>
+          <transcript>-- ulus</transcript>
+          <definition> The Chinese empire under the Manchu dynasty.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠶᠢᠴᠢᠩ</unicode>
+      <definition>Tai - tsing (la plus pure), la dynastie mandjou, actuellement régnante en Chine</definition>
+      <page>1556</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠶᠢᠴᠢᠩ ᠤᠯᠤᠰ</unicode>
+          <definition>l&apos;empire chinois sous la dynastie Tai-tshing</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

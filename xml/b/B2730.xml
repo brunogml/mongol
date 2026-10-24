@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B2730">
+  <head>
+    <unicode>ᠪᠣᠭᠣᠯ</unicode>
+    <transcript>buγul</transcript>
+    <transcript2>bogol</transcript2>
+    <cyrillic>бугал</cyrillic>
+  </head><related_to>
+    <ref>B2527</ref>
+  </related_to><see_also>
+    <ref>B2729</ref>
+  
+    <ref>B2731</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠣᠭᠣᠯ</unicode>
+      <uighur>buγul</uighur>
+      <transcript>BUΓUL</transcript>
+      <definition>adj. Deteriorated from dampness.</definition>
+      <page>131</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠣᠭᠣᠯ ᠠᠮᠤ</unicode>
+          <transcript>-- amu </transcript>
+          <definition> Millet spoiled by dampness.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠤᠭᠤᠯ</unicode>
+      <cyrillic>бугал</cyrillic>
+      <definition>〔形〕变质的，受潮的，发霉的.</definition>
+      <page>195</page>
+    </entry_item>
+  </entries>
+</entry>

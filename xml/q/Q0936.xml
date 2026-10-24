@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0936">
+  <head>
+    <unicode>ᠭᠠᠪᠠᠲᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>γabatuγulqu</transcript>
+    <transcript2>gabadogolgo</transcript2>
+    <cyrillic>гавтуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q0935</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠠᠪᠠᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гавтуулах</cyrillic>
+      <definition>〔动〕гавтах 的使动态.</definition>
+      <page>261</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠪᠠᠲᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ГАВТУУЛАХ</cyrillic>
+      <definition>гавтах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гавтуулах</cyrillic>
+      <definition>Kaus von гавтах</definition>
+      <page>71</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠠᠪᠠᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гавтуулах</cyrillic>
+      <definition>гавтахын үйлдүүлэх хэв.</definition>
+      <page>129</page>
+    </entry_item>
+  </entries>
+</entry>

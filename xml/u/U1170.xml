@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1170">
+  <head>
+    <unicode>ᠣᠪᠯᠠᠬᠣ</unicode>
+    <transcript>oblaqu</transcript>
+    <transcript2>oblago</transcript2>
+    <cyrillic>овлох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U1171</ref>
+    <ref>U1172</ref>
+    <ref>U1177</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠪᠯᠠᠬᠣ</unicode>
+      <uighur>oblaqu</uighur>
+      <cyrillic>овлох</cyrillic>
+      <transcript>OBLA-</transcript>
+      <definition>v.i. To play a trick; to feign; to deceive, Pretend, malingen</definition>
+      <page>598</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠪᠡᠳᠴᠢᠨ ᠎ᠲᠡᠢ ᠺᠡᠮᠡᠨ ᠣᠪᠯᠠᠬᠣ</unicode>
+          <transcript>ebedcin tei kemen --xu</transcript>
+          <definition> To malinger, feign sickness</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠪᠯᠠᠬᠤ</unicode>
+      <cyrillic>овлох</cyrillic>
+      <definition>〔动〕施计，使心眼，耍阴谋，欺马扁.</definition>
+      <page>786</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠪᠯᠠᠬᠣ</unicode>
+      <cyrillic>ОВЛОХ</cyrillic>
+      <definition>хитрить, обманывать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>овлох</cyrillic>
+      <definition>betrügen, eine List anwenden, vortäuschen; ɵвчинтэй гэж ~ eine Krankheit vortäuschen</definition>
+      <page>167</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠪᠯᠠᠬᠤ</unicode>
+      <cyrillic>овлох</cyrillic>
+      <definition>ов гаргах, залилах, мэхлэх, хуурах.</definition>
+      <page>405</page>
+    </entry_item>
+  </entries>
+</entry>

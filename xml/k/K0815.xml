@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K0815">
+  <head>
+    <unicode>ᠺᠠᠯᠲᠠᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>keltegenekü</transcript>
+    <transcript2>geldegenegö</transcript2>
+    <cyrillic>хэлтгэнэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K0816</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠯᠲᠠᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>ХЭЛТГЭНЭХ</cyrillic>
+      <definition>часто кривиться, коситься, валиться на бок. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠯᠲᠠᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>ХЭЛТЭГНЭХ</cyrillic>
+      <definition>качаться, покачиваться из стороны в сторону; ширээ хэлтэгнэж байна стол качается. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠯᠲᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>хэлтэгнэх</cyrillic>
+      <definition>юмны хэлтэг хэлтэг хийх; аяганы ширээ хэлтэгнэх.</definition>
+      <page>759</page>
+    </entry_item>
+  </entries>
+</entry>

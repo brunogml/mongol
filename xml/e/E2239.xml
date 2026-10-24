@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E2239">
+  <head>
+    <unicode>ᠡᠷᠲᠡᠲᠭᠡᠺᠦ</unicode>
+    <transcript>ertetgekü</transcript>
+    <transcript2>erdedgegö</transcript2>
+    <cyrillic>эртэтгэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>E2240</ref>
+    <ref>E2238</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠷᠲᠠᠲᠺᠠᠺᠥ</unicode>
+      <cyrillic>эртэтгэх</cyrillic>
+      <definition>〔动〕эрттэх 的使动态.</definition>
+      <page>1710</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠡᠷᠲᠠᠲᠺᠠᠺᠥ</unicode>
+      <cyrillic>ЭРТЭТГЭХ</cyrillic>
+      <definition>эртдэх-ийн үйлдүүл., сделать что-л. раньше, опередить. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠷᠲᠡᠳᠬᠡᠬᠦ</unicode>
+      <cyrillic>эртэтгэх</cyrillic>
+      <definition>эрт болгох, эртдэхэд хүрүүлэх.</definition>
+      <page>885</page>
+    </entry_item>
+  </entries>
+</entry>

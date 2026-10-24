@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1776">
+  <head>
+    <unicode>ᠪᠠᠯᠯᠠᠺᠥ</unicode>
+    <transcript>bellekü</transcript>
+    <transcript2>bellegö</transcript2>
+    <cyrillic>бэллэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B1777</ref>
+  </derivatives>
+  <see_also>
+    <ref>B1745</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠯᠯᠠᠺᠥ</unicode>
+      <cyrillic>БЭЛЛЭХ</cyrillic>
+      <definition>I двигаться по косогору, по склону горы.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠡᠯᠯᠡᠬᠦ</unicode>
+      <cyrillic>бэллэх /1</cyrillic>
+      <definition>уулын бэлээр явах; бэллэж явах.</definition>
+      <page>121</page>
+    </entry_item>
+  </entries>
+</entry>

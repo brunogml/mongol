@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C1545">
+  <head>
+    <unicode>ᠴᠢᠩᠺᠢᠰ</unicode>
+    <transcript>činggis</transcript>
+    <transcript2>cinggis</transcript2>
+    <cyrillic>чингэс</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠢᠩᠺᠢᠰ</unicode>
+      <uighur>činggis</uighur>
+      <cyrillic>чингэс</cyrillic>
+      <transcript>CINGGIS</transcript>
+      <definition>n. p. Chinggis.</definition>
+      <page>190</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠩᠺᠢᠰ ᠬᠠᠭᠠᠨ</unicode>
+          <transcript>-- xaγan</transcript>
+          <definition> Chinggis Khan.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠢᠩᠺᠢᠰ ᠬᠠᠭᠠᠨ</unicode>
+      <definition>Tchingguis-khan, fondateur de la monarchie mongole.</definition>
+      <page>2142</page>
+    </entry_item>
+  </entries>
+</entry>

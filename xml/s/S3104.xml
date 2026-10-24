@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3104">
+  <head>
+    <unicode>ᠰᠢᠨᠳᠠᠰᠣ</unicode>
+    <transcript>sindasu</transcript>
+    <transcript2>sindaso</transcript2>
+    <cyrillic>шандас</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠨᠳᠠᠰᠤ ~ ᠰᠢᠨᠳᠠᠰᠤᠨ</unicode>
+      <uighur>sindasu - sindasun</uighur>
+      <cyrillic>шандас</cyrillic>
+      <transcript>SINDASU(N)</transcript>
+      <definition>n. Nerve, tendon, sinew, vein.</definition>
+      <page>710</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠨᠳᠠᠰᠤ ᠣᠭᠲᠤᠯᠬᠤ</unicode>
+          <transcript>-- oγtulxu </transcript>
+          <definition>To hamstring</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠨᠳᠠᠰᠤᠨ</unicode>
+      <definition>nerfs, tendons, veines</definition>
+      <page>1459</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠰᠢᠨᠳᠠᠰᠣ</unicode>
+      <uighur>sindasu</uighur>
+      <definition>die Nerven, Flechsen</definition>
+      <page>353</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠰᠢᠨᠳᠠᠰᠣ</unicode>
+      <uighur>sindasu</uighur>
+      <definition>n. The nerves. The tendons. The sinews.</definition>
+      <page>1421</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠨᠳᠠᠰᠣ</unicode>
+      <cyrillic>ШАНДАС(АН)</cyrillic>
+      <definition>1) бие.зүй. сухожилие; шандас шөрвөс хам. сухожилия; 2) шилж. выносливость; шандас сайтай выносливый, сильный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шандас[ан]</cyrillic>
+      <definition>1. Anat Sehne f, sehniges Band
+2. übertr Ausdauer f, Zähigkeit f</definition>
+      <page>380</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠨᠳᠠᠰᠤ᠊ᠨ</unicode>
+      <cyrillic>шандас</cyrillic>
+      <definition>1. амьтны шөрмөс;шандас шөрмөс&lt;хорш&gt;;2. булчингийн хүч; шандастай залуу; шандас сайтай бөх; шандастай морь; саваа шандас.</definition>
+      <page>836</page>
+    </entry_item>
+  </entries>
+</entry>

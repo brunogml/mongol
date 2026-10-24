@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1913">
+  <head>
+    <unicode>ᠨᠣᠣᠬᠠᠲᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>nouqatuγulqu</transcript>
+    <transcript2>noogadogolgo</transcript2>
+    <cyrillic>нуухтуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>N1912</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <cyrillic>нуухтуулах</cyrillic>
+      <definition>〔动〕нуухтах 的使动态.</definition>
+      <page>763</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠣᠣᠬᠠᠲᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>НУУХТУУЛАХ</cyrillic>
+      <definition>нуухтах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠤᠤᠬᠠᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нуухтуулах</cyrillic>
+      <definition>нуухтахын үйлдүүлэх хэв.</definition>
+      <page>391</page>
+    </entry_item>
+  </entries>
+</entry>

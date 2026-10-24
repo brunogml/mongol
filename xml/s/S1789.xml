@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1789">
+  <head>
+    <unicode>ᠰᠠᠷᠪᠠᠭᠠᠳᠠᠬᠣ</unicode>
+    <transcript>sarbaγadaqu</transcript>
+    <transcript2>sarbagadago</transcript2>
+    <cyrillic>сарваадах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1790</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠷᠪᠠᠭᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>сарваадах</cyrillic>
+      <definition>〔动〕变新，更新，新生сарваадуудах 的使动态.</definition>
+      <page>917</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠷᠪᠠᠭᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>САРВААДАХ</cyrillic>
+      <definition>яриа. изнемогать, ослабевать, терять силы. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сарваадах</cyrillic>
+      <definition>dial von Kräften kommen, ermatten, erschlaffen</definition>
+      <page>196</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠷᠪᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>сарваадах</cyrillic>
+      <definition>шинэдэх, тулгамдах.</definition>
+      <page>470</page>
+    </entry_item>
+  </entries>
+</entry>

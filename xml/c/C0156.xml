@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0156">
+  <head>
+    <unicode>ᠴᠠᠭᠠᠵᠠᠯᠠᠬᠣ</unicode>
+    <transcript>čaγaǰalaqu</transcript>
+    <transcript2>cagacalago</transcript2>
+    <cyrillic>цаазлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0157</ref>
+    <ref>C0158</ref>
+    <ref>C0161</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠭᠠᠵᠠᠯᠠᠬᠣ</unicode>
+      <uighur>čaγaǰalaqu</uighur>
+      <cyrillic>цаазлах</cyrillic>
+      <transcript>CAΓAZALA-</transcript>
+      <definition>v.t. To prohibit, forbid; to outlaw; to ban; to sentence to death, execute.</definition>
+      <page>159</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠠᠭᠠᠵᠠᠯᠠᠨ ᠬᠣᠷᠢᠭᠯᠠᠬᠤ</unicode>
+          <transcript>--n xoriγlaxu</transcript>
+          <definition> To forbid, ban.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠠᠭᠠᠵᠠᠯᠠ ᠵᠠᠰᠠᠭᠯᠠᠬᠤ</unicode>
+          <transcript>-n zasaγlaxu</transcript>
+          <definition> To punish according to law.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠤᠯᠢ ᠪᠡᠨ ᠴᠠᠭᠠᠵᠠᠯᠠᠬᠤ</unicode>
+          <transcript>xauli berr --xu</transcript>
+          <definition> To prohibit by law; to put to death (obs.),</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠠᠭᠠᠵᠠᠯᠠᠬᠤ</unicode>
+      <definition>ordonner, statuer, décréter: 2 déterminer la punition, infliger une peine: 3 défendre, interdire, prohiber.</definition>
+      <page>2087</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠴᠠᠭᠠᠵᠠᠯᠠᠬᠣ</unicode>
+      <uighur>čaγaǰalaqu</uighur>
+      <definition>einen Befehl, eine Ordonanz oder ein Manifest erlassen</definition>
+      <page>318</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠭᠠᠵᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>цаазлах</cyrillic>
+      <definition>〔动〕①禁止，封禁：мөрийтэй наадмыг ~ 禁止赌博；~н хянах 管制；②〈法〉处死，处决，正法.</definition>
+      <page>1506</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠭᠠᠵᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЦААЗЛАХ</cyrillic>
+      <definition>1) запрещать; воспрещать; мөрийтэй тоглоомыг цаазлах запрещать азартные игры; цаазлан зогсоох / цаазлан хорих запретить; 2) казнить, подвергать смертной казни; цаазлан алах / цаазлан хороох казнить, предать смертной казни; 3) издавать, обнародовать; цаазлан зарлиг буулгах издавать высочайший указ; цаазлан зарлах обнародовать закон, опубликовать указ; 4) налагать взыскание, штраф; цаазлан засаглах наказать по закону; цаазлах мод батог, батога. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цаазлах</cyrillic>
+      <definition>1. verbieten, untersagen; атомын зэвсгийг цаазлан хориглох die Atomwaffen ächten
+2. exekutieren, hinrichten</definition>
+      <page>349</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠭᠠᠵᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>цаазлах</cyrillic>
+      <definition>1. зүй ёс, журам заншилд үл нийлэлцэх зүйлийг хорих, хориглох; мөрийтэй наадмыг цаазлах;2. алах цаазаар аваачих.</definition>
+      <page>775</page>
+    </entry_item>
+  </entries>
+</entry>

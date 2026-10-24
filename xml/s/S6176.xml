@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S6176">
+  <head>
+    <unicode>ᠰᠣᠷᠣᠨᠵᠠ</unicode>
+    <transcript>surunǰa</transcript>
+    <transcript2>soronca</transcript2>
+    <cyrillic>соронз</cyrillic>
+  </head><see_also>
+    <ref>S6149</ref>
+  
+    <ref>S6178</ref>
+  
+    <ref>S6175</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠣᠷᠣᠨᠵᠠ ~ ᠰᠣᠷᠤᠨᠵᠠᠨ</unicode>
+      <uighur>soronǰa - sorunǰan</uighur>
+      <cyrillic>соронз</cyrillic>
+      <transcript>SORUNZA(N)</transcript>
+      <definition>[= sorinzi(n), sorinza(n), sorinca(n), sorunca(n), sorunci(n)] n. Magnet.</definition>
+      <page>730</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠣᠷᠣᠨᠵᠠ ᠭᠦᠷᠦ</unicode>
+          <transcript>—- gyry</transcript>
+          <definition> Lodestone.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠣᠷᠣᠨᠵᠠ ᠲᠤᠶᠢᠯ</unicode>
+          <transcript>-- tuil</transcript>
+          <definition> Magnetic pole.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠣᠷᠣᠨᠵᠠᠨ ᠤ ᠺᠦᠴᠦ</unicode>
+          <transcript>-- ukycy</transcript>
+          <definition> Magnetism.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠠᠺᠢᠯᠭᠠᠨ ᠰᠣᠷᠣᠨᠵᠠ</unicode>
+          <transcript>cakilγan -- </transcript>
+          <definition> Electromagnet.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1945">
+  <head>
+    <unicode>ᠳᠠᠯᠵᠢᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>dalǰiγanaqu</transcript>
+    <transcript2>dalciganago</transcript2>
+    <cyrillic>далжганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1946</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠯᠵᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>далжганах</cyrillic>
+      <definition>〔动〕（歪斜物）频频动弹.</definition>
+      <page>384</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠯᠵᠢᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ДАЛЖГАНАХ</cyrillic>
+      <definition>далжилзах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>далжганах</cyrillic>
+      <definition>= далилзах</definition>
+      <page>90</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠯᠵᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>далжганах</cyrillic>
+      <definition>далжгар юмны далжга далжга хөдлөх.</definition>
+      <page>184</page>
+    </entry_item>
+  </entries>
+</entry>

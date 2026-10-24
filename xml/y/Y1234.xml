@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1234">
+  <head>
+    <unicode>ᠵᠠᠯᠭᠠᠭᠣᠷ</unicode>
+    <transcript>ǰalγaγur</transcript>
+    <transcript2>yalgagor</transcript2>
+    <cyrillic>залгуур</cyrillic>
+  </head>
+  <see_also>
+    <ref>Y1234a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠯᠭᠠᠭᠤᠷ</unicode>
+      <cyrillic>залгуур</cyrillic>
+      <definition>〔名〕〈电〉接合销，转换开关，转换电门：~ хүрд （电话的）拨号盘.</definition>
+      <page>536</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠯᠭᠠᠭᠣᠷ</unicode>
+      <cyrillic>ЗАЛГУУР</cyrillic>
+      <definition>тех. 1. 1) штепсель, розетка, включатель, переключатель, тумблер; залгуур хөл тусг. нога прицепная; залгуур хүрд холбоо. номеронабиратель; 2) продолжение; надставка; 2. штепсельный; залгуураар холбох тех. соединение штепсельное. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>залгуур</cyrillic>
+      <definition>Schalthebel m; El Stecker m; El Steckdose f</definition>
+      <page>116</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠯᠭᠠᠭᠤᠷ</unicode>
+      <cyrillic>залгуур</cyrillic>
+      <definition>залгаж холбоход хэрэглэдэг хэрэгсэл; утасны залгуур; залгуур гэрэл.</definition>
+      <page>262</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0585">
+  <head>
+    <unicode>ᠰᠠᠬᠰᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>saγsalǰaqu</transcript>
+    <transcript2>sagsalcago</transcript2>
+    <cyrillic>сагсалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S0586</ref>
+    <ref>S0587</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠬᠰᠠᠯᠵᠠᠬᠣ</unicode>
+      <uighur>saqsalǰaqu</uighur>
+      <cyrillic>сагсалзах</cyrillic>
+      <transcript>SAΓSALZA-</transcript>
+      <definition>v. i. To sway , move ( of thick arid bushy objects)</definition>
+      <page>658</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠯᠺᠢᠨ ᠳ᠋‍‍ᠤ‍ᠷ ᠰᠠᠬᠰᠠᠯᠵᠠᠬᠣ</unicode>
+          <transcript>salkin dur --xu</transcript>
+          <definition> To sway in the wind.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠭᠰᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>сагсалзах</cyrillic>
+      <definition>〔动〕参见 сагсганах.</definition>
+      <page>895</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠬᠰᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>САГСАЛЗАХ</cyrillic>
+      <definition>сагсганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сагсалзах,</cyrillic>
+      <definition>сагсганах
+1. etw. Zottiges, Zerzaustes sich bewegen, zotteln
+2. angeben, großtun</definition>
+      <page>191</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠭᠰᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>сагсалзах</cyrillic>
+      <definition>сагсгар юмны байн байн сагсас сагсас хийж хөдлөх, сэгсэлзэх; үс нь сагсалзах.</definition>
+      <page>459</page>
+    </entry_item>
+  </entries>
+</entry>

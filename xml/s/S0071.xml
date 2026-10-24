@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0071">
+  <head>
+    <unicode>ᠰᠠᠨᠠᠮᠰᠠᠷᠯᠠᠬᠣ</unicode>
+    <transcript>sanamsarlaqu</transcript>
+    <transcript2>sanamsarlago</transcript2>
+    <cyrillic>санамсарлах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠨᠠᠮᠰᠠᠷᠯᠠᠬᠣ</unicode>
+      <cyrillic>САНАМСАРЛАХ</cyrillic>
+      <definition>думать; помнить; быть осторожным, осмотрительным; остерегаться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>санамсарлах</cyrillic>
+      <definition>nachdenken (über -ыг); sich zurückerinnern (an -ыг)</definition>
+      <page>194</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠨᠠᠮᠰᠠᠷᠯᠠᠬᠤ</unicode>
+      <cyrillic>санамсарлах</cyrillic>
+      <definition>санан сэрж бодох.</definition>
+      <page>468</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S0070</ref>
+  </related_to>
+</entry>

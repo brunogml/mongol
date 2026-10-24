@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T4926">
+  <head>
+    <unicode>ᠲᠠᠷᠮᠠ</unicode>
+    <transcript>term-e</transcript>
+    <transcript2>derm-e</transcript2>
+    <cyrillic>тэрмэ(н)</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠷᠮ᠎ᠡ</unicode>
+      <uighur>term-e</uighur>
+      <cyrillic>тэрмэ(н)</cyrillic>
+      <transcript>TERM-E</transcript>
+      <definition>[T. ther-ma] n. Thin woolen textile, flannel-like fabric; the wooden grate of the walls of a felt tent.</definition>
+      <page>806</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠯᠲᠠᠨ ᠲᠠᠷᠮ᠎ᠡ</unicode>
+          <transcript>altan -- </transcript>
+          <definition> [H.W.] Golden tent.</definition>
+        </example>
+        <example>
+          <unicode>ᠢᠮᠠᠭᠠᠨ ᠤ ᠲᠠᠷᠮ᠎ᠡ</unicode>
+          <transcript>imaγan u -- </transcript>
+          <definition> A textile made from goat's wool.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠡᠷᠮ᠎ᠡ</unicode>
+      <definition>stamade, stamette , étoffe de laine</definition>
+      <page>1774</page>
+      <examples>
+        <example>
+          <unicode>ᠢᠮᠠᠭᠠᠨ ᠤ ᠳᠡᠷᠮ᠎ᠡ</unicode>
+          <definition>un shall en poil de chèvre</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠩᠭᠠᠰᠤᠨ ᠤ ᠳᠡᠷᠮ᠎ᠡ</unicode>
+          <definition>un shall fin à laine ordinaire</definition>
+        </example>
+        <example>
+          <unicode>ᠤᠯᠠᠭᠠᠨ ᠳᠡᠷᠮ᠎ᠡ ᠎ᠶᠢᠨ ᠴᠡᠭᠡᠮᠵᠢ ᠡᠮᠦᠰᠭᠡ</unicode>
+          <definition>mets la jaquette en stamette rouge</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠷᠮᠠ</unicode>
+      <cyrillic>ТЭРМЭ(Н)</cyrillic>
+      <definition>1. тибетское сукно; 2. сделанный из тибетского сукна; тэрмэн дээл дЇли из тибетского сукна. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠷᠮ᠎ᠡ᠊ᠨ</unicode>
+      <cyrillic>тэрмэ(н)</cyrillic>
+      <definition>нэгэн зүйл ноосон бараа;цэмбэ тэрмэ&lt;хорш&gt;; нэг дугуй тэрмэ; тэрмэн дээл.</definition>
+      <page>579</page>
+    </entry_item>
+  </entries>
+</entry>

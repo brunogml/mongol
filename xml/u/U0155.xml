@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U0155">
+  <head>
+    <unicode>ᠣᠨᠢᠰᠬ ᠠ</unicode>
+    <transcript>onisq-a</transcript>
+    <transcript2>onisga</transcript2>
+    <cyrillic>оньсго</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠨᠢᠰᠬᠠ</unicode>
+      <uighur>onisq-a</uighur>
+      <cyrillic>оньсго</cyrillic>
+      <transcript>ONISX-A</transcript>
+      <definition>n. Riddle, enigma, puzzle.</definition>
+      <page>615</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠨᠢᠰᠬ᠎ᠠ ᠲᠠᠶᠢᠯᠬᠤ</unicode>
+          <transcript>-- tailxu</transcript>
+          <definition>To solve a riddle</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠨᠢᠰᠬ᠎ᠠ ᠦᠭᠦᠯᠡᠺᠦ</unicode>
+          <transcript>-- ygyleky</transcript>
+          <definition>To propose a riddle</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠨᠢᠰᠬᠠ</unicode>
+      <definition>énigme; 2 synonyme</definition>
+      <page>343</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠨᠢᠰᠬᠠ ᠥᠭᠦᠯᠡᠺᠦ</unicode>
+          <definition>proposer une énigme.</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠨᠢᠰᠬᠠ ᠳᠠᠶᠢᠯᠬᠤ</unicode>
+          <definition>expliquer, résoudre uneénigme.</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠦᠮᠦᠨ ᠤ ᠣᠨᠢᠰᠬᠠ</unicode>
+          <definition>une énigme au sujet d'un homme, synonyme de l'homme.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠨᠢᠰᠣᠭ᠎ᠠ</unicode>
+      <cyrillic>оньсго</cyrillic>
+      <definition>〔名〕谜，谜语：~ таах 猜谜；~ таалгах 出谜，让猜谜语.</definition>
+      <page>811</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠨᠢᠰᠣᠭ᠎ᠠ</unicode>
+      <cyrillic>оньсго</cyrillic>
+      <definition>таавар, таалга үгс, бусдаар тайлуулах ёгт, битүү утга агуулгатай холбоо үгс; оньсго таалцах; би нэг оньсго хэлье.</definition>
+      <page>419</page>
+    </entry_item>
+  </entries>
+</entry>

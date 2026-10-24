@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T3384a">
+  <head>
+    <transcript>departament</transcript>
+    <transcript2>depardamend</transcript2>
+    <cyrillic>департамент</cyrillic>
+  </head><see_also>
+    <ref>ZT0102</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠡᠫᠠᠷᢐᠠᠮᠧᠨᢐ</unicode>
+      <uighur>deparTamEnT</uighur>
+      <cyrillic>департамент</cyrillic>
+      <transcript>DEPARTAMENT</transcript>
+      <definition>[Thr. R. департамент] n. Department.</definition>
+      <page>252</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠥᠷᠦ ᠎ᠶᠢᠨ ᠳᠡᠫᠠᠷᢐᠠᠮᠧᠨᢐ</unicode>
+          <transcript>tøry jin -- </transcript>
+          <definition> State Department (U.S.).</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

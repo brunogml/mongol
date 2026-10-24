@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A3471">
+  <head>
+    <unicode>ᠠᠺᠲ᠋ᠠ</unicode>
+    <transcript>akta</transcript>
+    <transcript2>agda</transcript2>
+    <cyrillic>акт</cyrillic>
+  </head>
+  <see_also>
+    <ref>A1156</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠺᠳᠠ</unicode>
+      <uighur>akta</uighur>
+      <cyrillic>акт</cyrillic>
+      <transcript>AKTA</transcript>
+      <definition>[R. акт] n. Act, deed, legal document.</definition>
+      <page>26</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠺᠳᠠ ᠭᠠᠷᠭᠠᠬᠤ</unicode>
+          <transcript>-- γarγaxu</transcript>
+          <definition>To draw up or issue an official statement or document.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠮᠨᠡᠯᠭᠡ ᠎ᠶᠢᠨ ᠠᠺᠳᠠ</unicode>
+          <transcript>emnelge jin - -</transcript>
+          <definition>Medical statement or report.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠺᠲ᠋</unicode>
+      <cyrillic>акт</cyrillic>
+      <definition>〔名〕①证书，文据；单据；报告书：эмнэлгийн ~ 医疗证明；чөлөөний ~ 请假证明；бууж өгөх ~ 投降书；~ зохиох журам 证书制定程序；~ыг хүснэгтээр гүйцэлдүүлэх 凭证办理表报手续；②判决书；决议书.</definition>
+      <page>35</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>акт</cyrillic>
+      <definition>Akte f, offizielles Dokument; ~ гаргах eine Akte anfertigen; эмнэлгийн ~ Krankschreibung f</definition>
+      <page>26</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠺᠲ᠋</unicode>
+      <cyrillic>акт</cyrillic>
+      <definition>албан ёсны баримт гэрчилгээ; эмнэлэгийн акт, акт тогтоох, акт гаргах.</definition>
+      <page>28</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1939">
+  <head>
+    <unicode>ᠭᠠᠯᠢᠬᠴᠢᠯᠠᠬᠣ</unicode>
+    <transcript>γaliγčilaqu</transcript>
+    <transcript2>galigcilago</transcript2>
+    <cyrillic>галигчлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q1940</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠠᠯᠢᠭᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>галигчлах</cyrillic>
+      <definition>〔动〕标音标，注音标，注音.</definition>
+      <page>273</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠯᠢᠬᠴᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ГАЛИГЧЛАХ</cyrillic>
+      <definition>галиглах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠠᠯᠢᠭᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>галигчлах</cyrillic>
+      <definition>галиг үсгээр бичих.</definition>
+      <page>135</page>
+    </entry_item>
+  </entries>
+</entry>

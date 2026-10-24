@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I0256">
+  <head>
+    <unicode>ᠢᠰᠢᠺᠠᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>isigelegülkü</transcript>
+    <transcript2>isigelegölgö</transcript2>
+    <cyrillic>ишиглүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>I0255</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠰᠢᠭᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>ишиглүүлэх</cyrillic>
+      <definition>〔动〕ишиглэх 的使动态.</definition>
+      <page>627</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠰᠢᠺᠠᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ИШИГЛҮҮЛЭХ</cyrillic>
+      <definition>ишиглэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠰᠢᠭᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>ишиглүүлэх</cyrillic>
+      <definition>ишиглэхийн үйлдүүлэх хэв; ямаа ишиглүүлэх.</definition>
+      <page>312</page>
+    </entry_item>
+  </entries>
+</entry>

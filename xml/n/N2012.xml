@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N2012">
+  <head>
+    <unicode>ᠨᠣᠭᠣᠭᠠᠵᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>noγuγaǰiγulqu</transcript>
+    <transcript2>nogogacigolgo</transcript2>
+    <cyrillic>ногоожуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>N2011</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠣᠭᠣᠭᠠᠵᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ногоожуулах</cyrillic>
+      <definition>〔动〕ногоожих 的使动态.</definition>
+      <page>743</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠣᠭᠣᠭᠠᠵᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>НОГООЖУУЛАХ</cyrillic>
+      <definition>ногоожих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠣᠭᠣᠭᠠᠵᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ногоожуулах</cyrillic>
+      <definition>ногоожихийн үйлдүүлэх хэв, ногоожуулах, зүлэгжүүлэх.</definition>
+      <page>378</page>
+    </entry_item>
+  </entries>
+</entry>

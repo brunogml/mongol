@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I1025">
+  <head>
+    <unicode>ᠢᠴᠢᠺᠠᠯᠠᠺᠥ</unicode>
+    <transcript>ičigelekü</transcript>
+    <transcript2>icigelegö</transcript2>
+    <cyrillic>ичгээлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>I1026</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠴᠢᠭᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>ичгээлэх</cyrillic>
+      <definition>〔动〕用手指羞人.</definition>
+      <page>626</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠴᠢᠺᠠᠯᠠᠺᠥ</unicode>
+      <cyrillic>ИЧГЭЭЛЭХ</cyrillic>
+      <definition>яриа. ичиглэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠴᠢᠭᠡᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>ичгээлэх</cyrillic>
+      <definition>ичиглэх.</definition>
+      <page>311</page>
+    </entry_item>
+  </entries>
+</entry>

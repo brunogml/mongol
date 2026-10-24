@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K3601">
+  <head>
+    <unicode>ᠺᠥᠪᠺᠡᠺᠡᠨᠡᠺᠥ</unicode>
+    <transcript>köbkegenekü</transcript>
+    <transcript2>göbgegenegö</transcript2>
+    <cyrillic>хөвхөгнөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K3602</ref>
+    <ref>K3600</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠪᠬᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>хөвхөгнөх</cyrillic>
+      <definition>〔动〕参见 хөвхөлзөх.</definition>
+      <page>1386</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠪᠺᠡᠺᠡᠨᠡᠺᠥ</unicode>
+      <cyrillic>ХӨВХӨГНӨХ</cyrillic>
+      <definition>хөвхөлзөх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠪᠬᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>хөвхөгнөх</cyrillic>
+      <definition>1. хөвхгөр юмны хөвхөг хөвхөг хөдлөх;2. зөөлөн хөнгөн нимгэн юмны хөдлөн дээш доош болох.</definition>
+      <page>703</page>
+    </entry_item>
+  </entries>
+</entry>

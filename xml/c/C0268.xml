@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0268">
+  <head>
+    <unicode>ᠴᠠᠪᠠᠣᠷᠠᠬᠣ</unicode>
+    <transcript>čabauraqu</transcript>
+    <transcript2>cabaorago</transcript2>
+    <cyrillic>цавуурах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠪᠠᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>цавуурах</cyrillic>
+      <definition>〔动〕变成浆糊，变成胶；成浆糊状，成胶状.</definition>
+      <page>1509</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠪᠠᠣᠷᠠᠬᠣ</unicode>
+      <cyrillic>ЦАВУУРАХ</cyrillic>
+      <definition>становиться клейким, густым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠪᠠᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>цавуурах</cyrillic>
+      <definition>цавуу болох, цавуу мэт болох.</definition>
+      <page>776</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>C0257</ref>
+  </related_to>
+</entry>

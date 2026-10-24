@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q5500">
+  <head>
+    <unicode>ᠭᠣᠯᠠᠷᠠᠬᠣ</unicode>
+    <transcript>γularaqu</transcript>
+    <transcript2>golarago</transcript2>
+    <cyrillic>гулрах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q5504</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠤᠯᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>гулрах</cyrillic>
+      <definition>〔动〕耗尽，毁坏，破产，零落.</definition>
+      <page>326</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠯᠠᠷᠠᠬᠣ</unicode>
+      <cyrillic>ГУЛРАХ</cyrillic>
+      <definition>терпеть неудачу; разоряться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠤᠯᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>гулрах</cyrillic>
+      <definition>хүний ажил явдал буруутаж гундрах сүйрэх.</definition>
+      <page>158</page>
+    </entry_item>
+  </entries>
+</entry>

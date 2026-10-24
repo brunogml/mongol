@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7739">
+  <head>
+    <unicode>ᠳᠣᠷᠣᠬᠰᠢᠯᠠᠬᠣ</unicode>
+    <transcript>doruγsilaqu</transcript>
+    <transcript2>dorogsilago</transcript2>
+    <cyrillic>дорогшлох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T7740</ref>
+    <ref>T7741</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠣᠷᠣᠬᠰᠢᠯᠠᠬᠣ</unicode>
+      <uighur>doruqsilaqu</uighur>
+      <cyrillic>дорогшлох</cyrillic>
+      <transcript>DORUΓSILA-</transcript>
+      <definition>v.i. To become lower, go down; to decline, fall into decay.</definition>
+      <page>263</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠣᠷᠣᠬᠰᠢᠯᠠᠨ ᠪᠠᠭᠤᠷᠠᠬᠤ</unicode>
+          <transcript>--n baγuraxu</transcript>
+          <definition> To go down, decline, be degraded.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠣᠷᠣᠭᠰᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>дорогшлох</cyrillic>
+      <definition>〔动〕①向下去，下降，降落，降低，减少；降级，贬谪；②（转）衰落，恶化，委靡，衰退.</definition>
+      <page>421</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠷᠣᠬᠰᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ДОРОГШЛОХ</cyrillic>
+      <definition>1) спускаться, снижаться; 2) быть чересчур низким; 3) шилж. приходить в упадок, деградировать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дорогшлох</cyrillic>
+      <definition>= доошлох</definition>
+      <page>96</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠣᠷᠣᠭᠰᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>дорогшлох</cyrillic>
+      <definition>доошлох.</definition>
+      <page>202</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T7737</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1306">
+  <head>
+    <transcript>gektar</transcript>
+    <transcript2>gegdar</transcript2>
+    <cyrillic>гектар</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <cyrillic>гектар</cyrillic>
+      <definition>〔量〕公顷，海克脱.</definition>
+      <page>291</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ГЕКТАР</cyrillic>
+      <definition>гектар; га-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гектар</cyrillic>
+      <definition>(Abk га) Hektar (Abk ha); ~ааc хураах ургац Hektarertrag m</definition>
+      <page>76</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠺᠲ᠋ᠠᠷ</unicode>
+      <cyrillic>гектар</cyrillic>
+      <definition>10000 хавтгай дөрвөлжин метртэй тэнцэх талбайн хэмжээ; га; нэг гектараас 25 центнер тариа авав.</definition>
+      <page>143</page>
+    </entry_item>
+  </entries>
+</entry>

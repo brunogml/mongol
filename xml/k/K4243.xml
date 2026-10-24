@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4243">
+  <head>
+    <unicode>ᠺᠥᠯᠺᠥᠺᠡᠨᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>külkügenegülkü</transcript>
+    <transcript2>gölgögenegölgö</transcript2>
+    <cyrillic>хүлхэгнүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K4242</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠦᠯᠬᠦᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хүлхэгнүүлэх</cyrillic>
+      <definition>〔动〕хүлхэгнэх 的使动态.</definition>
+      <page>1453</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠯᠺᠥᠺᠡᠨᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ХҮЛХЭГНҮҮЛЭХ</cyrillic>
+      <definition>хүлхэгнэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠦᠯᠬᠦᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хүлхэгнүүлэх</cyrillic>
+      <definition>хүлхэгнэхийн үйлдүүлэх хэв.</definition>
+      <page>744</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1122">
+  <head>
+    <unicode>ᠪᠠᠶᠠᠰᠬᠠᠬᠣ</unicode>
+    <transcript>bayasqaqu</transcript>
+    <transcript2>bayasgago</transcript2>
+    <cyrillic>баясгах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B1123</ref>
+    <ref>B1124</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠠᠶᠠᠰᠬᠠᠬᠣ</unicode>
+      <uighur>bayasqaqu</uighur>
+      <cyrillic>баясгах</cyrillic>
+      <transcript>BAJASXA-</transcript>
+      <definition>[v. caus, of bajas-] To cause joy, give pleasure; to make happy.</definition>
+      <page>77</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠡᠳᠺᠢᠯ ᠢ ᠪᠠᠶᠠᠰᠬᠠᠬᠣ</unicode>
+          <transcript>sedkil i --xu</transcript>
+          <definition> To amuse, enjoy, divert oneself.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠠᠶᠠᠰᠬᠠᠬᠤ</unicode>
+      <definition>causer de la joie, réjouir. égayer.</definition>
+      <page>1083</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠠᠶᠠᠰᠬᠠᠬᠤᠢ ᠢᠡᠳᠡᠭᠡᠨ</unicode>
+          <definition>repas copieux, nourriture abondante</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠠᠶᠠᠰᠬᠠᠭᠴᠢ ᠡᠺᠡ</unicode>
+          <definition>Lakchmî, femme de Viçnou</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠠᠶᠠᠰᠬᠠᠭᠴᠢ ᠡᠺᠡ ᠎ᠶᠢᠨ ᠡᠵᠡᠨ</unicode>
+          <definition>Viçnou,; 2 le roi des Chimnous</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠠᠶᠠᠰᠬᠠᠭᠴᠢ ᠰᠠᠷᠠ</unicode>
+          <definition>la lune saisie par Rakhou</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠠᠶᠠᠰᠬᠠᠭᠴᠢ ᠲᠦᠮᠦᠭᠡᠲᠦ</unicode>
+          <definition>l'épithète de Mahêçvara</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠠᠶᠠᠰᠬᠠᠭᠴᠢ ᠎ᠶᠢᠨ ᠳᠠᠶᠢᠰᠤᠨ</unicode>
+          <definition>l'épithète du chef des Rakchasas</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠢᠷᠭᠠᠯ ᠢᠶᠠᠷ ᠰᠡᠳᠺᠢᠯ ᠢ ᠪᠠᠶᠠᠰᠬᠠᠬᠤ</unicode>
+          <definition>se distraire par des plaisirs</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠪᠠᠶᠠᠰᠬᠠᠬᠣ</unicode>
+      <uighur>bayasqaqu</uighur>
+      <definition>Freude machen; Vergnügen erregen.</definition>
+      <page>104</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠪᠠᠶᠠᠰᠬᠠᠬᠣ</unicode>
+      <uighur>bayasqaqu</uighur>
+      <definition>To make glad and happy.</definition>
+      <page>411</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠶᠠᠰᠬᠠᠬᠤ</unicode>
+      <cyrillic>баясгах</cyrillic>
+      <definition>〔动〕баясах 的使动态；使高兴，使欢快：~н инээлгэгч 丑角.</definition>
+      <page>148</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠶᠠᠰᠬᠠᠬᠣ</unicode>
+      <cyrillic>БАЯСГАХ</cyrillic>
+      <definition>баясах-ын үйлдүүл., радовать, веселить, приводить в восторг; эхийгээ баясгах радовать мать.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>баясгах</cyrillic>
+      <definition>1. Kaus von баясах
+2. Freude machen (jmdm. -ыг); ~ хий Chem Lachgas n</definition>
+      <page>50</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠶᠠᠰᠬᠠᠬᠤ</unicode>
+      <cyrillic>баясгах</cyrillic>
+      <definition>баясахын үйлдүүлэх хэв; баясахад хүрдүүлэх.</definition>
+      <page>81</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>B1125</ref>
+  </related_to>
+</entry>

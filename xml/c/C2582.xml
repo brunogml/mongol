@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2582">
+  <head>
+    <unicode>ᠴᠣᠭᠣᠬᠯᠠᠬᠣ</unicode>
+    <transcript>čoγuγlaqu</transcript>
+    <transcript2>cogoglago</transcript2>
+    <cyrillic>цооглох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C2583</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠣᠭᠣᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>цооглох</cyrillic>
+      <definition>〔动〕聚集，群集，拥集.</definition>
+      <page>1534</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠭᠣᠬᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЦООГЛОХ</cyrillic>
+      <definition>собираться, толпиться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цооглох</cyrillic>
+      <definition>an einer Stelle sich [an]häufen, sich [ver]sammeln</definition>
+      <page>357</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠣᠣᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>цооглох</cyrillic>
+      <definition>бөөгнөрөн цугларах; цооглон зогсох; овоорон цооглох.</definition>
+      <page>790</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>C2577</ref>
+  </related_to>
+</entry>

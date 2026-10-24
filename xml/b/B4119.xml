@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B4119">
+  <head>
+    <unicode>ᠪᠣᠷᠺᠢᠷᠠᠬᠣ</unicode>
+    <transcript>burgiraqu</transcript>
+    <transcript2>borgirago</transcript2>
+    <cyrillic>бургирах</cyrillic>
+  </head><derivatives>
+    <ref>B4122</ref>
+  </derivatives><see_also>
+    <ref>B4120</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠣᠷᠺᠢᠷᠠᠬᠣ</unicode>
+      <uighur>burgiraqu</uighur>
+      <cyrillic>бургирах</cyrillic>
+      <transcript>BURGIRA-</transcript>
+      <definition>Same as burgi-,</definition>
+      <page>138</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠲᠠᠭ᠎ᠠ ᠪᠣᠷᠺᠢᠷᠠᠮᠤᠢ</unicode>
+          <transcript>utaγ-a --mui</transcript>
+          <definition> The smoke spreads or curls upward.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠤᠷᠺᠢᠷᠠᠬᠤ</unicode>
+      <definition>s'élever, monter, être dispersé, dissipé, fumer (la fumée, poussière, balle du blé. cendre, .etc.],</definition>
+      <page>1224</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠳᠠᠭ᠎ᠠ ᠪᠤᠷᠺᠢᠷᠠᠬᠤ</unicode>
+          <definition>fumée qui s'élève de quelque façon que ce soit, qui est agitée, qui s'e´tend, qui va de côté et d'autre</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠪᠣᠷᠺᠢᠷᠠᠬᠣ</unicode>
+      <uighur>burkiraqu</uighur>
+      <definition>das Seitwärtstreiben eines starken Rauches</definition>
+      <page>116</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠷᠺᠢᠷᠠᠬᠣ</unicode>
+      <cyrillic>БУРГИРАХ</cyrillic>
+      <definition>подыматься вверх, клубиться (о дыме).</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

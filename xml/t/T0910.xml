@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0910">
+  <head>
+    <unicode>ᠳᠠᠬᠵᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>daqǰiγulqu</transcript>
+    <transcript2>dagcigolgo</transcript2>
+    <cyrillic>дагжуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T0905</ref>
+  </related_to>
+  <see_also>
+    <ref>T0909</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠭᠵᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дагжуулах</cyrillic>
+      <definition>〔动〕дагжих 的使动态.</definition>
+      <page>373</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠬᠵᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДАГЖУУЛАХ</cyrillic>
+      <definition>дагжих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дагжуулах</cyrillic>
+      <definition>Kaus von дагжих</definition>
+      <page>88</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠭᠵᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дагжуулах</cyrillic>
+      <definition>дагжихын үйлдүүлэх хэв.</definition>
+      <page>179</page>
+    </entry_item>
+  </entries>
+</entry>

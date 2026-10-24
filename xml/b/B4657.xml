@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4657">
+  <head>
+    <unicode>ᠪᠥᠺᠠᠳᠠᠶᠢᠷᠠᠺᠥ</unicode>
+    <transcript>bögedeyirekü</transcript>
+    <transcript2>bögedeyiregö</transcript2>
+    <cyrillic>бөөдийрөх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠭᠡᠳᠡᠢᠷᠡᠬᠦ</unicode>
+      <cyrillic>бөөдийрөх</cyrillic>
+      <definition>〔动〕变邋遢，变污秽，讨人厌.</definition>
+      <page>189</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠺᠠᠳᠠᠶᠢᠷᠠᠺᠥ</unicode>
+      <cyrillic>БӨӨДИЙРӨХ</cyrillic>
+      <definition>бөөдийх-ийг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠥᠭᠡᠳᠡᠢᠷᠡᠬᠦ</unicode>
+      <cyrillic>бөөдийрөх</cyrillic>
+      <definition>бөөдий болох.</definition>
+      <page>99</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>B4648</ref>
+  </related_to>
+</entry>

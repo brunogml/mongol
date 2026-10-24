@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5341">
+  <head>
+    <unicode>ᠰᠣᠭᠣᠴᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>suγučiγulqu</transcript>
+    <transcript2>sogocigolgo</transcript2>
+    <cyrillic>сугачуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S5339</ref>
+  </related_to>
+  <see_also>
+    <ref>S5340</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠭᠤᠴᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сугачуулах</cyrillic>
+      <definition>〔动〕сугачих 的使动态.</definition>
+      <page>955</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠭᠣᠴᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>СУГАЧУУЛАХ</cyrillic>
+      <definition>сугачих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сугачуулах</cyrillic>
+      <definition>Kaus von сугачих</definition>
+      <page>204</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠭᠤᠴᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сугачуулах</cyrillic>
+      <definition>сугачихын үйлдүүлэх хэв.</definition>
+      <page>486</page>
+    </entry_item>
+  </entries>
+</entry>

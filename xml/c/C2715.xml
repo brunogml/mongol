@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2715">
+  <head>
+    <unicode>ᠴᠣᠭᠣᠷᠳᠠᠬᠣ</unicode>
+    <transcript>čuγurdaqu</transcript>
+    <transcript2>cogordago</transcript2>
+    <cyrillic>цуурдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C2719</ref>
+    <ref>C2723</ref>
+  </derivatives>
+  <see_also>
+    <ref>C2714</ref>
+    <ref>C2716</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠣᠭᠣᠷᠳᠠᠬᠣ</unicode>
+      <uighur>čuγurdaqu</uighur>
+      <cyrillic>цуурдах</cyrillic>
+      <transcript>CUΓURDA-</transcript>
+      <definition>v.t. To play a cuγur, q. v,</definition>
+      <page>206</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠤᠭᠤᠷᠳᠠᠬᠤ</unicode>
+      <definition>jouer des instruments mongols.</definition>
+      <page>2200</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠣᠬᠤᠷᠳᠠᠬᠤ ᠺᠥᠭᠵᠢᠮ</unicode>
+          <definition>la musique mongole</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠤᠭᠤᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>цуурдах</cyrillic>
+      <definition>〔动〕吹笳，吹胡笳.</definition>
+      <page>1554</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠭᠣᠷᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЦУУРДАХ</cyrillic>
+      <definition>играть на дудке, свирели.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠤᠭᠤᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>цуурдах</cyrillic>
+      <definition>цуур хөгжмөөх хөгжимдөх, цоордох ч гэдэг.</definition>
+      <page>800</page>
+    </entry_item>
+  </entries>
+</entry>

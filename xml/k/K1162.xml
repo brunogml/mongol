@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1162">
+  <head>
+    <unicode>ᠺᠠᠺᠠᠰᠥᠯᠠᠺᠥ</unicode>
+    <transcript>kegesülekü</transcript>
+    <transcript2>gegesölegö</transcript2>
+    <cyrillic>хигээслэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K1163</ref>
+    <ref>K1161</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠠᠺᠠᠰᠥᠯᠠᠺᠥ</unicode>
+      <uighur>kekesülekü</uighur>
+      <cyrillic>хээслэх</cyrillic>
+      <transcript>KEGESYLE-</transcript>
+      <definition>v, t. To furnish with or make spokes.</definition>
+      <page>443</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠭᠡᠰᠦᠯᠡᠬᠦ</unicode>
+      <cyrillic>хигээслэх</cyrillic>
+      <definition>〔动〕做辐条，制辐条.</definition>
+      <page>1335</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠺᠠᠰᠥᠯᠠᠺᠥ</unicode>
+      <cyrillic>ХИГЭЭСЛЭХ</cyrillic>
+      <definition>вставлять спицы (в колёса). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠺᠠᠰᠥᠯᠠᠺᠥ</unicode>
+      <cyrillic>ХЭГЭЭСЛЭХ</cyrillic>
+      <definition>делать спицы. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠬᠡᠰᠦᠯᠡᠬᠦ</unicode>
+      <cyrillic>хигээслэх</cyrillic>
+      <definition>хигээс гаргах, хигээс хийх.</definition>
+      <page>675</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠭᠡᠰᠦᠯᠡᠬᠦ</unicode>
+      <cyrillic>хэгээслэх</cyrillic>
+      <definition>хэгээс гаргах, хэгээс хийх.</definition>
+      <page>755</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>K1160</ref>
+  </related_to>
+</entry>

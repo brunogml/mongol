@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3005">
+  <head>
+    <unicode>ᠴᠣᠯᠴᠢᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>čolčiγanaqu</transcript>
+    <transcript2>colciganago</transcript2>
+    <cyrillic>цолчгонох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C3007</ref>
+    <ref>C3008</ref>
+  </derivatives>
+  <see_also>
+    <ref>C3006</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠣᠯᠴᠢᠭᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>цолчгонох</cyrillic>
+      <definition>〔动〕讨好，巴结，迎合，拍马，摇尾乞怜.</definition>
+      <page>1532</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠯᠴᠢᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЦОЛЧГОНОХ</cyrillic>
+      <definition>быть невнятной (о речи). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цолчгонох</cyrillic>
+      <definition>sich nicht deutlich ausdrücken, unverständlich reden; umg um den heißen Brei herumreden</definition>
+      <page>356</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠣᠯᠴᠣᠭᠣᠨᠠᠬᠤ</unicode>
+      <cyrillic>цолчгонох</cyrillic>
+      <definition>саймсрах зан байдал гаргах, долдгонох.</definition>
+      <page>789</page>
+    </entry_item>
+  </entries>
+</entry>

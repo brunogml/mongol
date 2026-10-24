@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1696">
+  <head>
+    <unicode>ᠰᠠᠷᠠᠶᠢᠬᠣ</unicode>
+    <transcript>sarayiqu</transcript>
+    <transcript2>sarayigo</transcript2>
+    <cyrillic>сарайх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1700</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠷᠠᠢᠬᠤ</unicode>
+      <cyrillic>сарайх</cyrillic>
+      <definition>〔动〕参见 сэрийх.</definition>
+      <page>916</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠷᠠᠶᠢᠬᠣ</unicode>
+      <cyrillic>САРАЙХ</cyrillic>
+      <definition>сэрийх-ийг үз., торчать как вилы или рога; сэрийж сарайх хорш. торчать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сарайх</cyrillic>
+      <definition>= сэрийх</definition>
+      <page>196</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠷᠠᠢᠬᠤ</unicode>
+      <cyrillic>сарайх</cyrillic>
+      <definition>саргар болох, сэрийх; сарайж харагдав;сарайх сэрийх&lt;хорш&gt;.</definition>
+      <page>470</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠷᠠᠢᠬᠤ</unicode>
+      <cyrillic>сарийх</cyrillic>
+      <definition>саригар болох;муруйх сарийх&lt;хорш&gt;.</definition>
+      <page>471</page>
+    </entry_item>
+  </entries>
+</entry>

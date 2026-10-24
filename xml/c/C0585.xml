@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0585">
+  <head>
+    <unicode>ᠴᠠᠺᠢᠯᠭᠠᠨᠲᠣᠬᠣ</unicode>
+    <transcript>čakilγantuqu</transcript>
+    <transcript2>cagilgandogo</transcript2>
+    <cyrillic>цахилгаантах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0586</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠬᠢᠯᠭᠠᠨᠲᠤᠬᠤ</unicode>
+      <cyrillic>цахилгаантах</cyrillic>
+      <definition>〔动〕①〈化〉电泳；②（马）患针眼病.</definition>
+      <page>1524</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠺᠢᠯᠭᠠᠨᠲᠣᠬᠣ</unicode>
+      <cyrillic>ЦАХИЛГААНТАХ</cyrillic>
+      <definition>мал.эмнэл. страдать коростой под веками (скотская болезнь). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠬᠢᠯᠭᠠᠨᠲᠤᠬᠤ</unicode>
+      <cyrillic>цахилгаантах</cyrillic>
+      <definition>морь малд тохиолдох өвчин, нүдний аньсганы дотор мөгөөрс мэт түнтгэр хатуу юм ургана.</definition>
+      <page>786</page>
+    </entry_item>
+  </entries>
+</entry>

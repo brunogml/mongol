@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1340">
+  <head>
+    <unicode>ᠲᠠᠰᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tasiγulqu</transcript>
+    <transcript2>dasigolgo</transcript2>
+    <cyrillic>ташиулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T1331</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ташиулах</cyrillic>
+      <definition>〔动〕таших 的使动态.</definition>
+      <page>1044</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠰᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАШИУЛАХ</cyrillic>
+      <definition>таших I, II-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠰᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАШУУЛАХ</cyrillic>
+      <definition>II таших II-ийн үйлдүүл., позволять себя ударить, хлестать, шлёпнуть; алга ташуулах вызывать аплодисменты. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ташиулах</cyrillic>
+      <definition>ташихын үйлдүүлэх хэв.</definition>
+      <page>529</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ташуулах</cyrillic>
+      <definition>ташихын үйлдүүлэх хэв.</definition>
+      <page>529</page>
+    </entry_item>
+  </entries>
+</entry>

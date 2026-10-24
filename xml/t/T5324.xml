@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5324">
+  <head>
+    <unicode>ᠲᠣᠨᠲᠠᠶᠢᠬᠣ</unicode>
+    <transcript>tuntayiqu</transcript>
+    <transcript2>dondayigo</transcript2>
+    <cyrillic>тунтайх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T5326</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠨᠲᠠᠢᠬᠤ</unicode>
+      <cyrillic>тунтайх</cyrillic>
+      <definition>〔动〕参见 тумбайх.</definition>
+      <page>1114</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠨᠲᠠᠶᠢᠬᠣ</unicode>
+      <cyrillic>ТУНТАЙХ</cyrillic>
+      <definition>тумбайх-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тунтайх</cyrillic>
+      <definition>= тумбайх</definition>
+      <page>239</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠨᠲᠠᠢᠬᠤ</unicode>
+      <cyrillic>тунтайх</cyrillic>
+      <definition>тунтгар болох, тумбайх; цуваа толгой дээгүүрээ нөмрөөд галын хажууд тунтайгаад хэвтэв.</definition>
+      <page>557</page>
+    </entry_item>
+  </entries>
+</entry>

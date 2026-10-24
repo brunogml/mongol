@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q2525">
+  <head>
+    <unicode>ᠬᠠᠮᠲᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>qamtulaγulqu</transcript>
+    <transcript2>gamdolagolgo</transcript2>
+    <cyrillic>хамтлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q2524</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠮᠲᠤᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хамтлуулах</cyrillic>
+      <definition>〔动〕хамтлах 的使动态.</definition>
+      <page>1300</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠮᠲᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХАМТЛУУЛАХ</cyrillic>
+      <definition>хамтлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хамтлуулах</cyrillic>
+      <definition>Kaus von хамтлах</definition>
+      <page>291</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠮᠲᠤᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хамтлуулах</cyrillic>
+      <definition>хамтлахын үйлдүүлэх хэв.</definition>
+      <page>655</page>
+    </entry_item>
+  </entries>
+</entry>

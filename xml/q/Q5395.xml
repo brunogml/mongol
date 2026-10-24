@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q5395">
+  <head>
+    <unicode> ᠬᠣᠳᠬᠣᠯᠠᠬᠣ</unicode>
+    <transcript>qutqulaqu</transcript>
+    <transcript2>godgolago</transcript2>
+    <cyrillic>хутгалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q5396</ref>
+    <ref>Q5398</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode> ᠬᠣᠳᠬᠣᠯᠠᠬᠣ</unicode>
+      <uighur>qudqolaqu</uighur>
+      <cyrillic>хутгалах</cyrillic>
+      <transcript>XUDXULA-</transcript>
+      <definition>v.t. To mix, mingle, stir by beating; to trouble, embarrass, put in disorder</definition>
+      <page>981</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠡᠳᠺᠢᠯ ᠢᠶᠡᠨ ᠬᠣᠳᠬᠣᠯᠠᠬᠣ</unicode>
+          <transcript>sedkil ijen --xu</transcript>
+          <definition> To trouble one's mind or conscience.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠳᠬᠣᠯᠠᠬᠤ</unicode>
+      <definition>mêler, mélanger , mixtionner, remuer en battant: 2 métaph, troubler, embarrasser, mettre en désordre; déranger</definition>
+      <page>920</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠤᠵᠠᠷ ᠪᠤᠷᠳᠠᠭ ᠬᠣᠳᠬᠣᠯᠠᠬᠤ</unicode>
+          <definition>remuer, fouiller les ordures</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠡᠳᠺᠢᠯ ᠢᠶᠡᠨ ᠬᠣᠳᠬᠣᠯᠠᠬᠤ</unicode>
+          <definition>s'inquiéter, se troubler</definition>
+        </example>
+        <example>
+          <unicode>ᠱᠠᠰᠢᠨ ᠢ ᠬᠣᠳᠬᠣᠯᠠᠬᠤ</unicode>
+          <definition>déranger les affaires de l'église, persécuter la religion</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode> ᠬᠣᠳᠬᠣᠯᠠᠬᠣ</unicode>
+      <uighur>qodqolaqu</uighur>
+      <definition>mit dem Quirl zusammen rühren,</definition>
+      <page>174</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode> ᠬᠣᠳᠬᠣᠯᠠᠬᠣ</unicode>
+      <uighur>qudqulaqu</uighur>
+      <definition>v.t. To mix or stir together with a wooden whisk</definition>
+      <page>683</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode> ᠬᠣᠳᠬᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХУТГАЛАХ</cyrillic>
+      <definition>II хутгах-ын олонтаа., 1) беспрестанно мешать, помешивать, от времени до времени мешать; 2) всё время мутить, создавать смуты, раздоры. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хутгалах</cyrillic>
+      <definition>1. mit dem Messer [zu]stechen; хутгалж алах erstechen
+2. vermengen, ständig mischen od rühren</definition>
+      <page>331</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠳᠬᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>хутгалах /1</cyrillic>
+      <definition>байн байн хөршин хутгах.</definition>
+      <page>736</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠢᠲᠤᠭᠠᠯᠠᠬᠤᠬᠤᠲᠠᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>хутгалах /2</cyrillic>
+      <definition>хутга барьж чичих.</definition>
+      <page>736</page>
+    </entry_item>
+  </entries>
+</entry>

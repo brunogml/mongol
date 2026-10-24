@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T6420">
+  <head>
+    <unicode>ᠲᠣᠰᠠᠭᠠᠷᠯᠠᠯ</unicode>
+    <transcript>tusaγarlal</transcript>
+    <transcript2>dosagarlal</transcript2>
+    <cyrillic>тусгаарлал</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠰᠠᠭᠠᠷᠯᠠᠯ</unicode>
+      <cyrillic>тусгаарлал</cyrillic>
+      <definition>〔名〕隔音；绝缘物.</definition>
+      <page>1118</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠰᠠᠭᠠᠷᠯᠠᠯ</unicode>
+      <cyrillic>ТУСГААРЛАЛ</cyrillic>
+      <definition>изолљрование, обособление, выделение, отделение. </definition>
+      <page>0</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>тусгаарлал[т]</cyrillic>
+    <definition>Abtrennung f, Isolierung f</definition>
+    <page>240</page>
+  </entry_item>
+  </entries>
+<related_to><ref>T6413</ref></related_to><derivatives><ref>T6421</ref></derivatives></entry>

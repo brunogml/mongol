@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S7071">
+  <head>
+    <unicode>ᠱᠥᠷᠺᠠᠢ</unicode>
+    <transcript>šürkei</transcript>
+    <transcript2>sörgei</transcript2>
+    <cyrillic>шүрхий</cyrillic>
+  </head>
+  <see_also>
+    <ref>S7070</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠱᠥᠷᠺᠠᠢ</unicode>
+      <uighur>šörkei</uighur>
+      <cyrillic>шүүрхий</cyrillic>
+      <transcript>ŠYRGEI</transcript>
+      <definition>adj. Somewhat raw, not quite cooked</definition>
+      <page>759</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠱᠥᠷᠺᠠᠢ</unicode>
+      <uighur>šürkei</uighur>
+      <definition>adj. Damp.</definition>
+      <page>1512</page>
+      <examples>
+        <example>
+          <uighur>šürkei qaγalγ-a</uighur>
+          <definition>One of the five gates or passes, through which the Mongols were permitted to pass the great wall into China proper. This gate or pass was located between Tatung and Fengchen.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠥᠷᠺᠠᠢ</unicode>
+      <cyrillic>ШҮРХИЙ</cyrillic>
+      <definition>шувуу. чирок (утка). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠦᠷᠬᠡᠢ</unicode>
+      <cyrillic>шүүрхий</cyrillic>
+      <definition>1. мах зэрэг юмны баахан түүхийвтрий нь; шүүрхий мах; шүүрхий мах; шүүрхий хоол;2. &lt;шилжсэн&gt;үг ажлын дутуу дулим; энэ бичсэн зүйл ч шүүрхий л байна л даа.</definition>
+      <page>864</page>
+    </entry_item>
+  </entries>
+</entry>

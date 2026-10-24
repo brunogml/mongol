@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0223">
+  <head>
+    <unicode>ᠴᠠᠬᠳᠠᠭ᠎ᠠ</unicode>
+    <transcript>čaγdaγ-a</transcript>
+    <transcript2>cagdaga</transcript2>
+    <cyrillic>цагдаа</cyrillic>
+  </head>
+  <related_to>
+    <ref>C0081</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠬᠳᠠᠭ᠎ᠠ</unicode>
+      <uighur>čaqdaγ-a</uighur>
+      <cyrillic>цагдаа</cyrillic>
+      <transcript>CAΓDAΓ-A</transcript>
+      <definition>n. Policeman, guard; scout; militia, police; informer, spy (obs.).</definition>
+      <page>159</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠠᠬᠳᠠᠭ᠎ᠠ ᠭᠠᠷᠭᠠᠬᠤ</unicode>
+          <transcript>-- γarγaxu</transcript>
+          <definition> To send out scouts; to set out sentinels.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠠᠬᠳᠠᠭ᠎ᠠ ᠎ᠶᠢᠨ ᠳᠠᠷᠤᠭ᠎ᠠ</unicode>
+          <transcript>-- jin daruγ-a</transcript>
+          <definition> Chief of militia or police.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠠᠬᠳᠠᠭ᠎ᠠ ᠎ᠶᠢᠨ ᠵᠠᠷᠺᠢᠭᠠᠨ </unicode>
+          <transcript>-- jin zakirγan</transcript>
+          <definition> Police administration.</definition>
+        </example>
+        <example>
+          <unicode>ᠶᠠᠪᠠᠭᠠᠨ ᠴᠠᠬᠳᠠᠭ᠎ᠠ</unicode>
+          <transcript>jabaγan - -</transcript>
+          <definition> Foot police.</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠣᠷᠢᠲᠤ ᠴᠠᠬᠳᠠᠭ᠎ᠠ</unicode>
+          <transcript>moritu --</transcript>
+          <definition> Mounted police.</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠢ ᠎ᠶᠢᠨ ᠴᠠᠬᠳᠠᠭ᠎ᠠ</unicode>
+          <transcript>oi jin -- </transcript>
+          <definition>Forest ranger</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠠᠬᠳᠠᠭ᠎ᠠ</unicode>
+      <definition>surveillance, inspection</definition>
+      <page>2110</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠭᠳᠠᠭ᠎ᠠ</unicode>
+      <cyrillic>цагдаа</cyrillic>
+      <definition>〔名〕①警察：галт тэрэгний ~ 火车乘警；хилийн ~ 边防警察；~гийн газар 警察局；~гийн ерөнхий газар 警察总局；~гийн бүхээг 警亭；②看守人，守护者：ойн ~ 森林看守人.</definition>
+      <page>1513</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠬᠳᠠᠭ᠎ᠠ</unicode>
+      <cyrillic>ЦАГДАА</cyrillic>
+      <definition>1) полиция; морьт цагдаа конная полиция; 2) полицейский; харгис цагдаа жандарм, жандармерия; полицай; 3) милиционер; 4) милиция; 5) хуучир. стражник; ойн цагдаа лесничий; лесной объездчик. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠬᠳᠠᠭ᠎ᠠ</unicode>
+      <cyrillic>ЦАГДААГИЙН</cyrillic>
+      <definition>цагдаа(г)-ийн харьяал., 1) полицейский; цагдаагийн газар а) полиция (учреждение); б) милиция (учреждение); 2) милицейский (участок). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цагдаа[э]</cyrillic>
+      <definition>Polizei f; Polizist m; ~гийн газар Polizeidienststelle f, Polizeirevier n; замын ~ Verkehrspolizei f; ойн ~ Forstaufseher m, Waldhüter m; харгис ~гийн улс Polizeistaat m</definition>
+      <page>351</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠭᠳᠠᠭ᠎ᠠ᠊ᠨ</unicode>
+      <cyrillic>цагдаа</cyrillic>
+      <definition>1. цагдан сэргийлэх газрын албаны сэргийлэгч; уурын тэрэгний цагдаа; нэг цагдаагаар зам заалгаж явав;2. манах, хянах,байцаах зэрэг хэргийг гүйцэтгэх үүрэг бүхий хүн; хилийн цагдаа; ойн цагдаа.</definition>
+      <page>779</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0973">
+  <head>
+    <unicode>ᠪᠠᠮᠪᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>bambaγanaγulqu</transcript>
+    <transcript2>bambaganagolgo</transcript2>
+    <cyrillic>бамбагануулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B0971</ref>
+  </related_to>
+  <variants>
+    <variant type="cyrillic">бамбагнуулах</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠮᠪᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бамбагануулах</cyrillic>
+      <definition>〔动〕бамбаганах 的使动态.</definition>
+      <page>125</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠮᠪᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БАМБАГАНУУЛАХ</cyrillic>
+      <definition>бамбаганах-ын үйл­дүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠮᠪᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бамбагнуулах</cyrillic>
+      <definition>〔动〕бамбагнах 的使动态.</definition>
+      <page>125</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠮᠪᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бамбагануулах</cyrillic>
+      <definition>бамбаганахын үйлдүүлэх хэв.</definition>
+      <page>72</page>
+    </entry_item>
+  </entries>
+</entry>

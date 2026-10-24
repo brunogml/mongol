@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7049">
+  <head>
+    <unicode>ᠳᠣᠯᠳᠣᠶᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>dolduyilaγulqu</transcript>
+    <transcript2>doldoyilagolgo</transcript2>
+    <cyrillic>долдойлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T7048</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠣᠯᠳᠣᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>долдойлуулах</cyrillic>
+      <definition>〔动〕долдойлох 的使动态.</definition>
+      <page>412</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠯᠳᠣᠶᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДОЛДОЙЛУУЛАХ</cyrillic>
+      <definition>долдойлох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠣᠯᠳᠤᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>долдойлуулах</cyrillic>
+      <definition>долдойлохын үйлдүүлэх хэв.</definition>
+      <page>197</page>
+    </entry_item>
+  </entries>
+</entry>

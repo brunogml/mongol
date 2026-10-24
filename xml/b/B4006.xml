@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4006">
+  <head>
+    <unicode>ᠪᠣᠷᠭᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>borγuγulqu</transcript>
+    <transcript2>borgogolgo</transcript2>
+    <cyrillic>боргуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B4004</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠣᠷᠭᠣᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>боргуулах</cyrillic>
+      <definition>〔动〕боргох 的使动态.</definition>
+      <page>176</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠷᠭᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БОРГУУЛАХ</cyrillic>
+      <definition>боргох-ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠣᠷᠭᠣᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>боргуулах</cyrillic>
+      <definition>1. боргохын үйлдүүлэх хэв;2. боргоогдох.</definition>
+      <page>93</page>
+    </entry_item>
+  </entries>
+</entry>

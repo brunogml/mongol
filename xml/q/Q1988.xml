@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q1988">
+  <head>
+    <unicode>ᠬᠠᠯᠢᠶᠠᠲᠣᠯ</unicode>
+    <transcript>qaliyatul</transcript>
+    <transcript2>galiyadol</transcript2>
+    <cyrillic>халиатал</cyrillic>
+  </head><see_also>
+    <ref>Q1989</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠯᠢᠶᠠᠳᠣᠯ</unicode>
+      <definition>congélation sur la superficie</definition>
+      <page>794</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠰᠤᠨ ᠤ ᠬᠠᠯᠢᠶᠠᠳᠣᠯ</unicode>
+          <definition>congélation de l'eau</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠯᠢᠶᠠᠲᠣᠯ</unicode>
+      <cyrillic>ХАЛИАТАЛ</cyrillic>
+      <definition>образование наледи. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

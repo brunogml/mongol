@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q6029">
+  <head>
+    <unicode>ᠬᠣᠮᠣᠭᠣᠷᠳᠠᠬᠣ</unicode>
+    <transcript>qomuγurdaqu</transcript>
+    <transcript2>gomogordago</transcript2>
+    <cyrillic>хомгордох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q6030</ref>
+    <ref>Q6031</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠣᠮᠣᠭᠣᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>хомгордох</cyrillic>
+      <definition>〔动〕口变窄，口变紧.</definition>
+      <page>1359</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠮᠣᠭᠣᠷᠳᠠᠬᠣ</unicode>
+      <cyrillic>ХОМГОРДОХ</cyrillic>
+      <definition>появляться, образоваться (об отверстии с очень суженными краями). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хомгордох</cyrillic>
+      <definition>= хомбогордох</definition>
+      <page>309</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠮᠣᠭᠣᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>хомгордох</cyrillic>
+      <definition>дэндүү хомгор болгох.</definition>
+      <page>688</page>
+    </entry_item>
+  </entries>
+</entry>

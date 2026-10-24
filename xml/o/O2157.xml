@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="O2157">
+  <head>
+    <unicode>ᠥᠷᠺᠠ</unicode>
+    <transcript>örge</transcript>
+    <transcript2>örge</transcript2>
+  </head><see_also>
+    <ref>O2158</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠥᠷᠺᠠ</unicode>
+      <uighur>örke</uighur>
+      <transcript>ØRGE</transcript>
+      <definition>Same as ørgyge</definition>
+      <page>640</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠦᠷᠺᠡ</unicode>
+      <definition>tente, pavillon.</definition>
+      <page>590</page>
+      <examples>
+        <example>
+          <unicode>ᠦᠷᠺᠡ ᠪᠠᠷᠢᠬᠤ</unicode>
+          <definition>dresser la tente, le pavillon</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

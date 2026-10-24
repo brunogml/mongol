@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0965">
+  <head>
+    <unicode>ᠬᠠᠪᠢᠰᠣ</unicode>
+    <transcript>qabisu</transcript>
+    <transcript2>gabiso</transcript2>
+    <cyrillic>хавьс</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠪᠢᠰᠤ ~ ᠬᠠᠪᠢᠰᠤᠨ</unicode>
+      <uighur>qabisu - qabisun</uighur>
+      <cyrillic>хавис(ан)</cyrillic>
+      <transcript>XABISU(N)</transcript>
+      <definition>n. Rib; trimming or metal plates on the bottom of a cost of mail; uterus, womb.</definition>
+      <page>898</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠪᠢᠰᠤᠨ ᠰᠠᠷ᠎ᠠ</unicode>
+          <transcript>--n sar-a</transcript>
+          <definition>Crescent.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠣᠭᠤᠨᠢ ᠬᠠᠪᠢᠰᠤ</unicode>
+          <transcript>boγuni --</transcript>
+          <definition>Upper short ribs.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠦᠪᠡᠭᠡ ᠬᠠᠪᠢᠰᠤ</unicode>
+          <transcript>sybege --</transcript>
+          <definition>Lower short ribs.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠪᠢᠰᠤ ~ ᠬᠠᠪᠢᠰᠤᠨ</unicode>
+      <definition>côte inférieure: 2 garniture ou plaques sur le bord d'une cotte de mailles</definition>
+      <page>752</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠭᠤᠯᠠ ᠎ᠶᠢᠨ ᠬᠠᠪᠢᠰᠤᠨ</unicode>
+          <definition>le penchant d'une montagne</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠤᠭᠤᠨᠢ ᠬᠠᠪᠢᠰᠤᠨ</unicode>
+          <definition>les petites côtes qui sont près de la poitrine</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠦᠪᠡᠭᠡ ᠬᠠᠪᠢᠰᠤᠨ</unicode>
+          <definition>côtes qui sont près des reins et qui sont courtes</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠠᠪᠢᠰᠣ</unicode>
+      <uighur>qabisun</uighur>
+      <definition>die Rippen</definition>
+      <page>129</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠠᠪᠢᠰᠣ</unicode>
+      <uighur>qabisun</uighur>
+      <definition>n. The ribs</definition>
+      <page>511</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠪᠢᠰᠣ</unicode>
+      <cyrillic>ХАВЬС(АН)</cyrillic>
+      <definition>1) ребро, рёбра; сүвээ хавьс короткие рёбра; урт хавьс длинные рёбра; хавирга I-ыг үз., 2) спицы, пластинки; дэвүүрийн хавьс спицы веера; хуягийн хальс пластинки на панцире; 3) кромка, оторочка, складки на одежде (лам); жанчны хавьс складки на одежде лам; † хавьсан сар новая луна, молодой месяц, узкий серп луны.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠪᠢᠰᠤ᠊ᠨ</unicode>
+      <cyrillic>хавьс</cyrillic>
+      <definition>1. хавирга; богино хавьс;2. ялтас, хайрс; хуягийн хавьс; жанчны хавьс.</definition>
+      <page>637</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>Q0966</ref>
+    <ref>Q0967</ref>
+    <ref>Q0968</ref>
+  </derivatives>
+</entry>

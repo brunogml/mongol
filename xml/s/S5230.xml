@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5230">
+  <head>
+    <unicode>ᠰᠣᠭᠣᠪᠢᠴᠢᠯᠠᠬᠣ</unicode>
+    <transcript>suγubičilaqu</transcript>
+    <transcript2>sogobicilago</transcript2>
+    <cyrillic>суувчлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5231</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠭᠤᠪᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>суувчлах</cyrillic>
+      <definition>〔动〕参见 сугавчлах.</definition>
+      <page>966</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠭᠣᠪᠢᠴᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>СУУВЧЛАХ</cyrillic>
+      <definition>сугавчлах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠭᠤᠪᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>суувчлах</cyrillic>
+      <definition>сугавчлах.</definition>
+      <page>492</page>
+    </entry_item>
+  </entries>
+</entry>

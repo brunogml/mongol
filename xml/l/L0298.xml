@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="L0298">
+  <head>
+    <transcript>liter</transcript>
+    <transcript2>lider</transcript2>
+    <cyrillic>литер</cyrillic>
+  </head>
+  <see_also>
+    <ref>L0297</ref>
+    <ref>L0298a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ЛИТЕР</cyrillic>
+      <definition>1. литер; цэргийн литер военный литер; литер бичүүлэх выписать литер; онгоцоор явах литер бичүүлэх выписать литер на самолёт; 2. литерный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>литер</cyrillic>
+      <definition>Freifahrtschein m</definition>
+      <page>139</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠯᠢᠲ᠋ᠧᠷ</unicode>
+      <cyrillic>литер</cyrillic>
+      <definition>уналга хөсгөөр үнэ төлбөргүй буюу хөнгөлттэй үнээр зорчин явах бичиг; онгоцоор явах литер бичүүлэх.</definition>
+      <page>321</page>
+    </entry_item>
+  </entries>
+</entry>

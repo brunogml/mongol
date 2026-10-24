@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S3670">
+  <head>
+    <unicode>ᠰᠢᠪᠵᠢᠲᠥ</unicode>
+    <transcript>sibǰitü</transcript>
+    <transcript2>sibcidö</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠪᠵᠢᠲᠥ</unicode>
+      <uighur>sibǰidü</uighur>
+      <transcript>SIBZITY</transcript>
+      <definition>ad]. Having small print or writing.</definition>
+      <page>697</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠪᠵᠢᠲᠥ ᠲᠠᠶᠢᠯᠪᠤᠷᠢ</unicode>
+          <transcript>-- tailburi</transcript>
+          <definition> Commentary written in small characters or letters.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠪᠵᠢᠳᠤ</unicode>
+      <definition>avec les petits caractères, avec le petit canon.</definition>
+      <page>1481</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠪᠵᠢ ᠳᠤ ᠲᠠᠶᠢᠯᠪᠤᠷᠢ</unicode>
+          <definition>explication, commentaire écrit en petits caractères</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

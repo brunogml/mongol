@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y5229">
+  <head>
+    <unicode>ᠶᠥᠯᠺᠥᠯᠵᠡᠺᠥ</unicode>
+    <transcript>yülgülǰekü</transcript>
+    <transcript2>yölgölcegö</transcript2>
+    <cyrillic>юлхэлзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y5226</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠦᠯᠬᠦᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>юлхэлзэх</cyrillic>
+      <definition>〔动〕参见 юлхэгнэх.</definition>
+      <page>1730</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠥᠯᠺᠥᠯᠵᠡᠺᠥ</unicode>
+      <cyrillic>ЮЛХЭЛЗЭХ</cyrillic>
+      <definition>юлхэгнэх-ийг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>юлхэгнэх, юлхэлзэх</cyrillic>
+      <definition>etw. Dickes, Fettes sich bewegen; umg wabbeln</definition>
+      <page>409</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠦᠯᠬᠦᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>юлхэлзэх</cyrillic>
+      <definition>юлхгэр юмны юлхэс юлхэс хөдлөх.</definition>
+      <page>895</page>
+    </entry_item>
+  </entries>
+</entry>

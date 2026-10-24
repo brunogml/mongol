@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1436">
+  <head>
+    <unicode>ᠲᠠᠰᠣᠯᠣᠯ</unicode>
+    <transcript>tasulul</transcript>
+    <transcript2>dasolol</transcript2>
+    <cyrillic>таслал</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠰᠣᠯᠣᠯ</unicode>
+      <uighur>tasolol</uighur>
+      <cyrillic>таслал</cyrillic>
+      <transcript>TASULUL</transcript>
+      <definition>n. Intermission,interruption; separation, division ; comma</definition>
+      <page>785</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠰᠣᠯᠣᠯ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Without interruption, intermission, or Pause</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠰᠤᠯᠤᠯ</unicode>
+      <cyrillic>таслал</cyrillic>
+      <definition>〔名〕①中止，中断，断，间歇；断绝，停止；②〈语〉逗点：цэг ~ 标点，号；цэгтэй ~ 分号；~ тавих 打上逗点；цэг ~ тавих 加上标点符号.</definition>
+      <page>1035</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠰᠣᠯᠣᠯ</unicode>
+      <cyrillic>ТАСЛАЛ</cyrillic>
+      <definition>таслага-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠰᠣᠯᠣᠯ</unicode>
+      <cyrillic>ТАСЛАЛГҮЙ</cyrillic>
+      <definition>1) беспрерывный; без пропусков; 2) без запятых; без переноса. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠰᠤᠯᠤᠯ</unicode>
+      <cyrillic>таслал</cyrillic>
+      <definition>гох мэт хэлбэртэй нэгэн зүйл цэг тэмдэг, таслага; таслал тавих; таслал цэг; цэгтэй таслал.</definition>
+      <page>525</page>
+    </entry_item>
+  </entries>
+</entry>

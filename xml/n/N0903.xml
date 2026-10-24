@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N0903">
+  <head>
+    <unicode>ᠨᠠᠩᠳᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>nengdegülkü</transcript>
+    <transcript2>nengdegölgö</transcript2>
+    <cyrillic>нэндүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>N0901</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠡᠩᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>нэндүүлэх</cyrillic>
+      <definition>〔动〕нэндэх 的使动态.</definition>
+      <page>776</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠩᠳᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>НЭНДҮҮЛЭХ</cyrillic>
+      <definition>нэндэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠡᠩᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>нэндүүлэх</cyrillic>
+      <definition>нэндэхийн үйлдүүлэх хэв.</definition>
+      <page>398</page>
+    </entry_item>
+  </entries>
+</entry>

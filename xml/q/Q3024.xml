@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q3024">
+  <head>
+    <unicode>ᠭᠠᠶᠢᠯᠢᠯᠠᠬᠣ</unicode>
+    <transcript>γayililaqu</transcript>
+    <transcript2>gayililago</transcript2>
+    <cyrillic>гайлилах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q3025</ref>
+    <ref>Q3026</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠠᠶᠢᠯᠢᠯᠠᠬᠣ</unicode>
+      <uighur>γayililaqu</uighur>
+      <cyrillic>гайлилах</cyrillic>
+      <transcript>ΓAILILA-</transcript>
+      <definition>v, t. To collect customs duties.</definition>
+      <page>345</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠠᠢᠯᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>гайлилах</cyrillic>
+      <definition>〔动〕征收关税，征税，抽税.</definition>
+      <page>270</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠶᠢᠯᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ГААЛИЛАХ</cyrillic>
+      <definition>взимать, взыскивать, налагать, брать таможенную пошлину; облагать пошлиной; гаалилалгүй орхих / гаалилахаас хэлтрүүлэх освободить от уплаты пошлины. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠠᠢᠯᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>гаалилах</cyrillic>
+      <definition>гааль авах, гааль хураах.</definition>
+      <page>128</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠠᠢᠯᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>гайлилах</cyrillic>
+      <definition>гаалилах.</definition>
+      <page>133</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q3022</ref>
+  </related_to>
+</entry>

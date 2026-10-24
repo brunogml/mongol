@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="M1335">
+  <head>
+    <unicode>ᠮᠢᠩᠭ ᠠ</unicode>
+    <transcript>mingγ-a</transcript>
+    <transcript2>mingga</transcript2>
+    <cyrillic>мянга</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠮᠢᠩᠭ᠎ᠠ ~ ᠮᠢᠩᠭᠠᠨ</unicode>
+      <uighur>mingγ-a - mingγan</uighur>
+      <cyrillic>мянга(н)</cyrillic>
+      <transcript>MINGΓ-A(N)</transcript>
+      <definition>n. Thousand.</definition>
+      <page>539</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠢᠩᠭᠠᠨ ᠤ ᠳᠠᠷᠤᠭ᠎ᠠ</unicode>
+          <transcript>--n u daruγ-a</transcript>
+          <definition>Leader of thousand men.</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠢᠩᠭᠠᠨ ᠤ ᠨᠣᠶᠠᠨ</unicode>
+          <transcript>--n u nojan</transcript>
+          <definition>Commander, chief of a thousand men, chiliarch</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠢᠩᠭ᠎ᠠ ᠲᠦᠮᠡᠨ</unicode>
+          <transcript>-- tymen</transcript>
+          <definition>Tens of thousands, myriads.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠮᠢᠩᠭᠠᠨ</unicode>
+      <definition>mille.</definition>
+      <page>2021</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠮᠢᠩᠭ᠎ᠠ</unicode>
+      <uighur>mingγan</uighur>
+      <definition>tausend.</definition>
+      <page>216</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠮᠢᠩᠭ᠎ᠠ</unicode>
+      <uighur>mingγan</uighur>
+      <definition>One thousand.</definition>
+      <page>850</page>
+      <examples>
+        <example>
+          <uighur>mingγan γarun</uighur>
+          <definition>More than a thousand.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠢᠩᠭ᠎ᠠ</unicode>
+      <cyrillic>МЯНГА(Н)</cyrillic>
+      <definition>тоо. тысяча; гурван мянга три тысячи; нэг мянга есөн зуун хорин нэгдүгээр он 1921-ый год; мянга гаруй төгрөг свыше тысячи тугриков; мянга мянгаараа тысячами, по тысяче; мянга түм бесчисленное количество; мянган ампер бодос. килоампер; мянган бурхан шашин. тысяча будд так называемой счастливой “калпы”; мянган вольт бодос. киловольт; мянган жилийн тысячелетний (о сроке); мянган наст тысячелетний (о возрасте); мянган ом бодос. килоом; мянган хэгээст алтан хүрд шашин. золотое колесо с тысячью спиц.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>мянга[н]</cyrillic>
+      <definition>Num tausend; ~ дахин tausendmal, tausendfach; ~н жилийн tausendjährige Geschichte; ~ олон ~ нь хүн viele tausend Menschen</definition>
+      <page>150</page>
+    </entry_item>
+  </entries>
+</entry>

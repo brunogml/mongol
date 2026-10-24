@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6160">
+  <head>
+    <unicode>ᠰᠣᠷᠢᠬᠣ</unicode>
+    <transcript>soriqu</transcript>
+    <transcript2>sorigo</transcript2>
+    <cyrillic>сорих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6161</ref>
+    <ref>S6162</ref>
+    <ref>S6171</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠣᠷᠢᠬᠣ</unicode>
+      <uighur>soriqu</uighur>
+      <cyrillic>сорих</cyrillic>
+      <transcript>SORI-</transcript>
+      <definition>v. t. To try out, test, examine.</definition>
+      <page>729</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠦᠴᠦᠨ ᠢ ᠰᠣᠷᠢᠬᠣ</unicode>
+          <transcript>kycyn i --xu</transcript>
+          <definition> To try out, test somebody's strength</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠣᠷᠢ ᠰᠣᠷᠢᠬᠣ</unicode>
+          <transcript>mori --xu</transcript>
+          <definition> To try out a horse; to prepare a horse for a journey or a race</definition>
+        </example>
+        <example>
+          <unicode>ᠦᠨ᠎ᠡ ᠰᠣᠷᠢᠬᠣ</unicode>
+          <transcript>yn-e --xu</transcript>
+          <definition> To inquire about the price.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠤᠷᠢᠬᠤ</unicode>
+      <definition>examiner si une chose est bonne ou non, essayer, éprouver; 2 s'informer, deviner , tirer au sort, dire la bonne aventure,</definition>
+      <page>1412</page>
+      <examples>
+        <example>
+          <unicode>ᠦᠨᠡ ᠰᠤᠷᠢᠬᠤ</unicode>
+          <definition>s'informer du prix</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠰᠣᠷᠢᠬᠣ</unicode>
+      <uighur>soriqu</uighur>
+      <definition>versuchen, probiren</definition>
+      <page>369</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠰᠣᠷᠢᠬᠣ</unicode>
+      <uighur>suriqu</uighur>
+      <definition>v.t. To try, to attempt. To divine. To cast lots.</definition>
+      <page>1482</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠷᠢᠬᠤ</unicode>
+      <cyrillic>сорих</cyrillic>
+      <definition>〔动〕①试验，试探，化验，考验，尝试；比试：сорьж үзэх 试验，检验，试试看；би чамайг сорьж хэлсэн юм 我是用话来考验（试探）你；бөх ~ 〈体〉试摔；~н наалдуулах 〈医〉试验凝集；②占卜；③抽签.</definition>
+      <page>942</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠷᠢᠬᠣ</unicode>
+      <cyrillic>СОРИХ</cyrillic>
+      <definition>1. 1) испытывать, пробовать; хүчээ сорих пробовать свои силы; би чамайг сорьж хэлсэн юм я хотел испытать тебя; я сказал, чтобы испытать тебя; 2) предугадывать, ворожить, гадать, бросать жребий; 2. сорихуй-г үз., сорьж үзэх апробация; үр тариа сорьж үзэх апробация семян. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠷᠢᠬᠣ</unicode>
+      <cyrillic>СОРИХУЙ</cyrillic>
+      <definition>проба. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сорих</cyrillic>
+      <definition>prüfen, erproben, versuchen; auf die Probe stellen</definition>
+      <page>201</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠷᠢᠬᠤ</unicode>
+      <cyrillic>сорих</cyrillic>
+      <definition>1. тэнсэх, турших. сорьж үзэх, сорио болвуу, сонжоо болвуу?;2. бөхийг наадамд барилдахын өмнө дасгаж тусгайлан сургуулилах. бөх сорих.</definition>
+      <page>481</page>
+    </entry_item>
+  </entries>
+</entry>

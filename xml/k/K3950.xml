@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K3950">
+  <head>
+    <unicode>ᠺᠥᠯᠡᠺᠥ</unicode>
+    <transcript>kölekü</transcript>
+    <transcript2>gölegö</transcript2>
+    <cyrillic>хөөлөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K3951</ref>
+    <ref>K3949</ref>
+  </derivatives>
+  <see_also>
+    <ref>K4566</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠯᠡᠺᠥ</unicode>
+      <cyrillic>ХӨӨЛӨХ</cyrillic>
+      <definition>чистить, очищать от сажи; тогоо хөөлөх снимать сажу с котла; яндан хөөлөх очищать дымоходную трубу от сажи. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠯᠡᠬᠦ</unicode>
+      <cyrillic>хөөлөх</cyrillic>
+      <definition>юманд халдсан хөө тортгийг арилгах; тогоо хөөлөх; яндан хөөлөх.</definition>
+      <page>713</page>
+    </entry_item>
+  </entries>
+</entry>

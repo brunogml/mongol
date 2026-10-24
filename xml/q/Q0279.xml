@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0279">
+  <head>
+    <unicode>ᠬᠠᠩᠬᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>qangqaγanaqu</transcript>
+    <transcript2>ganggaganago</transcript2>
+    <cyrillic>ханхганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q0280</ref>
+    <ref>Q0281</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠩᠬᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>ханхганах</cyrillic>
+      <definition>〔动〕参见 ханхалзах.</definition>
+      <page>1306</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠩᠬᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ХАНХГАНАХ</cyrillic>
+      <definition>ханхалзах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠩᠬᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>ханхганах</cyrillic>
+      <definition>ханхгар юмны үргэлжлэн хөдлөх.</definition>
+      <page>659</page>
+    </entry_item>
+  </entries>
+</entry>

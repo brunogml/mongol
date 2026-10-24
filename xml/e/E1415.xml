@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E1415">
+  <head>
+    <unicode>ᠡᠴᠦᠰᠯᠡᠺᠦ</unicode>
+    <transcript>ečüslekü</transcript>
+    <transcript2>ecöslegö</transcript2>
+    <cyrillic>эцэслэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>E1416</ref>
+    <ref>E1414</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠴᠥᠰᠯᠠᠺᠥ</unicode>
+      <uighur>ečüslekü</uighur>
+      <cyrillic>эцэслэх</cyrillic>
+      <transcript>ECYSLE-</transcript>
+      <definition>v.t. and i. To [come to an] end, terminate, finish; to die.</definition>
+      <page>292</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠴᠥᠰᠯᠠᠨ</unicode>
+          <transcript>--n </transcript>
+          <definition>Finally, irrevocabtv</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠴᠥᠰᠯᠠᠨ ᠲᠠᠰᠤᠯᠬᠤ</unicode>
+          <transcript>--n tasulxu</transcript>
+          <definition> To make a final decision.</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠠᠰᠤᠨ ᠡᠴᠥᠰᠯᠠᠺᠦ</unicode>
+          <transcript>nasun --ky </transcript>
+          <definition>To die</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠴᠦᠰᠯᠡᠬᠦ</unicode>
+      <cyrillic>эцэслэх</cyrillic>
+      <definition>〔动〕①结束，终止，终了，完结；②去世，逝世，寿终.</definition>
+      <page>1725</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠴᠥᠰᠯᠠᠺᠥ</unicode>
+      <cyrillic>ЭЦЭСЛЭХ</cyrillic>
+      <definition>1) кончаться, оканчиваться; умирать; нас эцэслэх шилж. скончаться, умереть; 2) кончать, доводить до конца. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>эцэслэх</cyrillic>
+      <definition>enden, ein Ende nehmen, zu Ende gehen; нас ~ übertr sterben</definition>
+      <page>407</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠴᠦᠰᠯᠡᠬᠦ</unicode>
+      <cyrillic>эцэслэх</cyrillic>
+      <definition>1. эцэс төгсгөлд хүрэх; хэрэг эцэслэх; хэл ам эцэслэх;2. нас барах, үхэх; насан эцэслэтэл бидний төлөө, улс олны төлөө байсан юм.</definition>
+      <page>893</page>
+    </entry_item>
+  </entries>
+</entry>

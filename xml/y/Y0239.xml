@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0239">
+  <head>
+    <unicode>ᠵᠠᠩᠯᠠᠬᠣ</unicode>
+    <transcript>ǰanglaqu</transcript>
+    <transcript2>yanglago</transcript2>
+    <cyrillic>жанлах</cyrillic>
+  </head>
+  <see_also>
+    <ref>Y0238</ref>
+    <ref>Y0240</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠩᠯᠠᠬᠤ</unicode>
+      <cyrillic>жанлах</cyrillic>
+      <definition>〔动〕用杖打.</definition>
+      <page>502</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠩᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЖАНЛАХ</cyrillic>
+      <definition>хуучир. бить батогами. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠩᠯᠠᠬᠤ</unicode>
+      <cyrillic>жанлах</cyrillic>
+      <definition>жан банзаар жанчих дэлдэх.</definition>
+      <page>241</page>
+    </entry_item>
+  </entries>
+</entry>

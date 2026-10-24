@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I1155">
+  <head>
+    <unicode>ᠢᠷᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>irulaγulqu</transcript>
+    <transcript2>irolagolgo</transcript2>
+    <cyrillic>ёрлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>I1154</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <cyrillic>ёрлуулах</cyrillic>
+      <definition>〔动〕ёрлох 的使动态.</definition>
+      <page>493</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠷᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЁРЛУУЛАХ</cyrillic>
+      <definition>ёрлох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠷᠤᠸᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ёрлуулах</cyrillic>
+      <definition>ёрлохын үйлдүүлэх хэв.</definition>
+      <page>237</page>
+    </entry_item>
+  </entries>
+</entry>

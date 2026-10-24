@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E2333">
+  <head>
+    <unicode>ᠡᠷᠺᠡᠰᠢᠶᠡᠺᠦ</unicode>
+    <transcript>erkesiyekü</transcript>
+    <transcript2>ergesiyegö</transcript2>
+    <cyrillic>эрхшээх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠷᠺᠠᠰᠢᠶᠠᠺᠥ</unicode>
+      <uighur>erkesiyekü</uighur>
+      <cyrillic>эрхшээх</cyrillic>
+      <transcript>ERKESIJE-</transcript>
+      <definition>Same as erkesi-.</definition>
+      <page>330</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠷᠺᠡᠰᠢᠺᠦ ~ ᠡᠷᠺᠡᠰᠢᠶᠡᠺᠦ</unicode>
+      <definition>1 avoir un pouvoir illimité; 
+2 dominer, régner, exercer le pouvoir.</definition>
+      <page>265</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠡᠳᠺᠢᠯ ᠳ᠋‍‍ᠤ‍ᠷ ᠡᠷᠺᠡᠰᠢᠶᠡᠺᠦ</unicode>
+          <definition>régner sur le coeur , posséder le coeur</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠡᠷᠺᠠᠰᠢᠶᠠᠺᠥ</unicode>
+      <cyrillic>ЭРХШЭЭХ</cyrillic>
+      <definition>получить власть, завладевать.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>эрхшээх</cyrillic>
+      <definition>beherrschen, sich zu eigen machen</definition>
+      <page>405</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠷᠬᠡᠰᠢᠶᠡᠬᠦ</unicode>
+      <cyrillic>эрхшээх</cyrillic>
+      <definition>юманд эрхшиж, эрхийг олох, эрхэндээ авах.</definition>
+      <page>887</page>
+    </entry_item>
+  </entries>
+</entry>

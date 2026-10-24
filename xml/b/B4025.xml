@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B4025">
+  <head>
+    <unicode>ᠪᠣᠷᠳᠠᠬᠣ</unicode>
+    <transcript>bordaqu</transcript>
+    <transcript2>bordago</transcript2>
+    <cyrillic>бордох</cyrillic>
+  </head><derivatives>
+    <ref>B4026</ref>
+  </derivatives><see_also>
+    <ref>B3948</ref>
+  
+    <ref>B4040</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠣᠷᠳᠠᠬᠣ</unicode>
+      <uighur>bordaqu</uighur>
+      <transcript>BORDA-</transcript>
+      <definition>See bordu-</definition>
+      <page>120</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠤᠷᠳᠠᠬᠤ ~ ᠪᠤᠷᠳᠣᠬᠤ</unicode>
+      <definition>engraisser (les chevaux et autres bêtes en les nourrissant bien).</definition>
+      <page>1222</page>
+    </entry_item>
+  </entries>
+</entry>

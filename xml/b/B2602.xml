@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2602">
+  <head>
+    <unicode>ᠪᠣᠨᠳᠣᠯᠵᠠᠬᠣ</unicode>
+    <transcript>bondulǰaqu</transcript>
+    <transcript2>bondolcago</transcript2>
+    <cyrillic>бондолзох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B2606</ref>
+  </derivatives>
+  <see_also>
+    <ref>B2603</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠣᠨᠳᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>бондолзох</cyrillic>
+      <definition>〔动〕①（圆球形物）频动；滚动，翻滚；②（车轮等）转动.</definition>
+      <page>172</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠨᠳᠣᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>БОНДОЛЗОХ</cyrillic>
+      <definition>бондгонох-ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠣᠨᠳᠤᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>бондолзох</cyrillic>
+      <definition>бондгор юмны бондос бондос хийх.</definition>
+      <page>91</page>
+    </entry_item>
+  </entries>
+</entry>

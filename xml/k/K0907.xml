@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K0907">
+  <head>
+    <unicode>ᠺᠠᠯᠺᠢᠶᠠᠲᠥ</unicode>
+    <transcript>kelkiyetü</transcript>
+    <transcript2>gelgiyedö</transcript2>
+    <cyrillic>хэлхээт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠠᠯᠺᠢᠶᠠᠲᠥ</unicode>
+      <uighur>kelkiyedü</uighur>
+      <cyrillic>хэлхээт</cyrillic>
+      <transcript>KELKIJETY</transcript>
+      <definition>See kelkijetei.</definition>
+      <page>449</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠡᠯᠺᠢᠶᠡᠳᠦ</unicode>
+      <definition>lie, composé, complexe</definition>
+      <page>2479</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠥᠷᠪᠡᠨ ᠮᠠᠬᠠᠪᠤᠳ ᠤᠨ ᠺᠡᠯᠺᠢᠶ ᠡ ᠎ᠲᠦ ᠪᠡᠶ ᠡ</unicode>
+          <definition>corps composé de quatre éléments</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠯᠬᠢᠶᠡᠲᠦ</unicode>
+      <cyrillic>хэлхээт</cyrillic>
+      <definition>参见 хэлхээстэй.</definition>
+      <page>1481</page>
+    </entry_item>
+  </entries>
+<related_to><ref>K0902</ref></related_to><see_also><ref>K0906</ref></see_also></entry>

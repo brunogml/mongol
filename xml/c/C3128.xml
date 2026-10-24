@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3128">
+  <head>
+    <unicode>ᠴᠣᠮᠴᠣᠷᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čomčuriγulqu</transcript>
+    <transcript2>comcorigolgo</transcript2>
+    <cyrillic>цомцриулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C3127</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠣᠮᠴᠣᠷᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цомцриулах</cyrillic>
+      <definition>〔动〕цомцрих 的使动态.</definition>
+      <page>1533</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠮᠴᠣᠷᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦОМЦРИУЛАХ</cyrillic>
+      <definition>цомцрих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠮᠴᠣᠷᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦОМЦРУУЛАХ</cyrillic>
+      <definition>цомцрох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цомцриулах</cyrillic>
+      <definition>Kaus von цомцрих</definition>
+      <page>356</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠣᠮᠴᠣᠷᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цомцриулах</cyrillic>
+      <definition>цомцрихын үйлдүүлэх хэв.</definition>
+      <page>790</page>
+    </entry_item>
+  </entries>
+</entry>

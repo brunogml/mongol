@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B2616">
+  <head>
+    <unicode>ᠪᠣᠩ</unicode>
+    <transcript>bung</transcript>
+    <transcript2>bong</transcript2>
+  </head><see_also>
+    <ref>B2617</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠣᠩ ᠨᠺᠠ</unicode>
+      <uighur>bong nγa</uighur>
+      <cyrillic>буньаа</cyrillic>
+      <transcript>BONG NGA</transcript>
+      <definition>[T. bong nga] n. Wolf's bane, aconite (usually Aconitum ferox ).</definition>
+      <page>120</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠠᠭᠠᠨ ᠪᠣᠩ ᠨᠺᠠ</unicode>
+          <transcript>caγan --</transcript>
+          <definition> White aconite (Ch. me-tung, mai-tung ).</definition>
+        </example>
+        <example>
+          <unicode>ᠤᠯᠠᠭᠠᠨ ᠪᠣᠩ ᠨᠺᠠ</unicode>
+          <transcript>ulaγan --</transcript>
+          <definition> Red aconite ( Ch. ch'uan-wu)</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

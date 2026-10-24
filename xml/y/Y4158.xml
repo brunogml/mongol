@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4158">
+  <head>
+    <unicode>ᠵᠣᠪᠺᠢᠰ</unicode>
+    <transcript>ǰobkis</transcript>
+    <transcript2>yobgis</transcript2>
+    <cyrillic>зовхис</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠣᠪᠺᠢᠰ</unicode>
+      <uighur>ǰobkis</uighur>
+      <cyrillic>зовхис</cyrillic>
+      <transcript>ZOBKIS</transcript>
+      <definition>n. Corner; one of the four intermediate points of the four directions (north-west, south-east, etc. ); azimuth.</definition>
+      <page>1066</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠣᠪᠺᠢᠰ ᠤᠨ ᠬᠠᠭᠠᠯᠭ᠎ᠠ</unicode>
+          <transcript>-- un xaγalγ-a</transcript>
+          <definition>Corner door, wicket.</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠥᠷᠪᠡᠨ ᠵᠣᠪᠺᠢᠰ</unicode>
+          <transcript>dørben --</transcript>
+          <definition>The four intermediate points of the four directions (north-west, south-east,etc. ).</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠣᠪᠺᠢᠰ</unicode>
+      <definition>angle, coin, point intermédiaire (comme le sud - est, etc.],</definition>
+      <page>2380</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠢᠳᠦᠨ ᠤ ᠵᠣᠪᠺᠢᠰ</unicode>
+          <definition>les coins des yeux</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠣᠷᠤᠨᠠᠲᠤ ᠵᠣᠪᠺᠢᠰ</unicode>
+          <definition>côté oriental</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠣᠪᠺᠢᠰ ᠤᠨ ᠬᠠᠭᠠᠯᠭ᠎ᠠ</unicode>
+          <definition>la porte du coin, un guichet</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠵᠣᠪᠺᠢᠰ</unicode>
+      <uighur>ǰobkis</uighur>
+      <definition>der Winkel zwischen zwei Seiten.</definition>
+      <page>307</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠵᠣᠪᠺᠢᠰ</unicode>
+      <uighur>ǰobkis</uighur>
+      <definition>n. A corner. An angle.</definition>
+      <page>1237</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠣᠪᠬᠢᠰ</unicode>
+      <cyrillic>зовхис</cyrillic>
+      <definition>〔名〕方位，角隅：~ын хаалга 角门，旁门；дөрвөн зүг, найман ~ 四面八方；~ солбицол 方位坐标.</definition>
+      <page>555</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠪᠺᠢᠰ</unicode>
+      <cyrillic>ЗОВХИС</cyrillic>
+      <definition>азимут; промежуточные страны света (юго-восток, юго-запад, северо-восток, северо-запад); дөрвөн зүг найман зовхис на все стороны света; зовхис заагуур индикатор азимута.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠪᠺᠢᠰ</unicode>
+      <cyrillic>ЗОВХИСЫН</cyrillic>
+      <definition>зовхис-ын харьяал., азимутальный; зовхисын өнцөг угол азимутальный.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зовхис</cyrillic>
+      <definition>Astron Azimut m od n</definition>
+      <page>120</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠣᠪᠬᠢᠰ</unicode>
+      <cyrillic>зовхис</cyrillic>
+      <definition>дөрвөн зүгийн хоорондох засвар; дөрвөн зовхис; дөрвөн зүг, найман зовхис.</definition>
+      <page>272</page>
+    </entry_item>
+  </entries>
+</entry>

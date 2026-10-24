@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7809">
+  <head>
+    <unicode>ᠲᠣᠷᠨᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>torniγulqu</transcript>
+    <transcript2>dornigolgo</transcript2>
+    <cyrillic>торниулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T7807</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠷᠨᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>торниулах</cyrillic>
+      <definition>〔动〕торних 的使动态.</definition>
+      <page>1082</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠷᠨᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТОРНИУЛАХ</cyrillic>
+      <definition>торних-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>торниулах</cyrillic>
+      <definition>1. Kaus von торних
+2. Mensch, Tier aufziehen</definition>
+      <page>231</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠷᠨᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>торниулах</cyrillic>
+      <definition>торнихын үйлдүүлэх хэв.</definition>
+      <page>544</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1347">
+  <head>
+    <unicode>ᠰᠠᠮᠪᠠᠷᠠᠮᠲᠣᠬᠣ</unicode>
+    <transcript>sambaramtuqu</transcript>
+    <transcript2>sambaramdogo</transcript2>
+    <cyrillic>шамбарамтах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1348</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠮᠪᠠᠷᠠᠮᠲᠤᠬᠤ</unicode>
+      <cyrillic>шамбарамтах</cyrillic>
+      <definition>〔动〕〈医〉生痔疮，长痔疮.</definition>
+      <page>1616</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠮᠪᠠᠷᠠᠮᠲᠣᠬᠣ</unicode>
+      <cyrillic>ШАМБАРАМТАХ</cyrillic>
+      <definition>болеть, страдать геморроем. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шамбарамтах</cyrillic>
+      <definition>Med Hämorrhoiden bekommen</definition>
+      <page>380</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠮᠪᠠᠷᠠᠮᠲᠤᠬᠤ</unicode>
+      <cyrillic>шамбарамтах</cyrillic>
+      <definition>шамбарам өвчтэй болох.</definition>
+      <page>835</page>
+    </entry_item>
+  </entries>
+</entry>

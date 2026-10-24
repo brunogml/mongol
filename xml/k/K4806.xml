@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4806">
+  <head>
+    <unicode>ᠺᠥᠺᠰᠢᠳᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>kögsidegülkü</transcript>
+    <transcript2>gögsidegölgö</transcript2>
+    <cyrillic>хөгшдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K4805</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠭᠰᠢᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хөгшдүүлэх</cyrillic>
+      <definition>〔动〕хөгшдөх 的使动态.</definition>
+      <page>1390</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠺᠰᠢᠳᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ХӨГШДҮҮЛЭХ</cyrillic>
+      <definition>хөгшдөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠭᠰᠢᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хөгшдүүлэх</cyrillic>
+      <definition>хөгшдөхийн үйлдүүлэх хэв.</definition>
+      <page>705</page>
+    </entry_item>
+  </entries>
+</entry>

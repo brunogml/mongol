@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q5216">
+  <head>
+    <unicode>ᠬᠣᠳᠣᠬ</unicode>
+    <transcript>quduγ</transcript>
+    <transcript2>godog</transcript2>
+  </head>
+  <see_also>
+    <ref>Q5215</ref>
+    <ref>Q5413</ref>
+    <ref>Q5214</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠳᠣᠬ</unicode>
+      <uighur>qudoq</uighur>
+      <transcript>XUDUΓ</transcript>
+      <definition>See xudduγ.</definition>
+      <page>980</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠤᠳᠤᠬ ~ ᠬᠤᠳᠳᠤᠬ</unicode>
+      <definition>puits.</definition>
+      <page>918</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠤᠳᠤᠬ ᠤᠬᠤᠬᠤ</unicode>
+          <definition>creuser un puits</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠤᠳᠤᠬ ᠤᠰᠤᠨ</unicode>
+          <definition>eau de puits</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠤᠳᠤᠬ ᠤᠨ ᠬᠠᠰᠤᠯᠠᠭ</unicode>
+          <definition>cage d'un puits</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠤᠳᠤᠬ ᠬᠠᠷᠢᠳᠠᠬᠤ</unicode>
+          <definition>creuser un puits</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠤᠳᠤᠬ ᠢ ᠮᠠᠯᠳᠠᠬᠤ</unicode>
+          <definition>creuser un puits</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2343">
+  <head>
+    <unicode>ᠴᠢᠷᠭᠠᠭᠣᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čirγaγudaγulqu</transcript>
+    <transcript2>cirgagodagolgo</transcript2>
+    <cyrillic>чаргуудуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C2342</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠷᠭᠠᠭᠤᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>чаргуудуулах</cyrillic>
+      <definition>〔动〕чаргуудах 的使动态.</definition>
+      <page>1581</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠷᠭᠠᠭᠣᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЧАРГУУДУУЛАХ</cyrillic>
+      <definition>чаргуудах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠷᠭᠠᠭᠤᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>чаргуудуулах</cyrillic>
+      <definition>чаргуудахын үйлдүүлэх хэв.</definition>
+      <page>815</page>
+    </entry_item>
+  </entries>
+</entry>

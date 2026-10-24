@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0306">
+  <head>
+    <unicode>ᠴᠠᠪᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čabdaγulqu</transcript>
+    <transcript2>cabdagolgo</transcript2>
+    <cyrillic>цавдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C0304</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠪᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цавдуулах</cyrillic>
+      <definition>〔动〕цавдах 的使动态.</definition>
+      <page>1508</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠪᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦАВДУУЛАХ</cyrillic>
+      <definition>цавдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠪᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цавдуулах</cyrillic>
+      <definition>цавдахын үйлдүүлэх хэв.</definition>
+      <page>776</page>
+    </entry_item>
+  </entries>
+</entry>

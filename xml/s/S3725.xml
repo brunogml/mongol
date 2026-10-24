@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3725">
+  <head>
+    <unicode>ᠰᠢᠲᠠᠷᠠᠴᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sitaračaγulqu</transcript>
+    <transcript2>sidaracagolgo</transcript2>
+    <cyrillic>шатарцуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S3724</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠲᠠᠷᠠᠴᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шатарцуулах</cyrillic>
+      <definition>〔动〕шатардах 的使动态.</definition>
+      <page>1625</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠲᠠᠷᠠᠴᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАТАРЦУУЛАХ</cyrillic>
+      <definition>шатарцах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шатарцуулах</cyrillic>
+      <definition>Kaus von шатарцах</definition>
+      <page>382</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠲᠠᠷᠠᠴᠠᠬᠤ</unicode>
+      <cyrillic>шатарцуулах</cyrillic>
+      <definition>шатарцахын үйлдүүлэх хэв.</definition>
+      <page>841</page>
+    </entry_item>
+  </entries>
+</entry>

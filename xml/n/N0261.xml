@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N0261">
+  <head>
+    <unicode>ᠨᠠᠰᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>nasidaγulqu</transcript>
+    <transcript2>nasidagolgo</transcript2>
+    <cyrillic>наашдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>N0260</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠠᠰᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>наашдуулах</cyrillic>
+      <definition>〔动〕наашдах 的使动态.</definition>
+      <page>714</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠰᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>НААШДУУЛАХ</cyrillic>
+      <definition>наашдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠠᠰᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>наашдуулах</cyrillic>
+      <definition>наашдахын үйлдүүлэх хэв.</definition>
+      <page>360</page>
+    </entry_item>
+  </entries>
+</entry>

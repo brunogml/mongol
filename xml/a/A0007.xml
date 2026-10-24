@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A0007">
+  <head>
+    <unicode>ᠠᠣᠭᠠᠳᠠᠢ</unicode>
+    <transcript>auγatai</transcript>
+    <transcript2>aogadai</transcript2>
+  </head><see_also>
+    <ref>A0008</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠣᠭᠠᠳᠠᠢ</unicode>
+      <uighur>auγatai</uighur>
+      <transcript>AUГATAI</transcript>
+      <definition>[= auγatu] adj. Strong, powerful.</definition>
+      <page>59</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠣᠭᠠᠳᠠᠢ</unicode>
+      <uighur>auγatai - auγatu</uighur>
+      <definition>fort, puissant</definition>
+      <page>9</page>
+      <examples>
+        <example>
+          <unicode>ᠶᠡᠺᠡ ᠠᠤᠭᠠᠲᠠᠨ ᠴᠢᠳᠺᠦᠳ</unicode>
+          <definition>très puissants génies malfaisants</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+<related_to><ref>A0003</ref></related_to></entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I1040">
+  <head>
+    <unicode>ᠢᠴᠢᠺᠯᠠᠺᠥ</unicode>
+    <transcript>ičiglekü</transcript>
+    <transcript2>iciglegö</transcript2>
+    <cyrillic>ичиглэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>I1042</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠴᠢᠭᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>ичиглэх</cyrillic>
+      <definition>〔动〕参见 ичгээлэх.</definition>
+      <page>626</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠴᠢᠺᠯᠠᠺᠥ</unicode>
+      <cyrillic>ИЧИГЛЭХ</cyrillic>
+      <definition>дразнить; стыдить; показывать “длинный нос”; ичиглэн шоолох улюлюкать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠴᠢᠭᠯᠡᠬᠦ</unicode>
+      <cyrillic>ичиглэх</cyrillic>
+      <definition>ичиртэй явдал үйлдсэн хүнийг улмаар ичээхийн тул дооглож "ичиг ичиг" гэж хэлэн гарын хуруунуудыг сарвагануулан дохиолох.</definition>
+      <page>311</page>
+    </entry_item>
+  </entries>
+</entry>

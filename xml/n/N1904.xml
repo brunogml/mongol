@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1904">
+  <head>
+    <unicode>ᠨᠢᠷᠺᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>nirgegülkü</transcript>
+    <transcript2>nirgegölgö</transcript2>
+    <cyrillic>ниргүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>N1903</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠢᠷᠭᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>ниргүүлэх</cyrillic>
+      <definition>〔动〕ниргэх 的使动态.</definition>
+      <page>741</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠢᠷᠺᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>НИРГҮҮЛЭХ</cyrillic>
+      <definition>1) ниргэх-ийн үйлдүүл.; 2) быть поражённым молнией. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠢᠷᠭᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>ниргүүлэх</cyrillic>
+      <definition>ниргэхийн үйлдүүлэх хэв.</definition>
+      <page>377</page>
+    </entry_item>
+  </entries>
+</entry>

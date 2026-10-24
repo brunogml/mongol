@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0946">
+  <head>
+    <unicode>ᠮᠠᠩᠺᠠᠷᠯᠠᠺᠥ</unicode>
+    <transcript>menggerlekü</transcript>
+    <transcript2>menggerlegö</transcript2>
+    <cyrillic>мэнгэрлэх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠡᠩᠭᠡᠷᠯᠡᠬᠦ</unicode>
+      <cyrillic>мэнгэрлэх</cyrillic>
+      <definition>〔动〕〈医〉患慢性支气管炎.</definition>
+      <page>705</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠩᠺᠠᠷᠯᠠᠺᠥ</unicode>
+      <cyrillic>МЭНГЭРЛЭХ</cyrillic>
+      <definition>мэнгэртэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠡᠩᠭᠡᠷᠯᠡᠬᠦ</unicode>
+      <cyrillic>мэнгэрлэх</cyrillic>
+      <definition>мэнгэр тогтох.</definition>
+      <page>355</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>M0940</ref>
+  </related_to>
+</entry>

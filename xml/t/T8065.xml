@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T8065">
+  <head>
+    <unicode>ᠳᠥᠢᠪᠠᠳ</unicode>
+    <transcript>düibed</transcript>
+    <transcript2>döibed</transcript2>
+    <cyrillic>дүйвэд</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠥᠢᠪᠠᠳ</unicode>
+      <uighur>tüibed</uighur>
+      <transcript>TYIBED</transcript>
+      <definition>n. Chess board; checkered design.</definition>
+      <page>851</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠥᠢᠪᠠᠳ ᠵᠢᠷᠤᠭᠲᠤ</unicode>
+          <transcript>-- ziruγtu</transcript>
+          <definition> Having a checkered design.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠦᠢᠪᠡᠳ</unicode>
+      <definition>carreau: échiquier.</definition>
+      <page>1898</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠦᠢᠪᠡᠳ ᠵᠢᠷᠤᠭᠲᠤ</unicode>
+          <definition>à carreaux</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠥᠢᠪᠠᠳ</unicode>
+      <cyrillic>ДҮЙВЭД</cyrillic>
+      <definition>игра в шашки, клетки; таблица, разлинованная клетками, шахматная доска. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

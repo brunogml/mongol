@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1900">
+  <head>
+    <unicode>ᠱᠠᠷᠴᠢᠺᠢᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šarčiginaγulqu</transcript>
+    <transcript2>sarciginagolgo</transcript2>
+    <cyrillic>шарчигнуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S1897</ref>
+  </related_to>
+  <see_also>
+    <ref>S1899</ref>
+    <ref>S1901</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠷᠴᠢᠭᠢᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шарчигнуулах</cyrillic>
+      <definition>〔动〕шарчигнах 的使动态.</definition>
+      <page>1624</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠷᠴᠢᠺᠢᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАРЧИГНУУЛАХ</cyrillic>
+      <definition>шарчигнах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шарчигнуулах</cyrillic>
+      <definition>= шаржигнуулах</definition>
+      <page>382</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠷᠴᠢᠭᠢᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шарчигнуулах</cyrillic>
+      <definition>шарчигнахын үйлдүүлэх хэв.</definition>
+      <page>840</page>
+    </entry_item>
+  </entries>
+</entry>

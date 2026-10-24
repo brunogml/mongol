@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1983">
+  <head>
+    <unicode>ᠥᠷᠥᠮᠠᠲᠥᠺᠥᠯᠺᠥ</unicode>
+    <transcript>örümetügülkü</transcript>
+    <transcript2>örömedögölgö</transcript2>
+    <cyrillic>өрөмтүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>O1980</ref>
+  </related_to>
+  <see_also>
+    <ref>O1982</ref>
+    <ref>O1984</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠷᠥᠮᠡᠲᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өрөмтүүлэх</cyrillic>
+      <definition>〔动〕өрөмтөх 的使动态.</definition>
+      <page>861</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠷᠥᠮᠠᠲᠥᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ӨРӨМТҮҮЛЭХ</cyrillic>
+      <definition>өрөмтөх-ийн үйлдүүл., давать покрыться пенкой. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠷᠥᠮᠡᠲᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өрөмтүүлэх</cyrillic>
+      <definition>өрөмтөхийн үйлдүүлэх хэв.</definition>
+      <page>445</page>
+    </entry_item>
+  </entries>
+</entry>

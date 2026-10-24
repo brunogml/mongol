@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9020">
+  <head>
+    <unicode>ᠲᠥᠺᠡᠷᠢᠺᠳᠡᠯ</unicode>
+    <transcript>tögerigdel</transcript>
+    <transcript2>dögerigdel</transcript2>
+    <cyrillic>төөрөгдөл</cyrillic>
+  </head>
+  <related_to>
+    <ref>T9010</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠥᠭᠡᠷᠢᠭᠳᠡᠯ</unicode>
+      <cyrillic>төөрөгдөл</cyrillic>
+      <definition>〔名〕①迷路，迷失方向，转向；②（被）迷惑，入歧途，迷乱，受蒙蔽，被蒙骗，谬误：~д орох, ~д учрах 入歧途，谬误，想错；ард түмнийг шашны төөрөгдлөөс салгах 把人民从宗教的迷惑中解脱出来.</definition>
+      <page>1099</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠺᠡᠷᠢᠺᠳᠡᠯ</unicode>
+      <cyrillic>ТӨӨРӨГДӨЛ</cyrillic>
+      <definition>разброд, заблуждение; төөрөл-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠥᠭᠡᠷᠢᠭᠳᠡᠯ</unicode>
+      <cyrillic>төөрөгдөл</cyrillic>
+      <definition>төөрөгдөх үйлийн нэр; ард түмнийг шашны төөрөгдлөөс салгах.</definition>
+      <page>551</page>
+    </entry_item>
+  </entries>
+</entry>

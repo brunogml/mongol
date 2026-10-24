@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1574">
+  <head>
+    <unicode>ᠪᠠᠷᠳᠠᠮᠯᠠᠬᠣ</unicode>
+    <transcript>bardamlaqu</transcript>
+    <transcript2>bardamlago</transcript2>
+    <cyrillic>бардамлах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠠᠷᠳᠠᠮᠯᠠᠬᠣ</unicode>
+      <uighur>bardamlaqu</uighur>
+      <cyrillic>бардамлах</cyrillic>
+      <transcript>BARDAMLA-</transcript>
+      <definition>v.i. To be proud; to brag, boast; to be sure or overconfident of one's ability or success.</definition>
+      <page>85</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠣᠷᠢᠨ ᠢᠶᠠᠨ ᠪᠠᠷᠳᠠᠮᠯᠠᠬᠣ</unicode>
+          <transcript>morin ijen --xu</transcript>
+          <definition> To boast about one's horse.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠠᠷᠳᠠᠮᠨᠠᠬᠤ ~ ᠪᠠᠷᠳᠠᠮᠯᠠᠬᠤ</unicode>
+      <definition>se vanter, se pavaner , se louer</definition>
+      <page>1110</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠪᠠᠷᠳᠠᠮᠯᠠᠬᠣ</unicode>
+      <uighur>bardamlaqu</uighur>
+      <definition>prahlen, stolz thun, ruhmredig seyn.</definition>
+      <page>102</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠷᠳᠠᠮᠯᠠᠬᠤ</unicode>
+      <cyrillic>бардамлах</cyrillic>
+      <definition>〔动〕参见 бардах.</definition>
+      <page>132</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠷᠳᠠᠮᠯᠠᠬᠣ</unicode>
+      <cyrillic>БАРДАМЛАХ</cyrillic>
+      <definition>бардах-ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бардамлах,</cyrillic>
+      <definition>бардамнах = бардах</definition>
+      <page>47</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠷᠳᠠᠮᠯᠠᠬᠤ</unicode>
+      <cyrillic>бардамлах</cyrillic>
+      <definition>бардам зан байдал гаргах.</definition>
+      <page>75</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>B1568</ref>
+  </related_to>
+</entry>

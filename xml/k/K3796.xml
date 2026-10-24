@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K3796">
+  <head>
+    <unicode>ᠺᠥᠳᠡᠯᠭᠡᠭᠳᠡᠺᠦ</unicode>
+    <transcript>ködelgegdekü</transcript>
+    <transcript2>gödelgegdegö</transcript2>
+    <cyrillic>хөдөлгөгдөх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K3793</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠥᠳᠡᠯᠭᠡᠭᠳᠡᠺᠦ</unicode>
+      <uighur>ködelkegdekü</uighur>
+      <cyrillic>хөдөлгөгдөх</cyrillic>
+      <transcript>KØDELGEGDE-</transcript>
+      <definition>v. pass of kødelge-</definition>
+      <page>478</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠥᠳᠡᠯᠭᠡᠭᠳᠡᠺᠦ</unicode>
+      <definition>être mis en mouvement , agité , ébranlé.</definition>
+      <page>2592</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠩᠭᠤᠴᠠ ᠺᠡᠢ ᠳ᠋‍‍ᠤ‍ᠷ ᠺᠥᠳᠡᠯᠭᠡᠭᠳᠡᠮᠦᠢ</unicode>
+          <definition>les vaisseaux sont agités par le vent</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠣᠳᠤᠨ ᠺᠡᠢ ᠡ ᠺᠥᠳᠡᠯᠭᠡᠭᠳᠡᠮᠦᠢ</unicode>
+          <definition>l'arbre est agité par le vent</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠳᠡᠯᠭᠡᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>хөдөлгөгдөх</cyrillic>
+      <definition>〔动〕хөдөлгөх 的被动态.</definition>
+      <page>1391</page>
+    </entry_item>
+  </entries>
+</entry>

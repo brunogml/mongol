@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C0906">
+  <head>
+    <unicode>ᠴᠠᠪᠠᠷᠯᠠᠯᠲᠠ</unicode>
+    <transcript>čeberlelte</transcript>
+    <transcript2>ceberlelde</transcript2>
+    <cyrillic>цэвэрлэлт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠪᠠᠷᠯᠠᠯᠲᠠ</unicode>
+      <uighur>čeberlelte</uighur>
+      <cyrillic>цэвэрлэлт</cyrillic>
+      <transcript>CEBERLELTE</transcript>
+      <definition>n. Purification; purge.</definition>
+      <page>167</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠠᠮ ᠤᠨ ᠴᠠᠪᠠᠷᠯᠠᠯᠲᠠ</unicode>
+          <transcript>nam un -- </transcript>
+          <definition>Party purge</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠪᠡᠷᠯᠡᠯᠲᠡ</unicode>
+      <cyrillic>цэвэрлэлт</cyrillic>
+      <definition>〔名〕参见 цэвэрлэл.</definition>
+      <page>1560</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠪᠠᠷᠯᠠᠯᠲᠠ</unicode>
+      <cyrillic>ЦЭВЭРЛЭЛТ</cyrillic>
+      <definition>цэвэрлэл-ийг үз., намын цэвэрлэлт хуучир. чистка партии. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0678">
+  <head>
+    <unicode>ᠮᠠᠶᠢᠲᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>mayitaγanaqu</transcript>
+    <transcript2>mayidaganago</transcript2>
+    <cyrillic>майтганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M0679</ref>
+    <ref>M0680</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠢᠲᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>майтганах</cyrillic>
+      <definition>〔动〕跛行颠跛，一瘸一拐.</definition>
+      <page>655</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠶᠢᠲᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>МАЙТГАНАХ</cyrillic>
+      <definition>ковылять, идти с трудом, хромая; хоёр ачаа хөтлөөд майтганасаар майжигнасаар арай чүү хүрлээ кое-как доковылял, ведя за собой двух внуков. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠢᠲᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>майтганах</cyrillic>
+      <definition>майтгар юмны майтга майтга хийх.</definition>
+      <page>327</page>
+    </entry_item>
+  </entries>
+</entry>

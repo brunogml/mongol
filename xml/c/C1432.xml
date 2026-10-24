@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C1432">
+  <head>
+    <unicode>ᠴᠢᠨᠥᠺᠠᠢ</unicode>
+    <transcript>činükei</transcript>
+    <transcript2>cinögei</transcript2>
+    <cyrillic>чинийх</cyrillic>
+  </head><see_also>
+    <ref>C1430</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠢᠨᠥᠺᠠᠢ</unicode>
+      <uighur>činükei</uighur>
+      <cyrillic>чинийх</cyrillic>
+      <transcript>CINYKEI</transcript>
+      <definition>[=cinyki] poss. pron. Thine, yours.</definition>
+      <page>190</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠨᠡ ᠮᠢᠨᠦᠺᠡᠢ ᠪᠤᠰᠤ ᠴᠢᠨᠥᠺᠠᠢ</unicode>
+          <transcript>ene minykei busu --</transcript>
+          <definition>This is not mine but yours .</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠢᠨᠦᠺᠡᠢ</unicode>
+      <definition>ton, ta, le tien.</definition>
+      <page>2136</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠨᠦᠺᠡᠢ ᠵᠭ ᠪᠤᠶᠤ</unicode>
+          <definition>tu as raison</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠴᠢᠨᠥᠺᠠᠢ</unicode>
+      <uighur>činükei</uighur>
+      <definition>dein, der Deinige</definition>
+      <page>323</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠨᠦᠬᠢ</unicode>
+      <cyrillic>чинийх</cyrillic>
+      <definition>〔代〕你的（人或东西）；你家：миний морь энд, ~ тэнд байна 我的马在这儿，你的（马）在那儿；энэ хоол ~ 这饭是你的（饭）.</definition>
+      <page>1590</page>
+    </entry_item>
+  </entries>
+</entry>

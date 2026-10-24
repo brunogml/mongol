@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y2133">
+  <head>
+    <unicode>ᠵᠡᠺᠡᠰᠥ</unicode>
+    <transcript>ǰegesü</transcript>
+    <transcript2>yegesö</transcript2>
+    <cyrillic>зэгс</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠡᠭᠡᠰᠦ ~ ᠵᠡᠭᠡᠰᠦᠨ</unicode>
+      <uighur>ǰekesü - ǰakesün</uighur>
+      <cyrillic>зэгс</cyrillic>
+      <transcript>ZEGESY(N)</transcript>
+      <definition>[= zigesy(n)] n. Reed, rush, cane.</definition>
+      <page>1043</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠡᠭᠡᠰᠦᠨ ᠳᠡᠪᠢᠰᠺᠡᠷ</unicode>
+          <transcript>--n debisker</transcript>
+          <definition>Cushion or mat of plaited rushes</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠡᠭᠡᠰᠦᠨ ᠤ ᠣᠢ</unicode>
+          <transcript>--n y oi</transcript>
+          <definition>Sugar plantation.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠡᠺᠡᠰᠦᠨ ~ ᠵᠡᠺᠡᠰᠦ ~ ᠵᠢᠺᠡᠰᠦᠨ</unicode>
+      <definition>canne à sucre.</definition>
+      <page>2318</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠠᠭᠤᠢ ᠵᠡᠭᠡᠰᠦᠨ</unicode>
+          <definition>le scirp des étangs, le grand jonc (scirpus palustris)</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠡᠭᠡᠰᠦᠨ ᠤ ᠣᠢ</unicode>
+          <definition>plantation de canne à sucre</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠡᠭᠡᠰᠦᠨ ᠲᠡᠪᠢᠰᠭᠡᠷ</unicode>
+          <definition>un lit de jonc</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠵᠡᠺᠡᠰᠥ</unicode>
+      <uighur>ǰekesü</uighur>
+      <definition>n. Calamus. The sweet flag (bot.).</definition>
+      <page>1203</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠡᠺᠡᠰᠥ</unicode>
+      <cyrillic>ЗЭГС(ЭН)</cyrillic>
+      <definition>1. ург. камыш, тростник обыкновенный; 2. камышовый; зэгсэн шугуй камышовые заросли.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠡᠺᠡᠰᠥ</unicode>
+      <cyrillic>ЗЭГСЭН</cyrillic>
+      <definition>I зэгс(эн) 2.-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

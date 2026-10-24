@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A2853">
+  <head>
+    <unicode>ᠠᠮᠠᠷᠯᠢᠬ</unicode>
+    <transcript>amarliq</transcript>
+    <transcript2>amarlig</transcript2>
+    <cyrillic>амарлаг</cyrillic>
+  </head>
+  <variants>
+    <variant type="cyrillic">амарлиг</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠮᠠᠷᠯᠢᠭ</unicode>
+      <cyrillic>амарлаг</cyrillic>
+      <definition>〔名〕〈动〉树懒（科）.</definition>
+      <page>49</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠮᠠᠷᠯᠢᠭ</unicode>
+      <cyrillic>амарлиг</cyrillic>
+      <definition>〔名〕〈动〉见 амарлаг.</definition>
+      <page>49</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I0840">
+  <head>
+    <unicode>ᠢᠮᠠᠭᠠᠲᠣᠬᠣ</unicode>
+    <transcript>imaγatuqu</transcript>
+    <transcript2>imagadogo</transcript2>
+    <cyrillic>ямаатах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>I0841</ref>
+    <ref>I0842</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠮᠠᠭᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>ямаатах</cyrillic>
+      <definition>〔动〕（烟灰，烟煤子，灯烟或锅底灰）复燃，起火星，死灰复燃.</definition>
+      <page>1751</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠮᠠᠭᠠᠲᠣᠬᠣ</unicode>
+      <cyrillic>ЯМААТАХ</cyrillic>
+      <definition>гореть (о саже на дне чаши, котла и т.п.). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>ямаатах</cyrillic>
+      <definition>Ruß am Topfboden schwelen, brennen</definition>
+      <page>414</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠮᠠᠭᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>ямаатах</cyrillic>
+      <definition>юмны хөө шатах, тогоо ямаатах, зуух ямаатах.</definition>
+      <page>906</page>
+    </entry_item>
+  </entries>
+</entry>

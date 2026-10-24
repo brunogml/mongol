@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5985">
+  <head>
+    <unicode>ᠲᠣᠭᠣᠷᠢᠣᠳᠠᠬᠣ</unicode>
+    <transcript>toγuriudaqu</transcript>
+    <transcript2>dogoriodago</transcript2>
+    <cyrillic>тойруудах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T5986</ref>
+    <ref>T5987</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠭᠣᠷᠢᠭᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>тойруудах</cyrillic>
+      <definition>〔动〕①迂回，绕弯，绕远，走远路；②转弯抹角.</definition>
+      <page>1063</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠭᠣᠷᠢᠣᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТОЙРУУДАХ</cyrillic>
+      <definition>быть слљшком кружным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠭᠣᠷᠢᠭᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>тойруудах</cyrillic>
+      <definition>хэтэрхий тойруу болох.</definition>
+      <page>536</page>
+    </entry_item>
+  </entries>
+</entry>

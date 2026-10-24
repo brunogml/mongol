@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S2619">
+  <head>
+    <unicode>ᠰᠠᠺᠺᠠ</unicode>
+    <transcript>segge</transcript>
+    <transcript2>segge</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠺᠺᠠ</unicode>
+      <uighur>sekke</uighur>
+      <transcript>SEGKE</transcript>
+      <page>682</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠺᠺᠠ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Same as seg ygei.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠡᠺᠭᠡ ᠦᠭᠡᠢ ~ ᠰᠡᠭ ᠦᠭᠡᠢ</unicode>
+      <definition>sans repos, sans se reposer, sans prendre du repos, (travailler) sans discontinuer.</definition>
+      <page>1367</page>
+    </entry_item>
+  </entries>
+</entry>

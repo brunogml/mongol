@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3491">
+  <head>
+    <unicode>ᠰᠢᠪᠠᠷᠲᠣᠬᠣ</unicode>
+    <transcript>sibartuqu</transcript>
+    <transcript2>sibardogo</transcript2>
+    <cyrillic>шавартах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3492</ref>
+    <ref>S3493</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠪᠠᠷᠲᠤᠬᠤ</unicode>
+      <cyrillic>шавартах</cyrillic>
+      <definition>〔动〕粘上泥，弄脏.</definition>
+      <page>1604</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠪᠠᠷᠲᠣᠬᠣ</unicode>
+      <cyrillic>ШАВАРТАХ</cyrillic>
+      <definition>загрязниться, покрываться грязью, становиться глинистым, болотистым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шавартах</cyrillic>
+      <definition>sich mit Lehm od Schlamm bedecken; verschlammen, schlammig od schmutzig werden</definition>
+      <page>376</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠪᠠᠷᠲᠤᠬᠤ</unicode>
+      <cyrillic>шавартах</cyrillic>
+      <definition>шавартай болох, шавар бий болох.</definition>
+      <page>827</page>
+    </entry_item>
+  </entries>
+</entry>

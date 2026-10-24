@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0100">
+  <head>
+    <unicode>ᠰᠠᠨᠳᠠᠶᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sandayilaγulqu</transcript>
+    <transcript2>sandayilagolgo</transcript2>
+    <cyrillic>сандайлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S0099</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠨᠳᠠᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сандайлуулах</cyrillic>
+      <definition>〔动〕сандайлах 的使动态.</definition>
+      <page>912</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠨᠳᠠᠶᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>САНДАЙЛУУЛАХ</cyrillic>
+      <definition>сандайлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сандайлуулах</cyrillic>
+      <definition>Kaus von сандайлах</definition>
+      <page>195</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠨᠳᠠᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сандайлуулах</cyrillic>
+      <definition>сандайлахын үйлдүүлэх хэв.</definition>
+      <page>468</page>
+    </entry_item>
+  </entries>
+</entry>

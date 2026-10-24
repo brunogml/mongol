@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A0851">
+  <head>
+    <unicode>ᠠᠭᠣᠯᠠᠷᠬᠠᠬ</unicode>
+    <transcript>aγularqaγ</transcript>
+    <transcript2>agolargag</transcript2>
+    <cyrillic>уулархаг</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠭᠣᠯᠠᠷᠬᠠᠬ</unicode>
+      <uighur>aγularqaq(</uighur>
+      <cyrillic>уулархаг</cyrillic>
+      <transcript>AГULARXAГ</transcript>
+      <definition>adj. Mountainous.</definition>
+      <page>17</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠭᠣᠯᠠᠷᠬᠠᠬ ᠭᠠᠵᠠᠷ</unicode>
+          <transcript>-- γazar</transcript>
+          <definition> Mountainous region.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠭᠣᠯᠠᠷᠬᠠᠬ</unicode>
+      <cyrillic>уулархаг</cyrillic>
+      <definition>〔形〕①多山的：~ газар 多山地区，山地；②山岭状的，山区性的.</definition>
+      <page>1213</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠣᠯᠠᠷᠬᠠᠬ</unicode>
+      <cyrillic>УУЛАРХАГ</cyrillic>
+      <definition>1. горный, горљстый; богатый горами; с горами; уулархаг газар горная местность; горный ландшафт; уулархаг нутаг, уулархаг орон горная страна; 2. горљстость. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>уулархаг,</cyrillic>
+      <definition>уулархуу bergig, gebirgig; ~ нутар od орон Bergland n</definition>
+      <page>263</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠭᠤᠯᠠᠷᠬᠠᠭ</unicode>
+      <cyrillic>уулархаг</cyrillic>
+      <definition>уул ихтэй, уулархуу; уулархаг газар.</definition>
+      <page>605</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>A0840</ref>
+  </related_to>
+</entry>

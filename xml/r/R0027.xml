@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="R0027">
+  <head>
+    <unicode>ᠷᠠᠳᠨ ᠠ</unicode>
+    <transcript>radn-a</transcript>
+    <transcript2>radna</transcript2>
+    <cyrillic>раднаа</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠷᠠᠳᠨ᠎ᠠ</unicode>
+      <uighur>radn-a</uighur>
+      <transcript>RADN-A</transcript>
+      <definition>[S. ratna] Same as erdeni, q.v.</definition>
+      <page>651</page>
+    </entry_item>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠷᠠᠳᠨ᠎ᠠ</unicode>
+      <transcript>RADN-A</transcript>
+      <definition>S. ratna. Same as erdeni, q.v.</definition>
+      <page>1181</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠷᠠᠳᠨᠠ</unicode>
+      <cyrillic>РАДНАА</cyrillic>
+      <definition>са. драгоценность.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠷᠠᠳᠨ ᠠ ~ ᠡᠷᠳᠡᠨᠢ</unicode>
+      <definition>1 chose précieuse, chose excellente dans son genre; &#13;
+2 joyau, perle</definition>
+      <page>2659</page>
+      <examples>
+        <example>
+          <unicode>ᠷᠠᠳᠨ ᠠ ᠪᠠᠨᠢ</unicode>
+          <definition>Ratnapâni, nom d'un bodhisattva</definition>
+        </example>
+        <example>
+          <unicode>ᠷᠠᠳᠨ ᠠ ᠰᠠᠮᠪᠠᠤ ᠠ = ᠡᠷᠳᠡᠨᠢ ᠎ᠶᠢᠨ ᠣᠷᠣᠨ</unicode>
+          <definition>Ratnasambhava, nom d'un bouddha</definition>
+        </example>
+        <example>
+          <unicode>ᠷᠠᠳᠨ ᠠ ᢐᠷᠤᠮ ᠠ</unicode>
+          <definition>arbre au corail, erybrina fulgens</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

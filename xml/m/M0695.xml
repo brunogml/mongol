@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0695">
+  <head>
+    <unicode>ᠮᠠᠶᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>mayilaγulqu</transcript>
+    <transcript2>mayilagolgo</transcript2>
+    <cyrillic>майлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>M0694</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>майлуулах</cyrillic>
+      <definition>〔动〕майлах 的使动态.</definition>
+      <page>655</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠶᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>МАЙЛУУЛАХ</cyrillic>
+      <definition>майлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>майлуулах</cyrillic>
+      <definition>майлахын үйлдүүлэх хэв.</definition>
+      <page>327</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0001">
+  <head>
+    <unicode>ᠴᠠ</unicode>
+    <transcript>ča</transcript>
+    <transcript2>ca</transcript2>
+    <cyrillic>цаа</cyrillic>
+  </head>
+  <see_also>
+    <ref>C0002</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠ</unicode>
+      <uighur>ča</uighur>
+      <cyrillic>цаа</cyrillic>
+      <transcript>CA</transcript>
+      <page>154</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠠ ᠪᠤᠭᠤ</unicode>
+          <transcript>-- buγu</transcript>
+          <definition> Reindeer.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠠ ᠭᠥᠷᠡᠭᠡᠰᠦ</unicode>
+          <transcript>-- gøregesy</transcript>
+          <definition> Reindeer.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠠ ᠪᠤᠭᠤ</unicode>
+      <definition>le cerf apprivoisé.</definition>
+      <page>2073</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠴᠠ</unicode>
+      <uighur>ča</uighur>
+      <definition>das zahme Rennthier</definition>
+      <page>315</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠴᠠ</unicode>
+      <uighur>ča</uighur>
+      <definition>n. The tame rein-deer.</definition>
+      <page>1268</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠ</unicode>
+      <cyrillic>цаа</cyrillic>
+      <definition>见 ~ буга, ~ гөрөөс 驯鹿，驯养的角鹿.</definition>
+      <page>1506</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠ</unicode>
+      <cyrillic>ЦАА</cyrillic>
+      <definition>I : цаа буга / цаа гөрөөс амьт. северный олень; † цаа бугын (хаг) хөвд ург. ягель, олений мох, лишайник; кладония оленья. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠ</unicode>
+      <cyrillic>ЦАА</cyrillic>
+      <definition>II: цуу цаа хийх ссориться, шуметь, кричать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠ</unicode>
+      <cyrillic>цаа</cyrillic>
+      <definition>цаа буга, цаа гөрөөс бугын төрлийн нэгэн зүйл амьтан гэрийн тэжээвэр болгож эдэлнэ.</definition>
+      <page>774</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q7151">
+  <head>
+    <unicode>ᠭᠣᠷᠪᠢᠳᠠᠬᠣ</unicode>
+    <transcript>γurbidaqu</transcript>
+    <transcript2>gorbidago</transcript2>
+    <cyrillic>гурвидах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q7153</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q7152</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠤᠷᠪᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>гурвидах</cyrillic>
+      <definition>〔动〕①做螺纹线，雕细线，凿出细沟，凿出凹槽；②使用滑车.</definition>
+      <page>330</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠷᠪᠢᠳᠠᠬᠣ</unicode>
+      <cyrillic>ГУРВИДАХ</cyrillic>
+      <definition>1) образовать впадину, выемку, орнамент, резьбу; 2) бороздить. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гурвидах</cyrillic>
+      <definition>kerben, fugen, nuten</definition>
+      <page>81</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠤᠷᠪᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>гурвидах</cyrillic>
+      <definition>гурви гаргах.</definition>
+      <page>160</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5628">
+  <head>
+    <unicode>ᠲᠣᠭᠠᠴᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>toγačaγulqu</transcript>
+    <transcript2>dogacagolgo</transcript2>
+    <cyrillic>тооцуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T5627</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠭᠠᠴᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тооцуулах</cyrillic>
+      <definition>〔动〕тооцох 的使动态.</definition>
+      <page>1079</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠭᠠᠴᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТООЦУУЛАХ</cyrillic>
+      <definition>тооцох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тооцуулах</cyrillic>
+      <definition>Kaus von тооцох</definition>
+      <page>231</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠭᠠᠴᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тооцуулах</cyrillic>
+      <definition>тооцохын үйлдүүлэх хэв.</definition>
+      <page>543</page>
+    </entry_item>
+  </entries>
+</entry>

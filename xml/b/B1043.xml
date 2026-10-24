@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1043">
+  <head>
+    <unicode>ᠪᠠᠵᠢᠭᠠᠳᠠᠬᠣ</unicode>
+    <transcript>baǰiγadaqu</transcript>
+    <transcript2>bacigadago</transcript2>
+    <cyrillic>бажгадах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B1045</ref>
+  </derivatives>
+  <see_also>
+    <ref>B1044</ref>
+  </see_also>
+  <variants>
+    <variant type="cyrillic">бажигадах</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠵᠢᠭᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>бажгадах</cyrillic>
+      <definition>〔动〕慌张，慌乱.</definition>
+      <page>112</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠵᠢᠭᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>БАЖГАДАХ</cyrillic>
+      <definition>1. растеряться, опешить, оторопеть, прийти в замешательство; встревожиться, переполошиться; 2. бажгадахуй-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠵᠢᠭᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>БАЖГАДАХУЙ</cyrillic>
+      <definition>растерянность, замешательство, переполошение.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠵᠢᠭᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>бажигадах</cyrillic>
+      <definition>〔动〕见 бажгадах.</definition>
+      <page>112</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бажгадах</cyrillic>
+      <definition>verwirrt od konfus sein, aufgeregt sein (wegen -д); in Verlegenheit geraten (über -д)</definition>
+      <page>42</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠵᠢᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>бажгадах</cyrillic>
+      <definition>сандрах, тэвдэх, бачимдах; шалгалт өгөх гэж бажигадав.</definition>
+      <page>67</page>
+    </entry_item>
+  </entries>
+</entry>

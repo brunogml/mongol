@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5328">
+  <head>
+    <unicode>ᠲᠣᠨᠲᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tuntaraγulqu</transcript>
+    <transcript2>dondaragolgo</transcript2>
+    <cyrillic>тунтруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T5327</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠨᠲᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тунтруулах</cyrillic>
+      <definition>〔动〕тунтрах 的使动态.</definition>
+      <page>1114</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠨᠲᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТУНТРУУЛАХ</cyrillic>
+      <definition>тунтрах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠨᠲᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тунтруулах</cyrillic>
+      <definition>тунтрахын үйлдүүлэх хэв.</definition>
+      <page>557</page>
+    </entry_item>
+  </entries>
+</entry>

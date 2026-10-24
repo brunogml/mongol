@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A2734">
+  <head>
+    <unicode>ᠠᠯᠺᠢᠬᠣ</unicode>
+    <transcript>alkiqu</transcript>
+    <transcript2>algigo</transcript2>
+    <cyrillic>алхих</cyrillic>
+  </head>
+  <see_also>
+    <ref>A2745</ref>
+  </see_also>
+  <derivatives>
+    <ref>A2735</ref>
+    <ref>A2736</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠯᠺᠢᠬᠣ</unicode>
+      <uighur>alkiqu</uighur>
+      <cyrillic>алхих</cyrillic>
+      <transcript>ALKI-</transcript>
+      <definition>V. t. To beat, hit.</definition>
+      <page>32</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>алхих</cyrillic>
+      <definition>prügeln, schlagen</definition>
+      <page>28</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠯᠬᠢᠬᠤ</unicode>
+      <cyrillic>алхих</cyrillic>
+      <definition>занчих, зодох.</definition>
+      <page>35</page>
+    </entry_item>
+  </entries>
+</entry>

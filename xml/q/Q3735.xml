@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q3735">
+  <head>
+    <unicode>ᠬᠣᠣᠠ</unicode>
+    <transcript>qou-a</transcript>
+    <transcript2>goo-a</transcript2>
+    <cyrillic>хуа</cyrillic>
+  </head><see_also>
+    <ref>Q3729</ref>
+  
+    <ref>Q4397</ref>
+  
+    <ref>Q3736</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠤ᠎ᠠ</unicode>
+      <uighur>qou-a</uighur>
+      <transcript>XOU-A</transcript>
+      <definition>See xuva.</definition>
+      <page>973</page>
+    </entry_item>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠤ᠎ᠠ</unicode>
+      <uighur>qou-a</uighur>
+      <cyrillic>хуа</cyrillic>
+      <transcript>XUU-A</transcript>
+      <definition>See xuva.</definition>
+      <page>973</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠤ᠎ᠠ</unicode>
+      <definition>alézan (cheval).</definition>
+      <page>858</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4838">
+  <head>
+    <unicode>ᠺᠥᠺᠯᠡᠷᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>kögleregülkü</transcript>
+    <transcript2>gögleregölgö</transcript2>
+    <cyrillic>хөглөрүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K4837</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠭᠯᠡᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хөглөрүүлэх</cyrillic>
+      <definition>〔动〕хөглөрөх 的使动态.</definition>
+      <page>1389</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠺᠯᠡᠷᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ХӨГЛӨРҮҮЛЭХ</cyrillic>
+      <definition>хөглөрөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠭᠯᠡᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хөглөрүүлэх</cyrillic>
+      <definition>хөглөрөхийн үйлдүүлэх хэв, хөглөрөхөд хүрүүлэх.</definition>
+      <page>704</page>
+    </entry_item>
+  </entries>
+</entry>

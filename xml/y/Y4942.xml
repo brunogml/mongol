@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4942">
+  <head>
+    <unicode>ᠶᠣᠷᠺᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>yorgiγulqu</transcript>
+    <transcript2>yorgigolgo</transcript2>
+    <cyrillic>ёргиулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y4941</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠣᠷᠭᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ёргиулах</cyrillic>
+      <definition>〔动〕ёргих 的使动态.</definition>
+      <page>493</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠣᠷᠺᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЁРГИУЛАХ</cyrillic>
+      <definition>ёргиох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠣᠷᠭᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ёргиулах</cyrillic>
+      <definition>ёргихын үйлдүүлэх хэв, ёргиход хүргүүлэх.</definition>
+      <page>236</page>
+    </entry_item>
+  </entries>
+</entry>

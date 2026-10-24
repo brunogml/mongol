@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B4790">
+  <head>
+    <unicode>ᠪᠥᠺᠥᠯᠳᠥᠷᠺᠠ</unicode>
+    <transcript>bögüldürge</transcript>
+    <transcript2>bögöldörge</transcript2>
+    <cyrillic>бөгөлдөргө</cyrillic>
+  </head><see_also>
+    <ref>B4669</ref>
+  </see_also>
+  <variants>
+    <variant type="cyrillic">бөгөлдрөг</variant>
+    <variant type="cyrillic">бөхөлтрөг</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠥᠺᠥᠯᠳᠥᠷᠺᠠ</unicode>
+      <uighur>bögüldürge</uighur>
+      <transcript>BØGYLDYRGE</transcript>
+      <definition>See bøgeldyrge</definition>
+      <page>126</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠦᠺᠦᠯᠳᠦᠷᠺᠡ ~ ᠪᠦᠺᠡᠯᠳᠦᠷᠺᠡ</unicode>
+      <definition>cordon qu'on attache au bout d'un fouet pour le tenir à la main.</definition>
+      <page>1251</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠪᠥᠺᠥᠯᠳᠥᠷᠺᠠ</unicode>
+      <uighur>büküldürke</uighur>
+      <definition>die Schlinge,das Knopfloch</definition>
+      <page>120</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠭᠡᠯᠳᠦᠷᠭᠡ</unicode>
+      <cyrillic>бөгөлдөргө</cyrillic>
+      <definition>〔名〕见 бөгөлдрөг.</definition>
+      <page>183</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠬᠥᠯᠲᠥᠷᠭᠡ</unicode>
+      <cyrillic>бөхөлтрөг</cyrillic>
+      <definition>〔名〕见 бөгөлдрөг.</definition>
+      <page>193</page>
+    </entry_item>
+  </entries>
+</entry>

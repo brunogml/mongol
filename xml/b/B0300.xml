@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0300">
+  <head>
+    <unicode>ᠪᠠᠬᠣ</unicode>
+    <transcript>baqu</transcript>
+    <transcript2>bago</transcript2>
+    <cyrillic>бах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0340</ref>
+  </derivatives>
+  <see_also>
+    <ref>B0101</ref>
+    <ref>B0301</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠬᠣ</unicode>
+      <cyrillic>БАХ</cyrillic>
+      <definition>III cмола.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠬᠣ</unicode>
+      <cyrillic>БАХ</cyrillic>
+      <definition>IV анаг. удушье; астма; ангина; † цээжний бах анаг. стенокардия, грудная жаба.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠬᠤ</unicode>
+      <cyrillic>бах /2</cyrillic>
+      <definition>1. модны ур цулцан; модны бах;2. модондоо нэвтэрч хатаж хатуурсан давирхайтай мод; бахтай мод утаа тортог ихтэй.</definition>
+      <page>80</page>
+    </entry_item>
+  </entries>
+</entry>

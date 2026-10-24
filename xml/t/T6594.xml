@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6594">
+  <head>
+    <unicode>ᠲᠣᠰᠺᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tosgiraγulqu</transcript>
+    <transcript2>dosgiragolgo</transcript2>
+    <cyrillic>тошгируулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T6591</ref>
+  </related_to>
+  <see_also>
+    <ref>T6593</ref>
+    <ref>T6595</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠰᠬᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тошгируулах</cyrillic>
+      <definition>〔动〕тошгирох 的使动态.</definition>
+      <page>1089</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠰᠺᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТОШГИРУУЛАХ</cyrillic>
+      <definition>тошгирох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠰᠬᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тошгируулах</cyrillic>
+      <definition>тошгирохын үйлдүүлэх хэв.</definition>
+      <page>547</page>
+    </entry_item>
+  </entries>
+</entry>

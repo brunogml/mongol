@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2945">
+  <head>
+    <unicode>ᠴᠣᠯᠬᠣᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>čulquγanaqu</transcript>
+    <transcript2>colgoganago</transcript2>
+    <cyrillic>цулхганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C2946</ref>
+    <ref>C2947</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠤᠯᠬᠤᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>цулхганах</cyrillic>
+      <definition>〔动〕腹部突起的人或物体抖动、移动.</definition>
+      <page>1549</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠯᠬᠣᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЦУЛХГАНАХ</cyrillic>
+      <definition>двигаться (о ком-чём-л. пухлом). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠤᠯᠬᠤᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>цулхганах</cyrillic>
+      <definition>цулхгар юмны цулхга цулхга хөдлөх.</definition>
+      <page>798</page>
+    </entry_item>
+  </entries>
+</entry>

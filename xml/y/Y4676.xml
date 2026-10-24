@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4676">
+  <head>
+    <unicode>ᠶᠣᠵᠣᠲᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>yoǰutuγulqu</transcript>
+    <transcript2>yocodogolgo</transcript2>
+    <cyrillic>ёжтуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y4675</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠣᠵᠣᠲᠣᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ёжтуулах</cyrillic>
+      <definition>〔动〕ёжтох 的使动态.</definition>
+      <page>489</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠣᠵᠣᠲᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЁЖТУУЛАХ</cyrillic>
+      <definition>ёжтох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠣᠵᠣᠲᠣᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ёжтуулах</cyrillic>
+      <definition>ёжтохын үйлдүүлэх хэв.</definition>
+      <page>235</page>
+    </entry_item>
+  </entries>
+</entry>

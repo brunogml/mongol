@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5512">
+  <head>
+    <unicode>ᠱᠣᠪᠠᠷ</unicode>
+    <transcript>šobar</transcript>
+    <transcript2>sobar</transcript2>
+    <cyrillic>шовор</cyrillic>
+  </head>
+  <see_also>
+    <ref>S5511</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠣᠪᠣᠷ</unicode>
+      <cyrillic>шовор</cyrillic>
+      <definition>〔名〕〈动〉雪豹.</definition>
+      <page>1644</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠪᠠᠷ</unicode>
+      <cyrillic>ШОВОР</cyrillic>
+      <definition>амьт. барс; шоо бар-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠣᠪᠠᠷ</unicode>
+      <cyrillic>шоовор</cyrillic>
+      <definition>бие бяцхан нэгэн зүйл барс.</definition>
+      <page>854</page>
+    </entry_item>
+  </entries>
+</entry>

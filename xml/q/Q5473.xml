@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q5473">
+  <head>
+    <unicode>ᠬᠣᠯᠠᠲᠣ</unicode>
+    <transcript>qulatu</transcript>
+    <transcript2>golado</transcript2>
+    <cyrillic>хулт</cyrillic>
+  </head><see_also>
+    <ref>Q5800</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠯᠠᠲᠣ</unicode>
+      <uighur>quladu</uighur>
+      <cyrillic>хулт</cyrillic>
+      <transcript>XULATU</transcript>
+      <page>984</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠯᠠᠲᠣ ᠰᠢᠪᠠᠭᠤ</unicode>
+          <transcript>-- sibaγu</transcript>
+          <definition> Buzzard</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠯᠠᠳᠤ ᠰᠢᠪᠠᠭᠤᠨ</unicode>
+      <definition>la buse, busard, cassard (falco buteo),</definition>
+      <page>924</page>
+    </entry_item>
+  </entries>
+</entry>

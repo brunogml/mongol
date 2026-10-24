@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5022">
+  <head>
+    <unicode>ᠰᠣᠨᠳᠣᠭᠣᠶᠢᠳᠠᠬᠣ</unicode>
+    <transcript>sonduγuyidaqu</transcript>
+    <transcript2>sondogoyidago</transcript2>
+    <cyrillic>сондгойдох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5024</ref>
+    <ref>S5025</ref>
+  </derivatives>
+  <see_also>
+    <ref>S5023</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠨᠳᠣᠭᠣᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>сондгойдох</cyrillic>
+      <definition>〔动〕变孤单，孤苦伶仃.</definition>
+      <page>937</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠨᠳᠣᠭᠣᠶᠢᠳᠠᠬᠣ</unicode>
+      <cyrillic>СОНДГОЙДОХ</cyrillic>
+      <definition>сондгойрох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠨᠳᠣᠭᠣᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>сондгойдох</cyrillic>
+      <definition>хэтэрхий сондгой болох.</definition>
+      <page>479</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A3600">
+  <head>
+    <unicode>ᠠᠶᠢᠰᠢ</unicode>
+    <transcript>ayisi</transcript>
+    <transcript2>ayisi</transcript2>
+    <cyrillic>айсин</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠢᠰᠢ</unicode>
+      <page>2</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠢᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <uighur>ayisi ügei</uighur>
+          <definition>sans peur, courageusement, intrépidement, hardiment, audacieusement</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠠᠶᠢᠰᠢ ᠦᠭᠡᠢ</unicode>
+      <uighur>ayisi ügei</uighur>
+      <definition>adj. Fearless. Bold, daring.</definition>
+      <page>5</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠶᠢᠰᠢ</unicode>
+      <cyrillic>АЙСИН</cyrillic>
+      <definition>айшин–г үз.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

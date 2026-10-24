@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T6217">
+  <head>
+    <unicode>ᠲᠣᠬᠯᠢ</unicode>
+    <transcript>toγli</transcript>
+    <transcript2>dogli</transcript2>
+    <cyrillic>тогил</cyrillic>
+  </head><see_also>
+    <ref>T7377</ref>
+  
+    <ref>T6217a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠬᠯᠢ</unicode>
+      <uighur>toqli</uighur>
+      <cyrillic>тогил</cyrillic>
+      <transcript>TOΓLI</transcript>
+      <page>814</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠣᠬᠯᠢ ᠪᠤᠷᠭᠠᠰᠤ</unicode>
+          <transcript>-- burγasu </transcript>
+          <definition>A kind of willow growing on mountains (Ch tu-ching-liu)</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠬᠯᠢ ᠪᠤᠷᠭᠠᠰᠤᠨ</unicode>
+      <definition>une espece de saule qui vient sur les montagnes</definition>
+      <page>1878</page>
+    </entry_item>
+  </entries>
+</entry>

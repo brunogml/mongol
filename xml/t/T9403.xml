@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T9403">
+  <head>
+    <unicode>ᠳᠥᠷᠪᠠᠯᠠᠺᠥ</unicode>
+    <transcript>dörbelekü</transcript>
+    <transcript2>dörbelegö</transcript2>
+    <cyrillic>дөрөвлөх</cyrillic>
+  </head><derivatives>
+    <ref>T9404</ref>
+  
+    <ref>T9401</ref>
+  </derivatives><see_also>
+    <ref>T9402</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠥᠷᠪᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>дөрөвлөх</cyrillic>
+      <definition>〔动〕分成四联，弄成四叠，分四部，分成四下.</definition>
+      <page>431</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠥᠷᠪᠠᠯᠠᠺᠥ</unicode>
+      <cyrillic>ДӨРӨВЛӨХ</cyrillic>
+      <definition>делить на четыре части. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

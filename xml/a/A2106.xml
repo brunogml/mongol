@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A2106">
+  <head>
+    <unicode>ᠠᠳᠢᠰᠯᠠᠬᠣ</unicode>
+    <transcript>adislaqu</transcript>
+    <transcript2>adislago</transcript2>
+    <cyrillic>адислах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>A2107</ref>
+    <ref>A2108</ref>
+    <ref>A2111</ref>
+    <ref>A2109</ref>
+    <ref>A2108b</ref>
+    <ref>A2108a</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠳᠢᠰᠯᠠᠬᠣ</unicode>
+      <uighur>adislaqu</uighur>
+      <cyrillic>адислах</cyrillic>
+      <transcript>ADISLA-</transcript>
+      <definition>v.t. To bless, pronounce a bene ctton, consecrate,dedicate.</definition>
+      <page>11</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠳᠢᠰᠯᠠᠭᠰᠠᠨ ᠭᠠᠵᠠᠷ</unicode>
+          <transcript>--γsan γazar</transcript>
+          <definition>Blessed ground; blissful place.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠳᠢᠰᠯᠠᠨ ᠲᠠᠺᠢᠬᠤ</unicode>
+          <transcript>--n takixu</transcript>
+          <definition>To make an offering, sacrifice.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠳᠢᠰᠯᠠᠬᠤ</unicode>
+      <definition>bénir, donner la bénédiction</definition>
+      <page>70</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠳᠢᠰᠯᠠᠬᠰᠠᠨ ᠭᠠᠵᠠᠷ</unicode>
+          <definition>terre de bénédiction, heureuse.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠳᠢᠰᠯᠠᠨ ᠳᠡᠭᠢᠺᠦ</unicode>
+          <definition>faire des sacrifices, sacrifier.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠠᠳᠢᠰᠯᠠᠬᠣ</unicode>
+      <uighur>adislaqu</uighur>
+      <definition>segnen, den Segen geben</definition>
+      <page>18</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠠᠳᠢᠰᠯᠠᠬᠣ</unicode>
+      <uighur>adislaqu</uighur>
+      <definition>v.t. To bless. To give blessings</definition>
+      <page>68</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠳᠢᠰᠯᠠᠬᠤ</unicode>
+      <cyrillic>адислах</cyrillic>
+      <definition>〔动〕祝福；赐福，降福；行摩顶礼.</definition>
+      <page>24</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠳᠢᠰᠯᠠᠬᠣ</unicode>
+      <cyrillic>АДИСЛАХ</cyrillic>
+      <definition>1. 1) благословлять, давать благословление; мутраар адислах благословлять приложением руки ламы высокого духовного ранга; номоор адислах благословлять прикосновением религиозной книги к голове верующего; адисласан газар святилище, святое место; храм; церковь; 2) совершать обряд освящения, благословения; адислан тахих совершать жертвоприношение, приносить в жертву что-л.; жертвовать чем-л; почитать (культо¬вые предметы); 3) шилж. стукнуть, ударить по голове; 2. адислахуй–г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠳᠢᠰᠯᠠᠬᠣᠢ</unicode>
+      <cyrillic>АДИСЛАХУЙ</cyrillic>
+      <definition>благословение.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>адислах</cyrillic>
+      <definition>segnen</definition>
+      <page>24</page>
+    </entry_item>
+    <entry_item>
+      <dico>Mostaert</dico>
+      <unicode>ᠠᠳᠢᠰᠯᠠᠬᠣ</unicode>
+      <definition>bénir</definition>
+      <page>4</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠳᠢᠰᠯᠠᠬᠤ</unicode>
+      <cyrillic>адислах</cyrillic>
+      <definition>адиститлах.</definition>
+      <page>23</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>A2090</ref>
+  </related_to>
+</entry>

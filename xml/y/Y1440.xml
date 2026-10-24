@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1440">
+  <head>
+    <unicode>ᠵᠠᠮᠴᠢᠯᠠᠬᠣ</unicode>
+    <transcript>ǰamčilaqu</transcript>
+    <transcript2>yamcilago</transcript2>
+    <cyrillic>замчлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1441</ref>
+    <ref>Y1442</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠮᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>замчлах</cyrillic>
+      <definition>〔动〕引路，带路，作向导.</definition>
+      <page>541</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠮᠴᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЗАМЧЛАХ</cyrillic>
+      <definition>быть проводником, указывать дорогу, служить проводником в пути. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>замчлах</cyrillic>
+      <definition>Person den Weg weisen, führen</definition>
+      <page>117</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠮᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>замчлах</cyrillic>
+      <definition>зам зааж явах.</definition>
+      <page>265</page>
+    </entry_item>
+  </entries>
+</entry>

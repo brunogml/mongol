@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U0020">
+  <head>
+    <unicode>ᠣᠣᠬᠠᠶᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ouqayilaγulqu</transcript>
+    <transcript2>oogayilagolgo</transcript2>
+    <cyrillic>уухайлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U0019</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠤᠬᠠᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>уухайлуулах</cyrillic>
+      <definition>〔动〕уухайлах 的使动态.</definition>
+      <page>1216</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠣᠬᠠᠶᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>УУХАЙЛУУЛАХ</cyrillic>
+      <definition>уухайлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>уухайлуулах</cyrillic>
+      <definition>Kaus von уухайлах</definition>
+      <page>264</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠤᠬᠠᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>уухайлуулах</cyrillic>
+      <definition>уухайлахын үйлдүүлэх хэв.</definition>
+      <page>607</page>
+    </entry_item>
+  </entries>
+</entry>

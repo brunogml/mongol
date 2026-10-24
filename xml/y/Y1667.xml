@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1667">
+  <head>
+    <unicode>ᠵᠠᠶᠢᠴᠠᠬᠣ</unicode>
+    <transcript>ǰayičaqu</transcript>
+    <transcript2>yayicago</transcript2>
+    <cyrillic>зайцах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1668</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠢᠴᠠᠬᠤ</unicode>
+      <cyrillic>зайцах</cyrillic>
+      <definition>〔动〕造成空隙，腾出空间，腾出地方.</definition>
+      <page>534</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠶᠢᠴᠠᠬᠣ</unicode>
+      <cyrillic>ЗАЙЦАХ</cyrillic>
+      <definition>освобождать, высвобождать место, удаляться, уклоняться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠢᠴᠠᠬᠤ</unicode>
+      <cyrillic>зайцах</cyrillic>
+      <definition>зайтай болгох, зайчлах.</definition>
+      <page>261</page>
+    </entry_item>
+  </entries>
+</entry>

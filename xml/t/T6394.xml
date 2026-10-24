@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6394">
+  <head>
+    <unicode>ᠲᠣᠪᠺᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tobkiγulqu</transcript>
+    <transcript2>dobgigolgo</transcript2>
+    <cyrillic>товхиулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T6393</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠪᠬᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>товхиулах</cyrillic>
+      <definition>〔动〕товхих 的使动态.</definition>
+      <page>1051</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠪᠺᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТОВХИУЛАХ</cyrillic>
+      <definition>товхих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠪᠬᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>товхиулах</cyrillic>
+      <definition>товхихын үйлдүүлэх хэв.</definition>
+      <page>531</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4039">
+  <head>
+    <unicode>ᠶᠣᠬᠲᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>yoγtalaγulqu</transcript>
+    <transcript2>yogdalagolgo</transcript2>
+    <cyrillic>ёгтлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y4038</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠣᠭᠲᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ёгтлуулах</cyrillic>
+      <definition>〔动〕ёгтлох 的使动态.</definition>
+      <page>488</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠣᠬᠲᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЁГТЛУУЛАХ</cyrillic>
+      <definition>ёгтлох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠣᠭᠲᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ёгтлуулах</cyrillic>
+      <definition>ёгтлохын үйлдүүлэх хэв.</definition>
+      <page>235</page>
+    </entry_item>
+  </entries>
+</entry>

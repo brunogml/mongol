@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9043">
+  <head>
+    <unicode>ᠳᠥᠺᠥᠮᠯᠡᠺᠥ</unicode>
+    <transcript>dökümlekü</transcript>
+    <transcript2>dögömlegö</transcript2>
+    <cyrillic>дөхөмлөх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠥᠬᠥᠮᠯᠡᠬᠦ</unicode>
+      <cyrillic>дөхөмлөх</cyrillic>
+      <definition>〔动〕①使之简便，使近便，使简易；使顺利；②使有益.</definition>
+      <page>432</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠥᠺᠥᠮᠯᠡᠺᠥ</unicode>
+      <cyrillic>ДӨХӨМЛӨХ</cyrillic>
+      <definition>делать доступным, облегчать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠥᠭᠥᠮᠯᠡᠬᠦ</unicode>
+      <cyrillic>дөхөмлөх</cyrillic>
+      <definition>үйл явдлыг дөхөм болгох.</definition>
+      <page>207</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T9041</ref>
+  </related_to>
+</entry>

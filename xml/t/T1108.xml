@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1108">
+  <head>
+    <unicode>ᠳᠠᠪᠣᠰᠣᠲᠣ</unicode>
+    <transcript>dabusutu</transcript>
+    <transcript2>dabosodo</transcript2>
+    <cyrillic>давст</cyrillic>
+  </head>
+  <see_also>
+    <ref>T1106</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠪᠤᠰᠣᠳᠤ</unicode>
+      <definition>salé.</definition>
+      <page>1604</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠪᠤᠰᠣᠳᠤ ᠤᠰᠤᠨ</unicode>
+          <definition>eau salée, jus salé</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠠᠪᠤᠰᠣᠳᠤ ᠨᠣᠭᠤᠭᠠᠨ</unicode>
+          <definition>légume salé</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠳᠠᠪᠣᠰᠣᠲᠣ</unicode>
+      <uighur>tabusodu</uighur>
+      <definition>adj. Salty. Salted. Having salt.</definition>
+      <page>1055</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠪᠤᠰᠤᠲᠤ</unicode>
+      <cyrillic>давст</cyrillic>
+      <definition>〔形〕参见 давстай.</definition>
+      <page>367</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠪᠣᠰᠣᠲᠣ</unicode>
+      <cyrillic>ДАВСТ</cyrillic>
+      <definition>содержащий, имеющий соль, солёный; давст нуур солёное озеро. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>давст,</cyrillic>
+      <definition>давстай Salz-; salzhaltig, salzig; ~ нуур[ан] Salzsee m; ~ ус[ан] Salzwasser n</definition>
+      <page>87</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠪᠤᠰᠤᠲᠤ</unicode>
+      <cyrillic>давст</cyrillic>
+      <definition>давс бүхий юм; давст нуур.</definition>
+      <page>176</page>
+    </entry_item>
+  </entries>
+</entry>

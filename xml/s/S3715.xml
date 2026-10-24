@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3715">
+  <head>
+    <unicode>ᠰᠢᠳᠠᠮᠳᠠᠬᠣ</unicode>
+    <transcript>sidamdaqu</transcript>
+    <transcript2>sidamdago</transcript2>
+    <cyrillic>шийдамдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3716</ref>
+  </derivatives>
+  <see_also>
+    <ref>S2949</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠳᠠᠮᠳᠠᠬᠤ</unicode>
+      <definition>donner coup de bâton , frapper avec la massue.</definition>
+      <page>1483</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠳᠠᠮᠳᠠᠬᠤ</unicode>
+      <cyrillic>шийдамдах</cyrillic>
+      <definition>〔动〕用棍子打.</definition>
+      <page>1631</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠳᠠᠮᠳᠠᠬᠣ</unicode>
+      <cyrillic>ШИЙДАМДАХ</cyrillic>
+      <definition>бить, ударять, колотить палкой, дубинкой. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠳᠠᠮᠳᠠᠬᠤ</unicode>
+      <cyrillic>шийдамдах</cyrillic>
+      <definition>шийдмаар цохих жанчих.</definition>
+      <page>845</page>
+    </entry_item>
+  </entries>
+</entry>

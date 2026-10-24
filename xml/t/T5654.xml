@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5654">
+  <head>
+    <unicode>ᠲᠣᠬᠠᠶᠢᠲᠠᠢ</unicode>
+    <transcript>tuqayitai</transcript>
+    <transcript2>dogayidai</transcript2>
+    <cyrillic>тухайтай</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠬᠠᠢᠲᠠᠢ</unicode>
+      <cyrillic>тухайтай</cyrillic>
+      <definition>〔形〕相近的，相像的，相类似的：нилээд ~ байна 比较相像，比较相近.</definition>
+      <page>1124</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠬᠠᠶᠢᠲᠠᠢ</unicode>
+      <cyrillic>ТУХАЙТАЙ</cyrillic>
+      <definition>приблизљтельный, сходный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠬᠠᠢᠲᠠᠢ</unicode>
+      <cyrillic>тухайтай</cyrillic>
+      <definition>ойролцоо; төсөөтэй; нилээд тухайтай байна.</definition>
+      <page>561</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T5583</ref>
+  </related_to>
+</entry>

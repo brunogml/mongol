@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1037">
+  <head>
+    <unicode>ᠱᠠᠯᠬᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šalqalǰaγulqu</transcript>
+    <transcript2>salgalcagolgo</transcript2>
+    <cyrillic>шалхалзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S1035</ref>
+  </related_to>
+  <see_also>
+    <ref>S1036</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠯᠬᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шалхалзуулах</cyrillic>
+      <definition>〔动〕шалхалзах 的使动态.</definition>
+      <page>1615</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠯᠬᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАЛХАЛЗУУЛАХ</cyrillic>
+      <definition>шалхалзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шалхалзуулах</cyrillic>
+      <definition>Kaus von шалхалзах</definition>
+      <page>379</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠯᠬᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шалхалзуулах</cyrillic>
+      <definition>шалхалзахын үйлдүүлэх хэв.</definition>
+      <page>834</page>
+    </entry_item>
+  </entries>
+</entry>

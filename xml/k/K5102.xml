@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K5102">
+  <head>
+    <unicode>ᠺᠥᠷᠪᠡᠯᠵᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>gürbelǰegülkü</transcript>
+    <transcript2>görbelcegölgö</transcript2>
+    <cyrillic>гүрвэлзүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K5101</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠦᠷᠪᠡᠯᠵᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>гүрвэлзүүлэх</cyrillic>
+      <definition>〔动〕гүрвэлзэх 的使动态.</definition>
+      <page>343</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠷᠪᠡᠯᠵᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ГҮРВЭЛЗҮҮЛЭХ</cyrillic>
+      <definition>гүрвэлзэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠦᠷᠪᠡᠯᠵᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>гүрвэлзүүлэх</cyrillic>
+      <definition>гүрвэлзэхийн үйлдүүлэх хэв.</definition>
+      <page>166</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2587">
+  <head>
+    <unicode>ᠴᠣᠬᠣᠰ</unicode>
+    <transcript>čuqus</transcript>
+    <transcript2>cogos</transcript2>
+    <cyrillic>цухас</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠣᠬᠣᠰ</unicode>
+      <uighur>čuqus</uighur>
+      <cyrillic>цухас</cyrillic>
+      <transcript>CUXUS</transcript>
+      <definition>Adverbial particle describing the repeated appearance and disappearance of an object.</definition>
+      <page>209</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠣᠬᠣᠰ ᠴᠣᠬᠣᠰ</unicode>
+          <transcript>-- cuxus</transcript>
+          <definition> Same as above.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠣᠬᠣᠰ ᠭᠠᠷᠭᠠᠬᠤ</unicode>
+          <transcript>-- γarγaxu</transcript>
+          <definition> To show something only in part.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠣᠬᠣᠰ ᠺᠢᠺᠦ</unicode>
+          <transcript>-- kiky</transcript>
+          <definition> To appear and vanish, appear for a moment only.</definition>
+        </example>
+        <example>
+          <uighur>ᠴᠣᠬᠣᠰ ügülekü</uighur>
+          <transcript>-- ygyleky</transcript>
+          <definition> To allude to, hint at.</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠢᠭᠠᠰᠤ ᠴᠣᠬᠣᠰ ᠺᠢᠮᠦᠢ</unicode>
+          <transcript>ziγasu -- kimyi</transcript>
+          <definition> The fish Jumps from time to time.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠬᠣᠰ</unicode>
+      <cyrillic>ЦУХАС</cyrillic>
+      <definition>не до конца, наполовину; мельком, вскользь; цухас гаргах вытаскивать, показывать кончик чего-л.; ийнхүү цухас гаргав здесь упоминается это мельком, вскользь; цухас дурдах слегка коснуться (какого-л. вопроса); вскользь напомнить; цухас өгүүлэх а) недоговаривать, говорить намёками; б) мимоходом напоминать; замкнуться; натолкнуться на мысль; цухас хийх показавшись, исчезнуть; высунуться; цухас цухас хийх высовываться; загас уснаас цухас цухас хийнэ рыба выскакивает из воды. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цухас</cyrillic>
+      <definition>teilweise, unvollständig; flüchtig, vage; ~ дурдах flüchtig erwähnen; ~ өгүүлэх andeuten, andeutungsweise erzählen; ~ ~ хийх = цухалзах
+1.</definition>
+      <page>362</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠤᠬᠤᠰ</unicode>
+      <cyrillic>цухас</cyrillic>
+      <definition>товч төдий, цухуйх төдий, хагас нь; цухас дурдах; цухас хэлэх; цухас мэдэгдэх.</definition>
+      <page>801</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>C2588</ref>
+    <ref>C2589</ref>
+  </derivatives>
+</entry>

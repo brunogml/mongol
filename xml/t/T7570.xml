@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7570">
+  <head>
+    <unicode>ᠲᠣᠶᠢᠯᠳᠠᠬᠣ</unicode>
+    <transcript>tuyildaqu</transcript>
+    <transcript2>doyildago</transcript2>
+    <cyrillic>туйлдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T7571</ref>
+    <ref>T7572</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠢᠯᠳᠠᠬᠤ</unicode>
+      <cyrillic>туйлдах</cyrillic>
+      <definition>〔动〕用尽所有力量，精疲力竭，累瘫，累散架子.</definition>
+      <page>1108</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠶᠢᠯᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТУЙЛДАХ</cyrillic>
+      <definition>изнемогать, уставать, утомляться, истощаться; ядарч туйлдах сљльно уставать, сљльно истощаться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠢᠯᠳᠠᠬᠤ</unicode>
+      <cyrillic>туйлдах</cyrillic>
+      <definition>туйлдаа хүртэл зүдрэх, эцэх, ядрах; би бүр туйлдах нь байна шүү гэж өвгөн хэлэв.</definition>
+      <page>554</page>
+    </entry_item>
+  </entries>
+</entry>

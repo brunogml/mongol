@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2028">
+  <head>
+    <unicode>ᠣᠮᠳᠠᠭᠠᠰᠬᠣᠯᠠᠩ</unicode>
+    <transcript>umdaγasqulang</transcript>
+    <transcript2>omdagasgolang</transcript2>
+    <cyrillic>умдаасгалан</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠮᠳᠠᠭᠠᠰᠬᠣᠯᠠᠩ</unicode>
+      <uighur>umdaγasqolang</uighur>
+      <cyrillic>умдаасгалан</cyrillic>
+      <transcript>UMDAΓASXULANG</transcript>
+      <definition>n. and adj. Thirst; thirsty.</definition>
+      <page>874</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠮᠳᠠᠭᠠᠰᠬᠣᠯᠠᠩ</unicode>
+      <definition>soif.</definition>
+      <page>414</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠮᠳᠠᠭᠠᠰᠬᠣᠯᠠᠩ᠎ᠠᠴᠠ ᠠᠩᠺᠢᠵᠢᠷᠠᠬᠤ</unicode>
+          <definition>désaltérer la soif, étancher la soif.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠣᠮᠳᠠᠭᠠᠰᠬᠣᠯᠠᠩ</unicode>
+      <uighur>umdaγasqulang</uighur>
+      <definition>der Durst</definition>
+      <page>51</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠣᠮᠳᠠᠭᠠᠰᠬᠣᠯᠠᠩ</unicode>
+      <uighur>umtaγasqulang</uighur>
+      <definition>Thirst.</definition>
+      <page>197</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠮᠳᠠᠭᠠᠰᠬᠤᠯᠠᠩ</unicode>
+      <cyrillic>ундаасгалан</cyrillic>
+      <definition>ундаассан, цангасан нь.</definition>
+      <page>594</page>
+    </entry_item>
+  </entries>
+</entry>

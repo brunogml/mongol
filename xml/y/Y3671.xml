@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3671">
+  <head>
+    <unicode>ᠵᠣᠣ</unicode>
+    <transcript>ǰou</transcript>
+    <transcript2>yoo</transcript2>
+    <cyrillic>жоу</cyrillic>
+  </head>
+  <see_also>
+    <ref>Y3670</ref>
+    <ref>Y3672</ref>
+    <ref>Y3673</ref>
+    <ref>Y3674</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠣ</unicode>
+      <cyrillic>ЖОУ</cyrillic>
+      <definition>жуу-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠣ</unicode>
+      <cyrillic>ЖУУ</cyrillic>
+      <definition>хуучир. императорский указ; жуу бичиг хорш. указ; жуу буулгах издать указ.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠣᠣ</unicode>
+      <cyrillic>жоу</cyrillic>
+      <definition>&lt;хуучирсан&gt;хааны зарлиг.</definition>
+      <page>251</page>
+    </entry_item>
+  </entries>
+</entry>

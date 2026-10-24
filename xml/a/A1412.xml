@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A1412">
+  <head>
+    <unicode>ᠠᠪᠢᠶᠠᠰᠯᠠᠬᠣ</unicode>
+    <transcript>abiyaslaqu</transcript>
+    <transcript2>abiyaslago</transcript2>
+    <cyrillic>авьяаслах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>A1413</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠪᠢᠶᠠᠰᠯᠠᠬᠤ</unicode>
+      <cyrillic>авьяаслах</cyrillic>
+      <definition>〔动〕表现天才，表现才能，发挥才干.</definition>
+      <page>15</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠪᠢᠶᠠᠰᠯᠠᠬᠣ</unicode>
+      <cyrillic>АВЪЯАСЛАХ</cyrillic>
+      <definition>1) быть способным, иметь талант, способности; 2) чувствовать влечение, иметь склонность. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠪᠢᠶᠠᠰᠯᠠᠬᠤ</unicode>
+      <cyrillic>авьяаслах</cyrillic>
+      <definition>авьяас нь илрэн гарах, авьяасаа гаргах.</definition>
+      <page>18</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>A1398</ref>
+  </related_to>
+</entry>

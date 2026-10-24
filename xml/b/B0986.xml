@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0986">
+  <head>
+    <unicode>ᠪᠠᠮᠪᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>bambalǰaqu</transcript>
+    <transcript2>bambalcago</transcript2>
+    <cyrillic>бамбалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0988</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠮᠪᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>бамбалзах</cyrillic>
+      <definition>〔动〕（松软、厚软物）颤动，弹动，跳动，波动.</definition>
+      <page>126</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠮᠪᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>БАМБАЛЗАХ</cyrillic>
+      <definition>колыхаться, трястись, пружинить (о трясине).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бамбалзах</cyrillic>
+      <definition>= бамбаганах</definition>
+      <page>45</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠮᠪᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>бамбалзах</cyrillic>
+      <definition>бамбагар юмны бамбас бамбас хийх байдал.</definition>
+      <page>72</page>
+    </entry_item>
+  </entries>
+</entry>

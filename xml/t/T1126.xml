@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1126">
+  <head>
+    <unicode>ᠲᠠᠪᠣᠲᠣ</unicode>
+    <transcript>tabutu</transcript>
+    <transcript2>dabodo</transcript2>
+    <cyrillic>тавт</cyrillic>
+  </head>
+  <see_also>
+    <ref>T1124</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠪᠣᠲᠣ</unicode>
+      <cyrillic>ТАВТ</cyrillic>
+      <definition>что-либо, насчљтывающее, число пять; банковский билет в пять денежных единљц; тавтын дэвсгэр банковский билет в пять денежных единљц. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тавт</cyrillic>
+      <definition>1. Banknote Fünf-Tugrik-Schein m
+2. fünftens</definition>
+      <page>215</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠪᠤᠲᠤ</unicode>
+      <cyrillic>тавт</cyrillic>
+      <definition>таван тоо бүхий юм, таван ширхэг юм; тавтын дэвсгэр.</definition>
+      <page>512</page>
+    </entry_item>
+  </entries>
+</entry>

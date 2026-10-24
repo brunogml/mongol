@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S0253">
+  <head>
+    <unicode>ᠰᠠᠩᠳᠣ</unicode>
+    <transcript>sangdu</transcript>
+    <transcript2>sangdo</transcript2>
+    <cyrillic>санд</cyrillic>
+  </head><see_also>
+    <ref>S0115</ref>
+  
+    <ref>S0252</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠩᠳᠣ</unicode>
+      <uighur>sangdu</uighur>
+      <cyrillic>санд</cyrillic>
+      <transcript>SANGDU</transcript>
+      <page>672</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠩᠳᠣ ᠮᠡᠩᠳᠦ</unicode>
+          <transcript>-- mengdy</transcript>
+          <definition> Hurry-scurry, helter-skelter.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5812">
+  <head>
+    <unicode>ᠰᠣᠯᠢᠶ ᠠ</unicode>
+    <transcript>soliy-a</transcript>
+    <transcript2>soliy-a</transcript2>
+    <cyrillic>солио</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5813</ref>
+    <ref>S5814</ref>
+    <ref>S5814a</ref>
+    <ref>S5815</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠣᠯᠢᠶ᠎ᠠ</unicode>
+      <uighur>soliy-a</uighur>
+      <cyrillic>солио</cyrillic>
+      <transcript>SOLIJ-A</transcript>
+      <definition>n. Exchange, barter, trade; interchange, change, rotation; (more frequently) confusion; madness, craziness.</definition>
+      <page>725</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠣᠯᠢᠶ᠎ᠠ ᠣᠯᠬᠤ</unicode>
+          <transcript>-- olxu</transcript>
+          <definition>To become crazy.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠣᠯᠢᠶ᠎ᠠ ᠣᠷᠤᠬᠤ</unicode>
+          <transcript>-- oruxu</transcript>
+          <definition>To become crazy.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠯᠢᠶᠠ</unicode>
+      <cyrillic>СОЛИО</cyrillic>
+      <definition>I обмен; мена; размен; солио хийх менять что-л.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠯᠢᠶᠠ</unicode>
+      <cyrillic>СОЛИО</cyrillic>
+      <definition>II болезнь, помешательство; безумие; психоз; солио өвчин психопатия; солио өвчин нь ихээр хөдлөх впасть в буйное помешательство; солио өвчтэй хүн помешанный; психически ненормальный человек, психопат.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>солио[н]</cyrillic>
+      <definition>1. Tausch m, Wechsel m; Ersatz m; ~ хийх tauschen (mit jmdm. -тай)
+
+2. Med Wahnsinn m, Irrsinn m; Ekstase f; ~ ɵвчин Geisteskrankheit f; ~ ɵвчтэй geisteskrank</definition>
+      <page>199</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠯᠢᠶ᠎ᠠ</unicode>
+      <cyrillic>солио /1</cyrillic>
+      <definition>1. арилжаа; солио наймаа;2. хутгалдаа: холио солио&lt;хорш&gt;.</definition>
+      <page>478</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠯᠢᠶ᠎ᠠ</unicode>
+      <cyrillic>солио /2</cyrillic>
+      <definition>мэдрэлийн өвчин; солио өвчтэй хүн.</definition>
+      <page>478</page>
+    </entry_item>
+  </entries>
+</entry>

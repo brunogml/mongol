@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1758">
+  <head>
+    <unicode>ᠶᠠᠷᠠᠲᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>yaratuγulqu</transcript>
+    <transcript2>yaradogolgo</transcript2>
+    <cyrillic>яртуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y1757</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠠᠷᠠᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>яртуулах</cyrillic>
+      <definition>〔动〕яртах 的使动态.</definition>
+      <page>1759</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠠᠷᠠᠲᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЯРТУУЛАХ</cyrillic>
+      <definition>яртах-ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>яртуулах</cyrillic>
+      <definition>Kaus von яртах</definition>
+      <page>416</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠠᠷᠠᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>яртуулах</cyrillic>
+      <definition>яртахын үйлдүүлэх хэв.</definition>
+      <page>910</page>
+    </entry_item>
+  </entries>
+</entry>

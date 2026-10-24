@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5286">
+  <head>
+    <unicode>ᠱᠣᠭᠣᠳᠪᠣᠷᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šoγudburilaγulqu</transcript>
+    <transcript2>sogodborilagolgo</transcript2>
+    <cyrillic>шоодворлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S5285</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠣᠭᠣᠳᠪᠣᠷᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шоодворлуулах</cyrillic>
+      <definition>〔动〕шоодворлох 的使动态.</definition>
+      <page>1649</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠭᠣᠳᠪᠣᠷᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШООДВОРЛУУЛАХ</cyrillic>
+      <definition>шоодворлох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠣᠭᠣᠳᠪᠣᠷᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шоодворлуулах</cyrillic>
+      <definition>шоовдорлуулах.</definition>
+      <page>854</page>
+    </entry_item>
+  </entries>
+</entry>

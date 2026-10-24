@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1033">
+  <head>
+    <transcript>čementlekü</transcript>
+    <transcript2>cemendlegö</transcript2>
+    <cyrillic>цементлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1034</ref>
+    <ref>C1032</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠼᠧᠮᠧᠨ᠋ᠲ᠋ᠯᠡᠬᠦ</unicode>
+      <cyrillic>цементлэх</cyrillic>
+      <definition>〔动〕抹水泥；灌水泥浆.</definition>
+      <page>1527</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ЦЕМЕНТЛЭХ</cyrillic>
+      <definition>цементировать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цементлэх</cyrillic>
+      <definition>zementieren</definition>
+      <page>355</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠼᠧᠮᠧᠨ᠋ᠲ᠋ᠯᠡᠬᠦ</unicode>
+      <cyrillic>цементлэх</cyrillic>
+      <definition>цементээр шавах, цардах; байшингийн суурь цементлэх.</definition>
+      <page>787</page>
+    </entry_item>
+  </entries>
+</entry>

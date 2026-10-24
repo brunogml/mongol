@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y3468">
+  <head>
+    <unicode>ᠵᠢᠷᠣᠬᠠᠶᠢᠲᠣ</unicode>
+    <transcript>ǰiruqayitu</transcript>
+    <transcript2>yirogayido</transcript2>
+    <cyrillic>зурхайт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠢᠷᠣᠬᠠᠶᠢᠲᠣ</unicode>
+      <uighur>ǰiroqayidü</uighur>
+      <cyrillic>зурхайт</cyrillic>
+      <transcript>ZIRUXAITU</transcript>
+      <page>1062</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠢᠷᠣᠬᠠᠶᠢᠲᠣ ᠨᠣᠮ</unicode>
+          <transcript>-- nom</transcript>
+          <definition>The Chinese I-ching,</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠵᠢᠷᠣᠬᠠᠶᠢᠲᠣ</unicode>
+      <uighur>ǰiroqayidu nom</uighur>
+      <definition>n. The book of Changes.</definition>
+      <page>1224</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠷᠤᠬᠠᠢᠲᠤ</unicode>
+      <cyrillic>зурхайт</cyrillic>
+      <definition>见 ~ ном 易经：дунддын ~ 中国的易经.</definition>
+      <page>579</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠷᠣᠬᠠᠶᠢᠲᠣ</unicode>
+      <cyrillic>ЗУРХАЙТ</cyrillic>
+      <definition>: зурхайт ном монгольское заглавие китайской классической книги И-цзин.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

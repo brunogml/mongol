@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4978">
+  <head>
+    <unicode>ᠰᠣᠨᠣᠷᠳᠠᠬᠣ</unicode>
+    <transcript>sonurdaqu</transcript>
+    <transcript2>sonordago</transcript2>
+    <cyrillic>сонордох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S4979</ref>
+    <ref>S4981</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠨᠣᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>сонордох</cyrillic>
+      <definition>〔动〕①变得敏锐，耳过聪，听觉十分灵敏；②听；听到，耳闻.</definition>
+      <page>939</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠨᠣᠷᠳᠠᠬᠣ</unicode>
+      <cyrillic>СОНОРДОХ</cyrillic>
+      <definition>1) обладать слишком хорошим слухом; 2) сонсох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сонордох</cyrillic>
+      <definition>1. zu hellhörig sein
+2. wahrnehmen, hören</definition>
+      <page>200</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠨᠣᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>сонордох</cyrillic>
+      <definition>1. хэтэрхий сонор байх;2. сонсдох, сонсох.</definition>
+      <page>480</page>
+    </entry_item>
+  </entries>
+</entry>

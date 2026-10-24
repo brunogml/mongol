@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T8370">
+  <head>
+    <unicode>ᠲᠥᠪ</unicode>
+    <transcript>tüb</transcript>
+    <transcript2>döb</transcript2>
+    <cyrillic>түв</cyrillic>
+  </head><see_also>
+    <ref>T8369</ref>
+  
+    <ref>T8371</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠥᠪ</unicode>
+      <uighur>tüb</uighur>
+      <cyrillic>түв</cyrillic>
+      <transcript>TYB</transcript>
+      <definition>Intensifying particle before certain adj. and adv. beginning with the syllable ty.</definition>
+      <page>848</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠥᠪ ᠲᠦᠷᠭᠡᠮ </unicode>
+          <transcript>-- tyrgem </transcript>
+          <definition>Very quick[ly], very fast</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠦᠪ</unicode>
+      <cyrillic>түв</cyrillic>
+      <definition>见 ~ түргэн 飞快，飞速.</definition>
+      <page>1127</page>
+    </entry_item>
+  </entries>
+</entry>

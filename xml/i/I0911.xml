@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I0911">
+  <head>
+    <unicode>ᠢᠵᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>iǰalǰaqu</transcript>
+    <transcript2>icalcago</transcript2>
+    <cyrillic>язалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>I0912</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠵᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>язалзах</cyrillic>
+      <definition>〔动〕参见 язганах.</definition>
+      <page>1743</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠵᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ЯЗАЛЗАХ</cyrillic>
+      <definition>язганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>язалзах</cyrillic>
+      <definition>= язганах</definition>
+      <page>412</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠵᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>язалзах</cyrillic>
+      <definition>1. бяцхан юмны үймцэн хөдлөх; шоргоолж язалзах;2. буцалгах юмны буцлахад ойртох; цай язалзах.</definition>
+      <page>902</page>
+    </entry_item>
+  </entries>
+</entry>

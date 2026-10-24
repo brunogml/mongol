@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A1973">
+  <head>
+    <unicode>ᠠᠲᠠᠯᠠ</unicode>
+    <transcript>atala</transcript>
+    <transcript2>adala</transcript2>
+    <cyrillic>атал</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠲᠠᠯ ᠎ᠠ</unicode>
+      <uighur>atal-a</uighur>
+      <transcript>ATAL-A</transcript>
+      <definition>[Terminal cony. of a-] While; although.</definition>
+      <page>58</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠶᠢᠨ ᠠᠲᠠᠯ᠎ᠠ</unicode>
+          <transcript>ein --</transcript>
+          <definition> Although it was so.</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠡᠷ ᠎ᠲᠡᠭᠡᠨ ᠠᠲᠠᠯ᠎ᠠ</unicode>
+          <transcript>ger tegen --</transcript>
+          <definition> While at home.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠭᠤᠨ ᠠᠲᠠᠯ᠎ᠠ</unicode>
+          <transcript>saγun --</transcript>
+          <definition> While sitting.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠳᠠᠯᠠ</unicode>
+      <definition>pendant que, tandis que, dans ce temps là</definition>
+      <page>61</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠤᠷᠤᠮᠠᠬ ᠠᠲᠠᠯᠠ</unicode>
+          <definition>on peu de temps, bientôt</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠠᠲᠠᠯᠠ</unicode>
+      <uighur>atala</uighur>
+      <definition>während, während dessen</definition>
+      <page>17</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠲᠠᠯ᠎ᠠ</unicode>
+      <cyrillic>атал</cyrillic>
+      <definition>〔动〕参见 байтал.</definition>
+      <page>86</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠲᠠᠯᠠ</unicode>
+      <cyrillic>АТАЛ</cyrillic>
+      <definition>аху гэдэг үйл үгийн төгсөх нөхцөл., 1) между тем как, в то время как, пока; несмотря на то что...; төлөвлөгөөг зуун хувь биелүүлэх нөхцөл бэлхэнээ байсаар атал хотя были все возможности для выполнения плана на сто процентов, тем не менее...; буруугүй атлаа буруудах без вины виноваты; далд атал илт секрет полишинеля; энэ нь нүдэнд бүрнээ илтэд тодорхой үнэн мөн атал и всё же, несмотря на полную очевидность Їтой истины; тийн атал между тем как...; при таких обстоятельствах; тийн атал харин а всё-таки, и всё же, тем не менее; цай ууж суун атал пока, в то время как пили чай; хоромхон атал хуучир. в один миг; 2) байтал–ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>атал</cyrillic>
+      <definition>alt während, obwohl</definition>
+      <page>36</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠲᠠᠯ᠎ᠠ</unicode>
+      <cyrillic>атал</cyrillic>
+      <definition>бөгөөтөл, байтал; хамаагүй атлаа оролцов; бий атлаа үгүй гэв.</definition>
+      <page>56</page>
+    </entry_item>
+  </entries>
+</entry>

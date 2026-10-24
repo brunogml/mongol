@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1634">
+  <head>
+    <unicode>ᠣᠯᠠᠮᠵᠢᠯᠠᠯᠭ ᠠ</unicode>
+    <transcript>ulamǰilalγ-a</transcript>
+    <transcript2>olamcilalga</transcript2>
+    <cyrillic>уламжиллага</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠯᠠᠮᠵᠢᠯᠠᠯᠭ᠎ᠠ</unicode>
+      <cyrillic>уламжиллага</cyrillic>
+      <definition>〔名〕参见 уламжлал.</definition>
+      <page>1183</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠯᠠᠮᠵᠢᠯᠠᠯᠭ ᠠ</unicode>
+      <cyrillic>УЛАМЖИЛЛАГА</cyrillic>
+      <definition>уламжлал-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠯᠠᠮᠵᠢᠯᠠᠯᠭ᠎ᠠ</unicode>
+      <cyrillic>уламжиллага</cyrillic>
+      <definition>уламжлал.</definition>
+      <page>589</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>U1633</ref>
+  </related_to>
+</entry>

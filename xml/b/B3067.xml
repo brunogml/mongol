@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B3067">
+  <head>
+    <unicode>ᠪᠣᠳᠣᠩ</unicode>
+    <transcript>bodung</transcript>
+    <transcript2>bodong</transcript2>
+    <cyrillic>бодон</cyrillic>
+  </head>
+  <see_also>
+    <ref>B3068</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠣᠳᠣᠩ</unicode>
+      <uighur>bodung</uighur>
+      <cyrillic>бодон</cyrillic>
+      <transcript>BODUNG</transcript>
+      <definition>n. Wild boar.</definition>
+      <page>110</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠣᠳᠣᠩ ᠭᠠᠬᠠᠢ</unicode>
+          <transcript>-- γaxai</transcript>
+          <definition> Wild boar.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠤᠳᠣᠩ</unicode>
+      <definition>sanglier.</definition>
+      <page>1179</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠤᠳᠣᠩ ᠤᠨ ᠬᠠᠯᠬᠠ</unicode>
+          <definition>espèce de sanglier qu'on fait cuire à la onzième lune</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠤᠳᠣᠩ ᠤᠨ ᠰᠤᠷ</unicode>
+          <definition>peau de sanglier</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠪᠣᠳᠣᠩ</unicode>
+      <uighur>butung</uighur>
+      <definition>n. A jar. A jug.</definition>
+      <page>467</page>
+      <examples>
+        <example>
+          <uighur>butung γaqai</uighur>
+          <definition>n. A wild boar.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠳᠣᠩ</unicode>
+      <cyrillic>БОДОН(Г)</cyrillic>
+      <definition>амьт. дикий кабан (самец), вепрь.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠳᠣᠩ</unicode>
+      <cyrillic>БОДОНГИЙН</cyrillic>
+      <definition>бодон(г)-ийн харьяал., кабаний; бодонгийн сур кабанья шкура; бодонгийн халх толстая часть кабаньей шкуры (от подмышек до коротких ребер).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бодон[г]</cyrillic>
+      <definition>[гахай] Wildschwein Eber m</definition>
+      <page>54</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠣᠳᠣᠩ</unicode>
+      <cyrillic>бодон</cyrillic>
+      <definition>зэрлэг гахайн эрэгчин.</definition>
+      <page>87</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B1001">
+  <head>
+    <unicode>ᠪᠠᠮᠪᠠᠷᠳᠠᠬᠣ</unicode>
+    <transcript>bambardaqu</transcript>
+    <transcript2>bambardago</transcript2>
+    <cyrillic>бамбардах</cyrillic>
+  </head><derivatives>
+    <ref>X0678</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠮᠪᠠᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>бамбардах</cyrillic>
+      <definition>〔动〕点火把，点火炬；持火把，举火炬.</definition>
+      <page>126</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠮᠪᠠᠷᠳᠠᠬᠣ</unicode>
+      <cyrillic>БАМБАРДАХ</cyrillic>
+      <definition>1) зажигать факел (для освещения); 2) поджигать что-н. с помощью факела.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+<related_to><ref>B1000</ref></related_to></entry>

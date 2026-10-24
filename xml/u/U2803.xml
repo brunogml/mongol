@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2803">
+  <head>
+    <unicode>ᠣᠷᠣᠰᠵᠢᠬᠣ</unicode>
+    <transcript>orusǰiqu</transcript>
+    <transcript2>oroscigo</transcript2>
+    <cyrillic>оросжих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U2805</ref>
+    <ref>U2806</ref>
+  </derivatives>
+  <see_also>
+    <ref>U2804</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠷᠣᠰᠵᠢᠬᠤ</unicode>
+      <cyrillic>оросжих</cyrillic>
+      <definition>〔动〕俄罗斯化，俄化.</definition>
+      <page>820</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠷᠣᠰᠵᠢᠬᠣ</unicode>
+      <cyrillic>ОРОСЖИХ</cyrillic>
+      <definition>обрусеть, русифицироваться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠷᠣᠰᠵᠢᠬᠤ</unicode>
+      <cyrillic>оросжих</cyrillic>
+      <definition>Орос маягтай болох.</definition>
+      <page>424</page>
+    </entry_item>
+  </entries>
+</entry>

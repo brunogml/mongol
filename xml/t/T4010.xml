@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T4010">
+  <head>
+    <unicode>ᠳᠠᠯᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>dellegülkü</transcript>
+    <transcript2>dellegölgö</transcript2>
+    <cyrillic>дэллүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T4009</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠡᠯᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дэллүүлэх</cyrillic>
+      <definition>〔动〕дэллэх 的使动态.</definition>
+      <page>471</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠯᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ДЭЛЛҮҮЛЭХ</cyrillic>
+      <definition>дэллэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дэллүүлэх</cyrillic>
+      <definition>Kaus von дэллэх</definition>
+      <page>104</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠯᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дэллүүлэх</cyrillic>
+      <definition>дэллэхийн үйлдүүлэх хэв, дэллэхэд хүлүүлэх.</definition>
+      <page>226</page>
+    </entry_item>
+  </entries>
+</entry>

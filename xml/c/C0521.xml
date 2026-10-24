@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0521">
+  <head>
+    <unicode>ᠴᠠᠮᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čamnaγulqu</transcript>
+    <transcript2>camnagolgo</transcript2>
+    <cyrillic>цамнуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C0520</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠮᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цамнуулах</cyrillic>
+      <definition>〔动〕цамнах 的使动态.</definition>
+      <page>1517</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠮᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦАМНУУЛАХ</cyrillic>
+      <definition>цамнах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цамнуулах</cyrillic>
+      <definition>Kaus von цамнах</definition>
+      <page>352</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠮᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цамнуулах</cyrillic>
+      <definition>цамнахын үйлдүүлэх хэв.</definition>
+      <page>782</page>
+    </entry_item>
+  </entries>
+</entry>

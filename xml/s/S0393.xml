@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0393">
+  <head>
+    <unicode>ᠰᠠᠭᠠᠮᠠᠰᠢᠷᠠᠬᠣ</unicode>
+    <transcript>saγamasiraqu</transcript>
+    <transcript2>sagamasirago</transcript2>
+    <cyrillic>саамшрах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S0394</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠭᠠᠮᠠᠰᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>саамшрах</cyrillic>
+      <definition>〔动〕参见 саамших.</definition>
+      <page>889</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠭᠠᠮᠠᠰᠢᠷᠠᠬᠣ</unicode>
+      <cyrillic>СААМШРАХ</cyrillic>
+      <definition>саамших-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠭᠠᠮᠠᠰᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>саамшрах</cyrillic>
+      <definition>саамших.</definition>
+      <page>456</page>
+    </entry_item>
+  </entries>
+</entry>

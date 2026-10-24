@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0058">
+  <head>
+    <unicode>ᠬᠠᠨᠠᠭᠣᠷ</unicode>
+    <transcript>qanaγur</transcript>
+    <transcript2>ganagor</transcript2>
+    <cyrillic>хануур</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠨᠠᠭᠣᠷ</unicode>
+      <uighur>qanaγur</uighur>
+      <cyrillic>хануур</cyrillic>
+      <transcript>XANAΓUR</transcript>
+      <definition>n Lancet for bleeding.</definition>
+      <page>927</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠨᠠᠭᠣᠷ ᠢᠶᠠᠷ ᠬᠠᠨᠠᠬᠤ</unicode>
+          <transcript>-- ijer xanaxu</transcript>
+          <definition> To open a vein with a lancet, perform phlebotomy.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠨᠠᠭᠣᠷ ᠶᠢᠳᠠ</unicode>
+          <transcript>-- jida</transcript>
+          <definition> Javelin, dart.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠨᠠᠭᠣᠷ ᠬᠣᠷᠤᠬᠠᠢ</unicode>
+          <transcript>-- xoruxai</transcript>
+          <definition> Leech.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠨᠠᠭᠤᠷ</unicode>
+      <definition>lancette.</definition>
+      <page>720</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠨᠠᠭᠤᠷ ᠢᠶᠠᠷ ᠬᠠᠨᠠᠬᠤ</unicode>
+          <definition>saigner avec une lancette</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠨᠠᠭᠤᠷ ᠵᠠᠪᠠ</unicode>
+          <definition>une lance courte</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠠᠨᠠᠭᠣᠷ</unicode>
+      <uighur>qanaγur</uighur>
+      <definition>der Schnepper oder die Lanzette.</definition>
+      <page>126</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠠᠨᠠᠭᠣᠷ</unicode>
+      <uighur>qanaγur</uighur>
+      <definition>n. A lancet (Med.).</definition>
+      <page>502</page>
+      <examples>
+        <example>
+          <uighur>qanaγur ǰaba</uighur>
+          <definition>n. A chisel-shaped arrow-head.</definition>
+        </example>
+        <example>
+          <uighur>qanaγur ǰida</uighur>
+          <definition>A small spear or lance.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠨᠠᠭᠤᠷ</unicode>
+      <cyrillic>хануур</cyrillic>
+      <definition>〔名〕双面小刀，柳叶刀；刺针，刺络针；放血针：~ жад 标枪；~ зэв 箭头；剌针；~ хорхой 〈动〉水蛭；医用水蛭；~ хорхойн шүлс 水蛭素；~ цэцэг 〈植〉假叶树（属）.</definition>
+      <page>1305</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠨᠠᠭᠣᠷ</unicode>
+      <cyrillic>ХАНУУР</cyrillic>
+      <definition>ланцет (для пускания крови); хануур жад дротик, дрот; хануур зэв копьеобразный наконечник стрелы; стрела с коротким наконечником и длинной шейкой; † хануур хорхой амьт. пиявка; эмнэлгийн хануур хорхой медицинская пиявка; хануур хорхой тавих ставить пиявки. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠨᠠᠭᠤᠷ</unicode>
+      <cyrillic>хануур</cyrillic>
+      <definition>судас хатгаж цоолох, ханах хэрэгсэл; хутган хануур.</definition>
+      <page>659</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>Q0059</ref>
+  </derivatives>
+</entry>

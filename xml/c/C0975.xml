@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0975">
+  <head>
+    <unicode>ᠴᠠᠯᠠᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>čelegenekü</transcript>
+    <transcript2>celegenegö</transcript2>
+    <cyrillic>цэлэгнэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0976</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠯᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>цэлэгнэх</cyrillic>
+      <definition>〔动〕明亮物晃动，明亮物频频活动.</definition>
+      <page>1563</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠯᠠᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>ЦЭЛЭГНЭХ</cyrillic>
+      <definition>цэлэлзэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠯᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>цэлэгнэх</cyrillic>
+      <definition>цэлгэр юмны цэлэг цэлэг хөдлөх.</definition>
+      <page>806</page>
+    </entry_item>
+  </entries>
+</entry>

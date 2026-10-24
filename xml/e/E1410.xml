@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="E1410">
+  <head>
+    <unicode>ᠡᠴᠦᠰᠲᠦᠺᠦ</unicode>
+    <transcript>ečüstükü</transcript>
+    <transcript2>ecösdögö</transcript2>
+    <cyrillic>эцэстэх</cyrillic>
+  </head>
+  <see_also>
+    <ref>E1406</ref>
+  </see_also>
+  <derivatives>
+    <ref>E1411</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠴᠦᠰᠲᠦᠬᠦ</unicode>
+      <cyrillic>эцэстэх</cyrillic>
+      <definition>〔动〕参见 эцэслэх.</definition>
+      <page>1725</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠴᠥᠰᠲᠥᠺᠥ</unicode>
+      <cyrillic>ЭЦЭСТЭХ</cyrillic>
+      <definition>эцэслэх-ийг үз., насан эцэстэх скончаться, умереть.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>эцэстэх</cyrillic>
+      <definition>= эцэслэх</definition>
+      <page>407</page>
+    </entry_item>
+  </entries>
+</entry>

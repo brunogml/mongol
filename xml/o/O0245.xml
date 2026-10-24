@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="O0245">
+  <head>
+    <unicode>ᠥᠨᠥᠷᠲᠠᠺᠥ</unicode>
+    <transcript>ünürtekü</transcript>
+    <transcript2>önördegö</transcript2>
+    <cyrillic>үнэртэх</cyrillic>
+  </head><see_also>
+    <ref>O0250</ref>
+  
+    <ref>O0246</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠥᠨᠥᠷᠲᠠᠺᠥ</unicode>
+      <uighur>ünürdekü</uighur>
+      <cyrillic>үнэртэх</cyrillic>
+      <transcript>YNYRTE-</transcript>
+      <definition>v.i. and t. To smell.</definition>
+      <page>1010</page>
+      <examples>
+        <example>
+          <unicode>ᠥᠨᠥᠷᠲᠠᠵᠦ ᠦᠵᠡᠺᠦ</unicode>
+          <transcript>--zy yzeky</transcript>
+          <definition> To sniff.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠶᠢᠬᠠᠨ ᠥᠨᠥᠷᠲᠠᠺᠥ</unicode>
+          <transcript>saixan --ky</transcript>
+          <definition> To smell good.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠦᠨᠦᠷᠳᠡᠺᠦ</unicode>
+      <definition>répandre une odeur, avoir une odeur.</definition>
+      <page>488</page>
+    </entry_item>
+  </entries>
+</entry>

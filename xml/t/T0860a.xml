@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T0860a">
+  <head>
+    <unicode> ᠳᠠᠬᠳᠢᠬ</unicode>
+    <transcript>taγtiq</transcript>
+    <transcript2>dagdig</transcript2>
+    <cyrillic>тактик</cyrillic>
+  </head><see_also>
+    <ref>T2324</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode> ᠳᠠᠬᠳᠢᠬ</unicode>
+      <uighur>taqdiq</uighur>
+      <cyrillic>тактик</cyrillic>
+      <transcript>TAΓTIΓ</transcript>
+      <definition>[R. тактика] n. Tactics.</definition>
+      <page>766</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠬᠳᠢᠬ ᠤᠨ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ</unicode>
+          <transcript>-- un surγayuli</transcript>
+          <definition> The study of tactics.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

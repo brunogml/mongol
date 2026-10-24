@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T1552">
+  <head>
+    <unicode>ᠲᠠᠲᠠᠬᠳᠠᠭᠣᠷ</unicode>
+    <transcript>tataγdaγur</transcript>
+    <transcript2>dadagdagor</transcript2>
+    <cyrillic>татагдуур</cyrillic>
+  </head><related_to>
+    <ref>T1546</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠲᠠᠭᠳᠠᠭᠤᠷ</unicode>
+      <cyrillic>татагдуур</cyrillic>
+      <definition>〔名〕〈电〉继电器：~ авалцах хугацаа 继电吸合时间；~ алжуурах 继电器延迟；~ын зангуу 继电器衔铁；~ын мэдрэц буурах 降低继电器灵敏度；~ын таг 继电器轭铁；~ын хүрэлцүүр 继电器接触点；~ын хэлхээ 继电器电路.</definition>
+      <page>1037</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠲᠠᠬᠳᠠᠭᠣᠷ</unicode>
+      <cyrillic>ТАТАГДУУР</cyrillic>
+      <definition>тусг. реле; татагдуур залгах холбоо. схема включения реле. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠲᠠᠬᠳᠠᠭᠣᠷ</unicode>
+      <cyrillic>ТАТАГДУУРЫН</cyrillic>
+      <definition>татагдуур-ын харьяал., релейный; татагдуурын зангуу якорь реле; татагдуурын таг холбоо. ярмо реле; татагдуурын хэлхээ цепь релейная. </definition>
+      <page>0</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>татагдуур</cyrillic>
+    <definition>Tech Relais n</definition>
+    <page>222</page>
+  </entry_item>
+  </entries>
+</entry>

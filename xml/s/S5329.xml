@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5329">
+  <head>
+    <unicode>ᠱᠣᠭᠣᠮᠳᠠᠬᠣ</unicode>
+    <transcript>šuγumdaqu</transcript>
+    <transcript2>sogomdago</transcript2>
+    <cyrillic>шугамдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5330</ref>
+    <ref>S5331</ref>
+    <ref>S5333</ref>
+  </derivatives>
+  <see_also>
+    <ref>S3373</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠤᠭᠤᠮᠳᠠᠬᠤ</unicode>
+      <cyrillic>шугамдах</cyrillic>
+      <definition>〔动〕画（平行）线：цаас ~ 在纸上打上格线；~ машин 画线机.</definition>
+      <page>1656</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠭᠣᠮᠳᠠᠬᠣ</unicode>
+      <cyrillic>ШУГАМДАХ</cyrillic>
+      <definition>1. проводить линию, линовать; разлиновывать; расчерчивать; дэвтэр шугамдах разлиновать тетрадь; цаас шугамдах линовать бумагу; 2. линовальный; шугамдах машин линовальная машина. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠭᠣᠮᠳᠠᠬᠣ</unicode>
+      <cyrillic>ШУГАМДСАН</cyrillic>
+      <definition>линованный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠤᠭᠤᠮᠳᠠᠬᠤ</unicode>
+      <cyrillic>шугамдах</cyrillic>
+      <definition>шугам татах, шугамын ором гаргах; цаас шугамдах; мод шугамдах.</definition>
+      <page>858</page>
+    </entry_item>
+  </entries>
+</entry>

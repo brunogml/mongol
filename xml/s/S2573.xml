@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2573">
+  <head>
+    <unicode>ᠰᠠᠺᠰᠠᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>segsegenekü</transcript>
+    <transcript2>segsegenegö</transcript2>
+    <cyrillic>сэгсэгнэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S2574</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠭᠰᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>сэгсэгнэх</cyrillic>
+      <definition>〔动〕（毛发蓬乱物）摇晃，摆动.</definition>
+      <page>983</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠺᠰᠠᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>СЭГСЭГНЭХ</cyrillic>
+      <definition>двигаться с торчащими волосами. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠭᠰᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>сэгсэгнэх</cyrillic>
+      <definition>сэгсгэр юмны сэгсэг сэгсэг хөдлөх.</definition>
+      <page>500</page>
+    </entry_item>
+  </entries>
+</entry>

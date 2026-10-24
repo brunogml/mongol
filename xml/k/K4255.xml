@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4255">
+  <head>
+    <unicode>ᠺᠥᠮ</unicode>
+    <transcript>köm</transcript>
+    <transcript2>göm</transcript2>
+    <cyrillic>хөм(өн)</cyrillic>
+  </head>
+  <see_also>
+    <ref>K4256</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠥᠮ</unicode>
+      <uighur>köm</uighur>
+      <cyrillic>хөм</cyrillic>
+      <transcript>KØM</transcript>
+      <definition>n. Rawhide, depilated skin; blackened and smoked cow-hide; parchment</definition>
+      <page>487</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠥᠮ ᠠᠷᠢᠰᠤᠨ</unicode>
+          <transcript>-- arisun</transcript>
+          <definition>Parchment</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠥᠮ ᠭᠤᠲᠤᠯ</unicode>
+          <transcript>-- γutul</transcript>
+          <definition>Boots made of smoked cow-hide</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠭᠠᠷᠢ ᠺᠥᠮ</unicode>
+          <transcript>saγari --</transcript>
+          <definition>Edges from the leather made of the croup of a horse ( inferior in quality to that of the middle of the piece)</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠺᠥᠮ</unicode>
+      <uighur>küm arisu</uighur>
+      <definition>n. Parchment. A small string of leather in between the seams on shoes.</definition>
+      <page>716</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠮ</unicode>
+      <cyrillic>ХӨМ(ӨН)</cyrillic>
+      <definition>сыромятная кожа, очищенная от шерсти шкура (крупных животных); хөмөн дээл дэли, халат из мягковыделанной шкуры крупных животных.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠥᠮ</unicode>
+      <definition>1 cuir tanné de cheval; 
+2 pro: tsum, tout</definition>
+      <page>2609</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠥᠮ ᠠᠷᠢᠰᠤᠨ</unicode>
+          <definition>le parchemin</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠮ</unicode>
+      <cyrillic>хөм</cyrillic>
+      <definition>төлөөс дээш насны бод малын элдэж зөөлрүүлсэн шир; хөм дэвсгэр; хөм уут.</definition>
+      <page>710</page>
+    </entry_item>
+  </entries>
+</entry>

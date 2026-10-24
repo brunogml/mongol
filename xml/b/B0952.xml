@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0952">
+  <head>
+    <unicode>ᠪᠠᠯᠴᠢᠺᠢᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>balčiginaγulqu</transcript>
+    <transcript2>balciginagolgo</transcript2>
+    <cyrillic>балчигнуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B0951</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠯᠴᠢᠭᠢᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>балчигнуулах</cyrillic>
+      <definition>〔动〕балчигнах 的使动态.</definition>
+      <page>125</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠯᠴᠢᠺᠢᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БАЛЧИГНУУЛАХ</cyrillic>
+      <definition>балчигнах-ын үйл­дүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠯᠴᠢᠭᠢᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>балчигнуулах</cyrillic>
+      <definition>балчигнахын үйлдүүлэх хэв.</definition>
+      <page>72</page>
+    </entry_item>
+  </entries>
+</entry>

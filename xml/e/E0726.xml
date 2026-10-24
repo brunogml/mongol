@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E0726">
+  <head>
+    <unicode>ᠡᠳᠦᠷᠯᠡᠭᠦᠯᠺᠦ</unicode>
+    <transcript>edürlegülkü</transcript>
+    <transcript2>edörlegölgö</transcript2>
+    <cyrillic>өдөрлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>E0725</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠳᠥᠷᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ӨДӨРЛҮҮЛЭХ</cyrillic>
+      <definition>өдөрлөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠳᠦᠷᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өдөрлүүлэх</cyrillic>
+      <definition>өдөрлөхийн үйлдүүлэх хэв.</definition>
+      <page>433</page>
+    </entry_item>
+  </entries>
+</entry>

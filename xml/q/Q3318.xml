@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q3318">
+  <head>
+    <unicode>ᠬᠠᠷᠠᠴᠢ</unicode>
+    <transcript>qarači</transcript>
+    <transcript2>garaci</transcript2>
+  </head><derivatives>
+    <ref>Q3232</ref>
+  </derivatives><see_also>
+    <ref>Q3319</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠷᠠᠴᠢ</unicode>
+      <uighur>qarači</uighur>
+      <transcript>XARACI</transcript>
+      <definition>n. Messenger in a government office; clerk, scribe (hist.)</definition>
+      <page>932</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠷᠠᠴᠢ ᠰᠢᠭᠤᠪᠠᠩ</unicode>
+          <transcript>-- siγubang</transcript>
+          <definition> Clerk, scribe.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠷᠠᠴᠢ</unicode>
+      <definition>le rapporteur d'un commissaire de district.</definition>
+      <page>836</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠷᠠᠴᠢ ᠰᠢᠭᠤᠪᠠᠩ</unicode>
+          <definition>clerc, greffier</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

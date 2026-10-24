@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1371">
+  <head>
+    <unicode>ᠴᠢᠨᠠᠬᠰᠢᠯᠠᠬᠣ</unicode>
+    <transcript>činaγsilaqu</transcript>
+    <transcript2>cinagsilago</transcript2>
+    <cyrillic>чанагшлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1372</ref>
+    <ref>C1373</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠢᠨᠠᠬᠰᠢᠯᠠᠬᠣ</unicode>
+      <uighur>činaqsilaqu</uighur>
+      <cyrillic>чанагшлах - цаашлах</cyrillic>
+      <transcript>CINAΓSILA-</transcript>
+      <definition>[= caγasila-] v, 1. To go farther, go on, proceed; to move away from; to go beyond, transgress; to be too demanding, importune.</definition>
+      <page>187</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠡᠭᠦᠨ ᠡᠴᠡ ᠴᠢᠨᠠᠬᠰᠢᠯᠠᠪᠠᠰᠤ</unicode>
+          <transcript>tegyn ece --basu</transcript>
+          <definition> If one goes farther than that.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠨᠠᠭᠰᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>чанагшлах</cyrillic>
+      <definition>〔动〕参见 цаашлах.</definition>
+      <page>1577</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠨᠠᠬᠰᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЧАНАГШЛАХ</cyrillic>
+      <definition>отодвигаться, идти дальше, удаляться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чанагшлах</cyrillic>
+      <definition>= цааашлах</definition>
+      <page>368</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠨᠠᠭᠰᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>чанагшлах</cyrillic>
+      <definition>цаашлах, цааш болох.</definition>
+      <page>813</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="E1122">
+  <head>
+    <unicode>ᠡᠮᠪᠦᠷᠡᠭᠦᠯᠺᠦ</unicode>
+    <transcript>embüregülkü</transcript>
+    <transcript2>emböregölgö</transcript2>
+    <cyrillic>эмбэрүүлэх</cyrillic>
+  </head><related_to>
+    <ref>E1121</ref>
+  </related_to><see_also>
+    <ref>E1125</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠮᠪᠥᠷᠠᠺᠥᠯᠺᠥ</unicode>
+      <uighur>embüregülkü</uighur>
+      <cyrillic>эмбэрүүлэх</cyrillic>
+      <transcript>EMBYREGYL-</transcript>
+      <definition>v. caus. of embyre-.</definition>
+      <page>311</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠮᠪᠦᠡᠭᠦᠯᠺᠦ</unicode>
+      <definition>ruiner, démolir, déstruire; diminuer</definition>
+      <page>218</page>
+      <examples>
+        <example>
+          <unicode>ᠶᠡᠺᠡ ᠳᠠᠶᠢᠰᠤᠨ ᠢ ᠡᠮᠪᠦᠷᠡᠭᠦᠯᠦᠺᠴᠢ</unicode>
+          <definition>l'exterminateur d'un ennemi puissant.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

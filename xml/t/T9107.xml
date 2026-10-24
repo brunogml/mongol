@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9107">
+  <head>
+    <unicode>ᠳᠥᠺᠥᠷᠡᠺᠥ</unicode>
+    <transcript>dügürekü</transcript>
+    <transcript2>dögöregö</transcript2>
+    <cyrillic>дүгрэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T9108</ref>
+  </derivatives>
+  <see_also>
+    <ref>T9106</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠦᠭᠦᠷᠡᠬᠦ</unicode>
+      <cyrillic>дүгрэх</cyrillic>
+      <definition>〔动〕绕圈，转圈子，打转；迂回，环绕：тээрмийн илжиг дүгэрсээр байв 拉磨的驴子不停地转圈.</definition>
+      <page>452</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠥᠺᠥᠷᠡᠺᠥ</unicode>
+      <cyrillic>ДҮГРЭХ</cyrillic>
+      <definition>описывать круг, округлять; сүм дүгрэх обходить храм; хөлөг онгоц тал дүгрээд эргэж явав пароход описал полукруг и пошёл обратно; тээрмийн илжиг дүгэрсээр байв мельничный осёл всё ходил по кругу. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дүгрэх</cyrillic>
+      <definition>umkreisen, umrunden</definition>
+      <page>101</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠦᠭᠦᠷᠡᠬᠦ</unicode>
+      <cyrillic>дүгрэх</cyrillic>
+      <definition>тойрон эргэх; тээрмийн илжиг дүгэрсээр байв.</definition>
+      <page>215</page>
+    </entry_item>
+  </entries>
+</entry>

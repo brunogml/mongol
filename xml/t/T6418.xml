@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6418">
+  <head>
+    <unicode>ᠲᠣᠰᠠᠭᠠᠷᠯᠠᠬᠳᠠᠮᠠᠯ</unicode>
+    <transcript>tusaγarlaγdamal</transcript>
+    <transcript2>dosagarlagdamal</transcript2>
+    <cyrillic>тусгаарлагдмал</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠰᠠᠭᠠᠷᠯᠠᠭᠳᠠᠮᠠᠯ</unicode>
+      <cyrillic>тусгаарлагдмал</cyrillic>
+      <definition>〔形〕独立的，单个的，被分离的，被隔离的，被孤立的，被分割的；被绝缘的.</definition>
+      <page>1118</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠰᠠᠭᠠᠷᠯᠠᠬᠳᠠᠮᠠᠯ</unicode>
+      <cyrillic>ТУСГААРЛАГДМАЛ</cyrillic>
+      <definition>изолљрованный, обособленный; оторванный, отделённый; замкнутый. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тусгаарлагдмал</cyrillic>
+      <definition>abgetrennt, isoliert</definition>
+      <page>240</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠰᠠᠭᠠᠷᠯᠠᠭᠳᠠᠮᠠᠯ</unicode>
+      <cyrillic>тусгаарлагдмал</cyrillic>
+      <definition>тусгаарлагдсан шинж байдалтай.</definition>
+      <page>559</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T6413</ref>
+  </related_to>
+</entry>

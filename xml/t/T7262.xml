@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T7262">
+  <head>
+    <unicode>ᠳᠣᠮᠪᠣᠷᠠ</unicode>
+    <transcript>dombura</transcript>
+    <transcript2>dombora</transcript2>
+    <cyrillic>домбор</cyrillic>
+  </head><see_also>
+    <ref>T7261</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠣᠮᠪᠣᠷᠠ</unicode>
+      <uighur>dombura</uighur>
+      <cyrillic>домбор</cyrillic>
+      <transcript>DOMBURA</transcript>
+      <definition>n. A Kalmuk musical instrument resembling a lute; balalaika.</definition>
+      <page>260</page>
+      <examples>
+        <example>
+          <transcript>-- cokiku</transcript>
+          <definition> To play the dombura</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠣᠮᠪᠣᠷ</unicode>
+      <cyrillic>домбор</cyrillic>
+      <definition>〔名〕〈乐〉东不拉（哈萨克民族乐器）.</definition>
+      <page>414</page>
+    </entry_item>
+  </entries>
+</entry>

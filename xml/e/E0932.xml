@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E0932">
+  <head>
+    <unicode>ᠡᠯᠰᠡᠭᠳᠡᠺᠦ</unicode>
+    <transcript>elsegdekü</transcript>
+    <transcript2>elsegdegö</transcript2>
+    <cyrillic>элсэгдэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>E0925</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠯᠰᠡᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>элсэгдэх</cyrillic>
+      <definition>〔动〕элсэх 的被动态.</definition>
+      <page>1691</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠯᠰᠠᠺᠳᠠᠺᠥ</unicode>
+      <cyrillic>ЭЛСЭГДЭХ</cyrillic>
+      <definition>элсэх-ийн үйлдэгд., мобилизоваться, быть вовлеченным, быть включенным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>элсэгдэх</cyrillic>
+      <definition>Pass von элсэх</definition>
+      <page>398</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠯᠰᠡᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>элсэгдэх</cyrillic>
+      <definition>элсэхийн үйлдэгдэх хэв.</definition>
+      <page>874</page>
+    </entry_item>
+  </entries>
+</entry>

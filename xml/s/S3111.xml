@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3111">
+  <head>
+    <unicode>ᠰᠢᠨᠲᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>sintalǰaqu</transcript>
+    <transcript2>sindalcago</transcript2>
+    <cyrillic>шанталзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3112</ref>
+    <ref>S3113</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠨᠲᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>шанталзах</cyrillic>
+      <definition>〔动〕参见 шантганах.</definition>
+      <page>1619</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠨᠲᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ШАНТАЛЗАХ</cyrillic>
+      <definition>шантганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шанталзах</cyrillic>
+      <definition>= шантганах</definition>
+      <page>380</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠨᠲᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>шанталзах</cyrillic>
+      <definition>шантгар юмны шантас шантас хийх.</definition>
+      <page>837</page>
+    </entry_item>
+  </entries>
+</entry>

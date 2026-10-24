@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T6585">
+  <head>
+    <unicode>ᠲᠣᠰᠺᠢ</unicode>
+    <transcript>tuski</transcript>
+    <transcript2>dosgi</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠰᠺᠢ</unicode>
+      <uighur>tuski</uighur>
+      <transcript>TUSKI</transcript>
+      <definition>postpos. Facing, against, opposite.</definition>
+      <page>846</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠭᠦᠳᠡᠨ ᠤ ᠲᠣᠰᠺᠢ</unicode>
+          <transcript>egyden y -- </transcript>
+          <definition> Opposite or facing the door.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠰᠺᠢ</unicode>
+      <definition>qui se trouve vis - à - vis</definition>
+      <page>1834</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠭᠦᠳᠡᠨ ᠤ ᠳᠤᠰᠺᠢ</unicode>
+          <definition>vis à vis la porte</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

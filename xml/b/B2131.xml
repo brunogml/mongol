@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B2131">
+  <head>
+    <unicode>ᠪᠢᠰᠢᠥ</unicode>
+    <transcript>bisiü</transcript>
+    <transcript2>bisiö</transcript2>
+    <cyrillic>бишүү</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠢᠰᠢᠥ</unicode>
+      <uighur>bisiu</uighur>
+      <cyrillic>бишүү</cyrillic>
+      <transcript>BISIY</transcript>
+      <definition>[=bisi + yy] Serves to intensify a preceeding statement, sometimes giving it a shadeof warning: How else!. Surely, certainly.</definition>
+      <page>107</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠶᠢᠮᠦ ᠪᠢᠰᠢᠥ</unicode>
+          <transcript>eimy --</transcript>
+          <definition> Is it not so?.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠷᠡ ᠢᠷᠡᠭᠰᠡᠨ ᠪᠢᠰᠢᠥ</unicode>
+          <transcript>tere iregsen --</transcript>
+          <definition> He has come (you had better watch out) !.•</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠢᠰᠢᠤ</unicode>
+      <definition>particule interrogative ; est - ce? est - ce que?</definition>
+      <page>1134</page>
+    </entry_item>
+  </entries>
+</entry>

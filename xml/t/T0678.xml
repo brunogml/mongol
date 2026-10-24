@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0678">
+  <head>
+    <unicode>ᠲᠠᠭᠣᠪᠣᠷᠢᠯᠠᠬᠣ</unicode>
+    <transcript>taγuburilaqu</transcript>
+    <transcript2>dagoborilago</transcript2>
+    <cyrillic>тууварлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T0679</ref>
+    <ref>T0680</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠭᠤᠪᠤᠷᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>тууварлах</cyrillic>
+      <definition>〔动〕驱赶，撵，赶（畜群）.</definition>
+      <page>1121</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠭᠣᠪᠣᠷᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ТУУВАРЛАХ</cyrillic>
+      <definition>перегонять (напр. скот). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠭᠤᠪᠤᠷᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>тууварлах</cyrillic>
+      <definition>мал сүргийг замд туух; мал тууварлах ажил.</definition>
+      <page>560</page>
+    </entry_item>
+  </entries>
+</entry>

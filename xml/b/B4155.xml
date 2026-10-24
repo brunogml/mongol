@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4155">
+  <head>
+    <unicode>ᠪᠥᠥᠷᠠᠺᠥ</unicode>
+    <transcript>büürekü</transcript>
+    <transcript2>bööregö</transcript2>
+    <cyrillic>бүүрэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>X0292</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠦᠦᠷᠬᠦ</unicode>
+      <cyrillic>бүүрэх</cyrillic>
+      <definition>〔动〕（狍子等）吼叫，嗥叫.</definition>
+      <page>239</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠥᠷᠠᠺᠥ</unicode>
+      <cyrillic>БҮҮРЭХ</cyrillic>
+      <definition>реветь, подавать голос, блеять (о лесной козе, изюбре).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠦᠦᠷᠬᠦ</unicode>
+      <cyrillic>бүүрэх</cyrillic>
+      <definition>бор гөрөөсний дуугарах; гөрөс бүүрэх.</definition>
+      <page>120</page>
+    </entry_item>
+  </entries>
+</entry>

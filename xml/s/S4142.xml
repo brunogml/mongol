@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4142">
+  <head>
+    <unicode>ᠰᠢᠮᠠᠺᠳᠠᠺᠥ</unicode>
+    <transcript>simegdekü</transcript>
+    <transcript2>simegdegö</transcript2>
+    <cyrillic>шимэгдэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S4136</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠮᠡᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>шимэгдэх</cyrillic>
+      <definition>〔动〕шимэх 的被动态.</definition>
+      <page>1636</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠮᠠᠺᠳᠠᠺᠥ</unicode>
+      <cyrillic>ШИМЭГДЭХ</cyrillic>
+      <definition>шимэх-ийн үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шимэгдэх</cyrillic>
+      <definition>Pass von шимэх</definition>
+      <page>385</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠮᠡᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>шимэгдэх</cyrillic>
+      <definition>шимэхийн үйлдэгдэх хэв.</definition>
+      <page>848</page>
+    </entry_item>
+  </entries>
+</entry>

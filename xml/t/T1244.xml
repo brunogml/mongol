@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T1244">
+  <head>
+    <unicode>ᠳᠠᠪᠲᠠᠯ</unicode>
+    <transcript>dabtal</transcript>
+    <transcript2>dabdal</transcript2>
+    <cyrillic>давтал</cyrillic>
+  </head><derivatives>
+    <ref>T1238</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠪᠳᠠᠯ</unicode>
+      <definition>répétition, réitération</definition>
+      <page>1610</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠪᠲᠠᠯ</unicode>
+      <cyrillic>давтал</cyrillic>
+      <definition>〔名〕锻，锤打；重复.</definition>
+      <page>367</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠪᠲᠠᠯ</unicode>
+      <cyrillic>ДАВТАЛ</cyrillic>
+      <definition>I ковка, чеканка; отбивка (кос). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠪᠲᠠᠯ</unicode>
+      <cyrillic>ДАВТАЛ</cyrillic>
+      <definition>II повторение. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠪᠲᠠᠯ</unicode>
+      <cyrillic>ДАВТАЛГҮЙ</cyrillic>
+      <definition>I не топча. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠪᠲᠠᠯ</unicode>
+      <cyrillic>ДАВТАЛГҮЙ</cyrillic>
+      <definition>II не повторяя, без повторений. </definition>
+      <page>0</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>давтал</cyrillic>
+    <definition>Reduplikation f, Verdoppelung f</definition>
+    <page>87</page>
+  </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K2291">
+  <head>
+    <unicode>ᠭᠢᠯᠭᠦᠮᠡᠯ</unicode>
+    <transcript>gilgümel</transcript>
+    <transcript2>gilgömel</transcript2>
+  </head>
+  <see_also>
+    <ref>K2290</ref>
+    <ref>K2292</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠢᠯᠺᠥᠮᠡᠯ</unicode>
+      <uighur>gilgümel</uighur>
+      <transcript>GILGYMEL</transcript>
+      <definition>See gilgemel.</definition>
+      <page>383</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠢᠯᠭᠦᠮᠡᠯ</unicode>
+      <definition>clair, lumineux, luisant; limpide</definition>
+      <page>2537</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠢᠯᠭᠦᠮᠡᠯ ᠥᠩᠭᠡ</unicode>
+          <definition>un beau teint, bel extérieur</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠢᠯᠭᠦᠮᠡᠯ ᠪᠠᢐᠮᠠᠷᠠᠺᠠ</unicode>
+          <definition>des rubis brillants</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

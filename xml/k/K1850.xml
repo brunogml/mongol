@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1850">
+  <head>
+    <unicode>ᠺᠢᠬᠣᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>kiqunaγulqu</transcript>
+    <transcript2>gigonagolgo</transcript2>
+    <cyrillic>хяхнуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>K1849</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠢᠬᠤᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хяхнуулах</cyrillic>
+      <definition>〔动〕хяхнах 的使动态.</definition>
+      <page>1505</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠬᠣᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХЯХНУУЛАХ</cyrillic>
+      <definition>хяхнах-ын үйлдүүл., вызывать скрип, скрежетание. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хяхнуулах</cyrillic>
+      <definition>Kaus von хяхнах</definition>
+      <page>349</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠢᠬᠤᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хяхнуулах</cyrillic>
+      <definition>хяхнахын үйлдүүлэх хэв.</definition>
+      <page>774</page>
+    </entry_item>
+  </entries>
+</entry>

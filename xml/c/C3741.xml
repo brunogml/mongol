@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C3741">
+  <head>
+    <unicode>ᠴᠥᠺᠠᠷᠥᠮ</unicode>
+    <transcript>čögerüm</transcript>
+    <transcript2>cögeröm</transcript2>
+    <cyrillic>цөөрөм</cyrillic>
+  </head><see_also>
+    <ref>C3736</ref>
+  
+    <ref>C3743</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠥᠺᠠᠷᠥᠮ</unicode>
+      <uighur>čögerüm</uighur>
+      <cyrillic>цөөрөм</cyrillic>
+      <transcript>CØGERYM</transcript>
+      <definition>[=cøgerem, cøgyrym, cørym] n. Pond, small lake or pool.</definition>
+      <page>201</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠥᠺᠠᠷᠥᠮ ᠭᠠᠵᠠᠷ</unicode>
+          <transcript>-- γazar</transcript>
+          <definition> Swamp, bog.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠥᠺᠠᠷᠥᠮ ᠨᠠᠭᠤᠷ</unicode>
+          <transcript>-- naγur</transcript>
+          <definition> Small lake, pool of water.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

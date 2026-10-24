@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1952">
+  <head>
+    <unicode>ᠬᠠᠯᠢᠰᠣᠲᠣᠬᠣ</unicode>
+    <transcript>qalisutuqu</transcript>
+    <transcript2>galisodogo</transcript2>
+    <cyrillic>хальстах</cyrillic>
+  </head>
+  <see_also>
+    <ref>Q1953</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠯᠢᠰᠣᠲᠣᠬᠣ</unicode>
+      <cyrillic>ХАЛЬСТАХ</cyrillic>
+      <definition>обрастать кожицей, кожурой. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠯᠢᠰᠤᠲᠤᠬᠤ</unicode>
+      <cyrillic>хальстах</cyrillic>
+      <definition>улмаар хальстай болох.</definition>
+      <page>653</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q1948</ref>
+  </related_to>
+</entry>

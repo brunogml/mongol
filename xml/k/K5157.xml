@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K5157">
+  <head>
+    <unicode>ᠺᠥᠷᠲᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>kürtegülkü</transcript>
+    <transcript2>gördegölgö</transcript2>
+    <cyrillic>хүртүүлэх</cyrillic>
+  </head>
+  <see_also>
+    <ref>K5156</ref>
+  </see_also>
+  <related_to>
+    <ref>K5155</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠥᠷᠲᠡᠺᠥᠯᠺᠥ</unicode>
+      <uighur>kürdegülkü</uighur>
+      <cyrillic>хүртүүлэх</cyrillic>
+      <transcript>KYRTEGYL-</transcript>
+      <definition>[v. caus. of kyrt -] To grant, give, confer.</definition>
+      <page>507</page>
+      <examples>
+        <example>
+          <unicode>ᠥᠮᠴᠢ ᠺᠥᠷᠲᠡᠺᠥᠯᠺᠥ</unicode>
+          <transcript>ømci --ky</transcript>
+          <definition>To bequeath, make a bequest.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠩ ᠺᠥᠷᠲᠡᠺᠥᠯᠺᠥ</unicode>
+          <transcript>sang --ky</transcript>
+          <definition>To give a reward.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠦᠷᠲᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хүртүүлэх</cyrillic>
+      <definition>〔动〕хүртэх /1 的使动态.</definition>
+      <page>1459</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠷᠲᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ХҮРТҮҮЛЭХ</cyrillic>
+      <definition>хүртэх-ийн үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠦᠷᠲᠡᠭᠦᠯᠺᠦ</unicode>
+      <definition>i.q. kurtegheku Cc.94</definition>
+      <page>2648</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠦᠷᠲᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хүртүүлэх</cyrillic>
+      <definition>хүртэхийн үйлдүүлэх хэв.</definition>
+      <page>747</page>
+    </entry_item>
+  </entries>
+</entry>

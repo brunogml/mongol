@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0093">
+  <head>
+    <unicode>ᠳᠠᠨᠳᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>dandaγanaqu</transcript>
+    <transcript2>dandaganago</transcript2>
+    <cyrillic>дандганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T0094</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠨᠳᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>дандганах</cyrillic>
+      <definition>〔动〕参见 дэндгзнэх.</definition>
+      <page>390</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠨᠳᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ДАНДГАНАХ</cyrillic>
+      <definition>дэндгэнэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠨᠳᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>дандганах</cyrillic>
+      <definition>дэндгэнэх.</definition>
+      <page>187</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T0092</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T6430">
+  <head>
+    <unicode>ᠲᠣᠰᠠᠲᠣ</unicode>
+    <transcript>tusatu</transcript>
+    <transcript2>dosado</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠰᠠᠲᠣ</unicode>
+      <transcript>TUSATU </transcript>
+      <page>1187</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠤᠰᠠᠲᠤ ᠰᠠᠯᠮ᠎ᠠ = ᠲᠤᠰᠠᠲᠤ ᠴᠠᠯᠮ᠎ᠠ</unicode>
+          <transcript>salm-a ( calm-a) ;</transcript>
+          <definition> T. Don yod zhags pa; S. Amogha-paça. 'infallible lasso' (for catching demons), a weapon of certain doγsid.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠰᠠᠳᠤ ~ ᠳᠤᠰᠠᠲᠠᠢ</unicode>
+      <definition>avantageux. utile, qui a de l'avantage, bienfaisant.</definition>
+      <page>1826</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠤᠰᠠᠳᠤ ᠰᠠᠩ</unicode>
+          <definition>magasin de vivres</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠤᠰᠠᠳᠤ ᠰᠡᠳᠺᠢᠯ ᠢ ᠡᠭᠦᠰᠭᠡᠺᠦ</unicode>
+          <definition>concevoir une idée bien utile</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+<related_to><ref>T6402</ref></related_to><see_also><ref>T6429</ref></see_also></entry>

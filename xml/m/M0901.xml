@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0901">
+  <head>
+    <unicode>ᠮᠠᠨᠠᠷᠠᠺᠥ</unicode>
+    <transcript>menerekü</transcript>
+    <transcript2>meneregö</transcript2>
+    <cyrillic>мэнэрэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M0902</ref>
+    <ref>M0900</ref>
+  </derivatives>
+  <see_also>
+    <ref>M0903</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠮᠠᠨᠠᠷᠠᠺᠥ</unicode>
+      <uighur>menerekü</uighur>
+      <cyrillic>мэнэрэх</cyrillic>
+      <transcript>MENERE-</transcript>
+      <definition>v.i. To become stupid or dull; to faint, lose consciousness; to become numb.</definition>
+      <page>536</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠠᠷ ᠮᠢᠨᠤ ᠮᠠᠨᠠᠷᠠᠪᠡ</unicode>
+          <transcript>γar minu --be</transcript>
+          <definition> My hands have become numb.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠮᠡᠨᠡᠷᠡᠺᠦ ~ ᠮᠡᠨᠡᠷᠢᠺᠦ</unicode>
+      <definition>devenir stupide , s'hébéter; 2 perdre connaissance, s'évanouir.</definition>
+      <page>2004</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠮᠢᠲᠠᠨ ᠤ ᠤᠶᠠᠨ ᠤᠬᠠᠭᠠᠨ ᠪᠡᠷ ᠮᠡᠨᠡᠷᠡᠨ ᠣᠳᠪᠠᠢ</unicode>
+          <definition>les sens et l'esprit des êtres se sont affaiblis</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠨᠠᠷᠠᠺᠥ</unicode>
+      <cyrillic>МЭНЭРЭХ</cyrillic>
+      <definition>1) отупеть, поглупеть, становиться бестолковым; мэнэрэн гайхах изумляться, ничего не понимать от удивления; 2) терять чувствительность; падать в обморок; хөл мэнэрэв ноги одеревенели; 3) багроветь, краснеть. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠡᠨᠡᠷᠡᠬᠦ</unicode>
+      <cyrillic>мэнэрэх</cyrillic>
+      <definition>1. бадайрах, чинэрэх; бие мэнэрэх;2. дүйрэх, дүйрэнгэ болох; толгой дүүрч мэнэрэх;3. огт ухваргүй элий балай болох; аль ч учрыг олохгүй мэнэрч хоцорчээ.</definition>
+      <page>356</page>
+    </entry_item>
+  </entries>
+</entry>

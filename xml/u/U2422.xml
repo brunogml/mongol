@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="U2422">
+  <head>
+    <unicode>ᠣᠶᠢᠮᠠᠰᠣ</unicode>
+    <transcript>oyimasu</transcript>
+    <transcript2>oyimaso</transcript2>
+    <cyrillic>оймс</cyrillic>
+  </head><see_also>
+    <ref>U2432</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠶᠢᠮᠠᠰᠤ ~ ᠣᠶᠢᠮᠠᠰᠤᠨ</unicode>
+      <uighur>oyimasu - oyimasun</uighur>
+      <cyrillic>оймс(он)</cyrillic>
+      <transcript>OIMASU(N)</transcript>
+      <definition>[= cimusu(n)] n. Sock; stocking,</definition>
+      <page>605</page>
+      <examples>
+        <example>
+          <unicode>ᠢᠰᠡᠭᠡᠢ ᠣᠶᠢᠮᠠᠰᠤ</unicode>
+          <transcript>isegei -- </transcript>
+          <definition>Felt sock</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠣᠷᠭᠠᠨ ᠣᠶᠢᠮᠠᠰᠤ</unicode>
+          <transcript>torγan -- </transcript>
+          <definition> Silk stocking.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠶᠢᠮᠠᠰᠣᠨ ~ ᠣᠶᠢᠮᠣᠰᠤᠨ</unicode>
+      <definition>bas, vêlement des jambes</definition>
+      <page>334</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠣᠶᠢᠮᠠᠰᠣ</unicode>
+      <uighur>oyimad</uighur>
+      <definition>die Strumpfe</definition>
+      <page>43</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠣᠶᠢᠮᠠᠰᠣ</unicode>
+      <uighur>uyimasu</uighur>
+      <definition>(o) n. Stockings. Socks.</definition>
+      <page>165</page>
+    </entry_item>
+  </entries>
+</entry>

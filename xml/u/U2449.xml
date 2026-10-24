@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2449">
+  <head>
+    <unicode>ᠣᠶᠢᠴᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>oyičiγulqu</transcript>
+    <transcript2>oyicigolgo</transcript2>
+    <cyrillic>ойчуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U2446</ref>
+  </related_to>
+  <see_also>
+    <ref>U2450</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠢᠴᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ойчуулах</cyrillic>
+      <definition>〔动〕ойчих 的使动态.</definition>
+      <page>797</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠶᠢᠴᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ОЙЧУУЛАХ</cyrillic>
+      <definition>ойчих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠢᠴᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ойчуулах</cyrillic>
+      <definition>ойчихын үйлдүүлэх хэв.</definition>
+      <page>411</page>
+    </entry_item>
+  </entries>
+</entry>

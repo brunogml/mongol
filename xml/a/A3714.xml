@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A3714">
+  <head>
+    <unicode>ᠠᠶᠢᠵᠠᠮᠲᠣ</unicode>
+    <transcript>ayiǰamtu</transcript>
+    <transcript2>ayicamdo</transcript2>
+    <cyrillic>айзамт</cyrillic>
+  </head><see_also>
+    <ref>A3713</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <page>8</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠢᠵᠠᠮᠲᠤ ᠳᠠᠭᠤ</unicode>
+          <uighur>ayiǰamtu daγun</uighur>
+          <definition>chanson au son de laquelle on peut danser</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠢᠵᠠᠮᠲᠤ</unicode>
+      <cyrillic>айзамт</cyrillic>
+      <definition>〔形〕有旋律的，有节奏的，合拍的：зүрхний ~ агшил 心脏很有节奏的跳动.</definition>
+      <page>32</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠶᠢᠵᠠᠮᠲᠣ</unicode>
+      <cyrillic>АЙЗАМТ</cyrillic>
+      <definition>айзамтай–г үз; айзамт дасгал ритмическая гимнастика; айзамт хөгжим ритмичная музыка.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

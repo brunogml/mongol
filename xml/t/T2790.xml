@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2790">
+  <head>
+    <unicode>ᠳᠠᠷᠬᠠᠨ</unicode>
+    <transcript>darqan</transcript>
+    <transcript2>dargan</transcript2>
+    <cyrillic>дархан</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠠᠷᠬᠠᠨ</unicode>
+      <uighur>darqan</uighur>
+      <cyrillic>дархан</cyrillic>
+      <transcript>DARXAN</transcript>
+      <definition>n. and adj. Artisan, craftsman; person free from taxes and official duties; area or place set aside for religious reasons and therefore inviolable; sacred; great, celebrated (cf. darxad).</definition>
+      <page>236</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠷᠬᠠᠨ ᠠᠭᠤᠯᠠ</unicode>
+          <transcript>-- aγula</transcript>
+          <definition> A sacred mountain (where hunting and lumber working are not permitted).</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠠᠷᠬᠠᠨ ᠴᠣᠯᠤ</unicode>
+          <transcript>-- colu</transcript>
+          <definition> The rank and privileges of a peerage; the status of darxan; famous or celebrated name.</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠠᠷᠬᠠᠨ ᠨᠣᠶᠠᠨ</unicode>
+          <transcript>-- nojan</transcript>
+          <definition> Retired high officials who enjoy certain privileges</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠠᠷᠬᠠᠨ ᠰᠤᠷᠬᠤ</unicode>
+          <transcript>-- surxu</transcript>
+          <definition> To learn a trade.</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠠᠷᠬᠠᠨ ᠤ ᠭᠡᠷ</unicode>
+          <transcript>-- u ger</transcript>
+          <definition> Workshop.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠯᠲᠠᠨ ᠤ ᠳᠠᠷᠬᠠᠨ</unicode>
+          <transcript>altan u – </transcript>
+          <definition>Goldsmith</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠤᠤ ᠎ᠶᠢᠨ ᠳᠠᠷᠬᠠᠨ</unicode>
+          <transcript>buu jin – </transcript>
+          <definition>Gunsmith</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠤᠯᠢ ᠎ᠶᠢᠨ ᠳᠠᠷᠬᠠᠨ</unicode>
+          <transcript>γuli jin – </transcript>
+          <definition>Coppersmith</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠣᠳᠤᠨ ᠤ ᠳᠠᠷᠬᠠᠨ</unicode>
+          <transcript>modun u --</transcript>
+          <definition> Carpenter, cabinet-maker.</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠥᠩᠭᠦᠨ ᠤ ᠳᠠᠷᠬᠠᠨ</unicode>
+          <transcript>mønggyn u – </transcript>
+          <definition>Silversmith</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠷᠬᠠᠨ ~ ᢐᠠᠷᠬᠠᠨ</unicode>
+      <definition>ouvrier, artiste: 2 darkhan, libre d'impots,</definition>
+      <page>1676</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠯᠳᠠᠴᠢ ᠳᠠᠷᠬᠠᠨ</unicode>
+          <definition>orfèvre, ouvrier travaillant l'or</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠮᠦᠷ ᠤᠨ ᠳᠠᠷᠬᠠᠨ</unicode>
+          <definition>forgeron</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠮᠦᠷᠴᠢ ᠳᠠᠷᠬᠠᠨ</unicode>
+          <definition>forgeron</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠠᠷᠬᠠᠨ ᠤ ᠪᠠᠭᠠᠵᠠ</unicode>
+          <definition>instruments de forgeron</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠠᠷᠬᠠᠨ ᠪᠣᠯᠭᠠᠬᠤ</unicode>
+          <definition>élever dans la dignité de darkhan</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠠᠷᠬᠠᠨ ᠤ ᠭᠡᠷ</unicode>
+          <definition>un atelier</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠣᠳᠤᠴᠢ ᠳᠠᠷᠬᠠᠨ</unicode>
+          <definition>charpentier, menuisier</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠥᠩᠭᠦᠴᠢ ᠳᠠᠷᠬᠠᠨ</unicode>
+          <definition>orfèvre, ouvrier travaillant en argent</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠠᠰᠴᠢ ᠳᠠᠷᠬᠠᠨ</unicode>
+          <definition>un chaudronnier, ouvrier travaillant en cuivre</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠳᠠᠷᠬᠠᠨ</unicode>
+      <uighur>darqan</uighur>
+      <definition>der Handwerksmann , Künstler (vorzüglich in Metall); ein in den Adelstand Erhobener oder von Abgaben Befreiter.</definition>
+      <page>272</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠳᠠᠷᠬᠠᠨ</unicode>
+      <uighur>darqan</uighur>
+      <definition>n An artisan, a mechanic. A master of any kind of handicraft. A person raised to rank or nobility and exempted from taxes</definition>
+      <page>1082</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠳᠠᠷᠬᠠᠨ</unicode>
+      <uighur>darqan bolγaqu</uighur>
+      <definition>To raise to noble rank.</definition>
+      <page>1083</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠷᠬᠠᠨ</unicode>
+      <cyrillic>ДАРХАН</cyrillic>
+      <definition>I кузнец; умелец; мастер; алт мөнгөний дархан золотых дел мастер, мастер по серебру; ювелир; модны дархан плотник, столяр; нарийн дархан а) ювелир; б) искусные опытные мастера; төмрийн дархан кузнец; уран дархан ремесленник; мастер; дархны газар а) мастерская; б) кузница; дархан хүн бурхан ухаантай зүйр. ~ дело мастера боится (үгчил. у кузнеца ум бога). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠷᠬᠠᠨ</unicode>
+      <cyrillic>ДАРХАН</cyrillic>
+      <definition>II 1. священный, неприкосновенный; заповедный (о местности); халдашгүй дархан священный и неприкосновенный (о собственности); дипломатын халдашгүй дархан эрх дипломатическая неприкосновенность; дархан уул гора-заповедник; дархан хил неприкосновенные рубежи; священные границы; дархан цаазтай газар заповедник; дархан цаазтай ой заповедный лес; 2. 1) түүх. свободное от податей, повинностей и не подлежавшее телесным наказаниям лицо, тархан; дархан болгох пожаловать в дарханы, произвести в звание дархана; 2) түүх. титул княжеского достоинства; 3) б.т. высшее звание борца; чемпион; дархан аварга дважды победитель, дважды победивший (на надоме); чемпион. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠷᠬᠠᠨ</unicode>
+      <cyrillic>ДАРХНЫ</cyrillic>
+      <definition>дархан I-ы харьяал., кузнечный; дархны багаж кузнечные инструменты; дархны газар кузница; столярная; мастерская. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дархан</cyrillic>
+      <definition>1. Handwerksmeister m; тeмрийн ~ Schmied m
+2. unverletzlich, immun; ~ цаатай газар Naturschutzgebiet n; хил хязгаарын халдашгүй ~ байдал Unverletzlichkeit der Grenzen
+3. hist von Abgaben befreite od in den Adelsstand erhobene Person</definition>
+      <page>93</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠷᠬᠠᠨ</unicode>
+      <cyrillic>дархан /1</cyrillic>
+      <definition>дарх хийхэд чадамгай хүн,төмрийн дархан модны дархан, дархны газар, дархны багаж, дархан хүн, уран дархан.</definition>
+      <page>192</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠷᠬᠠᠨ</unicode>
+      <cyrillic>дархан /2</cyrillic>
+      <definition>1. урьд цагт алба татвар зэргийг үзэхгүй эрх олсон хүн;2. ховор ан амьтан ургамал зэрэг юмыг үржүүлэх ба хамгаалах зорилгоор авах болон авлахыг улсаас хориглон цаазалсан газар, дархан цаазтай газар;3. цол хэргэм,дархан бээл, дархан ван.</definition>
+      <page>192</page>
+    </entry_item>
+  </entries>
+</entry>

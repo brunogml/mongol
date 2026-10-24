@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4120">
+  <head>
+    <unicode>ᠰᠢᠮᠠᠳᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>simedegülkü</transcript>
+    <transcript2>simedegölgö</transcript2>
+    <cyrillic>шимдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S4119</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠮᠡᠳᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>шимдүүлэх</cyrillic>
+      <definition>〔动〕шимдэх /1、/2 的使动态.</definition>
+      <page>1635</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠮᠠᠳᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ШИМДҮҮЛЭХ</cyrillic>
+      <definition>шимдэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠮᠡᠳᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>шимдүүлэх</cyrillic>
+      <definition>шимдэхийн үйлдүүлэх хэв.</definition>
+      <page>847</page>
+    </entry_item>
+  </entries>
+</entry>

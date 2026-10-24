@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S3828">
+  <head>
+    <unicode>ᠰᠢᠯᠠᠪᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>silabalǰaqu</transcript>
+    <transcript2>silabalcago</transcript2>
+    <cyrillic>шилбалзах</cyrillic>
+  </head><derivatives>
+    <ref>S3829</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠯᠠᠪᠠᠯᠵᠠᠬᠣ</unicode>
+      <uighur>silabalǰaqu</uighur>
+      <cyrillic>шалбалзах</cyrillic>
+      <transcript>SILABALZA-</transcript>
+      <definition>[= šalabalza-] v.i. To hurry; to rush; to be quick, swift.</definition>
+      <page>705</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠯᠠᠪᠠᠯᠵᠠᠬᠤ</unicode>
+      <definition>perdre baleine, s'étouffer.</definition>
+      <page>1493</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠯᠠᠪᠠᠯᠵᠠᠨ ᠰᠤᠷᠬᠤ</unicode>
+          <definition>s'appliquer à l'étude</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

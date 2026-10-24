@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7859">
+  <head>
+    <unicode>ᠳᠣᠷᠪᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>durbaγanaqu</transcript>
+    <transcript2>dorbaganago</transcript2>
+    <cyrillic>дурваганах</cyrillic>
+  </head>
+  <see_also>
+    <ref>T7858</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠤᠷᠪᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>дурваганах</cyrillic>
+      <definition>〔动〕火焰熊熊，火炽燃：гал ~ 火燃旺.</definition>
+      <page>442</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠷᠪᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ДУРВАГАНАХ</cyrillic>
+      <definition>пылать, трещать (об огне, горящем предмете); гал дурваганах пылать с шумом (об огне). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠤᠷᠪᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>дурваганах</cyrillic>
+      <definition>галын хөгжин шатах; галын дөл дурваганах.</definition>
+      <page>212</page>
+    </entry_item>
+  </entries>
+</entry>

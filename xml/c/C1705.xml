@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1705">
+  <head>
+    <unicode>ᠴᠢᠪᠺᠠᠳᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>čibkedegülkü</transcript>
+    <transcript2>cibgedegölgö</transcript2>
+    <cyrillic>чивхдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>C1704</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠪᠬᠡᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>чивхдүүлэх</cyrillic>
+      <definition>〔动〕чивхдэх 的使动态.</definition>
+      <page>1583</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠪᠺᠠᠳᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЧИВХДҮҮЛЭХ</cyrillic>
+      <definition>чивхдэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чивхдүүлэх</cyrillic>
+      <definition>Kaus von чивхдэх</definition>
+      <page>370</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠪᠬᠡᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>чивхдүүлэх</cyrillic>
+      <definition>чивхдэхийн үйлдүүлэх хэв.</definition>
+      <page>816</page>
+    </entry_item>
+  </entries>
+</entry>

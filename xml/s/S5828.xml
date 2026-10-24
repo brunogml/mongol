@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S5828">
+  <head>
+    <unicode>ᠰᠣᠯᠣᠩᠭᠠᠯᠠᠯ</unicode>
+    <transcript>solungγalal</transcript>
+    <transcript2>solonggalal</transcript2>
+    <cyrillic>солонголол</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠯᠣᠩᠭᠠᠯᠠᠯ</unicode>
+      <cyrillic>солонголол</cyrillic>
+      <definition>〔名〕荧光.</definition>
+      <page>935</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠯᠣᠩᠭᠠᠯᠠᠯ</unicode>
+      <cyrillic>СОЛОНГОЛОЛ</cyrillic>
+      <definition>флуоресценция. </definition>
+      <page>0</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>солонголол</cyrillic>
+    <definition>Phys Fluoreszenz f</definition>
+    <page>200</page>
+  </entry_item>
+  </entries>
+<related_to><ref>S5826</ref></related_to></entry>

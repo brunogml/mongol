@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0169">
+  <head>
+    <unicode>ᠪᠠᠭᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>baγadaγulqu</transcript>
+    <transcript2>bagadagolgo</transcript2>
+    <cyrillic>багадуулах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0170</ref>
+  </derivatives>
+  <related_to>
+    <ref>B0167</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠭᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>багадуулах</cyrillic>
+      <definition>〔动〕багадах 的使动态.</definition>
+      <page>105</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠭᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БАГАДУУЛАХ</cyrillic>
+      <definition>багадах-ын үйлдүүл., шөлний давсыг багадуулжээ не досолил суп.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>багадуулах</cyrillic>
+      <definition>1. Kaus von багадах
+2. verringern, verkleinern</definition>
+      <page>40</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠭᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>багадуулах</cyrillic>
+      <definition>багадахын үйлдүүлэх хэв; багадахад хүрүүлэх, дутаах.</definition>
+      <page>64</page>
+    </entry_item>
+  </entries>
+</entry>

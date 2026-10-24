@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="V0054">
+  <head>
+    <transcript>vatt</transcript>
+    <transcript2>vadd</transcript2>
+    <cyrillic>ватт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠸᠠᠲ᠋</unicode>
+      <cyrillic>ватт</cyrillic>
+      <definition>〔量〕〈电〉瓦特，瓦（电）：~ цаг 瓦特时（度）；~ хурам 瓦特秒；~ хэмжүүр 瓦特计.</definition>
+      <page>257</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ВАТТ</cyrillic>
+      <definition>цахил. ватт; ватт цаг ватт-час.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>ватт</cyrillic>
+      <definition>Phys Watt n</definition>
+      <page>70</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠸᠠᠲ᠋</unicode>
+      <cyrillic>ватт</cyrillic>
+      <definition>цалхилгаан болон эрчим хүчний нэгж, 736 ваат нэг морины хүчтэй тэнцэнэ; цахилгаан энергийн нэгж.</definition>
+      <page>127</page>
+    </entry_item>
+  </entries>
+</entry>

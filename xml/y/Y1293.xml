@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1293">
+  <head>
+    <unicode>ᠵᠠᠯᠪᠢᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>ǰalbiγanaqu</transcript>
+    <transcript2>yalbiganago</transcript2>
+    <cyrillic>жалбиганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1294</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠯᠪᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>жалбиганах</cyrillic>
+      <definition>〔动〕参见 жалбалзах.</definition>
+      <page>500</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠯᠪᠢᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЖАЛБИГАНАХ</cyrillic>
+      <definition>жалбилзах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠯᠪᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>жалбиганах</cyrillic>
+      <definition>жалбигар юмны үргэлжлэн хөдлөх.</definition>
+      <page>240</page>
+    </entry_item>
+  </entries>
+</entry>

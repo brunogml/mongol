@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B1704">
+  <head>
+    <unicode>ᠪᠠᠳᠠᠷᠠᠺᠥ</unicode>
+    <transcript>bederekü</transcript>
+    <transcript2>bederegö</transcript2>
+    <cyrillic>бэдрэх</cyrillic>
+  </head>
+  <see_also>
+    <ref>B1708</ref>
+    <ref>B1704a</ref>
+  </see_also>
+  <derivatives>
+    <ref>B1705</ref>
+    <ref>B1706</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠠᠳᠠᠷᠠᠺᠥ</unicode>
+      <uighur>bederekü</uighur>
+      <cyrillic>бэдрэх</cyrillic>
+      <transcript>BEDERE-</transcript>
+      <definition>[=. bederi-] v.t. To seek, search, look for.</definition>
+      <page>94</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠷᠭ᠎ᠠ ᠪᠠᠳᠠᠷᠠᠺᠥ</unicode>
+          <transcript>arγ-a --ky</transcript>
+          <definition>To. seek means, look for a way.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠡᠳᠡᠷᠡᠺᠦ</unicode>
+      <definition>chercher</definition>
+      <page>1113</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бэдрэх</cyrillic>
+      <definition>= бидрэх</definition>
+      <page>68</page>
+    </entry_item>
+  </entries>
+</entry>

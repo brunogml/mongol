@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B3631">
+  <head>
+    <unicode>ᠪᠣᠮᠪᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>bumbaγanaqu</transcript>
+    <transcript2>bombaganago</transcript2>
+    <cyrillic>бумбаганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B3632</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠤᠮᠪᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>бумбаганах</cyrillic>
+      <definition>〔动〕（圆状物体）频动，滚动，翻动.</definition>
+      <page>207</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠮᠪᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>БУМБАГАНАХ</cyrillic>
+      <definition>бумбалзах-ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бумбаганах</cyrillic>
+      <definition>intr kullern, rollen</definition>
+      <page>62</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠮᠪᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>бумбаганах</cyrillic>
+      <definition>бумбагар юмны үргэлжлэн хөдлөх байдал.</definition>
+      <page>107</page>
+    </entry_item>
+  </entries>
+</entry>

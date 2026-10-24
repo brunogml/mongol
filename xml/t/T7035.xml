@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7035">
+  <head>
+    <unicode>ᠳᠣᠯᠳᠣᠭᠣᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>dulduγunaγulqu</transcript>
+    <transcript2>doldogonagolgo</transcript2>
+    <cyrillic>долдгонуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T7034</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠣᠯᠳᠣᠭᠣᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>долдгонуулах</cyrillic>
+      <definition>〔动〕долдгонох 的使动态.</definition>
+      <page>411</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠯᠳᠣᠭᠣᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДОЛДГОНУУЛАХ</cyrillic>
+      <definition>долдгонох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠣᠯᠳᠣᠭᠣᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>долдгонуулах</cyrillic>
+      <definition>долдгонохын үйлдүүлэх хэв.</definition>
+      <page>197</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K5010">
+  <head>
+    <unicode>ᠺᠥᠷᠥᠪᠵᠢᠺᠥ</unicode>
+    <transcript>köröbǰikü</transcript>
+    <transcript2>göröbcigö</transcript2>
+    <cyrillic>хөрөвжих</cyrillic>
+  </head><derivatives>
+    <ref>K5011</ref>
+  
+    <ref>K5009</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠷᠥᠪᠡᠵᠢᠬᠦ</unicode>
+      <cyrillic>хөрөвжих</cyrillic>
+      <definition>〔动〕〈牧〉冷室育羔，育羔冷冻化.</definition>
+      <page>1408</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠷᠥᠪᠵᠢᠺᠥ</unicode>
+      <cyrillic>ХӨРӨВЖИХ</cyrillic>
+      <definition>вырасти. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

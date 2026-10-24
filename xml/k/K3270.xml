@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K3270">
+  <head>
+    <unicode>ᠺᠥᠩᠺᠥᠨᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>günggünegülkü</transcript>
+    <transcript2>gönggönegölgö</transcript2>
+    <cyrillic>гүнгэнүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K3268</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠦᠩᠭᠦᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>гүнгэнүүлэх</cyrillic>
+      <definition>〔动〕гүнгэнэх 的使动态.</definition>
+      <page>342</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠩᠺᠥᠨᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ГҮНГЭНҮҮЛЭХ</cyrillic>
+      <definition>гүнгэнэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гүнгэнүүлэх</cyrillic>
+      <definition>Kaus von гүнгэнэх</definition>
+      <page>83</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠦᠩᠭᠦᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>гүнгэнүүлэх</cyrillic>
+      <definition>гүнгэнэхийн үйлдүүлэх хэв.</definition>
+      <page>165</page>
+    </entry_item>
+  </entries>
+</entry>

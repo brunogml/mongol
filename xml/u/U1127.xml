@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="U1127">
+  <head>
+    <unicode>ᠣᠪᠣᠷᠣᠬᠣ</unicode>
+    <transcript>oburuqu</transcript>
+    <transcript2>oborogo</transcript2>
+    <cyrillic>оврох</cyrillic>
+  </head><derivatives>
+    <ref>U1128</ref>
+  </derivatives><see_also>
+    <ref>U1133</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠪᠣᠷᠣᠬᠣ</unicode>
+      <uighur>oburuqu</uighur>
+      <cyrillic>оврох</cyrillic>
+      <transcript>OBURU-</transcript>
+      <definition>See ubaira- .</definition>
+      <page>599</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠪᠤᠷᠣᠬᠤ</unicode>
+      <definition>observer, remarquer, faire attention.</definition>
+      <page>372</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠪᠤᠷᠤᠨ ᠰᠠᠨᠠᠬᠰᠠᠨ ᠦᠭᠡᠢ</unicode>
+          <definition>il ne remarqua pas, il n'a aucune attention</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠣᠪᠣᠷᠣᠬᠣ</unicode>
+      <uighur>uburuqu</uighur>
+      <definition>beachten, aufmerksam seyn</definition>
+      <page>47</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠣᠪᠣᠷᠣᠬᠣ</unicode>
+      <uighur>oburuqu</uighur>
+      <definition>(o)v.t. To mind, to pay attention to, to be attentive or mindful. To regard, to take note of.</definition>
+      <page>181</page>
+      <examples>
+        <example>
+          <uighur>oburugsan ügei</uighur>
+          <definition>Unattentive, regardless.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

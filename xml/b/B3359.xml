@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B3359">
+  <head>
+    <unicode>ᠪᠣᠯᠣᠶᠣ</unicode>
+    <transcript>boluyu</transcript>
+    <transcript2>boloyo</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠤᠯᠣᠶᠤ</unicode>
+      <definition>je suis, tu es, il est. etc. ; je serai, tu seras, il sera, etc.</definition>
+      <page>1191</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠤᠢ ᠪᠤᠯᠣᠶᠤ</unicode>
+          <definition>il sera, il viendra, etc.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠪᠣᠯᠣᠶᠣ</unicode>
+      <uighur>buluyu</uighur>
+      <definition>ist, wird seyn.</definition>
+      <page>113</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠪᠣᠯᠣᠶᠣ</unicode>
+      <uighur>boluyu</uighur>
+      <definition>Shall or will be.</definition>
+      <page>449</page>
+    </entry_item>
+  </entries>
+</entry>

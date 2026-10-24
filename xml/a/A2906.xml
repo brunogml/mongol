@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A2906">
+  <head>
+    <unicode>ᠠᠮᠢᠰᠬᠣᠭᠠᠯᠠᠬᠣ</unicode>
+    <transcript>amisquγalaqu</transcript>
+    <transcript2>amisgogalago</transcript2>
+    <cyrillic>амьсгаалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>A2907</ref>
+    <ref>A2908</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠮᠢᠰᠬᠤᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>амьсгаалах</cyrillic>
+      <definition>〔动〕呼吸，深呼吸.</definition>
+      <page>58</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠮᠢᠰᠬᠣᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>АМЬСГААЛАХ</cyrillic>
+      <definition>1. дышать; вздыхать; 2. амьсгаалахуй–г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠮᠢᠰᠬᠣᠭᠠᠯᠠᠬᠣᠢ</unicode>
+      <cyrillic>АМЬСГААЛАХУЙ</cyrillic>
+      <definition>вдыхание, вдох.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>амьсгаалах</cyrillic>
+      <definition>= амьсгалах</definition>
+      <page>31</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠮᠢᠰᠬᠤᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>амьсгаалах</cyrillic>
+      <definition>удаанаар амьсгалах.</definition>
+      <page>42</page>
+    </entry_item>
+  </entries>
+</entry>

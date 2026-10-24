@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1710">
+  <head>
+    <unicode>ᠰᠠᠷᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sariγulqu</transcript>
+    <transcript2>sarigolgo</transcript2>
+    <cyrillic>сариулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S1709</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠷᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сариулах</cyrillic>
+      <definition>〔动〕сарих 的使动态.</definition>
+      <page>918</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠷᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>САРИУЛАХ</cyrillic>
+      <definition>сарих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сариулах</cyrillic>
+      <definition>Kaus von сарих</definition>
+      <page>196</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠷᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сариулах</cyrillic>
+      <definition>сарихын үйлдүүлэх хэв.</definition>
+      <page>471</page>
+    </entry_item>
+  </entries>
+</entry>

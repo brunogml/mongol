@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2914">
+  <head>
+    <unicode>ᠴᠣᠳᠯᠠᠬᠣ</unicode>
+    <transcript>čodlaqu</transcript>
+    <transcript2>codlago</transcript2>
+    <cyrillic>цодлох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C2915</ref>
+    <ref>C2916</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠣᠳᠯᠠᠬᠤ</unicode>
+      <cyrillic>цодлох</cyrillic>
+      <definition>〔动〕①（下棋时）将，将一军；②堵人口实.</definition>
+      <page>1530</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠳᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЦОДЛОХ</cyrillic>
+      <definition>шатар. шаховать (объявляет только пешкой). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цодлох</cyrillic>
+      <definition>dickbäuchig, dickwanstig</definition>
+      <page>355</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠣᠳᠯᠠᠬᠤ</unicode>
+      <cyrillic>цодлох</cyrillic>
+      <definition>1. шатардаж наадахад хүүгээр шалах;2. бусдын амыг үгээр таглах.</definition>
+      <page>788</page>
+    </entry_item>
+  </entries>
+</entry>

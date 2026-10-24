@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C3002">
+  <head>
+    <unicode>ᠴᠣᠯᠴᠠᠷᠢᠬᠣ</unicode>
+    <transcript>čolčariqu</transcript>
+    <transcript2>colcarigo</transcript2>
+    <cyrillic>цолчрох</cyrillic>
+  </head><see_also>
+    <ref>C3010</ref>
+  
+    <ref>C3003</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠣᠯᠴᠠᠷᠢᠬᠣ</unicode>
+      <uighur>čolčariqu</uighur>
+      <cyrillic>цолчрох</cyrillic>
+      <transcript>COLCARI-</transcript>
+      <definition>[=colcuri-, culcari-] v.t. To speak inarticulately; to mumble, mutter.</definition>
+      <page>197</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠣᠯᠴᠠᠷᠢᠬᠤ ~ ᠴᠣᠯᠴᠣᠷᠢᠬᠤ</unicode>
+      <definition>1 se gâter, se corrompre: &#13;
+2 bégayer, marmoter, parler vite et ne s'expliquer pas bien.</definition>
+      <page>2207</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠯᠤᠭᠤᠨ ᠺᠡᠯᠡ ᠢᠨᠤ ᠴᠣᠯᠴᠠᠷᠢᠬᠤᠢ ᠪᠣᠯᠪᠠ</unicode>
+          <definition>le langage pur devint inintelligible</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠣᠯᠴᠠᠷᠢᠵᠤ ᠺᠡᠯᠡᠺᠦ</unicode>
+          <definition>parler vite et ne s'expliquer pas bien, marmotter</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

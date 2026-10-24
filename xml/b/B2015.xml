@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2015">
+  <head>
+    <unicode>ᠪᠠᠷᠰᠠᠺᠥᠲᠥᠺᠥᠯᠺᠥ</unicode>
+    <transcript>bersegütügülkü</transcript>
+    <transcript2>bersegödögölgö</transcript2>
+    <cyrillic>бэрсүүтүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>B2014</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠡᠷᠰᠡᠭᠦᠲᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бэрсүүтүүлэх</cyrillic>
+      <definition>〔动〕бэрсүүтэх 的使动态.</definition>
+      <page>247</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠷᠰᠠᠺᠥᠲᠥᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>БЭРСҮҮТҮҮЛЭХ</cyrillic>
+      <definition>бэрсүүтэх-ийн үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠡᠷᠰᠡᠭᠦᠲᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бэрсүүтүүлэх</cyrillic>
+      <definition>бэрсүүтэхийн үйлдүүлэх хэв.</definition>
+      <page>123</page>
+    </entry_item>
+  </entries>
+</entry>

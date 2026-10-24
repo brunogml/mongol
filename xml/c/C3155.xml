@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3155">
+  <head>
+    <unicode>ᠴᠣᠴᠠᠴᠢᠬᠣ</unicode>
+    <transcript>čučačiqu</transcript>
+    <transcript2>cocacigo</transcript2>
+    <cyrillic>цуцчих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C3156</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠣᠴᠠᠴᠢᠬᠣ</unicode>
+      <uighur>čučačiqu</uighur>
+      <cyrillic>цуцчих</cyrillic>
+      <transcript>CUCACI-</transcript>
+      <definition>v.t. To undo, untwist, untwine (as a rope, etc.).</definition>
+      <page>204</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠡᠵᠢᠭᠡ ᠴᠣᠴᠠᠴᠢᠬᠣ</unicode>
+          <transcript>gezige --xu</transcript>
+          <definition> To undo a braid of hair,</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠣᠴᠠᠴᠢᠬᠤ</unicode>
+      <definition>défiler de la soie, une corde, débrouiller plusieurs fils</definition>
+      <page>2210</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠴᠣᠴᠠᠴᠢᠬᠣ</unicode>
+      <uighur>čučačiqu</uighur>
+      <definition>verwirren, in einander schlingen, in Unordnung bringen (z. B. Zwirn).</definition>
+      <page>335</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠴᠣᠴᠠᠴᠢᠬᠣ</unicode>
+      <uighur>čučačiqu</uighur>
+      <definition>v.i. To entangle to wind or twist itself together.</definition>
+      <page>1350</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠤᠴᠠᠴᠢᠬᠤ</unicode>
+      <cyrillic>цуцчих</cyrillic>
+      <definition>〔动〕цуцлах 的多次体.</definition>
+      <page>1556</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠤᠴᠠᠴᠢᠬᠤ</unicode>
+      <cyrillic>цуцчих</cyrillic>
+      <definition>байн байн цуцлах, задлах.</definition>
+      <page>801</page>
+    </entry_item>
+  </entries>
+</entry>

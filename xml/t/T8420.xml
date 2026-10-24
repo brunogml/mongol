@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8420">
+  <head>
+    <unicode>ᠲᠥᠪᠥᠺᠠᠷᠳᠠᠺᠥ</unicode>
+    <transcript>töbügerdekü</transcript>
+    <transcript2>döbögerdegö</transcript2>
+    <cyrillic>төвгөрдөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T8422</ref>
+    <ref>T8419</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠥᠪᠥᠭᠡᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>төвгөрдөх</cyrillic>
+      <definition>〔动〕参见 товгордох.</definition>
+      <page>1090</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠪᠥᠺᠠᠷᠳᠠᠺᠥ</unicode>
+      <cyrillic>ТӨВГӨРДӨХ</cyrillic>
+      <definition>быть крайне неровным, чересчур бугрљстым, рыхлым (о земле); товгордох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠥᠪᠥᠭᠡᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>төвгөрдөх</cyrillic>
+      <definition>хэтэрхий төвгөр болох.</definition>
+      <page>548</page>
+    </entry_item>
+  </entries>
+</entry>

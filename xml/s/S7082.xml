@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S7082">
+  <head>
+    <unicode>ᠰᠥᠷᠺᠠᠴᠠᠯᠳᠥᠺᠥ</unicode>
+    <transcript>sörgečeldükü</transcript>
+    <transcript2>sörgeceldögö</transcript2>
+    <cyrillic>сөргөцөлдөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S7083</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠥᠷᠭᠡᠴᠡᠯᠳᠡᠬᠦ</unicode>
+      <cyrillic>сөргөцөлдөх</cyrillic>
+      <definition>〔动〕сөргөцөх 的互动态；互相反抗，相抵抗，相抗拒，相敌对，相违反，相矛盾，相悖逆.</definition>
+      <page>949</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠥᠷᠺᠠᠴᠠᠯᠳᠥᠺᠥ</unicode>
+      <cyrillic>СӨРГӨЦӨЛДӨХ</cyrillic>
+      <definition>сөргөцөх-ийн үйлдэлд., противиться, действовать друг против друга. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠥᠷᠭᠡᠴᠡᠯᠳᠦᠬᠦ</unicode>
+      <cyrillic>сөргөцөлдөх</cyrillic>
+      <definition>сөргөхийн үйлдэлцэх хэв.</definition>
+      <page>484</page>
+    </entry_item>
+  </entries>
+</entry>

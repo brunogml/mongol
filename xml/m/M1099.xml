@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1099">
+  <head>
+    <unicode>ᠮᠠᠯᠲᠠᠯᠵᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>meltelǰegülkü</transcript>
+    <transcript2>meldelcegölgö</transcript2>
+    <cyrillic>мэлтэлзүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>M1098</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠡᠯᠲᠡᠯᠵᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>мэлтэлзүүлэх</cyrillic>
+      <definition>〔动〕мэлтэлзэх 的使动态.</definition>
+      <page>705</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠯᠲᠠᠯᠵᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>МЭЛТЭЛЗҮҮЛЭХ</cyrillic>
+      <definition>мэлтэлзэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠡᠯᠲᠡᠯᠵᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>мэлтэлзүүлэх</cyrillic>
+      <definition>мэлтэлзэхийн үйлдүүлэх хэв; мэлтэлзүүлэн уйлаад яах билээ.</definition>
+      <page>355</page>
+    </entry_item>
+  </entries>
+</entry>

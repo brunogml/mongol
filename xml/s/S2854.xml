@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S2854">
+  <head>
+    <unicode>ᠰᠠᠷᠲᠠᠪ</unicode>
+    <transcript>serteb</transcript>
+    <transcript2>serdeb</transcript2>
+    <cyrillic>сэртэв</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠷᠲᠠᠪ</unicode>
+      <uighur>serdeb</uighur>
+      <transcript>SERTEB</transcript>
+      <page>691</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠪᠠᠷ ᠰᠠᠷᠲᠠᠪ ᠰᠠᠷᠲᠠᠪ ᠺᠢᠺᠦ</unicode>
+          <transcript>xabar -- serteb kiky</transcript>
+          <definition> To distend the nostrils.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠡᠷᠳᠡᠪ ᠰᠡᠷᠳᠡᠪᠺᠢᠺᠦ</unicode>
+      <definition>remuer les narines (lorsqu&apos;on entend qc, de risible, dont on rit).</definition>
+      <page>1374</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠰᠠᠷᠲᠠᠪ</unicode>
+      <uighur>sardab serdebkiqu</uighur>
+      <definition>To smile, to sneer.</definition>
+      <page>1388</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠷᠲᠠᠪ</unicode>
+      <cyrillic>СЭРТЭВ</cyrillic>
+      <definition>: сэртэв сэртэв хийх а) настораживаться; б) раздуть ноздри при смехе. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

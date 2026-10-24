@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1240">
+  <head>
+    <unicode>ᠬᠠᠪᠴᠢᠯᠠᠬᠣ</unicode>
+    <transcript>qabčilaqu</transcript>
+    <transcript2>gabcilago</transcript2>
+    <cyrillic>хавчлах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠪᠴᠢᠯᠠᠬᠣ</unicode>
+      <uighur>qabčilaqu</uighur>
+      <cyrillic>хавчлах</cyrillic>
+      <transcript>XABCILA-</transcript>
+      <definition>v. t. To squeeze, press, compress.</definition>
+      <page>896</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠪᠴᠢᠯᠠᠨ ᠪᠠᠶᠢᠯᠳᠤᠬᠤ</unicode>
+          <transcript>--n bailduxu</transcript>
+          <definition> To press the enemy from two sides</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠪᠴᠢᠯᠠᠬᠤ</unicode>
+      <definition>serrer, presser contre; 2 vexer</definition>
+      <page>763</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠪᠴᠢᠯᠠᠨ ᠪᠠᠶᠢᠯᠳᠤᠬᠤ</unicode>
+          <definition>serrer de près l'ennemi</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠪᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>хавчлах</cyrillic>
+      <definition>〔动〕хавчих 的多次体.</definition>
+      <page>1267</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠪᠴᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХАВЧЛАХ</cyrillic>
+      <definition>хавчих-ийн олонтаа., сжимать, тискать; всё время теснить, притеснять; хавчлан байлдах цэрэг. теснить неприятеля с двух сторон; брать противника в клещи. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠪᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>хавчлах</cyrillic>
+      <definition>байн байн хавчих.</definition>
+      <page>637</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q1239</ref>
+  </related_to>
+</entry>

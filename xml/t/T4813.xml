@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T4813">
+  <head>
+    <unicode>ᠳᠠᠷᠠᠰᠥᠷᠠᠺᠥ</unicode>
+    <transcript>deresürekü</transcript>
+    <transcript2>deresöregö</transcript2>
+    <cyrillic>дэрсрэх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠡᠷᠡᠰᠦᠷᠡᠬᠦ</unicode>
+      <cyrillic>дэрсрэх</cyrillic>
+      <definition>〔动〕玉草（芨芨草）丛生.</definition>
+      <page>477</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠷᠠᠰᠥᠷᠠᠺᠥ</unicode>
+      <cyrillic>ДЭРСРЭХ</cyrillic>
+      <definition>становиться жёстким как солома. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠷᠡᠰᠦᠷᠡᠬᠦ</unicode>
+      <cyrillic>дэрсрэх</cyrillic>
+      <definition>дэрс шиг болох, дэрсэрхүү болох.</definition>
+      <page>229</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T4807</ref>
+  </related_to>
+</entry>

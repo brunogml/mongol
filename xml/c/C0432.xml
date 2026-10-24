@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C0432">
+  <head>
+    <unicode>ᠴᠠᠯᠠᠪᠣᠷᠢ</unicode>
+    <transcript>čalaburi</transcript>
+    <transcript2>calabori</transcript2>
+    <cyrillic>цалбар</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠯᠠᠪᠣᠷᠢ</unicode>
+      <uighur>čalaburi</uighur>
+      <cyrillic>цалбар</cyrillic>
+      <transcript>CALABURI</transcript>
+      <definition>n. Error, mistake, fault.</definition>
+      <page>162</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠠᠯᠠᠪᠣᠷᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Faultless, without mistake,</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠠᠯᠠᠪᠤᠷᠢ ᠦᠭᠡᠢ</unicode>
+      <definition>sans faute, sans erreur</definition>
+      <page>2099</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠯᠠᠪᠤᠷᠢ</unicode>
+      <cyrillic>цалбар</cyrillic>
+      <definition>〔名〕错误，缺点.</definition>
+      <page>1516</page>
+    </entry_item>
+  </entries>
+</entry>

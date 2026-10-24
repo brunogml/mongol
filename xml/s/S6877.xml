@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6877">
+  <head>
+    <unicode>ᠰᠥᠺᠥᠯᠠᠺᠥ</unicode>
+    <transcript>sögülekü</transcript>
+    <transcript2>sögölegö</transcript2>
+    <cyrillic>сөглөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6876</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠥᠭᠯᠡᠬᠦ</unicode>
+      <cyrillic>сөглөх</cyrillic>
+      <definition>〔动〕呼唤“沙咯沙咯”声使骆驼跪卧下.</definition>
+      <page>946</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠥᠺᠥᠯᠠᠺᠥ</unicode>
+      <cyrillic>СӨГЛӨХ</cyrillic>
+      <definition>произносить сог-сог (возглас, которым заставляют верблюда ложиться на землю). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠥᠭᠥᠯᠡᠬᠦ</unicode>
+      <cyrillic>сөглөх</cyrillic>
+      <definition>1. сөг сөг гэж дуудан тэмээ хэвтүүлэх;2. хэвтээ тэмээг сөг сөг гэж дуудан босгохгүй байх.</definition>
+      <page>482</page>
+    </entry_item>
+  </entries>
+</entry>

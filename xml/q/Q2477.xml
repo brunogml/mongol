@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q2477">
+  <head>
+    <unicode>ᠬᠠᠮᠰᠠᠬᠣ</unicode>
+    <transcript>qamsaqu</transcript>
+    <transcript2>gamsago</transcript2>
+    <cyrillic>хамсах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q2478</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q2506</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠮᠰᠠᠬᠣ</unicode>
+      <uighur>qamsaqu</uighur>
+      <transcript>XAMSA-</transcript>
+      <definition>See xamsu-.</definition>
+      <page>924</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠮᠰᠠᠬᠤ ~ ᠬᠠᠮᠰᠣᠬᠤ</unicode>
+      <definition>s'unir, se réunir; 2 se lier d'amitié.</definition>
+      <page>810</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠳᠠᠮ ᠤᠨ ᠺᠦᠴᠦᠨ ᠬᠠᠮᠰᠠᠮᠤᠢ</unicode>
+          <definition>la force de ses mérites se réunit</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠥᠺᠦᠷ ᠎ᠯᠦᠭᠡ ᠬᠠᠮᠰᠠᠬᠤ</unicode>
+          <definition>se réunir à un camarade, former une alliance</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠠᠮᠰᠠᠬᠣ</unicode>
+      <uighur>qamsaqu</uighur>
+      <definition>sich vereinigen</definition>
+      <page>135</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠠᠮᠰᠠᠬᠣ</unicode>
+      <uighur>qamsaqu</uighur>
+      <definition>To associate. To amalgamate with.</definition>
+      <page>534</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠮᠰᠠᠬᠣ</unicode>
+      <cyrillic>ХАМСАХ</cyrillic>
+      <definition>объединяться, прилагать свои усилия к усилиям других, принимать участие, соединяться, делать что-л. совместно с другим. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠮᠰᠠᠬᠤ</unicode>
+      <cyrillic>хамсах</cyrillic>
+      <definition>хамжих, хавсах, хамтрах; ажлаа хамсаж хийх; хамсаж хоолоо бэлтгэх.</definition>
+      <page>655</page>
+    </entry_item>
+  </entries>
+</entry>

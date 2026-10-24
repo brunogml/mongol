@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1544">
+  <head>
+    <unicode>ᠰᠠᠺᠢᠶ ᠠ</unicode>
+    <transcript>sakiy-a</transcript>
+    <transcript2>sagiya</transcript2>
+    <cyrillic>сахиа</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠺᠢᠶᠠ ~ ᠰᠠᠺᠢᠶᠠᠨ</unicode>
+      <uighur>sakiya - sakiyan</uighur>
+      <cyrillic>сахиа</cyrillic>
+      <transcript>SAKIJA(N)</transcript>
+      <definition>n. Amulet, talisman; guards, watchmen.</definition>
+      <page>663</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠺᠢᠶᠠᠨ ᠤ ᠤᠲᠠᠰᠤ</unicode>
+          <transcript>--n u utasu</transcript>
+          <definition>Amulet made from threads</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠺᠢᠶᠠᠨ ᠤ ᠵᠠᠩᠭᠢᠶ᠎ᠠ</unicode>
+          <transcript>--n u zangij-a</transcript>
+          <definition>Amulet in the shape of a knot.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠠᠺᠢᠶᠠᠨ ~ ᠰᠠᠺᠢᠶ᠎ᠠ</unicode>
+      <definition>amulette, un préservatif.</definition>
+      <page>1327</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠺᠢᠶᠠᠨ ᠤ ᠤᠳᠠᠰᠤᠨ</unicode>
+          <definition>amulette faite par le fils</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠺᠢᠶᠠᠨ ᠤ ᠵᠡᠩᠭᠢᠶ᠎ᠡ</unicode>
+          <definition>amulette en forme d'un noeud</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠺᠢᠶᠠᠨ ᠤ ᠺᠦᠷᠳᠦᠨ</unicode>
+          <definition>amulette en forme d'une roue</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠺᠢᠶᠠ</unicode>
+      <cyrillic>САХИА</cyrillic>
+      <definition>хуучир. стража; охрана, защита, амулет; сахианы зангиа хуучир. амулет из связанных узлами шёлковых лоскутков; сахианы утас хуучир. амулет, сделанный из ниток, над которыми прочитаны заклинания; сахианы хүрд хуучир. амулет в виде диска, сделанный из ниток, освящённых ламой.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠺᠢᠶᠠ</unicode>
+      <cyrillic>САХЪЯА</cyrillic>
+      <definition>са. дружба (название рода Шакъя, из которого по преданиям происходил Будда); сахъяагийн язгуур род Шакъя.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сахиа[н]</cyrillic>
+      <definition>Wächter m</definition>
+      <page>197</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠬᠢᠶ᠎ᠠ</unicode>
+      <cyrillic>сахиа</cyrillic>
+      <definition>сахиул.</definition>
+      <page>473</page>
+    </entry_item>
+  </entries>
+</entry>

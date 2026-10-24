@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1582">
+  <head>
+    <unicode>ᠪᠠᠷᠯᠠᠬᠣ</unicode>
+    <transcript>barlaqu</transcript>
+    <transcript2>barlago</transcript2>
+    <cyrillic>барлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B1583</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠠᠷᠯᠠᠬᠣ</unicode>
+      <uighur>barlaqu</uighur>
+      <cyrillic>барлах</cyrillic>
+      <transcript>BARLA-</transcript>
+      <definition>[T. par, see bar] v.t. To carve printing block for xylographs; to print.</definition>
+      <page>88</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠠᠷᠯᠠᠬᠣ ᠭᠠᠵᠠᠷ</unicode>
+          <transcript>--xu γazar</transcript>
+          <definition> Printing office.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠮᠠᠭ᠎ᠠ ᠪᠠᠷᠯᠠᠬᠣ</unicode>
+          <transcript>tamaγ-a --xu</transcript>
+          <definition> To carve or cut seals.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠠᠷᠯᠠᠬᠤ</unicode>
+      <definition>imprimer, livrer à l'impression</definition>
+      <page>1110</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠷᠯᠠᠬᠤ</unicode>
+      <cyrillic>барлах</cyrillic>
+      <definition>〔动〕（用版）印，印刷；（用打字机）打印；出版：ном ~ 印书.</definition>
+      <page>138</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠷᠯᠠᠬᠣ</unicode>
+      <cyrillic>БАРЛАХ</cyrillic>
+      <definition>хэвлэх. печатать, издавать (ксилографическим способом), литографировать; ном барлах печатать книги.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>барлах</cyrillic>
+      <definition>Typ mit einem Druckbrett drucken</definition>
+      <page>48</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠷᠯᠠᠬᠤ</unicode>
+      <cyrillic>барлах</cyrillic>
+      <definition>барын хэвээр ном, зураг мэтийг дармаллах; ном барлах.</definition>
+      <page>78</page>
+    </entry_item>
+  </entries>
+</entry>

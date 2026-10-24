@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7121">
+  <head>
+    <unicode>ᠲᠣᠮᠢᠶᠠᠯᠠᠬᠣ</unicode>
+    <transcript>tomiyalaqu</transcript>
+    <transcript2>domiyalago</transcript2>
+    <cyrillic>томьёлох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T7122</ref>
+    <ref>T7123</ref>
+    <ref>T7127</ref>
+    <ref>T7123a</ref>
+    <ref>T7123b</ref>
+    <ref>T7124</ref>
+    <ref>T7125</ref>
+    <ref>T7126</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠮᠢᠶᠠᠯᠠᠬᠣ</unicode>
+      <uighur>tomiialaqu</uighur>
+      <cyrillic>томьёлох</cyrillic>
+      <transcript>TOMIJALA-</transcript>
+      <definition>v.t. To define, formulate.</definition>
+      <page>823</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠣᠮᠢᠶᠠᠯᠠᠭᠰᠠᠨ ᠲᠡᠮᠳᠡᠭ</unicode>
+          <transcript>--ysan temdeg</transcript>
+          <definition> Conventional sign or symbol; inscription or legend on maps, graphs, etc.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠮᠢᠶᠠᠯᠠᠬᠤ</unicode>
+      <definition>décider, arrêter, faire conclusion. venir à la conclusion.</definition>
+      <page>1861</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠮᠢᠶᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ТОМЪЁОЛОХ</cyrillic>
+      <definition>1) сформулљровать, выражать в определённой форме; давать определение, название, заключение, определять; 2) обозначать условными знаками; томъёолсон тэмдэг условный знак. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠮᠢᠶᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>томьёолох</cyrillic>
+      <definition>1. юманд нэр томьёо өгөх ба томьёотой болгох.</definition>
+      <page>540</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T7118</ref>
+  </related_to>
+</entry>

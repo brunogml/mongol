@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2366">
+  <head>
+    <unicode>ᠲᠠᠶᠢᠬᠣ</unicode>
+    <transcript>tayiqu</transcript>
+    <transcript2>dayigo</transcript2>
+    <cyrillic>тайх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T0843</ref>
+  </derivatives>
+  <see_also>
+    <ref>T2366a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠶᠢᠬᠣ</unicode>
+      <uighur>tayiqu</uighur>
+      <cyrillic>тайх</cyrillic>
+      <transcript>TAI-</transcript>
+      <definition>v. t. To make an offering or oblation; to sacrifice; (as a noun) ritual, cult, liturgy, religious service.</definition>
+      <page>767</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠭᠤᠯᠠ ᠲᠠᠶᠢᠬᠣ</unicode>
+          <transcript>aγula --xu</transcript>
+          <definition> To make an offering to the mountain god</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠶᠢᠬᠤ</unicode>
+      <definition>offrir des sacrifices, sacrifier.</definition>
+      <page>1548</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠲᠠ ᠳᠠᠶᠢᠬᠤ</unicode>
+          <definition>attacher avec un cordon une branche de saule et l'offrir en sacrifice</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠠᠶᠢᠬᠤ ᠪᠢᠴᠢᠭ</unicode>
+          <definition>papier offert en sacrifice</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠠᠶᠢᠬᠤ ᠳᠠᠺᠢᠬᠤ ᠠᠷᠢᠭᠤᠳᠬᠠᠬᠤ ᠺᠡᠯᠳᠡᠰ</unicode>
+          <definition>bureau dirigeant les offrandes de la cour</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠠᠶᠢᠯᠭ᠎ᠠ ᠳᠠᠶᠢᠬᠤ</unicode>
+          <definition>offrir des sacrifices</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠶᠢᠬᠣ</unicode>
+      <uighur>dayiqu</uighur>
+      <definition>opfern.</definition>
+      <page>226</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠶᠢᠬᠣ</unicode>
+      <uighur>tayiqu</uighur>
+      <definition>To sacrifice.</definition>
+      <page>890</page>
+      <examples>
+        <example>
+          <uighur>tayiqu bičik</uighur>
+          <definition>Written prayers read at sacrifices.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠢᠬᠤ</unicode>
+      <cyrillic>тайх</cyrillic>
+      <definition>〔动〕举行祭祀仪式，作祭祀礼仪；祭祀，祭神；（转）崇拜：онгод ~ 崇拜偶象；祭祀神祗；уул ~ 祭山；◊ ~ тахих 祭祀.</definition>
+      <page>1015</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠶᠢᠬᠣ</unicode>
+      <cyrillic>ТАЙХ</cyrillic>
+      <definition>шашин. 1. приносљть в жертву, совершать обряд с жертвоприношениями, совершать жертвоприношение; тайлга тайх устраивать жертвоприношения; уул тайх совершать жертвоприношение духам гор; 2. тайхуй-г үз.; тайх тахил жертвоприношения; 3. жертвенный; тайх бичиг жертвенная бумажка; жертвенная молљтва; молљтва, напљсанная на листе бумаги и сжигаемая во время жертвоприношения; ритуальный текст, напљсанный на бумаге; тайх сав ритуальные принадлежности для жертвоприношения. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠶᠢᠬᠣ</unicode>
+      <cyrillic>ТАЙХУЙ</cyrillic>
+      <definition>культ, жертвоприношение. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тайх</cyrillic>
+      <definition>Rel opfern; уул ~ dem Berggott opfern</definition>
+      <page>217</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠢᠬᠤ</unicode>
+      <cyrillic>тайх</cyrillic>
+      <definition>тахиглах, тахих,тайх тахих&lt;хорш&gt;, уул тайх, онгод тайх.</definition>
+      <page>516</page>
+    </entry_item>
+  </entries>
+</entry>

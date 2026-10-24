@@ -1,0 +1,409 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T4741">
+  <head>
+    <unicode>ᠲᠠᠶᠢᠨ</unicode>
+    <transcript>teyin</transcript>
+    <transcript2>deyin</transcript2>
+    <cyrillic>тийн</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠶᠢᠨ</unicode>
+      <uighur>teyin</uighur>
+      <cyrillic>тийн</cyrillic>
+      <transcript>TEIN</transcript>
+      <definition>[literary form of teimy] a) ad, Such; so this way, thus; yes; that is right b) Renders T. rnam [par], S. pref.vi-, in some loan translations.</definition>
+      <page>796</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠶᠢᠨ ᠠᠪᠠᠰᠤ = ᠲᠠᠶᠢᠨ ᠪᠣᠯᠪᠠᠰᠤ</unicode>
+          <transcript>-- abasu = -- bolbasu</transcript>
+          <definition> If so, under these circumstances</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠶᠢᠨ ᠠᠲᠠᠯ᠎ᠠ = ᠲᠠᠶᠢᠨ ᠪᠠᠶᠢᠲᠠᠯ᠎ᠠ</unicode>
+          <transcript>-- atal-a == -- baital-a</transcript>
+          <definition> Nevertheless, still, yet; meanwhile.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠶᠢᠨ ᠠᠲᠠᠯ᠎ᠠ ᠬᠠᠷᠢᠨ</unicode>
+          <transcript>-- atal-a xarin</transcript>
+          <definition>.. Nevertheless, notwithstanding.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠶᠢᠨ ᠪᠣᠯᠲᠤᠭᠠᠢ</unicode>
+          <transcript>-- boltuγai</transcript>
+          <definition> So be it!.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠶᠢᠨ ᠪᠦᠭᠡᠰᠦ</unicode>
+          <transcript>-- bygesy</transcript>
+          <definition> If so, this being so; in this case.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠶᠢᠨ ᠺᠡᠮᠡᠨ </unicode>
+          <transcript>-- kemen</transcript>
+          <definition> . . Thus saying. . .</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠶᠢᠨ ᠺᠦ</unicode>
+          <transcript>-- ky</transcript>
+          <definition> [And] so; thus; such.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠶᠢᠨ ᠲᠠᠶᠢᠨ</unicode>
+          <transcript>ein -- </transcript>
+          <definition> This way and that way; one way or another</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠶᠢᠨ ᠢᠯᠭᠠᠯ</unicode>
+          <transcript>-- ilγal </transcript>
+          <definition>Case (in grammar; loan translation of T rnam dbye, S. vibhakti )</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠶᠢᠨ ᠮᠡᠳᠡᠺᠦ</unicode>
+          <transcript>-- medeky</transcript>
+          <definition> Representation, consciousness (philos.; loan translation of T. rnam [par] çes[pa], S. vijnāna ).</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠠᠷᠬᠤ ᠎ᠶᠢᠨ ᠲᠠᠶᠢᠨ ᠢᠯᠭᠠᠯ</unicode>
+          <transcript>γarxu jin -- ilγal</transcript>
+          <definition> Ablative case.</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠡᠷᠡᠭᠯᠡᠺᠦ ᠎ᠶᠢᠨ ᠲᠠᠶᠢᠨ ᠢᠯᠭᠠᠯ</unicode>
+          <transcript>keregleky jin -- ilγal</transcript>
+          <definition> Instrumental case.</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠡᠷᠡᠯᠡᠺᠦ ᠲᠠᠶᠢᠨ ᠢᠯᠭᠠᠯ</unicode>
+          <transcript>nereleky -- ilyal</transcript>
+          <definition> Nominative case.</definition>
+        </example>
+        <example>
+          <unicode>ᠥᠭᠺᠦ ᠣᠷᠤᠰᠢᠬᠤᠢ ᠎ᠶᠢᠨ ᠲᠠᠶᠢᠨ ᠢᠯᠭᠠᠯ</unicode>
+          <transcript>øgky orusixui jin -- ilγal</transcript>
+          <definition> Dative-locative case.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠮᠲᠤᠷᠠᠬᠤ ᠎ᠶᠢᠨ ᠲᠠᠶᠢᠨ ᠢᠯᠭᠠᠯ</unicode>
+          <transcript>xamturaxu jin -- ilγal</transcript>
+          <definition> Comitative case.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠷᠢᠶᠠᠯᠠᠬᠤ ᠲᠠᠶᠢᠨ ᠢᠯᠭᠠᠯ</unicode>
+          <transcript>xarijalaxu -- ilγal</transcript>
+          <definition> Genitive case.</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠢᠭᠠᠬᠤ ᠎ᠶᠢᠨ ᠲᠠᠶᠢᠨ ᠢᠯᠭᠠᠯ</unicode>
+          <transcript>ziγaxu jin -- ilγal </transcript>
+          <definition>Accusative case</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠶᠢᠨ ~ ᠲᠡᠶᠢᠨ ᠪᠦᠭᠡᠳ</unicode>
+      <transcript>TEIN, TEIN BYGED </transcript>
+      <definition>T. rnam par. Most frequently represents the S. pref. vi- in its intensifying functions, but also in the sense of 'differently, especially.'    </definition>
+      <page>1185</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠡᠶᠢᠨ ᠠᠳᠬᠠᠭᠯᠠᠬᠤ</unicode>
+          <transcript>+++ -- adxaγlaxu;</transcript>
+          <definition> T. rnam par rtog pa; -S. vikalpa. Discursive thought.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠶᠢᠨ ᠠᠯᠭᠠᠰᠠᠩᠭᠤᠢ</unicode>
+          <transcript>+++ -- alγasangγui;</transcript>
+          <definition> T. rnam (par) gy'eng (ba); S.vikshepa. Distraction, confusion. </definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠶᠢᠨ ᠪᠣᠯᠪᠠᠰᠤᠷᠠᠬᠤ</unicode>
+          <transcript>+++ -- bolbasuraxu; </transcript>
+          <definition>T. rnam par smin pa; S. vipaka Karmaic maturation, results of good and evil deeds (deciding our destiny).</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠶᠢᠨ ᠪᠣᠯᠪᠠᠰᠤᠷᠠᠶᠤ ᠎ᠶᠢᠨ ᠦᠷ᠎ᠡ</unicode>
+          <transcript>+++ -- bolbasuraxu jin yr-e; </transcript>
+          <definition>T. rnam par smin pahi hbras bu; S vipaka-phala. Fruition-result.ED 395-6 </definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠶᠢᠨ ᠪᠦᠭᠡᠳ = ᠲᠡᠶᠢᠨ</unicode>
+          <transcript>+++ -- byged = tein; </transcript>
+          <definition>T. rnam par. Stands for the S. prefix 'vi-' in its various functions. </definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠶᠢᠨ ᠪᠦᠭᠡᠳ ᠠᠳᠬᠠᠭ</unicode>
+          <transcript>+++ -- byged adxaγ; </transcript>
+          <definition>T. rnam par rtog pa; S. vikalpa. False discrimination or perception. ED 480. </definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠶᠢᠨ ᠪᠦᠭᠡᠳ ᠠᠷᠢᠯᠤᠭᠰᠠᠨ</unicode>
+          <transcript>+++ -- byged ariluγsan;</transcript>
+          <definition> T. rnam par byang ba; S. vyavadanatva. (The state of) purity. </definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠶᠢᠨ ᠪᠦᠭᠡᠳ ᠭᠡᠶᠢᠭᠦᠯᠦᠨ ᠵᠣᠺᠢᠶᠠᠭᠴᠢ</unicode>
+          <transcript>+++ -- byged geigylyn zokijaγci; </transcript>
+          <definition>T. Rnam par snang mdzad; S. Vairocana. The central Bu. in the cosmic pentad. See izaγurtu. </definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠶᠢᠨ ᠪᠦᠭᠡᠳ ᠢᠯᠠᠭᠤᠭᠰᠠᠨ</unicode>
+          <transcript>+++ -- byged ilaγuγsan; </transcript>
+          <definition>T. rnam par rgyal ba; 3. vijaya. Victorious, also a type of flask (the vijaya-kalaca) used in ritual. </definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠶᠢᠨ ᠪᠦᠭᠡᠳ ᠢᠯᠭᠠᠬᠤᠢ</unicode>
+          <transcript>+++ -- byged ilγaxui; </transcript>
+          <definition>T. rnam par hbyed pa; S. vicaya. Analysis, having phenomenon as its object. </definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠶᠢᠨ ᠪᠦᠭᠡᠳ ᠮᠡᠳᠡᠺᠦᠢ</unicode>
+          <transcript>+++ -- (byged) medekyi; </transcript>
+          <definition>T. rnam par çes pa, rnam çes; S. vijnina. Perception as contrasting with knowledge ( belge bilig). Based on the five outer senses and a so-called inner sense or 'sensorium commune' (sedkil; T. yid; S.manas) it is of six kinds to which the Yogacaras have added two more: mind affected by nisvanis (nisvanistu sedkil; T. nyon mongs can yid; S. klishta-manas) and finally the store-consciousnes (bykyn y sitygen y tein medekyi; T. kun gzhi rnam par çes pa; S. ālayavijnana. Store consciousness so called because it stores the karma-seeds (yiles yn kqiryngge; T. las kyi sa bon; s. karma-bija). </definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠶᠢᠨ ᠪᠦᠭᠡᠳ ᠨᠣᠮᠯᠠᠭᠰᠠᠨ</unicode>
+          <transcript>+++ -- byged nomlaγsan; </transcript>
+          <definition>T. (rnam par) bpad pa; S.vikhyata. Preached, explained. ED 482.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠶᠢᠨ ᠪᠦᠭᠡᠳ ᠲᠣᠨᠢᠯᠬᠤᠢ</unicode>
+          <transcript>+++ -- byged tonilxui; </transcript>
+          <definition>T. rnam par grol ba; S. vimukti, vimoksha. Liberation, release from sansar.ED 497a. </definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠶᠢᠨ ᠪᠦᠭᠡᠳ ᠤᠷᠪᠠᠭᠴᠢ ᠪᠣᠯᠤᠭᠰᠠᠨ</unicode>
+          <transcript>+++ -- byged urbaγci boluysan; </transcript>
+          <definition>T. yongs su gyur pa; S. parivrtti. Complete change, transmutation. </definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠶᠢᠨ ᠪᠦᠭᠡᠳ ᠬᠤᠪᠢᠯᠬᠤᠢ</unicode>
+          <transcript>+++ -- byged xubilxui; </transcript>
+          <definition>T. rnam par ‘phrul ba; S. vikurvana. Metamorphosis, miracle. </definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠶᠢᠨ ᠺᠦ ᠴᠢᠨᠠᠷ</unicode>
+          <transcript>+++ -- ky cinar ; </transcript>
+          <definition>T. de (kho na) nyid; S. tattva. (Metaphysical) reality. ED 481 b. </definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠶᠢᠨ ᠰᠢᠨᠵᠢᠯᠡᠺᠦ</unicode>
+          <transcript>+++ -- sinzileky; </transcript>
+          <definition>T. rnam (par) dpyod pa; S. vicara. Investigation, analysis. </definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠶᠢᠨ ᠰᠤᠳᠤᠯᠤᠭᠰᠠᠨ</unicode>
+          <transcript>+++ -- suduluγsan;</transcript>
+          <definition> T. rnam ( par) sbyangs pa; S.vicuddha. Purified, trained, educated. </definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠶᠢᠨ ᠲᠣᠨᠢᠯᠬᠤ</unicode>
+          <transcript>+++ -- tonilxu; </transcript>
+          <definition>T. rnam par thar pa; S. vimoksha. ‘Liberation, release, salvation. </definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠶᠢᠨ ᠤᠷᠪᠠᠭᠴᠢ = ᠲᠡᠶᠢᠨ ᠪᠦᠭᠡᠳ ᠤᠷᠪᠠᠭᠴᠢ ᠪᠣᠯᠤᠭᠰᠠᠨ</unicode>
+          <transcript>+++ -- urbaγci ( = tein byged urbaγci boluγsan) ;</transcript>
+          <definition> T. rnam gyur; S. vikrta. Changed, metamorphosed. </definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠶᠢᠨ ᠤᠷᠢᠳᠤᠭᠴᠢ</unicode>
+          <transcript>+++ -- uriduγci; </transcript>
+          <definition>T. rnam hdren, rnam par hdren pa; S. vinayaka. The best guide, ep. of the Bu. ED 489 b. </definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠶᠢᠨ ᠤᠬᠠᠭᠳᠠᠬᠤ</unicode>
+          <transcript>+++ -- uxaγdaxu; </transcript>
+          <definition>T. rnam par rig byed; S. vijnapti. Communication, representation. ED 435 b.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠡᠶᠢᠨ</unicode>
+      <definition>ainsi , tellement. si: 2 il remplace la particule inséparable sanskrite vi, ou tibét. rnam, rnam par pour renforcer la signification du mot suivant, et se traduit alors: très, fort, tout à fait, totalement, entièrement, parfaitement, etc.</definition>
+      <page>1683</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠡᠶᠢᠨ ᠠᠶᠢᠯᠠᠳᠤᠭᠴᠢ</unicode>
+          <definition>très savant, connaisseur parfait: sage</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠶᠢᠨ ᠠᠳᠠᠯᠠ</unicode>
+          <definition>cependant, en attendant</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠶᠢᠨ ᠠᠳᠬᠠᠬ</unicode>
+          <definition>raison, faculté de comprendre</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠶᠢᠨ ᠠᠳᠬᠠᠬᠯᠠᠬᠤ</unicode>
+          <definition>discuter sur tous les points</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠶᠢᠨ ᠠᠯᠭᠠᠰᠠᠩᠭᠤᠢ</unicode>
+          <definition>distraction, insouciance, étourderie au plus haut degré</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠶᠢᠨ ᠢᠯᠠᠭᠤᠭᠰᠠᠨ</unicode>
+          <definition>vainqueur absolu; 2 nom de la trentième année du cycle de soixante (mong. émé-usun-moghai-djil; chin. kuei-se)</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠶᠢᠨ ᠢᠯᠠᠭᠤᠭᠰᠠᠨ ᠡᠺᠡ</unicode>
+          <definition>femme vainqueur: épithète de l'épouse de Mahêçvara</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠶᠢᠨ ᠣᠳᠤᠷᠢᠳᠤᠭᠴᠢ</unicode>
+          <definition>le meilleur chef, guide, instituteur: bouddha</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠶᠢᠨ ᠤᠷᠪᠠᠭᠴᠢ</unicode>
+          <definition>celui qui revêt une forme toute nouvelle; changement de forme; 2 nom de la vingt-septième année du cycle de soixante (mong. été-témur-bars-djil; chin, keng-yn)</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠶᠢᠨ ᠣᠨᠵᠢᠯᠭᠠᠲᠤ</unicode>
+          <definition>nom de la trente-cinquième année du cycle de soixante (mon. éré-chiroi-nokhai-djil; chin. vou-sou)</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠶᠢᠨ ᠭᠠᠷᠤᠭᠰᠠᠨ</unicode>
+          <definition>nom de la vingt-cinquième année du cycle de soixante (mong. éré-chiroi-lou-djil; chin. vou-chin)</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠶᠢᠨ ᠪᠣᠯᠪᠠᠴᠤ</unicode>
+          <definition>quoique, cependant, quand même, quand</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠶᠢᠨ ᠪᠣᠯᠪᠠᠰᠤᠷᠠᠯ</unicode>
+          <definition>maturié parfaite, perfection; 2 les conséquences des actions</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠶᠢᠨ ᠪᠥᠭᠡᠰᠦ</unicode>
+          <definition>si, pour cette raison, par conséquent, c'est pourquoi, ensuite</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠶᠢᠨ ᠪᠥᠭᠡᠳ</unicode>
+          <definition>étant, ainsi; 2 pourvu que, si, quand, quand même; 3 entièrement, tout à fait, totalement, complètement</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠶᠢᠨ ᠪᠥᠭᠡᠳ ᠺᠡᠶᠢᠭᠦᠯᠦᠨ ᠵᠣᠺᠢᠶᠠᠭᠴᠢ</unicode>
+          <definition>qui éclaire, civilisateur; 2 Vairotchana</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠶᠢᠨ ᠰᠣᠨᠤᠰᠬᠠᠯ ᠎ᠲᠤ ᠎ᠶᠢᠨ ᠺᠥᠪᠡᠭᠦᠨ</unicode>
+          <definition>Bisman-tégri</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠶᠢᠨ ᠰᠤᠳᠤᠯᠤᠭᠰᠠᠨ</unicode>
+          <definition>les plus savants, instruit, sage</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠶᠢᠨ ᠰᠢᠨᠵᠢᠯᠡᠺᠦ</unicode>
+          <definition>examiner à fond</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠶᠢᠨ ᠳᠠᠷᠤᠭxᠢ</unicode>
+          <definition>vainqueur absolu; 2 nom de la dix-septième année du cycle de soixante (mong. éré-témur-lou-djil; chin. keng-chin)</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠶᠢᠨ ᠮᠡᠳᠡᠺᠦᠢ</unicode>
+          <definition>sentiment ou le commencement de conscience; 2 connaissance distincte, savoir (la quantité de connaissances qu'un homme a acquises); 3 âme, âme raisonnable. Cf. Burnouf, introd. I,502-3</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠶᠢᠨ ᠮᠡᠳᠡᠺᠦᠢ ᠰᠠᠷᠠ</unicode>
+          <definition>nom du second mois indien, Uttaraphalguni</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠶᠢᠨ ᠮᠡᠳᠡᠺᠦᠢ ᠺᠢᠵᠠᠭᠠᠯᠠᠰᠢ ᠦᠭᠡᠢ ᠲᠥᠷᠦᠨ ᠲᠥᠭᠡᠺᠦ</unicode>
+          <definition>région du savoir illimité; nom de la seconde région du monde immatériel bouddhique</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠶᠢᠨ ᠺᠦ</unicode>
+          <definition>ainsi, de cette manière; 2 entièrement, tout à fait, totalement, complètement</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠶᠢᠨ ᠺᠦ ᠲᠣᠨᠤᠯᠬᠤ</unicode>
+          <definition>délivrer totalement</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠶᠢᠨ</unicode>
+      <uighur>deyin</uighur>
+      <definition>so, also.</definition>
+      <page>238</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠶᠢᠨ</unicode>
+      <uighur>teyin</uighur>
+      <definition>So Right. In that manner. Hence</definition>
+      <page>939</page>
+      <examples>
+        <example>
+          <uighur>teyin bolbaǰu</uighur>
+          <definition>Although. Though.</definition>
+        </example>
+        <example>
+          <uighur>teyin büged</uighur>
+          <definition>Having been so. Hereupon. Upon this.</definition>
+        </example>
+        <example>
+          <uighur>teyin bügesü</uighur>
+          <definition>Whilst, whereas.</definition>
+        </example>
+        <example>
+          <uighur>teyin kü</uighur>
+          <definition>Therefore. Consequently</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠶᠢᠨ</unicode>
+      <cyrillic>ТИЙН</cyrillic>
+      <definition>I ном. так, Їтак; тийн атал, тийн байтал тем не менее; между тем; несмотря на то, что...; однако, но; тем временем, пока...; тийн боловч хотя и так, тем не менее, всё же; тийн бөгөөд так, такљм образом, затем; тийн бөгөөс / тийн аваас если так, в таком случае, при такљх условиях, коли так; тийн гэж так, такљм образом; поступая так; тийн гэтэл между тем; тем временем; тийн хэмээвч тем не менее, несмотря на Їто, вопрекљ сказанному; тийн хэмээн так, такљм образом; тийн хэмээн зөвшөөд тархав согласљвшись с Їтим, разошлљсь; тийн яван атал пока такљм образом шёл, љдя такљм образом. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠶᠢᠨ</unicode>
+      <cyrillic>ТИЙН</cyrillic>
+      <definition>II: тийн ялгал хэл.зүй. падеж; тийн ялгалын ай категория падежа. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠶᠢᠨ</unicode>
+      <cyrillic>ТИЙН</cyrillic>
+      <definition>III: тийн айлдагч шашин. всеведущий (эпитет будды); тийн алгасангүй гүн.ух. неустойчивость, непостоянность, шаткость, нерешљтельность, колебание, беспокойство; тийн атгаг гүн.ух. мышление, восприятие, познавание; тийн атгаглах мыслить, воспринимать, познавать; тийн боловсрох шашин. возмездие, воздаяние, следствие совершенных деяний; тийн болсон тоо. десять в сорок седьмой степени; их тийн болсон тоо. десять в сорок восьмой степени; тийн гарсан хуучир. совсем вышедший (название пятого года шестидесятилетнего цикла); тийн дарагч хуучир. совсем подавляющий (название семнадцатого года шестидесятилетнего цикла); тийн мэдэх гүн.ух. представление; сознание; тийн мэдэхүй сар хуучир. название второго древнеиндљйского месяца; тийн судалсан гүн.ух. мудрец, учёный; тийн удирдагч шашин. лучший руководљтель (эпитет будды); тийн унжлагат хуучир. с подвеской (название тридцать пятого года шестидесятилетнего цикла); тийн урвагч хуучир. совсем изменившийся (название двадцать седьмого года шестидесятилетнего цикла); тийн чийрэг гүн.ух. название триграммы, гексограммы; тийн шинжлэх шашин. распознавать, различать, проводљть, делать разлљчие; критљчески мыслить; тийн ялсан хуучир. совершенный победљтель (название тридцатого года шестидесятилетнего цикла). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠶᠢᠨ</unicode>
+      <cyrillic>ТИЙНХҮҮ</cyrillic>
+      <definition>1) так, такљм образом; љменно так; ийн тийнхүү и так и Їдак, всячески; ийн тийнхүү хөдөлж чадсан болно кое-как всяческими способами научљлись передвљгаться; мөн тийнхүү љменно так; тийнхүү удтал так долго, на такой продолжљтельный срок; 2) такой, таковой. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тийн</cyrillic>
+      <definition>1. lit so
+2.: ~ ялгал Gramm Fall m, Kasus m
+3. Phil Vorstellung f</definition>
+      <page>225</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠢᠨ</unicode>
+      <cyrillic>тийн /1</cyrillic>
+      <definition>ийн гэдэгтэй эсрэг утгатай үг; тийн атал; тийн амьдарч байтал; тийн хүү.</definition>
+      <page>530</page>
+    </entry_item>
+  </entries>
+</entry>

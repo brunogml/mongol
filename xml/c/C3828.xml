@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3828">
+  <head>
+    <unicode>ᠴᠥᠷᠥᠶᠢᠯᠺᠠᠺᠥ</unicode>
+    <transcript>čörüyilgekü</transcript>
+    <transcript2>cöröyilgegö</transcript2>
+    <cyrillic>цөрийлгөх</cyrillic>
+  </head>
+  <see_also>
+    <ref>C3827</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠥᠷᠥᠢᠯᠭᠡᠬᠦ</unicode>
+      <cyrillic>цөрийлгөх</cyrillic>
+      <definition>〔动〕цөрийх 的使动态.</definition>
+      <page>1545</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠥᠷᠥᠶᠢᠯᠺᠠᠺᠥ</unicode>
+      <cyrillic>ЦӨРИЙЛГӨХ</cyrillic>
+      <definition>цөрийх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠥᠷᠥᠢᠯᠭᠡᠬᠦ</unicode>
+      <cyrillic>цөрийлгөх</cyrillic>
+      <definition>цөрийхийн үйлдүүлэх хэв.</definition>
+      <page>796</page>
+    </entry_item>
+  </entries>
+</entry>

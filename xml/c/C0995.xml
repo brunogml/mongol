@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0995">
+  <head>
+    <unicode>ᠴᠠᠯᠮᠠᠺ</unicode>
+    <transcript>čelmeg</transcript>
+    <transcript2>celmeg</transcript2>
+    <cyrillic>цэлмэг</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠯᠮᠠᠺ</unicode>
+      <uighur>čelmeg</uighur>
+      <cyrillic>цэлмэг</cyrillic>
+      <transcript>CELMEG</transcript>
+      <definition>adj. Clear, clean; cloudless, fine (of weather); open; serene, pure, transparent.</definition>
+      <page>171</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠠᠯᠮᠠᠺ ᠡᠳᠦᠷ</unicode>
+          <transcript>-- edyr</transcript>
+          <definition>Fine day.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠠᠯᠮᠠᠺ ᠣᠭᠲᠠᠷᠭᠤᠢ</unicode>
+          <transcript>-- oγturγui</transcript>
+          <definition>Clear sky.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠠᠯᠮᠠᠺ ᠰᠥᠨᠢ</unicode>
+          <transcript>-- søni</transcript>
+          <definition>Clear night.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠠᠯᠮᠠᠺ ᠲᠩᠷᠢ</unicode>
+          <transcript>-- tngri</transcript>
+          <definition>Clear sky.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠠᠯᠮᠠᠺ ᠤᠬᠠᠭᠠᠨ</unicode>
+          <transcript>-- uxaγan,</transcript>
+          <definition>Clear mind</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠡᠯᠮᠡᠭ</unicode>
+      <definition>ouvert, serein, pur, transparent</definition>
+      <page>2120</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠡᠯᠮᠡᠭ ᠣᠭᠲᠠᠷᠭᠤᠢ</unicode>
+          <definition>l'air pur, ciel serein</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠯᠮᠡᠭ</unicode>
+      <cyrillic>цэлмэг</cyrillic>
+      <definition>〔形〕①晴朗的，明朗的，明亮的：~ огторгуй, ~ тэнгэр 晴朗的天空；~ өдөр 晴朗的日子；~ хөх 蔚蓝的；~ шөнө 晴朗的夜晚；②清晰的，明晰的，明豁的：~ ухаан 智慧；~ ухаантай хүн 智慧明豁的人，头脑明晰的人，有理智的人.</definition>
+      <page>1563</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠯᠮᠠᠺ</unicode>
+      <cyrillic>ЦЭЛМЭГ</cyrillic>
+      <definition>ясный; чистый; безоблачный; цэлмэг огторгуй / цэлмэг тэнгэр чистое, ясное небо; цэлмэг өдөр погожий день; безоблачный день; цэлмэг сайхан погожий; цэлмэг ухаан ясный ум; цэлмэг шөнө ясная ночь.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цэлмэг,</cyrillic>
+      <definition>цэлмүүн hell, klar, wolkenlos; ~ өдөр wolkenloser Tag; ~ тэнгэр klarer Himmel; ~ шөнө klare Nacht</definition>
+      <page>364</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠯᠮᠡᠭ</unicode>
+      <cyrillic>цэлмэг</cyrillic>
+      <definition>1. тэнгэр үүл манангүй, тунгалаг; тэнгэр цэлмэг сайхан байна; цэлмэг өдөр; цэлмэг шөнө; цэлмэг тэнгэр;2. саруул; цэлмэг ухаантай хүн.</definition>
+      <page>805</page>
+    </entry_item>
+  </entries>
+</entry>

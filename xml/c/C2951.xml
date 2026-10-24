@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2951">
+  <head>
+    <unicode>ᠴᠣᠯᠬᠣᠯᠵᠠᠬᠣ</unicode>
+    <transcript>čulqulǰaqu</transcript>
+    <transcript2>colgolcago</transcript2>
+    <cyrillic>цулхалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C2952</ref>
+    <ref>C2953</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠤᠯᠬᠤᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>цулхалзах</cyrillic>
+      <definition>〔动〕参见 цулхганах.</definition>
+      <page>1549</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠯᠬᠣᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ЦУЛХАЛЗАХ</cyrillic>
+      <definition>1) вздуваться, трястись (как студень); 2) цулхганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цулхалзах</cyrillic>
+      <definition>= цулхагнах</definition>
+      <page>360</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠤᠯᠬᠤᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>цулхалзах</cyrillic>
+      <definition>цулхгар юмны цулхас цулхас хөдлөх.</definition>
+      <page>798</page>
+    </entry_item>
+  </entries>
+</entry>

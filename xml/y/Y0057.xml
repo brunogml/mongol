@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0057">
+  <head>
+    <unicode>ᠵᠠᠨᠲᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰantalǰaγulqu</transcript>
+    <transcript2>yandalcagolgo</transcript2>
+    <cyrillic>занталзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y0056</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠨᠲᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>занталзуулах</cyrillic>
+      <definition>〔动〕занталзах 的使动态.</definition>
+      <page>545</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠨᠲᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗАНТАЛЗУУЛАХ</cyrillic>
+      <definition>занталзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠨᠲᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>занталзуулах</cyrillic>
+      <definition>занталзахын үйлдүүлэх хэв.</definition>
+      <page>267</page>
+    </entry_item>
+  </entries>
+</entry>

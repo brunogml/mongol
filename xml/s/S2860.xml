@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2860">
+  <head>
+    <unicode>ᠰᠠᠷᠲᠠᠯᠵᠠᠺᠥ</unicode>
+    <transcript>sertelǰekü</transcript>
+    <transcript2>serdelcegö</transcript2>
+    <cyrillic>сэртэлзэх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠷᠲᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>сэртэлзэх</cyrillic>
+      <definition>〔动〕参见 сэртэгнэх.</definition>
+      <page>993</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠷᠲᠠᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>СЭРТЭЛЗЭХ</cyrillic>
+      <definition>сэртгэнэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠷᠲᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>сэртэлзэх</cyrillic>
+      <definition>сэртгэр юмны сэртэс сэртэс хөдлөх.</definition>
+      <page>505</page>
+    </entry_item>
+  </entries>
+</entry>

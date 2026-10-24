@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2712">
+  <head>
+    <unicode>ᠪᠣᠭᠣᠰᠲᠣᠬᠣ</unicode>
+    <transcript>boγustuqu</transcript>
+    <transcript2>bogosdogo</transcript2>
+    <cyrillic>боостох</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠣᠭᠣᠰᠲᠣᠬᠤ</unicode>
+      <cyrillic>боостох</cyrillic>
+      <definition>〔动〕参见 боосох.</definition>
+      <page>174</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠭᠣᠰᠲᠣᠬᠣ</unicode>
+      <cyrillic>БООСТОХ</cyrillic>
+      <definition>боосох-ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠣᠭᠣᠰᠲᠣᠬᠤ</unicode>
+      <cyrillic>боостох</cyrillic>
+      <definition>мал гөрөөсний хэвэлд хээл тогтох.</definition>
+      <page>92</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>B2708</ref>
+  </related_to>
+</entry>

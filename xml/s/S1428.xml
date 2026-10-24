@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1428">
+  <head>
+    <unicode>ᠰᠠᠵᠠᠳᠠᠬᠣ</unicode>
+    <transcript>saǰadaqu</transcript>
+    <transcript2>sacadago</transcript2>
+    <cyrillic>саздах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1429</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠵᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>саздах</cyrillic>
+      <definition>〔动〕①擦；磨；②用锉锉.</definition>
+      <page>897</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠵᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>САЗДАХ</cyrillic>
+      <definition>тереть на тёрке. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>саздах</cyrillic>
+      <definition>kratzen, reiben mit Kratzer od Reibeisen</definition>
+      <page>191</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠵᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>саздах</cyrillic>
+      <definition>сазаар үрэх, цэвэрлэх.</definition>
+      <page>460</page>
+    </entry_item>
+  </entries>
+</entry>

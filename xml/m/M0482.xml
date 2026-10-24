@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0482">
+  <head>
+    <unicode>ᠮᠠᠲᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>matalǰaqu</transcript>
+    <transcript2>madalcago</transcript2>
+    <cyrillic>маталзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M0483</ref>
+  </derivatives>
+  <see_also>
+    <ref>M0481</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠲᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>маталзах</cyrillic>
+      <definition>〔动〕弯曲物一屈一伸，一弯一弯.</definition>
+      <page>666</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠲᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>МАТАЛЗАХ</cyrillic>
+      <definition>сгибаться (об изогнутом предмете); выгибаться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠲᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>маталзах</cyrillic>
+      <definition>матас матас хийх.</definition>
+      <page>334</page>
+    </entry_item>
+  </entries>
+</entry>

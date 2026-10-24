@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1211">
+  <head>
+    <unicode>ᠥᠮᠨᠥᠺᠠᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ömnügelegülkü</transcript>
+    <transcript2>ömnögelegölgö</transcript2>
+    <cyrillic>өмнөөлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>O1210</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠮᠨᠥᠭᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өмнөөлүүлэх</cyrillic>
+      <definition>〔动〕өмнөөлөх 的使动态.</definition>
+      <page>843</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠮᠨᠥᠺᠠᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ӨМНӨӨЛҮҮЛЭХ</cyrillic>
+      <definition>өмнөөлөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠮᠨᠥᠭᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өмнөөлүүлэх</cyrillic>
+      <definition>өмнөөлөхийн үйлдүүлэх хэв.</definition>
+      <page>436</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6393">
+  <head>
+    <unicode>ᠲᠣᠪᠺᠢᠬᠣ</unicode>
+    <transcript>tobkiqu</transcript>
+    <transcript2>dobgigo</transcript2>
+    <cyrillic>товхих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T6394</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠪᠺᠢᠬᠣ</unicode>
+      <uighur>tobkiqu</uighur>
+      <cyrillic>товхих</cyrillic>
+      <transcript>TOBKI-</transcript>
+      <definition>v.t. To tie, sew; to tack, stitch; to bind (as a book)</definition>
+      <page>811</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠣᠪᠺᠢᠵᠤ ᠰᠢᠳᠡᠺᠦ</unicode>
+          <transcript>--zu sideky</transcript>
+          <definition> To haste, stitch loosely.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠪᠺᠢᠬᠤ</unicode>
+      <definition>lier, réunir, coudre, relier.</definition>
+      <page>1823</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠡᠪᠲᠡᠷ ᠳᠤᠪᠺᠢᠬᠤ</unicode>
+          <definition>relier les cahiers</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠣᠪᠺᠢᠬᠣ</unicode>
+      <uighur>dubkiqu</uighur>
+      <definition>binden, heften</definition>
+      <page>247</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠣᠪᠺᠢᠬᠣ</unicode>
+      <uighur>tubkiqu</uighur>
+      <definition>v.t. To bind. To bind or stitch a book.</definition>
+      <page>981</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠪᠬᠢᠬᠤ</unicode>
+      <cyrillic>товхих</cyrillic>
+      <definition>〔动〕装订，缝合，连接（书、本）：дэвтэр ~ 装订本子.</definition>
+      <page>1051</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠪᠺᠢᠬᠣ</unicode>
+      <cyrillic>ТОВХИХ</cyrillic>
+      <definition>сшивать, переплетать, брошюровать; связывать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠪᠬᠢᠬᠤ</unicode>
+      <cyrillic>товхих</cyrillic>
+      <definition>цаас, бичиг мэтийг давхарлан үдэх, дэвтэр болгох, дэвтэрлэх; дэвтэр товхих.</definition>
+      <page>532</page>
+    </entry_item>
+  </entries>
+</entry>

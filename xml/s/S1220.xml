@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1220">
+  <head>
+    <unicode>ᠰᠠᠯᠺᠢᠳᠠᠬᠣ</unicode>
+    <transcript>salkidaqu</transcript>
+    <transcript2>salgidago</transcript2>
+    <cyrillic>салхидах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1221</ref>
+    <ref>S1222</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠯᠬᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>салхидах</cyrillic>
+      <definition>〔动〕①在风寒中劳动；风里来，雨里去；②（动物）逆风而行：тэмээ салхидаад байна 骆驼逆风跑了.</definition>
+      <page>905</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠯᠺᠢᠳᠠᠬᠣ</unicode>
+      <cyrillic>САЛХИДАХ</cyrillic>
+      <definition>1) уставать, изнемогать (от ветра); 2) идти против ветра (о скоте); тэмээ салхидаад байна верблюды идут против ветра (в знойные дни). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>салхидах</cyrillic>
+      <definition>1. vom Gegenwind ermüden
+2. gegen den Wind gehen</definition>
+      <page>193</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠯᠬᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>салхидах</cyrillic>
+      <definition>1. салхинд зүдэх;2. амьтны салхины эсрэг сөрч явах; тэмээ салхидаад байна.</definition>
+      <page>464</page>
+    </entry_item>
+  </entries>
+</entry>

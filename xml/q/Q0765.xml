@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0765">
+  <head>
+    <unicode>ᠬᠠᠭᠣᠷᠠᠬᠣ</unicode>
+    <transcript>qaγuraqu</transcript>
+    <transcript2>gagorago</transcript2>
+    <cyrillic>хуурах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q0766</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q0032</ref>
+    <ref>Q0803</ref>
+    <ref>Q0764</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠭᠣᠷᠠᠬᠣ</unicode>
+      <uighur>qaγoraqu</uighur>
+      <cyrillic>хуурах</cyrillic>
+      <transcript>XAΓURA-</transcript>
+      <definition>[= xaura-] v. i. To peel off.</definition>
+      <page>910</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠭᠣᠷᠠᠵᠤ ᠤᠨᠠᠬᠤ</unicode>
+          <transcript>--zu unaxu</transcript>
+          <definition> To peel off.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠷᠢᠰᠤᠨ ᠬᠠᠭᠣᠷᠠᠬᠣ</unicode>
+          <transcript>arisun --xu</transcript>
+          <definition> The skin peels off.</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠡᠷᠡᠮ ᠤᠨ ᠴᠠᠭᠠᠰᠤᠨ ᠬᠠᠭᠣᠷᠠᠬᠣ</unicode>
+          <transcript>kerem yn caγasun --xu</transcript>
+          <definition> The wallpaper peels off.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠭᠣᠷᠠᠬᠣ</unicode>
+      <cyrillic>ХУУРАХ</cyrillic>
+      <definition>III 1) отставать, отдираться, облупливаться, шелушиться; отлепляться, отколупываться, отваливаться; хальсран хуурах отваливаться чешуйками, шелушиться; 2) расходиться, расставаться; 3) уходить с караула, сменяться со смены. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠭᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>хуурах /1</cyrillic>
+      <definition>арьс хальс зэргийн юм өөрөө өвчрөн салах; модны холтос хуурах; гарын арьс хуурах; наасан цаас нь хуурчээ.</definition>
+      <page>738</page>
+    </entry_item>
+  </entries>
+</entry>

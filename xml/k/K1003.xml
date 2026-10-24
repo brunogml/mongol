@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1003">
+  <head>
+    <unicode>ᠺᠠᠮᠵᠢᠯ</unicode>
+    <transcript>kemǰil</transcript>
+    <transcript2>gemcil</transcript2>
+    <cyrillic>хэмжил</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K1017</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠮᠵᠢᠯ</unicode>
+      <cyrillic>хэмжил</cyrillic>
+      <definition>〔名〕①测量，衡量，计量，测定：хэмжлийн нарийвчлага 测量精度；хэмжлийн нэгж 计量单位，衡量单位；②尺寸，尺度，量度：дөрвөлжинд хоёр ~ бий 正方形有长宽两个尺度.</definition>
+      <page>1483</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠮᠵᠢᠯ</unicode>
+      <cyrillic>ХЭМЖИЛ</cyrillic>
+      <definition>измерение; газар хэмжил геодезия; землемерие; газар хэмжилзүй геодезия; газар хэмжилзүйч геодезист; нэг гишүүнтийн хэмжил тоо. измерение одночлена. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хэмжил[т]</cyrillic>
+      <definition>Messung f, Vermessung f; ~тийн алдаа[н] Meßfehler m</definition>
+      <page>342</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠮᠵᠢᠯ</unicode>
+      <cyrillic>хэмжил</cyrillic>
+      <definition>хэмжсэн нь; дөрвөлжинд хоёр хэмжил бий.</definition>
+      <page>760</page>
+    </entry_item>
+  </entries>
+</entry>

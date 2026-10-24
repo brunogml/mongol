@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T8238">
+  <head>
+    <unicode>ᠳᠥᠩ</unicode>
+    <transcript>döng</transcript>
+    <transcript2>döng</transcript2>
+    <cyrillic>дөн</cyrillic>
+  </head><see_also>
+    <ref>T8237</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠥᠩ</unicode>
+      <uighur>döng</uighur>
+      <cyrillic>дөн</cyrillic>
+      <transcript>DØNG</transcript>
+      <definition>n Prop, support</definition>
+      <page>267</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠥᠩ ᠮᠣᠳᠤ</unicode>
+          <transcript>-- modu </transcript>
+          <definition>Supporting beam</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠣᠤᠷ᠎ᠠ ᠡᠴᠡ ᠳᠥᠩ ᠲᠠᠯᠪᠢᠬᠤ</unicode>
+          <transcript>dour -a ece -- talbixu</transcript>
+          <definition> To put up a prop, support from underneath.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠥᠩ</unicode>
+      <cyrillic>дөн</cyrillic>
+      <definition>〔名〕支柱，栋梁.</definition>
+      <page>428</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A0850">
+  <head>
+    <unicode>ᠠᠭᠣᠯᠠᠷᠬᠠᠣ</unicode>
+    <transcript>aγularqau</transcript>
+    <transcript2>agolargao</transcript2>
+    <cyrillic>уулархуу</cyrillic>
+  </head>
+  <see_also>
+    <ref>A0852</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠣᠯᠠᠷᠬᠠᠣ</unicode>
+      <cyrillic>УУЛАРХУУ</cyrillic>
+      <definition>уулархаг-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠭᠤᠯᠠᠷᠬᠠᠤ</unicode>
+      <cyrillic>уулархуу</cyrillic>
+      <definition>1. уулархаг;2. уул мэт.</definition>
+      <page>605</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>A0840</ref>
+  </related_to>
+</entry>

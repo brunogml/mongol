@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T4432">
+  <head>
+    <transcript>degeretgekü</transcript>
+    <transcript2>degeredgegö</transcript2>
+    <cyrillic>дээртгэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T4433</ref>
+    <ref>T4431</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠡᠭᠡᠷᠡᠳᠬᠡᠬᠦ</unicode>
+      <cyrillic>дээртгэх</cyrillic>
+      <definition>〔动〕дээртэх 的使动态.</definition>
+      <page>480</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ДЭЭРТГЭХ</cyrillic>
+      <definition>дээрдэх-ийн үйлдүүл., 1) поднимать, возвышать; 2) улучшать, совершенствовать, повышать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠭᠡᠷᠡᠳᠬᠡᠬᠦ</unicode>
+      <cyrillic>дээртгэх</cyrillic>
+      <definition>улам дээр болгох, сайжруулах; миний аргыг дээртгээд өгсөн байна.</definition>
+      <page>231</page>
+    </entry_item>
+  </entries>
+</entry>

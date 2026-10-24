@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y2053">
+  <head>
+    <unicode>ᠵᠡᠯᠡᠯᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ǰelelegülkü</transcript>
+    <transcript2>yelelegölgö</transcript2>
+    <cyrillic>зэллүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y2052</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠡᠯᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>зэллүүлэх</cyrillic>
+      <definition>〔动〕зэллэх 的使动态.</definition>
+      <page>594</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠡᠯᠡᠯᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЗЭЛЛҮҮЛЭХ</cyrillic>
+      <definition>зэллэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠡᠯᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>зэллүүлэх</cyrillic>
+      <definition>зэллэхийн үйлдүүлэх хэв.</definition>
+      <page>294</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A0107">
+  <head>
+    <unicode>ᠠᠨᠢᠬᠤ</unicode>
+    <transcript>aniqu</transcript>
+    <transcript2>anigo</transcript2>
+    <cyrillic>аних</cyrillic>
+  </head>
+  <derivatives>
+    <ref>A0109</ref>
+    <ref>A0149</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠨᠢᠬᠤ</unicode>
+      <uighur>aniqu</uighur>
+      <cyrillic>аних</cyrillic>
+      <transcript>ANI-</transcript>
+      <definition>v.t. and i. To close one's eyes; for a wound, crack , or fissure to close.</definition>
+      <page>46</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠢᠳᠦ ᠠᠨᠢᠬᠤ</unicode>
+          <transcript>nidy --xu</transcript>
+          <definition> To dose one's eyes.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠢᠷᠬ᠎ᠠ ᠠᠨᠢᠬᠤ</unicode>
+          <transcript>sirx-a --xu</transcript>
+          <definition> For a wound to close.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠨᠢᠬᠤ</unicode>
+      <uighur>aniqu</uighur>
+      <definition>fermer, cligner les yeux</definition>
+      <page>11</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠢᠳᠦᠨ ᠦ ᠭᠡᠭᠡᠨ ᠢᠶᠡᠨ ᠦᠷᠭᠦᠯᠵᠢ ᠠᠨᠢᠬᠤ</unicode>
+          <uighur>nidün-ü gegen-iyen ürgülǰi aniqu</uighur>
+          <definition>cligner les yeux sans cesse</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠢᠳᠦᠨ ᠦᠯᠦ ᠠᠨᠢᠨ ᠦᠵᠡᠪᠡᠢ</unicode>
+          <uighur>nidüber anin üǰebei</uighur>
+          <definition>sans fermer les yeux; c'-à-d. regarder fixement, avec attention</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠠᠨᠢᠬᠤ</unicode>
+      <uighur>aniqu</uighur>
+      <definition>die Augen schliessen , mit den Augen blinzeln.</definition>
+      <page>2</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠠᠨᠢᠬᠤ</unicode>
+      <uighur>aniqu</uighur>
+      <definition>v.i. To shut the eyes. The closing up of a well with sand and mud.</definition>
+      <page>6</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠨᠢᠬᠤ</unicode>
+      <cyrillic>аних</cyrillic>
+      <definition>〔动〕①闭上，闭合：нүд ~ (1)闭眼睛；(2)（转）去世；②（伤口）愈合：шарх ~лаа 伤口愈合了.</definition>
+      <page>65</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠨᠢᠬᠤ</unicode>
+      <cyrillic>АНИХ</cyrillic>
+      <definition>1. смыкать веки, закрывать; жмурить; нүд аних а) закрывать глаза; б) шилж. не обращать внимания; игнорировать; в) шилж. умереть; сорви анив шрам затягивается; шарх анилаа рана закрылась; 2. анихуй–г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠨᠢᠬᠤᠢ</unicode>
+      <cyrillic>АНИХУЙ</cyrillic>
+      <definition>закрывание; заживание.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>аних</cyrillic>
+      <definition>schließen; нүдээ ~ seine Augen schließen; шарх анилаа die Wunde hat sich geschlossen</definition>
+      <page>32</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠨᠢᠬᠤ</unicode>
+      <cyrillic>аних</cyrillic>
+      <definition>1. нүдний аньсага хамхих; нүдээ аньж үгширтэл унтав;2. яр шархны зэргийн ангайсан дарвайсан юмны битүүрэх; огтолсон шарх аньж байна.</definition>
+      <page>46</page>
+    </entry_item>
+  </entries>
+</entry>

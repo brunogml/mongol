@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1370">
+  <head>
+    <unicode>ᠣᠳᠣ</unicode>
+    <transcript>otu</transcript>
+    <transcript2>odo</transcript2>
+    <cyrillic>отоо</cyrillic>
+  </head>
+  <see_also>
+    <ref>U1369</ref>
+    <ref>U1371</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠳᠣ</unicode>
+      <cyrillic>ОТОО</cyrillic>
+      <definition>отолт-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>отоо[н]</cyrillic>
+      <definition>= орoo[н]</definition>
+      <page>176</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠲᠣ</unicode>
+      <cyrillic>отоо</cyrillic>
+      <definition>мал адгуусны цаг үесээр орох ороо;отоо хороо&lt;хорш&gt;; отооны үе.</definition>
+      <page>427</page>
+    </entry_item>
+  </entries>
+</entry>

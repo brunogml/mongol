@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1700">
+  <head>
+    <unicode>ᠵᠠᠶᠢᠵᠢᠺᠢ</unicode>
+    <transcript>ǰayiǰigi</transcript>
+    <transcript2>yayicigi</transcript2>
+    <cyrillic>жайжиг</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠢᠵᠢᠭ</unicode>
+      <cyrillic>жайжиг</cyrillic>
+      <definition>见 ~ ~ 一曲一翅，一弯一弯，歪歪扭扭.</definition>
+      <page>500</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠶᠢᠵᠢᠺᠢ</unicode>
+      <cyrillic>ЖАЙЖИГ</cyrillic>
+      <definition>кривой, неправильной формы. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠢᠵᠢᠭᠢ</unicode>
+      <cyrillic>жайжиг</cyrillic>
+      <definition>жайжгар.</definition>
+      <page>240</page>
+    </entry_item>
+  </entries>
+</entry>

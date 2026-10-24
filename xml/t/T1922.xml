@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1922">
+  <head>
+    <unicode>ᠳᠠᠯᠳᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>daldiraγulqu</transcript>
+    <transcript2>daldiragolgo</transcript2>
+    <cyrillic>далдируулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T1921</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠯᠳᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>далдируулах</cyrillic>
+      <definition>〔动〕далдирах 的使动态.</definition>
+      <page>384</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠯᠳᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДАЛДИРУУЛАХ</cyrillic>
+      <definition>далдирах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠯᠳᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>далдируулах</cyrillic>
+      <definition>далдирахын үйлдүүлэх хэв.</definition>
+      <page>184</page>
+    </entry_item>
+  </entries>
+</entry>

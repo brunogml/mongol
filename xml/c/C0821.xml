@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0821">
+  <head>
+    <unicode>ᠴᠠᠨᠳᠠᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>čendegenekü</transcript>
+    <transcript2>cendegenegö</transcript2>
+    <cyrillic>цэндэгнэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0822</ref>
+    <ref>C0820</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠨᠳᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>цэндэгнэх</cyrillic>
+      <definition>〔动〕（动物的）大肚皮晃动.</definition>
+      <page>1565</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠨᠳᠠᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>ЦЭНДЭГНЭХ</cyrillic>
+      <definition>двигаться, шевелиться (о ком-чём-л., что выпирает, топорщится). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠨᠳᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>цэндэгнэх</cyrillic>
+      <definition>цэндгэр юмны цэндэг цэндэг хөдлөх.</definition>
+      <page>806</page>
+    </entry_item>
+  </entries>
+</entry>

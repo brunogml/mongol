@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T4126">
+  <head>
+    <unicode>ᠲᠠᠮᠥᠷᠴᠢ</unicode>
+    <transcript>temürči</transcript>
+    <transcript2>demörci</transcript2>
+    <cyrillic>төмөрч</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠮᠥᠷᠴᠢ</unicode>
+      <uighur>temürči</uighur>
+      <cyrillic>төмөрч</cyrillic>
+      <transcript>TEMYRCI(N)</transcript>
+      <definition>n Smith blacksmith</definition>
+      <page>800</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠡᠮᠦᠷᠴᠢ ~ ᠳᠡᠮᠦᠷᠴᠢᠨ</unicode>
+      <definition>forgeron</definition>
+      <page>1729</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠡᠮᠦᠷᠴᠢ ᠤᠷᠠᠨ = ᠳᠡᠮᠦᠷᠴᠢ ᠲᠠᠷᠬᠠᠨ</unicode>
+          <definition>forgeron</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠮᠦᠷᠴᠢ ᠲᠠᠷᠬᠠᠨ ᠤ ᠪᠠᠭᠠᠵᠠ</unicode>
+          <definition>les outils du forgeron</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠮᠦᠷᠴᠢ ᠲᠠᠷᠬᠠᠨ ᠤ ᠭᠡᠷ</unicode>
+          <definition>forge</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠮᠥᠷᠴᠢ</unicode>
+      <cyrillic>ТӨМӨРЧ(ИН)</cyrillic>
+      <definition>кузнец, кузнецы; металлљст; слесарь; жестянщик; төмөрч дархны гэр кузница. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠮᠥᠷᠴᠢ</unicode>
+      <cyrillic>ТӨМӨРЧНИЙ</cyrillic>
+      <definition>төмөрч(н)-ий харьяал., кузнечный; төмөрчний алх кузнечный молот; төмөрчний газар кузница; төмөрчний гүүр кузнецкий мост; төмөрчний зах кузнечный ряд; төмөрчний хөөрөг кузнечный мех. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+<related_to><ref>T4116</ref></related_to></entry>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T5958">
+  <head>
+    <unicode>ᠲᠣᠭᠣᠷᠠ</unicode>
+    <transcript>tuγur-a</transcript>
+    <transcript2>dogor-a</transcript2>
+    <cyrillic>туур</cyrillic>
+  </head><see_also>
+    <ref>T5955</ref>
+  
+    <ref>T5959</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠭᠣᠷ᠎ᠠ</unicode>
+      <uighur>tuγur-a</uighur>
+      <cyrillic>туур</cyrillic>
+      <transcript>TUΓUR-A</transcript>
+      <definition>See tuγurai.</definition>
+      <page>839</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠭᠤᠷ᠎ᠠ</unicode>
+      <definition>le sabot, la corne (du pied): 2 un parement, revers (d'habit).</definition>
+      <page>1812</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠤᠭᠤᠷ᠎ᠠ ᠪᠡᠷ ᠴᠡᠴᠡᠭ ᠢ ᠺᠢᠱᠺᠢᠺᠦ</unicode>
+          <definition>écraser les fleurs avec les sabots</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

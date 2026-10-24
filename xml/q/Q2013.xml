@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q2013">
+  <head>
+    <unicode>ᠬᠠᠯᠣᠮᠠ</unicode>
+    <transcript>qalum-a</transcript>
+    <transcript2>galom-a</transcript2>
+    <cyrillic>халма</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠯᠣᠮ᠎ᠠ</unicode>
+      <uighur>qalom-a</uighur>
+      <transcript>XALUM-A</transcript>
+      <page>921</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠯᠣᠮ᠎ᠠ ᠴᠡᠴᠡᠭ</unicode>
+          <transcript>-- ceceg</transcript>
+          <definition> Hollyhock, Althoca rosea (Ch.t&apos;ien-kuei-hua)</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠯᠣᠮ᠎ᠠ ᠴᠡᠴᠡᠭ</unicode>
+      <definition>nom d&apos;une fleur</definition>
+      <page>795</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠯᠣᠮᠠ</unicode>
+      <cyrillic>ХАЛМА</cyrillic>
+      <definition>ург. проскурняк. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

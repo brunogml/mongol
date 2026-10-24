@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A4499">
+  <head>
+    <unicode>ᠠᠷᠺᠢᠸᠯᠠᠬᠣ</unicode>
+    <transcript>arkivlaqu</transcript>
+    <transcript2>argivlago</transcript2>
+    <cyrillic>архивлах</cyrillic>
+  </head><derivatives>
+    <ref>A4500</ref>
+  
+    <ref>A4498</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠷᠬᠢᠸᠯᠠᠬᠤ</unicode>
+      <cyrillic>архивлах</cyrillic>
+      <definition>〔动〕存档，管理文库.</definition>
+      <page>80</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠷᠺᠢᠸᠯᠠᠬᠣ</unicode>
+      <cyrillic>АРХИВЛАХ</cyrillic>
+      <definition>сдавать, передавать в архив.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1800">
+  <head>
+    <unicode>ᠰᠠᠷᠪᠠᠰᠺᠢᠺᠥ</unicode>
+    <transcript>sarbaskikü</transcript>
+    <transcript2>sarbasgigö</transcript2>
+    <cyrillic>сарвасхийх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1799</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠷᠪᠠᠰᠺᠢᠺᠥ</unicode>
+      <uighur>sarbaskikü</uighur>
+      <transcript>SARBASKI-</transcript>
+      <page>675</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠷᠪᠠᠰᠺᠢᠨ ᠤᠨᠠᠬᠤ</unicode>
+          <transcript>--n unaxu</transcript>
+          <definition> To fall flat (spreading the legs and arms)</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠠᠷᠪᠠᠰᠺᠢᠨ ᠠᠨᠠᠬᠤ</unicode>
+      <definition>s'étend re de tout son long, tomber par terre.</definition>
+      <page>1336</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠷᠪᠠᠰᠬᠢᠬᠦ</unicode>
+      <cyrillic>сарвасхийх</cyrillic>
+      <definition>〔动〕сарвайх 的短暂体.</definition>
+      <page>917</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠷᠪᠠᠰᠺᠢᠺᠥ</unicode>
+      <cyrillic>САРВАСХИЙХ</cyrillic>
+      <definition>1) растопыривать руки, ноги; сарвасхийн унах падать разметав руки и ноги; 2) стараться ухватить. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠷᠪᠠᠰᠬᠢᠬᠦ</unicode>
+      <cyrillic>сарвасхийх</cyrillic>
+      <definition>1. саравгар юмны гэнэт хөдлөх;2. гарын гэнэт хөдлөх; гар саврвасхийхийн зуур.</definition>
+      <page>471</page>
+    </entry_item>
+  </entries>
+</entry>

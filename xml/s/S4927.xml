@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4927">
+  <head>
+    <unicode>ᠰᠣᠨᠢᠷᠬᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>sonirqaγdaqu</transcript>
+    <transcript2>sonirgagdago</transcript2>
+    <cyrillic>сонирхогдох</cyrillic>
+  </head>
+  <related_to>
+    <ref>S4922</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠨᠢᠷᠬᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>сонирхогдох</cyrillic>
+      <definition>〔动〕сонирхох 的被动态.</definition>
+      <page>938</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠨᠢᠷᠬᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>СОНИРХОГДОХ</cyrillic>
+      <definition>сонирхох-ын үйлдэгд., быть интересным </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠨᠢᠷᠬᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>сонирхогдох</cyrillic>
+      <definition>сонирхохын үйлдэгдэх хэв.</definition>
+      <page>479</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2627">
+  <head>
+    <unicode>ᠴᠣᠭᠣᠯᠳᠠᠰᠣ</unicode>
+    <transcript>čuγuldasu</transcript>
+    <transcript2>cogoldaso</transcript2>
+    <cyrillic>цуулдас</cyrillic>
+  </head>
+  <related_to>
+    <ref>C2898</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠤᠭᠤᠯᠳᠠᠰᠤ</unicode>
+      <cyrillic>цуулдас</cyrillic>
+      <definition>〔动〕参见 цуудас.</definition>
+      <page>1553</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠭᠣᠯᠳᠠᠰᠣ</unicode>
+      <cyrillic>ЦУУЛДАС</cyrillic>
+      <definition>цуудас-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цуулдас[ан]</cyrillic>
+      <definition>= цуудас[ан]</definition>
+      <page>361</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠤᠭᠤᠯᠳᠠᠰᠤ</unicode>
+      <cyrillic>цуулдас</cyrillic>
+      <definition>цуудас.</definition>
+      <page>800</page>
+    </entry_item>
+  </entries>
+</entry>

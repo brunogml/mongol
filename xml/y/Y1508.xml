@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1508">
+  <head>
+    <unicode>ᠵᠠᠺᠢᠶᠠᠯᠠᠭ ᠠ</unicode>
+    <transcript>ǰakiyalaγ-a</transcript>
+    <transcript2>yagiyalaga</transcript2>
+    <cyrillic>захиалга</cyrillic>
+  </head>
+  <see_also>
+    <ref>Y1517</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠺᠢᠶᠠᠯᠠᠭ᠎ᠠ</unicode>
+      <cyrillic>ЗАХИАЛГА</cyrillic>
+      <definition>заявка, заказ; абонемент; подписка; зээллэгийн захиалга подписка на заём; хамтын захиалга коллективная подписка.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠺᠢᠶᠠᠯᠠᠭ᠎ᠠ</unicode>
+      <cyrillic>ЗАХИАЛГЫН</cyrillic>
+      <definition>захиалга-ын харьяал., подписной; захиалгын хуудас подписной лист.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠬᠢᠶᠠᠯᠠᠭ᠎ᠠ</unicode>
+      <cyrillic>захиалга</cyrillic>
+      <definition>захих үйлийн нэр; захиалга өгөх; захиалга авах.</definition>
+      <page>271</page>
+    </entry_item>
+  </entries>
+</entry>

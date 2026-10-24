@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1153">
+  <head>
+    <unicode>ᠳᠠᠪᠬᠣᠴᠠᠬᠣ</unicode>
+    <transcript>dabqučaqu</transcript>
+    <transcript2>dabgocago</transcript2>
+    <cyrillic>давхцах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1155</ref>
+    <ref>T1162</ref>
+  </derivatives>
+  <see_also>
+    <ref>T1154</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠪᠬᠣᠴᠠᠬᠤ</unicode>
+      <definition>mettre l'un sur l'autre; doubler</definition>
+      <page>1604</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠪᠬᠣᠴᠠᠵᠤ ᠲᠥᠭᠦᠷᠪᠡᠰᠦ, ᠠᠷᠪᠠᠨ ᠬᠣᠪᠢ ᠲᠥᠭᠦᠷᠦᠭᠰᠡᠨ ᠬᠣᠶᠢᠨᠠ ᠵᠠᠭᠤᠨ ᠪᠣᠯᠤᠮᠢ</unicode>
+          <definition>le nombre dix multiplié par dix fois fait cent</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠯᠪᠠ ᠬᠤᠪᠴᠢᠭᠤᠷ ᠳᠠᠪᠬᠣᠴᠠᠵᠤ ᠠᠪᠬᠤ</unicode>
+          <definition>percevoir le double impôt</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠪᠬᠤᠴᠠᠬᠤ</unicode>
+      <cyrillic>давхцах</cyrillic>
+      <definition>〔动〕①重叠，积累；积在一起：ажил ~в 工作积在一起；өвчин зовлон ~ 病祸交加；②急喘，上气不接下气：~н ханиах 双声咳嗽；③〈体〉全能：гурван ~сан тэмцээн 三项全能比赛.</definition>
+      <page>370</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠪᠬᠣᠴᠠᠬᠣ</unicode>
+      <cyrillic>ДАВХЦАХ</cyrillic>
+      <definition>1) становиться многослойным, многорядным, многократным; становиться многочисленным; громоздиться одно на другое; 2) скапливаться, накапливаться сразу, одновременно, некстати; амьсгал давхцах учащаться (о дыхании), задыхаться; тяжело дышать; ажил давхцав сразу накопилось много работы; хэрэг давхцав накопилось слишком много дел; 3) совпадать, сочетаться; олон ажил давхцав совпали разные виды работы. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>давхцах</cyrillic>
+      <definition>zeitlich zusammenfallen (mit -тай); sich häufen; Kleidung übereinanderzieehen; ажил давхцав die Arbeit häufte sich; амьсгал ~ keuchen</definition>
+      <page>88</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠪᠬᠤᠴᠠᠬᠤ</unicode>
+      <cyrillic>давхцах</cyrillic>
+      <definition>зэрэг зэрэг давхарлан тохиолдох; ажил давхцах; өвчин зовлон давхцах.</definition>
+      <page>178</page>
+    </entry_item>
+  </entries>
+</entry>

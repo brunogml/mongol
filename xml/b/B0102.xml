@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0102">
+  <head>
+    <unicode>ᠫᠠᠬ ᠠ</unicode>
+    <transcript>paq-a</transcript>
+    <transcript2>pag-a</transcript2>
+    <cyrillic>паах</cyrillic>
+  </head>
+  <see_also>
+    <ref>B0103</ref>
+    <ref>B0101</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠫᠠᠬ᠎ᠠ</unicode>
+      <cyrillic>паах</cyrillic>
+      <definition>〔感〕参见 паа ：~, чи яаж байна? 喝！你在做什么？</definition>
+      <page>869</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠫᠠᠬᠠ</unicode>
+      <cyrillic>ПААХ</cyrillic>
+      <definition>аялга. фу (выражает отвращение).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠫᠠᠬᠠ</unicode>
+      <cyrillic>ПАХ</cyrillic>
+      <definition>аялга. ой! (междометие от удушья); пах, ямар сүрхий утаа вэ? ой, какой дым!</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠫᠠᠬ᠎ᠠ</unicode>
+      <cyrillic>паах</cyrillic>
+      <definition>жигшиж цээрлэсэн үгийн өмнө хэрэглэх аялга; паах, чи яаж байгаа нь энэ вэ?</definition>
+      <page>449</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠫᠠᠬ᠎ᠠ</unicode>
+      <cyrillic>пах</cyrillic>
+      <definition>утаанд утагдан бачимдахад гаргах аялга; пах, ямар сүрхий утаа вэ!</definition>
+      <page>451</page>
+    </entry_item>
+  </entries>
+</entry>

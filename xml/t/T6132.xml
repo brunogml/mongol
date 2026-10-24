@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6132">
+  <head>
+    <unicode>ᠲᠣᠬᠲᠠᠮᠠᠯᠵᠢᠬᠣ</unicode>
+    <transcript>toγtamalǰiqu</transcript>
+    <transcript2>dogdamalcigo</transcript2>
+    <cyrillic>тогтмолжих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T6133</ref>
+    <ref>T6134</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠭᠲᠠᠮᠠᠯᠵᠢᠬᠤ</unicode>
+      <cyrillic>тогтмолжих</cyrillic>
+      <definition>〔动〕定期化，经常化，固定化，稳定化；习惯化.</definition>
+      <page>1056</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠬᠲᠠᠮᠠᠯᠵᠢᠬᠣ</unicode>
+      <cyrillic>ТОГТМОЛЖИХ</cyrillic>
+      <definition>становљться постоянным, регулярным; приобретать регулярность. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тогтмолжих</cyrillic>
+      <definition>regelmäßig werden; zur festen Einrichtung werden</definition>
+      <page>226</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠭᠲᠠᠮᠠᠯᠵᠢᠬᠤ</unicode>
+      <cyrillic>тогтмолжих</cyrillic>
+      <definition>тогтмол болгох.</definition>
+      <page>534</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T6131</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0843">
+  <head>
+    <unicode>ᠲᠠᠬᠳᠠᠶᠢᠬᠣ</unicode>
+    <transcript>taγdayiqu</transcript>
+    <transcript2>dagdayigo</transcript2>
+    <cyrillic>тагдайх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T0845</ref>
+  </derivatives>
+  <related_to>
+    <ref>T2366</ref>
+  </related_to>
+  <see_also>
+    <ref>T0867</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠬᠳᠠᠶᠢᠬᠣ</unicode>
+      <uighur>taqdayiqu</uighur>
+      <cyrillic>тагдайх</cyrillic>
+      <transcript>TAΓDAI-</transcript>
+      <definition>See taγdui-.</definition>
+      <page>765</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠬᠳᠠᠶᠢᠬᠣ</unicode>
+      <cyrillic>ТАГДАЙХ</cyrillic>
+      <definition>1) быть низкорослым, невысокого роста; 2) быть коротким. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠭᠳᠠᠢᠬᠤ</unicode>
+      <cyrillic>тагдайх</cyrillic>
+      <definition>тагдгар болох; дээл нь богинодон тагдайжээ.</definition>
+      <page>513</page>
+    </entry_item>
+  </entries>
+</entry>

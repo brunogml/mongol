@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2952">
+  <head>
+    <unicode>ᠲᠠᠷᠯᠠᠨᠲᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tarlantuγulqu</transcript>
+    <transcript2>darlandogolgo</transcript2>
+    <cyrillic>тарлантуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T2951</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠷᠯᠠᠨᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тарлантуулах</cyrillic>
+      <definition>〔动〕тарлантах 的使动态.</definition>
+      <page>1031</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠷᠯᠠᠨᠲᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАРЛАНТУУЛАХ</cyrillic>
+      <definition>тарлантах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠷᠯᠠᠨᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тарлантуулах</cyrillic>
+      <definition>тарлантахын үйлдүүлэх хэв.</definition>
+      <page>523</page>
+    </entry_item>
+  </entries>
+</entry>

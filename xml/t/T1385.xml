@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1385">
+  <head>
+    <unicode>ᠲᠠᠰᠢᠶᠠᠯᠠᠬᠣ</unicode>
+    <transcript>tasiyalaqu</transcript>
+    <transcript2>dasiyalago</transcript2>
+    <cyrillic>ташаалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1386</ref>
+    <ref>T1387</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠰᠢᠶᠠᠯᠠᠬᠣ</unicode>
+      <uighur>tasiyalaqu</uighur>
+      <cyrillic>ташаалах</cyrillic>
+      <transcript>TASIJALA-</transcript>
+      <definition>v. t. and i. To fence off, partition off; to separate to take cover, hide behind something, to interrupt.</definition>
+      <page>783</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠰᠢᠶᠠᠯᠠᠨ ᠬᠠᠷᠠᠬᠤ</unicode>
+          <transcript>--n xaraxu</transcript>
+          <definition> To peer from behind some object.</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠢᠭᠡᠨ ᠺᠡᠳᠦᠨ ᠡᠳᠦᠷ ᠲᠠᠰᠢᠶᠠᠯᠠᠨ</unicode>
+          <transcript>nigen kedyn edyr --n</transcript>
+          <definition> After a few days had elapsed, a few days later.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠰᠢᠶᠠᠯᠠᠬᠤ</unicode>
+      <definition>séparer par une cloison, faire une division dans un appartement: 2 retenir , interrompre, décompter, retrancer, escompter</definition>
+      <page>1621</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠢᠭᠡᠨ ᠭᠬᠳᠦᠨ ᠡᠳᠦᠷ ᠳᠠᠰᠢᠶᠠᠯᠠᠨ</unicode>
+          <definition>après quelques jours d'intervalle</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠰᠢᠶᠠᠯᠠᠬᠣ</unicode>
+      <uighur>dasiyalaqu</uighur>
+      <definition>abzäunen, abscheuern; zurückbehalten, nicht abliefern oder geben.</definition>
+      <page>237</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠰᠢᠶᠠᠯᠠᠬᠣ</unicode>
+      <uighur>tasiyalaqu</uighur>
+      <definition>v.t. To fence in, to separate by a fence. The sewing on a gown on either side. To clear away. To detain (unwilling to give).</definition>
+      <page>935</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠰᠢᠶᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ТАШААЛАХ</cyrillic>
+      <definition>I отгораживать, перегораживать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠰᠢᠶᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ТАШААЛАХ</cyrillic>
+      <definition>II алгасах-ыг үз., хэдэн өдөр ташаалан через несколько дней. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>ташаалах</cyrillic>
+      <definition>1. räumlich abtrennen, abteilen
+2. zeitlich auslassen, unterbrechen; хэдэн өдриг ташаалан mit einigen Tagen Unterbrechung</definition>
+      <page>224</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠰᠢᠶᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>ташаалах /1</cyrillic>
+      <definition>ташаалавч хийх, хашаа хамар барих, халхлах.</definition>
+      <page>529</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠰᠢᠶᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>ташаалах /2</cyrillic>
+      <definition>цоогчлох, алагчлах, алгасах.</definition>
+      <page>529</page>
+    </entry_item>
+  </entries>
+</entry>

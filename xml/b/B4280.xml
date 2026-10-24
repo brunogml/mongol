@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B4280">
+  <head>
+    <unicode>ᠪᠥᠳᠠᠨᠢᠺᠥ</unicode>
+    <transcript>bütenikü</transcript>
+    <transcript2>bödenigö</transcript2>
+    <cyrillic>бүтнэх</cyrillic>
+  </head><derivatives>
+    <ref>X0457</ref>
+  </derivatives>
+  <variants>
+    <variant type="cyrillic">бүтних</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠪᠥᠳᠠᠨᠢᠺᠥ</unicode>
+      <uighur>büdenikü</uighur>
+      <definition>v.i. To be sorry or sad.</definition>
+      <page>490</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠳᠠᠨᠢᠺᠥ</unicode>
+      <cyrillic>БҮТНЭХ</cyrillic>
+      <definition>спираться, перехватывать (о дыхании), задыхаться; амьсгал бүтнэх спираться, перехватывать (дыхание).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠦᠲᠡᠨᠢᠬᠦ</unicode>
+      <cyrillic>бүтних</cyrillic>
+      <definition>〔动〕窒息，憋得慌，喘不过气来.</definition>
+      <page>235</page>
+    </entry_item>
+  </entries>
+</entry>

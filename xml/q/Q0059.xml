@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q0059">
+  <head>
+    <unicode>ᠬᠠᠨᠠᠭᠣᠷᠴᠢ</unicode>
+    <transcript>qanaγurči</transcript>
+    <transcript2>ganagorci</transcript2>
+    <cyrillic>хануурч</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠨᠠᠭᠤᠷᠴᠢ ~ ᠬᠠᠨᠠᠭᠤᠷᠴᠢᠨ</unicode>
+      <uighur>qanaγurči - qanaγurčin</uighur>
+      <cyrillic>хануурч</cyrillic>
+      <transcript>XANAΓURCI(N)</transcript>
+      <definition>n. Phlebotomist.</definition>
+      <page>927</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠨᠠᠭᠤᠷᠴᠢ ᠬᠣᠷᠤᠬᠠᠢ</unicode>
+          <transcript>-- xoruxai</transcript>
+          <definition> Leech.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠨᠠᠭᠣᠷᠴᠢ</unicode>
+      <definition>saigneur, phlébotome.</definition>
+      <page>720</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠨᠠᠭᠣᠷᠴᠢ ᠬᠤᠷᠤᠬᠠᠢ</unicode>
+          <definition>sangsue</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠨᠠᠭᠤᠷᠴᠢ</unicode>
+      <cyrillic>хануурч</cyrillic>
+      <definition>〔名〕〈医〉针刺医生；放血医生.</definition>
+      <page>1306</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠨᠠᠭᠣᠷᠴᠢ</unicode>
+      <cyrillic>ХАНУУРЧ</cyrillic>
+      <definition>кровопускатель. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+<related_to><ref>Q0058</ref></related_to></entry>

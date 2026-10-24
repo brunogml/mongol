@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y1248">
+  <head>
+    <unicode>ᠵᠠᠯᠭᠠᠰᠣᠲᠣ</unicode>
+    <transcript>ǰalγasutu</transcript>
+    <transcript2>yalgasodo</transcript2>
+    <cyrillic>залгаст</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠠᠯᠭᠠᠰᠣᠲᠣ</unicode>
+      <uighur>ǰalγasodu</uighur>
+      <cyrillic>залгаст</cyrillic>
+      <transcript>ZALΓASUTU</transcript>
+      <definition>adj. Connected, attached, composite, joined</definition>
+      <page>1031</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠠᠯᠭᠠᠰᠣᠲᠣ ᠨᠤᠮᠤ</unicode>
+          <transcript>-- numu</transcript>
+          <definition>Composite bow.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠠᠯᠭᠠᠰᠣᠳᠤ</unicode>
+      <definition>ajouté, allongé.</definition>
+      <page>2287</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠠᠯᠭᠠᠰᠤᠲᠤ ᠨᠣᠮᠤᠨ</unicode>
+          <definition>un arc fait de plusieurs morceaux de corne</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠯᠭᠠᠰᠤᠲᠤ</unicode>
+      <cyrillic>залгаст</cyrillic>
+      <definition>〔形〕连接的，有接头的.</definition>
+      <page>536</page>
+    </entry_item>
+  </entries>
+</entry>

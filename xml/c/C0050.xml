@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0050">
+  <head>
+    <unicode>ᠴᠠᠩᠬᠠᠶᠢᠬᠣ</unicode>
+    <transcript>čangqayiqu</transcript>
+    <transcript2>canggayigo</transcript2>
+    <cyrillic>цанхайх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0052</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠩᠬᠤᠢᠬᠤ</unicode>
+      <cyrillic>цанхайх</cyrillic>
+      <definition>〔动〕参见 цамхайх.</definition>
+      <page>1519</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠩᠬᠠᠶᠢᠬᠣ</unicode>
+      <cyrillic>ЦАНХАЙХ</cyrillic>
+      <definition>чувствовать пресыщение и тягость в желудке (при отсутствии аппетита); гэдэс цанхайх вздутие живота. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цанхайх</cyrillic>
+      <definition>prall werden, sich [auf]blähen; гэдэс ~ Blähungen haben</definition>
+      <page>353</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠩᠬᠤᠢᠬᠤ</unicode>
+      <cyrillic>цанхайх</cyrillic>
+      <definition>цамхайх.</definition>
+      <page>783</page>
+    </entry_item>
+  </entries>
+</entry>

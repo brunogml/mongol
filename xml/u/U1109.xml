@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1109">
+  <head>
+    <unicode>ᠣᠪᠣᠰᠺᠢᠺᠥ</unicode>
+    <transcript>obuskikü</transcript>
+    <transcript2>obosgigö</transcript2>
+    <cyrillic>овсхийх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U1107</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠪᠣᠰᠬᠢᠬᠦ</unicode>
+      <cyrillic>овсхийх</cyrillic>
+      <definition>〔动〕凸起一下.</definition>
+      <page>788</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠪᠣᠰᠺᠢᠺᠥ</unicode>
+      <cyrillic>ОВСХИЙХ</cyrillic>
+      <definition>немного податься кверху; слегка приподняться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>овсхийх</cyrillic>
+      <definition>hochschnellen, vorschnellen</definition>
+      <page>168</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠪᠣᠰᠬᠢᠬᠦ</unicode>
+      <cyrillic>овсхийх</cyrillic>
+      <definition>гэнэт овос хийх, хөдлөх; толгой нь овосхийн гарч ирэв.</definition>
+      <page>406</page>
+    </entry_item>
+  </entries>
+</entry>

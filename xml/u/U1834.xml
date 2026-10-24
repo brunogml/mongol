@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="U1834">
+  <head>
+    <unicode>ᠣᠯᠪᠣᠬᠲᠣ</unicode>
+    <transcript>olbuγtu</transcript>
+    <transcript2>olbogdo</transcript2>
+    <cyrillic>олбогт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠯᠪᠤᠬᠳᠤ</unicode>
+      <definition>qui a des matelas, pourvu de matelas.</definition>
+      <page>407</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠯᠪᠤᠬᠳᠤ ᠪᠠᠨᠳᠠᠩ</unicode>
+          <definition>divan</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠯᠪᠤᠬᠳᠤ ᠰᠠᠨᠳᠠᠯᠢ</unicode>
+          <definition>chaise tapissée.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠯᠪᠣᠬᠲᠣ</unicode>
+      <cyrillic>ОЛБОГТ</cyrillic>
+      <definition>с тюфяком; олбогт вандан диван; олбогт сандал мягкое кресло. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

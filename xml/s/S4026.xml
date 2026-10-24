@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4026">
+  <head>
+    <unicode>ᠰᠢᠯᠲᠥᠺᠠᠨ</unicode>
+    <transcript>siltügen</transcript>
+    <transcript2>sildögen</transcript2>
+    <cyrillic>шилтгээн</cyrillic>
+  </head>
+  <see_also>
+    <ref>S4024</ref>
+    <ref>S4025</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠯᠲᠦᠭᠡᠨ</unicode>
+      <cyrillic>шилтгээн</cyrillic>
+      <definition>〔名〕城堡.</definition>
+      <page>1635</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠯᠲᠥᠺᠠᠨ</unicode>
+      <cyrillic>ШИЛТГЭЭН</cyrillic>
+      <definition>замок. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠯᠲᠦᠭᠡᠨ</unicode>
+      <cyrillic>шилтгээн</cyrillic>
+      <definition>бэхлэн цогцолж байгуулсан эртний үеийн орд барилга.</definition>
+      <page>847</page>
+    </entry_item>
+  </entries>
+</entry>

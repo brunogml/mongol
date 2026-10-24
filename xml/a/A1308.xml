@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A1308">
+  <head>
+    <unicode>ᠠᠪᠠᠭᠠᠯᠢ</unicode>
+    <transcript>abaγali</transcript>
+    <transcript2>abagali</transcript2>
+    <cyrillic>авгааль</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠪᠠᠭᠠᠯᠢ</unicode>
+      <uighur>abaγali</uighur>
+      <cyrillic>авааль</cyrillic>
+      <transcript>ABAГALI</transcript>
+      <definition>[= abali] n. The first wife or husband; legitimate wife or husband.</definition>
+      <page>3</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠪᠠᠭᠠᠯᠢ ᠡᠺᠡᠨᠡᠷ</unicode>
+          <transcript>-- ekener</transcript>
+          <definition> First wife, legitimate wife.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠪᠠᠭᠠᠯᠢ ᠡᠷ᠎ᠡ</unicode>
+          <transcript>-- er-e</transcript>
+          <definition> First husband; legitimate husband.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Bawden</dico>
+      <cyrillic>авгааль</cyrillic>
+      <definition>lawfully married, first, </definition>
+    </entry_item>
+  </entries>
+</entry>

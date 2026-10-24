@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y2738">
+  <head>
+    <unicode>ᠵᠢᠪᠢ</unicode>
+    <transcript>ǰibi</transcript>
+    <transcript2>yibi</transcript2>
+    <cyrillic>жив</cyrillic>
+  </head><see_also>
+    <ref>Y2668</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠢᠪᠢ</unicode>
+      <uighur>ǰibi</uighur>
+      <cyrillic>зэв - жив</cyrillic>
+      <transcript>ZIBI</transcript>
+      <definition>[= zebi, zibe, zabi, 1.] n. Rust, stain.</definition>
+      <page>1048</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠢᠪᠢ ᠪᠡᠷ ᠠᠪᠲᠠᠬᠤ</unicode>
+          <transcript>-- ber abtaxu</transcript>
+          <definition> To rust.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠢᠪᠠ ~ ᠵᠢᠪᠢ</unicode>
+      <definition>la rouille; crasse (sur l'eau stagnante}. 2 argile rouge: 3 pro : dsébé, arc, armure.</definition>
+      <page>2335</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠵᠢᠪᠢ</unicode>
+      <uighur>ǰibi čilaγu</uighur>
+      <definition>n. Hematite. Iron ore used as paint.</definition>
+      <page>1211</page>
+    </entry_item>
+  </entries>
+</entry>

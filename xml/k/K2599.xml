@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K2599">
+  <head>
+    <unicode>ᠺᠢᠷᠠᠮᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>kiramalaγulqu</transcript>
+    <transcript2>giramalagolgo</transcript2>
+    <cyrillic>хярамлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>K2598</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠢᠷᠠᠮᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хярамлуулах</cyrillic>
+      <definition>〔动〕хярамлах 的使动态.</definition>
+      <page>1503</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠷᠠᠮᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХЯРАМЛУУЛАХ</cyrillic>
+      <definition>хярамлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠢᠷᠠᠮᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хярамлуулах</cyrillic>
+      <definition>хярамлахын үйлдүүлэх хэв.</definition>
+      <page>773</page>
+    </entry_item>
+  </entries>
+</entry>

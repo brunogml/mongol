@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A3465">
+  <head>
+    <unicode>ᠠᠺᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>agiraγulqu</transcript>
+    <transcript2>agiragolgo</transcript2>
+    <cyrillic>агируулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>A3463</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠭᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>агируулах</cyrillic>
+      <definition>〔动〕агирах 的使动态.</definition>
+      <page>18</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠺᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>АГИРУУЛАХ</cyrillic>
+      <definition>агирах–ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Mostaert</dico>
+      <unicode>ᠠᠺᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <definition>laisser devenir sec</definition>
+      <page>6</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠭᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>агируулах</cyrillic>
+      <definition>агирахын үйлдүүлэх хэв.</definition>
+      <page>20</page>
+    </entry_item>
+  </entries>
+</entry>

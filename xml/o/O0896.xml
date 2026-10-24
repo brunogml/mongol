@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O0896">
+  <head>
+    <unicode>ᠥᠯᠢᠪᠠᠯᠵᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ölibelǰegülkü</transcript>
+    <transcript2>ölibelcegölgö</transcript2>
+    <cyrillic>өлбөлзүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>O0895</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠯᠢᠪᠡᠯᠵᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өлбөлзүүлэх</cyrillic>
+      <definition>〔动〕өлбөлзөх 的使动态.</definition>
+      <page>839</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠯᠢᠪᠠᠯᠵᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ӨЛБӨЛЗҮҮЛЭХ</cyrillic>
+      <definition>өлбөлзөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠯᠢᠪᠡᠯᠵᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өлбөлзүүлэх</cyrillic>
+      <definition>өлбөлзөхийн үйлдүүлэх хэв.</definition>
+      <page>434</page>
+    </entry_item>
+  </entries>
+</entry>

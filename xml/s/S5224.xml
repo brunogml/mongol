@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5224">
+  <head>
+    <unicode>ᠰᠣᠭᠣᠬᠲᠣᠬᠣ</unicode>
+    <transcript>soγuγtuqu</transcript>
+    <transcript2>sogogdogo</transcript2>
+    <cyrillic>согогтох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5225</ref>
+    <ref>S5226</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠭᠣᠭᠲᠣᠬᠤ</unicode>
+      <cyrillic>согогтох</cyrillic>
+      <definition>〔动〕参见 согогрох.</definition>
+      <page>929</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠭᠣᠬᠲᠣᠬᠣ</unicode>
+      <cyrillic>СОГОГТОХ</cyrillic>
+      <definition>быть с дефектом. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠭᠣᠭᠲᠣᠬᠤ</unicode>
+      <cyrillic>согогтох</cyrillic>
+      <definition>согогтой болох.</definition>
+      <page>475</page>
+    </entry_item>
+  </entries>
+</entry>

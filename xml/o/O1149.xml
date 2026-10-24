@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1149">
+  <head>
+    <unicode>ᠥᠮᠥᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>ömügenekü</transcript>
+    <transcript2>ömögenegö</transcript2>
+    <cyrillic>өмгөнөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>O1150</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠮᠥᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>өмгөнөх</cyrillic>
+      <definition>〔动〕参见 өмөлзөх.</definition>
+      <page>842</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠮᠥᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>ӨМГӨНӨХ</cyrillic>
+      <definition>өмөлзөх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠮᠥᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>өмгөнөх</cyrillic>
+      <definition>өмөг өмөг хийх.</definition>
+      <page>436</page>
+    </entry_item>
+  </entries>
+</entry>

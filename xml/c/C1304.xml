@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1304">
+  <head>
+    <unicode>ᠴᠠᠷᠳᠠᠶᠢᠺᠥ</unicode>
+    <transcript>čerdeyikü</transcript>
+    <transcript2>cerdeyigö</transcript2>
+    <cyrillic>цэрдийх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1303</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠷᠳᠡᠢᠬᠦ</unicode>
+      <cyrillic>цэрдийх</cyrillic>
+      <definition>〔动〕（体格很小的动物的肚子）鼓起，凸出.</definition>
+      <page>1566</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠷᠳᠠᠶᠢᠺᠥ</unicode>
+      <cyrillic>ЦЭРДИЙХ</cyrillic>
+      <definition>выдаваться вперёд, выпячиваться; цэрдийж цардайх хорш. выдаваться вперёд; цэндийх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цэрдийх</cyrillic>
+      <definition>= цэндийх</definition>
+      <page>365</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠷᠳᠡᠢᠬᠦ</unicode>
+      <cyrillic>цэрдийх</cyrillic>
+      <definition>цэрдгэр бодох.</definition>
+      <page>807</page>
+    </entry_item>
+  </entries>
+</entry>

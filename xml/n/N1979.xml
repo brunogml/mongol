@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1979">
+  <head>
+    <unicode>ᠨᠣᠬᠠᠶᠢᠷᠬᠠᠬᠣ</unicode>
+    <transcript>noqayirqaqu</transcript>
+    <transcript2>nogayirgago</transcript2>
+    <cyrillic>нохойрхох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>N1980</ref>
+    <ref>N1981</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠣᠬᠠᠢᠷᠬᠠᠬᠤ</unicode>
+      <cyrillic>нохойрхох</cyrillic>
+      <definition>〔动〕参见 нохойтох.</definition>
+      <page>751</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠣᠬᠠᠶᠢᠷᠬᠠᠬᠣ</unicode>
+      <cyrillic>НОХОЙРХОХ</cyrillic>
+      <definition>нохойтох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>нохойрхох</cyrillic>
+      <definition>umg durchtrieben od verschlagen sein; pfiffig sein</definition>
+      <page>159</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠣᠬᠠᠢᠷᠬᠠᠬᠤ</unicode>
+      <cyrillic>нохойрхох</cyrillic>
+      <definition>нохой зан гаргах, нохойтох.</definition>
+      <page>383</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1566">
+  <head>
+    <unicode>ᠺᠠᠷᠢᠶᠠᠰᠥᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>geriyesülegülkü</transcript>
+    <transcript2>geriyesölegölgö</transcript2>
+    <cyrillic>гэрээслүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K1565</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠡᠷᠢᠶᠡᠰᠦᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>гэрээслүүлэх</cyrillic>
+      <definition>〔动〕гэрээслэх 的使动态.</definition>
+      <page>355</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠷᠢᠶᠠᠰᠥᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ГЭРЭЭСЛҮҮЛЭХ</cyrillic>
+      <definition>гэрээслэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠡᠷᠢᠶᠡᠰᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>гэрээслүүлэх</cyrillic>
+      <definition>гэрээслэхийн үйлдүүлэх хэв.</definition>
+      <page>171</page>
+    </entry_item>
+  </entries>
+</entry>

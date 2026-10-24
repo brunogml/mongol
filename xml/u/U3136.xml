@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U3136">
+  <head>
+    <unicode>ᠣᠷᠵᠢᠨᠣᠨ</unicode>
+    <transcript>urǰinun</transcript>
+    <transcript2>orcinon</transcript2>
+    <cyrillic>уржнан(г)</cyrillic>
+  </head>
+  <see_also>
+    <ref>U3135</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠷᠵᠢᠨᠣᠨ</unicode>
+      <uighur>urǰinun</uighur>
+      <cyrillic>уржнан(г)</cyrillic>
+      <transcript>URZINUN</transcript>
+      <definition>[= urzinan] n. The year before last.</definition>
+      <page>887</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠷᠵᠢᠨᠣᠨ ᠵᠢᠯ</unicode>
+          <transcript>-- zil</transcript>
+          <definition> Id.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠷᠵᠢᠨᠤᠨ</unicode>
+      <cyrillic>уржнан(г)</cyrillic>
+      <definition>〔名〕前年：~ жил 前年.</definition>
+      <page>1201</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠷᠵᠢᠨᠣᠨ</unicode>
+      <cyrillic>УРЖНАН(Г)</cyrillic>
+      <definition>позапрошлый год; в позапрошлом году. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠷᠵᠢᠨᠣᠨ</unicode>
+      <cyrillic>УРЖНАНГИЙН</cyrillic>
+      <definition>уржнан(г)-ийн харьяал., позапрошлогодний. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠷᠵᠢᠨᠤᠨ</unicode>
+      <cyrillic>уржнан</cyrillic>
+      <definition>өнгөрсөн жилийн урд жил; уржнан би энд байв; уржнан жил; уржнаны байсан өвөлжөөнд манайх буув.</definition>
+      <page>598</page>
+    </entry_item>
+  </entries>
+</entry>

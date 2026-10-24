@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2461">
+  <head>
+    <unicode>ᠲᠠᠶᠢᠲᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tayitalǰaγulqu</transcript>
+    <transcript2>dayidalcagolgo</transcript2>
+    <cyrillic>тайталзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T2460</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠢᠲᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тайталзуулах</cyrillic>
+      <definition>〔动〕тайталзах 的使动态.</definition>
+      <page>1015</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠶᠢᠲᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАЙТАЛЗУУЛАХ</cyrillic>
+      <definition>тайталзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠢᠲᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тайталзуулах</cyrillic>
+      <definition>тайталзахын үйлдүүлэх хэв.</definition>
+      <page>516</page>
+    </entry_item>
+  </entries>
+</entry>

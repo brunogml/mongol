@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q6398">
+  <head>
+    <unicode>ᠬᠣᠺᠢᠪᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>qokibaγanaqu</transcript>
+    <transcript2>gogibaganago</transcript2>
+    <cyrillic>хохивгонох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q6399</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠣᠬᠢᠪᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>хохивгонох</cyrillic>
+      <definition>〔动〕参见 хохиволзох.</definition>
+      <page>1379</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠺᠢᠪᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ХОХИВГОНОХ</cyrillic>
+      <definition>хохиволзох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠬᠢᠪᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>хохивгонох</cyrillic>
+      <definition>хохиволзох, хохигонох.</definition>
+      <page>699</page>
+    </entry_item>
+  </entries>
+</entry>

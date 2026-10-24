@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1201">
+  <head>
+    <unicode>ᠲᠠᠪᠰᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>tabsalǰaqu</transcript>
+    <transcript2>dabsalcago</transcript2>
+    <cyrillic>тавсалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1202</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠪᠰᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>тавсалзах</cyrillic>
+      <definition>〔动〕平顶物摇动、弹动.</definition>
+      <page>1007</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠪᠰᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ТАВСАЛЗАХ</cyrillic>
+      <definition>двљгаться вперевалку (о предмете с плоским верхом). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тавсалзах</cyrillic>
+      <definition>etw. Flaches sich bewegen; tapsen</definition>
+      <page>215</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠪᠰᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>тавсалзах</cyrillic>
+      <definition>тавсгар юмны байн байн хөдлөх.</definition>
+      <page>512</page>
+    </entry_item>
+  </entries>
+</entry>

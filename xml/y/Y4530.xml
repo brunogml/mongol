@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4530">
+  <head>
+    <unicode>ᠶᠣᠯᠴᠣᠭᠣᠨᠠᠬᠣ</unicode>
+    <transcript>yolčuγunaqu</transcript>
+    <transcript2>yolcogonago</transcript2>
+    <cyrillic>ёлцгонох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y4531</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠣᠯᠴᠣᠭᠣᠨᠠᠬᠤ</unicode>
+      <cyrillic>ёлцгонох</cyrillic>
+      <definition>〔动〕（瘫软物）频动.</definition>
+      <page>490</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠣᠯᠴᠣᠭᠣᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЁЛЦГОНОХ</cyrillic>
+      <definition>постоянно двигаться, шевелиться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠣᠯᠴᠣᠭᠣᠨᠠᠬᠤ</unicode>
+      <cyrillic>ёлцгонох</cyrillic>
+      <definition>ёлцгор юмны үргэлжлэн хөдлөх.</definition>
+      <page>235</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S4320b">
+  <head>
+    <unicode>ᠰᠢᠺᠢᠷᠠᠲᠣ</unicode>
+    <transcript>sikiratu</transcript>
+    <transcript2>sigirado</transcript2>
+    <cyrillic>шийрт</cyrillic>
+  </head><see_also>
+    <ref>S4322</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠺᠢᠷᠠᠲᠣ</unicode>
+      <uighur>sikiradu</uighur>
+      <cyrillic>шийрт</cyrillic>
+      <transcript>SIGIRATU</transcript>
+      <page>702</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠺᠢᠷᠠᠲᠣ ᠪᠤᠤ</unicode>
+          <transcript>-- buu</transcript>
+          <definition> A rifle with a support on which it rests when fired</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

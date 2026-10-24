@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6324">
+  <head>
+    <unicode>ᠲᠣᠪᠰᠢᠭᠣᠷᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tobsiγuridaγulqu</transcript>
+    <transcript2>dobsigoridagolgo</transcript2>
+    <cyrillic>товшуурдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T6323</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠪᠰᠢᠭᠤᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>товшуурдуулах</cyrillic>
+      <definition>〔动〕товшуурдах 的使动态.</definition>
+      <page>1053</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠪᠰᠢᠭᠣᠷᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТОВШУУРДУУЛАХ</cyrillic>
+      <definition>товшуурдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠪᠰᠢᠭᠤᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>товшуурдуулах</cyrillic>
+      <definition>товшуурдахын үйлдүүлэх хэв.</definition>
+      <page>532</page>
+    </entry_item>
+  </entries>
+</entry>

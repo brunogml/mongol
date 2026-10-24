@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0928">
+  <head>
+    <unicode>ᠬᠠᠪᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>qabaγulqu</transcript>
+    <transcript2>gabagolgo</transcript2>
+    <cyrillic>хавуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q0927</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠪᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хавуулах</cyrillic>
+      <definition>〔动〕хавах 的使动态.</definition>
+      <page>1265</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠪᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХАВУУЛАХ</cyrillic>
+      <definition>хавах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хавуулах</cyrillic>
+      <definition>Kaus von хавах</definition>
+      <page>280</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠪᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хавуулах</cyrillic>
+      <definition>хавахын үйлдүүлэх хэв.</definition>
+      <page>636</page>
+    </entry_item>
+  </entries>
+</entry>

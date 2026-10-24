@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1317">
+  <head>
+    <unicode>ᠲᠠᠰᠠᠮᠠᠳᠠᠬᠣ</unicode>
+    <transcript>tasamadaqu</transcript>
+    <transcript2>dasamadago</transcript2>
+    <cyrillic>тасамдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1318</ref>
+    <ref>T1319</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠰᠠᠮᠠᠳᠠᠬᠣ</unicode>
+      <uighur>tasamadaqu</uighur>
+      <cyrillic>тасамдах</cyrillic>
+      <transcript>TASAMADA-</transcript>
+      <definition>v. t. To sew with a thong.</definition>
+      <page>782</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠰᠠᠮᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>тасамдах</cyrillic>
+      <definition>〔动〕缝边，镶边，沿口（衣服）：тэрлэг ~ 缝长袍的饰边.</definition>
+      <page>1035</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠰᠠᠮᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТАСАМДАХ</cyrillic>
+      <definition>окаймљть тесёмкой. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тасамдах</cyrillic>
+      <definition>eine Borte od Litze annähen</definition>
+      <page>222</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠰᠠᠮᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>тасамдах</cyrillic>
+      <definition>эмжих, тасмаар хөвөөлж оёх; тэрлэг тасамдах.</definition>
+      <page>524</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T1316</ref>
+  </related_to>
+</entry>

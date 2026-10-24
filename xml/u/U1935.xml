@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1935">
+  <head>
+    <unicode>ᠣᠮᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>umalǰaγulqu</transcript>
+    <transcript2>omalcagolgo</transcript2>
+    <cyrillic>умалзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U1934</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠮᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>умалзуулах</cyrillic>
+      <definition>〔动〕умалзах 的使动态.</definition>
+      <page>1189</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠮᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>УМАЛЗУУЛАХ</cyrillic>
+      <definition>умалзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>умалзуулах</cyrillic>
+      <definition>Kaus von умалзах</definition>
+      <page>256</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠮᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>умалзуулах</cyrillic>
+      <definition>умалзахын үйлдүүлэх хэв.</definition>
+      <page>592</page>
+    </entry_item>
+  </entries>
+</entry>

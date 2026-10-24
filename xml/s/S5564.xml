@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5564">
+  <head>
+    <unicode>ᠱᠣᠪᠣᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šobulǰaγulqu</transcript>
+    <transcript2>sobolcagolgo</transcript2>
+    <cyrillic>шоволзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S5563</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠣᠪᠣᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шоволзуулах</cyrillic>
+      <definition>〔动〕шоволзох 的使动态.</definition>
+      <page>1644</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠪᠣᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШОВОЛЗУУЛАХ</cyrillic>
+      <definition>шоволзох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠣᠪᠣᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шоволзуулах</cyrillic>
+      <definition>шоволзохын үйлдүүлэх хэв.</definition>
+      <page>852</page>
+    </entry_item>
+  </entries>
+</entry>

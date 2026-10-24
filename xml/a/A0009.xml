@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A0009">
+  <head>
+    <unicode>ᠠᠣᠰᠲ᠋ᠷᠠᠯᠢ</unicode>
+    <transcript>australi</transcript>
+    <transcript2>aosdrali</transcript2>
+    <cyrillic>австрали</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠣᠰᠲ᠋ᠷᠠᠯᠢ</unicode>
+      <uighur>aüsTrali</uighur>
+      <cyrillic>австрали</cyrillic>
+      <transcript>AYSTRALI</transcript>
+      <definition>n. p. Australia.</definition>
+      <page>60</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠣᠰᠲ᠋ᠷᠠᠯᠢ ᠲᠢᠪ</unicode>
+          <transcript>-- tib</transcript>
+          <definition>[Continent of] Australia.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>Австрали [үлс]</cyrillic>
+      <definition>Australien n</definition>
+      <page>21</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>австралийн</cyrillic>
+      <definition>australisch; ~ тив australischer Kontinent; ~ хүн Australier m</definition>
+      <page>21</page>
+    </entry_item>
+  </entries>
+</entry>

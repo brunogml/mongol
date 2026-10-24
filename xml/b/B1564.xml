@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B1564">
+  <head>
+    <unicode>ᠪᠠᠷᠳᠠᠭᠠᠷ</unicode>
+    <transcript>bardaγar</transcript>
+    <transcript2>bardagar</transcript2>
+    <cyrillic>бардгар</cyrillic>
+  </head><see_also>
+    <ref>B1564a</ref>
+  </see_also>
+  <variants>
+    <variant type="cyrillic">бардагар</variant>
+    <variant type="cyrillic">бардгаар</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠠᠷᠳᠠᠭᠠᠷ ~ ᠪᠠᠷᠳᠠᠭ᠎ᠠ ᠪᠡᠷ</unicode>
+      <definition>promptement, avec diligence, soigneusement , avec succès. avec réussite.</definition>
+      <page>1110</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠷᠳᠠᠭᠠᠷ</unicode>
+      <cyrillic>БАРДГАР</cyrillic>
+      <definition>толстый, неуклюжий.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠷᠳᠠᠭᠠᠷ</unicode>
+      <cyrillic>бардагар</cyrillic>
+      <definition>〔形〕黝黑的.</definition>
+      <page>132</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠷᠳᠠᠭᠠᠷ</unicode>
+      <cyrillic>бардгаар</cyrillic>
+      <definition>〔形〕见 бардагар.</definition>
+      <page>132</page>
+    </entry_item>
+  </entries>
+</entry>

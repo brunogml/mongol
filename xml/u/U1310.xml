@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1310">
+  <head>
+    <unicode>ᠣᠳᠠᠭᠠᠳᠬᠠᠬᠣ</unicode>
+    <transcript>udaγatqaqu</transcript>
+    <transcript2>odagadgago</transcript2>
+    <cyrillic>удаатгах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U1311</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠳᠠᠭᠠᠳᠬᠠᠬᠤ</unicode>
+      <cyrillic>удаатгах</cyrillic>
+      <definition>〔动〕удаатах 的使动态.</definition>
+      <page>1175</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠳᠠᠭᠠᠳᠬᠠᠬᠣ</unicode>
+      <cyrillic>УДААТГАХ</cyrillic>
+      <definition>удаатах-ын үйлдүүл., замедлять. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>удаатгах</cyrillic>
+      <definition>= удаасгах</definition>
+      <page>253</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠳᠠᠭᠠᠳᠬᠠᠬᠤ</unicode>
+      <cyrillic>удаатгах</cyrillic>
+      <definition>удаатахын үйлдүүлэх хэв, удаадахад хүрүүлэх.</definition>
+      <page>584</page>
+    </entry_item>
+  </entries>
+</entry>

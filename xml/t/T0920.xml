@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0920">
+  <head>
+    <unicode>ᠲᠠᠬᠵᠢᠷᠠᠬᠣ</unicode>
+    <transcript>taqǰiraqu</transcript>
+    <transcript2>dagcirago</transcript2>
+    <cyrillic>тагжрах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T0922</ref>
+  </derivatives>
+  <see_also>
+    <ref>T0921</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠭᠵᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>тагжрах</cyrillic>
+      <definition>〔动〕①（被）塞紧，堵塞，堵住，闭紧，梗阻住，闭塞，不通气（多指伤风时的鼻子）：хамар ~ 鼻子不通气；②闭门而居，闭目塞听.</definition>
+      <page>1010</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠬᠵᠢᠷᠠᠬᠣ</unicode>
+      <cyrillic>ТАГЖРАХ</cyrillic>
+      <definition>1) закупориваться, затыкаться; засоряться; 2) быть заложенным (о носе при насморке). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тагжрах</cyrillic>
+      <definition>sich verschließen, blockiert od verstopft werden; хамар тагжирцзэ die Nase ist verstopft</definition>
+      <page>215</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠭᠵᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>тагжрах</cyrillic>
+      <definition>тагжирхай болох, битүүрэх, бөглөрөх; хамар тагжрах.</definition>
+      <page>513</page>
+    </entry_item>
+  </entries>
+</entry>

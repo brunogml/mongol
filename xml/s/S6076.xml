@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6076">
+  <head>
+    <unicode>ᠰᠣᠶᠢᠯᠭᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>soyilγaγulqu</transcript>
+    <transcript2>soyilgagolgo</transcript2>
+    <cyrillic>сойлгуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S6075</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠢᠯᠭᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сойлгуулах</cyrillic>
+      <definition>〔动〕сойлгох 的使动态.</definition>
+      <page>932</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠶᠢᠯᠭᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>СОЙЛГУУЛАХ</cyrillic>
+      <definition>сойлгох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠢᠯᠭᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сойлгуулах</cyrillic>
+      <definition>сойлгохын үйлдүүлэх хэв.</definition>
+      <page>477</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S7120a">
+  <head>
+    <unicode> ᠰᠫᠢᠳᠥᠮᠧᠲ᠋ᠷ</unicode>
+    <transcript>spidometr</transcript>
+    <transcript2>spidomedr</transcript2>
+    <cyrillic>спидометр</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠫᠢᠳ᠋ᠣᠮᠧᠲ᠋ᠷ</unicode>
+      <cyrillic>спидометр</cyrillic>
+      <definition>〔名〕速度计，里程计.</definition>
+      <page>950</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠫᠢᠳᠣᠮᠧᠲ᠋ᠷ</unicode>
+      <cyrillic>спидометр</cyrillic>
+      <definition>автомашин болон моторт дугуйг хэдий хол, хэдий түргэн явж байтааг заах хэрэгсэл, хэмжүүр.</definition>
+      <page>485</page>
+    </entry_item>
+  </entries>
+</entry>

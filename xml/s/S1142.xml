@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1142">
+  <head>
+    <unicode>ᠰᠠᠯᠲᠠᠭᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>saltaγadaγulqu</transcript>
+    <transcript2>saldagadagolgo</transcript2>
+    <cyrillic>салтаадуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S1141</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠯᠲᠠᠭᠠᠳᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>салтаадуулах</cyrillic>
+      <definition>〔动〕салтаадах 的使动态.</definition>
+      <page>904</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠯᠲᠠᠭᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>САЛТААДУУЛАХ</cyrillic>
+      <definition>1) салтаадах-ын үйлдүүл.; 2) быть схваченным за область промежности. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠯᠲᠠᠭᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>салтаадуулах</cyrillic>
+      <definition>салтаадахын үйлдүүлэх хэв.</definition>
+      <page>464</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3146">
+  <head>
+    <unicode>ᠳᠠᠨᠳᠠᠺᠠᠷᠳᠠᠺᠥ</unicode>
+    <transcript>dendegerdekü</transcript>
+    <transcript2>dendegerdegö</transcript2>
+    <cyrillic>дэндгэрдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T3149</ref>
+    <ref>T3144</ref>
+  </derivatives>
+  <see_also>
+    <ref>T3145</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠡᠨᠳᠡᠭᠡᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>дэндгэрдэх</cyrillic>
+      <definition>〔动〕变得不稳，腿过高而不稳，悬高.</definition>
+      <page>473</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠨᠳᠠᠺᠠᠷᠳᠠᠺᠥ</unicode>
+      <cyrillic>ДЭНДГЭРДЭХ</cyrillic>
+      <definition>быть слишком расшатанным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠨᠳᠡᠭᠡᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>дэндгэрдэх</cyrillic>
+      <definition>хэтэрхий дэндгэр болох.</definition>
+      <page>227</page>
+    </entry_item>
+  </entries>
+</entry>

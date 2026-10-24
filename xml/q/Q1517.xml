@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1517">
+  <head>
+    <unicode>ᠬᠠᠳᠠᠭᠠᠰᠣᠲᠣᠬᠣ</unicode>
+    <transcript>qadaγasutuqu</transcript>
+    <transcript2>gadagasodogo</transcript2>
+    <cyrillic>хадаастах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠳᠠᠭᠠᠰᠤᠲᠤᠬᠤ</unicode>
+      <cyrillic>хадаастах</cyrillic>
+      <definition>〔动〕〈医〉患羊疔病.</definition>
+      <page>1271</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠳᠠᠭᠠᠰᠣᠲᠣᠬᠣ</unicode>
+      <cyrillic>ХАДААСТАХ</cyrillic>
+      <definition>заболевать оспой (об овцах); заболевать овечьей болезнью.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хадаастах</cyrillic>
+      <definition>Schaf die Pocken bekommen</definition>
+      <page>282</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠳᠠᠭᠠᠰᠤᠲᠤᠬᠤ</unicode>
+      <cyrillic>хадаастах</cyrillic>
+      <definition>хонинд хадаас өвчин тусах.</definition>
+      <page>640</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q1514</ref>
+  </related_to>
+</entry>

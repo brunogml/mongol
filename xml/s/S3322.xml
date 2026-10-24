@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3322">
+  <head>
+    <unicode>ᠰᠢᠭᠠᠷᠣᠯᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>siγarulaγdaqu</transcript>
+    <transcript2>sigarolagdago</transcript2>
+    <cyrillic>шаарлагдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S3320</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠭᠠᠷᠣᠯᠠᠬᠳᠠᠬᠣ</unicode>
+      <uighur>siγarolaqdaqu</uighur>
+      <cyrillic>шаарлагдах</cyrillic>
+      <transcript>SIΓARULAΓDA-</transcript>
+      <definition>v. pass. of siγarula-.</definition>
+      <page>699</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠭᠠᠷᠣᠯᠠᠬᠳᠠᠭᠰᠠᠨ ᠮᠢᠬ᠎ᠠ</unicode>
+          <transcript>--γsan mix-a</transcript>
+          <definition> Rejected pieces of meat, condemned meat</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠭᠠᠷᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>шаарлагдах</cyrillic>
+      <definition>〔动〕шаарлах 的被动态.</definition>
+      <page>1602</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠭᠠᠷᠣᠯᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ШААРЛАГДАХ</cyrillic>
+      <definition>шаарлах-ын үйлдэгд., 1) быть забракованным; 2) быть отбираемым как плохое, негодное; шаарлагдсан мах отбирать, выбирать негодное мясо с целью забраковки. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шаарлагдах</cyrillic>
+      <definition>Pass von шаарлах</definition>
+      <page>375</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠭᠠᠷᠤᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>шаарлагдах</cyrillic>
+      <definition>шаарлахын үйлдэгдэх хэв.</definition>
+      <page>826</page>
+    </entry_item>
+  </entries>
+</entry>

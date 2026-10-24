@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q7057">
+  <head>
+    <unicode>ᠭᠣᠷᠣᠮᠬᠠᠨ</unicode>
+    <transcript>γurumqan</transcript>
+    <transcript2>goromgan</transcript2>
+  </head><see_also>
+    <ref>Q7056</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠣᠷᠣᠮᠬᠠᠨ</unicode>
+      <uighur>qoromqan</uighur>
+      <cyrillic>хоромхон</cyrillic>
+      <transcript>XORUMXAN</transcript>
+      <definition>See xurumxan.</definition>
+      <page>969</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠭᠣᠷᠣᠮᠬᠠᠨ</unicode>
+      <uighur>γuromqan</uighur>
+      <definition>eine kleine Weile, eine kurze Zeit</definition>
+      <page>204</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠭᠣᠷᠣᠮᠬᠠᠨ</unicode>
+      <uighur>γurumqan</uighur>
+      <definition>For a very short time or while.</definition>
+      <page>805</page>
+      <examples>
+        <example>
+          <uighur>γurumqan ǰaγur-a</uighur>
+          <definition>Lasting only for a little while.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7157">
+  <head>
+    <unicode>ᠲᠣᠮᠣᠭᠣᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tomuγuraγulqu</transcript>
+    <transcript2>domogoragolgo</transcript2>
+    <cyrillic>томууруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T7156</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠮᠣᠭᠤᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>томууруулах</cyrillic>
+      <definition>〔动〕томуурах 的使动态.</definition>
+      <page>1070</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠮᠣᠭᠣᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТОМУУРУУЛАХ</cyrillic>
+      <definition>томуурах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠮᠣᠭᠤᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>томууруулах</cyrillic>
+      <definition>томуурахын үйлдүүлэх хэв.</definition>
+      <page>539</page>
+    </entry_item>
+  </entries>
+</entry>

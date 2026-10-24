@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B3456">
+  <head>
+    <unicode>ᠪᠣᠯᠪᠣᠷᠢ</unicode>
+    <transcript>bolburi</transcript>
+    <transcript2>bolbori</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠣᠯᠪᠣᠷᠢ</unicode>
+      <uighur>bolburi</uighur>
+      <transcript>BOLBURI</transcript>
+      <definition>n. Ripening, maturity; perfection; production; result, consequence; possibility.</definition>
+      <page>116</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠯᠳᠠᠯ ᠤᠨ ᠪᠣᠯᠪᠣᠷᠢ</unicode>
+          <transcript>aldal un --</transcript>
+          <definition> Consequence of faults or errors.</definition>
+        </example>
+        <example>
+          <unicode>ᠦᠷ᠎ᠡ ᠪᠣᠯᠪᠣᠷᠢ</unicode>
+          <transcript>yr-e --</transcript>
+          <definition> Result.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠤᠯᠪᠠᠷᠢ ~ ᠪᠤᠯᠪᠤᠷᠢ</unicode>
+      <definition>maturation, maturité: 2 force, vigueur, plénitude, perCection: 3 production, produit, fruit: conséquence, action: utilité.</definition>
+      <page>1196</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠯᠳᠠᠯ ᠤᠨ ᠪᠤᠯᠪᠤᠷᠢ</unicode>
+          <definition>conséquences des fautes</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

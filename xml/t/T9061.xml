@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9061">
+  <head>
+    <unicode>ᠲᠥᠺᠥᠺᠡᠶᠢᠳᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>tügükeyidegülkü</transcript>
+    <transcript2>dögögeyidegölgö</transcript2>
+    <cyrillic>түүхийдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T9060</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠦᠭᠦᠬᠡᠢᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>түүхийдүүлэх</cyrillic>
+      <definition>〔动〕түүхийдэх 的使动态.</definition>
+      <page>1144</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠺᠥᠺᠡᠶᠢᠳᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ТҮҮХИЙДҮҮЛЭХ</cyrillic>
+      <definition>түүхийдэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠦᠭᠦᠬᠡᠢᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>түүхийдүүлэх</cyrillic>
+      <definition>түүхийдэхийн үйлдүүлэх хэв, түүхий болоход хүрүүлэх.</definition>
+      <page>570</page>
+    </entry_item>
+  </entries>
+</entry>

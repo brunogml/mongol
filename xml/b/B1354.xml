@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1354">
+  <head>
+    <unicode>ᠪᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>baraγulqu</transcript>
+    <transcript2>baragolgo</transcript2>
+    <cyrillic>баруулах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B1358</ref>
+  </derivatives>
+  <related_to>
+    <ref>B1343</ref>
+  </related_to>
+  <see_also>
+    <ref>B1352</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <uighur>baraγulqu</uighur>
+      <cyrillic>баруулах</cyrillic>
+      <transcript>BARAГUL-</transcript>
+      <definition>[v , causa of bara-] To cause to end; to consume, spend, waste, destroy.</definition>
+      <page>84</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠳ ᠢ ᠪᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+          <transcript>ed i --xu</transcript>
+          <definition> To'waste one's fortune or possessions.</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠡᠮ ᠦᠳ ᠢ ᠪᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+          <transcript>gem yd i --xu</transcript>
+          <definition> To expiate sins; to stop sinning.</definition>
+        </example>
+        <example>
+          <unicode>ᠱᠠᠰᠢᠨ ᠢ ᠪᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+          <transcript>šasin i --xu</transcript>
+          <definition> To annihilate or destroy religion.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <definition>ordonner de finir, de consommer, de dépenser, de dissiper. de détruire.</definition>
+      <page>1096</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠳ ᠢ ᠪᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+          <definition>ordonner de dissiper les biens</definition>
+        </example>
+        <example>
+          <unicode>ᠱᠠᠰᠢᠨ ᠢ ᠪᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+          <definition>anéantir la religion</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠡᠮ ᠤᠳ ᠢ ᠪᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+          <definition>mettre un terme aux péchés</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠪᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <uighur>baraγulqu</uighur>
+      <definition>verbrauchen lassen, zu Ende bringen lassen, beendigen lassen</definition>
+      <page>101</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БАРУУЛАХ</cyrillic>
+      <definition>I барах-ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>баруулах /1</cyrillic>
+      <definition>〔动〕барах 的使动态.</definition>
+      <page>138</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>баруулах /2</cyrillic>
+      <definition>〔动〕向西走；向右走.</definition>
+      <page>138</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>баруулах /1</cyrillic>
+      <definition>баруун зүг тийш явах.</definition>
+      <page>78</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>баруулах /2</cyrillic>
+      <definition>барахын үйлдүүлэх хэв.</definition>
+      <page>78</page>
+    </entry_item>
+  </entries>
+</entry>

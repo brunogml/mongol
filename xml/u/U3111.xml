@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U3111">
+  <head>
+    <unicode>ᠣᠷᠲᠣᠷᠢᠬ</unicode>
+    <transcript>urturiq</transcript>
+    <transcript2>ordorig</transcript2>
+    <cyrillic>уртриг</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠷᠲᠣᠷᠢᠬ</unicode>
+      <uighur>urdoriq</uighur>
+      <cyrillic>уртриг</cyrillic>
+      <transcript>URTURIΓ</transcript>
+      <definition>n. Longitude; meridian,</definition>
+      <page>885</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠷᠲᠤᠷᠢᠭ</unicode>
+      <cyrillic>уртриг</cyrillic>
+      <definition>〔名〕见 уртраг.</definition>
+      <page>1204</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠷᠲᠣᠷᠢᠬ</unicode>
+      <cyrillic>УРТРАГ</cyrillic>
+      <definition>г.з. долгота; уртрагийг олох определљть долготу. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠷᠲᠤᠷᠢᠭ</unicode>
+      <cyrillic>уртраг</cyrillic>
+      <definition>газарзүй тодорхой меридианаас градусаар илэрхийлэгдсэн зай.</definition>
+      <page>600</page>
+    </entry_item>
+  </entries>
+</entry>

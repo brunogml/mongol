@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0076">
+  <head>
+    <unicode>ᠲᠠᠨᠣᠬᠣ</unicode>
+    <transcript>tanuqu</transcript>
+    <transcript2>danogo</transcript2>
+    <cyrillic>танах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T0077</ref>
+    <ref>T0080</ref>
+    <ref>T0084</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠨᠣᠬᠣ</unicode>
+      <uighur>tanoqu</uighur>
+      <cyrillic>танах</cyrillic>
+      <transcript>TANU-</transcript>
+      <definition>v. t. To reduce in size, cut off, shorten.</definition>
+      <page>779</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠨᠣᠵᠤ ᠠᠪᠬᠤ</unicode>
+          <transcript>--zu abxu</transcript>
+          <definition> To cut off.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠨᠴᠤᠢ ᠎ᠶᠢ ᠲᠠᠨᠣᠬᠣ</unicode>
+          <transcript>xancui ji --xu</transcript>
+          <definition> To shorten a sleeve.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠨᠣᠬᠤ</unicode>
+      <definition>couper, raccourcir</definition>
+      <page>1560</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠨᠣᠵᠤ ᠠᠪᠬᠤ</unicode>
+          <definition>couper</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠨᠣᠬᠣ</unicode>
+      <uighur>danoqu</uighur>
+      <definition>beschneiden, abschneiden, kleiner machen</definition>
+      <page>227</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠨᠣᠬᠣ</unicode>
+      <uighur>tanuqu</uighur>
+      <definition>v.t. To cut or clip out. To cut off. To make small. To prune.</definition>
+      <page>895</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠨᠣᠬᠣ</unicode>
+      <uighur>tanuǰu abqu</uighur>
+      <definition>To prune or cut off.</definition>
+      <page>895</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠨᠤᠬᠤ</unicode>
+      <cyrillic>танах</cyrillic>
+      <definition>〔动〕①把…弄（缩、截、剪、切、割、改…）短；减少，减轻，降低，减低，缩小：уртаас нь ~ 把长的剪去；эргэн тойрон ~ 把周围剪掉；②〈电〉限制：~ ороомог 限制线圈；~ шаталгаа 限制级；~ шүүлтүүр 割切滤波器.</definition>
+      <page>1024</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠨᠣᠬᠣ</unicode>
+      <cyrillic>ТАНАХ</cyrillic>
+      <definition>укорачивать, уменьшать, обрезать, отрезать, сокращать; огранљчить; танах шаталгаа холбоо. каскад ограничљтельный; танах шүүлтүүр холбоо. фильтр вызывающий. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>танах</cyrillic>
+      <definition>abschneiden, kürzen, stutzen; ханцуйг ~ den Ärmel kürzen</definition>
+      <page>219</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠨᠤᠬᠤ</unicode>
+      <cyrillic>танах</cyrillic>
+      <definition>дээл хувцас зэргийн юмнаас өөлөх, бага зэрэг тайрах, хяргах, хасах, уртаас нь танах, эргэн тойрон танах.</definition>
+      <page>520</page>
+    </entry_item>
+  </entries>
+</entry>

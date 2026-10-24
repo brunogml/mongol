@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8193">
+  <head>
+    <unicode>ᠲᠥᠨᠳᠥᠯᠵᠠᠺᠥ</unicode>
+    <transcript>tündülǰekü</transcript>
+    <transcript2>döndölcegö</transcript2>
+    <cyrillic>түнтэлзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T8195</ref>
+    <ref>T8192</ref>
+  </derivatives>
+  <see_also>
+    <ref>T8194</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠦᠨᠲᠦᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>түнтэлзэх</cyrillic>
+      <definition>〔动〕参见 түнтэгнэх.</definition>
+      <page>1135</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠨᠳᠥᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>ТҮНТЭЛЗЭХ</cyrillic>
+      <definition>түнтгэнэх-ийг үз., двљгаться вперевалку (о толстом, круглом предмете). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠦᠨᠲᠦᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>түнтэлзэх</cyrillic>
+      <definition>түнтгэр юмны байн байн хөдлөх.</definition>
+      <page>567</page>
+    </entry_item>
+  </entries>
+</entry>

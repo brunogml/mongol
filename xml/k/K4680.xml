@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4680">
+  <head>
+    <unicode>ᠺᠥᠺᠡᠷᠮᠡᠺᠡᠢ</unicode>
+    <transcript>kögermekei</transcript>
+    <transcript2>gögermegei</transcript2>
+    <cyrillic>хөөрөмхий</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠭᠡᠷᠦᠮᠬᠡᠢ</unicode>
+      <cyrillic>хөөрөмхий</cyrillic>
+      <definition>〔形〕参见 хөөрөмтгий.</definition>
+      <page>1405</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠺᠡᠷᠮᠡᠺᠡᠢ</unicode>
+      <cyrillic>ХӨӨРӨМХИЙ</cyrillic>
+      <definition>хөөрөмтгий-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠭᠡᠷᠮᠡᠬᠡᠢ</unicode>
+      <cyrillic>хөөрөмхий</cyrillic>
+      <definition>хөөрөх зан байдалтай.</definition>
+      <page>714</page>
+    </entry_item>
+  </entries>
+</entry>

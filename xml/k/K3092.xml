@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K3092">
+  <head>
+    <unicode>ᠺᠥᠨᠳᠥᠯᠡᠨ</unicode>
+    <transcript>köndülen</transcript>
+    <transcript2>göndölen</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠥᠨᠳᠥᠯᠡᠨ</unicode>
+      <uighur>köndülen</uighur>
+      <transcript>KØNDYLEN</transcript>
+      <definition>See køndelen</definition>
+      <page>488</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠦᠨᠳᠦᠯᠡᠨ ~ ᠺᠦᠨᠳᠡᠯᠡᠨ</unicode>
+      <definition>à travers; en long on en large: horizontalement.</definition>
+      <page>2569</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠥᠨᠳᠦᠯᠡᠨ ᠪᠢᠰᠺᠢᠭᠦᠷ</unicode>
+          <definition>une flûte</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠥᠨᠳᠦᠯᠡᠨ ᠲᠠᠰᠤᠯᠬᠤ</unicode>
+          <definition>déchirer en travers</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

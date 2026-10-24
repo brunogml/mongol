@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4318a">
+  <head>
+    <unicode>ᠪᠥᠲᠥᠮᠵᠢᠺᠥᠢ</unicode>
+    <transcript>bütümǰigüi</transcript>
+    <transcript2>bödömcigöi</transcript2>
+    <cyrillic>бүтэмжгүй</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠦᠲᠦᠮᠵᠢ᠎ᠦᠭᠡᠢ</unicode>
+      <cyrillic>бүтэмжгүй</cyrillic>
+      <definition>〔形〕无成绩的，无成就的；不成功的；达不到的；无效果的，不幸运的.</definition>
+      <page>236</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠲᠥᠮᠵᠢᠺᠥᠢ</unicode>
+      <cyrillic>БҮТЭМЖГҮЙ</cyrillic>
+      <definition>1. неудачный, неуспешный; невыполнимый, безуспешный, неэффективный; 2. неудачно, неуспешно.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бүтэмжгүй</cyrillic>
+      <definition>= бүтэлгүй</definition>
+      <page>67</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠦᠲᠦᠮᠵᠢᠦᠭᠡᠢ</unicode>
+      <cyrillic>бүтэмжгүй</cyrillic>
+      <definition>1. бүтэхэд бэрхтэй;2. урагшгүй.</definition>
+      <page>119</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>B4317</ref>
+  </related_to>
+  <derivatives>
+    <ref>B4318b</ref>
+  </derivatives>
+</entry>

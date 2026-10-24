@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2383">
+  <head>
+    <unicode>ᠳᠠᠶᠢᠪᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>dayibalǰaqu</transcript>
+    <transcript2>dayibalcago</transcript2>
+    <cyrillic>дайвалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T2384</ref>
+  </derivatives>
+  <see_also>
+    <ref>T2404</ref>
+    <ref>T2383a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠠᠶᠢᠪᠠᠯᠵᠠᠬᠣ</unicode>
+      <uighur>dayibalǰaqu</uighur>
+      <cyrillic>дайвалзах</cyrillic>
+      <transcript>DAIBALZA-</transcript>
+      <definition>v.i. To totter, wobble, sway, rock</definition>
+      <page>221</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠶᠢᠪᠠᠯᠵᠠᠨ ᠶᠠᠪᠤᠬᠤ</unicode>
+          <transcript>--n jabuxu</transcript>
+          <definition> To wobble or reel while walking</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠶᠢᠪᠠᠯᠵᠠᠬᠤ</unicode>
+      <definition>se remuer, se balancer, chanccler, remuer d'un côté , aller de côté lorsqu'on marche</definition>
+      <page>1549</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠦᠭᠰᠡ ᠳᠠᠶᠢᠪᠠᠯᠵᠠᠬᠤ</unicode>
+          <definition>remuer le derrière</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠳᠠᠶᠢᠪᠠᠯᠵᠠᠬᠣ</unicode>
+      <uighur>dayibalǰaqu</uighur>
+      <definition>im Gehen schwanken, einen schwankenden Gang haben</definition>
+      <page>263</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠳᠠᠶᠢᠪᠠᠯᠵᠠᠬᠣ</unicode>
+      <uighur>dayibalǰaqu</uighur>
+      <definition>v.i.To swa er when walking. To have a swaggering gait.</definition>
+      <page>1048</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠢᠪᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>дайвалзах</cyrillic>
+      <definition>ганхалзах, хэлбэлзэх, туйвалзах; дугуй нь сэнслэн дайвалзаж байжээ; хөл дайвалзах; завь дайвалзах.</definition>
+      <page>180</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0323">
+  <head>
+    <unicode>ᠮᠠᠭᠠᠷᠰᠢᠬᠣ</unicode>
+    <transcript>maγarsiqu</transcript>
+    <transcript2>magarsigo</transcript2>
+    <cyrillic>маарших</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M0324</ref>
+    <ref>M0325</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠭᠠᠷᠰᠢᠬᠤ</unicode>
+      <cyrillic>маарших</cyrillic>
+      <definition>〔动〕皮革腐烂.</definition>
+      <page>651</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠭᠠᠷᠰᠢᠬᠣ</unicode>
+      <cyrillic>МААРШИХ</cyrillic>
+      <definition>портиться, тухнуть, становиться дурным на вкус (о замше); элэг маарах тухнуть (о замше). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠭᠠᠷᠰᠢᠬᠤ</unicode>
+      <cyrillic>маарших</cyrillic>
+      <definition>илэг бээж илжрэх; илэг маарших.</definition>
+      <page>325</page>
+    </entry_item>
+  </entries>
+</entry>

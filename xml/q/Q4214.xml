@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4214">
+  <head>
+    <unicode>ᠭᠣᠩᠬᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>γungqalǰaγulqu</transcript>
+    <transcript2>gonggalcagolgo</transcript2>
+    <cyrillic>гунхалзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q4213</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠤᠩᠬᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гунхалзуулах</cyrillic>
+      <definition>〔动〕гунхалзах 的使动态.</definition>
+      <page>328</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠩᠬᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ГУНХАЛЗУУЛАХ</cyrillic>
+      <definition>гунхалзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠤᠩᠬᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гунхалзуулах</cyrillic>
+      <definition>гунхахын үйлдүүлэх хэв.</definition>
+      <page>159</page>
+    </entry_item>
+  </entries>
+</entry>

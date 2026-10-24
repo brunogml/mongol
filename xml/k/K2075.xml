@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K2075">
+  <head>
+    <transcript>kilo</transcript>
+    <transcript2>gilo</transcript2>
+    <cyrillic>кило</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠺᠢᠯᠣ᠋</unicode>
+      <cyrillic>кило</cyrillic>
+      <definition>〔量〕公斤.</definition>
+      <page>631</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>КИЛО</cyrillic>
+      <definition>кило. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>кило[грамм]</cyrillic>
+      <definition>Kilo[gramm] n; гурван ~граммы үнэ Preis für drei Kilogramm</definition>
+      <page>136</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠺᠢᠯᠣ</unicode>
+      <cyrillic>кило</cyrillic>
+      <definition>килограмм; нэг кило элсэн чихэр авна.</definition>
+      <page>314</page>
+    </entry_item>
+  </entries>
+</entry>

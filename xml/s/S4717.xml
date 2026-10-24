@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4717">
+  <head>
+    <unicode>ᠰᠢᠷᠪᠢᠺᠳᠠᠺᠥ</unicode>
+    <transcript>sirbigdekü</transcript>
+    <transcript2>sirbigdegö</transcript2>
+    <cyrillic>ширвэгдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S4716</ref>
+  </derivatives>
+  <related_to>
+    <ref>S4710</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠷᠪᠢᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>ширвэгдэх</cyrillic>
+      <definition>〔动〕ширвэх 的被动态.</definition>
+      <page>1640</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠷᠪᠢᠺᠳᠠᠺᠥ</unicode>
+      <cyrillic>ШИРВЭГДЭХ</cyrillic>
+      <definition>ширвэх-ийн үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>ширвэгдэх</cyrillic>
+      <definition>Pass von ширвэх</definition>
+      <page>387</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠷᠪᠢᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>ширвэгдэх</cyrillic>
+      <definition>ширвэхийн үйлдэгдэх хэв.</definition>
+      <page>850</page>
+    </entry_item>
+  </entries>
+</entry>

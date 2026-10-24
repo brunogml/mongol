@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0115">
+  <head>
+    <unicode>ᠮᠠᠨᠵᠢᠨ</unicode>
+    <transcript>manǰin</transcript>
+    <transcript2>mancin</transcript2>
+    <cyrillic>манжин</cyrillic>
+  </head>
+  <see_also>
+    <ref>M0116</ref>
+    <ref>M0114</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠮᠠᠨᠵᠢᠨ</unicode>
+      <uighur>manǰin</uighur>
+      <cyrillic>манжин</cyrillic>
+      <transcript>MANZIN</transcript>
+      <definition>[= manzing, Ch. man-ching] n. Turnip</definition>
+      <page>528</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠺᠢᠷ ᠤᠨ ᠮᠠᠨᠵᠢᠨ</unicode>
+          <transcript>cikir yn --</transcript>
+          <definition> Sugar beet.</definition>
+        </example>
+        <example>
+          <unicode>ᠤᠯᠠᠭᠠᠨ ᠮᠠᠨᠵᠢᠨ</unicode>
+          <transcript>ulaγan --</transcript>
+          <definition> Beet.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠮᠠᠨᠵᠢᠨ ~ ᠮᠠᠨᠵᠢᠩ</unicode>
+      <definition>navet.</definition>
+      <page>1975</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠮᠠᠨᠵᠢᠨ</unicode>
+      <uighur>manǰin</uighur>
+      <definition>die Rübe</definition>
+      <page>210</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠮᠠᠨᠵᠢᠨ</unicode>
+      <uighur>manǰin</uighur>
+      <definition>n. The rape turnip.</definition>
+      <page>827</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠨᠵᠢᠨ</unicode>
+      <cyrillic>МАНЖИН</cyrillic>
+      <definition>ург. брюква; малын тэжээлийн манжин кормовая свёкла; улаан манжин ург. свёкла; чихрийн манжин ург. сахарная свёкла; шар манжин ург. репа. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠨᠵᠢᠨ</unicode>
+      <cyrillic>манжин</cyrillic>
+      <definition>&lt;ургамал&gt;том бөөрөнхий, амтлаг үндэстэй идэшний ногоо; улаан манжин; шар манжин.</definition>
+      <page>331</page>
+    </entry_item>
+  </entries>
+</entry>

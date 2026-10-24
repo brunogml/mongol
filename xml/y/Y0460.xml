@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y0460">
+  <head>
+    <unicode>ᠵᠠᠭᠠᠴᠢ</unicode>
+    <transcript>ǰaγači</transcript>
+    <transcript2>yagaci</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠠᠭᠠᠴᠢ</unicode>
+      <uighur>ǰaγači</uighur>
+      <transcript>ZAΓACI</transcript>
+      <page>1022</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠠᠭᠠᠴᠢ ᠺᠦᠮᠦᠨ</unicode>
+          <transcript>-- kymyn</transcript>
+          <definition> Guardian of the elephants.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠠᠭᠠᠴᠢ ᠺᠦᠮᠦᠨ</unicode>
+      <definition>gardien d&apos;éléphants</definition>
+      <page>2249</page>
+    </entry_item>
+  </entries>
+</entry>

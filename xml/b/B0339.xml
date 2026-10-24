@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B0339">
+  <head>
+    <unicode>ᠪᠠᠭᠣᠯᠭᠠᠷᠢ</unicode>
+    <transcript>baγulγari</transcript>
+    <transcript2>bagolgari</transcript2>
+    <cyrillic>буулгар</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠠᠭᠣᠯᠭᠠᠷᠢ</unicode>
+      <uighur>baγulγari</uighur>
+      <transcript>BAГULГARI</transcript>
+      <definition>n. The escorting of a bride to the bridegroom.</definition>
+      <page>72</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠠᠭᠣᠯᠭᠠᠷᠢ ᠎ᠶᠢᠨ ᠶᠠᠭᠤᠮ᠎ᠠ</unicode>
+          <transcript>-- jin jaγum-a</transcript>
+          <definition> Dowry of a bride.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠠᠭᠣᠯᠭᠠᠷᠢ</unicode>
+      <definition>conduite , reconduite</definition>
+      <page>1064</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠭᠣᠯᠭᠠᠷᠢ</unicode>
+      <cyrillic>БУУЛГАР</cyrillic>
+      <definition>хуучир. проводы (невесты к жениху); буулгарын юм вещи, даримые при проводах невесты; приданое.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

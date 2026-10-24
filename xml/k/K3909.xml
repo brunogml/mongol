@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K3909">
+  <head>
+    <unicode>ᠺᠥᠲᠥᠺᠥ</unicode>
+    <transcript>kötükü</transcript>
+    <transcript2>gödögö</transcript2>
+    <cyrillic>хөөтөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K3912</ref>
+    <ref>K3906</ref>
+  </derivatives>
+  <see_also>
+    <ref>K3910</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠲᠡᠬᠦ</unicode>
+      <cyrillic>хөөтөх</cyrillic>
+      <definition>〔动〕熏上烟，熏黑.</definition>
+      <page>1407</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠲᠥᠺᠥ</unicode>
+      <cyrillic>ХӨӨТӨХ</cyrillic>
+      <definition>покрываться сажей; мазаться сажей. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хөөтөх</cyrillic>
+      <definition>einrußen, verrußen, rußig werden</definition>
+      <page>321</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠲᠥᠬᠦ</unicode>
+      <cyrillic>хөөтөх</cyrillic>
+      <definition>хөө тогтох, хөөтэй болох; гэр хөөтөхөөс болгоомжил!</definition>
+      <page>715</page>
+    </entry_item>
+  </entries>
+</entry>

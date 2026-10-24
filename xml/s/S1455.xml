@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1455">
+  <head>
+    <unicode>ᠱᠠᠵᠢᠺᠢᠨᠠᠬᠣ</unicode>
+    <transcript>šaǰiginaqu</transcript>
+    <transcript2>saciginago</transcript2>
+    <cyrillic>шажигнах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1456</ref>
+    <ref>S1458</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠵᠢᠭᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>шажигнах</cyrillic>
+      <definition>〔动〕喀嚓响（折断声，破碎声）；吱啦响（油在煎锅中之声）.</definition>
+      <page>1609</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠵᠢᠺᠢᠨᠠᠬᠣ</unicode>
+      <cyrillic>ШАЖИГНАХ</cyrillic>
+      <definition>1) шелестеть; хрустеть; скрипеть; шуметь, греметь; 2) шипеть (напр. о масле на сковороде). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шажигнах</cyrillic>
+      <definition>Blätter rauschen, rascheln; Öl, Butter brutzeln, zischen; Papier knistern; Schnee knirschen</definition>
+      <page>377</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠵᠢᠭᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>шажигнах</cyrillic>
+      <definition>юмны хугарах няцрах, хөдлөх эвдрэх зэрэгт шар шар чимээ гарах; цас шажигнах; модны навч шажигнах; цаас шажигнах; ор шажигнан хөдлөх.</definition>
+      <page>830</page>
+    </entry_item>
+  </entries>
+</entry>

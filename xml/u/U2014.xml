@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2014">
+  <head>
+    <unicode>ᠣᠮᠪᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>umbaγulqu</transcript>
+    <transcript2>ombagolgo</transcript2>
+    <cyrillic>умбуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U2013</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠮᠪᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>умбуулах</cyrillic>
+      <definition>〔动〕умбах 的使动态.</definition>
+      <page>1189</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠮᠪᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>УМБУУЛАХ</cyrillic>
+      <definition>умбах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>умбуулах</cyrillic>
+      <definition>Kaus von умбах</definition>
+      <page>256</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠮᠪᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>умбуулах</cyrillic>
+      <definition>умбахын үйлдүүлэх хэв.</definition>
+      <page>592</page>
+    </entry_item>
+  </entries>
+</entry>

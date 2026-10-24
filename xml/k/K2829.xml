@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K2829">
+  <head>
+    <unicode>ᠺᠥ</unicode>
+    <transcript>kü</transcript>
+    <transcript2>gö</transcript2>
+    <cyrillic>хүү</cyrillic>
+  </head><see_also>
+    <ref>K0138</ref>
+  
+    <ref>K2923</ref>
+  
+    <ref>K2830</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠥ</unicode>
+      <uighur>kü</uighur>
+      <cyrillic>хүү</cyrillic>
+      <transcript>KY</transcript>
+      <definition>Particle emphasizing the preceding word (often written together with the emphasized word).</definition>
+      <page>494</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠠᠰᠠ ᠺᠥ</unicode>
+          <transcript>basa,--</transcript>
+          <definition> Also, too (emphasized); again.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠶᠢᠨ ᠺᠥ</unicode>
+          <transcript>ein -- </transcript>
+          <definition> Thus,‘in the same way</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠨᠡ ᠺᠥ = ᠡᠨᠡᠺᠦ</unicode>
+          <transcript>ene -- = eneky</transcript>
+          <definition> The same, the very same; the given, mentioned, actual</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠠᠭᠴᠠ ᠺᠥ = ᠭᠠᠭᠴᠠᠺᠦ</unicode>
+          <transcript>γaγca -- = γaγcaky </transcript>
+          <definition>Only</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠠᠭᠴᠠ ᠺᠦ ᠲᠣᠭ᠎ᠠ ᠎ᠶᠢ ᠡᠷᠺᠢᠮᠯᠡᠭᠺᠦ</unicode>
+          <transcript>γaγca – toγ-a ji erkimlegky</transcript>
+          <definition> To emphasize only quantity</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠷᠡ ᠺᠦ</unicode>
+          <transcript>tere -- </transcript>
+          <definition> That same, the same</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠷᠢᠨ ᠺᠦ</unicode>
+          <transcript>xarin -- </transcript>
+          <definition>However; on the contrary</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

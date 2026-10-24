@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1875">
+  <head>
+    <unicode>ᠨᠢᠷᠣᠭᠣᠪᠴᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>niruγubčilaγulqu</transcript>
+    <transcript2>nirogobcilagolgo</transcript2>
+    <cyrillic>нуруувчлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>N1874</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠢᠷᠤᠭᠤᠪᠴᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нуруувчлуулах</cyrillic>
+      <definition>нуруувчлах /1、/2 的使动态.</definition>
+      <page>760</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠢᠷᠣᠭᠣᠪᠴᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>НУРУУВЧЛУУЛАХ</cyrillic>
+      <definition>нуруувчлах I, II-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠢᠷᠤᠭᠤᠪᠴᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нуруувчлуулах</cyrillic>
+      <definition>нуруувчлахын үйлдүүлэх хэв.</definition>
+      <page>389</page>
+    </entry_item>
+  </entries>
+</entry>

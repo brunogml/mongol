@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1384">
+  <head>
+    <unicode>ᠰᠠᠮᠰᠢᠬᠳᠠᠬᠣ</unicode>
+    <transcript>samsiγdaqu</transcript>
+    <transcript2>samsigdago</transcript2>
+    <cyrillic>самшигдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S1379</ref>
+  </related_to>
+  <derivatives>
+    <ref>S1388</ref>
+  </derivatives>
+  <see_also>
+    <ref>S1385</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠮᠰᠢᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>самшигдах</cyrillic>
+      <definition>〔动〕самших 的被动态.</definition>
+      <page>908</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠮᠰᠢᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>САМШИГДАХ</cyrillic>
+      <definition>самших-ын үйлдэгд., тратиться; уничтожаться, гибнуть; шамшигдах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠮᠰᠢᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>самшигдах</cyrillic>
+      <definition>самшихын үйлдэгдэх хэв, дэмий үрэгдэх санхүүг самшигдуулсан ялт этгээд.</definition>
+      <page>466</page>
+    </entry_item>
+  </entries>
+</entry>

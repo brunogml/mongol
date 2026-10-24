@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0181">
+  <head>
+    <unicode>ᠰᠠᠨᠵᠢᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sanǰilǰaγulqu</transcript>
+    <transcript2>sancilcagolgo</transcript2>
+    <cyrillic>санжилзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S0180</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠨᠵᠢᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>санжилзуулах</cyrillic>
+      <definition>〔动〕санжилзах 的使动态.</definition>
+      <page>913</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠨᠵᠢᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>САНЖИЛЗУУЛАХ</cyrillic>
+      <definition>санжилзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠨᠵᠢᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>санжилзуулах</cyrillic>
+      <definition>санжилзахын үйлдүүлэх хэв.</definition>
+      <page>469</page>
+    </entry_item>
+  </entries>
+</entry>

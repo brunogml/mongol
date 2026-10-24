@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0950">
+  <head>
+    <unicode>ᠱᠠᠯᠠᠶᠢᠯᠭᠠᠬᠣ</unicode>
+    <transcript>šalayilγaqu</transcript>
+    <transcript2>salayilgago</transcript2>
+    <cyrillic>шалайлгах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠯᠠᠢᠯᠭᠠᠬᠤ</unicode>
+      <cyrillic>шалайлгах</cyrillic>
+      <definition>〔动〕шалайх 的使动态.</definition>
+      <page>1610</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠯᠠᠶᠢᠯᠭᠠᠬᠣ</unicode>
+      <cyrillic>ШАЛАЙЛГАХ</cyrillic>
+      <definition>шалайх I-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шалайлгах</cyrillic>
+      <definition>Kaus von шалайх</definition>
+      <page>378</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠯᠠᠢᠯᠭᠠᠬᠤ</unicode>
+      <cyrillic>шалайлгах</cyrillic>
+      <definition>шалайхад хүрүүлэх.</definition>
+      <page>831</page>
+    </entry_item>
+  </entries>
+</entry>

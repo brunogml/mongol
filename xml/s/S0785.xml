@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0785">
+  <head>
+    <unicode>ᠱᠠᠪᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šabdaγulqu</transcript>
+    <transcript2>sabdagolgo</transcript2>
+    <cyrillic>шавдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S0783</ref>
+  </related_to>
+  <see_also>
+    <ref>S3455</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠪᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАВДУУЛАХ</cyrillic>
+      <definition>II шавдах III-ын үйлдүүл., дать сверлить, просверлить, проколоть. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠪᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шавдуулах</cyrillic>
+      <definition>1. шавдахын үйлдүүлэх хэв, шаардуулах, яаруулах;2. шавдагдах.</definition>
+      <page>828</page>
+    </entry_item>
+  </entries>
+</entry>

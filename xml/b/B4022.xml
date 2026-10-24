@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4022">
+  <head>
+    <unicode>ᠪᠣᠷᠰᠢᠬᠣ</unicode>
+    <transcript>borsiqu</transcript>
+    <transcript2>borsigo</transcript2>
+    <cyrillic>борших</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B4023</ref>
+  </derivatives>
+  <see_also>
+    <ref>B3945</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠷᠰᠢᠬᠣ</unicode>
+      <cyrillic>БОРШИХ</cyrillic>
+      <definition>I 1. быть наваристым (о мясе); 2. наваристость при долгом кипячении бульона.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠣᠷᠰᠢᠬᠤ</unicode>
+      <cyrillic>борших /1</cyrillic>
+      <definition>шингэн юмны чаналт нь хэтэрснээс болж дэндүү хурц амттай аагтай өтгөн болох; боршсон шөл; цай борших.</definition>
+      <page>95</page>
+    </entry_item>
+  </entries>
+</entry>

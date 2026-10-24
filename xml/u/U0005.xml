@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="U0005">
+  <head>
+    <unicode>ᠣᠣ</unicode>
+    <transcript>ou</transcript>
+    <transcript2>oo</transcript2>
+    <cyrillic>оо</cyrillic>
+  </head><see_also>
+    <ref>U0002</ref>
+  
+    <ref>U0006</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠣ</unicode>
+      <uighur>ou</uighur>
+      <cyrillic>оо</cyrillic>
+      <transcript>OU</transcript>
+      <definition>[= o, ou-a] n. Powder in general; face powder</definition>
+      <page>625</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠤ</unicode>
+      <definition>fard, céruse; 2 particule interrogative: est-ce'? 3 vaste, spacieux.</definition>
+      <page>336</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠤ ᠠᠷᠠᠯ. ᠠᠭᠣᠤ ᠠᠷᠠᠯ</unicode>
+          <definition>une vaste île</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠣᠣ</unicode>
+      <uighur>ou</uighur>
+      <definition>weisse Schminke</definition>
+      <page>44</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠣᠣ</unicode>
+      <uighur>ou</uighur>
+      <definition>(o)n. White powder, rouge.</definition>
+      <page>169</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4485">
+  <head>
+    <unicode>ᠪᠥᠯᠲᠠᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>bültegenegülkü</transcript>
+    <transcript2>böldegenegölgö</transcript2>
+    <cyrillic>бүлтгэнүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>B4484</ref>
+  </related_to>
+  <variants>
+    <variant type="cyrillic">бүлтэгнүүлэх</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠦᠯᠲᠡᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бүлтгэнүүлэх</cyrillic>
+      <definition>〔动〕бүлтгэнэх 的使动态.</definition>
+      <page>226</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠯᠲᠠᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>БҮЛТГЭНҮҮЛЭХ</cyrillic>
+      <definition>бүлтгэнэх-ийн үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠦᠯᠲᠡᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бүлтэгнүүлэх</cyrillic>
+      <definition>бүлтэгнэхийн үйлдүүлэх хэв.</definition>
+      <page>116</page>
+    </entry_item>
+  </entries>
+</entry>

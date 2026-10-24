@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0586">
+  <head>
+    <unicode>ᠰᠠᠬᠰᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>saγsalǰaγulqu</transcript>
+    <transcript2>sagsalcagolgo</transcript2>
+    <cyrillic>сагсалзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S0585</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠭᠰᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сагсалзуулах</cyrillic>
+      <definition>〔动〕сагсалзах 的使动态.</definition>
+      <page>895</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠬᠰᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>САГСАЛЗУУЛАХ</cyrillic>
+      <definition>сагсалзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠭᠰᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сагсалзуулах</cyrillic>
+      <definition>сагсалзахын үйлдүүлэх хэв, шанам малгай сагсалзуулах .</definition>
+      <page>459</page>
+    </entry_item>
+  </entries>
+</entry>

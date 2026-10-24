@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S3264">
+  <head>
+    <unicode>ᠰᠢᠬᠠᠭᠣᠷᠭᠠᠳᠠᠬᠣ</unicode>
+    <transcript>siqaγurγadaqu</transcript>
+    <transcript2>sigagorgadago</transcript2>
+    <cyrillic>шахуургадах</cyrillic>
+  </head><derivatives>
+    <ref>S3265</ref>
+  
+    <ref>S3266</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠬᠠᠭᠤᠷᠭᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>шахуургадах</cyrillic>
+      <definition>〔动〕压，榨，压榨；注射.</definition>
+      <page>1626</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠬᠠᠭᠣᠷᠭᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>ШАХУУРГАДАХ</cyrillic>
+      <definition>нажимать, накачивать. </definition>
+      <page>0</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>шахуургадах</cyrillic>
+    <definition>komprimieren, verdichten</definition>
+    <page>383</page>
+  </entry_item>
+  </entries>
+</entry>

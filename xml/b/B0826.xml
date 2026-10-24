@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0826">
+  <head>
+    <unicode>ᠪᠠᠯᠢᠶᠠᠷᠲᠣᠬᠣ</unicode>
+    <transcript>baliyartuqu</transcript>
+    <transcript2>baliyardogo</transcript2>
+    <cyrillic>балиартах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0829</ref>
+    <ref>B0831</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠯᠢᠶᠠᠷᠲᠤᠬᠤ</unicode>
+      <cyrillic>балиартах</cyrillic>
+      <definition>〔动〕①变邋遢，变污秽；②变粗笨，变粗糙；变丑陋，变丑恶.</definition>
+      <page>123</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠯᠢᠶᠠᠷᠲᠣᠬᠣ</unicode>
+      <cyrillic>БАЛИАРТАХ</cyrillic>
+      <definition>1) загрязняться, испачкаться, пачкаться; 2) быть аляповатым, неизящным.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠯᠢᠶᠠᠷᠲᠤᠬᠤ</unicode>
+      <cyrillic>балиартах</cyrillic>
+      <definition>балиар болох, болхи байдал гаргах; нэг согтуу хүн балиартаж байв.</definition>
+      <page>71</page>
+    </entry_item>
+  </entries>
+</entry>

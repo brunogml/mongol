@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0210">
+  <head>
+    <unicode>ᠲᠠᠩᠭᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tangγaraγulqu</transcript>
+    <transcript2>danggaragolgo</transcript2>
+    <cyrillic>тангаруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T0209a</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠩᠭᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тангаруулах</cyrillic>
+      <definition>〔动〕тангарах 的使动态.</definition>
+      <page>1025</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠩᠭᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАНГАРУУЛАХ</cyrillic>
+      <definition>тангарах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠩᠭᠠᠷᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тангаруулах</cyrillic>
+      <definition>тангарахын үйлдүүлэх хэв.</definition>
+      <page>520</page>
+    </entry_item>
+  </entries>
+</entry>

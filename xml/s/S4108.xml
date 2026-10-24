@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4108">
+  <head>
+    <unicode>ᠰᠢᠮᠠᠷᠭᠠᠯᠠᠬᠣ</unicode>
+    <transcript>simarγalaqu</transcript>
+    <transcript2>simargalago</transcript2>
+    <cyrillic>шамаргалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S4109</ref>
+    <ref>S4110</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠮᠠᠷᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>шамаргалах</cyrillic>
+      <definition>〔动〕下霰，降霰；（春秋季暴风中）下湿雪，风雪交加.</definition>
+      <page>1616</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠮᠠᠷᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ШАМАРГАЛАХ</cyrillic>
+      <definition>идти (о мокром снеге), мести (о снеге, метели). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шамаргалах</cyrillic>
+      <definition>Met graupeln</definition>
+      <page>379</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠮᠠᠷᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>шамаргалах</cyrillic>
+      <definition>шамарга цас орох.</definition>
+      <page>835</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2341">
+  <head>
+    <unicode>ᠪᠢᠯᠳᠠᠣᠷᠬᠠᠬᠣ</unicode>
+    <transcript>bildaurqaqu</transcript>
+    <transcript2>bildaorgago</transcript2>
+    <cyrillic>бялдуурхах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B2342</ref>
+  </derivatives>
+  <see_also>
+    <ref>B2349</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠢᠯᠳᠠᠣᠷᠬᠠᠬᠣ</unicode>
+      <uighur>bildaurqaqu</uighur>
+      <transcript>BILDAURXA-</transcript>
+      <definition>See bildaγurxa-</definition>
+      <page>104</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠢᠯᠳᠠᠣᠷᠬᠠᠬᠤ ~ ᠪᠢᠯᠳᠣᠣᠷᠬᠠᠬᠤ</unicode>
+      <definition>user de flatteries à l'égard de qn.. s'insinuer dans les bonnes graces de qu., chercher à se faire aimer.</definition>
+      <page>1145</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠢᠯᠳᠠᠣᠷᠬᠠᠬᠣ</unicode>
+      <cyrillic>БЯЛДУУРХАХ</cyrillic>
+      <definition>льстить, подлизываться.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠢᠯᠳᠠᠤᠷᠬᠠᠬᠤ</unicode>
+      <cyrillic>бялдуурхах</cyrillic>
+      <definition>биеэ ялбагайхан болгож хууран инээн бусдад нийлүүлэн явах.</definition>
+      <page>125</page>
+    </entry_item>
+  </entries>
+</entry>

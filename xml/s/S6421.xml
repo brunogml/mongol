@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6421">
+  <head>
+    <unicode>ᠰᠥᠢᠳᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>süidlegülkü</transcript>
+    <transcript2>söidlegölgö</transcript2>
+    <cyrillic>сүйдлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S6420</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠦᠢᠳᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сүйдлүүлэх</cyrillic>
+      <definition>〔动〕①сүйдлэх 的使动态；②意同 сүйдлэгдэх.</definition>
+      <page>971</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠥᠢᠳᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>СҮЙДЛҮҮЛЭХ</cyrillic>
+      <definition>сүйдлэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠦᠢᠳᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сүйдлүүлэх</cyrillic>
+      <definition>1. сүйдлэхийн үйлдүүлэх хэв;2. сүйдлэгдэх.</definition>
+      <page>494</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1043">
+  <head>
+    <unicode>ᠥᠯᠲᠥᠰᠥᠷᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ültüsüregülkü</transcript>
+    <transcript2>öldösöregölgö</transcript2>
+    <cyrillic>үлтэсрүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>O1042</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠦᠯᠲᠦᠰᠦᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>үлтэсрүүлэх</cyrillic>
+      <definition>〔动〕үлтэсрэх 的使动态.</definition>
+      <page>1237</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠯᠲᠥᠰᠥᠷᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ҮЛТЭСРҮҮЛЭХ</cyrillic>
+      <definition>үлтэсрэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠦᠯᠲᠦᠰᠦᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>үлтэсрүүлэх</cyrillic>
+      <definition>үлтэсрэхийн үйлдүүлэх хэв.</definition>
+      <page>620</page>
+    </entry_item>
+  </entries>
+</entry>

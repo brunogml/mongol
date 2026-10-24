@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B3995">
+  <head>
+    <unicode>ᠪᠣᠷᠭᠠᠰᠣ</unicode>
+    <transcript>burγasu</transcript>
+    <transcript2>borgaso</transcript2>
+    <cyrillic>бургаас</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B3996</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠣᠷᠭᠠᠰᠣ ~ ᠪᠤᠷᠭᠠᠰᠤᠨ</unicode>
+      <uighur>burγasu - burγasun</uighur>
+      <cyrillic>бургаас(ан), бургас</cyrillic>
+      <transcript>BURΓASU(N)</transcript>
+      <definition>n. Willow, osier; willow branches; twigs of willow; brushwood.</definition>
+      <page>137</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠤᠷᠭᠠᠰᠤᠨ ᠤ ᠭᠥᠯᠦᠭᠡ</unicode>
+          <transcript>--n u gølyge</transcript>
+          <definition>Shoots of a willow tree; pussy-willow buds.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠤᠷᠭᠠᠰᠤᠨ ᠤ ᠤᠩᠭᠠᠷᠢᠯ</unicode>
+          <transcript>--n u ungγaril</transcript>
+          <definition>Catkins of willow.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠤᠷᠭᠠᠰᠤᠨ ᠬᠠᠰᠢᠶ᠎ᠠ</unicode>
+          <transcript>--n xasij-a</transcript>
+          <definition>Fence made of osiers</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠣᠷᠤ ᠪᠤᠷᠭᠠᠰᠤ</unicode>
+          <transcript>boru --</transcript>
+          <definition>Elm tree.</definition>
+        </example>
+        <example>
+          <unicode>ᠤᠯᠠᠭᠠᠨ ᠪᠤᠷᠭᠠᠰᠤ</unicode>
+          <transcript>ulaγan --</transcript>
+          <definition>Red willow</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠤᠷᠭᠠᠰᠤᠨ ~ ᠪᠤᠷᠭᠠᠰᠤ</unicode>
+      <definition>osier. saule. boursault (salix arenaria); 2 branches de saules, des broussailles.</definition>
+      <page>1221</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠯᠠᠭᠠᠨ ᠪᠤᠷᠭᠠᠰᠤᠨ</unicode>
+          <definition>saule rouge</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠡᠶᠢᠯᠵᠦᠷ ᠪᠤᠷᠭᠠᠰᠤᠨ</unicode>
+          <definition>jeune saule et flexible</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠤᠷᠤ ᠪᠤᠷᠭᠠᠰᠤᠨ</unicode>
+          <definition>ormeau, ypréau</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠤᠷᠭᠠᠰᠤᠨ ᠠᠳᠠᠷ</unicode>
+          <definition>la couverture qu'on met sur les maisons, faite avec des espèces de nattes ou de branches d'osier</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠤᠷᠭᠠᠰᠤᠨ ᠨᠢᠷᠤᠭᠤᠨ</unicode>
+          <definition>poutre d'osier</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠤᠷᠭᠠᠰᠤᠨ ᠤ ᠺᠥᠯᠦᠭᠡ</unicode>
+          <definition>bourgeons sur l'osier</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠣᠯᠵᠠᠭᠠᠨ ᠪᠤᠷᠭᠠᠰᠤᠨ</unicode>
+          <definition>des brousailles, branches de saule</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠪᠣᠷᠭᠠᠰᠣ</unicode>
+      <uighur>burγasun</uighur>
+      <definition>der Weidenbaum, die Sandweiweide, die Strauchweide.</definition>
+      <page>116</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠪᠣᠷᠭᠠᠰᠣ</unicode>
+      <uighur>burγasu</uighur>
+      <definition>n. The willow.</definition>
+      <page>462</page>
+      <examples>
+        <example>
+          <uighur>burγasun adar</uighur>
+          <definition>n. A hedge made from willow branches</definition>
+        </example>
+        <example>
+          <uighur>burγasun-u kölüge</uighur>
+          <definition>n. Willow catkin.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠷᠭᠠᠰᠣ</unicode>
+      <cyrillic>БУРГААС(АН)</cyrillic>
+      <definition>бургас(ан)-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠷᠭᠠᠰᠣ</unicode>
+      <cyrillic>БУРГАС(АН)</cyrillic>
+      <definition>1. 1) ург. ива, верба; ивняк, тальник; аржил бургас ург. вяз; арц бургас ург. ива крупнолиственная козья Бредина; арчлан бургас ург. ива крупнолистная; бор бургас ург. ива сизая крупнолистная; найлзуур бургас ург. ивняк молодой, тальник; улаан бургас ург. красная верба, желтолозник; хонин бургас ург. ива сизая; ямаан бургас ург. ива ломкая, верба; 2) ивовый прутик, хворостина; 2. ивовый, вербовый, тальниковый; бургасан адар тальниковая плетёнка (подбиваемая под стропилами крыши); бургасан саваа ивовый прут; бургасан хашаа ивовый плетень; бургасан шугуй ивовая заросль, ивняк.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠷᠭᠠᠰᠣ</unicode>
+      <cyrillic>БУРГАСНЫ</cyrillic>
+      <definition>бургас(н)-ы харьяал., ивовый; бургасны гөлөг почки (на иве), барашки (на вербе); бургасны навчич цох шавж. жук-листоед ивовый малый; бургасны үндэсний ямаан цох шавж. жук-усач ивовый корневой; бургасны хүр эрвээхий шавж. шелкопряд, волнянка ивовая.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бургаас</cyrillic>
+      <definition>= бургас[ан]</definition>
+      <page>62</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠷᠭᠠᠰᠤ᠊ᠨ</unicode>
+      <cyrillic>бургаас</cyrillic>
+      <definition>бургас.</definition>
+      <page>108</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠷᠭᠠᠰᠤ</unicode>
+      <cyrillic>бургас</cyrillic>
+      <definition>&lt;ургамал&gt;гулзгар уяхан мөчиртэй, нарийн навчтай, бутлан ургах мод; бургасан хана; бургасны мөчих; бургасан ой шугуй; бургасан дотроос гөрөөс гарч ирэв.</definition>
+      <page>108</page>
+    </entry_item>
+  </entries>
+</entry>

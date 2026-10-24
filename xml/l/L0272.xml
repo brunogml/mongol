@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="L0272">
+  <head>
+    <unicode>ᠯᠢᠨᠴᠢᠳᠠᠺᠥ</unicode>
+    <transcript>linčidekü</transcript>
+    <transcript2>lincidegö</transcript2>
+    <cyrillic>линчдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>L0271</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠯᠢᠨᠴᠢᠳᠬᠦ</unicode>
+      <cyrillic>линчдэх</cyrillic>
+      <definition>〔动〕处以私刑，私刑拷打.</definition>
+      <page>645</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠯᠢᠨᠴᠢᠳᠠᠺᠥ</unicode>
+      <cyrillic>ЛИНЧДЭХ</cyrillic>
+      <definition>линчевать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠯᠢᠨᠴᠢᠳᠬᠦ</unicode>
+      <cyrillic>линчдэх</cyrillic>
+      <definition>инцдэх.</definition>
+      <page>321</page>
+    </entry_item>
+  </entries>
+</entry>

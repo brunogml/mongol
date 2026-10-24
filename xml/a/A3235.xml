@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A3235">
+  <head>
+    <unicode>ᠠᠵᠢᠬᠳᠠᠬᠣ</unicode>
+    <transcript>aǰiγdaqu</transcript>
+    <transcript2>acigdago</transcript2>
+    <cyrillic>ажигдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>A3225</ref>
+  </related_to>
+  <see_also>
+    <ref>A3234</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠵᠢᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>ажигдах</cyrillic>
+      <definition>〔动〕ажих 的被动态.</definition>
+      <page>26</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠵᠢᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>ажигдах</cyrillic>
+      <definition>ажихын үйлдэгдэх хэв.</definition>
+      <page>24</page>
+    </entry_item>
+  </entries>
+</entry>

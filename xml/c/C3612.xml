@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3612">
+  <head>
+    <unicode>ᠴᠥᠮᠥᠺᠥᠯᠺᠥ</unicode>
+    <transcript>čömügülkü</transcript>
+    <transcript2>cömögölgö</transcript2>
+    <cyrillic>цөмүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>C3611</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠥᠮᠥᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>цөмүүлэх</cyrillic>
+      <definition>〔动〕цөмөх 的使动态.</definition>
+      <page>1543</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠥᠮᠥᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЦӨМҮҮЛЭХ</cyrillic>
+      <definition>цөмөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цөмүүлэх</cyrillic>
+      <definition>Kaus von цөмөх</definition>
+      <page>359</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠥᠮᠥᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>цөмүүлэх</cyrillic>
+      <definition>цөмөхийн үйлдүүлэх хэв.</definition>
+      <page>795</page>
+    </entry_item>
+  </entries>
+</entry>

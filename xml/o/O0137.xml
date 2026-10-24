@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O0137">
+  <head>
+    <unicode>ᠥᠨᠠᠰᠥᠯᠠᠺᠥ</unicode>
+    <transcript>ünesülekü</transcript>
+    <transcript2>önesölegö</transcript2>
+    <cyrillic>үнслэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>O0138</ref>
+    <ref>O0136</ref>
+  </derivatives>
+  <see_also>
+    <ref>O0207</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠨᠠᠰᠥᠯᠠᠺᠥ</unicode>
+      <cyrillic>ҮНСЛЭХ</cyrillic>
+      <definition>I үнсдэх-ийг үз., натирать золою. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠨᠠᠰᠥᠯᠠᠺᠥ</unicode>
+      <cyrillic>ҮНЭСЛЭХ</cyrillic>
+      <definition>үнслэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠦᠨᠡᠰᠦᠯᠡᠬᠦ</unicode>
+      <cyrillic>үнслэх /1</cyrillic>
+      <definition>үнсдэх.</definition>
+      <page>622</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠦᠨᠡᠰᠦᠯᠡᠬᠦ</unicode>
+      <cyrillic>үнэслэх</cyrillic>
+      <definition>үнсдэх.</definition>
+      <page>624</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C1217">
+  <head>
+    <unicode>ᠴᠠᠺᠳᠠᠺᠠᠷ</unicode>
+    <transcript>čegdeger</transcript>
+    <transcript2>cegdeger</transcript2>
+    <cyrillic>цэгдгэр</cyrillic>
+  </head><related_to>
+    <ref>C1190</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠺᠳᠠᠺᠠᠷ</unicode>
+      <uighur>čegdeger</uighur>
+      <cyrillic>цэгдгэр</cyrillic>
+      <transcript>CEGDEGER</transcript>
+      <definition>adj. Prominent, protuberant.</definition>
+      <page>169</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠡᠪᠡᠯᠢ ᠴᠠᠺᠳᠠᠺᠠᠷ</unicode>
+          <transcript>kebeli --</transcript>
+          <definition>Protruding belly.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠡᠺᠳᠡᠺᠡᠷ</unicode>
+      <definition>proéminent, protubérant.</definition>
+      <page>2127</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠡᠪᠡᠯᠢ ᠴᠡᠭᠳᠡᠭᠡᠷ</unicode>
+          <definition>ventre proéminent</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠭᠳᠡᠭᠡᠷ</unicode>
+      <cyrillic>цэгдгэр</cyrillic>
+      <definition>〔形〕突出的，突起的，杰出的，隆起的.</definition>
+      <page>1561</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠺᠳᠠᠺᠠᠷ</unicode>
+      <cyrillic>ЦЭГДГЭР</cyrillic>
+      <definition>выдающийся вперёд, выпячивающийся, торчащий вперёд, пузатый.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

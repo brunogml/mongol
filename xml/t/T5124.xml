@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5124">
+  <head>
+    <unicode>ᠳᠣᠣᠭᠣᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>douγurdaγulqu</transcript>
+    <transcript2>doogordagolgo</transcript2>
+    <cyrillic>доогуурдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T5122</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠣᠭᠤᠤᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>доогуурдуулах</cyrillic>
+      <definition>〔动〕доогуурдах 的使动态.</definition>
+      <page>417</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠣᠭᠣᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДООГУУРДУУЛАХ</cyrillic>
+      <definition>доогуурдах-ын үйлдүүл., принижать, занижать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠣᠣᠭᠤᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>доогуурдуулах</cyrillic>
+      <definition>доогуурдахын үйлдүүлэх хэв.</definition>
+      <page>200</page>
+    </entry_item>
+  </entries>
+</entry>

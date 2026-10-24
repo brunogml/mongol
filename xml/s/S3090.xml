@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3090">
+  <head>
+    <unicode>ᠰᠢᠨᠣᠮᠠᠬᠠᠢ</unicode>
+    <transcript>sinumaqai</transcript>
+    <transcript2>sinomagai</transcript2>
+    <cyrillic>шунамхай</cyrillic>
+  </head>
+  <see_also>
+    <ref>S3091</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠨᠤᠮᠠᠬᠠᠢ</unicode>
+      <cyrillic>шунамхай</cyrillic>
+      <definition>〔形〕参见 шунахай.</definition>
+      <page>1660</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠨᠣᠮᠠᠬᠠᠢ</unicode>
+      <cyrillic>ШУНАМХАЙ</cyrillic>
+      <definition>алчный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠨᠤᠮᠠᠬᠠᠢ</unicode>
+      <cyrillic>шунамхай</cyrillic>
+      <definition>шунахай, хэт шуналтай.</definition>
+      <page>859</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1209">
+  <head>
+    <unicode>ᠱᠠᠯᠴᠢᠺᠢᠨᠠᠬᠣ</unicode>
+    <transcript>šalčiginaqu</transcript>
+    <transcript2>salciginago</transcript2>
+    <cyrillic>шалчигнах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1210</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠯᠴᠢᠭᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>шалчигнах</cyrillic>
+      <definition>〔动〕（在泥水中行走）发出扑哧扑哧声，发出哗啦哗啦声.</definition>
+      <page>1616</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠯᠴᠢᠺᠢᠨᠠᠬᠣ</unicode>
+      <cyrillic>ШАЛЧИГНАХ</cyrillic>
+      <definition>1) хлюпать (о грязи под ногами); 2) шалчганах 2)— ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шалчигнах</cyrillic>
+      <definition>Schlamm u. ä. patschen</definition>
+      <page>379</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠯᠴᠢᠭᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>шалчигнах</cyrillic>
+      <definition>ус, намаг, шавартай газар явахад шалчиг шалчиг хийх.</definition>
+      <page>835</page>
+    </entry_item>
+  </entries>
+</entry>

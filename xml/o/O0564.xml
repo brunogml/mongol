@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O0564">
+  <head>
+    <unicode>ᠥᠰᠢᠶ ᠡ</unicode>
+    <transcript>ösiy-e</transcript>
+    <transcript2>ösiye</transcript2>
+    <cyrillic>өшөө</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠥᠰᠢᠶ᠎ᠡ</unicode>
+      <uighur>ösiy-e</uighur>
+      <cyrillic>өшөө</cyrillic>
+      <transcript>ØSIJ-E</transcript>
+      <definition>n. Animosity, hostility, hatred; vengeance, revenge.</definition>
+      <page>645</page>
+      <examples>
+        <example>
+          <unicode>ᠥᠰᠢᠶ᠎ᠡ ᠠᠪᠬᠤ</unicode>
+          <transcript>-- abxu</transcript>
+          <definition>To avenge.</definition>
+        </example>
+        <example>
+          <unicode>ᠥᠰᠢᠶ᠎ᠡ ᠬᠣᠷᠤᠰᠬᠠᠯ</unicode>
+          <transcript>-- xorusxal</transcript>
+          <definition>Animosity, hostility, hatred</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠦᠰᠢᠶ᠎ᠡ ~ ᠦᠰ</unicode>
+      <definition>inimitié, haine, animosité, rancune, une grande colère, vengeance</definition>
+      <page>514</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠥᠰᠢᠶᠠ</unicode>
+      <uighur>üsiy-e</uighur>
+      <definition>der Hass, die Rache, Bosheit, Feindschaft,</definition>
+      <page>77</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠥᠰᠢᠶᠠ</unicode>
+      <uighur>üsiy-e</uighur>
+      <definition>(ö)n. Hatred.</definition>
+      <page>308</page>
+      <examples>
+        <example>
+          <unicode>ᠦᠰᠢᠶ᠎ᠡ ᠠᠪᠬᠤ</unicode>
+          <uighur>üsiy-e abqu</uighur>
+          <definition>v.t. To avenge.</definition>
+        </example>
+        <example>
+          <unicode>ᠦᠰᠢᠶ᠎ᠡ ᠪᠤᠯᠤᠯᠴᠠᠬᠤ</unicode>
+          <uighur>üsiy-e bululčaqu</uighur>
+          <definition>To become enemies. To get hateful to each other.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠰᠢᠶᠠ</unicode>
+      <cyrillic>ӨШӨӨ(Н)</cyrillic>
+      <definition>месть; злоба; вражда; ненависть; отместка; цусан өшөө кровная месть; эвлэршгүй өшөө непримиримая вражда; өшөө авах / өшөө хариулах а) мстить, отомстить; б) сводить счёты; в) сведение личных счётов; өшөө авагч / өшөө хариулагч мститель; партизанууд ардын өшөө авагчид мөн партизаны – народные мстители; өшөө барих / өшөө санах думать о мщении, питать ненависть, злобу; жаждать мщения; өшөө зангидах / өшөө өвөрлөх злопамятствовать, затаить злобу; өшөө өшөөгөөр нэхдэггүй зүйр. месть не преследуется местью; өшөө хонзон хорш. личные счёты; месть; өшөө хорсол хорш. ненависть; хоорондоо өшөөтэй болох взаимно враждовать, ненавидеть друг друга.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠰᠢᠶ᠎ᠡ᠊ᠨ</unicode>
+      <cyrillic>өшөө</cyrillic>
+      <definition>өвөрлөсөн занал, хадгалсан хорсол, өс; өшөө санаж явах;өшөө хонзон&lt;хорш&gt;.</definition>
+      <page>449</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>O0565</ref>
+    <ref>O0566</ref>
+    <ref>O0567</ref>
+    <ref>O0570</ref>
+    <ref>O0572</ref>
+    <ref>O0573</ref>
+    <ref>O0574</ref>
+    <ref>O0579</ref>
+  </derivatives>
+</entry>

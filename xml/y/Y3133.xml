@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3133">
+  <head>
+    <unicode>ᠵᠢᠮᠢᠰᠲᠡᠢ</unicode>
+    <transcript>ǰimistei</transcript>
+    <transcript2>yimisdei</transcript2>
+    <cyrillic>жимстэй</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠢᠮᠢᠰᠲᠡᠢ</unicode>
+      <uighur>ǰimisdei</uighur>
+      <cyrillic>жимстэй</cyrillic>
+      <transcript>ZIMISTEI</transcript>
+      <definition>See zimisty.</definition>
+      <page>1057</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠮᠢᠰ ᠲᠡᠢ</unicode>
+      <cyrillic>жимстэй</cyrillic>
+      <definition>〔形〕参见 жимст.</definition>
+      <page>510</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠮᠢᠰᠲᠡᠢ</unicode>
+      <cyrillic>ЖИМСТЭЙ</cyrillic>
+      <definition>фруктовый, с фруктами; жимст-ийг үз., жимстэй агшаасан будаа каша манная с фруктами; жимстэй бут ягодник. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠮᠢᠰᠲᠡᠢ</unicode>
+      <cyrillic>жимстэй</cyrillic>
+      <definition>жимс бүхий, жимс элбэгтэй.</definition>
+      <page>247</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Y3129</ref>
+  </related_to>
+  <see_also>
+    <ref>Y3134</ref>
+  </see_also>
+</entry>

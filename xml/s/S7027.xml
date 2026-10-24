@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S7027">
+  <head>
+    <unicode>ᠰᠥᠷᠰᠢᠺᠥᠯᠺᠥ</unicode>
+    <transcript>sürsigülkü</transcript>
+    <transcript2>sörsigölgö</transcript2>
+    <cyrillic>сүршүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S7025</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠦᠷᠰᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сүршүүлэх</cyrillic>
+      <definition>〔动〕сүрших 的使动态.</definition>
+      <page>975</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠥᠷᠰᠢᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>СҮРШҮҮЛЭХ</cyrillic>
+      <definition>сүрших-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠦᠷᠰᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сүршүүлэх</cyrillic>
+      <definition>сүршихийн үйлдүүлэх хэв.</definition>
+      <page>497</page>
+    </entry_item>
+  </entries>
+</entry>

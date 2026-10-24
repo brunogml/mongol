@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4004">
+  <head>
+    <unicode>ᠪᠣᠷᠭᠣᠬᠣ</unicode>
+    <transcript>borγuqu</transcript>
+    <transcript2>borgogo</transcript2>
+    <cyrillic>боргох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B4006</ref>
+    <ref>B4007</ref>
+    <ref>B4013</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠣᠷᠭᠣᠬᠤ</unicode>
+      <cyrillic>боргох</cyrillic>
+      <definition>〔动〕拖延，阻止，阻难，纠缠；狗缠住人咬.</definition>
+      <page>176</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠷᠭᠣᠬᠣ</unicode>
+      <cyrillic>БОРГОХ</cyrillic>
+      <definition>упорно лаять, окружать с лаем (о собаках).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>боргох</cyrillic>
+      <definition>anhaltend bellen</definition>
+      <page>56</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠣᠷᠭᠣᠬᠤ</unicode>
+      <cyrillic>боргох</cyrillic>
+      <definition>хоргоох, нохой ээрэн хоргоож хуцах; боргодог нохой.</definition>
+      <page>93</page>
+    </entry_item>
+  </entries>
+</entry>

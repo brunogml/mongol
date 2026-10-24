@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q3306">
+  <head>
+    <unicode>ᠬᠠᠷᠠᠮᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>qaramlaγulqu</transcript>
+    <transcript2>garamlagolgo</transcript2>
+    <cyrillic>харамлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q3305</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠷᠠᠮᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>харамлуулах</cyrillic>
+      <definition>〔动〕харамлах 的使动态.</definition>
+      <page>1310</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠷᠠᠮᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХАРАМЛУУЛАХ</cyrillic>
+      <definition>харамлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>харамлуулах</cyrillic>
+      <definition>Kaus von харамлах</definition>
+      <page>294</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠷᠠᠮᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>харамлуулах</cyrillic>
+      <definition>харамлахын үйлдүүлэх хэв.</definition>
+      <page>663</page>
+    </entry_item>
+  </entries>
+</entry>

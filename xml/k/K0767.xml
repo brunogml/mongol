@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K0767">
+  <head>
+    <unicode>ᠺᠠᠯᠪᠠᠷᠢᠰᠢ</unicode>
+    <transcript>kelberisi</transcript>
+    <transcript2>gelberisi</transcript2>
+    <cyrillic>хэлбэрш</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠠᠯᠪᠠᠷᠢᠰᠢ</unicode>
+      <uighur>kelberisi</uighur>
+      <cyrillic>хэлбэрш</cyrillic>
+      <transcript>KELBERISI</transcript>
+      <page>447</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠠᠯᠪᠠᠷᠢᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Immutable, unchangeable, constant.</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠠᠯᠪᠠᠷᠢᠰᠢ ᠦᠭᠡᠢ ᠪᠠᠲᠤ</unicode>
+          <transcript>-- ygei batu</transcript>
+          <definition> Unshakable.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠡᠯᠪᠡᠷᠢᠰᠢ ᠦᠭᠡᠢ</unicode>
+      <definition>immuable, qui n&apos;est pas sujet au changement, inaltérable, constant</definition>
+      <page>2475</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠯᠪᠠᠷᠢᠰᠢ</unicode>
+      <cyrillic>ХЭЛБЭРШГҮЙ</cyrillic>
+      <definition>неуклонный; непоколебимый; неизменный; хэлбэршгүй бат найрамдал непоколебимая дружба. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

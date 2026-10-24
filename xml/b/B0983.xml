@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0983">
+  <head>
+    <unicode>ᠫᠠᠮᠪᠠᠭᠠᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>pambaγardaγulqu</transcript>
+    <transcript2>pambagardagolgo</transcript2>
+    <cyrillic>памбагардуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B0980</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠫᠠᠮᠪᠠᠭᠠᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>памбагардуулах</cyrillic>
+      <definition>〔动〕памбагардах 的使动态.</definition>
+      <page>871</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠫᠠᠮᠪᠠᠭᠠᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ПАМБАГАРДУУЛАХ</cyrillic>
+      <definition>памбагардах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠫᠠᠮᠪᠠᠭᠠᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>памбагардуулах</cyrillic>
+      <definition>памбагардахын үйлдүүлэх хэв.</definition>
+      <page>450</page>
+    </entry_item>
+  </entries>
+</entry>

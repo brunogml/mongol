@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1341">
+  <head>
+    <unicode>ᠨᠢᠬ</unicode>
+    <transcript>niq</transcript>
+    <transcript2>nig</transcript2>
+    <cyrillic>ниг</cyrillic>
+  </head>
+  <see_also>
+    <ref>N1757</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠨᠢᠬ</unicode>
+      <uighur>niq</uighur>
+      <cyrillic>няг - ниг</cyrillic>
+      <transcript>NIΓ</transcript>
+      <definition>adj. and adv. Solid[ly], dense[ly], condensed.</definition>
+      <page>578</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠢᠬ ᠤᠷᠭᠤᠭᠰᠠᠨ ᠪᠤᠷᠭᠠᠰᠤ</unicode>
+          <transcript>-- urγuγsan burγasu</transcript>
+          <definition> Dense thicket.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠨᠢᠬ</unicode>
+      <definition>serré, condensé, épais, touffu: 2 sans interruption, de suite.</definition>
+      <page>667</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠢᠬ ᠦᠭᠡᠰᠢ</unicode>
+          <definition>des filets trop serrés</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠢᠬ ᠰᠤᠷᠮᠤᠰᠤᠨ</unicode>
+          <definition>puapières épaissent</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠨᠢᠬ</unicode>
+      <uighur>niq</uighur>
+      <definition>dicht.</definition>
+      <page>88</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠨᠢᠬ</unicode>
+      <uighur>niq</uighur>
+      <definition>adj. Thick, dense. Compact.</definition>
+      <page>350</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠢᠬ</unicode>
+      <cyrillic>НЯГ</cyrillic>
+      <definition>1. густота; 2. густой; плотный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠢᠭ</unicode>
+      <cyrillic>няг</cyrillic>
+      <definition>чигжүү, нягт: няг ургасан шугуй; няг нэхээстэй бараа.</definition>
+      <page>401</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5307">
+  <head>
+    <unicode>ᠰᠣᠭᠣᠯᠳᠣᠷᠭᠠᠯᠠᠬᠣ</unicode>
+    <transcript>suγuldurγalaqu</transcript>
+    <transcript2>sogoldorgalago</transcript2>
+    <cyrillic>сугалдрагалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5310</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠭᠤᠯᠳᠤᠷᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>сугалдрагалах</cyrillic>
+      <definition>〔动〕单臂袒露（一只手抽出衣袖）.</definition>
+      <page>955</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠭᠣᠯᠳᠣᠷᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>СУГАЛДРАГАЛАХ</cyrillic>
+      <definition>вынуть руку из рукава дЇли. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сугалдрагалах</cyrillic>
+      <definition>einen Arm aus dem Kleidungsstück [heraus]ziehen</definition>
+      <page>203</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠭᠤᠯᠳᠤᠷᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>сугалдрагалах</cyrillic>
+      <definition>дээлийн өрөөсөн ханцуйнаас гараа сугалж гаргах; халуунд сугалдрагалан явав.</definition>
+      <page>486</page>
+    </entry_item>
+  </entries>
+</entry>

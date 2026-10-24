@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T3711">
+  <head>
+    <unicode>ᠲᠠᠰᠥᠯᠺᠥ</unicode>
+    <transcript>tesülkü</transcript>
+    <transcript2>desölgö</transcript2>
+    <cyrillic>тэслэх</cyrillic>
+  </head><derivatives>
+    <ref>T3707</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠰᠥᠯᠺᠥ</unicode>
+      <uighur>tesülkü</uighur>
+      <cyrillic>тэслэх</cyrillic>
+      <transcript>TESYL-</transcript>
+      <definition>v.t. To smash, break, split; to poke, thrust through</definition>
+      <page>808</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠢᠳᠦᠨ ᠢ ᠲᠠᠰᠥᠯᠺᠥ</unicode>
+          <transcript>nidyn i --ky</transcript>
+          <definition> To gouge out an eye.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠡᠰᠦᠯᠺᠦ</unicode>
+      <definition>casser, briser (une vitre), crever (les yeux).</definition>
+      <page>1711</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠢᠳᠦᠨ ᠲᠡᠷᠢᠭᠦᠲᠡᠨ ᠢ ᠳᠡᠰᠦᠯᠺᠦ</unicode>
+          <definition>crever le yeux, etc.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠰᠥᠯᠺᠥ</unicode>
+      <uighur>desülkü</uighur>
+      <definition>durchschlagen (z. B. eine Glassscheihe, eine Blase u. s. w.),</definition>
+      <page>245</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠰᠥᠯᠺᠥ</unicode>
+      <uighur>tesülkü</uighur>
+      <definition>v.i. To pierce, to open (e.g. a pane of glass, a blister etc.).</definition>
+      <page>972</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠡᠰᠦᠯᠬᠦ</unicode>
+      <cyrillic>тэслэх</cyrillic>
+      <definition>〔动〕炸毁，爆破，爆炸，使爆发，引爆：~ ажил 爆破工作；~ цэнэг 爆破药；~ шашка 爆破药块；тэсэлдэг шижим 缓燃导火线.</definition>
+      <page>1165</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠰᠥᠯᠺᠥ</unicode>
+      <cyrillic>ТЭСЛЭХ</cyrillic>
+      <definition>взрывать; бөмбөг тэслэх взорвать бомбу. </definition>
+      <page>0</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>тэслэх</cyrillic>
+    <definition>sprengen; ~ цэнэг Sprengladung f</definition>
+    <page>251</page>
+  </entry_item>
+  </entries>
+</entry>

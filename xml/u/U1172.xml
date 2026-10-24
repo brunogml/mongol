@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1172">
+  <head>
+    <unicode>ᠣᠪᠯᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>oblaγdaqu</transcript>
+    <transcript2>oblagdago</transcript2>
+    <cyrillic>овлогдох</cyrillic>
+  </head>
+  <related_to>
+    <ref>U1170</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠪᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>овлогдох</cyrillic>
+      <definition>〔动〕овлох 的被动态.</definition>
+      <page>786</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠪᠯᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ОВЛОГДОХ</cyrillic>
+      <definition>овлох-ын үйлдэгд., быть обманутым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠪᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>овлогдох</cyrillic>
+      <definition>овлохын үйлдэх хэв, мэхлэгдэх, хууртагдах, залилагдах.</definition>
+      <page>405</page>
+    </entry_item>
+  </entries>
+</entry>

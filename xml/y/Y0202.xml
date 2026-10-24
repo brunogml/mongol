@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0202">
+  <head>
+    <unicode>ᠵᠠᠩᠰᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰangsilaγulqu</transcript>
+    <transcript2>yangsilagolgo</transcript2>
+    <cyrillic>заншлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y0201</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠩᠰᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>заншлуулах</cyrillic>
+      <definition>〔动〕①заншлах 的使动态；②意同 заншлагдах.</definition>
+      <page>545</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠩᠰᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗАНШЛУУЛАХ</cyrillic>
+      <definition>заншлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠩᠰᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>заншлуулах</cyrillic>
+      <definition>заншлахын үйлдүүлэх хэв, заншлахад хүрүүлэх.</definition>
+      <page>267</page>
+    </entry_item>
+  </entries>
+</entry>

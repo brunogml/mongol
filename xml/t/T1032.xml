@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1032">
+  <head>
+    <unicode>ᠳᠠᠪᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>dabaraγulqu</transcript>
+    <transcript2>dabaragolgo</transcript2>
+    <cyrillic>давруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T1023</ref>
+  </related_to>
+  <see_also>
+    <ref>T1031</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠪᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>давруулах</cyrillic>
+      <definition>〔动〕даврах 的使动态.</definition>
+      <page>366</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠪᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДАВРУУЛАХ</cyrillic>
+      <definition>даврах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>давруулах</cyrillic>
+      <definition>Kaus von даврах</definition>
+      <page>87</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠪᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>давруулах</cyrillic>
+      <definition>даврахын үйлдүүлэх хэв.</definition>
+      <page>176</page>
+    </entry_item>
+  </entries>
+</entry>

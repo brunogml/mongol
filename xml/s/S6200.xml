@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6200">
+  <head>
+    <unicode>ᠱᠣᠷᠣᠳᠠᠬᠣ</unicode>
+    <transcript>šorudaqu</transcript>
+    <transcript2>sorodago</transcript2>
+    <cyrillic>шордох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6201</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠷᠣᠳᠠᠬᠣ</unicode>
+      <cyrillic>ШОРДОХ</cyrillic>
+      <definition>I 1) колоть, проколоть заострённой палочкой; 2) сажать на вертел. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠷᠣᠳᠠᠬᠣ</unicode>
+      <cyrillic>ШОРДОХ</cyrillic>
+      <definition>II идти, ехать впереди (в караване). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шордох</cyrillic>
+      <definition>= шорлох</definition>
+      <page>389</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠣᠷᠣᠳᠠᠬᠤ</unicode>
+      <cyrillic>шордох /1</cyrillic>
+      <definition>шороор хатгах сүлбэх.</definition>
+      <page>855</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠣᠷᠣᠳᠠᠬᠤ</unicode>
+      <cyrillic>шордох /2</cyrillic>
+      <definition>тэмээ тэргээр аялан явахад ачааг тэргүүлэн хөтөлж зам удирдан явах.</definition>
+      <page>855</page>
+    </entry_item>
+  </entries>
+</entry>

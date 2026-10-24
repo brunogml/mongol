@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="U1919">
+  <head>
+    <unicode>ᠣᠮᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>umaγanaqu</transcript>
+    <transcript2>omaganago</transcript2>
+    <cyrillic>умганах</cyrillic>
+  </head><derivatives>
+    <ref>U1920</ref>
+  
+    <ref>U1921</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠮᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>умганах</cyrillic>
+      <definition>〔动〕频频收缩，频频嘬口.</definition>
+      <page>1189</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠮᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>УМГАНАХ</cyrillic>
+      <definition>суживаться, стягиваться. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

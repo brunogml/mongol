@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5956">
+  <head>
+    <unicode>ᠲᠣᠭᠣᠷ</unicode>
+    <transcript>toγur</transcript>
+    <transcript2>dogor</transcript2>
+    <cyrillic>тоор</cyrillic>
+  </head>
+  <see_also>
+    <ref>T5955</ref>
+    <ref>T5957</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠭᠣᠷ</unicode>
+      <uighur>toγur</uighur>
+      <cyrillic>тоор</cyrillic>
+      <transcript>TOΓUR</transcript>
+      <definition>[= tour, tuur, Ch. t'ao-er] n. Peach</definition>
+      <page>817</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠭᠤᠷ ~ ᠳᠣᠤᠷ</unicode>
+      <definition>filet; treillis: 2 le pêcher (malum persicum],</definition>
+      <page>1812</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠤᠭᠤᠷ ᠤᠷᠢᠬᠠ</unicode>
+          <definition>attrape ou filet avec du crin pour prendre les oiseaux</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠤᠭᠤᠷ ᠤᠨ ᠮᠣᠳᠤᠨ ᠰᠡᠴᠡᠭᠯᠡᠮᠦᠢ</unicode>
+          <definition>les pêchers fleurissent</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠤᠭᠤᠷ ᠲᠠᠯᠪᠢᠬᠤ</unicode>
+          <definition>tendre les filets</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠣᠭᠣᠷ</unicode>
+      <uighur>duγur</uighur>
+      <definition>Netzwerk, geflochtenes Gatterwerk; eine Krücke zum Aufsitzen der Stossvögel; der Pfirsich.</definition>
+      <page>250</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠣᠭᠣᠷ</unicode>
+      <uighur>tuγur</uighur>
+      <definition>Network, plaited lattice-work. A stick for a falcon to rest on. The peach.</definition>
+      <page>990</page>
+      <examples>
+        <example>
+          <uighur>tuγur kölmi</uighur>
+          <definition>n. A fishing-net. Fowler's net.</definition>
+        </example>
+        <example>
+          <uighur>tuγur talbiqu</uighur>
+          <definition>To lay a net or a snare.</definition>
+        </example>
+        <example>
+          <uighur>tuγur-iyar birgükü</uighur>
+          <definition>To cover with net- or lattice-work.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠭᠣᠷ</unicode>
+      <cyrillic>тоор</cyrillic>
+      <definition>&lt;ургамал&gt;улаан шар өнгөтэй үсэрхэг арьстай, сайхан амттай нэг зүйл жимс, мөнхүү жимс ургасан мод; тоорын мод.</definition>
+      <page>542</page>
+    </entry_item>
+  </entries>
+</entry>

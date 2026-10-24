@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="U1277a">
+  <head>
+    <unicode>ᠣᠳ</unicode>
+    <transcript>ud</transcript>
+    <transcript2>od</transcript2>
+  </head><see_also>
+    <ref>U1277</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠳ</unicode>
+      <uighur>ud</uighur>
+      <cyrillic>үд</cyrillic>
+      <transcript>UD</transcript>
+      <definition>Plural suffix added to stems ending in consonants other than n.</definition>
+      <page>860</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠡᠦᠺᠡᠳ ᠎ᠣᠳ</unicode>
+          <transcript>keyked yd</transcript>
+          <definition> Children.</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠠᠯ ᠤᠳ</unicode>
+          <transcript>mal ud</transcript>
+          <definition> Domestic animals.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

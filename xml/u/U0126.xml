@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U0126">
+  <head>
+    <unicode>ᠣᠨᠢᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>oniγanaqu</transcript>
+    <transcript2>oniganago</transcript2>
+    <cyrillic>онигонох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U0127</ref>
+    <ref>U0128</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠨᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>онигонох</cyrillic>
+      <definition>〔动〕参见 онилзох.</definition>
+      <page>807</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠨᠢᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ОНИГОНОХ</cyrillic>
+      <definition>прищуриваться, щуриться; глядеть узкими глазами; ониволзох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠨᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>онигонох</cyrillic>
+      <definition>онигор юмны ониго ониго хөдлөх.</definition>
+      <page>417</page>
+    </entry_item>
+  </entries>
+</entry>

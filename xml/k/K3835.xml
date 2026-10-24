@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K3835">
+  <head>
+    <unicode>ᠺᠥᠳᠡᠺᠳᠡᠺᠥ</unicode>
+    <transcript>ködegdekü</transcript>
+    <transcript2>gödegdegö</transcript2>
+    <cyrillic>хөөдөгдөх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K3831</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠳᠡᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>хөөдөгдөх</cyrillic>
+      <definition>〔动〕хөөдөх 的被动态.</definition>
+      <page>1403</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠳᠡᠺᠳᠡᠺᠥ</unicode>
+      <cyrillic>ХӨӨДӨГДӨХ</cyrillic>
+      <definition>хөөдөх-ийн үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠳᠡᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>хөөдөгдөх</cyrillic>
+      <definition>хөөдөхийн үйлдэгдэх хэв.</definition>
+      <page>713</page>
+    </entry_item>
+  </entries>
+</entry>

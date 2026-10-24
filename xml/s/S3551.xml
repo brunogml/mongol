@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3551">
+  <head>
+    <unicode>ᠰᠢᠪᠠᠷᠢᠲᠥᠺᠥᠯᠺᠥ</unicode>
+    <transcript>siberitügülkü</transcript>
+    <transcript2>siberidögölgö</transcript2>
+    <cyrillic>шивэртүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S3550</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠪᠡᠷᠢᠲᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>шивэртүүлэх</cyrillic>
+      <definition>〔动〕шивэртэх 的使动态.</definition>
+      <page>1628</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠪᠠᠷᠢᠲᠥᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ШИВЭРТҮҮЛЭХ</cyrillic>
+      <definition>шивэртэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠪᠡᠷᠢᠲᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>шивэртүүлэх</cyrillic>
+      <definition>шивэртэхийн үйлдүүлэх хэв.</definition>
+      <page>843</page>
+    </entry_item>
+  </entries>
+</entry>

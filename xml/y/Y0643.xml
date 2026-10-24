@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0643">
+  <head>
+    <unicode>ᠵᠠᠬᠵᠢᠢᠬᠣ</unicode>
+    <transcript>ǰaqǰiiqu</transcript>
+    <transcript2>yagciigo</transcript2>
+    <cyrillic>жагжийх</cyrillic>
+  </head>
+  <see_also>
+    <ref>Y0644</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠭᠵᠠᠢᠬᠤ</unicode>
+      <cyrillic>жагжийх</cyrillic>
+      <definition>〔动〕参见 ягжийх.</definition>
+      <page>498</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠬᠵᠢᠢᠬᠣ</unicode>
+      <cyrillic>ЖАГЖИЙХ</cyrillic>
+      <definition>ягжийх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠭᠵᠢᠢᠬᠤ</unicode>
+      <cyrillic>жагжийх</cyrillic>
+      <definition>жагжгар болох.</definition>
+      <page>239</page>
+    </entry_item>
+  </entries>
+</entry>

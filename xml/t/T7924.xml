@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7924">
+  <head>
+    <unicode>ᠳᠣᠷᠰᠣᠯᠵᠠᠬᠣ</unicode>
+    <transcript>dorsulǰaqu</transcript>
+    <transcript2>dorsolcago</transcript2>
+    <cyrillic>дорсолзох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T7925</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠣᠷᠰᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>дорсолзох</cyrillic>
+      <definition>〔动〕参见 дорсгонох.</definition>
+      <page>422</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠷᠰᠣᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ДОРСОЛЗОХ</cyrillic>
+      <definition>дорсгонох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дорсолзох</cyrillic>
+      <definition>= дорсгонох</definition>
+      <page>96</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠣᠷᠰᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>дорсолзох</cyrillic>
+      <definition>дорсгор юмны дорсос дорсос хөдлөх.</definition>
+      <page>202</page>
+    </entry_item>
+  </entries>
+</entry>

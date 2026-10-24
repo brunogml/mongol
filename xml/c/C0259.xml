@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0259">
+  <head>
+    <unicode>ᠴᠠᠪᠠᠣᠰᠢᠷᠠᠬᠣ</unicode>
+    <transcript>čabausiraqu</transcript>
+    <transcript2>cabaosirago</transcript2>
+    <cyrillic>цавуушрах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠪᠠᠤᠰᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>цавуушрах</cyrillic>
+      <definition>〔动〕参见 цавууших.</definition>
+      <page>1509</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠪᠠᠣᠰᠢᠷᠠᠬᠣ</unicode>
+      <cyrillic>ЦАВУУШРАХ</cyrillic>
+      <definition>цавууших-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠪᠠᠤᠰᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>цавуушрах</cyrillic>
+      <definition>цавууших.</definition>
+      <page>776</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>C0258</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8698">
+  <head>
+    <unicode>ᠳᠥᠯᠢ</unicode>
+    <transcript>düli</transcript>
+    <transcript2>döli</transcript2>
+    <cyrillic>дүл</cyrillic>
+  </head>
+  <see_also>
+    <ref>T8697</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠥᠯᠢ</unicode>
+      <uighur>düli</uighur>
+      <cyrillic>дүл</cyrillic>
+      <transcript>DYLI</transcript>
+      <definition>n., adj., and adv. Half, middle; middle of the day or night, noon, midnight; middling, mediocre, average; halfway, partly.</definition>
+      <page>280</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠥᠯᠢ ᠪᠡᠶᠡᠲᠡᠢ</unicode>
+          <transcript>-- beietei</transcript>
+          <definition> Of average height.</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠥᠯᠢ ᠴᠠᠶᠢᠭᠰᠠᠨ</unicode>
+          <transcript>-- caiγsan</transcript>
+          <definition> Half grey, partly grey (of hair).</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠥᠯᠢ ᠳᠤᠮᠳᠠ</unicode>
+          <transcript>-- dumda</transcript>
+          <definition> Average.</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠥᠯᠢ ᠮᠣᠷᠢ</unicode>
+          <transcript>-- mori</transcript>
+          <definition> Mediocre horse.</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠥᠯᠢ ᠵᠢᠯ</unicode>
+          <transcript>-- zil</transcript>
+          <definition> Mediocre or average year (neither good nor bad).</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠳᠦᠷ ᠳᠥᠯᠢ</unicode>
+          <transcript>edyr -- </transcript>
+          <definition> Noon, at noon, in broad daylight.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠥᠨᠢ ᠳᠥᠯᠢ</unicode>
+          <transcript>šøni --</transcript>
+          <definition> Midnight.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠶᠠᠷ ᠳᠥᠯᠢ</unicode>
+          <transcript>xojar -- </transcript>
+          <definition> The two </definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠦᠯᠢ</unicode>
+      <definition>milieu, moitié, midi, minuit.</definition>
+      <page>1917</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠳᠦᠷ ᠳᠦᠯᠢ</unicode>
+          <definition>midi</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠶᠠᠷ ᠳᠦᠯᠢ</unicode>
+          <definition>les deux milieux (midi et minuit)</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠦᠨᠢ ᠳᠦᠯᠢ</unicode>
+          <definition>minuit</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠳᠥᠯᠢ</unicode>
+      <uighur>düli</uighur>
+      <definition>die Mitte der Tages- und Nachtzeit, Mittag, Mitternacht</definition>
+      <page>285</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠳᠥᠯᠢ</unicode>
+      <uighur>döli</uighur>
+      <definition>Midday. Midnight,</definition>
+      <page>1138</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠥᠯᠢ</unicode>
+      <cyrillic>ДҮЛ</cyrillic>
+      <definition>I 1) самая середина, половина; өдөр дүл а) полдень; б) в полдень; шөнө дүл а) самая середина ночи, полночь; б) в полночь; шөнө дүл өнгөртөл заполночь; 2) зарим. весь, в течение, всё время; өдөр дүл хүлээв прождал весь день; шөнө дүлэн явав шёл всю ночь; † дүл цайх поседеть наполовину (о волосах). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠥᠯᠢ</unicode>
+      <cyrillic>ДҮЛ</cyrillic>
+      <definition>II ясный, безветренный (о дне); дул-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠦᠯᠢ</unicode>
+      <cyrillic>дүл(эн)</cyrillic>
+      <definition>турш, туж, дуусан; шөнө дүлэн явав; өдөр дүл хүлээв.</definition>
+      <page>216</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y5247">
+  <head>
+    <unicode>ᠵᠥᠯᠺᠥᠺᠥᠷᠳᠡᠺᠥ</unicode>
+    <transcript>ǰülgügürdekü</transcript>
+    <transcript2>yölgögördegö</transcript2>
+    <cyrillic>зүлгүүрдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y5248</ref>
+    <ref>Y5246</ref>
+    <ref>Y5245</ref>
+  </derivatives>
+  <see_also>
+    <ref>Y5254</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠥᠯᠺᠥᠺᠥᠷᠳᠡᠺᠥ</unicode>
+      <cyrillic>ЗҮЛГҮҮРДЭХ</cyrillic>
+      <definition>1. шлифовать, полировать, чистить наждачной бумагой; мод зүлгүүрдэх шлифовать дерево наждачной бумагой; 2. зүлгүүрдэхүй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠥᠯᠺᠥᠺᠥᠷᠳᠡᠺᠥ</unicode>
+      <cyrillic>ЗҮЛГҮҮРДЭХҮЙ</cyrillic>
+      <definition>шлифовка, полировка. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠦᠯᠭᠦᠭᠦᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>зүлгүүрдэх</cyrillic>
+      <definition>зүлгүүрээр зүлгэх; шойзоор зүлгүүрдэх.</definition>
+      <page>290</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Y5244</ref>
+  </related_to>
+</entry>

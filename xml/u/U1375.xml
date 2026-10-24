@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1375">
+  <head>
+    <unicode>ᠣᠳᠣᠨᠲᠣ</unicode>
+    <transcript>oduntu</transcript>
+    <transcript2>odondo</transcript2>
+    <cyrillic>одонт</cyrillic>
+  </head>
+  <see_also>
+    <ref>U1374</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠳᠣᠨᠲᠤ</unicode>
+      <cyrillic>одонт</cyrillic>
+      <definition>〔形〕佩戴勋章的；荣获勋章的：алтан гадас ~ нэгдэл 荣获北极星勋章的合作社.</definition>
+      <page>792</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠳᠣᠨᠲᠣ</unicode>
+      <cyrillic>ОДОНТ</cyrillic>
+      <definition>имеющий орден, награждённый орденом, орденоносный; орденоносец. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠳᠣᠨᠲᠤ</unicode>
+      <cyrillic>одонт</cyrillic>
+      <definition>одон тэмдэг бүхий; алтан гадас одонт.</definition>
+      <page>409</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="O1674">
+  <head>
+    <unicode>ᠥᠺᠰᠠᠺᠥᠥ</unicode>
+    <transcript>ögsegüü</transcript>
+    <transcript2>ögsegöö</transcript2>
+    <cyrillic>өгсүү</cyrillic>
+  </head><see_also>
+    <ref>O1690</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠦᠺᠰᠡᠭᠦᠦ</unicode>
+      <definition>à contre-mont.</definition>
+      <page>573</page>
+      <examples>
+        <example>
+          <unicode>ᠦᠺᠰᠡᠭᠦᠦ ᠦᠷᠭᠢᠯ</unicode>
+          <definition>sommer (de la montagne) élevé</definition>
+        </example>
+        <example>
+          <unicode>ᠦᠺᠰᠡᠭᠦᠦ ᠭᠠᠵᠠᠷ</unicode>
+          <definition>étendue de terrain qui s'élève graduellement</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠥᠺᠰᠠᠺᠥᠥ</unicode>
+      <uighur>üksegüü</uighur>
+      <definition>aufwärts, hinan (gegen den Strom, den Berg hinan).</definition>
+      <page>69</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠥᠺᠰᠠᠺᠥᠥ</unicode>
+      <uighur>ügsegüü</uighur>
+      <definition>(u)adv. Upwards, ascending (going upstream or climbing a hill).</definition>
+      <page>273</page>
+      <examples>
+        <example>
+          <uighur>ügsegüü γaǰar</uighur>
+          <definition>Rising or elevated land in general. Uphill.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

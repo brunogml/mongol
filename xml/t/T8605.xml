@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8605">
+  <head>
+    <unicode>ᠳᠥᠲᠠᠯᠠᠺᠥ</unicode>
+    <transcript>dötelekü</transcript>
+    <transcript2>dödelegö</transcript2>
+    <cyrillic>дөтлөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T8606</ref>
+    <ref>T8604</ref>
+  </derivatives>
+  <see_also>
+    <ref>T8654</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠥᠲᠠᠯᠠᠺᠥ</unicode>
+      <uighur>dötelekü</uighur>
+      <cyrillic>дөтлөх</cyrillic>
+      <transcript>DØTELE-</transcript>
+      <definition>[= døtyle-] v.i. and t. To take a short cut, go the easy. way; to approach; to abridge.</definition>
+      <page>269</page>
+      <examples>
+        <example>
+          <unicode>ᠦᠰᠡ ᠳᠥᠲᠠᠯᠠᠵᠦ ᠺᠡᠯᠡᠺᠦ</unicode>
+          <transcript>yse --zy keleky </transcript>
+          <definition>To give an abridged account, condense a speech</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠥᠲᠠᠯᠠᠺᠥ</unicode>
+      <cyrillic>ДӨТЛӨХ</cyrillic>
+      <definition>1) идти ближайшей дорогой, самым кратким путём; 2) приближаться, сближаться; 3) оказывать кому-л. предпочтение. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠥᠲᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>дөтлөх</cyrillic>
+      <definition>1. дөт замаар явах;2. ойртох, ойр болох;3. хүрэх, дуусах, шахамда;4. хилүү дотно үзэх.</definition>
+      <page>207</page>
+    </entry_item>
+  </entries>
+</entry>

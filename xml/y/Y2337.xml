@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y2337">
+  <head>
+    <unicode>ᠵᠡᠷ</unicode>
+    <transcript>ǰer</transcript>
+    <transcript2>yer</transcript2>
+    <cyrillic>зэр</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠡᠷ</unicode>
+      <uighur>ǰer</uighur>
+      <cyrillic>зэр</cyrillic>
+      <transcript>ZER</transcript>
+      <definition>n. weapons, armament.</definition>
+      <page>1045</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠡᠷ ᠵᠡᠪᠡ = ᠵᠡᠷ ᠵᠡᠪᠰᠡᠭ</unicode>
+          <transcript>-- zebe = -- zebseg</transcript>
+          <definition> Weapons, arms, armament</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠡᠷ ᠵᠡᠪᠰᠡᠭ.ᠦᠨ ᠰᠤᠷᠭᠠᠭᠤᠨ</unicode>
+          <transcript>-- zebseg yn surγaγun </transcript>
+          <definition>Training in the use of arms, military training</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠡᠷ ᠵᠡᠪᠡ</unicode>
+      <definition>cuirasse, cotte de mailles, armure.</definition>
+      <page>2324</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠡᠷ</unicode>
+      <cyrillic>зэр</cyrillic>
+      <definition>见 ~ зэвсэг, ~ зэмсэг 武器，军械，兵器.</definition>
+      <page>595</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠡᠷ</unicode>
+      <cyrillic>ЗЭР</cyrillic>
+      <definition>: зэр зэвсэг хам. оружие, вооружение, боевое снаряжение, доспехи. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

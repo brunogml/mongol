@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3784">
+  <head>
+    <unicode>ᠵᠣᠨᠰᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰunsiγulqu</transcript>
+    <transcript2>yonsigolgo</transcript2>
+    <cyrillic>зуншуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y3783</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠤᠨᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зуншуулах</cyrillic>
+      <definition>〔动〕зушйих 的使动态.</definition>
+      <page>577</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠨᠰᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗУНШУУЛАХ</cyrillic>
+      <definition>зунших-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠤᠨᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зуншуулах</cyrillic>
+      <definition>зуншихын үлкдүүлэх хэв.</definition>
+      <page>284</page>
+    </entry_item>
+  </entries>
+</entry>

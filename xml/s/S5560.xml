@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5560">
+  <head>
+    <unicode>ᠰᠣᠪᠣᠳᠯᠢᠬ</unicode>
+    <transcript>subudliq</transcript>
+    <transcript2>sobodlig</transcript2>
+    <cyrillic>сувдлаг</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠪᠤᠳᠯᠢᠭ</unicode>
+      <cyrillic>сувдлаг</cyrillic>
+      <definition>〔形〕见 сувдлиг.</definition>
+      <page>953</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠪᠣᠳᠯᠢᠬ</unicode>
+      <cyrillic>СУВДЛАГ</cyrillic>
+      <definition>сувдлиг-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠪᠣᠳᠯᠢᠬ</unicode>
+      <cyrillic>СУВДЛИГ</cyrillic>
+      <definition>: сувдлиг мод ург. гаультерия (дерево); сувдлиг цэцэг ург. четочник, спирея Тунберга; сувдлиг цахирма цэцэг ург. душистый цветок багрового цвета. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠪᠤᠳᠯᠢᠭ</unicode>
+      <cyrillic>сувдлиг</cyrillic>
+      <definition>сугд мэт, сувд хэлбэртэй.</definition>
+      <page>485</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S5557</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5153">
+  <head>
+    <unicode>ᠲᠣᠣᠯᠢᠴᠢ</unicode>
+    <transcript>touliči</transcript>
+    <transcript2>doolici</transcript2>
+    <cyrillic>туульч</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠣᠯᠢᠴᠢ</unicode>
+      <uighur>tuuliči</uighur>
+      <cyrillic>туульч</cyrillic>
+      <transcript>TUULICI</transcript>
+      <definition>n. Storyteller.</definition>
+      <page>847</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠣᠤᠯᠢᠴᠢ</unicode>
+      <definition>diseur de contes</definition>
+      <page>1785</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠣᠯᠢᠴᠢ</unicode>
+      <cyrillic>ТУУЛЬЧ</cyrillic>
+      <definition>былљнщик; сказљтель, рассказчик, знаток былљн, сказок. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>туульч</cyrillic>
+      <definition>Epenerzähler m</definition>
+      <page>241</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠤᠯᠢᠴᠢ</unicode>
+      <cyrillic>туульч</cyrillic>
+      <definition>тууль ихэд мэдэж ярьдаг хүн.</definition>
+      <page>561</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T5144</ref>
+  </related_to>
+</entry>

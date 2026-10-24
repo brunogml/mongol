@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2342">
+  <head>
+    <unicode>ᠪᠢᠯᠳᠠᠣᠷᠬᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>bildaurqaγulqu</transcript>
+    <transcript2>bildaorgagolgo</transcript2>
+    <cyrillic>бялдуурхуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B2341</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠢᠯᠳᠠᠤᠷᠬᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бялдуурхуулах</cyrillic>
+      <definition>〔动〕бялдуурхах 的使动态.</definition>
+      <page>251</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠢᠯᠳᠠᠣᠷᠬᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БЯЛДУУРХУУЛАХ</cyrillic>
+      <definition>бялдуурхах-ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠢᠯᠳᠠᠤᠷᠬᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бялдуурхуулах</cyrillic>
+      <definition>бялдуурахын үйлдүүлэх хэв.</definition>
+      <page>125</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2714">
+  <head>
+    <unicode>ᠣᠷᠣᠭᠠᠬᠣ</unicode>
+    <transcript>oroγaqu</transcript>
+    <transcript2>orogago</transcript2>
+    <cyrillic>ороох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U2736</ref>
+  </derivatives>
+  <see_also>
+    <ref>U2638</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠷᠣᠭᠠᠬᠣ</unicode>
+      <uighur>oroγaqu</uighur>
+      <cyrillic>ороох</cyrillic>
+      <transcript>ORUΓA-</transcript>
+      <definition>See orija-</definition>
+      <page>621</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠷᠣᠭᠠᠬᠤ</unicode>
+      <definition>serpenter, faire des plis et des replis (comme des serpents et insectes).</definition>
+      <page>451</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠷᠣᠭᠠᠨ ᠺᠡᠯᠡᠯᠴᠡᠺᠦ</unicode>
+          <definition>imposer silence , rendre muet un homme, interrompre la conversation.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠷᠣᠭᠠᠬᠤ</unicode>
+      <cyrillic>ороох /2</cyrillic>
+      <definition>хүнд ачаа ачсан тэмээний хойд хөл нь доголох өвчин олох; ширээ бөхтэй хүрэн тэмээ ороочжээ.</definition>
+      <page>424</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>U2713</ref>
+  </related_to>
+</entry>

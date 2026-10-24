@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1611">
+  <head>
+    <unicode>ᠴᠢᠬᠲᠠᠭᠠᠯᠠᠬᠣ</unicode>
+    <transcript>čiγtaγalaqu</transcript>
+    <transcript2>cigdagalago</transcript2>
+    <cyrillic>чагтгалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1612</ref>
+    <ref>C1613</ref>
+    <ref>C1615</ref>
+    <ref>C1614</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠢᠬᠲᠠᠭᠠᠯᠠᠬᠣ</unicode>
+      <uighur>čiqtaγalaqu</uighur>
+      <cyrillic>чагтгалах</cyrillic>
+      <transcript>CIΓTAΓALA-</transcript>
+      <definition>v.t. To pull a rope; to tie with ropes and pull; to tie down.</definition>
+      <page>178</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠬᠲᠠᠭᠠᠯᠠᠨ ᠠᠪᠢᠷᠠᠬᠤ</unicode>
+          <transcript>--n abiraxu</transcript>
+          <definition>To ascend or climb with the aid of a rope.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠢᠬᠳᠠᠭᠠᠯᠠᠬᠤ</unicode>
+      <definition>1 garrotter: 
+2 attacher avec des cordes.</definition>
+      <page>2182</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠬᠲᠠᠭᠠᠯᠠᠨ ᠠᠪᠠᠷᠢᠬᠤ</unicode>
+          <definition>monter quelque part par le moyen d'une corde qu'on a attachée en haut</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠴᠢᠬᠲᠠᠭᠠᠯᠠᠬᠣ</unicode>
+      <uighur>čiqdaγalaqu</uighur>
+      <definition>knebeln.</definition>
+      <page>327</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠴᠢᠬᠲᠠᠭᠠᠯᠠᠬᠣ</unicode>
+      <uighur>čiqdaγalaqu</uighur>
+      <definition>v.t. To gag (the mouth).</definition>
+      <page>1317</page>
+      <examples>
+        <example>
+          <uighur>čiqdaγalan dabiraqu</uighur>
+          <definition>To climb up by a rope.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠭᠲᠠᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>чагтгалах</cyrillic>
+      <definition>〔动〕①紧蒙古包的绳索；②阻障，妨碍，干扰；束缚.</definition>
+      <page>1574</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠬᠲᠠᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЧАГТГАЛАХ</cyrillic>
+      <definition>1) зацеплять, зацепляться верёвкой за что-л.; тооно чагтгалах зацеплять верхний круг юрты верёвкой за уни (унь-ийг үз.); чагтгалан авирах влезать по верёвке, взбираться, держась за верёвку; 2) тащить верёвкой, поднимать на блоке; 3) шилж. препятствовать.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠭᠲᠠᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>чагтгалах</cyrillic>
+      <definition>1. тоононы чагтганаас хүнд юм уяж чагтга авах;2. &lt;шилжсэн&gt;саад тотгор хийх; явахын даваан дээр чагтгалах.</definition>
+      <page>811</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>C1610</ref>
+  </related_to>
+</entry>

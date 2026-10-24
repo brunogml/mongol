@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1095">
+  <head>
+    <unicode>ᠴᠠᠴᠠᠺᠯᠢᠺ</unicode>
+    <transcript>čečeglig</transcript>
+    <transcript2>ceceglig</transcript2>
+    <cyrillic>цэцэглэг</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠴᠠᠺᠯᠢᠺ</unicode>
+      <uighur>čečeglik</uighur>
+      <cyrillic>цэцэглэг</cyrillic>
+      <transcript>CECEGLIG</transcript>
+      <definition>n. and adj. Flower garden; flowering, blossoming,</definition>
+      <page>168</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠡᠴᠡᠺᠯᠢᠺ</unicode>
+      <definition>parterre , parc, bosquet, jardin, jardin de plaisance</definition>
+      <page>2122</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠡᠴᠡᠭᠯᠢᠭ ᠤᠨ ᠳᠠᠷᠤᠭ᠎ᠠ</unicode>
+          <definition>un jardinier</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠡᠴᠡᠭᠯᠢᠭ ᠤᠨ ᠺᠦᠷᠢᠶᠡᠯᠡᠩ</unicode>
+          <definition>enclos, palissade d'un jardin ou d'un parterre</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠴᠠᠴᠠᠺᠯᠢᠺ</unicode>
+      <uighur>čečeklik</uighur>
+      <definition>der Garten, Blumengarten</definition>
+      <page>322</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠴᠠᠴᠠᠺᠯᠢᠺ</unicode>
+      <uighur>čečeklik</uighur>
+      <definition>n. A flower garden.</definition>
+      <page>1300</page>
+      <examples>
+        <example>
+          <uighur>čečeklik-ün küriyeleng</uighur>
+          <definition>n. An enclosure around a garden. A wall.</definition>
+        </example>
+        <example>
+          <uighur>čečeklik doroγ-a</uighur>
+          <definition>n. A gardener.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠴᠡᠭᠯᠢᠭ</unicode>
+      <cyrillic>цэцэглэг</cyrillic>
+      <definition>〔名・形〕①花圃，花坛，花畦；②鲜花盛开的；（转）繁荣的，昌盛的.</definition>
+      <page>1569</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠴᠠᠺᠯᠢᠺ</unicode>
+      <cyrillic>ЦЭЦЭГЛЭГ</cyrillic>
+      <definition>1. цветник; сад; 2. 1) цветущий (о растениях); 2) цветниковый; † цэцэглэг дэн люстра.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠴᠠᠺᠯᠢᠺ</unicode>
+      <cyrillic>ЦЭЦЭГЛЭГИЙН</cyrillic>
+      <definition>цэцэглэг-ийн харьяал., цветниковый, садовый; † цэцэглэгийн зэржгэнэ шувуу. славка садовая.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠴᠡᠭᠯᠢᠭ</unicode>
+      <cyrillic>цэцэглэг</cyrillic>
+      <definition>&lt;ургамал&gt;ногоо, цэцэг үлэмж сайхан газар.</definition>
+      <page>808</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>C1076</ref>
+  </related_to>
+  <derivatives>
+    <ref>C1096</ref>
+  </derivatives>
+</entry>

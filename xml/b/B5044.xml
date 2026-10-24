@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B5044">
+  <head>
+    <unicode>ᠪᠥᠷᠵᠥᠶᠢᠯᠢᠺ</unicode>
+    <transcript>bürǰüyilig</transcript>
+    <transcript2>börcöyilig</transcript2>
+    <cyrillic>бүржуйлиг</cyrillic>
+  </head>
+  <variants>
+    <variant type="cyrillic">бүрзийлэг</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠥᠷᠵᠥᠶᠢᠯᠢᠺ</unicode>
+      <uighur>bürǰüyilik</uighur>
+      <cyrillic>буржуйлиг</cyrillic>
+      <transcript>BYRZYILIG</transcript>
+      <definition>adj. Bourgeois.</definition>
+      <page>151</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠥᠷᠵᠥᠶᠢᠯᠢᠺ ᠤᠯᠤᠰ</unicode>
+          <transcript>-- ulus</transcript>
+          <definition> Bourgeois country.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠥᠷᠵᠥᠶᠢᠯᠢᠺ ᠬᠤᠪᠢᠰᠬᠠᠯ</unicode>
+          <transcript>-- xubisxal</transcript>
+          <definition> Bourgeois revolution.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠦᠷᠵᠦᠢᠯᠢᠭ</unicode>
+      <cyrillic>бүрзийлэг</cyrillic>
+      <definition>〔名・形〕见 буржуйлиг.</definition>
+      <page>230</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5726">
+  <head>
+    <unicode>ᠱᠣᠳᠣᠯᠵᠠᠬᠣ</unicode>
+    <transcript>šodulǰaqu</transcript>
+    <transcript2>sodolcago</transcript2>
+    <cyrillic>шодолзох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5727</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠣᠳᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>шодолзох</cyrillic>
+      <definition>〔动〕参见 шодгонох.</definition>
+      <page>1646</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠳᠣᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ШОДОЛЗОХ</cyrillic>
+      <definition>шодгонох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шодолзох</cyrillic>
+      <definition>= шодгонох</definition>
+      <page>388</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠣᠳᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>шодолзох</cyrillic>
+      <definition>шодгор юмны шодос шодос хөдлөх.</definition>
+      <page>853</page>
+    </entry_item>
+  </entries>
+</entry>

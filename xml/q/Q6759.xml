@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q6759">
+  <head>
+    <unicode>ᠬᠣᠷᠠᠨᠳᠠ</unicode>
+    <transcript>quranda</transcript>
+    <transcript2>goranda</transcript2>
+    <cyrillic>хурандаа</cyrillic>
+  </head><see_also>
+    <ref>Q6777</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠷᠠᠨᠳᠠ</unicode>
+      <uighur>quranda</uighur>
+      <cyrillic>хурандаа</cyrillic>
+      <transcript>XURANDA</transcript>
+      <definition>n. Colonel.</definition>
+      <page>988</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠷᠠᠨᠳᠠ ᠭᠧᠨᠡᠷᠠᠯ</unicode>
+          <transcript>-- general</transcript>
+          <definition> Colonel general.</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠳ ᠬᠣᠷᠠᠨᠳᠠ</unicode>
+          <transcript>ded -- </transcript>
+          <definition> Lieutenant colonel.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

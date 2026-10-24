@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C1331">
+  <head>
+    <unicode>ᠴᠢᠢᠳᠠᠺᠥ</unicode>
+    <transcript>čiidekü</transcript>
+    <transcript2>ciidegö</transcript2>
+    <cyrillic>цийдэх</cyrillic>
+  </head><derivatives>
+    <ref>C1332</ref>
+  
+    <ref>C1330</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠢᠳᠡᠬᠦ</unicode>
+      <cyrillic>цийдэх</cyrillic>
+      <definition>〔动〕往水中搀乳.</definition>
+      <page>1527</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠢᠳᠠᠺᠥ</unicode>
+      <cyrillic>ЦИЙДЭХ</cyrillic>
+      <definition>разбавляться (о тараке). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠢᠳᠠᠺᠥ</unicode>
+      <cyrillic>ЧИЙДЭХ</cyrillic>
+      <definition>наложить лак, покрыть лаком; лакировать; лакировка. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

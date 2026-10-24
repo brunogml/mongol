@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y2762">
+  <head>
+    <unicode>ᠵᠢᠪᠬᠣᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰibqulǰaγulqu</transcript>
+    <transcript2>yibgolcagolgo</transcript2>
+    <cyrillic>жавхалзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y2761</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠪᠬᠤᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>жавхалзуулах</cyrillic>
+      <definition>〔动〕жавхалзах 的使动态.</definition>
+      <page>498</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠪᠬᠣᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЖАВХАЛЗУУЛАХ</cyrillic>
+      <definition>жавхалзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠪᠬᠤᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>жавхалзуулах</cyrillic>
+      <definition>жавхалзахын үйлдүүлэхийн хэв.</definition>
+      <page>239</page>
+    </entry_item>
+  </entries>
+</entry>

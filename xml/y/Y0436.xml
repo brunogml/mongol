@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0436">
+  <head>
+    <unicode>ᠵᠠᠭᠠᠯᠮᠠᠶᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰaγalmayilaγulqu</transcript>
+    <transcript2>yagalmayilagolgo</transcript2>
+    <cyrillic>загалмайлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y0435</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠭᠠᠯᠮᠠᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>загалмайлуулах</cyrillic>
+      <definition>〔动〕загалмайлах 的使动态.</definition>
+      <page>528</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠭᠠᠯᠮᠠᠶᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗАГАЛМАЙЛУУЛАХ</cyrillic>
+      <definition>загалмайлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠭᠠᠯᠮᠠᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>загалмайлуулах</cyrillic>
+      <definition>загалмайлахын үйлдүүлэх хэв.</definition>
+      <page>257</page>
+    </entry_item>
+  </entries>
+</entry>

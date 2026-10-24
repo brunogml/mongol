@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6350">
+  <head>
+    <unicode>ᠲᠣᠪᠯᠠᠬᠣ</unicode>
+    <transcript>toblaqu</transcript>
+    <transcript2>doblago</transcript2>
+    <cyrillic>товлох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T6351</ref>
+    <ref>T6352</ref>
+    <ref>T6354</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠪᠯᠠᠬᠤ</unicode>
+      <cyrillic>товлох</cyrillic>
+      <definition>〔动〕作出决定，确定，明确指出：тодотгон ~ 明确指出.</definition>
+      <page>1050</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠪᠯᠠᠬᠣ</unicode>
+      <cyrillic>ТОВЛОХ</cyrillic>
+      <definition>выносљть решение, решаться на что-л.; назначать срок. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>товлох</cyrillic>
+      <definition>bestimmen, entscheiden, festlegen; хэдийд гарахаа товлогүй байна es ist noch nicht festgelegt, wann wir aufbrechen</definition>
+      <page>225</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠪᠯᠠᠬᠤ</unicode>
+      <cyrillic>товлох</cyrillic>
+      <definition>шийдэж тогтох, болзох; чухам хэдий хирд болохыг товлон хэлэх.</definition>
+      <page>531</page>
+    </entry_item>
+  </entries>
+</entry>

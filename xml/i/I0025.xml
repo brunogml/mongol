@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I0025">
+  <head>
+    <unicode>ᠢᠨᠠᠩᠺᠢ</unicode>
+    <transcript>inanggi</transcript>
+    <transcript2>inanggi</transcript2>
+    <cyrillic>янанги</cyrillic>
+  </head>
+  <see_also>
+    <ref>I0024</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠨᠠᠩᠭᠢ</unicode>
+      <cyrillic>янанги</cyrillic>
+      <definition>〔名〕〈动〉鮹鱼.</definition>
+      <page>1753</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠨᠠᠩᠺᠢ</unicode>
+      <cyrillic>ЯНАНГИ</cyrillic>
+      <definition>загас. краснопёр (рыба). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠨᠠᠩᠭᠢ</unicode>
+      <cyrillic>инанги</cyrillic>
+      <definition>&lt;амьтан&gt;давхтай адилхан толгойтой, биеийн байдал улаан, загас шиг сүүлтэй, далайд оршдог нэгэн зүйл загас.</definition>
+      <page>305</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠨᠠᠩᠭᠢ</unicode>
+      <cyrillic>янанги</cyrillic>
+      <definition>&lt;амьтан&gt;толгой нь давх гэдэг загастай адил, биеийн байдал улаан сүүлт загастай адил бөгөөд далайд оршдог нэг зүйл загас.</definition>
+      <page>907</page>
+    </entry_item>
+  </entries>
+</entry>

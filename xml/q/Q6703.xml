@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q6703">
+  <head>
+    <unicode>ᠭᠣᠶᠣᠳᠠᠬᠣ</unicode>
+    <transcript>γoyudaqu</transcript>
+    <transcript2>goyodago</transcript2>
+    <cyrillic>гоёдох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q6704</ref>
+    <ref>Q6706</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠣᠶᠣᠳᠠᠬᠤ</unicode>
+      <cyrillic>гоёдох</cyrillic>
+      <definition>〔动〕显得过分妖艳，变得过于华丽的；显得奢华，显得浮华.</definition>
+      <page>301</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠶᠣᠳᠠᠬᠣ</unicode>
+      <cyrillic>ГОЁДОХ</cyrillic>
+      <definition>быть, становиться слишком красивым, нарядным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠣᠶᠣᠳᠠᠬᠤ</unicode>
+      <cyrillic>гоёдох</cyrillic>
+      <definition>хэтэрхий гоё болох; чиний дээл чинь дэндүү гоёдоод байна.</definition>
+      <page>147</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4086">
+  <head>
+    <unicode>ᠬᠣᠨᠳᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>qondadaγulqu</transcript>
+    <transcript2>gondadagolgo</transcript2>
+    <cyrillic>хонддуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q4085</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠨᠳᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХОНДДУУЛАХ</cyrillic>
+      <definition>хонддох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хонддуулах</cyrillic>
+      <definition>Kaus von хонддох</definition>
+      <page>309</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠨᠳᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хонддуулах</cyrillic>
+      <definition>хонддохын үйлдүүлэх хэв.</definition>
+      <page>689</page>
+    </entry_item>
+  </entries>
+</entry>

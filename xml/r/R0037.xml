@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="R0037">
+  <head>
+    <transcript>restoran</transcript>
+    <transcript2>resdoran</transcript2>
+    <cyrillic>ресторан</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠷᠧᠰᠲ᠋ᠣᠷᠠᠨ</unicode>
+      <cyrillic>ресторан</cyrillic>
+      <definition>〔名〕饭馆，饭店.</definition>
+      <page>886</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>РЕСТОРАН</cyrillic>
+      <definition>ресторан; вагон ресторан вагон-ресторан. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>ресторан</cyrillic>
+      <definition>Restaurant n</definition>
+      <page>189</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠷᠧᠰᠲ᠋ᠣᠷᠠᠨ</unicode>
+      <cyrillic>ресторан</cyrillic>
+      <definition>зоогийн газар; Туул ресторан.</definition>
+      <page>455</page>
+    </entry_item>
+  </entries>
+</entry>

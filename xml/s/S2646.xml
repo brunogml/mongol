@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S2646">
+  <head>
+    <unicode>ᠰᠠᠶᠢᠯᠥᠺᠥ</unicode>
+    <transcript>seyilükü</transcript>
+    <transcript2>seyilögö</transcript2>
+    <cyrillic>сийлэх</cyrillic>
+  </head><derivatives>
+    <ref>S2647</ref>
+  
+    <ref>S2649</ref>
+  </derivatives><see_also>
+    <ref>S2640</ref>
+  
+    <ref>S2662</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠶᠢᠯᠥᠺᠥ</unicode>
+      <uighur>seyilükü</uighur>
+      <transcript>SEILY-</transcript>
+      <definition>See seil-.</definition>
+      <page>684</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠡᠶᠢᠯᠦᠺᠦ ~ ᠰᠡᠶᠢᠯᠡᠺᠦ ~ ᠰᠡᠶᠢᠯᠺᠦ</unicode>
+      <definition>enlever en coupant. découper. ciseler , graver, tailler. inciser, creuser avec le ciseau.</definition>
+      <page>1338</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠠᠷ ᠰᠡᠶᠢᠯᠦᠺᠦ</unicode>
+          <definition>découper des lettres sur une planche de bois</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠡᠶᠢᠯᠦᠭᠰᠡᠨ ᠺᠡᠪ</unicode>
+          <definition>une planche de bois avec des lettres découpées</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠡᠶᠢᠯᠦᠭᠰᠡᠨ ᠵᠢᠮᠰᠡᠭ</unicode>
+          <definition>ustensiles ciselés</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

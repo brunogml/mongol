@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3646">
+  <head>
+    <unicode>ᠵᠢᠷᠺᠢᠨᠡᠺᠥ</unicode>
+    <transcript>ǰirginekü</transcript>
+    <transcript2>yirginegö</transcript2>
+    <cyrillic>жиргэнэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y3647</ref>
+    <ref>Y3645</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠷᠭᠢᠨᠡᠬᠦ</unicode>
+      <cyrillic>жиргэнэх</cyrillic>
+      <definition>〔动〕见 жирэгнэх.</definition>
+      <page>513</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠷᠺᠢᠨᠡᠺᠥ</unicode>
+      <cyrillic>ЖИРГЭНЭХ</cyrillic>
+      <definition>жиргэлэх II-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠷᠭᠢᠨᠡᠬᠦ</unicode>
+      <cyrillic>жирэгнэх</cyrillic>
+      <definition>жиргэр юмны үргэлжлэн хөдлөх байдал; ус жирэгнэн урсах.</definition>
+      <page>249</page>
+    </entry_item>
+  </entries>
+</entry>

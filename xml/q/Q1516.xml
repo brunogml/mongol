@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1516">
+  <head>
+    <unicode>ᠬᠠᠳᠠᠭᠠᠰᠣᠳᠠᠬᠣ</unicode>
+    <transcript>qadaγasudaqu</transcript>
+    <transcript2>gadagasodago</transcript2>
+    <cyrillic>хадаасдах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠳᠠᠭᠠᠰᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>хадаасдах</cyrillic>
+      <definition>〔动〕①钉钉子；②（转）碰钉子.</definition>
+      <page>1271</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠳᠠᠭᠠᠰᠣᠳᠠᠬᠣ</unicode>
+      <cyrillic>ХАДААСДАХ</cyrillic>
+      <definition>быть негодным из-за прибитых гвоздей.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠳᠠᠭᠠᠰᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>хадаасдах</cyrillic>
+      <definition>хадаас ихийн учир тохиромжгүй болох.</definition>
+      <page>640</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q1514</ref>
+  </related_to>
+</entry>

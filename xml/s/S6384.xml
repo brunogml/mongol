@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6384">
+  <head>
+    <unicode>ᠱᠣᠷᠵᠢᠺᠢᠨᠠᠬᠣ</unicode>
+    <transcript>šorǰiginaqu</transcript>
+    <transcript2>sorciginago</transcript2>
+    <cyrillic>шоржигнох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6386</ref>
+  </derivatives>
+  <see_also>
+    <ref>S6383</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠣᠷᠵᠢᠭᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>шоржигнох</cyrillic>
+      <definition>〔动〕流水发潺潺声，淙淙作响.</definition>
+      <page>1650</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠷᠵᠢᠺᠢᠨᠠᠬᠣ</unicode>
+      <cyrillic>ШОРЖИГНОХ</cyrillic>
+      <definition>журчать (о воде). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шоржигнох</cyrillic>
+      <definition>Wasser rauschen, plätschern, murmeln</definition>
+      <page>389</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠣᠷᠵᠢᠭᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>шоржигнох</cyrillic>
+      <definition>юмнаас шор шор гэсэн чимээ сонсдох.</definition>
+      <page>855</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠣᠷᠵᠢᠭᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>шоржигнуулах</cyrillic>
+      <definition>шоржигнохын үйлдүүлэх хэв.</definition>
+      <page>855</page>
+    </entry_item>
+  </entries>
+</entry>

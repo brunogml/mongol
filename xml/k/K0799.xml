@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K0799">
+  <head>
+    <unicode>ᠺᠠᠯᠪᠢᠺᠥ</unicode>
+    <transcript>kelbikü</transcript>
+    <transcript2>gelbigö</transcript2>
+    <cyrillic>хэлбэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K0798</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠯᠪᠢᠬᠦ</unicode>
+      <cyrillic>хэлбэх</cyrillic>
+      <definition>〔动〕参见 хэлбүүрдэх.</definition>
+      <page>1478</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠯᠪᠢᠺᠥ</unicode>
+      <cyrillic>ХЭЛБЭХ</cyrillic>
+      <definition>чинить сапоги, набивая их чем-н. (вместе колодки); хэлбүүрдэх 1)-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хэлбэх</cyrillic>
+      <definition>Hut, Schuh weiten</definition>
+      <page>341</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠯᠪᠢᠬᠦ</unicode>
+      <cyrillic>хэлбэх</cyrillic>
+      <definition>юмыг тэлж уужим их болгох, самжлах; гутал хэлбэх; малгай хэлбэх.</definition>
+      <page>758</page>
+    </entry_item>
+  </entries>
+</entry>

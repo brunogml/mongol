@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q1873">
+  <head>
+    <unicode>ᠬᠠᠯᠠᠪ</unicode>
+    <transcript>qalab</transcript>
+    <transcript2>galab</transcript2>
+    <cyrillic>халав</cyrillic>
+  </head>
+  <see_also>
+    <ref>Q1874</ref>
+    <ref>Q1874a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠯᠠᠪ</unicode>
+      <uighur>qalab</uighur>
+      <transcript>XALAB</transcript>
+      <page>916</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠯᠠᠪ ᠬᠤᠯᠤᠪ</unicode>
+          <transcript>-- xulub</transcript>
+          <definition>Superficially, incompletely, carelessly, slowly.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠯᠠᠪ ᠬᠠᠯᠤᠪ</unicode>
+      <definition>d'accord, unanimement, d'un commun accord,</definition>
+      <page>789</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠯᠠᠪ</unicode>
+      <cyrillic>ХАЛАВ</cyrillic>
+      <definition>лениво, едва-едва, трюх-трюх, медленной рысцой; халав хулав хийх тащиться ленивой рысцой.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

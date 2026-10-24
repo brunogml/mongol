@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0158">
+  <head>
+    <unicode>ᠱᠠᠨᠵᠠᠳᠠᠬᠣ</unicode>
+    <transcript>šanǰadaqu</transcript>
+    <transcript2>sancadago</transcript2>
+    <cyrillic>шанздах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S0159</ref>
+    <ref>S0161</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠨᠵᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>шанздах</cyrillic>
+      <definition>〔动〕弹三弦.</definition>
+      <page>1619</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠨᠵᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>ШАНЗДАХ</cyrillic>
+      <definition>играть на шандз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шанздах</cyrillic>
+      <definition>Mus auf der Schands spielen</definition>
+      <page>380</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠨᠵᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>шанздах</cyrillic>
+      <definition>шанз хөгжмөөр хөгжимдөх.</definition>
+      <page>837</page>
+    </entry_item>
+  </entries>
+</entry>

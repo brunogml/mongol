@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3130">
+  <head>
+    <unicode>ᠳᠠᠨᠳᠠᠯᠵᠠᠺᠥ</unicode>
+    <transcript>dendelǰekü</transcript>
+    <transcript2>dendelcegö</transcript2>
+    <cyrillic>дэндэлзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T3132</ref>
+  </derivatives>
+  <see_also>
+    <ref>T3263</ref>
+    <ref>T3129</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠨᠳᠠᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>ДЭНДЭЛЗЭХ</cyrillic>
+      <definition>дэнжгэнэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠨᠳᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>дэндэлзэх</cyrillic>
+      <definition>дэндгэр юмны байн байн дэндэс дэндэс хөдлөх.</definition>
+      <page>227</page>
+    </entry_item>
+  </entries>
+</entry>

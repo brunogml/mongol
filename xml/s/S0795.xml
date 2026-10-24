@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S0795">
+  <head>
+    <unicode>ᠱᠠᠪᠵᠣ</unicode>
+    <transcript>šabǰu</transcript>
+    <transcript2>sabco</transcript2>
+    <cyrillic>шавж</cyrillic>
+  </head><see_also>
+    <ref>S0685</ref>
+  
+    <ref>S3472</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠱᠠᠪᠵᠤ</unicode>
+      <definition>nom du signe de la voyelle u dans le tibétain: 2 éperon</definition>
+      <page>1444</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠪᠵᠣ</unicode>
+      <cyrillic>ШАВЖ</cyrillic>
+      <definition>(ШАБЖҮ) II монг.бичг. изогнутое начертание для обозначения буквы би, хи, ги, д в конце слова монгольского письма. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠪᠵᠣ</unicode>
+      <cyrillic>ШАВЬЖ</cyrillic>
+      <definition>шавж-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

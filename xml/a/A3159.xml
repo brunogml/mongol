@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A3159">
+  <head>
+    <unicode>ᠠᠵᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>aǰanaγulqu</transcript>
+    <transcript2>acanagolgo</transcript2>
+    <cyrillic>азнуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>A3158</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠵᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>азнуулах</cyrillic>
+      <definition>〔动〕азнах 的使动态.</definition>
+      <page>30</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠵᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>АЗНУУЛАХ</cyrillic>
+      <definition>азнах–ын үйлдүүл., замедлить, придержать.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>азнуулах</cyrillic>
+      <definition>Kaus von азнах</definition>
+      <page>25</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠵᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>азнуулах</cyrillic>
+      <definition>азнахын үйлдүүлэх хэв.</definition>
+      <page>25</page>
+    </entry_item>
+  </entries>
+</entry>

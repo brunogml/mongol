@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B0500">
+  <head>
+    <unicode>ᠪᠠᠪᠠᠩ</unicode>
+    <transcript>babang</transcript>
+    <transcript2>babang</transcript2>
+    <cyrillic>баван</cyrillic>
+  </head>
+  <variants>
+    <variant type="cyrillic">баванг</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠪᠠᠩ</unicode>
+      <cyrillic>БАВАН</cyrillic>
+      <definition>: баван баван хорш., авиа.дуур. блеяние козла.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠪᠠᠩ</unicode>
+      <cyrillic>баван(г)</cyrillic>
+      <definition>见 ~ ~ （大口吃饭时嘴）一鼓一鼓地.</definition>
+      <page>104</page>
+    </entry_item>
+  </entries>
+</entry>

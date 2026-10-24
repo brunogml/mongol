@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q3389">
+  <head>
+    <unicode>ᠭᠠᠷᠢᠳᠠᠰᠣ</unicode>
+    <transcript>γaridasu</transcript>
+    <transcript2>garidaso</transcript2>
+    <cyrillic>гарьдас</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠠᠷᠢᠳᠠᠰᠣ ~ ᠭᠠᠷᠢᠳᠠᠰᠤᠨ</unicode>
+      <uighur>γaridasu - γaridasun</uighur>
+      <transcript>ΓARIDASU(N)</transcript>
+      <definition>n. Dirt, filth, sweepings; excreta; garbage</definition>
+      <page>352</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠠᠷᠢᠳᠠᠰᠣ ᠭᠠᠵᠠᠷ</unicode>
+          <transcript>-- γazar</transcript>
+          <definition> Latrine.</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠠᠷᠢᠳᠠᠰᠣ ᠨᠦᠺᠡ</unicode>
+          <transcript>-- nyke</transcript>
+          <definition> Latrine.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠠᠷᠢᠳᠠᠰᠤᠨ ~ ᠭᠠᠷᠢᠳᠤᠰᠤᠨ</unicode>
+      <definition>souillure, rinçures, ordures</definition>
+      <page>1010</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠠᠷᠢᠳᠠᠰᠤᠨ ᠤ ᠨᠥᠭᠡ</unicode>
+          <definition>fossé d&apos;ordures</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠠᠷᠢᠳᠠᠰᠤᠨ ᠭᠠᠵᠠᠷ</unicode>
+          <definition>les commodités, latrine</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠠᠷᠢᠳᠠᠰᠤᠨ ᠤ ᠭᠠᠤ</unicode>
+          <definition>un tuyau qui conduit les rinçures</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠷᠢᠳᠠᠰᠣ</unicode>
+      <cyrillic>ГАРЬДАС</cyrillic>
+      <definition>нечистота, грязь; навоз для удобрения; гарьдасны нүх яма для нечистот, помойная яма; гарьдасны гуу сток для помоев (в кухнях); гарьдасны газар уборная. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

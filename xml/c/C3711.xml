@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3711">
+  <head>
+    <unicode>ᠴᠥᠺᠠᠳᠺᠥ</unicode>
+    <transcript>čögetkü</transcript>
+    <transcript2>cögedgö</transcript2>
+    <cyrillic>цөөтөх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠥᠺᠠᠳᠺᠥ</unicode>
+      <uighur>čögedkü</uighur>
+      <cyrillic>цөөдөх</cyrillic>
+      <transcript>CØGED-</transcript>
+      <definition>[= cøgede-] v.i. To be too few; to be insufficient.</definition>
+      <page>200</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠣᠭ᠎ᠠ ᠪᠡᠷ ᠴᠥᠺᠠᠳᠺᠥ</unicode>
+          <transcript>toγ-a ber --</transcript>
+          <definition> To be too few in number.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠥᠭᠡᠳᠬᠦ</unicode>
+      <cyrillic>цөөтөх</cyrillic>
+      <definition>〔动〕变少，减少，变得更少.</definition>
+      <page>1545</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠥᠺᠠᠳᠺᠥ</unicode>
+      <cyrillic>ЦӨӨТӨХ</cyrillic>
+      <definition>цөөрөх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠥᠭᠡᠳᠬᠦ</unicode>
+      <cyrillic>цөөтөх</cyrillic>
+      <definition>улам цөөн болох.</definition>
+      <page>795</page>
+    </entry_item>
+  </entries>
+</entry>

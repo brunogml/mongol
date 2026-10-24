@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3847">
+  <head>
+    <unicode>ᠰᠢᠯᠠᠺᠠᠺᠥ</unicode>
+    <transcript>silegekü</transcript>
+    <transcript2>silegegö</transcript2>
+    <cyrillic>шилээх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3846</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠯᠠᠺᠠᠺᠥ</unicode>
+      <uighur>silekekü</uighur>
+      <cyrillic>шилээх</cyrillic>
+      <transcript>SILEGE-</transcript>
+      <definition>v. t. To stir fire with a poker.</definition>
+      <page>706</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠠᠯ ᠰᠢᠯᠠᠺᠠᠺᠥ</unicode>
+          <transcript>γal --ky</transcript>
+          <definition> To stoke or poke the fire.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠯᠡᠭᠡᠬᠦ</unicode>
+      <cyrillic>шилээх</cyrillic>
+      <definition>〔动〕拨火，拨弄.</definition>
+      <page>1635</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠯᠠᠺᠠᠺᠥ</unicode>
+      <cyrillic>ШИЛЭЭХ</cyrillic>
+      <definition>перемешивать в топке горящее топливо, переворачивать горящие дрова, мешать огонь кочергой; гал шилээх шуровать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠯᠡᠭᠡᠬᠦ</unicode>
+      <cyrillic>шилээх</cyrillic>
+      <definition>тулга зууханд түлсэн галын үнсцог зэргийг доогуур нь ухаж татаж гаргах; гал шилээх.</definition>
+      <page>847</page>
+    </entry_item>
+  </entries>
+</entry>

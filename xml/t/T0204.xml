@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0204">
+  <head>
+    <unicode>ᠲᠠᠩᠬᠠᠶᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tangqayiraγulqu</transcript>
+    <transcript2>danggayiragolgo</transcript2>
+    <cyrillic>танхайруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T0203</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠩᠬᠠᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>танхайруулах</cyrillic>
+      <definition>〔动〕танхайрах 的使动态.</definition>
+      <page>1027</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠩᠬᠠᠶᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАНХАЙРУУЛАХ</cyrillic>
+      <definition>танхайрах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠩᠬᠠᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>танхайруулах</cyrillic>
+      <definition>танхайрахын үйлдүүлэх хэв, танхай болгох.</definition>
+      <page>521</page>
+    </entry_item>
+  </entries>
+</entry>

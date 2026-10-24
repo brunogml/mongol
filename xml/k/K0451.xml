@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K0451">
+  <head>
+    <unicode>ᠺᠡᠰᠡᠭᠯᠡᠺᠦ</unicode>
+    <transcript>keseglekü</transcript>
+    <transcript2>geseglegö</transcript2>
+    <cyrillic>хэсэглэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K0452</ref>
+    <ref>K0453</ref>
+    <ref>K0450</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠡᠰᠡᠭᠯᠡᠺᠦ</unicode>
+      <uighur>keseklekü</uighur>
+      <cyrillic>хэсэглэх</cyrillic>
+      <transcript>KESEGLE-</transcript>
+      <definition>V. t. To cut, break, or divide into parts, strips, groups, etc.</definition>
+      <page>459</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠠᠰᠠᠺᠯᠠᠨ ᠺᠡᠷᠴᠢᠺᠦ</unicode>
+          <transcript>--n kerciky</transcript>
+          <definition>To cut into pieces</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠠᠰᠠᠺᠯᠠᠨ ᠬᠤᠪᠢᠶᠠᠬᠤ</unicode>
+          <transcript>--n xubijaxu</transcript>
+          <definition>To break up or divide into pieces.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠡᠰᠡᠭᠯᠡᠺᠦ</unicode>
+      <definition>couper , faire par parties, par lambeaux, par morceaux.</definition>
+      <page>2457</page>
+      <examples>
+        <example>
+          <unicode>ᠥᠪᠡᠷ ᠤᠨ ᠪᠡᠶ ᠡ ᠎ᠶᠢ ᠺᠡᠰᠡᠭᠯᠡᠨ ᠭᠡᠷᠴᠢᠺᠦ</unicode>
+          <definition>couper son corps par morceaux</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠺᠡᠰᠡᠭᠯᠡᠺᠦ</unicode>
+      <uighur>keseklekü</uighur>
+      <definition>in Stücke zerschneiden</definition>
+      <page>154</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠺᠡᠰᠡᠭᠯᠡᠺᠦ</unicode>
+      <uighur>keseklekü</uighur>
+      <definition>v.t. To cut into pieces. To cut aunder</definition>
+      <page>606</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠰᠡᠭᠯᠡᠬᠦ</unicode>
+      <cyrillic>хэсэглэх</cyrillic>
+      <definition>〔动〕划分，分割，瓜分，分成块，分片，分节，分块，分部，分地区：~н төлөх 部分缴款；分期付款；~н хичээллэх 分段教学；~н чээжлэх 分段记忆.</definition>
+      <page>1493</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠰᠠᠺᠯᠠᠺᠥ</unicode>
+      <cyrillic>ХЭСЭГЛЭХ</cyrillic>
+      <definition>делить на части, расчленять, разрезать на куски; дөрөв хэсэглэх делить, разделить на четыре части.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хэсэглэх</cyrillic>
+      <definition>teilen, zerstückeln; gruppieren; хэсэглэн тэлөх in Raten bezahlen; хэсэглэсэн зөвлөлгөөн Beratung in Arbeitsgruppen</definition>
+      <page>345</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠰᠡᠭᠯᠡᠬᠦ</unicode>
+      <cyrillic>хэсэглэх</cyrillic>
+      <definition>хэсэг болгох, тусгаар болгох, анги болгох, ангилах.</definition>
+      <page>767</page>
+    </entry_item>
+  </entries>
+</entry>

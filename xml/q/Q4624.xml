@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4624">
+  <head>
+    <unicode>ᠬᠣᠪ</unicode>
+    <transcript>qub</transcript>
+    <transcript2>gob</transcript2>
+    <cyrillic>хув</cyrillic>
+  </head>
+  <see_also>
+    <ref>Q4628</ref>
+    <ref>Q4625</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠪ</unicode>
+      <uighur>qub</uighur>
+      <cyrillic>хув</cyrillic>
+      <transcript>XUB</transcript>
+      <definition>intensifying adv. particle used before certain adj. and adv. beginning with the syllable xu- or xaγu-</definition>
+      <page>975</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠪ ᠬᠠᠭᠤᠷᠠᠢ</unicode>
+          <transcript>-- xaγurai</transcript>
+          <definition> Completely dry.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠪ ᠬᠤᠷᠳᠤᠨ</unicode>
+          <transcript>-- xurdun</transcript>
+          <definition> Very fast.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠪ</unicode>
+      <cyrillic>ХУВ</cyrillic>
+      <definition>V ху-гаар эхлэсэн зарим үгэнд хүч нэмэгдүүлэх сул үг (усилительная частица к словам с начальным “ху”); хув хуурай совсем сухой, высохший; хув хуурай болох пересохнуть, пересушиваться; хув хуурай болтол сухо на сухо; дотуур хувцас хув хуурай болжээ бельё пересохло; хув хуурай газар высохшая земля. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠪ</unicode>
+      <cyrillic>хув /3</cyrillic>
+      <definition>хүч нэмэгдүүлэх үг.</definition>
+      <page>721</page>
+    </entry_item>
+  </entries>
+</entry>

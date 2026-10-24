@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0107">
+  <head>
+    <unicode>ᠵᠠᠩᠬᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>ǰangqaγanaqu</transcript>
+    <transcript2>yanggaganago</transcript2>
+    <cyrillic>занхганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y0108</ref>
+    <ref>Y0109</ref>
+  </derivatives>
+  <see_also>
+    <ref>Y0106</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠩᠬᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЗАНХГАНАХ</cyrillic>
+      <definition>трястись, маячить, быть непропорциональным; зантганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠩᠬᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>занхганах</cyrillic>
+      <definition>занхгар юмны үргэлжлэн хөдлөх.</definition>
+      <page>267</page>
+    </entry_item>
+  </entries>
+</entry>

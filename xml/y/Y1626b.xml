@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1626b">
+  <head>
+    <unicode>ᠵᠠᠶᠢᠯᠠᠭᠠᠬᠣ</unicode>
+    <transcript>ǰayilaγaqu</transcript>
+    <transcript2>yayilagago</transcript2>
+    <cyrillic>зайлгах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1631</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠢᠯᠭᠠᠬᠤ</unicode>
+      <cyrillic>зайлгах</cyrillic>
+      <definition>〔动〕зайх 的使动态.</definition>
+      <page>533</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠢᠯᠠᠭᠠᠬᠤ</unicode>
+      <cyrillic>зайлгах</cyrillic>
+      <definition>зайлагдах ба зайлах зайхад хүрүүлэх.</definition>
+      <page>260</page>
+    </entry_item>
+  </entries>
+</entry>

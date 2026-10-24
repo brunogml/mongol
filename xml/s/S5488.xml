@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5488">
+  <head>
+    <unicode>ᠰᠣᠪ</unicode>
+    <transcript>sob</transcript>
+    <transcript2>sob</transcript2>
+    <cyrillic>сов</cyrillic>
+  </head>
+  <see_also>
+    <ref>S5487</ref>
+    <ref>S5489</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠣᠪ</unicode>
+      <uighur>sob</uighur>
+      <cyrillic>сов</cyrillic>
+      <transcript>SOB</transcript>
+      <definition>[søb, sub] n. Otter</definition>
+      <page>722</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠤᠪ</unicode>
+      <definition>une espèce de loutre.</definition>
+      <page>1390</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠰᠣᠪ</unicode>
+      <uighur>sob</uighur>
+      <definition>der Fischotter.</definition>
+      <page>366</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠰᠣᠪ</unicode>
+      <uighur>sub</uighur>
+      <definition>n. An otter.</definition>
+      <page>1469</page>
+      <examples>
+        <example>
+          <uighur>sub-yin debel</uighur>
+          <definition>n. A fur-coat made from otter's skin</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠪ</unicode>
+      <cyrillic>сов</cyrillic>
+      <definition>〔名〕〈动〉水獭.</definition>
+      <page>928</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠪ</unicode>
+      <cyrillic>СОВ</cyrillic>
+      <definition>амьт. выдра; халиу-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠪ</unicode>
+      <cyrillic>сов</cyrillic>
+      <definition>халиу.</definition>
+      <page>475</page>
+    </entry_item>
+  </entries>
+</entry>

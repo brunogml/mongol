@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K5016">
+  <head>
+    <unicode>ᠺᠥᠷᠥᠰᠥᠲᠥ</unicode>
+    <transcript>körüsütü</transcript>
+    <transcript2>görösödö</transcript2>
+    <cyrillic>хөрст</cyrillic>
+  </head>
+  <see_also>
+    <ref>K5015</ref>
+  </see_also>
+  <related_to>
+    <ref>K5014</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠥᠷᠥᠰᠥᠲᠥ</unicode>
+      <uighur>körüsüdü</uighur>
+      <cyrillic>хөрст</cyrillic>
+      <transcript>KØRYSYTY</transcript>
+      <definition>adj. Covered with skin, bark, etc.</definition>
+      <page>492</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠥᠷᠥᠰᠥᠲᠥ ᠭᠠᠵᠠᠷ</unicode>
+          <transcript>-- γazar</transcript>
+          <definition>Land or plot covered with grass</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠷᠥᠰᠥᠲᠦ</unicode>
+      <cyrillic>хөрст</cyrillic>
+      <definition>〔形〕①表皮的；地壳的，地皮的；土壤的；②参见 хөрстэй.</definition>
+      <page>1410</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠷᠥᠰᠥᠲᠥ</unicode>
+      <cyrillic>ХӨРСТ</cyrillic>
+      <definition>почвенный; хөрст ертөнц земля.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠥᠷᠦᠰᠦᠲᠦ</unicode>
+      <definition>couvert d'épiderme, de pellicule, de gazon, etc.</definition>
+      <page>2641</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠥᠷᠦᠰᠦᠲᠦ ᠠᠭᠤᠯᠠ</unicode>
+          <definition>montagne couverte de gazon</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠥᠷᠦᠰᠦᠲᠦ ᠭᠠᠵᠠᠷ</unicode>
+          <definition>terre couverte d'herbe, un champ, une prairie</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠥᠷᠦᠰᠦᠲᠦ ᠪᠦᠰᠡ</unicode>
+          <definition>seinturon de cuir</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

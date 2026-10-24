@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K0713">
+  <head>
+    <unicode>ᠺᠠᠯᠠᠺᠠᠶᠢᠳᠠᠺᠥ</unicode>
+    <transcript>kelegeyidekü</transcript>
+    <transcript2>gelegeyidegö</transcript2>
+    <cyrillic>хэлгийдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K0715</ref>
+    <ref>K0712</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠯᠡᠭᠡᠢᠳᠡᠬᠦ</unicode>
+      <cyrillic>хэлгийдэх</cyrillic>
+      <definition>〔动〕成哑巴；变口吃.</definition>
+      <page>1478</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠯᠠᠺᠠᠶᠢᠳᠠᠺᠥ</unicode>
+      <cyrillic>ХЭЛГИЙДЭХ</cyrillic>
+      <definition>быть косноязычным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хэлгийдэх</cyrillic>
+      <definition>stumm werden</definition>
+      <page>341</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠯᠡᠭᠡᠢᠳᠡᠬᠦ</unicode>
+      <cyrillic>хэлгийдэх</cyrillic>
+      <definition>хэлгий болох.</definition>
+      <page>758</page>
+    </entry_item>
+  </entries>
+</entry>

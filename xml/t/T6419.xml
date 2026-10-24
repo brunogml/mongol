@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6419">
+  <head>
+    <unicode>ᠲᠣᠰᠠᠭᠠᠷᠯᠠᠬᠴᠢ</unicode>
+    <transcript>tusaγarlaγči</transcript>
+    <transcript2>dosagarlagci</transcript2>
+    <cyrillic>тусгаарлагч</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T6417</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠰᠠᠭᠠᠷᠯᠠᠭᠴᠢ</unicode>
+      <cyrillic>тусгаарлагч</cyrillic>
+      <definition>〔名〕分离器，隔离器；绝缘体：цахилгаан ~ 〈电〉绝缘体.</definition>
+      <page>1118</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠰᠠᠭᠠᠷᠯᠠᠬᠴᠢ</unicode>
+      <cyrillic>ТУСГААРЛАГЧ</cyrillic>
+      <definition>1. изоляционист; сепаратист; салан тусгаарлагч у.т. сепаратљст; 2. изолљрующий; изоляционный; тусгаарлагч тууз изоляционная лента. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тусгаарлагч</cyrillic>
+      <definition>El Isolator m; Tech Separator m</definition>
+      <page>240</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠰᠠᠭᠠᠷᠯᠠᠭᠴᠢ</unicode>
+      <cyrillic>тусгаарлагч</cyrillic>
+      <definition>тусгаарлах үйлийн нэр; цахилгаан тусгаарлагч.</definition>
+      <page>559</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T6413</ref>
+  </related_to>
+</entry>

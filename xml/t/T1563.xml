@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1563">
+  <head>
+    <unicode>ᠲᠠᠲᠠᠪᠣᠷᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tataburilaγulqu</transcript>
+    <transcript2>dadaborilagolgo</transcript2>
+    <cyrillic>татварлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T1562</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠲᠠᠪᠤᠷᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>татварлуулах</cyrillic>
+      <definition>〔动〕татварлах 的使动态.</definition>
+      <page>1039</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠲᠠᠪᠣᠷᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАТВАРЛУУЛАХ</cyrillic>
+      <definition>татварлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>татварлуулах</cyrillic>
+      <definition>Kaus von татварлах</definition>
+      <page>223</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠲᠠᠪᠤᠷᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>татварлуулах</cyrillic>
+      <definition>татварлахын үйлдүүлэх хэв.</definition>
+      <page>526</page>
+    </entry_item>
+  </entries>
+</entry>

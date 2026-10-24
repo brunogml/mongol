@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3011">
+  <head>
+    <unicode>ᠴᠣᠯᠴᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čulčiraγulqu</transcript>
+    <transcript2>colciragolgo</transcript2>
+    <cyrillic>цолчруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C3010</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠣᠯᠴᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цолчруулах</cyrillic>
+      <definition>〔动〕цолчрох 的使动态.</definition>
+      <page>1532</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠯᠴᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦОЛЧРУУЛАХ</cyrillic>
+      <definition>цолчрох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цолчруулах</cyrillic>
+      <definition>Kaus von цолчрох</definition>
+      <page>356</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠣᠯᠴᠣᠷᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цолчруулах</cyrillic>
+      <definition>цолчрохын үйлдүүлэх хэв.</definition>
+      <page>789</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K5023">
+  <head>
+    <unicode>ᠺᠥᠷᠥᠰᠥᠵᠢᠺᠥ</unicode>
+    <transcript>körüsüǰikü</transcript>
+    <transcript2>görösöcigö</transcript2>
+    <cyrillic>хөрсжих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K5024</ref>
+    <ref>K5022</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠷᠥᠰᠥᠵᠢᠬᠦ</unicode>
+      <cyrillic>хөрсжих</cyrillic>
+      <definition>〔动〕①长出表皮来；②长出草皮；③土壤形成.</definition>
+      <page>1410</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠷᠥᠰᠥᠵᠢᠺᠥ</unicode>
+      <cyrillic>ХӨРСЖИХ</cyrillic>
+      <definition>I покрываться кожицей; гранулироваться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠷᠥᠰᠥᠵᠢᠺᠥ</unicode>
+      <cyrillic>ХӨРСЖИХ</cyrillic>
+      <definition>II покрываться слоем хорошей почвы. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хөрсжих</cyrillic>
+      <definition>sich mit einer Haut od einem Belag bedecken; verkrusten; Med sich verkapseln</definition>
+      <page>322</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠷᠥᠰᠥᠵᠢᠬᠦ</unicode>
+      <cyrillic>хөрсжих</cyrillic>
+      <definition>хөрстэй болох, хөрс суух.</definition>
+      <page>717</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>K5014</ref>
+  </related_to>
+</entry>

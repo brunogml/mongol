@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1632">
+  <head>
+    <unicode>ᠮᠣᠩᠬᠠᠬᠷᠠᠬᠣ</unicode>
+    <transcript>mungqaqraqu</transcript>
+    <transcript2>monggagrago</transcript2>
+    <cyrillic>мунхаграх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M1633</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠤᠩᠬᠠᠭᠷᠠᠬᠤ</unicode>
+      <cyrillic>мунхаграх</cyrillic>
+      <definition>〔动〕①变糊涂，变昏愦；②变愚昧，变蒙昧；变糊涂不清；③变荒谬，变悖谬，变荒唐.</definition>
+      <page>695</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠩᠬᠠᠬᠷᠠᠬᠣ</unicode>
+      <cyrillic>МУНХАГРАХ</cyrillic>
+      <definition>глупеть, становиться невежественным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠤᠩᠬᠠᠭᠷᠠᠬᠤ</unicode>
+      <cyrillic>мунхаграх</cyrillic>
+      <definition>мунхаг болох.</definition>
+      <page>350</page>
+    </entry_item>
+  </entries>
+</entry>

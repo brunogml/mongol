@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0322">
+  <head>
+    <unicode>ᠮᠠᠭᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>maγaraγulqu</transcript>
+    <transcript2>magaragolgo</transcript2>
+    <cyrillic>мааруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>M0319</ref>
+  </related_to>
+  <see_also>
+    <ref>M0321</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠭᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>мааруулах</cyrillic>
+      <definition>〔动〕маарах 的使动态.</definition>
+      <page>651</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠭᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>МААРУУЛАХ</cyrillic>
+      <definition>маарах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠭᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>мааруулах</cyrillic>
+      <definition>маарахын үйлдүүлэх хэв.</definition>
+      <page>325</page>
+    </entry_item>
+  </entries>
+</entry>

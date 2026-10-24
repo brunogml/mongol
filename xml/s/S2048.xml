@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2048">
+  <head>
+    <unicode>ᠰᠠᠪᠢᠯᠠᠺᠥ</unicode>
+    <transcript>sebilekü</transcript>
+    <transcript2>sebilegö</transcript2>
+    <cyrillic>сэвлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S2049</ref>
+  </derivatives>
+  <see_also>
+    <ref>S2093</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠪᠢᠯᠠᠺᠥ</unicode>
+      <cyrillic>СЭВЛЭХ</cyrillic>
+      <definition>охлаждать, остужать жидкость (подливая что-л. холодное), разбавлять горячее холодным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠪᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>сэвлэх</cyrillic>
+      <definition>халуун буцламгай юмыг хүйтэн юмаар сэвэх.</definition>
+      <page>499</page>
+    </entry_item>
+  </entries>
+</entry>

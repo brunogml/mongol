@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1360">
+  <head>
+    <unicode>ᠲᠠᠰᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tasilaγulqu</transcript>
+    <transcript2>dasilagolgo</transcript2>
+    <cyrillic>ташлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T1358</ref>
+  </related_to>
+  <see_also>
+    <ref>T1361</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠰᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ташлуулах</cyrillic>
+      <definition>〔动〕①ташлах 的使动态；②附带，附寄.</definition>
+      <page>1044</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠰᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАШЛУУЛАХ</cyrillic>
+      <definition>ташлах-ын үйлдүүл., захидалд ариун хадаг ташлуулан барив преподнёс письмо со священным хадаком. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠰᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ташлуулах</cyrillic>
+      <definition>1. ташлахын үйлдүүлэх хэв;2. дагалдуулах; захидалд ариун хадаг ташлуулан барив.</definition>
+      <page>529</page>
+    </entry_item>
+  </entries>
+</entry>

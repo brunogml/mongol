@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4132">
+  <head>
+    <unicode>ᠪᠥᠢᠯᠠᠰᠥ</unicode>
+    <transcript>büilesü</transcript>
+    <transcript2>böilesö</transcript2>
+    <cyrillic>бүйлс</cyrillic>
+  </head>
+  <variants>
+    <variant type="cyrillic">бүйлсэн</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠢᠯᠠᠰᠥ</unicode>
+      <cyrillic>БҮЙЛС(ЭН)</cyrillic>
+      <definition>ург. 1. миндаль; 2. миндальный.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠢᠯᠠᠰᠥ ᠎ᠶᠢᠨ</unicode>
+      <cyrillic>БҮЙЛСНИЙ</cyrillic>
+      <definition>бүйлс(н)-ий харьяал., миндальный; бүйлсний сүү миндальное молоко.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠦᠢᠯᠡᠰᠦ</unicode>
+      <cyrillic>бүйлс(эн)</cyrillic>
+      <definition>〔名〕①〈植〉扁祧，扁桃树；巴旦杏，巴旦杏树：~ний сүү 扁桃乳；杏仁乳剂；②〈解〉扁桃体：~эн тойронтос 扁桃体周炎.</definition>
+      <page>225</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бүйлс[эн]</cyrillic>
+      <definition>Bot Mandel f</definition>
+      <page>65</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠦᠢᠯᠡᠰᠦ</unicode>
+      <cyrillic>бүйлс</cyrillic>
+      <definition>буйлс.</definition>
+      <page>115</page>
+    </entry_item>
+  </entries>
+</entry>

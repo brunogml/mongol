@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K3129">
+  <head>
+    <unicode>ᠺᠥᠨᠲᠥᠷᠺᠡᠨᠳᠡᠺᠥ</unicode>
+    <transcript>köntürgendekü</transcript>
+    <transcript2>göndörgendegö</transcript2>
+    <cyrillic>хөнтөргөндөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K3130</ref>
+    <ref>K3128</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠨᠲᠥᠷᠭᠡᠨᠳᠡᠬᠦ</unicode>
+      <cyrillic>хөнтөргөндөх</cyrillic>
+      <definition>〔动〕变前倾：ачаа ~ （车上的）货物前倾，前重后轻.</definition>
+      <page>1402</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠨᠲᠥᠷᠺᠡᠨᠳᠡᠺᠥ</unicode>
+      <cyrillic>ХӨНТӨРГӨНДӨХ</cyrillic>
+      <definition>становиться слишком наклонённым вперёд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠨᠲᠥᠷᠭᠡᠨᠳᠡᠬᠦ</unicode>
+      <cyrillic>хөнтөргөндөх</cyrillic>
+      <definition>хэтэрхий хөнтөргөн бодох.</definition>
+      <page>713</page>
+    </entry_item>
+  </entries>
+</entry>

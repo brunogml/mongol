@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4169">
+  <head>
+    <unicode>ᠰᠢᠮᠰᠢᠷᠢᠺᠥᠯᠺᠥ</unicode>
+    <transcript>simsirigülkü</transcript>
+    <transcript2>simsirigölgö</transcript2>
+    <cyrillic>шимшрүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S4168</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠮᠰᠢᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>шимшрүүлэх</cyrillic>
+      <definition>〔动〕шимшрэх /1、/2 的使动态.</definition>
+      <page>1636</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠮᠰᠢᠷᠢᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ШИМШРҮҮЛЭХ</cyrillic>
+      <definition>шимшрэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шимшрүүлэх</cyrillic>
+      <definition>Kaus von шимшрэх</definition>
+      <page>385</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠮᠰᠢᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>шимшрүүлэх</cyrillic>
+      <definition>шимшрэхийн үйлдүүлэх хэв.</definition>
+      <page>848</page>
+    </entry_item>
+  </entries>
+</entry>

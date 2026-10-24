@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A0005">
+  <head>
+    <unicode>ᠠᠣᠭᠠᠨ</unicode>
+    <transcript>auγan</transcript>
+    <transcript2>aogan</transcript2>
+    <cyrillic>ууган</cyrillic>
+  </head><see_also>
+    <ref>U0015</ref>
+  
+    <ref>A0004</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠣᠭᠠᠨ</unicode>
+      <uighur>auγan</uighur>
+      <cyrillic>ууган</cyrillic>
+      <transcript>AUГAN</transcript>
+      <definition>[= uuγan] adj. Oldest, first-born.</definition>
+      <page>59</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠤᠭᠠᠨ ᠺᠥᠪᠡᠭᠦᠨ</unicode>
+          <transcript>-- kybegyn</transcript>
+          <definition>The oldest son</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠤᠭᠠᠨ ᠰᠤᠷᠭᠠᠯᠢ</unicode>
+          <transcript>-- surγaγuli</transcript>
+          <definition> The oldest or very first school.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠣᠭᠠᠨ</unicode>
+      <uighur>auγan</uighur>
+      <definition>l'ainé</definition>
+      <page>9</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠤᠭᠠᠨ ᠪᠡᠷᠢ</unicode>
+          <uighur>auγan beri</uighur>
+          <definition>belle-soeur, bru aînée</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠤᠭᠠᠨ ᠬᠥᠪᠡᠭᠦᠨ</unicode>
+          <uighur>auγan köbegün</uighur>
+          <definition>fils aîné</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠠᠤᠭᠠᠨ</unicode>
+      <page>5</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠤᠭᠠᠨ ᠪᠠᠷᠢ</unicode>
+          <uighur>auγan bari</uighur>
+          <definition>n. Elder daughter in law.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠤᠭᠠᠨ ᠺᠥᠪᠡᠺᠥᠨ</unicode>
+          <uighur>auγan köbegün</uighur>
+          <definition>n. An elder son.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

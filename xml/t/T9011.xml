@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9011">
+  <head>
+    <unicode>ᠲᠥᠺᠡᠷᠢᠯᠳᠥᠺᠥ</unicode>
+    <transcript>tögerildükü</transcript>
+    <transcript2>dögerildögö</transcript2>
+    <cyrillic>төөрөлдөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T9012</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠥᠭᠡᠷᠢᠯᠳᠡᠬᠦ</unicode>
+      <cyrillic>төөрөлдөх</cyrillic>
+      <definition>〔动〕төөрөх 的互动态.</definition>
+      <page>1100</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠺᠡᠷᠢᠯᠳᠥᠺᠥ</unicode>
+      <cyrillic>ТӨӨРӨЛДӨХ</cyrillic>
+      <definition>төөрөх-ийн үйлдэлд., 1) заблудљться, заблуждаться, потерять, растерять друг друга; растеряться, запутаться (в делах); 2) блуждать; суртлын талаар төөрөлдөх идейный разброд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠥᠭᠡᠷᠢᠯᠳᠦᠬᠦ</unicode>
+      <cyrillic>төөрөлдөх</cyrillic>
+      <definition>төөрөхийн үйлдэгдэх хэв.</definition>
+      <page>551</page>
+    </entry_item>
+  </entries>
+</entry>

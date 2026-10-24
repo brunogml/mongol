@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0999">
+  <head>
+    <unicode>ᠳᠠᠪᠠᠯᠭᠠᠯᠠᠬᠣ</unicode>
+    <transcript>dabalγalaqu</transcript>
+    <transcript2>dabalgalago</transcript2>
+    <cyrillic>давлагаалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1000</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠪᠠᠯᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>давлагаалах</cyrillic>
+      <definition>〔动〕见 давалгаалах.</definition>
+      <page>366</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠪᠠᠯᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ДАВЛАГААЛАХ</cyrillic>
+      <definition>давлах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠪᠠᠯᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ДАВЛАГАЛАХ</cyrillic>
+      <definition>давлах-ын олонтаа., волноваться (о море). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠪᠠᠯᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>давлагаалах</cyrillic>
+      <definition>давлагаан гарах; давлагаалах үеэр далайд явахад бэрхтэй.</definition>
+      <page>176</page>
+    </entry_item>
+  </entries>
+</entry>

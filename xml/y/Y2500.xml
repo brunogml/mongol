@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y2500">
+  <head>
+    <unicode>ᠵᠢᠩᠳᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ǰingdegülkü</transcript>
+    <transcript2>yingdegölgö</transcript2>
+    <cyrillic>жиндүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y2498</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠩᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>жиндүүлэх</cyrillic>
+      <definition>〔动〕жиндэх 的使动态.</definition>
+      <page>511</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠩᠳᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЖИНДҮҮЛЭХ</cyrillic>
+      <definition>жиндэх-ийн үйлдүүл., прохватить, прохватывать, пронизывать холодом. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠩᠳᠡᠭᠦᠯ</unicode>
+      <cyrillic>жиндүүлэх</cyrillic>
+      <definition>жиндэхийн үйлдүүлэх хэв. жиндэхэд хүрүүлэх.</definition>
+      <page>247</page>
+    </entry_item>
+  </entries>
+</entry>

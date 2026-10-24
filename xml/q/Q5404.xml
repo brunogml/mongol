@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q5404">
+  <head>
+    <unicode> ᠬᠣᠳᠬᠣᠯᠴᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>qutqulčaγulqu</transcript>
+    <transcript2>godgolcagolgo</transcript2>
+    <cyrillic>хутгалцуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q5403</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠳᠬᠤᠯᠴᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хутгалцуулах</cyrillic>
+      <definition>〔动〕хутгалцах 的使动态.</definition>
+      <page>1440</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode> ᠬᠣᠳᠬᠣᠯᠴᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХУТГАЛЦУУЛАХ</cyrillic>
+      <definition>хутгалцах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠳᠬᠤᠯᠴᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хутгалцуулах</cyrillic>
+      <definition>хутгалцахын үйлдүүлэх хэв.</definition>
+      <page>736</page>
+    </entry_item>
+  </entries>
+</entry>

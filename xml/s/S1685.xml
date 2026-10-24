@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1685">
+  <head>
+    <unicode>ᠰᠠᠷᠠᠯᠵᠢᠯᠠᠬᠣ</unicode>
+    <transcript>saralǰilaqu</transcript>
+    <transcript2>saralcilago</transcript2>
+    <cyrillic>сараалжлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1686</ref>
+    <ref>S1687</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠷᠠᠯᠵᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>сараалжлах</cyrillic>
+      <definition>〔动〕参见 сараалждах②.</definition>
+      <page>916</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠷᠠᠯᠵᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>САРААЛЖЛАХ</cyrillic>
+      <definition>сараалждах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сараалжлах</cyrillic>
+      <definition>= сараалждах</definition>
+      <page>195</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠷᠠᠯᠵᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>сараалжлах</cyrillic>
+      <definition>сараалж хийх, сараалж болгох.</definition>
+      <page>470</page>
+    </entry_item>
+  </entries>
+</entry>

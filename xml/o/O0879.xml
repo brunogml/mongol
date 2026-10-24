@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O0879">
+  <head>
+    <unicode>ᠥᠯᠠᠺᠥᠳᠠᠺᠥ</unicode>
+    <transcript>ülegüdekü</transcript>
+    <transcript2>ölegödegö</transcript2>
+    <cyrillic>үлүүдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>O0880</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠦᠯᠡᠭᠦᠳᠡᠬᠦ</unicode>
+      <cyrillic>үлүүдэх</cyrillic>
+      <definition>〔动〕参见 илүүдэх.</definition>
+      <page>1237</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠯᠠᠺᠥᠳᠠᠺᠥ</unicode>
+      <cyrillic>ҮЛҮҮДЭХ</cyrillic>
+      <definition>илүүдэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠦᠯᠡᠭᠦᠳᠡᠬᠦ</unicode>
+      <cyrillic>үлүүдэх</cyrillic>
+      <definition>илүүдэх.</definition>
+      <page>620</page>
+    </entry_item>
+  </entries>
+</entry>

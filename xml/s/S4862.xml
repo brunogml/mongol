@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4862">
+  <head>
+    <unicode>ᠱᠣᠣᠺᠢᠲᠣᠨᠠᠬᠣ</unicode>
+    <transcript>šoukitunaqu</transcript>
+    <transcript2>soogidonago</transcript2>
+    <cyrillic>шуухитнах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S4863</ref>
+    <ref>S4864</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠤᠤᠬᠢᠲᠤᠨᠠᠬᠤ</unicode>
+      <cyrillic>шуухитнах</cyrillic>
+      <definition>〔动〕参见 шуухинах.</definition>
+      <page>1664</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠣᠺᠢᠲᠣᠨᠠᠬᠣ</unicode>
+      <cyrillic>ШУУХИТНАХ</cyrillic>
+      <definition>шуухинах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шуухитнах</cyrillic>
+      <definition>= шуухинах</definition>
+      <page>393</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠤᠤᠬᠢᠲᠤᠨᠠᠬᠤ</unicode>
+      <cyrillic>шуухитнах</cyrillic>
+      <definition>шуухинах.</definition>
+      <page>861</page>
+    </entry_item>
+  </entries>
+</entry>

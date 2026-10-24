@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B2272">
+  <head>
+    <unicode>ᠪᠢᠯᠠᠥ</unicode>
+    <transcript>bileü</transcript>
+    <transcript2>bileö</transcript2>
+    <cyrillic>билүү</cyrillic>
+  </head><see_also>
+    <ref>B2278</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠢᠯᠠᠥ</unicode>
+      <uighur>bileü</uighur>
+      <transcript>BILEY</transcript>
+      <definition>See bilegyy.</definition>
+      <page>104</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠢᠯᠡᠦ ~ ᠪᠢᠯᠡᠺᠦ ~ ᠪᠢᠯᠡᠭᠦᠺᠦ</unicode>
+      <definition>pierre à aiguiser</definition>
+      <page>1141</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠢᠯᠡᠦ ᠪᠡᠷ ᠬᠠᠪᠢᠷᠭᠠᠬᠤ</unicode>
+          <definition>aiguiser (le couteau)</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠤᠯᠭᠤ ᠪᠢᠯᠡᠦ</unicode>
+          <definition>espèce de gâteauc plats faits avec du riz et de la pâte, et cuits dans l'huile de chanvre</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠡ ᠪᠢᠯᠡᠦ</unicode>
+          <definition>espèce de pâtisserie faite avec de la farine de vermicelle et de l'huile de chanvre</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

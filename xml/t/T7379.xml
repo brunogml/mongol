@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7379">
+  <head>
+    <unicode>ᠲᠣᠺᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tokilaγulqu</transcript>
+    <transcript2>dogilagolgo</transcript2>
+    <cyrillic>тохилуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T7378</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠬᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тохилуулах</cyrillic>
+      <definition>〔动〕тохилох 的使动态.</definition>
+      <page>1086</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠺᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТОХИЛУУЛАХ</cyrillic>
+      <definition>тохилох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тохилуулах</cyrillic>
+      <definition>(Kaus von тохилох) komfortabel ausstatten</definition>
+      <page>232</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠬᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тохилуулах</cyrillic>
+      <definition>тохилохын үйлдүүлэх хэв.</definition>
+      <page>546</page>
+    </entry_item>
+  </entries>
+</entry>

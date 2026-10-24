@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A0661">
+  <head>
+    <unicode>ᠠᠭᠠᠵᠢᠮᠰᠢᠬ</unicode>
+    <transcript>aγaǰimsiq</transcript>
+    <transcript2>agacimsig</transcript2>
+    <cyrillic>аажимшиг</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠭᠠᠵᠢᠮᠰᠢᠭ</unicode>
+      <cyrillic>аажимшиг</cyrillic>
+      <definition>〔形〕稍慢一些，较慢一点，较迟缓些.</definition>
+      <page>3</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠠᠵᠢᠮᠰᠢᠬ</unicode>
+      <cyrillic>ААЖИМШИГ</cyrillic>
+      <definition>постепенно, потихоньку.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠭᠠᠵᠢᠮᠰᠢᠭ</unicode>
+      <cyrillic>аажимшиг</cyrillic>
+      <definition>жаахан аажим; би аажимшиг хөдлөнө.</definition>
+      <page>12</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>A0655</ref>
+  </related_to>
+</entry>

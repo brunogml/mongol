@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3576">
+  <head>
+    <unicode>ᠰᠢᠪᠥᠺᠠᠷᠠᠺᠥ</unicode>
+    <transcript>sibügerekü</transcript>
+    <transcript2>sibögeregö</transcript2>
+    <cyrillic>шөвөгрөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3575</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠪᠥᠭᠡᠷᠡᠬᠦ</unicode>
+      <cyrillic>шөвөгрөх</cyrillic>
+      <definition>〔动〕①（角力比赛中）领先，获胜；②（角力比赛中）获胜五次以上.</definition>
+      <page>1652</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠪᠥᠺᠠᠷᠠᠺᠥ</unicode>
+      <cyrillic>ШӨВӨГРӨХ</cyrillic>
+      <definition>побеждать при состязании на надоме (в борьбе). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠪᠥᠭᠡᠷᠡᠬᠦ</unicode>
+      <cyrillic>шөвөгрөх</cyrillic>
+      <definition>1. наадам тэмцээнд барилдах түрүүлэх;2. мөн наадамд таваас дээш давах.</definition>
+      <page>856</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0117">
+  <head>
+    <unicode>ᠬᠠᠨᠢᠴᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>qaničaγulqu</transcript>
+    <transcript2>ganicagolgo</transcript2>
+    <cyrillic>ханьцуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q0116</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠨᠢᠴᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ханьцуулах</cyrillic>
+      <definition>〔动〕ханьцах 的使动态.</definition>
+      <page>1307</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠨᠢᠴᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХАНЬЦУУЛАХ</cyrillic>
+      <definition>ханьцах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠨᠢᠴᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ханьцуулах</cyrillic>
+      <definition>ханьцахын үйлдүүлэх хэв.</definition>
+      <page>660</page>
+    </entry_item>
+  </entries>
+</entry>

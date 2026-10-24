@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O0123">
+  <head>
+    <unicode>ᠥᠥᠷᠰᠠᠺᠥ</unicode>
+    <transcript>üürsekü</transcript>
+    <transcript2>öörsegö</transcript2>
+    <cyrillic>үүрсэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>O0124</ref>
+    <ref>O0122</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠦᠦᠷᠰᠡᠬᠦ</unicode>
+      <cyrillic>үүрсэх</cyrillic>
+      <definition>〔动〕马短嘶.</definition>
+      <page>1251</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠥᠷᠰᠠᠺᠥ</unicode>
+      <cyrillic>ҮҮРСЭХ</cyrillic>
+      <definition>1) издавать короткое ржанье, крик (о лошади), ржать; хангинан үүрсэж янцгаах ржать нељстово; 2) вскакивать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>үүрсэх</cyrillic>
+      <definition>Pferd leise wiehern</definition>
+      <page>276</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠦᠦᠷᠰᠡᠬᠦ</unicode>
+      <cyrillic>үүрсэх</cyrillic>
+      <definition>адууны богино дуугаар янцгаах мэт хүхтнэн дуугарах; гүү, унагаа харан үүрсэх; бордооны морь үүрсэх.</definition>
+      <page>629</page>
+    </entry_item>
+  </entries>
+</entry>

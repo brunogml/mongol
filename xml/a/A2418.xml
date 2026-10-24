@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A2418">
+  <head>
+    <unicode>ᠠᠯᠭᠠᠣᠳᠠᠬᠣ</unicode>
+    <transcript>alγaudaqu</transcript>
+    <transcript2>algaodago</transcript2>
+    <cyrillic>алгуудах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>A2420</ref>
+    <ref>A2421</ref>
+  </derivatives>
+  <see_also>
+    <ref>A2465</ref>
+    <ref>A2419</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠯᠭᠠᠣᠳᠠᠬᠣ</unicode>
+      <cyrillic>АЛГУУДАХ</cyrillic>
+      <definition>быть невнимательным, рассеянным, забывчивым.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠯᠭᠠᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>алгуудах</cyrillic>
+      <definition>хэтэрхий алгуу болох.</definition>
+      <page>30</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4262">
+  <head>
+    <unicode>ᠺᠥᠮᠡᠶᠢᠯᠡᠺᠥ</unicode>
+    <transcript>kömeyilekü</transcript>
+    <transcript2>gömeyilegö</transcript2>
+    <cyrillic>хөөмийлөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K4263</ref>
+  </derivatives>
+  <see_also>
+    <ref>K4582</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠮᠡᠶᠢᠯᠡᠺᠥ</unicode>
+      <cyrillic>ХӨӨМИЙЛӨХ</cyrillic>
+      <definition>I снимать мех брюшной части шкуры. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠮᠡᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>хөөмийлөх /1</cyrillic>
+      <definition>нарийн үст амьтны хөөмийн хэсгийг авах; булганы арьс хөөмийлөх.</definition>
+      <page>714</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠮᠡᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>хөөмийлөх /2</cyrillic>
+      <definition>хөөмийгөөр дуу аялах.</definition>
+      <page>714</page>
+    </entry_item>
+  </entries>
+</entry>

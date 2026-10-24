@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1383">
+  <head>
+    <unicode>ᠺᠠᠶᠢᠳ</unicode>
+    <transcript>keyid</transcript>
+    <transcript2>geyid</transcript2>
+    <cyrillic>хийд</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠠᠶᠢᠳ</unicode>
+      <uighur>keyid</uighur>
+      <cyrillic>хийд</cyrillic>
+      <transcript>KEID</transcript>
+      <definition>n. Convent, monastery, temple.</definition>
+      <page>444</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠠᠶᠢᠳ ᠎ᠲᠤᠷ ᠣᠷᠤᠰᠢᠬᠤ</unicode>
+          <transcript>- - tyr orusixu</transcript>
+          <definition>To enter or Iive in a monastery</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠭᠯᠠᠭ ᠺᠠᠶᠢᠳ</unicode>
+          <transcript>aγlaγ - -</transcript>
+          <definition>Isolated monastery.</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠦᠷᠢᠶ᠎ᠡ ᠺᠠᠶᠢᠳ</unicode>
+          <transcript>kyrij -e - -</transcript>
+          <definition>Monasteries (in general).</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠡᠶᠢᠳ</unicode>
+      <definition>couvent, monastère.</definition>
+      <page>2441</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠬᠯᠠᠬ ᠺᠡᠶᠢᠳ</unicode>
+          <definition>monastère isolé</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠡᠶᠢᠰᠺᠦ ᠎ᠲᠤᠷ ᠣᠷᠤᠰᠢᠬᠤ</unicode>
+          <definition>entrer au monastère, demeurer au couvent</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠢᠳ</unicode>
+      <cyrillic>хийд</cyrillic>
+      <definition>〔名〕〈宗〉寺院，庙，庙宇；教堂：сүм ~ 寺院，庙宇，教堂；~ийн сургууль 修道院.</definition>
+      <page>1336</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠶᠢᠳ</unicode>
+      <cyrillic>ХИЙД</cyrillic>
+      <definition>монастырь; скит; кумирня, обитель; аглаг хийд пустынь; сүм хийд хорш. храмы, кумирни; монастырь; церковь; сүм хийдийн цаг тооны бичиг церковный календарь; христос сүм хийд христианская церковь; хүрээ хийд хорш. монастыри.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хийд</cyrillic>
+      <definition>Kloster n; ~ийн сургуулъ Klosterschule f</definition>
+      <page>302</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠢᠳ</unicode>
+      <cyrillic>хийд</cyrillic>
+      <definition>шашны ёсны лам нарын хуран, суух сүм орон; Эрдэнэ Зуугийн хийд.</definition>
+      <page>676</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>K1396</ref>
+  </derivatives>
+</entry>

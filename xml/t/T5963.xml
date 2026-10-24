@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T5963">
+  <head>
+    <unicode>ᠲᠣᠬᠣᠷᠠᠬᠣ</unicode>
+    <transcript>toquraqu</transcript>
+    <transcript2>dogorago</transcript2>
+  </head><derivatives>
+    <ref>T5970</ref>
+  </derivatives><see_also>
+    <ref>T5964</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠬᠣᠷᠠᠬᠣ</unicode>
+      <uighur>toqoraqu</uighur>
+      <cyrillic>тохрох</cyrillic>
+      <transcript>TOXURA-</transcript>
+      <definition>v. i. To become calm; to be consoled, soothed; to be appeased, calmed down; to settle down; to go back to normal; to correspond.</definition>
+      <page>830</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠡᠷᠡᠭ ᠶᠠᠪᠤᠳᠠᠯ ᠲᠣᠬᠣᠷᠠᠪᠠ</unicode>
+          <transcript>kereg jabudal --ba</transcript>
+          <definition> The matter is settled.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠯᠺᠢᠨ ᠲᠣᠬᠣᠷᠠᠪᠠ</unicode>
+          <transcript>salkin --ba</transcript>
+          <definition> The wind has subsided.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠬᠣᠷᠠᠬᠤ</unicode>
+      <definition>prendre du repos après la fatigue, être consolé, tranquille, soulagé, se calmer, s appalser.</definition>
+      <page>1799</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠯᠺᠢᠨ ᠳᠤᠬᠣᠷᠠᠬᠤ</unicode>
+          <definition>le vent cesse</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠣᠮ ᠰᠣᠨᠤᠰᠬᠤᠢ ᠳ᠋‍‍ᠤ‍ᠷ ᠺᠢᠺᠡᠳ ᠭᠠᠨᠢᠷᠠᠨ ᠳᠤᠬᠣᠷᠠᠬᠤ</unicode>
+          <definition>sommeiller pendant le sermon</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠣᠬᠣᠷᠠᠬᠣ</unicode>
+      <uighur>duqoraqu</uighur>
+      <definition>aufhören, inne halten, zur Ruhe kommen</definition>
+      <page>248</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠣᠬᠣᠷᠠᠬᠣ</unicode>
+      <uighur>tuquraqu</uighur>
+      <definition>v.i. To stop. To cease. To get rest or peace. To become peaceful. To be consoled. To determine, to settle. To prepare, to make ready.</definition>
+      <page>985</page>
+    </entry_item>
+  </entries>
+</entry>

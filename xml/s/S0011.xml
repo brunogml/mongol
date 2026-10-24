@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S0011">
+  <head>
+    <unicode>ᠱᠠᠨᠠ</unicode>
+    <transcript>šana</transcript>
+    <transcript2>sana</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠱᠠᠨᠠ</unicode>
+      <uighur>šana</uighur>
+      <transcript>ŠANA</transcript>
+      <definition>[S. çana] n. Flax.</definition>
+      <page>751</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠱᠠᠨᠠ</unicode>
+      <definition>le lin</definition>
+      <page>1440</page>
+      <examples>
+        <example>
+          <unicode>ᠱᠠᠨᠠ ᠎ᠶᠢᠨ ᠪᠦᠰ</unicode>
+          <definition>toile fine</definition>
+        </example>
+        <example>
+          <unicode>ᠱᠠᠨᠠ ᠎ᠶᠢᠨ ᠳᠡᠪᠡᠯᠲᠦ</unicode>
+          <definition>qui a un habit de toile fine</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

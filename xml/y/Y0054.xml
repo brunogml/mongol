@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0054">
+  <head>
+    <unicode>ᠶᠠᠨᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>yandaγulqu</transcript>
+    <transcript2>yandagolgo</transcript2>
+    <cyrillic>яндуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y0053</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠠᠨᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>яндуулах</cyrillic>
+      <definition>〔动〕яндах 的使动态.</definition>
+      <page>1754</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠠᠨᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЯНДУУЛАХ</cyrillic>
+      <definition>яндах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>яндуулах</cyrillic>
+      <definition>Kaus von яндах</definition>
+      <page>415</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠠᠨᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>яндуулах</cyrillic>
+      <definition>яндахын үйлдүүлэх хэв.</definition>
+      <page>908</page>
+    </entry_item>
+  </entries>
+</entry>

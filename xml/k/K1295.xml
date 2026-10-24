@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1295">
+  <head>
+    <unicode>ᠺᠡᠭᠦᠷᠭᠡ</unicode>
+    <transcript>kegürge</transcript>
+    <transcript2>gegörge</transcript2>
+    <cyrillic>хэхрэг</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠡᠭᠦᠷᠭᠡ</unicode>
+      <uighur>kegürge</uighur>
+      <transcript>KEGYRGE</transcript>
+      <definition>See køgerge, 1 and 2.</definition>
+      <page>443</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠡᠭᠦᠷᠭᠡ ~ ᠺᠦᠭᠦᠷᠭᠡ</unicode>
+      <definition>1 S. bhastra , tcharmaprêsavakah ; un soufflet (de forge): 
+2 grosse timbale: 
+3 pont.</definition>
+      <page>2501</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠣᠨ ᠤ ᠺᠡᠭᠦᠷᠭᠡ</unicode>
+          <definition>tambour d'été: tonnerre</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠡᠭᠦᠷᠭᠡ ᠳᠡᠯᠡᠳᠺᠦ</unicode>
+          <definition>battre le tambour, battre la caisse</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠦᠷᠡᠯ ᠺᠡᠭᠦᠷᠭᠡ</unicode>
+          <definition>tambour en métal dont on fait les cloches</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠺᠠᠺᠥᠷᠺᠠ</unicode>
+      <uighur>kegürke</uighur>
+      <definition>die Brücke</definition>
+      <page>149</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠺᠠᠺᠥᠷᠺᠠ</unicode>
+      <uighur>kegürke</uighur>
+      <definition>n. A bridge</definition>
+      <page>586</page>
+      <examples>
+        <example>
+          <uighur>kegürke talbiqu</uighur>
+          <definition>To make a bridge.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠬᠡᠷᠡᠭ</unicode>
+      <cyrillic>хэхрэг</cyrillic>
+      <definition>〔名〕参见 хэхдэг.</definition>
+      <page>1495</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠺᠥᠷᠺᠠ</unicode>
+      <cyrillic>ХЭХРЭГ</cyrillic>
+      <definition>хэхдэг-ийг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠬᠦᠷᠡᠭ</unicode>
+      <cyrillic>хэхрэг</cyrillic>
+      <definition>хэхдэг.</definition>
+      <page>768</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>K1296</ref>
+  </derivatives>
+</entry>

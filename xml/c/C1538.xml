@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C1538">
+  <head>
+    <unicode>ᠴᠢᠩᠯᠠᠺᠥᠷ</unicode>
+    <transcript>činglegür</transcript>
+    <transcript2>cinglegör</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠢᠩᠯᠠᠺᠥᠷ</unicode>
+      <uighur>činglegür</uighur>
+      <transcript>CINGLEGYR</transcript>
+      <definition>See cenglegyr,</definition>
+      <page>190</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠢᠩᠯᠡᠭᠦᠷ ~ ᠴᠡᠩᠯᠡᠭᠦᠷ</unicode>
+      <definition>balance , instrument pour peser, le peson, la statère,</definition>
+      <page>2141</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠩᠯᠡᠭᠦᠷ ᠤᠨ ᠣᠳᠤᠨ</unicode>
+          <definition>Balance, signe du zodiaque</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠢᠩᠯᠡᠭᠦᠷ ᠤᠨ ᠰᠤᠮᠤᠨ</unicode>
+          <definition>languette de balance</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

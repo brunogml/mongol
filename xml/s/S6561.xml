@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6561">
+  <head>
+    <unicode>ᠱᠥᠪᠥᠺᠠᠷᠳᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>šöbügerdegülkü</transcript>
+    <transcript2>söbögerdegölgö</transcript2>
+    <cyrillic>шөвгөрдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S6559</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠥᠪᠥᠭᠡᠷᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>шөвгөрдүүлэх</cyrillic>
+      <definition>〔动〕шөвгөрдөх 的使动态.</definition>
+      <page>1652</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠥᠪᠥᠺᠠᠷᠳᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ШӨВГӨРДҮҮЛЭХ</cyrillic>
+      <definition>шөвгөрдөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠥᠪᠥᠭᠡᠷᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>шөвгөрдүүлэх</cyrillic>
+      <definition>шөвгөрдөхийн үйлдүүлэх хэв.</definition>
+      <page>855</page>
+    </entry_item>
+  </entries>
+</entry>

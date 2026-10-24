@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0151">
+  <head>
+    <unicode>ᠪᠠᠭᠠᠰᠣᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>baγasuraγulqu</transcript>
+    <transcript2>bagasoragolgo</transcript2>
+    <cyrillic>баасруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B0147</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠭᠠᠰᠤᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>баасруулах</cyrillic>
+      <definition>〔动〕баасрах 的使动态.</definition>
+      <page>103</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠭᠠᠰᠣᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БААСРУУЛАХ</cyrillic>
+      <definition>баасрах-ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠭᠠᠰᠤᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>баасруулах</cyrillic>
+      <definition>1. баасрахын үйлдүүлэх хэв;2. бааруулах.</definition>
+      <page>63</page>
+    </entry_item>
+  </entries>
+</entry>

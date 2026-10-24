@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5830">
+  <head>
+    <unicode>ᠰᠣᠯᠣᠩᠭᠠᠷᠠᠬᠣ</unicode>
+    <transcript>solungγaraqu</transcript>
+    <transcript2>solonggarago</transcript2>
+    <cyrillic>солонгорох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5831</ref>
+    <ref>S5833</ref>
+    <ref>S5832</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠯᠣᠩᠭᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>солонгорох</cyrillic>
+      <definition>〔动〕现出虹霓般色彩，呈虹样闪光.</definition>
+      <page>935</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠯᠣᠩᠭᠠᠷᠠᠬᠣ</unicode>
+      <cyrillic>СОЛОНГОРОХ</cyrillic>
+      <definition>солонготох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠯᠣᠩᠭᠠᠷᠠᠬᠣ</unicode>
+      <cyrillic>СОЛОНГОРСОН</cyrillic>
+      <definition>солонготсон-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>солонгорох</cyrillic>
+      <definition>= солонголох</definition>
+      <page>200</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠯᠣᠩᠭᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>солонгорох</cyrillic>
+      <definition>солонго мэт харагдах, солонго мэт болох.</definition>
+      <page>478</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S5822</ref>
+  </related_to>
+</entry>

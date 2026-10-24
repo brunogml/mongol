@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A2985">
+  <head>
+    <unicode>ᠠᠮᠣᠢ</unicode>
+    <transcript>amui</transcript>
+    <transcript2>amoi</transcript2>
+    <cyrillic>амуй</cyrillic>
+  </head>
+  <variants>
+    <variant type="cyrillic">амой</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠮᠤᠢ</unicode>
+      <cyrillic>амуй</cyrillic>
+      <definition>〔动〕参见 ажээ, байжээ.</definition>
+      <page>55</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠮᠣᠢ</unicode>
+      <cyrillic>АМУЙ</cyrillic>
+      <definition>хуучир. аху–н одоо., байх–ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠮᠣᠢ</unicode>
+      <cyrillic>амой</cyrillic>
+      <definition>〔动〕见 амуй.</definition>
+      <page>52</page>
+    </entry_item>
+  </entries>
+</entry>

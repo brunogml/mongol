@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7090">
+  <head>
+    <unicode>ᠳᠣᠯᠺᠢᠶᠠᠲᠣᠬᠣ</unicode>
+    <transcript>dolgiyatuqu</transcript>
+    <transcript2>dolgiyadogo</transcript2>
+    <cyrillic>долгиотох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T7091</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠣᠯᠭᠢᠶᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>долгиотох</cyrillic>
+      <definition>〔动〕起浪，起波涛，掀起浪涛.</definition>
+      <page>411</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠯᠺᠢᠶᠠᠲᠣᠬᠣ</unicode>
+      <cyrillic>ДОЛГИОТОХ</cyrillic>
+      <definition>образовываться (о волнах), волноваться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠯᠺᠢᠶᠠᠲᠣᠬᠣ</unicode>
+      <cyrillic>ДОЛГИОТСОН</cyrillic>
+      <definition>волнистый, волнообразный; муаровый. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>долгиотох</cyrillic>
+      <definition>Wellen schlagen</definition>
+      <page>94</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠣᠯᠭᠢᠶᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>долгиотох</cyrillic>
+      <definition>долгио гаргах.</definition>
+      <page>197</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T7085</ref>
+  </related_to>
+</entry>

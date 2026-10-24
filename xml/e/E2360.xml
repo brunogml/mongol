@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E2360">
+  <head>
+    <unicode>ᠡᠷᠭᠢᠦᠯᠳᠡᠺᠦ</unicode>
+    <transcript>ergiüldekü</transcript>
+    <transcript2>ergiöldegö</transcript2>
+    <cyrillic>эргүүлдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>E2361</ref>
+    <ref>E2359</ref>
+    <ref>E2358</ref>
+  </derivatives>
+  <see_also>
+    <ref>E2454</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠡᠷᠺᠢᠥᠯᠳᠠᠺᠥ</unicode>
+      <cyrillic>ЭРГҮҮЛДЭХ</cyrillic>
+      <definition>I точить на токарном станке, вытачивать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠷᠭᠢᠦᠯᠳᠡᠬᠦ</unicode>
+      <cyrillic>эргүүлдэх /1</cyrillic>
+      <definition>1. эргүүл багажаар юм хумыг үйлдэх засах;2. эргүүлэгт хадаас мэтийг мушгиж эргүүлэх.</definition>
+      <page>882</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>E2357</ref>
+  </related_to>
+</entry>

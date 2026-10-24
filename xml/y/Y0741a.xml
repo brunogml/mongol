@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0741a">
+  <head>
+    <unicode>ᠵᠠᠪᠣᠳ</unicode>
+    <transcript>ǰabod</transcript>
+    <transcript2>yabod</transcript2>
+    <cyrillic>завод</cyrillic>
+  </head>
+  <see_also>
+    <ref>Y1900</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠠᠪᠣᠳ</unicode>
+      <uighur>ǰabud</uighur>
+      <cyrillic>завод</cyrillic>
+      <transcript>ZABOD</transcript>
+      <definition>[R. завод] n. Factory plant mill.</definition>
+      <page>1019</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠷᠢᠰᠤᠨ ᠤ ᠵᠠᠪᠣᠳ</unicode>
+          <transcript>arisun u -- </transcript>
+          <definition> Leather factory.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠮᠦᠷ ᠤᠨ ᠵᠠᠪᠣᠳ</unicode>
+          <transcript>temyr yn – </transcript>
+          <definition>Steel mill</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠪᠣᠳ᠋</unicode>
+      <cyrillic>завод</cyrillic>
+      <definition>1. түүхий эдийг боловсруулах үйлдвэрийн газар; сүүний завод; тосны завод; арьс ширний завод;2. сайн үйлдрийн мал өсгөх аж ахуй; морин завод.</definition>
+      <page>255</page>
+    </entry_item>
+  </entries>
+</entry>

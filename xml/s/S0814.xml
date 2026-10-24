@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0814">
+  <head>
+    <unicode>ᠱᠠᠳ</unicode>
+    <transcript>šad</transcript>
+    <transcript2>sad</transcript2>
+    <cyrillic>шад</cyrillic>
+  </head>
+  <see_also>
+    <ref>S0813</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠱᠠᠳ</unicode>
+      <uighur>šad</uighur>
+      <cyrillic>шaд</cyrillic>
+      <transcript>ŠAD</transcript>
+      <definition>[T. çad] n. Punctuation mark in Tibetan [|]; vertical or slantmg une marking a pause in a sentence or the end of a verse</definition>
+      <page>747</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠶᠠᠷ ᠱᠠᠳ</unicode>
+          <transcript>xojar -- </transcript>
+          <definition> Double </definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠱᠠᠳ</unicode>
+      <definition>signe diacritique | chez les Tibétains.</definition>
+      <page>1446</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠢᠭᠡᠨ ᠱᠠᠳ ᠳᠣᠳᠠᠬᠤ</unicode>
+          <definition>une ligne manque dans la stance</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠶᠠᠷ ᠱᠠᠳ</unicode>
+          <definition>double signe || à la fin d'une stance</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠥᠷᠪᠡᠨ ᠱᠠᠳ</unicode>
+          <definition>quatre signes || ||</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠡᠭ ᠎ᠲᠦ ᠱᠠᠳ</unicode>
+          <definition>signe avec un point ¡</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠳ</unicode>
+      <cyrillic>ШАД</cyrillic>
+      <definition>I стихотворная строка; цезура; дөрвөн шад шүлэг четырёхстрочное стихотворение, четверостишие. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠳ</unicode>
+      <cyrillic>ШАД</cyrillic>
+      <definition>II: шад шуд хорш. а) авиа.дуур. тс!(звукоподражание треску); б) аялга. (междометие, выражающее щебетание птиц, писк мышей и т.п.). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠳ</unicode>
+      <cyrillic>ШАД</cyrillic>
+      <definition>III знак препинания в тибетском письме, употребляемый вместо запятых и точек. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шад</cyrillic>
+      <definition>1. Gedicht Zeile f, Zäsur f
+2.: ~ хийх onomat knallen, krachen; knattern, prasseln</definition>
+      <page>377</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠳ</unicode>
+      <cyrillic>шад</cyrillic>
+      <definition>шүлгийн нэг мөр; дөрвөн шад шүлэг.</definition>
+      <page>830</page>
+    </entry_item>
+  </entries>
+</entry>

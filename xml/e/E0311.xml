@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="E0311">
+  <head>
+    <unicode>ᠡᠪᠥᠯᠵᠢᠩ</unicode>
+    <transcript>ebölǰing</transcript>
+    <transcript2>ebölcing</transcript2>
+    <cyrillic>өвөлжинг</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠪᠥᠯᠵᠢᠩ</unicode>
+      <uighur>ebülǰing</uighur>
+      <cyrillic>өвөлжин(г)</cyrillic>
+      <transcript>EBYLZING</transcript>
+      <definition>n. Winter quarters.</definition>
+      <page>290</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠪᠥᠯᠵᠢᠩ ᠪᠠᠭᠤᠬᠤ</unicode>
+          <transcript>-- baγuxu</transcript>
+          <definition>. To move into Winter quarters.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠪᠥᠯᠵᠢᠩ ᠣᠷᠤᠬᠤ</unicode>
+          <transcript>-- oruxu, </transcript>
+          <definition>To move into winter quarters</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+<related_to><ref>E0306</ref></related_to></entry>

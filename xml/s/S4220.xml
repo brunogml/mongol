@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4220">
+  <head>
+    <unicode>ᠰᠢᠵᠢᠮᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>siǰimlegülkü</transcript>
+    <transcript2>sicimlegölgö</transcript2>
+    <cyrillic>шижимлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S4219</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠵᠢᠮᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>шижимлүүлэх</cyrillic>
+      <definition>〔动〕шижимлэх 的使动态.</definition>
+      <page>1631</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠵᠢᠮᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ШИЖИМЛҮҮЛЭХ</cyrillic>
+      <definition>шижимлэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шижимлүүлэх</cyrillic>
+      <definition>Kaus von шижимлэх</definition>
+      <page>384</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠵᠢᠮᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>шижимлүүлэх</cyrillic>
+      <definition>шижимлэхийн үйлдүүлэх хэв.</definition>
+      <page>845</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="M2419">
+  <head>
+    <unicode>ᠮᠥᠷᠥᠶᠢᠲᠠᠢ</unicode>
+    <transcript>mörüyitei</transcript>
+    <transcript2>möröyidei</transcript2>
+    <cyrillic>мөрийтэй</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠮᠥᠷᠥᠶᠢᠲᠠᠢ</unicode>
+      <uighur>mörüyidei</uighur>
+      <cyrillic>мөрийтэй</cyrillic>
+      <transcript>MØRYITEI</transcript>
+      <definition>adj. Having a stake, wager, or bet.</definition>
+      <page>550</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠥᠷᠥᠶᠢᠲᠠᠢ ᠲᠣᠭᠯᠠᠮ</unicode>
+          <transcript>-- toγlam</transcript>
+          <definition> Game of hazard, gambling game.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠥᠷᠥᠢᠲᠡᠢ</unicode>
+      <cyrillic>мөрийтэй</cyrillic>
+      <definition>〔形〕赌博的：~ наадмыг хориглох 禁赌.</definition>
+      <page>688</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠥᠷᠥᠶᠢᠲᠠᠢ</unicode>
+      <cyrillic>МӨРИЙТЭЙ</cyrillic>
+      <definition>азартный; мөрийтэй арилжаа хийх играть на бирже; мөрийтэй тоглоом азартная игра; мөрийтэй тоглоомын газар казино. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

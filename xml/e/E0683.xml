@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E0683">
+  <head>
+    <unicode>ᠡᠲᠡᠷᠢᠭᠦᠯᠺᠦ</unicode>
+    <transcript>eterigülkü</transcript>
+    <transcript2>ederigölgö</transcript2>
+    <cyrillic>этрүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>E0682</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠲᠡᠷᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>этрүүлэх</cyrillic>
+      <definition>〔动〕этрэх 的使动态.</definition>
+      <page>1722</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠲᠠᠷᠢᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЭТРҮҮЛЭХ</cyrillic>
+      <definition>этрэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠲᠡᠷᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>этрүүлэх</cyrillic>
+      <definition>этрэхийн үйлдүүлэх хэв, ямар нэгэн ажил хэргийг бүтээх, амжуулах.</definition>
+      <page>891</page>
+    </entry_item>
+  </entries>
+</entry>

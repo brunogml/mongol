@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y5017">
+  <head>
+    <unicode>ᠵᠥᠨᠥᠺᠯᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ǰönüglegülkü</transcript>
+    <transcript2>yönöglegölgö</transcript2>
+    <cyrillic>зөнөглүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y5016</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠥᠨᠥᠭᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>зөнөглүүлэх</cyrillic>
+      <definition>〔动〕зөнөглөх 的使动态.</definition>
+      <page>568</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠥᠨᠥᠺᠯᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЗӨНӨГЛҮҮЛЭХ</cyrillic>
+      <definition>зөнөглөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠥᠨᠥᠭᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>зөнөглүүлэх</cyrillic>
+      <definition>зөнөглөхийн үйлдүүлэх хэв.</definition>
+      <page>279</page>
+    </entry_item>
+  </entries>
+</entry>

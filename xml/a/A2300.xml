@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A2300">
+  <head>
+    <unicode>ᠠᠯᠠᠬᠯᠠᠬᠣ</unicode>
+    <transcript>alaγlaqu</transcript>
+    <transcript2>alaglago</transcript2>
+    <cyrillic>алаглах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>A2301</ref>
+    <ref>A2303</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠯᠠᠬᠯᠠᠬᠣ</unicode>
+      <uighur>alaqlaqu</uighur>
+      <cyrillic>алаглах</cyrillic>
+      <transcript>ALAГLA-</transcript>
+      <definition>v.t. and i. To make something variegated, streak with several colors; to be or appear variegated or multicolored.</definition>
+      <page>27</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠯᠠᠬᠯᠠᠨ ᠴᠢᠮᠡᠭᠰᠡᠨ</unicode>
+          <transcript>--n cimegsen</transcript>
+          <definition>Decorated with various colors.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠷ᠎ᠠ ᠴᠠᠭᠠᠨ ᠢᠶᠠᠷ ᠠᠯᠠᠬᠯᠠᠬᠤ</unicode>
+          <transcript>xar-a caγan ijer --xu</transcript>
+          <definition>To alternate or intermix black and white.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠯᠠᠬᠯᠠᠬᠤ</unicode>
+      <definition>bigarrer, barioler, rayer</definition>
+      <page>75</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠯᠠᠬᠯᠠᠨ ᠴᠢᠮᠡᠭᠰᠡᠨ</unicode>
+          <definition>bigarré, bariolé, orné ou decoré d'une manière bigarrée</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠯᠠᠬᠯᠠᠨ ᠳᠠᠷᠢᠬᠤ</unicode>
+          <definition>semer, ensemencer a travers le sillon</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠯᠠᠬᠯᠠᠵᠤ ᠰᠢᠷᠠᠬᠰᠠᠨ ᠮᠢᠬ᠎ᠠ</unicode>
+          <definition>viande rôtie dans du beurre</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠯᠠᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>алаглах</cyrillic>
+      <definition>〔动〕①呈杂色，呈花色：~ өвчин 白斑病，白癜病；②偏袒，袒护；区别对待；看人行事.</definition>
+      <page>36</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠯᠠᠬᠯᠠᠬᠣ</unicode>
+      <cyrillic>АЛАГЛАХ</cyrillic>
+      <definition>1. 1) пестрить, делать пёстрым, пегим; 2) испещрять; алаглан тарих сеять чресполосно, засевать через борозду (напр. сеять между полосами хлеба что-л. другое); алаглан чимсэн пёстро украшенный, испещрённый; алаглан шарсан мах нарезанное полосками и поджаренное на жиру мясо; 3) алагчлах–ыг үз.; 2. алаглахуй–г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠯᠠᠬᠯᠠᠬᠣᠢ</unicode>
+      <cyrillic>АЛАГЛАХУЙ</cyrillic>
+      <definition>испещрение.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Mostaert</dico>
+      <unicode>ᠠᠯᠠᠬᠯᠠᠬᠣ</unicode>
+      <definition>avoir un aspect multicolore, bigarré; traiter avec partialité</definition>
+      <page>12</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>алаглах</cyrillic>
+      <definition>1. bunt malen; scheckig machen 
+2. = алагчлах</definition>
+      <page>26</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠯᠠᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>алаглах</cyrillic>
+      <definition>1. алаг эрээн болгох; ясаар алагласан хашлага;2. алаг эрээн харагдах; алагланхан харагдах;3. алагчлах.</definition>
+      <page>29</page>
+    </entry_item>
+  </entries>
+</entry>

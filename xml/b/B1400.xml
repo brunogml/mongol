@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1400">
+  <head>
+    <unicode>ᠪᠠᠷᠢᠭᠣᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>bariγudaγulqu</transcript>
+    <transcript2>barigodagolgo</transcript2>
+    <cyrillic>бариудуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B1398</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠷᠢᠭᠤᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бариудуулах</cyrillic>
+      <definition>〔动〕бариудах 的使动态.</definition>
+      <page>137</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠷᠢᠭᠣᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БАРИУДУУЛАХ</cyrillic>
+      <definition>бариудах-ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠷᠢᠭᠤᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бариудуулах</cyrillic>
+      <definition>бариудахын үйлдүүлэх хэв.</definition>
+      <page>77</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5841">
+  <head>
+    <unicode>ᠱᠣᠯᠣᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šuluγanaγulqu</transcript>
+    <transcript2>sologanagolgo</transcript2>
+    <cyrillic>шулгануулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S5840</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠤᠯᠤᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шулгануулах</cyrillic>
+      <definition>〔动〕шулганах 的使动态.</definition>
+      <page>1658</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠯᠣᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШУЛГАНУУЛАХ</cyrillic>
+      <definition>шулганах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шулгануулах</cyrillic>
+      <definition>Kaus von шулгалах</definition>
+      <page>391</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠤᠯᠤᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шулгануулах</cyrillic>
+      <definition>шулганахын үйлдүүлэх хэв.</definition>
+      <page>858</page>
+    </entry_item>
+  </entries>
+</entry>

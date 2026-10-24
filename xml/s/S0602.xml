@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0602">
+  <head>
+    <unicode>ᠱᠠᠬᠰᠢᠬᠳᠠᠬᠣ</unicode>
+    <transcript>šaγsiγdaqu</transcript>
+    <transcript2>sagsigdago</transcript2>
+    <cyrillic>шагшигдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S0595</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠭᠰᠢᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>шагшигдах</cyrillic>
+      <definition>〔动〕шагших 的被动态.</definition>
+      <page>1608</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠬᠰᠢᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ШАГШИГДАХ</cyrillic>
+      <definition>шагших-ийн үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠭᠰᠢᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>шагшигдах</cyrillic>
+      <definition>шагшихын үйлдэгдэх хэв.</definition>
+      <page>830</page>
+    </entry_item>
+  </entries>
+</entry>

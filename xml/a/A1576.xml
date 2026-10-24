@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A1576">
+  <head>
+    <unicode>ᠠᠪᠰᠠᠯᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>absalaγdaqu</transcript>
+    <transcript2>absalagdago</transcript2>
+    <cyrillic>авслагдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>A1574</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠪᠰᠠᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>авслагдах</cyrillic>
+      <definition>〔动〕авслах 的被动态.</definition>
+      <page>11</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠪᠰᠠᠯᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>АВСЛАГДАХ</cyrillic>
+      <definition>авслах–ын үйлдэгд.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠪᠰᠠᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>авслагдах</cyrillic>
+      <definition>авслахын үйлдэгдэх хэв.</definition>
+      <page>17</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1488">
+  <head>
+    <unicode>ᠵᠠᠺᠢᠬᠣ</unicode>
+    <transcript>ǰakiqu</transcript>
+    <transcript2>yagigo</transcript2>
+    <cyrillic>захих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1490</ref>
+    <ref>Y1491</ref>
+    <ref>Y1506</ref>
+  </derivatives>
+  <see_also>
+    <ref>Y1489</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠠᠺᠢᠬᠣ</unicode>
+      <uighur>ǰakiqu</uighur>
+      <cyrillic>захих</cyrillic>
+      <transcript>ZAKI-</transcript>
+      <definition>v.t. To give instructions ; to entrust ; to give an order for; to ask to run an errand.</definition>
+      <page>1028</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠡᠷ ᠢᠶᠡᠨ ᠠᠬ᠎ᠠ ᠳᠡᠭᠦᠦ ᠎ᠳᠡᠭᠡᠨ ᠵᠠᠺᠢᠪᠠᠢ</unicode>
+          <transcript>ger ijen ax-a degyy degen --bai</transcript>
+          <definition>He entrusted his house to his brothers.</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠣᠮ ᠵᠠᠺᠢᠬᠣ</unicode>
+          <transcript>nom --xu</transcript>
+          <definition>To order a book or books.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠣᠨᠢᠨ ᠵᠠᠺᠢᠬᠣ</unicode>
+          <transcript>sonin --xu</transcript>
+          <definition>To subscribe to a newspaper.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠠᠺᠢᠬᠤ</unicode>
+      <definition>1 ordonner, commander: 
+2 informer, faire savoir</definition>
+      <page>2297</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠭᠠᠯᠭᠠᠴᠢᠨ ᠠ ᠺᠢᠵᠢᠶᠡᠨ ᠵᠠᠺᠢᠬᠤ</unicode>
+          <definition>ordonner strictement au portier</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠠᠺᠢᠭᠰᠠᠨ ᠳᠡᠮᠳᠡᠭ</unicode>
+          <definition>passe-port, certificat, lettres testimoniales</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠵᠠᠺᠢᠬᠣ</unicode>
+      <uighur>ǰakiqu</uighur>
+      <definition>befehlen.</definition>
+      <page>294</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠵᠠᠺᠢᠬᠣ</unicode>
+      <uighur>ǰakiqu</uighur>
+      <definition>v.t. To command. To give orders</definition>
+      <page>1179</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠬᠢᠬᠤ</unicode>
+      <cyrillic>захих</cyrillic>
+      <definition>〔动〕①（托人）捎信，带东西；②委托，嘱咐：хүүдээ сайн сур гэж ~в 嘱咐儿子要好好学习；③订购，订阅，预订，订货：сонин ~ 订阅报纸.</definition>
+      <page>552</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠺᠢᠬᠣ</unicode>
+      <cyrillic>ЗАХИХ</cyrillic>
+      <definition>1) настоятельно просить; приказывать; захьсан үг приказ, наказ; 2) заказывать, выписывать; подписываться (на газету и т.п.); бичиг захих письменно уведомить, посылать письмо; сонин бичиг захих подписаться на газету; хоол захих заказывать еду; † захьсан тэмдэг хуучир. командировочное удостоверение чиновника; подорожная; билет с печатью.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>захих</cyrillic>
+      <definition>1. bestellen
+2. beauftragen; bitten; мэнд хүргэхийг ~ bitten, Grüße zu übermitteln</definition>
+      <page>119</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠬᠢᠬᠤ</unicode>
+      <cyrillic>захих</cyrillic>
+      <definition>1. хүнд захиа өгөх;2. аль нэгэн хэргийг эрхбиш гүйцэтгүүлэхээр дурьдан сануулах; эцэг нь хүүдээ эрдэм сайн сур гэж захив;3. захиалах; сонин захих.</definition>
+      <page>271</page>
+    </entry_item>
+  </entries>
+</entry>

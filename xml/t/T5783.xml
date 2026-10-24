@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T5783">
+  <head>
+    <unicode>ᠲᠣᠭᠤᠰᠬ ᠠ</unicode>
+    <transcript>toγusq-a</transcript>
+    <transcript2>dogosga</transcript2>
+    <cyrillic>тоосго</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T5784</ref>
+    <ref>T5785</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠭᠤᠰᠬ᠎ᠠ ~ ᠲᠣᠭᠤᠰᠬᠠᠨ</unicode>
+      <uighur>toγusq-a - toγusqan</uighur>
+      <cyrillic>тоосго(н)</cyrillic>
+      <transcript>TOΓUSX-A(N)</transcript>
+      <definition>n. Brick.</definition>
+      <page>819</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠣᠭᠤᠰᠬᠠᠨᠴᠢᠯᠠᠭᠤ</unicode>
+          <transcript>--n cilaγu</transcript>
+          <definition>Marl.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠣᠭᠤᠰᠬᠠᠨ ᠲᠤᠭᠤᠷᠭ᠎ᠠ</unicode>
+          <transcript>--n tuγurγ-a</transcript>
+          <definition>Brick wall.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠦᠭᠦᠺᠡᠢ ᠲᠣᠭᠤᠰᠬ᠎ᠠ</unicode>
+          <transcript>tygykei –</transcript>
+          <definition>Unbaked brick</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠭᠤᠰᠬᠠ ~ ᠳᠤᠭᠣᠰᠬ᠎ᠠ</unicode>
+      <definition>la brique</definition>
+      <page>1807</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠤᠭᠤᠰᠬᠠᠨ ᠢᠶᠠᠷ ᠪᠠᠷᠢᠬᠤ</unicode>
+          <definition>construire en brique</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠤᠭᠤᠰᠬᠠ ᠳᠤᠭᠤᠷᠭ᠎ᠠ</unicode>
+          <definition>muraille de briques</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠤᠭᠤᠰᠬᠠ ᠴᠣᠭᠴᠠ</unicode>
+          <definition>bâtiment de briques</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠤᠭᠤᠰᠬᠠ ᠴᠣᠭᠴᠠᠯᠠᠬᠤ</unicode>
+          <definition>entasser les briques, les mettre les unes sur les autres</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠦᠭᠦᠭᠡᠢ ᠳᠤᠭᠤᠰᠬᠠ</unicode>
+          <definition>brique cuite</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠣᠭᠣᠰᠬᠠ</unicode>
+      <uighur>duγusq-a</uighur>
+      <definition>der Ziegelstein</definition>
+      <page>250</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠣᠭᠣᠰᠬᠠ</unicode>
+      <uighur>tuγusq-a</uighur>
+      <definition>n. A brick, a square tile.</definition>
+      <page>994</page>
+      <examples>
+        <example>
+          <uighur>tuγusq-a čuqčalaqu</uighur>
+          <definition>To build with bricks.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠭᠣᠰᠬᠠ</unicode>
+      <cyrillic>ТООСГО(Н)</cyrillic>
+      <definition>1. кирпљч (обожжённый); болсон тоосго обожжёный (не сырец) кирпљч; түүхий тоосго не обожжённый (сырой) кирпљч; 2. кирпљчный; тоосгон байшин кирпљчное здание; тоосгон чулуу мергель, глљнистый известняк.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠭᠣᠰᠬᠠ</unicode>
+      <cyrillic>ТООСГОНЫ</cyrillic>
+      <definition>тоосго(н)-ы харьяал., кирпљчный.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тоосго[н]</cyrillic>
+      <definition>Mauerstein m, Ziegel m; ~ шатаах Ziegel brennen</definition>
+      <page>230</page>
+    </entry_item>
+  </entries>
+</entry>

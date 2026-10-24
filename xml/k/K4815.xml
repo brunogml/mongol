@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4815">
+  <head>
+    <unicode>ᠺᠥᠺᠰᠢᠷᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>kögsiregülkü</transcript>
+    <transcript2>gögsiregölgö</transcript2>
+    <cyrillic>хөгшрүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K4814</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠭᠰᠢᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хөгшрүүлэх</cyrillic>
+      <definition>〔动〕хөгшрөх 的使动态.</definition>
+      <page>1390</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠺᠰᠢᠷᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ХӨГШРҮҮЛЭХ</cyrillic>
+      <definition>хөгшрөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠭᠰᠢᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хөгшрүүлэх</cyrillic>
+      <definition>хөгшрөхийн үйлдүүлэх хэв, хөгшин болгох.</definition>
+      <page>705</page>
+    </entry_item>
+  </entries>
+</entry>

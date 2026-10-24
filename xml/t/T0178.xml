@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0178">
+  <head>
+    <unicode>ᠳᠠᠩᠬᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>dangqaγanaqu</transcript>
+    <transcript2>danggaganago</transcript2>
+    <cyrillic>данхганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T0179</ref>
+  </derivatives>
+  <see_also>
+    <ref>T0178a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠩᠬᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>данхганах</cyrillic>
+      <definition>〔动〕参见 данхалзах.</definition>
+      <page>391</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠩᠬᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ДАНХГАНАХ</cyrillic>
+      <definition>данхалзах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>данхганах</cyrillic>
+      <definition>= данхалзах</definition>
+      <page>91</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠩᠬᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>данхганах</cyrillic>
+      <definition>данхгар юмны данхга данхга хөдлөх.</definition>
+      <page>188</page>
+    </entry_item>
+  </entries>
+</entry>

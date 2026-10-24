@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4301">
+  <head>
+    <unicode>ᠰᠢᠺᠢᠴᠢᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>sigičiilegülkü</transcript>
+    <transcript2>sigiciilegölgö</transcript2>
+    <cyrillic>чигчийлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S4299</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠭᠴᠢᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>чигчийлүүлэх</cyrillic>
+      <definition>〔动〕чигчийлэх 的使动态.</definition>
+      <page>1585</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠺᠢᠴᠢᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЧИГЧИЙЛҮҮЛЭХ</cyrillic>
+      <definition>чигчийлэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чигчийлүүлэх</cyrillic>
+      <definition>= чигчлүүлэх</definition>
+      <page>370</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠭᠢᠴᠢᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>чигчийлүүлэх</cyrillic>
+      <definition>чигчийлэхийн үйлдүүлэх хэв.</definition>
+      <page>817</page>
+    </entry_item>
+  </entries>
+</entry>

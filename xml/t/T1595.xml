@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1595">
+  <head>
+    <unicode>ᠳᠠᠳᠠᠶᠢᠬᠣ</unicode>
+    <transcript>dadayiqu</transcript>
+    <transcript2>dadayigo</transcript2>
+    <cyrillic>дадайх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1599</ref>
+  </derivatives>
+  <see_also>
+    <ref>T1594</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠳᠠᠢᠬᠤ</unicode>
+      <cyrillic>дадайх</cyrillic>
+      <definition>〔动〕变得短小；变狭小，变紧.</definition>
+      <page>375</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠳᠠᠶᠢᠬᠣ</unicode>
+      <cyrillic>ДАДАЙХ</cyrillic>
+      <definition>1) быть тесным, коротким, узким (об одежде и т.п.); 2) становиться жёстким, коробиться (о коже). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дадайх</cyrillic>
+      <definition>Kleidung einlaufen, zu kurz sein od werden</definition>
+      <page>89</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠳᠠᠢᠬᠤ</unicode>
+      <cyrillic>дадайх</cyrillic>
+      <definition>дадгар болох.</definition>
+      <page>180</page>
+    </entry_item>
+  </entries>
+</entry>

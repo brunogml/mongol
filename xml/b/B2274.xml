@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B2274">
+  <head>
+    <unicode>ᠪᠢᠯᠠᠥᠳᠠᠺᠥ</unicode>
+    <transcript>bileüdekü</transcript>
+    <transcript2>bileödegö</transcript2>
+  </head><derivatives>
+    <ref>B2275</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠢᠯᠡᠦᠳᠡᠺᠦ ~ ᠪᠢᠯᠡᠭᠦᠳᠡᠺᠦ</unicode>
+      <definition>aiguiser sur la pierre, repasser (un rasoir)</definition>
+      <page>1141</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠢᠯᠡᠦᠳᠡᠺᠦ ᠲᠡᠭᠡᠷᠮᠡ</unicode>
+          <definition>une pierre à aiguiser</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠢᠯᠡᠦᠳᠡᠺᠦᠢ ᠴᠢᠯᠠᠭᠤᠨ</unicode>
+          <definition>une pierre à aiguiser</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠢᠳᠤᠭ᠎ᠠ ᠪᠢᠯᠡᠦᠳᠡᠺᠦ</unicode>
+          <definition>aiguiser le couteau</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S5165">
+  <head>
+    <unicode>ᠰᠣᠩᠺᠢᠨᠠᠲᠣ</unicode>
+    <transcript>songginatu</transcript>
+    <transcript2>songginado</transcript2>
+    <cyrillic>сонгинот</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠤᠩᠺᠢᠨᠠᠳᠤ</unicode>
+      <definition>abondant d'oignons: 2 nom d'un lieu Tsong-ka dans le Tibet méridional.</definition>
+      <page>1387</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠤᠩᠺᠢᠨᠠᠳᠤ ᠎ᠶᠢᠨ ᠺᠦᠮᠦᠨ</unicode>
+          <definition>habitant du lieu Tson-ka; 2 Tsong-kava, un lama célèbre qui a vécu dans la seconde moitié du quatorzème siècle</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠩᠺᠢᠨᠠᠲᠣ</unicode>
+      <cyrillic>СОНГИНОТ</cyrillic>
+      <definition>изобилующий луком; название урочища Цзонг-ха (в нижнем Тибете). </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+<related_to><ref>S5161</ref></related_to></entry>

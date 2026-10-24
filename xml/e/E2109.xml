@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="E2109">
+  <head>
+    <unicode>ᠡᠷᠢᠭ</unicode>
+    <transcript>erig</transcript>
+    <transcript2>erig</transcript2>
+    <cyrillic>эрэг</cyrillic>
+  </head>
+  <see_also>
+    <ref>E2021</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠷᠢᠺ</unicode>
+      <uighur>erik</uighur>
+      <cyrillic>эрэг</cyrillic>
+      <transcript>ERIG</transcript>
+      <definition>n. Screw</definition>
+      <page>327</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠷᠢᠺ ᠭᠠᠷᠭᠠᠬᠤ</unicode>
+          <transcript>-- γarγaxu</transcript>
+          <definition>To thread a screw.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠷᠢᠺ ᠰᠢᠷᠤᠭ</unicode>
+          <transcript>-- siruγ</transcript>
+          <definition>Screws, bolts.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠮ᠎ᠡ ᠡᠷᠢᠺ</unicode>
+          <transcript>em-e --</transcript>
+          <definition>Screw nut, female screw.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠷ᠎ᠡ ᠡᠷᠢᠺ</unicode>
+          <transcript>er-e --</transcript>
+          <definition>Male screw.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>эрэг</cyrillic>
+      <definition>Tech Schraube f; Gewinde n; ~ гаргах Gewinde schneiden; эм ~ Schraubenmutter f; эр ~ Schraube f</definition>
+      <page>405</page>
+    </entry_item>
+  </entries>
+</entry>

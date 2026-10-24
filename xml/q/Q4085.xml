@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4085">
+  <head>
+    <unicode>ᠬᠣᠨᠳᠠᠳᠠᠬᠣ</unicode>
+    <transcript>qondadaqu</transcript>
+    <transcript2>gondadago</transcript2>
+    <cyrillic>хонддох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q4086</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q4098</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠨᠳᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>ХОНДДОХ</cyrillic>
+      <definition>красить суриком. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠨᠳᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>хонддох</cyrillic>
+      <definition>хондоор будах.</definition>
+      <page>689</page>
+    </entry_item>
+  </entries>
+</entry>

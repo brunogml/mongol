@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3079">
+  <head>
+    <unicode>ᠵᠢᠯᠲᠡᠢ</unicode>
+    <transcript>ǰiltei</transcript>
+    <transcript2>yildei</transcript2>
+    <cyrillic>жилтэй</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠢᠯᠲᠡᠢ</unicode>
+      <uighur>ǰildei</uighur>
+      <cyrillic>жилтэй</cyrillic>
+      <transcript>ZILTEI</transcript>
+      <definition>adj. Being born in a certain year of the animal cycle.</definition>
+      <page>1055</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠ ᠶᠠᠮᠪᠠᠷ ᠵᠢᠯᠲᠡᠢ</unicode>
+          <transcript>ta jambar -- ?</transcript>
+          <definition> What is your birth year?.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠨᠢᠨ ᠵᠢᠯᠲᠡᠢ</unicode>
+          <transcript>xonin -- </transcript>
+          <definition> Born in the 'sheep' year</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠢᠯᠳᠡᠢ ~ ᠵᠢᠯᠳᠦ</unicode>
+      <definition>né sous un certain signe du zodiaque, né dans une telle année du cycle.</definition>
+      <page>2347</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠵᠢᠯᠲᠡᠢ</unicode>
+      <uighur>ǰildei</uighur>
+      <definition>lährig, zu einem Jahre gehörig</definition>
+      <page>304</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠵᠢᠯᠲᠡᠢ</unicode>
+      <uighur>ǰildei</uighur>
+      <definition>Belonging to a year. Animals associated with the different years.</definition>
+      <page>1222</page>
+      <examples>
+        <example>
+          <uighur>ta ali ǰildei</uighur>
+          <definition>Which year (animal) do you belong to, which year were you born?</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠯᠲᠡᠢ</unicode>
+      <cyrillic>жилтэй</cyrillic>
+      <definition>〔形〕属…的：хонь ~ 属羊的.</definition>
+      <page>510</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠯᠲᠡᠢ</unicode>
+      <cyrillic>ЖИЛТЭЙ</cyrillic>
+      <definition>жил-ийн хамтрах., родившийся в каком-то году; гахай жилтэй родившийся в год свиньи; родился в год свиньи; ээл жилтэй родился в год благополучия, счастья; родился в счастливом году. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠯᠲᠡᠢ</unicode>
+      <cyrillic>жилтэй</cyrillic>
+      <definition>хүний төрсөн жил арван хоёр эрхтний аль нэг нь эзэлсэн жил тохиолдсон бол мөн тэрхүү эрхтний нэрээр тийм тийм жилтэй гэнэ: хулгана эзэлсэн жилд төрсөн хүнийг хулгана жилтэй гэхчлэн болно.</definition>
+      <page>246</page>
+    </entry_item>
+  </entries>
+</entry>

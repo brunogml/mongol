@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S1897">
+  <head>
+    <unicode>ᠱᠠᠷᠴᠢᠺᠢᠨᠠᠬᠣ</unicode>
+    <transcript>šarčiginaqu</transcript>
+    <transcript2>sarciginago</transcript2>
+    <cyrillic>шарчигнах</cyrillic>
+  </head><derivatives>
+    <ref>S1900</ref>
+  
+    <ref>S1904</ref>
+  </derivatives><see_also>
+    <ref>S4749</ref>
+  
+    <ref>S1896</ref>
+  
+    <ref>S1898</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠱᠠᠷᠴᠢᠺᠢᠨᠠᠬᠣ</unicode>
+      <uighur>šarčikinaqu</uighur>
+      <cyrillic>шарчигнах</cyrillic>
+      <transcript>ŠARCIGINA-</transcript>
+      <definition>See sircigina-</definition>
+      <page>753</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠱᠠᠷᠴᠢᠺᠢᠨᠠᠬᠤ</unicode>
+      <definition>faire du bruit, craquer, grincer les dents.</definition>
+      <page>1454</page>
+      <examples>
+        <example>
+          <unicode>ᠱᠠᠷᠴᠢᠺᠢᠨᠠᠬᠤᠢ ᠳᠠᠭᠤᠨ</unicode>
+          <definition>bruit, craquement, grincement</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠢᠳᠦᠨ ᠱᠠᠷᠴᠢᠺᠢᠨᠠᠬᠤᠢ</unicode>
+          <definition>le grincement des dents</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠷᠴᠢᠺᠢᠨᠠᠬᠣ</unicode>
+      <cyrillic>ШАРЧИГНАХ</cyrillic>
+      <definition>1. хрустеть; шелестеть, шуршать; хөлд элс шарчигнана песок шуршит под ногами; 2. шарчигнахуй-г үз., шарчигнах авиа шелест. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠷᠴᠢᠺᠢᠨᠠᠬᠣ</unicode>
+      <cyrillic>ШАРЧИГНАХУЙ</cyrillic>
+      <definition>шорох, шелест. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠷᠴᠢᠺᠢᠨᠠᠬᠣ</unicode>
+      <cyrillic>ШАРЧИГНААН</cyrillic>
+      <definition>шелест, шорох. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠷᠴᠢᠺᠢᠨᠠᠬᠣ</unicode>
+      <cyrillic>ШАРЧИГНАЖ</cyrillic>
+      <definition>шарчигнах-ын зэрэгцэх., с хрустом. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠷᠴᠢᠺᠢᠨᠠᠬᠣ</unicode>
+      <cyrillic>ШАРЧИГНАН</cyrillic>
+      <definition>шарчигнах-ын хамж., шурша, хрустя, с шелестом, с хрустом. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

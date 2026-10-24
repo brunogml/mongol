@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5047">
+  <head>
+    <unicode>ᠰᠣᠨᠵᠢᠬᠣ</unicode>
+    <transcript>sunǰiqu</transcript>
+    <transcript2>soncigo</transcript2>
+    <cyrillic>сунжих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5051</ref>
+  </derivatives>
+  <see_also>
+    <ref>S5048</ref>
+    <ref>S5049</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠨᠵᠢᠬᠤ</unicode>
+      <cyrillic>сунжих</cyrillic>
+      <definition>〔动〕①变长，伸长，伸延，成为无限制的，变得无止境；②拖延，拖久，慢下来：ажил хэрэг ~ж хоцрох 事~ 清被拖下来；③走样，失真：сонссон ярия ~в 听来的话都走样了.</definition>
+      <page>962</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠨᠵᠢᠬᠣ</unicode>
+      <cyrillic>СУНЖИХ</cyrillic>
+      <definition>становиться слишком длинным, бесконечным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сунжих</cyrillic>
+      <definition>= сунжрах</definition>
+      <page>205</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠨᠵᠤᠬᠤ</unicode>
+      <cyrillic>сунжих</cyrillic>
+      <definition>1. удаашрах, удаан болох; ажил хэрэг сунжиж хоцрох нь;2. дам хэлэлцсэн үг анхны байдлаас хувиран нэмэгдэх; үг яриа сунжвал юунд ч хүргэж мэднэ.</definition>
+      <page>490</page>
+    </entry_item>
+  </entries>
+</entry>

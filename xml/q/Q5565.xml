@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q5565">
+  <head>
+    <unicode>ᠭᠣᠯᠢᠷᠰᠢᠬᠣ</unicode>
+    <transcript>γulirsiqu</transcript>
+    <transcript2>golirsigo</transcript2>
+    <cyrillic>гурилших</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠤᠯᠢᠷᠰᠢᠬᠤ</unicode>
+      <cyrillic>гурилших</cyrillic>
+      <definition>〔动〕（米、麦等被碾得）渐成粉状.</definition>
+      <page>331</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠯᠢᠷᠰᠢᠬᠣ</unicode>
+      <cyrillic>ГУРИЛШИХ</cyrillic>
+      <definition>превращаться в муку. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠤᠷᠢᠯᠰᠢᠬᠤ</unicode>
+      <cyrillic>гурилших</cyrillic>
+      <definition>тариа будаа талхлагдаж гурилтай болох буюу шинжтэй болох.</definition>
+      <page>161</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q5564</ref>
+  </related_to>
+</entry>

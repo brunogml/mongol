@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1560">
+  <head>
+    <unicode>ᠺᠠᠷᠢᠺᠯᠠᠺᠥ</unicode>
+    <transcript>keriglekü</transcript>
+    <transcript2>geriglegö</transcript2>
+    <cyrillic>хэриглэх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠷᠢᠭᠯᠡᠬᠦ</unicode>
+      <cyrillic>хэриглэх</cyrillic>
+      <definition>〔动〕吝啬，悭吝，吝惜.</definition>
+      <page>1488</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠷᠢᠺᠯᠠᠺᠥ</unicode>
+      <cyrillic>ХЭРИГЛЭХ</cyrillic>
+      <definition>хэригдэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хэриглэх</cyrillic>
+      <definition>alt geizen, kargen (mit etw. -ыг)</definition>
+      <page>344</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠷᠢᠭᠯᠡᠬᠦ</unicode>
+      <cyrillic>хэриглэх</cyrillic>
+      <definition>хэриг ааль гаргаж, эд юмыг нэн ихээр хайрлан харамсах, хэтэрхий харамлах.</definition>
+      <page>764</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>K1559</ref>
+  </related_to>
+</entry>

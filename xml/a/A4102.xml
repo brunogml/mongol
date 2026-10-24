@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A4102">
+  <head>
+    <unicode>ᠠᠷᠭᠠᠣᠰᠬᠣ</unicode>
+    <transcript>arγausqu</transcript>
+    <transcript2>argaosgo</transcript2>
+    <cyrillic>аргуусах</cyrillic>
+  </head>
+  <see_also>
+    <ref>A4123</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠷᠭᠠᠣᠰᠬᠣ</unicode>
+      <cyrillic>АРГУУСАХ</cyrillic>
+      <definition>становиться густым, становиться вяжущим.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠷᠭᠠᠤᠰᠬᠤ</unicode>
+      <cyrillic>аргуусах</cyrillic>
+      <definition>аргуун болох.</definition>
+      <page>50</page>
+    </entry_item>
+  </entries>
+</entry>

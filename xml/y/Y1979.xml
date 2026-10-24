@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1979">
+  <head>
+    <unicode>ᠵᠡᠪᠰᠡᠺᠲᠥ</unicode>
+    <transcript>ǰebsegtü</transcript>
+    <transcript2>yebsegdö</transcript2>
+    <cyrillic>зэвсэгт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠡᠪᠰᠡᠺᠲᠥ</unicode>
+      <uighur>ǰebsekdü</uighur>
+      <cyrillic>зэвсэгт</cyrillic>
+      <transcript>ZEBSEGTY</transcript>
+      <definition>adj. With arms, armed.</definition>
+      <page>1042</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠡᠪᠰᠡᠺᠲᠥ ᠪᠣᠰᠤᠯᠭ᠎ᠠ</unicode>
+          <transcript>-- bosulγ-a</transcript>
+          <definition> Armed revolt.</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠡᠪᠰᠡᠺᠲᠥ ᠺᠦᠴᠦᠨ</unicode>
+          <transcript>-- kycyn</transcript>
+          <definition> Armed forces.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠡᠪᠰᠡᠭᠲᠦ</unicode>
+      <cyrillic>зэвсэгт</cyrillic>
+      <definition>〔形〕武装的：~ хүчин 武装力量；~ бослого 武装暴动，武装起义；~ халдлага 武装侵略，武装进犯；~ өдөөн хатгалга 武装挑衅；~ мөргөлдөөн 武装冲突；~ нэгтэн 同行；~ оролцлогоо ；~ оролцоо, ~ хүчээр оролдох 武装干涉；~ отряд 武装队；~ самуун 武装暴乱；~ самуурал 武装叛乱；~ тэмцэл 武装斗争.</definition>
+      <page>592</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠡᠪᠰᠡᠺᠲᠥ</unicode>
+      <cyrillic>ЗЭВСЭГТ</cyrillic>
+      <definition>имеющий при себе оружие, вооружённый; зэвсэгт бослого вооружённое восстание; зэвсэгт бүлэг вооружённая группа, банда, вооружённый отряд; зэвсэгт мөргөлдөөн вооружённое столкновение, вооружённый конфликт; зэвсэгт хүч вооружённая сила. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зэвсэгт</cyrillic>
+      <definition>bewaffnet; ~ бослого bewaffneter Aufstand; ~ халдлага bewaffneter Überfall; ~ хүчин Streitkräfte Pl</definition>
+      <page>130</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠡᠪᠰᠡᠭᠲᠦ</unicode>
+      <cyrillic>зэвсэгт</cyrillic>
+      <definition>зэвсэг бүхий; зэвсэгт цэрэг.</definition>
+      <page>294</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Y1977</ref>
+  </related_to>
+  <see_also>
+    <ref>Y1978</ref>
+  </see_also>
+</entry>

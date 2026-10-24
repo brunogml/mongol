@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2020">
+  <head>
+    <unicode>ᠲᠠᠮᠢᠷᠲᠣ</unicode>
+    <transcript>tamirtu</transcript>
+    <transcript2>damirdo</transcript2>
+    <cyrillic>тамирт</cyrillic>
+  </head>
+  <see_also>
+    <ref>T2016</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠮᠢᠷᠲᠣ</unicode>
+      <uighur>tamirdu</uighur>
+      <transcript>TAMIRTU</transcript>
+      <definition>See tamirtai</definition>
+      <page>775</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠮᠢᠷᠲᠤ</unicode>
+      <cyrillic>тамирт</cyrillic>
+      <definition>〔形〕参见 тамиртай.</definition>
+      <page>1021</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠮᠢᠷᠲᠣ</unicode>
+      <cyrillic>ТАМИРТ</cyrillic>
+      <definition>тамиртай-г үз., муу тамирт слабый, нездоровый. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠲᠠᠮᠢᠷᠲᠤ</unicode>
+      <definition>fort, robuste; 2 capable, avec des capacités</definition>
+      <page>1645</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠠᠭᠤ ᠲᠠᠮᠢᠷᠲᠤ</unicode>
+          <definition>faible, qui n'est pas durable, peu solide</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тамирт,</cyrillic>
+      <definition>тамиртай stark, kraftvoll, markig</definition>
+      <page>218</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠮᠢᠷᠲᠤ</unicode>
+      <cyrillic>тамирт</cyrillic>
+      <definition>тамиртай, биеийн тамирт дуртай.</definition>
+      <page>518</page>
+    </entry_item>
+  </entries>
+</entry>

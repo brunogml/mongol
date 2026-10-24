@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1595">
+  <head>
+    <unicode>ᠰᠠᠶᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sayidaγulqu</transcript>
+    <transcript2>sayidagolgo</transcript2>
+    <cyrillic>сайдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S1594</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сайдуулах</cyrillic>
+      <definition>〔动〕сайдах 的使动态.</definition>
+      <page>897</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠶᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>САЙДУУЛАХ</cyrillic>
+      <definition>сайдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сайдуулах</cyrillic>
+      <definition>Kaus von сайдах</definition>
+      <page>191</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сайдуулах</cyrillic>
+      <definition>сайдахын үйлдүүлэх хэв.</definition>
+      <page>460</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E0104">
+  <head>
+    <unicode>ᠡᠩᠨᠡᠭᠦᠯᠺᠦ</unicode>
+    <transcript>engnegülkü</transcript>
+    <transcript2>engnegölgö</transcript2>
+    <cyrillic>эгнүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>E0103</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠩᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>эгнүүлэх</cyrillic>
+      <definition>〔动〕эгнэх /1、/2、/3 的使动态.</definition>
+      <page>1680</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠩᠨᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЭГНҮҮЛЭХ</cyrillic>
+      <definition>эгнэх I, II, III-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>эгнүүлэх</cyrillic>
+      <definition>Kaus von эгнэх</definition>
+      <page>395</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠩᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>эгнүүлэх</cyrillic>
+      <definition>эгнэхийн үйлдүүлэх хэв, эгнэхэд хүрүүлэх.</definition>
+      <page>868</page>
+    </entry_item>
+  </entries>
+</entry>

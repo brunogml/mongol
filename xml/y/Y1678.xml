@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1678">
+  <head>
+    <unicode>ᠶᠠᠶᠢᠵᠢᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>yayiǰiγanaqu</transcript>
+    <transcript2>yayiciganago</transcript2>
+    <cyrillic>яйжганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1679</ref>
+    <ref>Y1682</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠠᠢᠵᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>яйжганах</cyrillic>
+      <definition>〔动〕摇晃，摇动，飘摇，歪过来倒过去，摇摇欲坠.</definition>
+      <page>1744</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠠᠶᠢᠵᠢᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЯЙЖГАНАХ</cyrillic>
+      <definition>хлябать, болтаться (о колесах на плохо подогнанной оси), двигаться вкривь вкось (о телеге с болтающимися колесами). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>яйжганах</cyrillic>
+      <definition>etw. Wackeliges, Schadhaftes sich bewegen; wackeln, wanken</definition>
+      <page>413</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠠᠢᠵᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>яйжганах</cyrillic>
+      <definition>яйжгар юмны яйжиг яйжиг хөдлөх.</definition>
+      <page>903</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1777">
+  <head>
+    <unicode>ᠪᠠᠯᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>bellegülkü</transcript>
+    <transcript2>bellegölgö</transcript2>
+    <cyrillic>бэллүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>B1776</ref>
+  </related_to>
+  <see_also>
+    <ref>B1746</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠯᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>БЭЛЛҮҮЛЭХ</cyrillic>
+      <definition>I бэллэх I-ийн үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠡᠯᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бэллүүлэх</cyrillic>
+      <definition>бэллэхийн үйлдүүлэх хэв.</definition>
+      <page>121</page>
+    </entry_item>
+  </entries>
+</entry>

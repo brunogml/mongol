@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0163">
+  <head>
+    <unicode>ᠫᠠᠭᠠᠳᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>paγadaγanaqu</transcript>
+    <transcript2>pagadaganago</transcript2>
+    <cyrillic>паадганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0164</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠫᠠᠭᠠᠳᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>паадганах</cyrillic>
+      <definition>〔动〕参见 паадайлзах.</definition>
+      <page>869</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠫᠠᠭᠠᠳᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ПААДГАНАХ</cyrillic>
+      <definition>пагдганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠫᠠᠭᠠᠳᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>паадганах</cyrillic>
+      <definition>паадгар юмны паадга паадга хөдлөх.</definition>
+      <page>449</page>
+    </entry_item>
+  </entries>
+</entry>

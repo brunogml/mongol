@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0040">
+  <head>
+    <unicode>ᠵᠠᠨᠲᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>ǰantaγanaqu</transcript>
+    <transcript2>yandaganago</transcript2>
+    <cyrillic>зантганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y0042</ref>
+    <ref>Y0044</ref>
+  </derivatives>
+  <see_also>
+    <ref>Y0041</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠨᠲᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>зантганах</cyrillic>
+      <definition>〔动〕一头大的东西不停动作；大头摇来晃去.</definition>
+      <page>545</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠨᠲᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЗАНТГАНАХ</cyrillic>
+      <definition>двигаться, шевелиться (о большой голове); трястись, маячить, быть непропорциональным; мотать головой. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠨᠲᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>зантганах</cyrillic>
+      <definition>зантгар юмны үргэлжлэн хөдлөх.</definition>
+      <page>267</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S0058">
+  <head>
+    <unicode>ᠰᠠᠨᠠᠬᠳᠠᠰᠢ</unicode>
+    <transcript>sanaγdasi</transcript>
+    <transcript2>sanagdasi</transcript2>
+    <cyrillic>санагдаш</cyrillic>
+  </head><related_to>
+    <ref>S0060</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠨᠠᠬᠳᠠᠰᠢ</unicode>
+      <uighur>sanaqdasi</uighur>
+      <cyrillic>санагдашгүй</cyrillic>
+      <transcript>SANAΓDASI</transcript>
+      <page>670</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠬᠳᠠᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Unimaginable, inconceivable</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠠᠨᠠᠬᠳᠠᠰᠢ ᠦᠭᠡᠢ</unicode>
+      <definition>inimaginable.</definition>
+      <page>1285</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠨᠠᠬᠳᠠᠰᠢ</unicode>
+      <cyrillic>САНАГДАШГҮЙ</cyrillic>
+      <definition>невообразимый, немыслимый. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

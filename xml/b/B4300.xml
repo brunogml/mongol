@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B4300">
+  <head>
+    <unicode>ᠪᠥᠳᠠᠺᠢᠷᠠᠯ</unicode>
+    <transcript>büdegirel</transcript>
+    <transcript2>bödegirel</transcript2>
+    <cyrillic>бүдэгрэл</cyrillic>
+  </head>
+  <variants>
+    <variant type="cyrillic">бүдгэрэл</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠳᠠᠺᠢᠷᠠᠯ</unicode>
+      <cyrillic>БҮДЭГРЭЛ</cyrillic>
+      <definition>помутнение.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠦᠳᠡᠭᠢᠷᠡᠯ</unicode>
+      <cyrillic>бүдгэрэл</cyrillic>
+      <definition>〔名〕暗淡，晦暗，朦胧，模糊，含糊.</definition>
+      <page>223</page>
+    </entry_item>
+  </entries>
+</entry>

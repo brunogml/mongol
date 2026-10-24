@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3633">
+  <head>
+    <unicode>ᠴᠥᠮᠴᠥᠺᠠᠷᠳᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>čömčügerdegülkü</transcript>
+    <transcript2>cömcögerdegölgö</transcript2>
+    <cyrillic>цөмцгөрдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>C3631</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠥᠮᠴᠥᠭᠡᠷᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>цөмцгөрдүүлэх</cyrillic>
+      <definition>〔动〕цөмцгөрдөх 的使动态.</definition>
+      <page>1543</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠥᠮᠴᠥᠺᠠᠷᠳᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЦӨМЦГӨРДҮҮЛЭХ</cyrillic>
+      <definition>цөмцгөрдөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠥᠮᠴᠥᠭᠡᠷᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>цөмцгөрдүүлэх</cyrillic>
+      <definition>цөмцгөрдөхийн үйлдүүлэх хэв.</definition>
+      <page>795</page>
+    </entry_item>
+  </entries>
+</entry>

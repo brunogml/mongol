@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B0097">
+  <head>
+    <unicode>ᠪᠠᠩᠺᠢ</unicode>
+    <transcript>bangki</transcript>
+    <transcript2>banggi</transcript2>
+    <cyrillic>банк</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠠᠩᠺᠢ ~ ᠪᠠᠩᠺᠢᠨ</unicode>
+      <uighur>bangki - bangkin</uighur>
+      <cyrillic>банк</cyrillic>
+      <transcript>BANGKI(N)</transcript>
+      <definition>n. Bank (commercial).</definition>
+      <page>82</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠠᠩᠺᠢ ᠎ᠶᠢᠨ ᠡᠷᠺᠢᠯᠡᠭᠴᠢ</unicode>
+          <transcript>-- jin erkilegci</transcript>
+          <definition>Bank manager.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠠᠩᠺᠢ ᠎ᠶᠢᠨ ᠭᠠᠵᠠᠷ</unicode>
+          <transcript>-- jin γazar</transcript>
+          <definition>Banking institution.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠠᠩᠺᠢᠨ ᠤ ᠲᠡᠮᠳᠡᠭ</unicode>
+          <transcript>--n u temdeg</transcript>
+          <definition>Banknote.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠪᠠᠩᠺᠢ</unicode>
+      <uighur>banggi</uighur>
+      <definition>n. A bank.</definition>
+      <page>384</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠩᠺᠢ</unicode>
+      <cyrillic>БАНК</cyrillic>
+      <definition>банк; банкны эзэн банкир.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠩᠺᠢ</unicode>
+      <cyrillic>БАНКНЫ</cyrillic>
+      <definition>банк(н)-ы харьяал., банковский, банковый; банкны гүйлгээ банковый оборот; банкны зээл банковский кредит; банкны тэмдэгт банковский билет, банкнота.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠩᠬᠢ</unicode>
+      <cyrillic>банк(ан)</cyrillic>
+      <definition>〔名〕①银行：~анд шилжүүлэх 转人银行，汇入银行；~ны хөренгө оруулалт 银行投资；~ны касс 银行存款处；银行储蓄所；~ны тэмдэгт 银行券，纸币，钞票；~ны агентлат 银行支行，银行代理处；~ны аппарат 银行机构；~ны баримт 银行凭证；~ны бригадлан ажиллах арга 银行专柜制；~ны бүлгийнхэн 银行界；~ны бүртгэлийн хүү 银行贝占现利率；~ны бэлтгэл нөөц 银行资金；~ны дарга 银行行长；~ны зээл 银行信贷；~ны идэвхт ажиллагаа 银行放款业务；~ны идэвхтэй идэвхгүй ажиллагаа 银行出超和入超业务；~ны итгэмжлэх 银行信用证；~ны капитал 银行资本；~ны картель 银行卡特尔；~ны концери 银行康采恩；~ны мэдүүлэмж 银行报单银行通知书；~ны онд эрх 银行专营；онц эрхтэй нэгдэл 银行康采恩，银行专营集团；~ны салбар 银行分行；~ны синдикат 银行辛迪加；~ны сүйрэл 银行破产；~ны тогтолцоо 银行系统；~ны тооцоо 银行结算；~ны төв контор 银行总行；~ны төлөлт 银行抵补数额；~ны төлөөлөгч 银行代理人；~ны төлөөс 银行抵补；~ны үйлдэл 银行业务；~ны хамаатан 银团；~ны холбоо 银行协会；~ны худалдаа-валютын ажиллагаа 银行外汇交易业务；~ны хүлээх зөвшөөрөлт 银行承付；~ны даасан тэмдэгт гаргалт 银行纸币发行；~ны чек 银行支票；~ны эзний байр 银号，银庄；~ны эзэн 银行业主；②罐；〈医〉拔火罐；吸杯：машины ~ 汽车的油罐；бензиний ~ 汽油罐.</definition>
+      <page>127</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>банк[ан]</cyrillic>
+      <definition>Fin Bank f; ~анд хадгалуулсан мөнгө[н] Bankguthaben n; ~ дахь данс[ан] Bankkonto n; Улсын ÷ Staatsbank f</definition>
+      <page>46</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>банкны</cyrillic>
+      <definition>(Gen von банк[ан]) Bank-; ~ дэвтэр Scheckbuch n; ~ капитал Bankkapital n; ~ тэмдэгт Banknote f; ~ зээн Bankier m</definition>
+      <page>46</page>
+    </entry_item>
+  </entries>
+</entry>

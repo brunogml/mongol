@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1611">
+  <head>
+    <unicode>ᠭᠠᠳᠠᠭᠣᠷᠴᠢᠯᠠᠬᠣ</unicode>
+    <transcript>γadaγurčilaqu</transcript>
+    <transcript2>gadagorcilago</transcript2>
+    <cyrillic>гадуурчлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q1612</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠠᠳᠠᠭᠣᠷᠴᠢᠯᠠᠬᠣ</unicode>
+      <uighur>γadaγurčilaqu</uighur>
+      <cyrillic>гадуурчлах</cyrillic>
+      <transcript>ΓADAΓURCILA-</transcript>
+      <definition>v. t. To consider or treat as an outsider; to exclude.</definition>
+      <page>342</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠠᠳᠠᠭᠣᠷᠴᠢᠯᠠᠨ ᠦᠵᠡᠺᠦ</unicode>
+          <transcript>--n yzeky</transcript>
+          <definition> To look upon as an outsider.</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠠᠳᠠᠭᠣᠷᠴᠢᠯᠠᠵᠤ ᠠᠳᠠᠯᠠᠬᠤ</unicode>
+          <transcript>--zu adalaxu</transcript>
+          <definition> To abase and exclude; to treat as an outcast.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠠᠳᠠᠭᠤᠷᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>гадуурчлах</cyrillic>
+      <definition>〔动〕排斥，排挤，歧视：~бодлого 歧视政策.</definition>
+      <page>266</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠳᠠᠭᠣᠷᠴᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ГАДУУРЧЛАХ</cyrillic>
+      <definition>гадууршаах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гадуурчлах</cyrillic>
+      <definition>= гадуурхах</definition>
+      <page>72</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠠᠳᠠᠭᠤᠷᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>гадуурчлах</cyrillic>
+      <definition>гадуурлах, нүдний нуух, шүдний мах мэт гадуурчилж байв.</definition>
+      <page>131</page>
+    </entry_item>
+  </entries>
+</entry>

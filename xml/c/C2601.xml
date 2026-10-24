@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C2601">
+  <head>
+    <unicode>ᠴᠣᠭᠣᠯᠢᠳᠠᠬᠣ</unicode>
+    <transcript>čoγulidaqu</transcript>
+    <transcript2>cogolidago</transcript2>
+    <cyrillic>цоолдох</cyrillic>
+  </head><derivatives>
+    <ref>C2602</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠣᠭᠣᠯᠳᠠᠬᠤ</unicode>
+      <cyrillic>цоолдох</cyrillic>
+      <definition>〔动〕цоолох 的互动态.</definition>
+      <page>1535</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠭᠣᠯᠢᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЦООЛДОХ</cyrillic>
+      <definition>штопать; цоольдох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠭᠣᠯᠢᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЦООЛЬДОХ</cyrillic>
+      <definition>латать, штопать; оймс цоольдох штопать чулки. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

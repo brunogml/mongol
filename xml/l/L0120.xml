@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="L0120">
+  <head>
+    <unicode>ᠯᠠᠪᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>labdaγulqu</transcript>
+    <transcript2>labdagolgo</transcript2>
+    <cyrillic>лавдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>L0117</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠯᠠᠪᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>лавдуулах</cyrillic>
+      <definition>〔动〕лавдах 的使动态.</definition>
+      <page>639</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠯᠠᠪᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЛАВДУУЛАХ</cyrillic>
+      <definition>лавдах I, II-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠯᠠᠪᠳᠠᠭᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>лавдуулах</cyrillic>
+      <definition>лавдахын үйлдүүлэх хэв.</definition>
+      <page>318</page>
+    </entry_item>
+  </entries>
+</entry>

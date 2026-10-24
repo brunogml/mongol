@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U0234">
+  <head>
+    <unicode>ᠣᠨᠣᠯᠳᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>onolduγulqu</transcript>
+    <transcript2>onoldogolgo</transcript2>
+    <cyrillic>онолдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U0232</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠨᠣᠯᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>онолдуулах</cyrillic>
+      <definition>〔动〕онолдох /1 的使动态.</definition>
+      <page>808</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠨᠣᠯᠳᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ОНОЛДУУЛАХ</cyrillic>
+      <definition>онолдох I, II-ын үйлдүүл., приводить в соответствие с чем-л., согласовывать; үнэн баримтаар онолдуулан бичих писать на основании подлинных фактов. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠨᠣᠯᠳᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>онолдуулах</cyrillic>
+      <definition>онолдохын үйлдүүлэх хэв, онолдоход хүрүүлэх.</definition>
+      <page>417</page>
+    </entry_item>
+  </entries>
+</entry>

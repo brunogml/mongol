@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1510">
+  <head>
+    <unicode>ᠮᠣᠨᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>munadaγulqu</transcript>
+    <transcript2>monadagolgo</transcript2>
+    <cyrillic>мунадуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>M1509</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠤᠨᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>мунадуулах</cyrillic>
+      <definition>〔动〕мунадах 的使动态.</definition>
+      <page>694</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠨᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>МУНАДУУЛАХ</cyrillic>
+      <definition>мунадах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠤᠨᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>мунадуулах</cyrillic>
+      <definition>мунадахын үйлдүүлэх хэв.</definition>
+      <page>349</page>
+    </entry_item>
+  </entries>
+</entry>

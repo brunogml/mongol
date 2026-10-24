@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1603">
+  <head>
+    <unicode>ᠵᠠᠶᠢᠳᠠᠩᠨᠠᠬᠣ</unicode>
+    <transcript>ǰayidangnaqu</transcript>
+    <transcript2>yayidangnago</transcript2>
+    <cyrillic>зайдагнах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1604</ref>
+    <ref>Y1606</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠠᠶᠢᠳᠠᠩᠨᠠᠬᠣ</unicode>
+      <uighur>ǰayidangnaqu</uighur>
+      <transcript>ZAIDANGNA-</transcript>
+      <definition>Same as zaidala-</definition>
+      <page>1026</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠢᠳᠠᠩᠨᠠᠬᠤ</unicode>
+      <cyrillic>зайдагнах</cyrillic>
+      <definition>〔动〕乘无鞍之牲口.</definition>
+      <page>532</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠶᠢᠳᠠᠩᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЗАЙДАГНАХ</cyrillic>
+      <definition>зайдлах-ыг үз., † хүнийг зайдагнах третировать человека, сесть кому-л. на шею. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зайдагнах</cyrillic>
+      <definition>= зайддах</definition>
+      <page>115</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠢᠳᠠᠩᠨᠠᠬᠤ</unicode>
+      <cyrillic>зайдагнах</cyrillic>
+      <definition>морь мал зэргийг зайдан унах.</definition>
+      <page>260</page>
+    </entry_item>
+  </entries>
+</entry>

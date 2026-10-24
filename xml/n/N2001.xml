@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N2001">
+  <head>
+    <unicode>ᠨᠣᠭᠣᠭᠠᠯᠠᠬᠣ</unicode>
+    <transcript>noγuγalaqu</transcript>
+    <transcript2>nogogalago</transcript2>
+    <cyrillic>ногоолох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>N2002</ref>
+    <ref>N2004</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠣᠭᠣᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>НОГООЛОХ</cyrillic>
+      <definition>I зеленеть, зазеленеть. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠣᠭᠣᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>НОГООЛОХ</cyrillic>
+      <definition>II покрыть зелёным цветом, позеленить. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠣᠭᠣᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>НОГООЛОХ</cyrillic>
+      <definition>III впервые весной пасти скот на траве. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>ногоолох</cyrillic>
+      <definition>Vieh Grünfutter fressen lassen, grasen lassen</definition>
+      <page>157</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠣᠭᠣᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>ногоолох /1</cyrillic>
+      <definition>малд ногоо элбэг дэлбэг идүүлэх.</definition>
+      <page>378</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠣᠭᠣᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>ногоолох /2</cyrillic>
+      <definition>ногоон болгох.</definition>
+      <page>378</page>
+    </entry_item>
+  </entries>
+</entry>

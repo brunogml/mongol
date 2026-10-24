@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1142">
+  <head>
+    <transcript>čeke</transcript>
+    <transcript2>cege</transcript2>
+    <cyrillic>цех</cyrillic>
+  </head>
+  <see_also>
+    <ref>C1141</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠼᠧᠬᠡ</unicode>
+      <cyrillic>цех</cyrillic>
+      <definition>〔名〕）①车间：~ийн мастер 车间工长，工段长；~ийн хурал 车间会议；гутлын ~ 皮靴车间；②行会.</definition>
+      <page>1527</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ЦЕХ</cyrillic>
+      <definition>цех; ороох цех мотальный цех; угсрах цех сборочный цех; цутгах цех литейный цех; цэмбэний цех суконный цех. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ЦЕХИЙН</cyrillic>
+      <definition>цех-ийн харьяал., цеховой; цехийн дарга начальник цеха; цехийн мастер цеховой мастер; цехийн хурал цеховое собрание. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цех</cyrillic>
+      <definition>Fabrik Abteilung f; Werkhalle f; үгерах ~ Montageabteilung f; цутгах ~ Gießereiabteilung f</definition>
+      <page>355</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠼᠧᠬᠡ</unicode>
+      <cyrillic>цех</cyrillic>
+      <definition>фабрик, заводад байх салбар, алив нэг үйлдэхүүнийг боловсруулах буюу хийнэ; цехийн мастер; цехийн хурал; гутлын цех.</definition>
+      <page>787</page>
+    </entry_item>
+  </entries>
+</entry>

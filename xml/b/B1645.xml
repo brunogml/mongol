@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1645">
+  <head>
+    <unicode>ᠪᠠᠷᠺᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>barkiraγulqu</transcript>
+    <transcript2>bargiragolgo</transcript2>
+    <cyrillic>бархируулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B1644</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠷᠬᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бархируулах</cyrillic>
+      <definition>〔动〕бархирах 的使动态.</definition>
+      <page>139</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠷᠺᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БАРХИРУУЛАХ</cyrillic>
+      <definition>бархирах-ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бархируулах</cyrillic>
+      <definition>Kaus von бархирах</definition>
+      <page>48</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠷᠬᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бархируулах</cyrillic>
+      <definition>бархирахын үйлдүүлэх хэв.</definition>
+      <page>78</page>
+    </entry_item>
+  </entries>
+</entry>

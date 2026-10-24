@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6041">
+  <head>
+    <unicode>ᠰᠣᠴᠢᠬᠣ</unicode>
+    <transcript>sočiqu</transcript>
+    <transcript2>socigo</transcript2>
+    <cyrillic>сочих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6042</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠣᠴᠢᠬᠣ</unicode>
+      <uighur>sočiqu</uighur>
+      <cyrillic>сочих</cyrillic>
+      <transcript>SOCI-</transcript>
+      <definition>See coci-, etc.</definition>
+      <page>723</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠤᠴᠢᠬᠤ</unicode>
+      <definition>s'effrayer , se troubler, frissonner.</definition>
+      <page>1405</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠰᠣᠴᠢᠬᠣ</unicode>
+      <uighur>sočiqu</uighur>
+      <definition>sich erschrecken</definition>
+      <page>371</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠰᠣᠴᠢᠬᠣ</unicode>
+      <uighur>sučiqu</uighur>
+      <definition>To be a1armed, startled or frightened</definition>
+      <page>1489</page>
+      <examples>
+        <example>
+          <uighur>sučiqu mori</uighur>
+          <definition>n. A skittish and easily frightened horse.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠴᠢᠬᠤ</unicode>
+      <cyrillic>сочих</cyrillic>
+      <definition>〔动〕参见 цочих.</definition>
+      <page>945</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠴᠢᠬᠣ</unicode>
+      <cyrillic>СОЧИХ</cyrillic>
+      <definition>цочих-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сочих</cyrillic>
+      <definition>= почих</definition>
+      <page>202</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠴᠢᠬᠤ</unicode>
+      <cyrillic>сочих</cyrillic>
+      <definition>цочих, хирдхийх.</definition>
+      <page>482</page>
+    </entry_item>
+  </entries>
+</entry>

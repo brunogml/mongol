@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4421">
+  <head>
+    <unicode>ᠶᠣᠯᠬᠣᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>yolqulǰaγulqu</transcript>
+    <transcript2>yolgolcagolgo</transcript2>
+    <cyrillic>ёлхолзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y4420</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠣᠯᠬᠣᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ёлхолзуулах</cyrillic>
+      <definition>〔动〕ёлхолзох 的使动态.</definition>
+      <page>490</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠣᠯᠬᠣᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЁЛХОЛЗУУЛАХ</cyrillic>
+      <definition>ёлхолзох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠣᠯᠬᠣᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ёлхолзуулах</cyrillic>
+      <definition>ёлхолзохын үйлдүүлэх хэв.</definition>
+      <page>235</page>
+    </entry_item>
+  </entries>
+</entry>

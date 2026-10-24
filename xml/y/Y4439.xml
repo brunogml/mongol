@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y4439">
+  <head>
+    <unicode>ᠵᠣᠯᠪᠢ</unicode>
+    <transcript>ǰolbi</transcript>
+    <transcript2>yolbi</transcript2>
+    <cyrillic>золби</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠣᠯᠪᠢᠨ</unicode>
+      <uighur>ǰolbin</uighur>
+      <cyrillic>золбин</cyrillic>
+      <transcript>ZOLBIN</transcript>
+      <definition>adj. and n. Stray; irrelevant; wandering, homeless; vagabond, vagrant.</definition>
+      <page>1069</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠣᠯᠪᠢᠨ ᠨᠣᠬᠠᠢ</unicode>
+          <transcript>-- noxai</transcript>
+          <definition> Stray dog (also used as an invective)</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠣᠯᠪᠢᠨ ᠦᠭᠡ</unicode>
+          <transcript>-- yge</transcript>
+          <definition> Uncalled-for remark.</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠣᠯᠪᠢᠨ ᠵᠠᠩᠲᠠᠢ ᠺᠦᠮᠦᠨ</unicode>
+          <transcript>-- zangtai kymyn</transcript>
+          <definition> Nosy person.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠣᠯᠪᠢᠨ ᠨᠣᠬᠠᠢ</unicode>
+      <definition>un chien sans maître.</definition>
+      <page>2391</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠯᠪᠢ</unicode>
+      <cyrillic>ЗОЛБИ</cyrillic>
+      <definition>золбин-г үз., золби мал бродячий скот; золби хол хүн дальний человек. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

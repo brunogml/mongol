@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2046">
+  <head>
+    <unicode>ᠴᠢᠮᠺᠢᠶᠠᠷᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>čimkiyerilegülkü</transcript>
+    <transcript2>cimgiyerilegölgö</transcript2>
+    <cyrillic>чимхээрлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>C2045</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠮᠬᠡᠷᠢᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>чимхээрлүүлэх</cyrillic>
+      <definition>〔动〕чимхээрлэх 的使动态.</definition>
+      <page>1589</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠮᠺᠢᠶᠠᠷᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЧИМХЭЭРЛҮҮЛЭХ</cyrillic>
+      <definition>чимхээрлэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠮᠬᠢᠶᠡᠷᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>чимхээрлүүлэх</cyrillic>
+      <definition>чимхээрлүүлэхийн үйлдүүлэх хэв.</definition>
+      <page>819</page>
+    </entry_item>
+  </entries>
+</entry>

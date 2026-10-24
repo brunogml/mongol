@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q6600">
+  <head>
+    <unicode>ᠬᠣᠶᠢᠰᠢᠯᠳᠠᠬᠣ</unicode>
+    <transcript>qoyisildaqu</transcript>
+    <transcript2>goyisildago</transcript2>
+    <cyrillic>хойшилдох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q6601</ref>
+    <ref>Q6602</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠣᠢᠰᠢᠯᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>хойшилдох</cyrillic>
+      <definition>〔动〕①倒绊马绊（绊两个后足一个前足）：гүүг ~ж саах 倒绊住母马挤奶；②一再推后，屡次推延，不断拖后：ажлаа ~ 一再拖延工作.</definition>
+      <page>1352</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠶᠢᠰᠢᠯᠳᠠᠬᠣ</unicode>
+      <cyrillic>ХОЙШИЛДОХ</cyrillic>
+      <definition>треножить две задние и одну переднюю ногу коня. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хойшилдох</cyrillic>
+      <definition>1. Tier die Hinterbeine und ein Vorderbein fesseln od koppeln
+2. Arbeit aufschieben</definition>
+      <page>307</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠢᠰᠢᠯᠳᠠᠬᠤ</unicode>
+      <cyrillic>хойшилдох</cyrillic>
+      <definition>1. чөдрийн өмнөх этгээдийг хойш харуулан чөдөрлөх; гүүг хойшилдож саах;2. байн байн хойш болгох; ажлаа битгий хойшилдоод бай!</definition>
+      <page>684</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q6583</ref>
+  </related_to>
+</entry>

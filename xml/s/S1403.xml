@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S1403">
+  <head>
+    <unicode>ᠰᠠᠮᠯᠠᠬᠣ</unicode>
+    <transcript>samlaqu</transcript>
+    <transcript2>samlago</transcript2>
+    <cyrillic>самлах</cyrillic>
+  </head><derivatives>
+    <ref>S1404</ref>
+  
+    <ref>S1405</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠮᠯᠠᠬᠣ</unicode>
+      <uighur>samlaqu</uighur>
+      <cyrillic>самлах</cyrillic>
+      <transcript>SAMLA-</transcript>
+      <definition>See samna-.</definition>
+      <page>668</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠠᠮᠯᠠᠬᠤ ~ ᠰᠠᠮᠨᠠᠬᠤ</unicode>
+      <definition>peigner (des cheveux, la soie), redresser.</definition>
+      <page>1319</page>
+      <examples>
+        <example>
+          <unicode>ᠦᠰᠦᠨ ᠰᠠᠮᠯᠠᠬᠤ</unicode>
+          <definition>peigner les cheveux</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠰᠠᠮᠯᠠᠬᠣ</unicode>
+      <uighur>samlaqu</uighur>
+      <definition>kämmen.</definition>
+      <page>342</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠮᠯᠠᠬᠤ</unicode>
+      <cyrillic>самлах</cyrillic>
+      <definition>〔动〕参见 самнах.</definition>
+      <page>907</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠮᠯᠠᠬᠣ</unicode>
+      <cyrillic>САМЛАХ</cyrillic>
+      <definition>чесать, расчёсывать гребнем волосы; самнах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

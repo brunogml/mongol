@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S2985">
+  <head>
+    <unicode>ᠰᠢᠣ</unicode>
+    <transcript>siu</transcript>
+    <transcript2>sio</transcript2>
+    <cyrillic>шуу</cyrillic>
+  </head><see_also>
+    <ref>S4804</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠣ</unicode>
+      <uighur>siu</uighur>
+      <cyrillic>шуу</cyrillic>
+      <transcript>SIU</transcript>
+      <definition>See siy, 1.</definition>
+      <page>720</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠤ ~ ᠱᠡᠦ</unicode>
+      <definition>salpêtre , nitre.</definition>
+      <page>1455</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠤ ᠎ᠶᠢᠨ ᠺᠦᠵᠢᠯ</unicode>
+          <definition>acide citrique</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

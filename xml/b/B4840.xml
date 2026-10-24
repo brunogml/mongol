@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4840">
+  <head>
+    <unicode>ᠪᠥᠺᠲᠠ</unicode>
+    <transcript>bügte</transcript>
+    <transcript2>bögde</transcript2>
+    <cyrillic>бүгт</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B4920</ref>
+  </derivatives>
+  <see_also>
+    <ref>B4839</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠦᠭᠲᠡ</unicode>
+      <cyrillic>бүгт</cyrillic>
+      <definition>〔形〕隐蔽的，模糊的，不明显的.</definition>
+      <page>222</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠺᠲᠠ</unicode>
+      <cyrillic>БҮГТ</cyrillic>
+      <definition>бүрхэг-ийг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бүгт</cyrillic>
+      <definition>undeutlich, verschwommen</definition>
+      <page>65</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠦᠭᠲᠡ</unicode>
+      <cyrillic>бүгт</cyrillic>
+      <definition>илэрхийгүй, бүрхэг; бүгт өнгө; бүгт хэрэг.</definition>
+      <page>114</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S4345">
+  <head>
+    <unicode>ᠰᠢᠺᠥᠳᠠᠷ</unicode>
+    <transcript>sigüder</transcript>
+    <transcript2>sigöder</transcript2>
+    <cyrillic>шүүдэр</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠺᠥᠳᠠᠷ</unicode>
+      <uighur>sigüder - sigüderi</uighur>
+      <cyrillic>шүүдэр</cyrillic>
+      <transcript>SIGYDER[I]</transcript>
+      <definition>n. Dew.</definition>
+      <page>703</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠺᠥᠳᠠᠷ ᠪᠠᠭᠤᠪᠠᠢ</unicode>
+          <transcript>-- baγubai</transcript>
+          <definition> Dew has fallen.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠠᠭᠠᠨ ᠰᠢᠺᠥᠳᠠᠷ</unicode>
+          <transcript>caγan -- </transcript>
+          <definition> Hoarfrost.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠭᠦᠳᠡᠷ ~ ᠰᠢᠭᠦᠳᠡᠷᠢ</unicode>
+      <definition>rosée.</definition>
+      <page>1513</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠭᠦᠳᠡᠷ ᠣᠨᠠᠮᠤᠢ</unicode>
+          <definition>la rosée tombe</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠰᠢᠺᠥᠳᠠᠷ</unicode>
+      <uighur>sigüder</uighur>
+      <definition>der Thau</definition>
+      <page>357</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠭᠦᠳᠡᠷᠢ</unicode>
+      <cyrillic>шүүдэр</cyrillic>
+      <definition>〔名〕露，露水，露珠：~ буух 下露；~ тогтох 结露水；~ гялалзах 露珠闪耀；шүүдэрт бургас 〈植〉粉枝柳.</definition>
+      <page>1668</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>шүүдэр</cyrillic>
+    <definition>Met Tau m; ~ буүж байна der Tau fällt</definition>
+    <page>393</page>
+  </entry_item>
+  </entries>
+</entry>

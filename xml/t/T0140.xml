@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0140">
+  <head>
+    <unicode>ᠲᠠᠩᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tangnaγulqu</transcript>
+    <transcript2>dangnagolgo</transcript2>
+    <cyrillic>тагнуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T0137</ref>
+  </related_to>
+  <see_also>
+    <ref>T0141</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠩᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тагнуулах</cyrillic>
+      <definition>〔动〕тагнах /1、/2 使动态.</definition>
+      <page>1011</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠩᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАГНУУЛАХ</cyrillic>
+      <definition>тагнах-ын үйлдүүл., отправлять на разведку. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тагнуулах</cyrillic>
+      <definition>Kaus von тагнах</definition>
+      <page>216</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠩᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тагнуулах</cyrillic>
+      <definition>тагнахын үйлдүүлэх хэв, тагнуул хийлгэх, тагнуул болгох.</definition>
+      <page>514</page>
+    </entry_item>
+  </entries>
+</entry>

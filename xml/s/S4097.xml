@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4097">
+  <head>
+    <unicode>ᠰᠢᠮᠠᠯᠠᠬᠣ</unicode>
+    <transcript>simalaqu</transcript>
+    <transcript2>simalago</transcript2>
+    <cyrillic>шамлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S4098</ref>
+    <ref>S4099</ref>
+    <ref>S4101</ref>
+  </derivatives>
+  <see_also>
+    <ref>S4102</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠮᠠᠯᠠᠬᠣ</unicode>
+      <uighur>simalaqu</uighur>
+      <cyrillic>шамлах</cyrillic>
+      <transcript>SIMALA-</transcript>
+      <definition>[= simali-] v.t. To lift up, pull up, tuck up ; to roll up one's sleeves.</definition>
+      <page>709</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠨᠴᠤᠢ ᠰᠢᠮᠠᠯᠠᠬᠣ</unicode>
+          <transcript>xancui --xu</transcript>
+          <definition> To roll up the sleeves.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠮᠠᠯᠠᠬᠤ ~ ᠰᠢᠮᠠᠯᠢᠬᠤ</unicode>
+      <definition>lever, ramasser; retrousser (les manches).</definition>
+      <page>1503</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠠᠷ ᠰᠢᠮᠠᠯᠠᠬᠤ</unicode>
+          <definition>lever la main</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠰᠢᠮᠠᠯᠠᠬᠣ</unicode>
+      <uighur>simalaqu</uighur>
+      <definition>To roll up the sleeves.</definition>
+      <page>1438</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠮᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ШАМЛАХ</cyrillic>
+      <definition>засучивать, заворачивать, подворачивать (рукава); подбирать (подол), подоткнуть; гар шамлах поднимать руку; ханцуй шамлах засучить рукава. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠮᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>шамлах</cyrillic>
+      <definition>шамрах, шамруулах, шамрахад хүрүүлэх; ханцуй шамлах.</definition>
+      <page>835</page>
+    </entry_item>
+  </entries>
+</entry>

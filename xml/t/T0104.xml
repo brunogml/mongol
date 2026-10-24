@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0104">
+  <head>
+    <unicode>ᠳᠠᠨᠳᠠᠶᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>dandayilaγulqu</transcript>
+    <transcript2>dandayilagolgo</transcript2>
+    <cyrillic>дандайлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T0103</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠩᠳᠠᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дандайлуулах</cyrillic>
+      <definition>〔动〕дандайлах 的使动态.</definition>
+      <page>390</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠨᠳᠠᠶᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДАНДАЙЛУУЛАХ</cyrillic>
+      <definition>дандайлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠨᠳᠠᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дандайлуулах</cyrillic>
+      <definition>дандайлахын үйлдүүлэх хэв.</definition>
+      <page>187</page>
+    </entry_item>
+  </entries>
+</entry>

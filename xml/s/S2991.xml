@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S2991">
+  <head>
+    <unicode>ᠰᠢᠣᠳᠣᠣ</unicode>
+    <transcript>siudou</transcript>
+    <transcript2>siodoo</transcript2>
+    <cyrillic>шуудуу</cyrillic>
+  </head><see_also>
+    <ref>S4825</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠣᠳᠣᠣ</unicode>
+      <uighur>siodou</uighur>
+      <cyrillic>шуудуу</cyrillic>
+      <transcript>SIUDUU</transcript>
+      <definition>[= šuuduu, Ch. shul-tao] n. Ditch, canal.</definition>
+      <page>720</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠣᠳᠣᠣ ᠲᠠᠲᠠᠬᠤ</unicode>
+          <transcript>-- tataxu </transcript>
+          <definition>To dig ditches</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠠᠵᠠᠷ ᠤᠰᠤᠯᠠᠬᠤ ᠰᠢᠣᠳᠣᠣ</unicode>
+          <transcript>γazar usulaxu -- </transcript>
+          <definition>Irrigation ditch</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

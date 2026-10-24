@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q7318">
+  <head>
+    <unicode>ᠬᠣᠷᠴᠢᠺᠢᠨᠠᠬᠣ</unicode>
+    <transcript>qurčiginaqu</transcript>
+    <transcript2>gorciginago</transcript2>
+    <cyrillic>хурчигнах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q7322</ref>
+    <ref>Q7327</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q7319</ref>
+    <ref>Q7321</ref>
+    <ref>Q7320</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠷᠴᠢᠭᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>хурчигнах</cyrillic>
+      <definition>〔动〕咕噜咕噜响：гэдэс ~ 肚子咕噜咕噜响（空腹时）.</definition>
+      <page>1439</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠷᠴᠢᠺᠢᠨᠠᠬᠣ</unicode>
+      <cyrillic>ХУРЧИГНАХ</cyrillic>
+      <definition>урчать; гэдэс хурчигнана в животе урчит. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хурчигнах</cyrillic>
+      <definition>glucksen; knurren; гэдэс хурчигнаж байна der Magen knurrt</definition>
+      <page>330</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠷᠴᠢᠭᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>хурчигнах</cyrillic>
+      <definition>хурчиг хурчиг чимээ гарах; ус хурчигнан урсах; гэдэс хурчигнан дуугарах.</definition>
+      <page>735</page>
+    </entry_item>
+  </entries>
+</entry>

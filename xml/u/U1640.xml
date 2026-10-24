@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1640">
+  <head>
+    <unicode>ᠣᠯᠠᠶᠢᠰᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ulayisiraγulqu</transcript>
+    <transcript2>olayisiragolgo</transcript2>
+    <cyrillic>улайшруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U1639</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠯᠠᠢᠰᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>улайшруулах</cyrillic>
+      <definition>〔动〕улайшрах 的使动态.</definition>
+      <page>1183</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠯᠠᠶᠢᠰᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>УЛАЙШРУУЛАХ</cyrillic>
+      <definition>улайшрах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>улайшруулах</cyrillic>
+      <definition>Kaus von улайшрах</definition>
+      <page>255</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠯᠠᠢᠰᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>улайшруулах</cyrillic>
+      <definition>улайшрахыг үйлдүүлэх хэв.</definition>
+      <page>589</page>
+    </entry_item>
+  </entries>
+</entry>

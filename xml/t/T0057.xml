@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0057">
+  <head>
+    <unicode>ᠲᠠᠨᠢᠯᠺᠥᠢ</unicode>
+    <transcript>tanilgüi</transcript>
+    <transcript2>danilgöi</transcript2>
+    <cyrillic>танилгүй</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠨᠢᠯᠭᠦᠢ</unicode>
+      <cyrillic>танилгүй</cyrillic>
+      <definition>〔形〕没有熟人的，没有朋友的，孤独的：~ хүн 没有朋友的人.</definition>
+      <page>1025</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠨᠢᠯᠺᠥᠢ</unicode>
+      <cyrillic>ТАНИЛГҮЙ</cyrillic>
+      <definition>1. не имеющий знакомых, друзей; 2. не зная, не узнавая; по ошљбке. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠨᠢᠯᠦᠭᠡᠢ</unicode>
+      <cyrillic>танилгүй</cyrillic>
+      <definition>таних олон нөхөргүй буюу ганцагчин байдалтай хүн, танилгүй хүн алгы чинээн.</definition>
+      <page>520</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T0050</ref>
+  </related_to>
+  <derivatives>
+    <ref>T0058</ref>
+  </derivatives>
+</entry>

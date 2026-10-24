@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q3000">
+  <head>
+    <unicode>ᠬᠠᠶᠢᠳᠠᠬᠰᠢᠬᠣ</unicode>
+    <transcript>qayidaγsiqu</transcript>
+    <transcript2>gayidagsigo</transcript2>
+    <cyrillic>хайдагших</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q3001</ref>
+    <ref>Q3002</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠶᠢᠳᠠᠬᠰᠢᠬᠣ</unicode>
+      <uighur>qayidaqsiqu</uighur>
+      <cyrillic>хайдагших</cyrillic>
+      <transcript>XAIDAΓSI-</transcript>
+      <definition>v. i. To give milk (of animals whose young has been weaned or has died).</definition>
+      <page>912</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠢᠳᠠᠭᠰᠢᠬᠤ</unicode>
+      <cyrillic>хайдагших</cyrillic>
+      <definition>〔动〕〈牧〉无仔畜仍能出乳；仔畜死后仍能出乳.</definition>
+      <page>1278</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠶᠢᠳᠠᠬᠰᠢᠬᠣ</unicode>
+      <cyrillic>ХАЙДАГШИХ</cyrillic>
+      <definition>1) доиться без подпускания детёныша (о самках животных); 2) лишиться детёныша. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хайдагших</cyrillic>
+      <definition>Tierweibchen ohne Jungtier laktieren</definition>
+      <page>284</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠢᠳᠠᠭᠰᠢᠬᠤ</unicode>
+      <cyrillic>хайдагших</cyrillic>
+      <definition>хайдаг болох; хайдагшсан үнээ.</definition>
+      <page>644</page>
+    </entry_item>
+  </entries>
+</entry>

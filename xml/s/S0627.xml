@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0627">
+  <head>
+    <unicode>ᠱᠠᠬᠯᠠᠬᠣ</unicode>
+    <transcript>šaγlaqu</transcript>
+    <transcript2>saglago</transcript2>
+    <cyrillic>шаглах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S0628</ref>
+  </derivatives>
+  <see_also>
+    <ref>S3408</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠱᠠᠬᠯᠠᠬᠣ</unicode>
+      <uighur>šaqlaqu</uighur>
+      <cyrillic>шaглах</cyrillic>
+      <transcript>ŠAΓLA-</transcript>
+      <definition>See siγla-.</definition>
+      <page>748</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠬᠯᠠᠬᠣ</unicode>
+      <cyrillic>ШАГЛАХ</cyrillic>
+      <definition>I объявлять шах (конём, слоном, ферзём). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>шаглах /2</cyrillic>
+      <definition>шатарцахад морь; тэрэг, бэрсээр шалах.</definition>
+      <page>830</page>
+    </entry_item>
+  </entries>
+</entry>

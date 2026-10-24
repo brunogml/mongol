@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C2240">
+  <head>
+    <unicode>ᠴᠢᠺᠢᠷᠮ ᠠ</unicode>
+    <transcript>čikirm-a</transcript>
+    <transcript2>cigirm-a</transcript2>
+    <cyrillic>цахирмаа</cyrillic>
+  </head><see_also>
+    <ref>C0611</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠢᠺᠢᠷᠮ᠎ᠠ</unicode>
+      <uighur>čikirm-a</uighur>
+      <cyrillic>цахирмаа</cyrillic>
+      <transcript>CIKIRM-A</transcript>
+      <page>182</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠺᠢᠷᠮ᠎ᠠ ᠴᠡᠴᠡᠭ</unicode>
+          <transcript>-- ceceg</transcript>
+          <definition> Orchid.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠢᠺᠢᠷᠮ᠎ᠡ ᠴᠡᠴᠡᠭ</unicode>
+      <definition>nom d'une fleur</definition>
+      <page>2181</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠴᠢᠺᠢᠷᠮ ᠠ</unicode>
+      <uighur>čikirm-a čečeg</uighur>
+      <definition>n. A fragrant species of orchid.</definition>
+      <page>1314</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠬᠢᠷᠮ᠎ᠠ</unicode>
+      <cyrillic>цахирмаа</cyrillic>
+      <definition>〔名〕〈植〉①蕙兰（花）；②兰草.</definition>
+      <page>1525</page>
+    </entry_item>
+  </entries>
+</entry>

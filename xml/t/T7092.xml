@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7092">
+  <head>
+    <unicode>ᠳᠣᠯᠺᠢᠶᠠᠯᠠᠬᠣ</unicode>
+    <transcript>dolgiyalaqu</transcript>
+    <transcript2>dolgiyalago</transcript2>
+    <cyrillic>долгиолох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T7093</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠣᠯᠭᠢᠶᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>долгиолох</cyrillic>
+      <definition>〔动〕起浪，掀起波浪，波动；浪涛汹涌.</definition>
+      <page>411</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠯᠺᠢᠶᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ДОЛГИОЛОХ</cyrillic>
+      <definition>долгилох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>долгиолох</cyrillic>
+      <definition>= долгилох</definition>
+      <page>94</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠣᠯᠭᠢᠶᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>долгиолох</cyrillic>
+      <definition>долгилох, долгио гаргах.</definition>
+      <page>197</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T7085</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1301">
+  <head>
+    <unicode> ᠳᠠᠪᠭᠢᠬᠣ</unicode>
+    <transcript>dabkiqu</transcript>
+    <transcript2>dabgigo</transcript2>
+    <cyrillic>давхих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1302</ref>
+    <ref>T1309</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠪᠬᠢᠬᠤ</unicode>
+      <cyrillic>давхих</cyrillic>
+      <definition>〔动〕奔驰，驰骋，急驶：мориор ~ 策马奔驰，骑马飞奔；машинаар ~ 乘汽车疾驶.</definition>
+      <page>369</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode> ᠳᠠᠪᠭᠢᠬᠣ</unicode>
+      <cyrillic>ДАВХИХ</cyrillic>
+      <definition>скакать; галопировать; быстро ехать, мчаться; авч давхих понести (о лошади); мориор давхих скакать, галопировать; ширүүн давхийх скакать изо всех сил; давхиж ирэх прискакать, примчаться; гэрийн хажуугаар давхин өнгөрөх проскакать мимо юрты. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>давхих</cyrillic>
+      <definition>Pferd galoppieren; rasen; машинаар ~ mit dem Auto rasen</definition>
+      <page>88</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠪᠬᠢᠬᠤ</unicode>
+      <cyrillic>давхих</cyrillic>
+      <definition>довтлон явах; мориор давхих; машинаар давхих.</definition>
+      <page>177</page>
+    </entry_item>
+  </entries>
+</entry>

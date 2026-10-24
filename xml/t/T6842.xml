@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6842">
+  <head>
+    <unicode>ᠲᠣᠯᠢᠳᠠᠬᠣ</unicode>
+    <transcript>tolidaqu</transcript>
+    <transcript2>dolidago</transcript2>
+    <cyrillic>тольдох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T6843</ref>
+    <ref>T6846</ref>
+  </derivatives>
+  <see_also>
+    <ref>T6848</ref>
+    <ref>T6842a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠯᠢᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТОЛЬДОХ</cyrillic>
+      <definition>I 1) смотреть в зеркало; 2) эел. смотреть, рассматривать; 3) отражаться (в воде и т.п.). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠯᠢᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТОЛЬДОХ</cyrillic>
+      <definition>II смотреть в словаре; мэдэхгүй үгээ тольдох смотреть незнакомые слова в словаре. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠯᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>тольдох</cyrillic>
+      <definition>1. толинд харах;2. эрхэмлэвэл зохих хүний ажааран харах; намайг тольдож хайрла.</definition>
+      <page>538</page>
+    </entry_item>
+  </entries>
+</entry>

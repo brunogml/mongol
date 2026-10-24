@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8815">
+  <head>
+    <unicode>ᠲᠥᠯᠺᠠᠳᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>tölgedegülkü</transcript>
+    <transcript2>dölgedegölgö</transcript2>
+    <cyrillic>төлгөдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T8814</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠯᠺᠠᠳᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ТӨЛГӨДҮҮЛЭХ</cyrillic>
+      <definition>төлгөдөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠥᠯᠭᠡᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>төлөгдүүлэх</cyrillic>
+      <definition>төлөгдөхийн үйлдүүлэх хэв.</definition>
+      <page>550</page>
+    </entry_item>
+  </entries>
+</entry>

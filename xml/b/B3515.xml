@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B3515">
+  <head>
+    <unicode>ᠪᠣᠯᠴᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>bulčaγanaqu</transcript>
+    <transcript2>bolcaganago</transcript2>
+    <cyrillic>булцганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B3516</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠤᠯᠴᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>булцганах</cyrillic>
+      <definition>〔动〕参见 булцалзах.</definition>
+      <page>206</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠯᠴᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>БУЛЦГАНАХ</cyrillic>
+      <definition>двигаться, катиться, перекатываться (напр. о пухленьком маленьком ребёнке).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠯᠴᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>булцганах</cyrillic>
+      <definition>булцгар юмны булцас булцас хөдлөх байдал.</definition>
+      <page>107</page>
+    </entry_item>
+  </entries>
+</entry>

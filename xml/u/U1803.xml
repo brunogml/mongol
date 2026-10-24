@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1803">
+  <head>
+    <unicode>ᠣᠯᠪᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ulbaγanaγulqu</transcript>
+    <transcript2>olbaganagolgo</transcript2>
+    <cyrillic>улбагануулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U1802</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠯᠪᠤᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>улбагануулах</cyrillic>
+      <definition>〔动〕улбаганахй 使动态.</definition>
+      <page>1184</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠯᠪᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>УЛБАГАНУУЛАХ</cyrillic>
+      <definition>улбаганах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠯᠪᠤᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>улбагануулах</cyrillic>
+      <definition>улбаганахын үйлдүүлэх хэв.</definition>
+      <page>590</page>
+    </entry_item>
+  </entries>
+</entry>

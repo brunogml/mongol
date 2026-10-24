@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K2888">
+  <head>
+    <unicode>ᠭᠦᠢᠴᠡᠳᠭᠡᠰᠢ</unicode>
+    <transcript>güičetgesi</transcript>
+    <transcript2>göicedgesi</transcript2>
+    <cyrillic>гүйцэтгэш</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠦᠢᠴᠡᠳᠺᠡᠰᠢ</unicode>
+      <uighur>güičedkesi</uighur>
+      <cyrillic>гүйцэтгэш</cyrillic>
+      <transcript>GYICEDKESI</transcript>
+      <page>389</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠦᠢᠴᠡᠳᠺᠡᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei,</transcript>
+          <definition>Unfeasible, unrealizable</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ГҮЙЦЭТГЭШГҮЙ</cyrillic>
+      <definition>неосуществимый, невыполнимый.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

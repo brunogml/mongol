@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A2662">
+  <head>
+    <unicode>ᠠᠯᠮᠠᠶᠢᠲᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>almayituγulqu</transcript>
+    <transcript2>almayidogolgo</transcript2>
+    <cyrillic>алмайтуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>A2661</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠯᠮᠠᠢᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>алмайтуулах</cyrillic>
+      <definition>〔动〕алмайтах 的使动态；诱惑.</definition>
+      <page>43</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠯᠮᠠᠶᠢᠲᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>АЛМАЙТУУЛАХ</cyrillic>
+      <definition>алмайтах–ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠯᠮᠠᠢᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>алмайтуулах</cyrillic>
+      <definition>алмайтахын үйлдүүлэх хэв.</definition>
+      <page>33</page>
+    </entry_item>
+  </entries>
+</entry>

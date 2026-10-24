@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1558">
+  <head>
+    <unicode>ᠲᠠᠲᠠᠪᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tatabalǰaγulqu</transcript>
+    <transcript2>dadabalcagolgo</transcript2>
+    <cyrillic>татвалзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T1557</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠲᠠᠪᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>татвалзуулах</cyrillic>
+      <definition>〔动〕татвалзах 的使动态.</definition>
+      <page>1038</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠲᠠᠪᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАТВАЛЗУУЛАХ</cyrillic>
+      <definition>татвалзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>татвалзуулах</cyrillic>
+      <definition>Kaus von татвалзах</definition>
+      <page>222</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠲᠠᠪᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>татвалзуулах</cyrillic>
+      <definition>татвалзахын үйлдүүлэх хэв.</definition>
+      <page>526</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0111">
+  <head>
+    <unicode>ᠪᠠᠭᠠᠨᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>baγanadaγulqu</transcript>
+    <transcript2>baganadagolgo</transcript2>
+    <cyrillic>баганадуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B0110</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠭᠠᠨᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>баганадуулах</cyrillic>
+      <definition>〔动〕баганадах 的使动态.</definition>
+      <page>106</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠭᠠᠨᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БАГАНАДУУЛАХ</cyrillic>
+      <definition>баганадах-ын үйл¬дүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠭᠠᠨᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>баганадуулах</cyrillic>
+      <definition>баганадахын үйлдүүлэх хэв; баганадагдах.</definition>
+      <page>64</page>
+    </entry_item>
+  </entries>
+</entry>

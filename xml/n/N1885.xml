@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1885">
+  <head>
+    <unicode>ᠨᠢᠷᠣᠭᠣᠴᠠᠬᠣ</unicode>
+    <transcript>niruγučaqu</transcript>
+    <transcript2>nirogocago</transcript2>
+    <cyrillic>нурууцах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>N1886</ref>
+    <ref>N1887</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠢᠷᠤᠭᠤᠴᠠᠬᠤ</unicode>
+      <cyrillic>нурууцах</cyrillic>
+      <definition>〔动〕大体做完，完成大部分，基本完成.</definition>
+      <page>761</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠢᠷᠣᠭᠣᠴᠠᠬᠣ</unicode>
+      <cyrillic>НУРУУЦАХ</cyrillic>
+      <definition>нуруувчлах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠤᠷᠤᠭᠤᠴᠠᠬᠤ</unicode>
+      <cyrillic>нурууцах</cyrillic>
+      <definition>ихэнхийг хийж дуусах, ихэвчлэн гүйцэтгэх; ажлаа нурууцаж байна.</definition>
+      <page>389</page>
+    </entry_item>
+  </entries>
+</entry>

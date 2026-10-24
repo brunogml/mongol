@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A0232">
+  <head>
+    <unicode>ᠠᠨᠳᠢᠰᠣ</unicode>
+    <transcript>andisu</transcript>
+    <transcript2>andiso</transcript2>
+    <cyrillic>андис</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠨᠳᠢᠤᠰ</unicode>
+      <cyrillic>андис(ан)</cyrillic>
+      <definition>〔名〕参见 анжис.</definition>
+      <page>63</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠨᠳᠢᠰᠣ</unicode>
+      <cyrillic>АНДИС</cyrillic>
+      <definition>анжис–ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>андис[ан]</cyrillic>
+      <definition>= анжис[ан]</definition>
+      <page>32</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠨᠳᠢᠰᠤ</unicode>
+      <cyrillic>андис</cyrillic>
+      <definition>анжис.</definition>
+      <page>45</page>
+    </entry_item>
+  </entries>
+</entry>

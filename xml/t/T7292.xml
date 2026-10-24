@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7292">
+  <head>
+    <unicode>ᠳᠣᠮᠳᠠᠷᠠᠬᠣ</unicode>
+    <transcript>dumdaraqu</transcript>
+    <transcript2>domdarago</transcript2>
+    <cyrillic>дундрах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T7293</ref>
+    <ref>T7295</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠤᠨᠳᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>дундрах</cyrillic>
+      <definition>〔动〕（满容器的液体经蒸发后）变成一半.</definition>
+      <page>439</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠮᠳᠠᠷᠠᠬᠣ</unicode>
+      <cyrillic>ДУНДРАХ</cyrillic>
+      <definition>уменьшаться, убавляться, сокращаться, убывать до половины, наполовину. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дундрах</cyrillic>
+      <definition>halbvoll werden od sein; auf die Hälfte reduziert werden</definition>
+      <page>99</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠤᠮᠳᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>дундрах</cyrillic>
+      <definition>дүүрэн байсан юм дунд болох; аягатайус ширгээд дундарчээ.</definition>
+      <page>210</page>
+    </entry_item>
+  </entries>
+</entry>

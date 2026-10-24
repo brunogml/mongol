@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2500">
+  <head>
+    <unicode>ᠣᠶᠣᠬᠣ</unicode>
+    <transcript>oyuqu</transcript>
+    <transcript2>oyogo</transcript2>
+    <cyrillic>оёх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U2501</ref>
+    <ref>U2504</ref>
+    <ref>U2520</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠶᠣᠬᠣ</unicode>
+      <uighur>oyuqu</uighur>
+      <cyrillic>оёх</cyrillic>
+      <transcript>OJU-</transcript>
+      <definition>v. t. To sew.</definition>
+      <page>606</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠡᠪᠡᠯ ᠣᠶᠣᠬᠣ</unicode>
+          <transcript>debel -- </transcript>
+          <definition>To sew a garment</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠡᠶᠢᠯᠡᠭᠦᠯᠵᠦ ᠣᠶᠣᠬᠣ</unicode>
+          <transcript>neilegylzy --xu</transcript>
+          <definition> To sew something together.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠶᠤᠬᠤ</unicode>
+      <definition>coudre</definition>
+      <page>423</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠲᠠᠰᠤᠨ ᠢᠶᠠᠷ ᠣᠶᠣᠬᠤ</unicode>
+          <definition>coudre avec du fil</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠣᠶᠣᠬᠣ</unicode>
+      <uighur>uyuqu</uighur>
+      <definition>nähen.</definition>
+      <page>61</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠣᠶᠣᠬᠣ</unicode>
+      <uighur>uyuqu</uighur>
+      <definition>(o)v.t. To sew, to stitch, to do needle-work.</definition>
+      <page>239</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠶᠣᠬᠤ</unicode>
+      <cyrillic>оёх</cyrillic>
+      <definition>〔动〕缝，缝纫：хувцас ~ 缝衣服；машинаар ~ 用机器缝.</definition>
+      <page>793</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠶᠣᠬᠣ</unicode>
+      <cyrillic>ОЁХ</cyrillic>
+      <definition>шить, прошивать; гутал оёх шить сапоги; шить унты; зах нэвтгэлзэж оёх прошить воротник; машинаар оёх шить на машине; үйл оёх портняжить; ширж оёх строчить; оёх хатгах хорш. вышивать; оёх эсгэх хорш. а) кройка и шитьё; б) шить и кроить; оёно гэхээр бүр хүүршчихсэн, зүү хатгахаар л пүр гэж цөмөрчихөөд байх юм шить-то нельзя: гнилое, тронешь иглой – рассыпается. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠶᠣᠬᠤ</unicode>
+      <cyrillic>оёх</cyrillic>
+      <definition>эд бөс, арьс зэргийг зүүгээр сүлбэн утас оруулж бэхлэх; хувцас оёх; машинаар оёх.</definition>
+      <page>409</page>
+    </entry_item>
+  </entries>
+</entry>

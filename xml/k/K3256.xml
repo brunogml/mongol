@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K3256">
+  <head>
+    <unicode>ᠺᠦᠩᠭᠢᠨᠡᠺᠦ</unicode>
+    <transcript>küngginekü</transcript>
+    <transcript2>göngginegö</transcript2>
+    <cyrillic>хүнгэнэх</cyrillic>
+  </head>
+  <see_also>
+    <ref>K3269</ref>
+  </see_also>
+  <derivatives>
+    <ref>K3257</ref>
+    <ref>K3255</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠦᠩᠭᠢᠨᠡᠺᠦ</unicode>
+      <uighur>küngkinekü</uighur>
+      <cyrillic>хүнгэнэх</cyrillic>
+      <transcript>KYNGGINE-</transcript>
+      <definition>[= kynggene-] v.i. To make a hollow sound.</definition>
+      <page>503</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠥᠩᠺᠢᠨᠡᠨ ᠴᠢᠩᠭᠢᠨᠡᠺᠦ</unicode>
+          <transcript>--zy cinggineky</transcript>
+          <definition>To sound tambourines or timpani.</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠥᠩᠺᠢᠨᠡᠵᠦ ᠰᠤᠤᠭᠢᠬᠤ</unicode>
+          <transcript>--zy suugixu</transcript>
+          <definition>To drone, hum (of engines).</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠦᠭᠦᠳᠦᠨ ᠺᠥᠩᠺᠢᠨᠡᠭᠰᠡᠨ ᠳᠠᠭᠤ ᠪᠡᠷ</unicode>
+          <transcript>bydygyn --gsen daγu ber</transcript>
+          <definition>In a deep bass.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠦᠩᠭᠢᠨᠡᠺᠦ</unicode>
+      <definition>marmoter entre les dents,</definition>
+      <page>2573</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠦᠩᠭᠢᠨᠡᠵᠦ ᠴᠢᠨᠴᠴᠢᠨᠡᠵᠦ</unicode>
+          <definition>le bruit des tambours, des timpans</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠦᠩᠭᠢᠨᠡᠺᠦ</unicode>
+      <cyrillic>ХҮНГЭНЭХ</cyrillic>
+      <definition>1) грохотать, греметь, гудеть, издавать глухие звуки, гул; стучать; звучать (о пустой бочке); хүнгэнэн жингэнэн / хүнгэнэж жингэнэж хорш. со стуком, звоном (об ударах в бубны, гонги); хүнгэнэж жингэнэж аж төрөх жить шумно, весело; 2) шилж. говорить басом; бүдүүн хүнгэнэсэн дуу глубокий густой бас.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠦᠩᠭᠢᠨᠡᠬᠦ</unicode>
+      <cyrillic>хүнгэнэх</cyrillic>
+      <definition>нүргээн ихтэй, хүн хүн гэсэн тамээ сонсдох; газар хүнгэнэж байна; салхи хүнгэнэтэл салхилав; нэг өвгөн хүнгэнэтэл ярьж гарав; хэнгэрэг хүнгэнэн дуугарч байв.</definition>
+      <page>745</page>
+    </entry_item>
+  </entries>
+</entry>

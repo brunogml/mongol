@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T4242">
+  <head>
+    <unicode>ᠲᠠᠺᠠ</unicode>
+    <transcript>tege</transcript>
+    <transcript2>dege</transcript2>
+  </head>
+  <see_also>
+    <ref>T4241</ref>
+    <ref>T4243</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠺᠠ</unicode>
+      <uighur>teke</uighur>
+      <transcript>TEGE</transcript>
+      <definition>n. and postpos. Side, direction.</definition>
+      <page>792</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠠᠷᠠᠭᠤᠨ ᠲᠠᠺᠠ</unicode>
+          <transcript>baraγun -- </transcript>
+          <definition> [To] the right; [in] the west.</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠡᠭᠦᠨ ᠲᠠᠺᠠ</unicode>
+          <transcript>zegyn -- </transcript>
+          <definition> [To] the left; [in] the east.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠡᠺᠡ</unicode>
+      <definition>côté; direction.</definition>
+      <page>1735</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠺᠠ</unicode>
+      <uighur>deke</uighur>
+      <definition>die Seite, Richtung</definition>
+      <page>240</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠺᠠ</unicode>
+      <uighur>teke</uighur>
+      <definition>(tege) Direction. Towards.</definition>
+      <page>947</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠭᠡ</unicode>
+      <cyrillic>тэг /3</cyrillic>
+      <definition>зөвшөөрөх аялага: би кино үзэх үү, ээж ээ? тэг ээ, тэг, хүү минь.</definition>
+      <page>572</page>
+    </entry_item>
+  </entries>
+</entry>

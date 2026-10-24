@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3873">
+  <head>
+    <unicode>ᠲᠠᠯᠠᠺᠠᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>telegelegülkü</transcript>
+    <transcript2>delegelegölgö</transcript2>
+    <cyrillic>тэлээлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T3872</ref>
+  </related_to>
+  <see_also>
+    <ref>T3897</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠯᠠᠺᠠᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ТЭЛЭЭЛҮҮЛЭХ</cyrillic>
+      <definition>II тэлээлэх II-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠯᠡᠭᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>тэлээлүүлэх</cyrillic>
+      <definition>тэлээлэхийн үйлдүүлэх хэв.</definition>
+      <page>574</page>
+    </entry_item>
+  </entries>
+</entry>

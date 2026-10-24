@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1800">
+  <head>
+    <unicode>ᠵᠠᠷᠣᠬᠳᠠᠬᠣ</unicode>
+    <transcript>ǰaruγdaqu</transcript>
+    <transcript2>yarogdago</transcript2>
+    <cyrillic>зарагдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y1798</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠠᠷᠣᠬᠳᠠᠬᠣ</unicode>
+      <uighur>ǰaroqdaqu</uighur>
+      <cyrillic>зарагдах</cyrillic>
+      <transcript>ZARUΓDA-</transcript>
+      <definition>[v. pass. of zaru-] Tobe employed, sent; to serve, wait on.</definition>
+      <page>1039</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠠᠷᠤᠬᠳᠠᠬᠤ</unicode>
+      <definition>être employé, envoyé; servir</definition>
+      <page>2304</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠤᠰᠤᠳ ᠎ᠲᠠ ᠵᠠᠷᠤᠬᠳᠠᠬᠤ</unicode>
+          <definition>servir les autres</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠠᠷᠤᠬᠳᠠᠬᠤ ᠲᠦᠰᠢᠮᠡᠯ</unicode>
+          <definition>un employé pour les affaires particulières</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠠᠷᠤᠬᠳᠠᠭᠴᠢ ᠲᠦᠰᠢᠮᠡᠯ</unicode>
+          <definition>un huissier</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠵᠠᠷᠣᠬᠳᠠᠬᠣ</unicode>
+      <uighur>ǰaruqdaqu</uighur>
+      <definition>dienen, zum Dienst gebraucht werden. verschickt werden.</definition>
+      <page>297</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠵᠠᠷᠣᠬᠳᠠᠬᠣ</unicode>
+      <uighur>ǰaruqdaqu</uighur>
+      <definition>v.p. To be used. To be spent. To be served.</definition>
+      <page>1195</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠷᠣᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЗАРАГДАХ</cyrillic>
+      <definition>I зарах I-ын үйлдэгд., 1) использоваться для услуг; быть батраком; быть слугой; находиться на службе; баян айлд зарагдаж байв был слугой, батраком у богача; гар хөлийн үзүүрт зарагдах быть на побегушках; 2) быть посылаемым кем-л.; томилогдон зарагдах быть командируемым.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠷᠣᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЗАРАГДАХ</cyrillic>
+      <definition>II зарах II-ын үйлдэгд., 1. 1) быть расходуемым, расходоваться; мөнгө их зарагдаж байна расходуется много денег; 2) быть продаваемым, реализуемым; продаваться; 2. покупаемый, ходовой; зарагдах бараа ходовой товар.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠷᠣᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЗАРАГДАХГҮЙ</cyrillic>
+      <definition>непокупаемый, неходовой; зарагдахгүй бараа непокупаемый товар; товар, который плохо реализуется, покупается; неходовой товар.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зарагдах</cyrillic>
+      <definition>1. Pass von зарах
+2. alt als Knecht od Magd dienen (jmdm. -д)</definition>
+      <page>118</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠷᠤᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>зарагдах /1</cyrillic>
+      <definition>зарцлагдах; айлд зарагдах; бусдад зарагдаж амьдардаг байв.</definition>
+      <page>267</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠷᠤᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>зарагдах /2</cyrillic>
+      <definition>зарахын үйлдэгдэх хэв, худалдагдах; дэлгүүрт зарагдахгүй бараа их байна; зах дээр зарагдаж байгаа зүйлийн гол нь хонь байв.</definition>
+      <page>267</page>
+    </entry_item>
+  </entries>
+</entry>

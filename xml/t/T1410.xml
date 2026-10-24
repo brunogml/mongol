@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1410">
+  <head>
+    <unicode>ᠳᠠᠰᠢᠷᠠᠮᠳᠠᠭᠣ</unicode>
+    <transcript>dasiramdaγu</transcript>
+    <transcript2>dasiramdago</transcript2>
+    <cyrillic>дашрамдуу</cyrillic>
+  </head>
+  <see_also>
+    <ref>T1409</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠰᠢᠷᠠᠮᠳᠠᠭᠤ</unicode>
+      <cyrillic>дашрамдуу</cyrillic>
+      <definition>〔形〕好乘机的，好投机的，好顺便干事的，好找时机的.</definition>
+      <page>402</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠰᠢᠷᠠᠮᠳᠠᠭᠣ</unicode>
+      <cyrillic>ДАШРАМДУУ</cyrillic>
+      <definition>пользующийся случаем; далимдуу-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠰᠢᠷᠠᠮᠳᠠᠭᠤ</unicode>
+      <cyrillic>дашрамдуу</cyrillic>
+      <definition>дашрамдах, далимдах зантай.</definition>
+      <page>193</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T1409</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y0508">
+  <head>
+    <unicode>ᠶᠠᠭᠠᠷᠠᠮ</unicode>
+    <transcript>yaγaram</transcript>
+    <transcript2>yagaram</transcript2>
+    <cyrillic>яарам</cyrillic>
+  </head>
+  <see_also>
+    <ref>Y0508a</ref>
+  </see_also>
+  <derivatives>
+    <ref>Y5564</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠶᠠᠭᠠᠷᠠᠮ</unicode>
+      <uighur>yaγaram</uighur>
+      <cyrillic>яарам</cyrillic>
+      <transcript>JAΓARAM</transcript>
+      <page>424</page>
+      <examples>
+        <example>
+          <unicode>ᠶᠠᠭᠠᠷᠠᠮ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> There is no hurry.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

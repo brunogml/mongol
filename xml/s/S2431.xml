@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2431">
+  <head>
+    <unicode>ᠰᠠᠺᠠᠲᠠᠯᠵᠠᠺᠥ</unicode>
+    <transcript>segetelǰekü</transcript>
+    <transcript2>segedelcegö</transcript2>
+    <cyrillic>сээтэлзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S2432</ref>
+    <ref>S2430</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠭᠡᠲᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>сээтэлзэх</cyrillic>
+      <definition>〔动〕参见 сээтэгнэх.</definition>
+      <page>999</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠺᠠᠲᠠᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>СЭЭТЭЛЗЭХ</cyrillic>
+      <definition>сээтэгнэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠭᠡᠲᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>сээтэлзэх</cyrillic>
+      <definition>сээтгэр юмны байн байн хөдлөх.</definition>
+      <page>508</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B1422">
+  <head>
+    <unicode>ᠪᠠᠷᠢᠰᠢ</unicode>
+    <transcript>barisi</transcript>
+    <transcript2>barisi</transcript2>
+    <cyrillic>барьш</cyrillic>
+  </head><derivatives>
+    <ref>B1410</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠠᠷᠢᠰᠢ</unicode>
+      <uighur>barisi</uighur>
+      <cyrillic>барьш</cyrillic>
+      <transcript>BARISI</transcript>
+      <page>88</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠠᠷᠢᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Which cannot be caught; intangible, elusive.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠷᠢᠰᠢ</unicode>
+      <cyrillic>БАРЬШГҮЙ</cyrillic>
+      <definition>неудержимый; барьшгүй инээд неудержимый смех.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

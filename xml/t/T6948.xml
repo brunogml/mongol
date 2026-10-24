@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6948">
+  <head>
+    <unicode>ᠲᠣᠯᠣᠮᠯᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>tulumlaγdaqu</transcript>
+    <transcript2>dolomlagdago</transcript2>
+    <cyrillic>туламлагдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T6946</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠯᠤᠮᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>туламлагдах</cyrillic>
+      <definition>〔动〕туламлах 的被动态.</definition>
+      <page>1110</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠯᠣᠮᠯᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТУЛАМЛАГДАХ</cyrillic>
+      <definition>туламлах-ын үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠯᠤᠮᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>туламлагдах</cyrillic>
+      <definition>туламлахын үйлдэгдэх хэв.</definition>
+      <page>555</page>
+    </entry_item>
+  </entries>
+</entry>

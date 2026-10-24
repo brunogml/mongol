@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3798">
+  <head>
+    <unicode>ᠶᠣᠨᠳᠣᠭᠣᠨᠠᠬᠣ</unicode>
+    <transcript>yonduγunaqu</transcript>
+    <transcript2>yondogonago</transcript2>
+    <cyrillic>ёндгонох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y3800</ref>
+    <ref>Y3802</ref>
+  </derivatives>
+  <see_also>
+    <ref>Y3797</ref>
+    <ref>Y3798a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠣᠨᠳᠣᠭᠣᠨᠠᠬᠤ</unicode>
+      <cyrillic>ёндгонох</cyrillic>
+      <definition>〔动〕（凸起物）频频动弹.</definition>
+      <page>491</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠣᠨᠳᠣᠭᠣᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЁНДГОНОХ</cyrillic>
+      <definition>двигаться (об угловатых предметах); быть долговязым, маячить. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠣᠨᠳᠣᠭᠣᠨᠠᠬᠤ</unicode>
+      <cyrillic>ёндгонох</cyrillic>
+      <definition>ёндгор юмны үргэлжлэн хөдлөх.</definition>
+      <page>236</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1384">
+  <head>
+    <unicode>ᠪᠠᠷᠢ</unicode>
+    <transcript>bari</transcript>
+    <transcript2>bari</transcript2>
+    <cyrillic>барь</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B1403</ref>
+  </derivatives>
+  <variants>
+    <variant type="cyrillic">бари</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠠᠷᠢ</unicode>
+      <definition>prends ! tiens ! 2 sanskr, pari, tout autour, alentour , très. tout à fait, entièrement. absolument.</definition>
+      <page>1099</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠠᠷᠢ ᠨᠢᠷᠸᠠᠨ ᠪᠣᠯᠤᠭᠰᠠᠨ</unicode>
+          <definition>entré dans le nirvâna (l'anéantissement complet), affranchi absolument des liens de la matière</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠷᠢ</unicode>
+      <cyrillic>БАРЬ</cyrillic>
+      <definition>вполне, совсем, совершенно.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠷᠢ</unicode>
+      <cyrillic>бари</cyrillic>
+      <definition>〔名〕〈化〉钡：~йн гейландит 钡片沸石；~йн гялтгануур 钡黑云母；~йн жиломелан 钡硬锰石；~йн санидин 钡透长石；~йн сульфат 〈化〉硫酸钡；~йн уранит 钡铀云母；~йн хүрэн гялтгануур 钡金云母；~йн дагаан гялтгануур 钡白云母；~йн жонш 钡长石.</definition>
+      <page>133</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠷᠢ</unicode>
+      <cyrillic>бари</cyrillic>
+      <definition>цагаан өнгөтэй зөөлөн төмөрлөг.</definition>
+      <page>76</page>
+    </entry_item>
+  </entries>
+</entry>

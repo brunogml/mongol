@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q3038">
+  <head>
+    <unicode>ᠬᠠᠶᠢᠯᠣᠮᠠᠬᠰᠢᠬᠣ</unicode>
+    <transcript>qayilumaγsiqu</transcript>
+    <transcript2>gayilomagsigo</transcript2>
+    <cyrillic>хайлмагших</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠶᠢᠯᠣᠮᠠᠬᠰᠢᠬᠣ</unicode>
+      <cyrillic>ХАЙЛМАГШИХ</cyrillic>
+      <definition>сделаться расплавленным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠢᠯᠮᠠᠭᠰᠢᠬᠤ</unicode>
+      <cyrillic>хайлмагших</cyrillic>
+      <definition>хайлмаг шинжтэй болох.</definition>
+      <page>644</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q3037</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9524">
+  <head>
+    <unicode>ᠲᠥᠷᠴᠢᠺᠢᠨᠠᠺᠥ</unicode>
+    <transcript>türčiginekü</transcript>
+    <transcript2>dörciginegö</transcript2>
+    <cyrillic>түрчигнэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T9522</ref>
+  </derivatives>
+  <see_also>
+    <ref>T9523</ref>
+    <ref>T9524a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠥᠷᠴᠢᠺᠢᠨᠠᠺᠥ</unicode>
+      <uighur>türčikinekü</uighur>
+      <cyrillic>түрчигнэх</cyrillic>
+      <transcript>TYRCIGINE-</transcript>
+      <definition>Onomat. verb expressing a rattling noise; to rustle; to thunder, rumble; to crackle, clatter</definition>
+      <page>854</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠥᠷᠴᠢᠺᠢᠨᠠᠨ ᠪᠣᠰᠬᠤ</unicode>
+          <transcript>--n bosxu</transcript>
+          <definition> To rise suddenly with a noise (said of many people rising at the same time)</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠠᠰᠢᠨ᠎ᠠ ᠎ᠶᠢᠨ ᠮᠣᠲᠣᠷ ᠲᠥᠷᠴᠢᠺᠢᠨᠠᠺᠥ</unicode>
+          <transcript>masin-a jin motor --ky</transcript>
+          <definition> The motor (of an automobile or machine) roars.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠦᠷᠴᠢᠭᠢᠨᠡᠬᠦ</unicode>
+      <cyrillic>түрчигнэх</cyrillic>
+      <definition>〔动〕轰隆隆响，轰鸣，发出辚辚响声：тэрэг ~н сонсдов 听到大车辚辚的响声.</definition>
+      <page>1139</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠷᠴᠢᠺᠢᠨᠠᠺᠥ</unicode>
+      <cyrillic>ТҮРЧИГНЭХ</cyrillic>
+      <definition>издавать стук, стучать, шуметь, барабанить, греметь (напр. о телеге – по мостовой). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠦᠷᠴᠢᠭᠢᠨᠡᠬᠦ</unicode>
+      <cyrillic>түрчигнэх</cyrillic>
+      <definition>түр тар хийх чимээ гарах; тэрэг түрчигнэх сонсдов.</definition>
+      <page>569</page>
+    </entry_item>
+  </entries>
+</entry>

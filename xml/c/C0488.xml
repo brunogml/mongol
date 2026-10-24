@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0488">
+  <head>
+    <unicode>ᠴᠠᠯᠴᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čalčiraγulqu</transcript>
+    <transcript2>calciragolgo</transcript2>
+    <cyrillic>чалчруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C0487</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠯᠴᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>чалчруулах</cyrillic>
+      <definition>〔动〕чалчрах 的使动态.</definition>
+      <page>1576</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠯᠴᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЧАЛЧРУУЛАХ</cyrillic>
+      <definition>чалчрах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чалчруулах</cyrillic>
+      <definition>Kaus von чалчрах</definition>
+      <page>368</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠯᠴᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>чалчруулах</cyrillic>
+      <definition>чалчрахын үйлдүүлэх хэв.</definition>
+      <page>812</page>
+    </entry_item>
+  </entries>
+</entry>

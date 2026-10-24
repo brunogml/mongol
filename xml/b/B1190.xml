@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1190">
+  <head>
+    <unicode>ᠪᠠᠶᠢᠪᠠᠩ</unicode>
+    <transcript>bayibang</transcript>
+    <transcript2>bayibang</transcript2>
+    <cyrillic>байван</cyrillic>
+  </head>
+  <variants>
+    <variant type="cyrillic">байванг</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠠᠶᠢᠪᠠᠩ</unicode>
+      <uighur>bayibang</uighur>
+      <cyrillic>байван</cyrillic>
+      <transcript>BAIBANG</transcript>
+      <definition>[Ch. Pai-fan] n. Alum, vitriol.</definition>
+      <page>73</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠠᠭᠠᠨ ᠪᠠᠶᠢᠪᠠᠩ</unicode>
+          <transcript>caγan --</transcript>
+          <definition> White vitriol.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠷ᠎ᠠ ᠪᠠᠶᠢᠪᠠᠩ</unicode>
+          <transcript>xar-a --</transcript>
+          <definition> Dark vitriol; dark alum used as a mordant in dyeing.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠠᠶᠢᠪᠠᠩ</unicode>
+      <definition>alun de roche, alun romain.</definition>
+      <page>1046</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠪᠠᠶᠢᠪᠠᠩ</unicode>
+      <uighur>bayibag</uighur>
+      <definition>der Allaun; der Vitriol</definition>
+      <page>96</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠪᠠᠶᠢᠪᠠᠩ</unicode>
+      <uighur>bayibang</uighur>
+      <definition>n. Alum, vitriol.</definition>
+      <page>380</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠶᠢᠪᠠᠩ</unicode>
+      <cyrillic>БАЙВАН(Г)</cyrillic>
+      <definition>хувил. купорос, квасцы; албины байван купорос кобальтовый; зэсийн байван медный купорос; төмрийн байван железный купорос; серножелезная соль; хар байван купорос свинцовый; цагаан байван цинковый купорос.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠶᠢᠪᠠᠩ</unicode>
+      <cyrillic>БАЙВАНГИЙН</cyrillic>
+      <definition>байван(г)-ийн харьяал., купоросный; байвангийн зос купоросная охра; байвангийн харандаа карандаш квасцовый.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠢᠪᠠᠩ</unicode>
+      <cyrillic>байван(г)</cyrillic>
+      <definition>〔名〕白矾，明矾，〈化〉硫酸盐：цагаан ~ 〈化〉硫酸锌，白矶；~гийн зос 纤维水缘巩；~ нанги 矶土；~ шулуутгуур 氧化铜整流器.</definition>
+      <page>113</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>байван[г]</cyrillic>
+      <definition>Chem Vitriol n; зэсийн ~ Kupfervitriol n; цагаан ~ Zinkvitriol n</definition>
+      <page>42</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠢᠹᠠᠩ</unicode>
+      <cyrillic>байван</cyrillic>
+      <definition>хүхэр хүчлийн давсан талст; хар байван, цагаан байван.</definition>
+      <page>67</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>B1191</ref>
+  </derivatives>
+</entry>

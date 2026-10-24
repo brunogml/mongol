@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S3910">
+  <head>
+    <unicode>ᠰᠢᠯᠥ</unicode>
+    <transcript>silü</transcript>
+    <transcript2>silö</transcript2>
+    <cyrillic>шөл</cyrillic>
+  </head><see_also>
+    <ref>S3832</ref>
+  
+    <ref>S6631</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠯᠦ ~ ᠰᠢᠯᠦᠨ</unicode>
+      <uighur>silü - silün</uighur>
+      <cyrillic>шөл</cyrillic>
+      <transcript>SILY(N)</transcript>
+      <definition>n. Soup, bouillon, broth.</definition>
+      <page>708</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠯᠦ ᠴᠢᠨᠠᠬᠤ = ᠰᠢᠯᠦ ᠺᠢᠺᠦ</unicode>
+          <transcript>-- cinaxu / kiky</transcript>
+          <definition> To make a soup or broth.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠢᠯᠦᠨ ᠲᠣᠰᠤ</unicode>
+          <transcript>--n tosu</transcript>
+          <definition> Tallow extracted by boiling animal fat and bones.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠯᠣᠨ ~ ᠰᠢᠯᠤ</unicode>
+      <definition>soupe. bouillon: 2 salive, flegme. humeur</definition>
+      <page>1495</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠯᠣᠨ ᠡᠮ</unicode>
+          <definition>une décoction</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠢᠯᠣᠨ ᠴᠢᠨᠠᠬᠤ</unicode>
+          <definition>faire la soupe</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠤᠭᠤᠷᠭ᠎ᠠ ᠎ᠶᠢᠨ ᠰᠢᠯᠣᠨ</unicode>
+          <definition>soupe de riz</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠰᠢᠯᠥ</unicode>
+      <uighur>silü</uighur>
+      <definition>die Fleischbrühe, Suppe; der Speichel.</definition>
+      <page>359</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1677">
+  <head>
+    <unicode>ᠪᠠᠪᠠᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>bebegenekü</transcript>
+    <transcript2>bebegenegö</transcript2>
+    <cyrillic>бэвгэнэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B1678</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠡᠪᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>бэвгэнэх</cyrillic>
+      <definition>〔动〕①发蔫，委靡；②畏首畏尾，畏葸不前.</definition>
+      <page>240</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠪᠠᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>БЭВГЭНЭХ</cyrillic>
+      <definition>бэвэлзэх-ийг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠡᠪᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>бэвгэнэх</cyrillic>
+      <definition>бэвгэр юмны бэвэг бэвэг хөдлөх.</definition>
+      <page>120</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T7959">
+  <head>
+    <unicode>ᠲᠣᠷᠯᠠᠬ</unicode>
+    <transcript>torlaγ</transcript>
+    <transcript2>dorlag</transcript2>
+    <cyrillic>торлог</cyrillic>
+  </head><see_also>
+    <ref>T5222</ref>
+  
+    <ref>T7964</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠷᠯᠠᠬ</unicode>
+      <uighur>turlaq</uighur>
+      <transcript>TURLAΓ</transcript>
+      <page>843</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠣᠷᠯᠠᠬ ᠰᠢᠪᠠᠭᠤ</unicode>
+          <transcript>-- [sibaγu] </transcript>
+          <definition>n Rook (Corvus corone).</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠷᠯᠠᠬ ᠰᠢᠪᠠᠭᠤᠨ</unicode>
+      <definition>corbine , corneille noire (corvus corone],</definition>
+      <page>1896</page>
+    </entry_item>
+  </entries>
+</entry>

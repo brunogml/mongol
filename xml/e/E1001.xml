@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="E1001">
+  <head>
+    <unicode>ᠡᠯᠴᠢᠯ</unicode>
+    <transcript>elčil</transcript>
+    <transcript2>elcil</transcript2>
+    <cyrillic>элчил</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠯᠴᠢᠯ</unicode>
+      <uighur>elčil</uighur>
+      <cyrillic>элчил</cyrillic>
+      <transcript>ELCIL</transcript>
+      <page>307</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠯᠴᠢᠯ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Desolate, uninhabited.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠯᠴᠢᠯ ᠦᠭᠡᠢ ᠠᠭᠯᠠᠭ ᠠᠭᠤᠯᠠ</unicode>
+          <transcript>-- ygei aγlaγ aγula</transcript>
+          <definition> Isolated and uninhabited mountain.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠯᠴᠢᠯ ᠦᠭᠡᠢ ᠭᠠᠵᠠᠷ</unicode>
+          <transcript>-- ygei γazar</transcript>
+          <definition> Uninhabited place; desert; barren land</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠯᠴᠢᠯ ᠦᠭᠡᠢ ᠮᠠᠩᠬ᠎ᠠ</unicode>
+          <transcript>-- ygei mangx-a</transcript>
+          <definition> Desert covered with dunes.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠯᠴᠢᠯ ᠦᠭᠡᠢ</unicode>
+      <definition>Désert, endroit inhabité</definition>
+      <page>211</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠯᠴᠢᠯ ᠦᠭᠡᠢ ᠠᠬᠯᠠᠬ ᠠᠭᠤᠯᠠ</unicode>
+          <definition>montagne isolée et inhabitée.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠯᠴᠢᠯ ᠦᠭᠡᠢ ᠭᠠᠵᠠᠷ</unicode>
+          <definition>endroit ínhabité, désert.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠡᠯᠴᠢᠯ</unicode>
+      <uighur>elčil ügei γaǰar</uighur>
+      <definition>A deserted place or district</definition>
+      <page>113</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠯᠴᠢᠯ</unicode>
+      <cyrillic>элчил</cyrillic>
+      <definition>〔名〕荒漠.</definition>
+      <page>1692</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠯᠴᠢᠯ</unicode>
+      <cyrillic>ЭЛЧИЛГҮЙ</cyrillic>
+      <definition>пустынный, безлюдный; элчилгүй газар безлюдное место. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1221">
+  <head>
+    <unicode>ᠰᠠᠯᠺᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>salkidaγulqu</transcript>
+    <transcript2>salgidagolgo</transcript2>
+    <cyrillic>салхидуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S1220</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠯᠬᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>салхидуулах</cyrillic>
+      <definition>〔动〕салхидах 的使动态.</definition>
+      <page>905</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠯᠺᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>САЛХИДУУЛАХ</cyrillic>
+      <definition>салхидах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠯᠬᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>салхидуулах</cyrillic>
+      <definition>салхидахын үйлдүүлэх хэв.</definition>
+      <page>464</page>
+    </entry_item>
+  </entries>
+</entry>

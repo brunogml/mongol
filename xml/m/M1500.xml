@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="M1500">
+  <head>
+    <unicode>ᠮᠣᠣᠪᠢᠨ</unicode>
+    <transcript>moubin</transcript>
+    <transcript2>moobin</transcript2>
+    <cyrillic>моовин</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠮᠣᠣᠪᠢᠨ</unicode>
+      <uighur>muobia</uighur>
+      <transcript>MUUBIN</transcript>
+      <page>553</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠣᠣᠪᠢᠨ ᠴᠠᠭᠠᠰᠤ</unicode>
+          <transcript>-- caγasu</transcript>
+          <definition> A kind of Chinese writing paper (Ch. mao-pien-chih)</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠮᠣᠣᠪᠢᠨ ᠴᠠᠭᠠᠰᠤᠨ</unicode>
+      <definition>une sorte de papier</definition>
+      <page>2027</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠣᠣᠪᠢᠩ</unicode>
+      <cyrillic>моовин</cyrillic>
+      <definition>〔名〕毛边：~ цаас 毛边纸.</definition>
+      <page>680</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠣᠪᠢᠨ</unicode>
+      <cyrillic>МООВИН</cyrillic>
+      <definition>: моовин цаас рисовая бумага. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠣᠪᠢᠨ</unicode>
+      <cyrillic>МУУВАН</cyrillic>
+      <definition>моовин-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

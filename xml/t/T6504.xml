@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6504">
+  <head>
+    <unicode>ᠳᠣᠰᠣᠬᠣ</unicode>
+    <transcript>dusuqu</transcript>
+    <transcript2>dosogo</transcript2>
+    <cyrillic>дусах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T6541</ref>
+  </derivatives>
+  <see_also>
+    <ref>T6425</ref>
+    <ref>T6503</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠣᠰᠣᠬᠣ</unicode>
+      <uighur>dusuqu</uighur>
+      <cyrillic>дусах</cyrillic>
+      <transcript>DUSU-</transcript>
+      <definition>v.i. To drip; to fall in drops, trickle, leak. ,</definition>
+      <page>276</page>
+      <examples>
+        <example>
+          <transcript>boruγan --mui</transcript>
+          <definition> Rain falls in drops.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠰᠣᠬᠤ</unicode>
+      <definition>tomber par gouttes , dégoutter, 2 couler, passer à travers: 3 couler, couler dehors, découler, sortir</definition>
+      <page>1828</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠰᠤᠨ ᠠᠨᠤ ᠰᠠᠰᠤᠨ ᠳ᠋‍‍ᠤ‍ᠷ ᠳᠤᠰᠣᠮᠤᠢ</unicode>
+          <definition>le sang découle sur la neige</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠳᠣᠰᠣᠬᠣ</unicode>
+      <uighur>dusoqu</uighur>
+      <definition>tropfen.</definition>
+      <page>284</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠳᠣᠰᠣᠬᠣ</unicode>
+      <uighur>dosuqu</uighur>
+      <definition>v.i. To drip. To drop</definition>
+      <page>1134</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠤᠰᠤᠬᠤ</unicode>
+      <cyrillic>дусах</cyrillic>
+      <definition>〔动〕滴，滴落，滴嗒，滴漏：нулимс ~ 滴眼泪；бопоо дусч баина 掉雨点了；◊ унан ~н 参见 унах /1.</definition>
+      <page>445</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠰᠣᠬᠣ</unicode>
+      <cyrillic>ДУСАХ</cyrillic>
+      <definition>1. капать, падать каплями; протекать насквозь, накрапывать (о мелком дожде); 2. дусахуй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠰᠣᠬᠣ</unicode>
+      <cyrillic>ДУСАХУЙ</cyrillic>
+      <definition>капание; капля. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠤᠰᠤᠬᠤ</unicode>
+      <cyrillic>дусах</cyrillic>
+      <definition>шингэн юмны дусал дуслаар гоожих; модон дээвэр нь ялзарч бороо дусч байв; нулимс дусах.</definition>
+      <page>213</page>
+    </entry_item>
+  </entries>
+</entry>

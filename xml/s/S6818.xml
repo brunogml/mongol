@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6818">
+  <head>
+    <unicode>ᠰᠥᠺᠠᠩᠺᠢᠲᠥᠺᠥ</unicode>
+    <transcript>sögenggitükü</transcript>
+    <transcript2>sögenggidögö</transcript2>
+    <cyrillic>сөөнгөтөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6819</ref>
+    <ref>S6817</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠥᠭᠡᠩᠭᠢᠲᠦᠬᠦ</unicode>
+      <cyrillic>сөөнгөтөх</cyrillic>
+      <definition>〔动〕参见 сөөнгөрөх: сөөнгөтсөн дуу сонсдов 听到了嘶哑的声音.</definition>
+      <page>948</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠥᠺᠠᠩᠺᠢᠲᠥᠺᠥ</unicode>
+      <cyrillic>СӨӨНГӨТӨХ</cyrillic>
+      <definition>1) становиться хриплым, сиплым; 2) говорить хриплым, сиплым голосом. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠥᠭᠡᠩᠭᠢᠲᠦᠬᠦ</unicode>
+      <cyrillic>сөөнгөтөх</cyrillic>
+      <definition>сөөнгө байдалтай болох. сөөнгөтсөн дуу сонсдов.</definition>
+      <page>484</page>
+    </entry_item>
+  </entries>
+</entry>

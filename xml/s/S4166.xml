@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4166">
+  <head>
+    <unicode>ᠰᠢᠮᠰᠢᠷᠠᠺᠥ</unicode>
+    <transcript>simsirekü</transcript>
+    <transcript2>simsiregö</transcript2>
+    <cyrillic>шимширэх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠮᠰᠢᠷᠠᠺᠥ</unicode>
+      <uighur>simsirekü</uighur>
+      <cyrillic>шимширэх</cyrillic>
+      <transcript>SIMSIRE-</transcript>
+      <definition>v. i. To feel a gnawing pain</definition>
+      <page>710</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠣᠲᠤᠷ᠎ᠠ ᠰᠢᠮᠰᠢᠷᠠᠺᠥ</unicode>
+          <transcript>dotur-a --ky</transcript>
+          <definition> To have a pain inside.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠮᠰᠢᠷᠡᠬᠦ</unicode>
+      <cyrillic>шимшрэх /1</cyrillic>
+      <definition>хүний бие бага зэрэг шархирах; бие шимшрэх; зүрх шимшрэх.</definition>
+      <page>848</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠮᠰᠢᠷᠡᠬᠦ</unicode>
+      <cyrillic>шимшрэх /2</cyrillic>
+      <definition>эд бага сагаар дэмий үрэгдэж хорогдох; эд хөрөнгө шимшрэх.</definition>
+      <page>848</page>
+    </entry_item>
+  </entries>
+</entry>

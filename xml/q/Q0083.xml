@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0083">
+  <head>
+    <unicode>ᠬᠠᠨᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>qanaraγulqu</transcript>
+    <transcript2>ganaragolgo</transcript2>
+    <cyrillic>ханаруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q0082</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠨᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ханаруулах</cyrillic>
+      <definition>〔动〕ханарах 的使动态.</definition>
+      <page>1302</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠨᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХАНАРУУЛАХ</cyrillic>
+      <definition>ханарах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠨᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ханаруулах</cyrillic>
+      <definition>ханарахын үйлдүүлэх хэв.</definition>
+      <page>657</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5111">
+  <head>
+    <unicode>ᠳᠣᠣᠭᠠᠷᠮᠠᠬᠯᠠᠬᠣ</unicode>
+    <transcript>douγarmaγlaqu</transcript>
+    <transcript2>doogarmaglago</transcript2>
+    <cyrillic>дугармаглах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠣᠭᠠᠷᠮᠠᠬᠯᠠᠬᠣ</unicode>
+      <cyrillic>ДУГАРМАГЛАХ</cyrillic>
+      <definition>бормотать, говорить неслышно, неохотно говорить. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠤᠭᠠᠷᠮᠠᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>дугармаглах /1</cyrillic>
+      <definition>дугаран ядах.</definition>
+      <page>208</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠤᠭᠤᠷᠮᠠᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>дугармаглах /2</cyrillic>
+      <definition>дугараа барих.</definition>
+      <page>208</page>
+    </entry_item>
+  </entries>
+</entry>

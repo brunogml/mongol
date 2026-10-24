@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0484">
+  <head>
+    <unicode>ᠴᠠᠯᠴᠢᠶᠠᠷᠠᠬᠣ</unicode>
+    <transcript>čalčiyaraqu</transcript>
+    <transcript2>calciyarago</transcript2>
+    <cyrillic>чалчаарах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠯᠴᠢᠶᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>чалчаарах</cyrillic>
+      <definition>〔动〕变得饶舌，变得爱闲扯，变得爱胡说.</definition>
+      <page>1576</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠯᠴᠢᠶᠠᠷᠠᠬᠣ</unicode>
+      <cyrillic>ЧАЛЧААРАХ</cyrillic>
+      <definition>стать болтливым; нести вздор. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠯᠴᠢᠶᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>чалчаарах</cyrillic>
+      <definition>чалчаа болох.</definition>
+      <page>812</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>C0480</ref>
+  </related_to>
+</entry>

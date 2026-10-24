@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1451">
+  <head>
+    <unicode>ᠵᠠᠵᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰaǰaγanaγulqu</transcript>
+    <transcript2>yacaganagolgo</transcript2>
+    <cyrillic>зазгануулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y1450</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠵᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зазгануулах</cyrillic>
+      <definition>〔动〕зазганах 的使动态；使之吃惊，使之慌张，使之束手无策.</definition>
+      <page>532</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠵᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗАЗГАНУУЛАХ</cyrillic>
+      <definition>зазганах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠵᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зазгануулах</cyrillic>
+      <definition>зазганахын үйлдүүлэх хэв, сандруулах, тэвдүүлэх, бачимдуулах.</definition>
+      <page>260</page>
+    </entry_item>
+  </entries>
+</entry>

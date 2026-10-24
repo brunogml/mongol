@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C1857">
+  <head>
+    <unicode>ᠴᠢᠯᠠᠨ</unicode>
+    <transcript>čilen</transcript>
+    <transcript2>cilen</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠢᠯᠠᠨ</unicode>
+      <uighur>čilen</uighur>
+      <transcript>CILEN</transcript>
+      <definition>[originally suffix - cila - / - cile - + n] post- pos., adv, As, according to, like.</definition>
+      <page>183</page>
+      <examples>
+        <example>
+          <unicode> ᠺᠡᠮᠡᠭᠰᠡᠨ ᠴᠢᠯᠠᠨ</unicode>
+          <transcript>.. kemegsen --</transcript>
+          <definition>. As it is said.</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠡᠲᠦ ᠴᠢᠯᠠᠨ</unicode>
+          <transcript>mety --</transcript>
+          <definition> (To do) like ...</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠭᠦᠨ ᠴᠢᠯᠠᠨ</unicode>
+          <transcript>tegyn --</transcript>
+          <definition> See tegyncilen.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠢᠯᠡᠨ ᠺᠦ ~ ᠮᠡᠳᠦ ~ ᠶᠣᠰᠣᠭᠠᠷ</unicode>
+      <definition>de même que, pareillement, ainsi, proportionnément.</definition>
+      <page>2162</page>
+    </entry_item>
+  </entries>
+</entry>

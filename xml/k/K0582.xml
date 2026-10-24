@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K0582">
+  <head>
+    <unicode>ᠺᠠᠳᠠᠷᠺᠠᠳᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>kedergedegülkü</transcript>
+    <transcript2>gedergedegölgö</transcript2>
+    <cyrillic>хэдрэгдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K0580</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠳᠡᠷᠭᠡᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хэдрэгдүүлэх</cyrillic>
+      <definition>〔动〕хэдрэгдэх 的使动态.</definition>
+      <page>1475</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠳᠠᠷᠺᠠᠳᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ХЭДРЭГДҮҮЛЭХ</cyrillic>
+      <definition>хэдрэгдэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠳᠡᠷᠭᠡᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хэдрэгдүүлэх</cyrillic>
+      <definition>хэдрэгдэхийн үйлдүүлэх хэв.</definition>
+      <page>756</page>
+    </entry_item>
+  </entries>
+</entry>

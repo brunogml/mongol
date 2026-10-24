@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="N0800">
+  <head>
+    <unicode>ᠨᠠᠶᠢᠷᠲᠣ</unicode>
+    <transcript>nayirtu</transcript>
+    <transcript2>nayirdo</transcript2>
+    <cyrillic>найрт</cyrillic>
+  </head><see_also>
+    <ref>N0798</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠨᠠᠶᠢᠷᠲᠣ</unicode>
+      <uighur>nayirdu</uighur>
+      <cyrillic>найрт</cyrillic>
+      <transcript>NAIRTU</transcript>
+      <definition>See nairtai</definition>
+      <page>561</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠠᠶᠢᠷᠲᠣ ᠨᠥᠺᠦᠷ</unicode>
+          <transcript>-- nøkyr </transcript>
+          <definition>Good friend</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠠᠶᠢᠷᠲᠣ ᠰᠠᠯᠺᠢᠨ</unicode>
+          <transcript>-- salkin</transcript>
+          <definition> Gentle wind, zephyr.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠨᠠᠶᠢᠷᠳᠠᠢ ~ ᠨᠠᠶᠢᠷᠲᠤ</unicode>
+      <definition>qui est de bon accord, conciliant, 2 paisible, amical: 3 doux, tranquille, favorable.</definition>
+      <page>602</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠠᠶᠢᠷᠲᠤ ᠰᠠᠯᠺᠢᠨ</unicode>
+          <definition>vent doux et favorable</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠠᠶᠢᠷᠲᠤ ᠱᠤᠤ ᠺᠦᠭᠵᠢᠮ</unicode>
+          <definition>concert musical exécuté à l'arrivée du bogdokhan au palais</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠠᠢᠷᠲᠤ</unicode>
+      <cyrillic>найрт</cyrillic>
+      <definition>〔形〕参见 найртай ：~ салхи 和风.</definition>
+      <page>721</page>
+    </entry_item>
+  </entries>
+</entry>

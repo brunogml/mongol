@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E0864">
+  <head>
+    <unicode>ᠡᠯᠦ</unicode>
+    <transcript>elü</transcript>
+    <transcript2>elö</transcript2>
+    <cyrillic>эл</cyrillic>
+  </head>
+  <see_also>
+    <ref>E0750</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠯᠥ</unicode>
+      <uighur>elü</uighur>
+      <cyrillic>эл</cyrillic>
+      <transcript>ELY</transcript>
+      <definition>n. Hole, cave, den, burrow, lair.</definition>
+      <page>310</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠯᠦ</unicode>
+      <definition>creux, terrier, tanière,. repaire: 2 coupe, émonde (les arbres)</definition>
+      <page>207</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠯᠡᠭᠦᠰᠦᠨ ᠤ ᠡᠯᠦ</unicode>
+          <definition>terrier de lynx.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠠᠯᠥ</unicode>
+      <uighur>elü</uighur>
+      <definition>die Grube oder Höhle wilder Thiere; der Schnitt, beschnittene Hand</definition>
+      <page>29</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠡᠯᠥ</unicode>
+      <uighur>elü</uighur>
+      <definition>n. Cave for wild animals. A cut.</definition>
+      <page>109</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠯᠥ</unicode>
+      <cyrillic>ЭЛҮҮ</cyrillic>
+      <definition>эл VI-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠯᠦ</unicode>
+      <cyrillic>элүү</cyrillic>
+      <definition>томоохон амьтны орших орогнох нүх цооног; тарваганы элүү; үнэгний элүү.</definition>
+      <page>874</page>
+    </entry_item>
+  </entries>
+</entry>

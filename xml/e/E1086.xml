@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="E1086">
+  <head>
+    <unicode>ᠡᠮᠦᠨᠡᠳᠦ</unicode>
+    <transcript>emünedü</transcript>
+    <transcript2>emönedö</transcript2>
+    <cyrillic>өмнөд</cyrillic>
+  </head><see_also>
+    <ref>O1135</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠮᠥᠨᠠᠳᠥ</unicode>
+      <uighur>emünedü</uighur>
+      <cyrillic>өмнөд</cyrillic>
+      <transcript>EMYNEDY</transcript>
+      <definition>adj. Southern; front[al].</definition>
+      <page>315</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠮᠥᠨᠠᠳᠥ ᠭᠣᠪᠢ ᠎ᠶᠢᠨ ᠠᠶᠢᠮᠠᠭ</unicode>
+          <transcript>-- γobi jin aimaγ</transcript>
+          <definition> South-Gobi Aimak in Outer Mongolia.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠮᠥᠨᠠᠳᠥ ᠮᠥᠰᠦᠨ ᠳᠠᠯᠠᠢ</unicode>
+          <transcript>-- møsyn dalai</transcript>
+          <definition> Antarctic Ocean.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠮᠦᠨᠡᠳᠡᠺᠢ ~ ᠡᠮᠦᠨᠡᠲᠦ ~ ᠡᠮᠦᠨᠡᠺᠢ</unicode>
+      <definition>de devant; 2 méridional</definition>
+      <page>216</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠮᠦᠨᠡᠲᠦ ᠬᠠᠭᠠᠯᠭ᠎ᠠ</unicode>
+          <definition>porte du midi: 2 deux étoiles du Centaure.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠮᠦᠨᠡᠲᠦ ᠬᠠᠭᠠᠯᠭ᠎ᠠ ᠎ᠶᠢᠨ ᠵᠢᠷᠢᠺ ᠳᠡᠷᠢᠭᠦᠯᠡᠺᠴᠢ</unicode>
+          <definition>commandant des troupes de la por te du midi; 2 phi d'Andromède</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠮᠦᠨᠡᠲᠦ ᠭᠣᠣᠯ</unicode>
+          <definition>ﬂenve du midi. 2 trois étoiles de Procyon</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

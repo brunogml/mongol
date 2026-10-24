@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T7129">
+  <head>
+    <unicode>ᠲᠣᠮᠢᠷᠠᠬᠣ</unicode>
+    <transcript>tomiraqu</transcript>
+    <transcript2>domirago</transcript2>
+    <cyrillic>томирох</cyrillic>
+  </head><derivatives>
+    <ref>T7130</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠮᠢᠷᠠᠬᠤ</unicode>
+      <definition>payer tout, s acquitter.</definition>
+      <page>1861</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠣᠮᠢᠷᠠᠬᠣ</unicode>
+      <uighur>dumiraqu</uighur>
+      <definition>die Schuld berichtigen, quittiren</definition>
+      <page>251</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠣᠮᠢᠷᠠᠬᠣ</unicode>
+      <uighur>tumiraqu</uighur>
+      <definition>v.t. To settle a debt.</definition>
+      <page>998</page>
+    </entry_item>
+  </entries>
+</entry>

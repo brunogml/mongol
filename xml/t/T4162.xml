@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T4162">
+  <head>
+    <unicode>ᠲᠠᠮᠳᠠᠺᠯᠠᠯᠲᠠᠢ</unicode>
+    <transcript>temdegleltei</transcript>
+    <transcript2>demdegleldei</transcript2>
+    <cyrillic>тэмдэглэлтэй</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠮᠳᠠᠺᠯᠠᠯᠲᠠᠢ</unicode>
+      <uighur>temdekleldei</uighur>
+      <cyrillic>тэмдэглэлтэй</cyrillic>
+      <transcript>TEMDEGLELTEI</transcript>
+      <definition>[= temdeglelty] adj. Remarkable, significant, noteworthy.</definition>
+      <page>799</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠮᠳᠠᠺᠯᠠᠯᠲᠠᠢ ᠡᠳᠦᠷ</unicode>
+          <transcript>-- edyr</transcript>
+          <definition> Significant or memorable day.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠡᠮᠳᠡᠭᠯᠡᠯᠲᠡᠢ</unicode>
+      <cyrillic>тэмдэглэлтэй</cyrillic>
+      <definition>〔形〕参见 тэмдэглэлт;值得指出的，要提出的.</definition>
+      <page>1154</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠮᠳᠠᠺᠯᠠᠯᠲᠠᠢ</unicode>
+      <cyrillic>ТЭМДЭГЛЭЛТЭЙ</cyrillic>
+      <definition>тэмдэглэлт-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тэмдэглэлтэй,</cyrillic>
+      <definition>тэмдэглэлт bedeutsam, bemerkenswert</definition>
+      <page>248</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠮᠳᠡᠭᠯᠡᠯᠲᠡᠢ</unicode>
+      <cyrillic>тэмдэглэлтэй</cyrillic>
+      <definition>тэмдэглэвэл зохих зүйл бүхий.</definition>
+      <page>575</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T4161</ref>
+  </related_to>
+</entry>

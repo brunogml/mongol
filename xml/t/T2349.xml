@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2349">
+  <head>
+    <unicode>ᠲᠠᠶᠠᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tayaγlaγulqu</transcript>
+    <transcript2>dayaglagolgo</transcript2>
+    <cyrillic>таяглуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T2348</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠶᠠᠭᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>таяглуулах</cyrillic>
+      <definition>〔动〕таяглах 的使动态.</definition>
+      <page>1046</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠶᠠᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАЯГЛУУЛАХ</cyrillic>
+      <definition>таяглах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠶᠠᠭᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>таяглуулах</cyrillic>
+      <definition>таяглахын үйлдүүлэх хэв.</definition>
+      <page>530</page>
+    </entry_item>
+  </entries>
+</entry>

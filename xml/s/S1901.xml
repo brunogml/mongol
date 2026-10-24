@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1901">
+  <head>
+    <unicode>ᠱᠠᠷᠵᠢᠺᠢᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šarǰiginaγulqu</transcript>
+    <transcript2>sarciginagolgo</transcript2>
+    <cyrillic>шаржигнуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S1898</ref>
+  </related_to>
+  <see_also>
+    <ref>S1900</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠷᠵᠢᠭᠢᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шаржигнуулах</cyrillic>
+      <definition>〔动〕шаржигнах 的使动态.</definition>
+      <page>1622</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠷᠵᠢᠺᠢᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАРЖИГНУУЛАХ</cyrillic>
+      <definition>шаржигнах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шаржигнуулах</cyrillic>
+      <definition>Kaus von шаржигнах</definition>
+      <page>381</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠷᠵᠢᠭᠢᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шаржигнуулах</cyrillic>
+      <definition>шаржигнахын үйлдүүлэх хэв.</definition>
+      <page>839</page>
+    </entry_item>
+  </entries>
+</entry>

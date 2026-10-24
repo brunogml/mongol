@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T6240">
+  <head>
+    <unicode>ᠲᠣᠪ</unicode>
+    <transcript>tub</transcript>
+    <transcript2>dob</transcript2>
+    <cyrillic>тув</cyrillic>
+  </head><see_also>
+    <ref>T6239</ref>
+  
+    <ref>T6241</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠪ</unicode>
+      <uighur>tub</uighur>
+      <cyrillic>тув</cyrillic>
+      <transcript>TUB</transcript>
+      <definition>Intensifying particle before certain adj. and adv. beginning with the syllable tu.</definition>
+      <page>838</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠣᠪ ᠲᠤᠩᠭᠠᠯᠠᠭ</unicode>
+          <transcript>-- tungγalaγ</transcript>
+          <definition> Very clear (of sky, water, air, transparent objects).</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠪ</unicode>
+      <cyrillic>тув</cyrillic>
+      <definition>见 ~ тунгалаг 非常清澈，很透明.</definition>
+      <page>1106</page>
+    </entry_item>
+  </entries>
+</entry>

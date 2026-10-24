@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4158">
+  <head>
+    <unicode>ᠰᠢᠮᠨᠠᠴᠠ</unicode>
+    <transcript>simnača</transcript>
+    <transcript2>simnaca</transcript2>
+    <cyrillic>шамнац</cyrillic>
+  </head>
+  <see_also>
+    <ref>S4094</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠮᠨᠠᠴᠠ</unicode>
+      <uighur>simnača</uighur>
+      <cyrillic>шамнац</cyrillic>
+      <transcript>SIMNACA</transcript>
+      <definition>See simnanca.</definition>
+      <page>710</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠮᠨᠠᠴᠠ</unicode>
+      <cyrillic>шамнац</cyrillic>
+      <definition>шамнанц.</definition>
+      <page>835</page>
+    </entry_item>
+  </entries>
+</entry>

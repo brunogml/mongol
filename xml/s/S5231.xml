@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5231">
+  <head>
+    <unicode>ᠰᠣᠭᠣᠪᠢᠴᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>suγubičilaγulqu</transcript>
+    <transcript2>sogobicilagolgo</transcript2>
+    <cyrillic>суувчлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S5230</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠭᠤᠪᠴᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>суувчлуулах</cyrillic>
+      <definition>〔动〕суувчлах 的使动态.</definition>
+      <page>966</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠭᠣᠪᠢᠴᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>СУУВЧЛУУЛАХ</cyrillic>
+      <definition>суувчлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠭᠤᠪᠴᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>суувчлуулах</cyrillic>
+      <definition>суувчлахын үйлдүүлэх хэв, сугавчлуулах.</definition>
+      <page>492</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="R0059">
+  <head>
+    <unicode>ᠷᠢᠱᠢ</unicode>
+    <transcript>riši</transcript>
+    <transcript2>risi</transcript2>
+    <cyrillic>риши</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠷᠢᠱᠢ</unicode>
+      <uighur>risi</uighur>
+      <transcript>RISI</transcript>
+      <definition>See arsi.</definition>
+      <page>651</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠷᠢᠱᠢ</unicode>
+      <uighur>riši</uighur>
+      <definition>ein Rischi.</definition>
+      <page>226</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠷᠢᠱᠢ ~ ᠠᠷᠰᠢ</unicode>
+      <definition>richi, celui qui a vaincu les ennemis, saint, ermite, sage. Le mot richi (le Voyant) semble avoir d'abord comporté la signification de voir, qu'on retrouve dans le mot richva, remarquable, dérivé sans doute d'une même racine. F. Nève, essai sur le mythe des Ribhâvas, p. 63,305</definition>
+      <page>2660</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠩᠷᠢ ᠎ᠶᠢᠨ ᠷᠢᠱᠢ</unicode>
+          <definition>saint parmi les tégris</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠦᠮᠦᠨ ᠤ ᠷᠢᠱᠢ</unicode>
+          <definition>saint parmi les hommes</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3871">
+  <head>
+    <unicode>ᠵᠣᠩᠬᠣᠷᠠᠬᠣ</unicode>
+    <transcript>ǰongquraqu</transcript>
+    <transcript2>yonggorago</transcript2>
+    <cyrillic>жонхуурах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y3872</ref>
+    <ref>Y3873</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠣᠩᠬᠤᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>жонхуурах</cyrillic>
+      <definition>〔动〕打成糊糊，做成糊状.</definition>
+      <page>517</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠩᠬᠣᠷᠠᠬᠣ</unicode>
+      <cyrillic>ЖОНХУУРАХ</cyrillic>
+      <definition>становиться густґм, кашеобразным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>жонхуурах</cyrillic>
+      <definition>zu Kleister werden</definition>
+      <page>111</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠣᠩᠬᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>жонхуурах</cyrillic>
+      <definition>жонхуу шиг болох; наалданги болох; гурилтай хоол жонхуурах.</definition>
+      <page>250</page>
+    </entry_item>
+  </entries>
+</entry>

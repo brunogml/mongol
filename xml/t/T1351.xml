@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1351">
+  <head>
+    <unicode>ᠲᠠᠰᠢᠭᠣᠷᠳᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>tasiγurdaγdaqu</transcript>
+    <transcript2>dasigordagdago</transcript2>
+  </head>
+  <related_to>
+    <ref>T1349</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠰᠢᠭᠣᠷᠳᠠᠬᠳᠠᠬᠤ</unicode>
+      <definition>être foueté.</definition>
+      <page>1620</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠰᠢᠭᠣᠷᠳᠠᠬᠳᠠᠬᠣ</unicode>
+      <uighur>dasiγordaqdaqu</uighur>
+      <definition>mit der Peitsche geschlagen werden</definition>
+      <page>237</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠰᠢᠭᠣᠷᠳᠠᠬᠳᠠᠬᠣ</unicode>
+      <uighur>tasiγurdaqdaqu</uighur>
+      <definition>v.p. To be beaten or flogged with a whip.</definition>
+      <page>934</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠰᠢᠭᠤᠷᠳᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>ташуурдагдах</cyrillic>
+      <definition>ташуурдахын үйлдэгдэх хэв.</definition>
+      <page>529</page>
+    </entry_item>
+  </entries>
+</entry>

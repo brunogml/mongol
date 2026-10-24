@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S3009">
+  <head>
+    <unicode>ᠰᠢᠨᠠᠯᠠᠬᠣ</unicode>
+    <transcript>sinalaqu</transcript>
+    <transcript2>sinalago</transcript2>
+    <cyrillic>шаналах</cyrillic>
+  </head><derivatives>
+    <ref>S3011</ref>
+  </derivatives><see_also>
+    <ref>S3021</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠨᠠᠯᠠᠬᠣ</unicode>
+      <uighur>sinalaqu</uighur>
+      <cyrillic>шаналах</cyrillic>
+      <transcript>SINALA-</transcript>
+      <definition>v.i. To lament, wail, sob, moan, whimper ; to regret, repent, grieve ; to be afflicted or disappointed</definition>
+      <page>710</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠨᠠᠯᠠᠨ ᠵᠣᠪᠠᠬᠤ</unicode>
+          <transcript>-- zobaxu </transcript>
+          <definition>To grieve, suffer; to be vexed or disappointed</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠨᠡᠯᠦᠨ ᠰᠢᠨᠠᠯᠠᠬᠤ</unicode>
+          <transcript>enelyn --xu</transcript>
+          <definition> To be sorry; to be unhappy; to grieve</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠨᠠᠯᠠᠬᠤ</unicode>
+      <definition>gémir, sangloter. se lamenter</definition>
+      <page>1457</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠨᠡᠯᠦᠨ ᠰᠢᠨᠠᠯᠠᠬᠤ</unicode>
+          <definition>plaindre, regretter, compatir, prendre part à</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠨᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ШАНААЛАХ</cyrillic>
+      <definition>ходить, ездить по горному хребту. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

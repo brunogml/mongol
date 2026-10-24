@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7574">
+  <head>
+    <unicode>ᠳᠣᠶᠢᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>doyilǰaγulqu</transcript>
+    <transcript2>doyilcagolgo</transcript2>
+    <cyrillic>доёлзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T7573</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠣᠶ᠍ᠢᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>доёлзуулах</cyrillic>
+      <definition>〔动〕доёлзох 的使动态.</definition>
+      <page>410</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠶᠢᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДОЁЛЗУУЛАХ</cyrillic>
+      <definition>доёлзох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠣᠶ᠍ᠢᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>доёлзуулах</cyrillic>
+      <definition>доёлзохын үйлдүүлэх хэв.</definition>
+      <page>197</page>
+    </entry_item>
+  </entries>
+</entry>

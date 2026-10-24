@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4572">
+  <head>
+    <unicode>ᠶᠣᠮᠪᠣᠭᠣᠨᠠᠬᠣ</unicode>
+    <transcript>yombuγunaqu</transcript>
+    <transcript2>yombogonago</transcript2>
+    <cyrillic>ёмбогонох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y4573</ref>
+    <ref>Y4574</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠣᠮᠪᠣᠭᠣᠨᠠᠬᠤ</unicode>
+      <cyrillic>ёмбогонох</cyrillic>
+      <definition>〔动〕（凸面体或凸起物）时时动作，时时隆起，一露一突.</definition>
+      <page>490</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠣᠮᠪᠣᠭᠣᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЁМБОГОНОХ</cyrillic>
+      <definition>двигаться (о чём-л. выступающем, выпуклом). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠣᠮᠪᠣᠭᠣᠨᠠᠬᠤ</unicode>
+      <cyrillic>ёмбогонох</cyrillic>
+      <definition>ёмбогор юмны үргэлжлэн хөдлөх.</definition>
+      <page>235</page>
+    </entry_item>
+  </entries>
+</entry>

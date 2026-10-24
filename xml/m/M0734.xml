@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0734">
+  <head>
+    <unicode>ᠮᠠᠶᠢᠷᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>mayiraγanaγulqu</transcript>
+    <transcript2>mayiraganagolgo</transcript2>
+    <cyrillic>майргануулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>M0733</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠢᠷᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>майргануулах</cyrillic>
+      <definition>〔动〕майрганах 的使动态.</definition>
+      <page>655</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠶᠢᠷᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>МАЙРГАНУУЛАХ</cyrillic>
+      <definition>майрганах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠢᠷᠢᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>майргануулах</cyrillic>
+      <definition>майрганахын үйлдүүлэх хэв.</definition>
+      <page>327</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9189">
+  <head>
+    <unicode>ᠲᠥᠺᠳᠥᠺᠥᠨᠠᠺᠥ</unicode>
+    <transcript>tügdügünekü</transcript>
+    <transcript2>dögdögönegö</transcript2>
+    <cyrillic>түгдгэнэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T9190</ref>
+    <ref>T9188</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠦᠭᠳᠦᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>түгдгэнэх</cyrillic>
+      <definition>〔动〕（鼓起物）频频动弹.</definition>
+      <page>1128</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠺᠳᠥᠺᠥᠨᠠᠺᠥ</unicode>
+      <cyrillic>ТҮГДГЭНЭХ</cyrillic>
+      <definition>ходљть, двљгаться (о горбатом, сутулом человеке). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠦᠭᠳᠦᠭᠦᠨᠡᠬᠦ</unicode>
+      <cyrillic>түгдэгнэх</cyrillic>
+      <definition>түгдгэр юмны үргэлжлэн хөдлөх.</definition>
+      <page>564</page>
+    </entry_item>
+  </entries>
+</entry>

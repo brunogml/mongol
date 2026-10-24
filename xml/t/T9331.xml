@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9331">
+  <head>
+    <unicode>ᠳᠥᠷᠥᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>dörülegülkü</transcript>
+    <transcript2>dörölegölgö</transcript2>
+    <cyrillic>дөрлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T9330</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠥᠷᠥᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дөрлүүлэх</cyrillic>
+      <definition>〔动〕①дөрлөх 的使动态：②意同 дөрлөгдөх.</definition>
+      <page>431</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠥᠷᠥᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ДӨРЛҮҮЛЭХ</cyrillic>
+      <definition>дөрлөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠥᠷᠥᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дөрлүүлэх</cyrillic>
+      <definition>1. дөрлөхийн үйлдүүлэх хэв;2. дөрлөгдөх.</definition>
+      <page>206</page>
+    </entry_item>
+  </entries>
+</entry>

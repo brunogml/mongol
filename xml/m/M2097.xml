@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M2097">
+  <head>
+    <unicode>ᠮᠥᠩᠺᠠᠷᠠᠺᠥ</unicode>
+    <transcript>möngkerekü</transcript>
+    <transcript2>mönggeregö</transcript2>
+    <cyrillic>мөнхрөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M2098</ref>
+    <ref>M2095</ref>
+  </derivatives>
+  <see_also>
+    <ref>M2099</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠮᠥᠩᠺᠠᠷᠠᠺᠥ</unicode>
+      <uighur>möngkerekü</uighur>
+      <cyrillic>мөнхрөх</cyrillic>
+      <transcript>MØNGKERE-</transcript>
+      <definition>v.i. To become immortal.</definition>
+      <page>548</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠥᠩᠺᠠᠷᠠᠺᠦᠢ ᠠᠮᠤᠭᠤᠯᠠᠩ</unicode>
+          <transcript>--kyi amuγulang</transcript>
+          <definition> Eternal bliss.</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠥᠩᠺᠠᠷᠠᠺᠦᠢ ᠦᠵᠡᠯ</unicode>
+          <transcript>--kyi yzel</transcript>
+          <definition> Belief in the immortality of the soul.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠮᠥᠩᠺᠡᠷᠡᠺᠦ ~ ᠮᠥᠩᠺᠡᠷᠦᠺᠦ</unicode>
+      <definition>être éternel, exister éternellement</definition>
+      <page>2054</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠥᠩᠺᠠᠷᠠᠺᠥ</unicode>
+      <cyrillic>МӨНХРӨХ</cyrillic>
+      <definition>1. становиться вечным, бессмертным, навеки сохраняться; 2. мөнхрөхүй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠥᠩᠺᠠᠷᠠᠺᠥ</unicode>
+      <cyrillic>МӨНХРӨХҮЙ</cyrillic>
+      <definition>вечная жизнь; вечность, бессмертие. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠥᠩᠬᠡᠷᠡᠬᠦ</unicode>
+      <cyrillic>мөнхрөх</cyrillic>
+      <definition>мөнхжих, мөнх болгох.</definition>
+      <page>345</page>
+    </entry_item>
+  </entries>
+</entry>

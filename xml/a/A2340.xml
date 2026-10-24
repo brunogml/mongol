@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A2340">
+  <head>
+    <unicode>ᠠᠯᠢᠬᠠᠨ</unicode>
+    <transcript>aliqan</transcript>
+    <transcript2>aligan</transcript2>
+    <cyrillic>алихан</cyrillic>
+  </head>
+  <variants>
+    <variant type="cyrillic">альхан</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠯᠢᠬᠠᠨ</unicode>
+      <definition>comment est-ce? comment?</definition>
+      <page>77</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠯᠢᠬᠠᠨ</unicode>
+      <cyrillic>алихан</cyrillic>
+      <definition>〔代〕①哪一个；②（近处的）什么地方.</definition>
+      <page>43</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠯᠢᠬᠠᠨ</unicode>
+      <cyrillic>АЛЬХАН</cyrillic>
+      <definition>где, где же, на какой стороне; откуда?; какой?, как?</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠯᠢᠬᠠᠨ</unicode>
+      <cyrillic>альхан</cyrillic>
+      <definition>〔代・副〕①哪一个；②（近处的）某处.</definition>
+      <page>47</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠯᠢᠬᠠᠨ</unicode>
+      <cyrillic>альхан</cyrillic>
+      <definition>хаахна, ямархан; тэр уулын альхан талд нь байна вэ?</definition>
+      <page>36</page>
+    </entry_item>
+  </entries>
+</entry>

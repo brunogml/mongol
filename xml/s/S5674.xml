@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5674">
+  <head>
+    <unicode>ᠱᠣᠳᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>šudaγdaqu</transcript>
+    <transcript2>sodagdago</transcript2>
+    <cyrillic>шуудагдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5675</ref>
+    <ref>S5676</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠤᠳᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>шуудагдах</cyrillic>
+      <definition>〔动〕（摔跤时）抓住对方的裤.</definition>
+      <page>1662</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠳᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ШУУДАГДАХ</cyrillic>
+      <definition>хватать за (специальный) бандаж (в борьбе). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шуудагдах</cyrillic>
+      <definition>mong. Ringkampf an der Hose fassen od packen</definition>
+      <page>392</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠤᠳᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>шуудагдах</cyrillic>
+      <definition>шуудгаас барих.</definition>
+      <page>861</page>
+    </entry_item>
+  </entries>
+</entry>

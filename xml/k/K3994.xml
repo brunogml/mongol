@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K3994">
+  <head>
+    <unicode>ᠭᠥᠯᠢᠭᠡ</unicode>
+    <transcript>gölige</transcript>
+    <transcript2>gölige</transcript2>
+    <cyrillic>гөлөг</cyrillic>
+  </head>
+  <see_also>
+    <ref>K4053</ref>
+    <ref>K3993</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠥᠯᠢᠺᠡ</unicode>
+      <uighur>gölige</uighur>
+      <transcript>GØLIGE</transcript>
+      <definition>See gølyge.</definition>
+      <page>386</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠥᠯᠢᠭᠡ</unicode>
+      <definition>1 un jeune chien, un petit: &#13;
+2 un oeil, bouton.</definition>
+      <page>2602</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠣᠬᠠᠢ ᠎ᠶᠢᠨ ᠭᠥᠯᠢᠭᠡ</unicode>
+          <definition>jeune chien</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

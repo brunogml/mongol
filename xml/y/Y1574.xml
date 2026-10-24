@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1574">
+  <head>
+    <unicode>ᠶᠠᠶᠢᠪᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>yayibalǰaqu</transcript>
+    <transcript2>yayibalcago</transcript2>
+    <cyrillic>яйвалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1575</ref>
+    <ref>Y1576</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠠᠢᠪᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>яйвалзах</cyrillic>
+      <definition>〔动〕（大下巴，长下巴）频频动.</definition>
+      <page>1744</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠠᠶᠢᠪᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ЯЙВАЛЗАХ</cyrillic>
+      <definition>яйвганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠠᠢᠪᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>яйвалзах</cyrillic>
+      <definition>яйвгар юмны яйвас яйвас хөдлөх.</definition>
+      <page>902</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A0803">
+  <head>
+    <unicode>ᠠᠬᠣᠳᠠᠯᠠᠬᠣ</unicode>
+    <transcript>aqudalaqu</transcript>
+    <transcript2>agodalago</transcript2>
+    <cyrillic>ахуудлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>A0808</ref>
+  </derivatives>
+  <see_also>
+    <ref>A0802</ref>
+    <ref>A0804</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠬᠤᠳᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>ахуудлах</cyrillic>
+      <definition>〔动〕〈书〉吹毛求疵，揭人短处.</definition>
+      <page>92</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠬᠣᠳᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>АХУУДЛАХ</cyrillic>
+      <definition>бичг. копаться в чужих делах; уудлах–ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠬᠤᠳᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>ахуудлах</cyrillic>
+      <definition>&lt;бичиг&gt;хүн амьтныг удаан буюу түр хоргодоход хүрүүлэх; хулгайг халгаан ахуулав; хүнийг халгаан ахуулахгүй үлдэн зайлуулав.</definition>
+      <page>58</page>
+    </entry_item>
+  </entries>
+</entry>

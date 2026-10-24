@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3567">
+  <head>
+    <unicode>ᠵᠢᠷᠪᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰirbalǰaγulqu</transcript>
+    <transcript2>yirbalcagolgo</transcript2>
+    <cyrillic>жарвалзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y3566</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠷᠪᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>жарвалзуулах</cyrillic>
+      <definition>〔动〕жарвалзах 的使动态.</definition>
+      <page>502</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠷᠪᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЖАРВАЛЗУУЛАХ</cyrillic>
+      <definition>жарвалзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠷᠪᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>жарвалзуулах</cyrillic>
+      <definition>жарвалзахын үйлдүүлэх хэв.</definition>
+      <page>242</page>
+    </entry_item>
+  </entries>
+</entry>

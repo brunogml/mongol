@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q2006">
+  <head>
+    <unicode>ᠬᠠᠯᠣ</unicode>
+    <transcript>qalu</transcript>
+    <transcript2>galo</transcript2>
+    <cyrillic>халуу</cyrillic>
+  </head><see_also>
+    <ref>Q1840</ref>
+  
+    <ref>Q2006a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠯᠣ</unicode>
+      <uighur>qalu</uighur>
+      <transcript>XALU</transcript>
+      <page>921</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠯᠣ ᠴᠡᠴᠡᠭᠬ</unicode>
+          <transcript>-- ceceg</transcript>
+          <definition> Kind of a flower.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠯᠣ ᠮᠡᠷᠭᠡᠨ</unicode>
+          <transcript>-- mergen</transcript>
+          <definition> Common tern.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠠᠯᠣ</unicode>
+      <uighur>qalu mergen</uighur>
+      <definition>n. A fish-hawk. A sea-eagle.</definition>
+      <page>539</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠯᠣ</unicode>
+      <cyrillic>ХАЛУУ</cyrillic>
+      <definition>I : халуу мэргэн шувуу. род чайки, питающейся рыбами. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠯᠣ</unicode>
+      <cyrillic>ХАЛУУ</cyrillic>
+      <definition>II: халуу цэцэг ург. просвирник круглолистный; пастушья сумка; аконит. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠯᠣ</unicode>
+      <cyrillic>ХАЛУУ</cyrillic>
+      <definition>III: халуу сар шувуу. коршун. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

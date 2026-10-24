@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A1795">
+  <head>
+    <unicode>ᠠᠰᠢ</unicode>
+    <transcript>asi</transcript>
+    <transcript2>asi</transcript2>
+    <cyrillic>аш</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠰᠢ</unicode>
+      <uighur>asi</uighur>
+      <cyrillic>аш</cyrillic>
+      <transcript>ASI</transcript>
+      <page>56</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Quite good, better than expected.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠰᠢ ᠦᠭᠡᠢ ᠴᠢ ᠢᠷᠡᠪᠡ</unicode>
+          <transcript>-- ygei ci irebe</transcript>
+          <definition> It is good that you came!.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠰᠢ ᠦᠭᠡᠢ ᠺᠦᠪᠡᠭᠦᠨ</unicode>
+          <transcript>-- ygei kybegyn</transcript>
+          <definition> A fine bQy</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠰᠢ ᠦᠭᠡᠢ ᠰᠠᠮ</unicode>
+          <transcript>-- ygei sam</transcript>
+          <definition> Quite good, better than expected</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠰᠢ ᠦᠭᠡᠢ</unicode>
+      <definition>assez bien, passable (de l'homme et de la chose), mieux qu'à l'ordinaire</definition>
+      <page>58</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠰᠢ</unicode>
+      <cyrillic>аш</cyrillic>
+      <definition>〔名〕舒适，舒服：~ алдах 不舒服，难受.</definition>
+      <page>95</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠰᠢ</unicode>
+      <cyrillic>АШ</cyrillic>
+      <definition>I : аш тав / ая тав хорш. а) удобство, благоустроенность, комфортабельность; б) удобства, комфорт.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠰᠢ</unicode>
+      <cyrillic>АШ</cyrillic>
+      <definition>II ашгүй–г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠰᠢ</unicode>
+      <cyrillic>аш</cyrillic>
+      <definition>тав тух.</definition>
+      <page>59</page>
+    </entry_item>
+  </entries>
+</entry>

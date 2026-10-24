@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I0066">
+  <head>
+    <unicode>ᠢᠨᠢᠶᠠᠳᠥᠮᠲᠠᠢ</unicode>
+    <transcript>iniyedümtei</transcript>
+    <transcript2>iniyedömdei</transcript2>
+    <cyrillic>инээдэмтэй</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠨᠢᠶᠡᠳᠦᠮᠲᠡᠢ</unicode>
+      <cyrillic>инээдэмтэй</cyrillic>
+      <definition>〔形〕参见 инээдэмт.</definition>
+      <page>618</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠨᠢᠶᠠᠳᠥᠮᠲᠠᠢ</unicode>
+      <cyrillic>ИНЭЭДЭМТЭЙ</cyrillic>
+      <definition>инээдэмт-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠨᠢᠶᠡᠳᠦᠮᠲᠡᠢ</unicode>
+      <cyrillic>инээдэмтэй</cyrillic>
+      <definition>өөрийн эрхгүй инээд хүрмээр байдалтай.</definition>
+      <page>306</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>I0065</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8583">
+  <head>
+    <unicode>ᠲᠥᠰᠯᠠᠺᠥ</unicode>
+    <transcript>töslekü</transcript>
+    <transcript2>döslegö</transcript2>
+    <cyrillic>төслөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T8584</ref>
+  </derivatives>
+  <see_also>
+    <ref>T8557</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠥᠰᠯᠠᠺᠥ</unicode>
+      <uighur>töslekü</uighur>
+      <cyrillic>төслөх</cyrillic>
+      <transcript>TØSLE-</transcript>
+      <definition>[= t¢syle-] v.t. and i. To resemble; to have a general or rough idea</definition>
+      <page>837</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠢᠴᠢᠭ ᠲᠥᠰᠯᠠᠺᠥ</unicode>
+          <transcript>bicig --ky</transcript>
+          <definition> To be barely able to read and write</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠴᠢᠭᠡ ᠡᠺᠡ ᠪᠡᠨ ᠲᠥᠰᠯᠠᠺᠥ</unicode>
+          <transcript>ecige eke ben --ky</transcript>
+          <definition> To resemble one's parents.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠥᠰᠯᠡᠬᠦ</unicode>
+      <cyrillic>төслөх</cyrillic>
+      <definition>〔动〕①变相似，变相近，变得类似起来：энэ хүн тантай төсөлж байна 此人与您相似；②似曾相识，有点认得：би түүнийг царай ~ төдий 我只约略认得他的面孔；бичиг ~ төдийхөн 略识一点字；③略知，略晓，稍知，粗通.</definition>
+      <page>1102</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠰᠯᠠᠺᠥ</unicode>
+      <cyrillic>ТӨСЛӨХ</cyrillic>
+      <definition>1) становљться похожим, сходным; 2) яриа. быть слегка знакомым с кем-чем-л.; бичиг төслөх плохо знать грамоту; би түүний царайг төслөх төдий я его только в лицо знаю. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠥᠰᠯᠡᠬᠦ</unicode>
+      <cyrillic>төслөх</cyrillic>
+      <definition>1. төсөөтэй болох, адил шиг болох; одоо л төсөлж байна;2. &lt;яриа&gt;муухан мэдэх, барагтайхан таних; бичиг төслөх төдийхөн; энэ хүнийг би төслөхгүй юм байна.</definition>
+      <page>552</page>
+    </entry_item>
+  </entries>
+</entry>

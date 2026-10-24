@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O0936a">
+  <head>
+    <unicode>ᠥᠯᠢᠺᠳᠠᠯ</unicode>
+    <transcript>üligdel</transcript>
+    <transcript2>öligdel</transcript2>
+    <cyrillic>үлэгдэл</cyrillic>
+  </head>
+  <related_to>
+    <ref>O0904</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠦᠯᠭᠡᠳᠡᠯ</unicode>
+      <cyrillic>үлэгдэл</cyrillic>
+      <definition>〔名〕参见 үлдэгдэл.</definition>
+      <page>1238</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>үлэгдэл</cyrillic>
+      <definition>= үлдэгдэл</definition>
+      <page>271</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠦᠯᠡᠭᠳᠡᠯ</unicode>
+      <cyrillic>үлэгдэл</cyrillic>
+      <definition>үлдэгдэл.</definition>
+      <page>620</page>
+    </entry_item>
+  </entries>
+</entry>

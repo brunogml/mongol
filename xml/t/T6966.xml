@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6966">
+  <head>
+    <unicode>ᠲᠣᠯᠭᠠᠭᠣᠷᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tulγaγurilaγulqu</transcript>
+    <transcript2>dolgagorilagolgo</transcript2>
+    <cyrillic>тулгуурилуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T6965</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠯᠭᠠᠭᠤᠷᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тулгуурилуулах</cyrillic>
+      <definition>〔动〕тулгуурилах 的使动态.</definition>
+      <page>1111</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠯᠭᠠᠭᠣᠷᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТУЛГУУРИЛУУЛАХ</cyrillic>
+      <definition>тулгуурилах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠯᠭᠠᠭᠤᠷᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тулгуурилуулах</cyrillic>
+      <definition>тулгуурлахын үйлдүүлэх хэв.</definition>
+      <page>556</page>
+    </entry_item>
+  </entries>
+</entry>

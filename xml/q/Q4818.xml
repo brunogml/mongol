@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q4818">
+  <head>
+    <unicode>ᠬᠣᠪᠣᠳᠠᠯ</unicode>
+    <transcript>qobudal</transcript>
+    <transcript2>gobodal</transcript2>
+    <cyrillic>ховдол</cyrillic>
+  </head><see_also>
+    <ref>Q4900</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠪᠣᠳᠠᠯ</unicode>
+      <uighur>qobodal</uighur>
+      <cyrillic>ховдол</cyrillic>
+      <transcript>XOBUDAL</transcript>
+      <definition>n. Pit, ditch, channel; ventricle of the heart.</definition>
+      <page>950</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠢᠷᠦᠺᠡᠨ ᠤ ᠵᠡᠭᠦᠨ ᠬᠣᠪᠣᠳᠠᠯ</unicode>
+          <transcript>ziryken y zegyn -- </transcript>
+          <definition> The left ventricle of the heart.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠪᠤᠳᠠᠯ ~ ᠬᠣᠪᠤᠭᠤ</unicode>
+      <definition>chéneau, auge, seau d'un puits</definition>
+      <page>897</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠪᠤᠳᠠᠯ ᠤᠨ ᠤᠰᠤᠨ</unicode>
+          <definition>eau qui coule dans un chéneau, dans une gouttière</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

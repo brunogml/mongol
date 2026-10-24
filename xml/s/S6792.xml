@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6792">
+  <head>
+    <unicode>ᠱᠥᠮᠪᠥᠶᠢᠺᠥ</unicode>
+    <transcript>šömbüyikü</transcript>
+    <transcript2>sömböyigö</transcript2>
+    <cyrillic>шөмбийх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6791</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠥᠮᠪᠥᠢᠬᠦ</unicode>
+      <cyrillic>шөмбийх</cyrillic>
+      <definition>〔动〕成圆锥形，变尖.</definition>
+      <page>1653</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠥᠮᠪᠥᠶᠢᠺᠥ</unicode>
+      <cyrillic>ШӨМБИЙХ</cyrillic>
+      <definition>становиться конусообразным; становиться остроконечным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шөмбийх</cyrillic>
+      <definition>= шомбойх</definition>
+      <page>390</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠥᠮᠪᠥᠢᠬᠦ</unicode>
+      <cyrillic>шөмбийх</cyrillic>
+      <definition>шөмбөгөр болох.</definition>
+      <page>856</page>
+    </entry_item>
+  </entries>
+</entry>

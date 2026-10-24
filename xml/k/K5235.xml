@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K5235">
+  <head>
+    <unicode>ᠺᠥᠷᠺᠢᠷᠡᠲᠥᠺᠥ</unicode>
+    <transcript>kürkiretükü</transcript>
+    <transcript2>görgiredögö</transcript2>
+    <cyrillic>хүрхрээтэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K5236</ref>
+    <ref>K5234</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠦᠷᠬᠢᠷᠡᠲᠦᠬᠦ</unicode>
+      <cyrillic>хүрхрээтэх</cyrillic>
+      <definition>〔动〕瀑布下泻.</definition>
+      <page>1460</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠷᠺᠢᠷᠡᠲᠥᠺᠥ</unicode>
+      <cyrillic>ХҮРХРЭЭТЭХ</cyrillic>
+      <definition>падать каскадом, водопадом. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠦᠷᠬᠢᠷᠡᠲᠦᠬᠦ</unicode>
+      <cyrillic>хүрхрээтэх</cyrillic>
+      <definition>хүрхрээтэй болох.</definition>
+      <page>748</page>
+    </entry_item>
+  </entries>
+</entry>

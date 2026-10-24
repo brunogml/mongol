@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4349">
+  <head>
+    <unicode>ᠰᠢᠺᠥᠳᠠᠷᠢᠲᠥᠺᠥ</unicode>
+    <transcript>sigüderitükü</transcript>
+    <transcript2>sigöderidögö</transcript2>
+    <cyrillic>шүүдэртэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S4350</ref>
+    <ref>S4348</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠭᠦᠳᠡᠷᠢᠲᠦᠬᠦ</unicode>
+      <cyrillic>шүүдэртэх</cyrillic>
+      <definition>〔动〕降露水，挂露水，下露，结露，露凝.</definition>
+      <page>1668</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠺᠥᠳᠠᠷᠢᠲᠥᠺᠥ</unicode>
+      <cyrillic>ШҮҮДЭРТЭХ</cyrillic>
+      <definition>покрываться росой. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шүүдэртэх</cyrillic>
+      <definition>mit Tau benetzt werden</definition>
+      <page>394</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠭᠦᠳᠡᠷᠢᠲᠦᠬᠦ</unicode>
+      <cyrillic>шүүдэртэх</cyrillic>
+      <definition>шүүдэр унаж тогтох.</definition>
+      <page>863</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S4346</ref>
+  </related_to>
+</entry>

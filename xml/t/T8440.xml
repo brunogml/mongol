@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8440">
+  <head>
+    <unicode>ᠲᠥᠪᠰᠢᠳᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>tübsidegülkü</transcript>
+    <transcript2>döbsidegölgö</transcript2>
+    <cyrillic>түвшдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T8438</ref>
+  </related_to>
+  <see_also>
+    <ref>T8441</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠦᠪᠰᠢᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>түвшдүүлэх</cyrillic>
+      <definition>〔动〕түвшдэх 的使动态.</definition>
+      <page>1127</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠪᠰᠢᠳᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ТҮВШДҮҮЛЭХ</cyrillic>
+      <definition>түвшдэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠦᠪᠰᠢᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>түвшдүүлэх</cyrillic>
+      <definition>түвшдэхийн үйлдүүлэх хэв.</definition>
+      <page>563</page>
+    </entry_item>
+  </entries>
+</entry>

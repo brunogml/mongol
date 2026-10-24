@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A1985">
+  <head>
+    <unicode>ᠠᠳᠠᠯᠢᠰᠢᠬᠣ</unicode>
+    <transcript>adalisiqu</transcript>
+    <transcript2>adalisigo</transcript2>
+    <cyrillic>адилших</cyrillic>
+  </head>
+  <derivatives>
+    <ref>A1987</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠳᠠᠯᠢᠰᠢᠬᠤ</unicode>
+      <cyrillic>адилших</cyrillic>
+      <definition>〔动〕变一致，变相像.</definition>
+      <page>24</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠳᠠᠯᠢᠰᠢᠬᠣ</unicode>
+      <cyrillic>АДИЛШИХ</cyrillic>
+      <definition>приобретать черты сходства, подобия; становиться похожим.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Bawden</dico>
+      <cyrillic>адилших</cyrillic>
+      <definition>"адилших</definition>
+      <page>########to become similar"####6</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠳᠠᠯᠢᠰᠢᠬᠤ</unicode>
+      <cyrillic>адилших</cyrillic>
+      <definition>адил шинжтэй болох, адил байдал орох.</definition>
+      <page>23</page>
+    </entry_item>
+  </entries>
+</entry>

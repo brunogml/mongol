@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2060">
+  <head>
+    <unicode>ᠴᠢᠴᠠᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čičaulaγulqu</transcript>
+    <transcript2>cicaolagolgo</transcript2>
+    <cyrillic>чацуулуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C2059</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <cyrillic>чацуулуулах</cyrillic>
+      <definition>〔动〕чацуулах 的使动态.</definition>
+      <page>1583</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠴᠠᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЧАЦУУЛУУЛАХ</cyrillic>
+      <definition>чацуулах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чацуулуулах</cyrillic>
+      <definition>Kaus von чацуулах</definition>
+      <page>369</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠴᠠᠤᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>чацуулуулах</cyrillic>
+      <definition>чацуулахын үйлдүүлэх хэв.</definition>
+      <page>816</page>
+    </entry_item>
+  </entries>
+</entry>

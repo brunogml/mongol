@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="E0632a">
+  <head>
+    <unicode>ᠠᠲᠠᠩ</unicode>
+    <transcript>eteng</transcript>
+    <transcript2>edeng</transcript2>
+    <cyrillic>ээтэн</cyrillic>
+  </head><see_also>
+    <ref>E1460</ref>
+  
+    <ref>E0632</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠲᠠᠩ</unicode>
+      <uighur>edeng</uighur>
+      <cyrillic>ээтэн</cyrillic>
+      <transcript>ETENG</transcript>
+      <page>335</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠲᠠᠩ ᠭᠤᠲᠤᠯ</unicode>
+          <transcript>-- γutul</transcript>
+          <definition> Boot with upturned toe.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

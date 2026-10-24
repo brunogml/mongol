@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I1300">
+  <head>
+    <unicode>ᠢᠷᠵᠢᠯᠵᠠᠺᠥ</unicode>
+    <transcript>irǰilǰekü</transcript>
+    <transcript2>ircilcegö</transcript2>
+    <cyrillic>иржилзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>I1301</ref>
+  </derivatives>
+  <see_also>
+    <ref>I1299</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠷᠵᠢᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>иржилзэх</cyrillic>
+      <definition>〔動〕参见 иржигнэх.</definition>
+      <page>620</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠷᠵᠢᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>ИРЖИЛЗЭХ</cyrillic>
+      <definition>иржгэнэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠷᠵᠢᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>иржилзэх</cyrillic>
+      <definition>иржгэр юмны иржис иржис хийх.</definition>
+      <page>307</page>
+    </entry_item>
+  </entries>
+</entry>

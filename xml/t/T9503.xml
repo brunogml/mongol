@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9503">
+  <head>
+    <unicode>ᠳᠥᠷᠯᠠᠯᠵᠠᠺᠥ</unicode>
+    <transcript>dürlelǰekü</transcript>
+    <transcript2>dörlelcegö</transcript2>
+    <cyrillic>дүрлэлзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T9504</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠦᠷᠯᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>дүрлэлзэх</cyrillic>
+      <definition>〔动〕参见 дүрлэгнэх.</definition>
+      <page>456</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠥᠷᠯᠠᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>ДҮРЛЭЛЗЭХ</cyrillic>
+      <definition>дүрлэгнэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дүрлэлзэх</cyrillic>
+      <definition>= дүрлэгнэх</definition>
+      <page>102</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠦᠷᠯᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>дүрлэлзэх</cyrillic>
+      <definition>дүрлэгэр амьтны дүрлэс дүрлэс хийх.</definition>
+      <page>218</page>
+    </entry_item>
+  </entries>
+</entry>

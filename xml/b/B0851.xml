@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B0851">
+  <head>
+    <unicode>ᠪᠠᠯᠭᠠᠰᠣᠴᠢ</unicode>
+    <transcript>balγasuči</transcript>
+    <transcript2>balgasoci</transcript2>
+    <cyrillic>балгасч</cyrillic>
+  </head>
+  <variants>
+    <variant type="cyrillic">балгасчин</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠠᠯᠭᠠᠰᠣᠴᠢ</unicode>
+      <uighur>balγasuči</uighur>
+      <cyrillic>балгасч</cyrillic>
+      <transcript>BALГASUCI(N)</transcript>
+      <definition>n. Inhabitant, citizen, townsman.</definition>
+      <page>80</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠠᠯᠭᠠᠰᠣᠴᠢᠨ</unicode>
+      <definition>habitant, citoyen</definition>
+      <page>1078</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠯᠭᠠᠰᠣᠴᠢ</unicode>
+      <cyrillic>БАЛГАСЧ(ИН)</cyrillic>
+      <definition>хуучир. горожанин, житель города.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠯᠭᠠᠰᠤᠴᠢᠨ</unicode>
+      <cyrillic>балгасчин</cyrillic>
+      <definition>〔名〕市民，镇民，城镇居民.</definition>
+      <page>122</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠯᠭᠠᠰᠤᠴᠢ</unicode>
+      <cyrillic>балгасч</cyrillic>
+      <definition>〔名〕见 балгасчин.</definition>
+      <page>122</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5939">
+  <head>
+    <unicode>ᠳᠣᠬᠣᠶᠢᠯᠭᠠᠬᠣ</unicode>
+    <transcript>duquyilγaqu</transcript>
+    <transcript2>dogoyilgago</transcript2>
+    <cyrillic>духайлгах</cyrillic>
+  </head>
+  <see_also>
+    <ref>T5938</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠤᠬᠤᠢᠯᠭᠠᠬᠤ</unicode>
+      <cyrillic>духайлгах</cyrillic>
+      <definition>〔动〕духайх 的使动态.</definition>
+      <page>451</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠬᠣᠶᠢᠯᠭᠠᠬᠣ</unicode>
+      <cyrillic>ДУХАЙЛГАХ</cyrillic>
+      <definition>духайх-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠤᠬᠤᠢᠯᠭᠠᠬᠤ</unicode>
+      <cyrillic>духайлгах</cyrillic>
+      <definition>духайхын үйлдүүлэх хэв.</definition>
+      <page>215</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T5920</ref>
+  </related_to>
+</entry>

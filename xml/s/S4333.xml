@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4333">
+  <head>
+    <unicode>ᠰᠢᠺᠢᠷᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>sikirlegülkü</transcript>
+    <transcript2>sigirlegölgö</transcript2>
+    <cyrillic>чихэрлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S4332</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <cyrillic>чихэрлүүлэх</cyrillic>
+      <definition>〔动〕чихэрлэх 的使动态.</definition>
+      <page>1593</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠺᠢᠷᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЧИХЭРЛҮҮЛЭХ</cyrillic>
+      <definition>чихэрлэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чихэрлүүлэх</cyrillic>
+      <definition>Kaus von чихэрлэх</definition>
+      <page>373</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠬᠢᠷᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>чихэрлүүлэх</cyrillic>
+      <definition>чихэрлэхийн үйлдүүлэх хэв.</definition>
+      <page>822</page>
+    </entry_item>
+  </entries>
+</entry>

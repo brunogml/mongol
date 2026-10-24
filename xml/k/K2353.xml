@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K2353">
+  <head>
+    <unicode>ᠺᠢᠮᠰᠠᠶᠢᠬᠣ</unicode>
+    <transcript>kimsayiqu</transcript>
+    <transcript2>gimsayigo</transcript2>
+    <cyrillic>хямсайх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K2355</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠢᠮᠰᠠᠢᠬᠤ</unicode>
+      <cyrillic>хямсайх</cyrillic>
+      <definition>〔动〕傲慢，自高自大，目中无人.</definition>
+      <page>1502</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠮᠰᠠᠶᠢᠬᠣ</unicode>
+      <cyrillic>ХЯМСАЙХ</cyrillic>
+      <definition>быть надменным, кичливым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хямсайх</cyrillic>
+      <definition>sich hochmütig benehmen</definition>
+      <page>348</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠢᠮᠰᠠᠢᠬᠤ</unicode>
+      <cyrillic>хямсайх</cyrillic>
+      <definition>хямсгар байдал илрэх, ярвайж их зан гаргах.</definition>
+      <page>772</page>
+    </entry_item>
+  </entries>
+</entry>

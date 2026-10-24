@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K0372">
+  <head>
+    <unicode>ᠺᠠᠪᠰᠢᠯ</unicode>
+    <transcript>kebsil</transcript>
+    <transcript2>gebsil</transcript2>
+    <cyrillic>хэвшил</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠠᠪᠰᠢᠯ</unicode>
+      <uighur>kebsil</uighur>
+      <cyrillic>хэвшил</cyrillic>
+      <transcript>KEBSIL</transcript>
+      <definition>n. Routine, customs, tradition; structure.</definition>
+      <page>439</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠮᠢᠳᠤᠷᠠᠯ ᠤᠨ ᠺᠠᠪᠰᠢᠯ</unicode>
+          <transcript>amidural un --</transcript>
+          <definition> Tenor of life.</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠡᠶᠢᠭᠡᠮ ᠵᠢᠷᠤᠮ ᠤᠨ ᠺᠠᠪᠰᠢᠯ</unicode>
+          <transcript>neigem zirum un --</transcript>
+          <definition> Socialist structure.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠪᠰᠢᠯ</unicode>
+      <cyrillic>хэвшил</cyrillic>
+      <definition>〔名〕①习俗，习惯，惯例；常规：нийгэм журмын ~ 社会主义制度；◊ дадал ~, заншил ~ 风俗，习惯，惯例，习俗；②（惯常的）方式，形态：амьдралын ~ 生活方式；③（固定的）结构；制度.</definition>
+      <page>1472</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠪᠰᠢᠯ</unicode>
+      <cyrillic>ХЭВШИЛ</cyrillic>
+      <definition>уклад; обиход; типичность; амьдралын хэвшил уклад жизни; нийгэм журмын хэвшил социалистический уклад; хэвшил болох войти в обиход. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠪᠰᠢᠯ</unicode>
+      <cyrillic>хэвшил</cyrillic>
+      <definition>хэвших үйлийн нэр;дадал хэвшил&lt;хорш&gt;;заншил хэвшил&lt;хорш&gt;; амьдралын хэвшил; нийгмийн хэвшил.</definition>
+      <page>755</page>
+    </entry_item>
+  </entries>
+</entry>

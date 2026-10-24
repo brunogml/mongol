@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N0018">
+  <head>
+    <unicode>ᠨᠠᠨᠴᠢᠬᠳᠠᠬᠣ</unicode>
+    <transcript>nančiγdaqu</transcript>
+    <transcript2>nancigdago</transcript2>
+    <cyrillic>нанчигдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>N0016</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠠᠨᠴᠢᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>нанчигдах</cyrillic>
+      <definition>〔動〕нанчих 的被动.</definition>
+      <page>729</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠨᠴᠢᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>НАНЧИГДАХ</cyrillic>
+      <definition>нанчих-ийн үйлдэгд., быть избитым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠠᠨᠴᠢᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>нанчигдах</cyrillic>
+      <definition>нанчихын үйлдэгдэх хэв. нанчигдуулах.</definition>
+      <page>369</page>
+    </entry_item>
+  </entries>
+</entry>

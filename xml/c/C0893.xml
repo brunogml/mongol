@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0893">
+  <head>
+    <unicode>ᠴᠠᠪ</unicode>
+    <transcript>čeb</transcript>
+    <transcript2>ceb</transcript2>
+    <cyrillic>цэв</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠪ</unicode>
+      <uighur>čeb</uighur>
+      <cyrillic>цэв</cyrillic>
+      <transcript>CEB</transcript>
+      <definition>intensifying particle used before certain adjectives and adverbs beginning with the syllable ce,</definition>
+      <page>167</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠠᠪ ᠴᠡᠭᠡᠨ</unicode>
+          <transcript>-- cegen</transcript>
+          <definition>Entirely white or light.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠠᠪ ᠴᠡᠩᠺᠡᠷ</unicode>
+          <transcript>-- cengker</transcript>
+          <definition>Very light blue.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠡᠪ</unicode>
+      <definition>particule pour renforcer la signification du mot qui la suit.</definition>
+      <page>2118</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠡᠪ ᠴᠡᠭᠡᠨ</unicode>
+          <definition>tout à fait blanchâtre</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠪ</unicode>
+      <cyrillic>цэв</cyrillic>
+      <definition>〔小〕（用于某些形容词前，表示程度的加深）很，完全，十分，特别，格外：~ цэвэр 很清洁的，干干净净的；~ хүйтэн 很冷的，冷得刺骨的.</definition>
+      <page>1559</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠪ</unicode>
+      <cyrillic>ЦЭВ</cyrillic>
+      <definition>цэ-гээр эхлэсэн үгэнд хүч нэмэгдүүлэх сул үг (усилительная частица к словам с начальным “цэ”); совсем, совершенно, исключительно; цэв хийж засах приодеться, привести себя в порядок; цэв хийж чимэх приукраситься, принарядиться; цэв хүйтэн холодно до того, что дыхание перехватывает; заледенелый; студёный; цэв хүйтэн болох заледенеть; цэв хүйтэн гар заледенелые руки; цэв хүйтэн ус студёная вода; цэв цэвдэг совсем холодный; цэв цэвэр исключительно чистый; цэв цэгээн совсем белый; цэв цэнхэр совершенно голубой; сум шиг цэв цэх прямая как стрела; цэв цэв хийж аккуратно, чисто, так, что приятно посмотреть.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠪ</unicode>
+      <cyrillic>цэв</cyrillic>
+      <definition>хүч нэмэгдүүлэх үг; цэв цэвэр; цэв цэнхэр; цэв цэгээн; цэв хүйтэн.</definition>
+      <page>803</page>
+    </entry_item>
+  </entries>
+</entry>

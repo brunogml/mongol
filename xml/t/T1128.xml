@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1128">
+  <head>
+    <unicode>ᠲᠠᠪᠣᠯᠠᠬᠣ</unicode>
+    <transcript>tabulaqu</transcript>
+    <transcript2>dabolago</transcript2>
+    <cyrillic>тавлах</cyrillic>
+  </head>
+  <see_also>
+    <ref>T0989</ref>
+    <ref>T1262</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠪᠤᠯᠠᠬᠤ ~ ᠳᠠᠪᠠᠯᠠᠬᠤ</unicode>
+      <definition>s'élever, s'agiter fortement: 2 bouillonner.</definition>
+      <page>1604</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠪᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ТАВЛАХ</cyrillic>
+      <definition>IV тогл. ходљть по пять (при игре в карты). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠪᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ТАВЛАХ</cyrillic>
+      <definition>V штрафовать пятью (скотинами), пятком. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠪᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>тавлах /4</cyrillic>
+      <definition>хөзөр тоглоход таван ширхгээр гаргах.</definition>
+      <page>512</page>
+    </entry_item>
+  </entries>
+</entry>

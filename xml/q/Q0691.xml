@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0691">
+  <head>
+    <unicode>ᠬᠠᠭᠣᠳᠠᠰᠣᠷᠠᠬᠣ</unicode>
+    <transcript>qaγudasuraqu</transcript>
+    <transcript2>gagodasorago</transcript2>
+    <cyrillic>хуудасрах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠭᠤᠳᠠᠰᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>хуудасрах</cyrillic>
+      <definition>〔动〕成页，成张，成幅.</definition>
+      <page>1442</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠭᠣᠳᠠᠰᠣᠷᠠᠬᠣ</unicode>
+      <cyrillic>ХУУДАСРАХ</cyrillic>
+      <definition>слоиться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠭᠤᠳᠠᠰᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>хуудасрах</cyrillic>
+      <definition>хуудас болох.</definition>
+      <page>737</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q0690</ref>
+  </related_to>
+</entry>

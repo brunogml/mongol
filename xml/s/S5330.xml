@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5330">
+  <head>
+    <unicode>ᠱᠣᠭᠣᠮᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šuγumdaγulqu</transcript>
+    <transcript2>sogomdagolgo</transcript2>
+    <cyrillic>шугамдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S5329</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠤᠭᠤᠮᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шугамдуулах</cyrillic>
+      <definition>〔动〕шугамдах 的使动态.</definition>
+      <page>1656</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠭᠣᠮᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШУГАМДУУЛАХ</cyrillic>
+      <definition>шугамдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шугамдуулах</cyrillic>
+      <definition>Kaus von шугамдах</definition>
+      <page>391</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠤᠭᠤᠮᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шугамдуулах</cyrillic>
+      <definition>шугамдахын үйлдүүлэх хэв.</definition>
+      <page>858</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B4638">
+  <head>
+    <unicode>ᠪᠥᠺᠠᠰᠥᠲᠠᠺᠥ</unicode>
+    <transcript>bögesütekü</transcript>
+    <transcript2>bögesödegö</transcript2>
+    <cyrillic>бөөстөх</cyrillic>
+  </head>
+  <see_also>
+    <ref>B4641</ref>
+  </see_also>
+  <derivatives>
+    <ref>B4639</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠥᠺᠠᠰᠥᠳᠺᠥ</unicode>
+      <uighur>bögesüdkü</uighur>
+      <cyrillic>бөөстөх</cyrillic>
+      <transcript>BØGESYD[E]-</transcript>
+      <definition>v, i. To become infested by lice.</definition>
+      <page>125</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠥᠺᠠᠰᠥᠳᠦᠭᠰᠡᠨ</unicode>
+          <transcript>--ygsen</transcript>
+          <definition>Lousy.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бөөсдөх, бөөстөх</cyrillic>
+      <definition>verlausen</definition>
+      <page>59</page>
+    </entry_item>
+  </entries>
+</entry>

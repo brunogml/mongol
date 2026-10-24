@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7505">
+  <head>
+    <unicode>ᠲᠣᠶᠢᠬᠳᠠᠬᠣ</unicode>
+    <transcript>toyiγdaqu</transcript>
+    <transcript2>doyigdago</transcript2>
+    <cyrillic>тойгдох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T7506</ref>
+    <ref>T7507</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠢᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>тойгдох</cyrillic>
+      <definition>〔动〕〈体〉背摔（摔跤术）.</definition>
+      <page>1061</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠶᠢᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТОЙГДОХ</cyrillic>
+      <definition>б.т. повалљть протљвника (один из приёмов в национальной борьбе). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠢᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>тойгдох</cyrillic>
+      <definition>барилдахад гараар ачих нэгэн зүйл мэх.</definition>
+      <page>536</page>
+    </entry_item>
+  </entries>
+</entry>

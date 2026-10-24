@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1207">
+  <head>
+    <unicode>ᠣᠰᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>osuγulqu</transcript>
+    <transcript2>osogolgo</transcript2>
+    <cyrillic>осгуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U1204</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠰᠣᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>осгуулах</cyrillic>
+      <definition>〔动〕осгох 的使动态.</definition>
+      <page>825</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠰᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ОСГУУЛАХ</cyrillic>
+      <definition>осгох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠰᠣᠭᠣᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>осгуулах</cyrillic>
+      <definition>осгохын үйлдүүлэх хэв.</definition>
+      <page>426</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q7020">
+  <head>
+    <unicode>ᠬᠣᠷᠣᠬᠳᠠᠬᠣ</unicode>
+    <transcript>qoruγdaqu</transcript>
+    <transcript2>gorogdago</transcript2>
+    <cyrillic>хорогдох</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q7005</ref>
+  </related_to>
+  <derivatives>
+    <ref>Q7022</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠷᠣᠬᠳᠠᠬᠣ</unicode>
+      <uighur>qoroqdaqu</uighur>
+      <cyrillic>хорогдох</cyrillic>
+      <transcript>XORUΓDA-</transcript>
+      <definition>[v. pass . of xoru-] To be diminished, to decrease in quantity; to fall (as prices); to die, perish</definition>
+      <page>969</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠶᠢᠨ ᠳ᠋‍‍ᠤ‍ᠷ ᠬᠣᠷᠣᠬᠳᠠᠬᠣ</unicode>
+          <transcript>dain dur --xu</transcript>
+          <definition> To be killed in a war.</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠠᠯ ᠬᠣᠷᠣᠬᠳᠠᠬᠣ</unicode>
+          <transcript>mal --xu</transcript>
+          <definition> [For the number of] cattle to decrease.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠷᠣᠬᠳᠠᠬᠤ</unicode>
+      <definition>diminuer, être diminué. amoindri</definition>
+      <page>967</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠣᠷᠣᠬᠳᠠᠬᠣ</unicode>
+      <uighur>quroqdaqu</uighur>
+      <definition>sieb vermindern, kleiner oder weniger werden.</definition>
+      <page>171</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠣᠷᠣᠬᠳᠠᠬᠣ</unicode>
+      <uighur>quruqdaqu</uighur>
+      <definition>To suffer loss. To be spoiled.</definition>
+      <page>670</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠣᠷᠣᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>хорогдох</cyrillic>
+      <definition>〔动〕хорох /1 的被动态；减少，削减，缩减，缩小；亏损，损失，损耗，打折扣：нөөц бэлтгэл ~ 储备减少.</definition>
+      <page>1372</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠷᠣᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ХОРОГДОХ</cyrillic>
+      <definition>хорох-ын үйлдэгд., 1. 1) уменьшаться, убавляться, убывать; сокращаться, снижаться (количественно); лам нарын тоо хорогдов количество лам сократилось; 2) погибать, умирать; быть убитым; үхэж хорогдох умирать, погибать; үхэх хорогдох цөөрөв снизилась гибель, потеря (напр. скота); снизилась смертность; 2. хорогдохуй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠷᠣᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ХОРОГДОХУЙ</cyrillic>
+      <definition>убыль. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хорогдох</cyrillic>
+      <definition>1. Schutz od Zuflucht suchen, sich verbergen od verstecken (in, bei -д; vor -aaс); ~ байр[ан] Unterstand m; Bunker m; ~ газар Asyl n, Zufluchtsort m; Versteck n; бороонос ~ vor dem Regen Schutz suchen
+2. übertr hängen (an -д); гэртээ ~ an seinem Zuhause hängen</definition>
+      <page>311</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠷᠣᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>хорогдох</cyrillic>
+      <definition>хорохын үйлдэгдэх хэв, хасагдах, цөөрөх; нөөц бэлтгэл хорогдох.</definition>
+      <page>696</page>
+    </entry_item>
+  </entries>
+</entry>

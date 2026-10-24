@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1700">
+  <head>
+    <unicode>ᠣᠯᠢᠬᠳᠠᠬᠣ</unicode>
+    <transcript>oliγdaqu</transcript>
+    <transcript2>oligdago</transcript2>
+    <cyrillic>олигдох</cyrillic>
+  </head>
+  <related_to>
+    <ref>U1694</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠯᠢᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>олигдох</cyrillic>
+      <definition>〔动〕олих 的被动态.</definition>
+      <page>799</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠯᠢᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ОЛИГДОХ</cyrillic>
+      <definition>олих-ын үйлдэгд., олиулах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠯᠢᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>олигдох</cyrillic>
+      <definition>олихын үйлдэгдэх хэв.</definition>
+      <page>412</page>
+    </entry_item>
+  </entries>
+</entry>

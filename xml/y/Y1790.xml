@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1790">
+  <head>
+    <unicode>ᠵᠠᠷᠢᠮᠳᠣᠬᠯᠠᠬᠣ</unicode>
+    <transcript>ǰarimduγlaqu</transcript>
+    <transcript2>yarimdoglago</transcript2>
+    <cyrillic>заримдаглах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1791</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠠᠷᠢᠮᠳᠣᠬᠯᠠᠬᠣ</unicode>
+      <uighur>ǰarimdoqlaqu</uighur>
+      <cyrillic>заримдаглах</cyrillic>
+      <transcript>ZARIMDUΓLA-</transcript>
+      <definition>v t. To do something hallway or in part; to know in part.</definition>
+      <page>1038</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠷᠢᠮᠳᠤᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>заримдаглах</cyrillic>
+      <definition>〔动〕使之残缺，使之不完全；使之成一半：юм хийхдээ битгий заримдаглаад бай 做事可不能半途而废.</definition>
+      <page>547</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠷᠢᠮᠳᠣᠬᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЗАРИМДАГЛАХ</cyrillic>
+      <definition>делать наполовину, не до конца, кое-как. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠷᠢᠮᠳᠤᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>заримдаглах</cyrillic>
+      <definition>хагас дутуу болгож орхих, зэмдэглэх; ажлаа заримдаглаад орхижээ.</definition>
+      <page>268</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Y1789</ref>
+  </related_to>
+</entry>

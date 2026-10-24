@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I1210">
+  <head>
+    <unicode>ᠢᠷᠪᠠᠯᠳᠣᠬᠣ</unicode>
+    <transcript>irbalduqu</transcript>
+    <transcript2>irbaldogo</transcript2>
+    <cyrillic>ярвалдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>I1211</ref>
+    <ref>I1212</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠷᠪᠠᠯᠳᠤᠬᠤ</unicode>
+      <cyrillic>ярвалдах</cyrillic>
+      <definition>〔动〕参见 яравганах.</definition>
+      <page>1757</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠷᠪᠠᠯᠳᠣᠬᠣ</unicode>
+      <cyrillic>ЯРВАЛДАХ</cyrillic>
+      <definition>яриа. ярвайлдах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>ярвалдах,</cyrillic>
+      <definition>ярвалзах = ярваганах</definition>
+      <page>415</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠯᠪᠠᠯᠳᠠᠬᠤ</unicode>
+      <cyrillic>ярвалдах</cyrillic>
+      <definition>ярвалзах.</definition>
+      <page>909</page>
+    </entry_item>
+  </entries>
+</entry>

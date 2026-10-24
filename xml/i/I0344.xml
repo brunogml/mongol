@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I0344">
+  <head>
+    <unicode>ᠢᠳᠠᠪᠺᠢᠯᠠᠺᠥ</unicode>
+    <transcript>idebkilekü</transcript>
+    <transcript2>idebgilegö</transcript2>
+    <cyrillic>идэвхлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>I0345</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠢᠳᠠᠪᠺᠢᠯᠠᠺᠥ</unicode>
+      <uighur>idebkilekü</uighur>
+      <cyrillic>идэвхийлэх</cyrillic>
+      <transcript>IDEBKILE-</transcript>
+      <definition>v.i. To put in effort, exert oneself; to act energetically, work with zest, work deftly or energetically.</definition>
+      <page>399</page>
+      <examples>
+        <example>
+          <unicode>ᠢᠳᠠᠪᠺᠢᠯᠠᠨ</unicode>
+          <transcript>--n </transcript>
+          <definition>Actively, energetically, strenuously</definition>
+        </example>
+        <example>
+          <unicode>ᠢᠳᠠᠪᠺᠢᠯᠠᠨ ᠲᠠᠭᠤᠯᠢᠬᠤ</unicode>
+          <transcript>--n taγulixu</transcript>
+          <definition> To attack swiftly, fall upon (an enemy).</definition>
+        </example>
+        <example>
+          <unicode>ᠢᠳᠠᠪᠺᠢᠯᠠᠨ ᠬᠠᠮᠠᠭᠠᠯᠠᠬᠤ</unicode>
+          <transcript>--n xamaγalaxu</transcript>
+          <definition> To protect zealously.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠢᠳᠡᠪᠺᠢᠯᠡᠺᠦ</unicode>
+      <definition>faire quelque chose vite, rapidement, avecsuccès; agir décisivement</definition>
+      <page>286</page>
+      <examples>
+        <example>
+          <unicode>ᠢᠳᠡᠪᠺᠢᠯᠡᠨ ᠵᠠᠭᠠᠷᠠᠬᠤ</unicode>
+          <definition>se hàter, se presser, se dépêcher.</definition>
+        </example>
+        <example>
+          <unicode>ᠢᠳᠡᠪᠺᠢᠯᠡᠨ ᠶᠠᠪᠤᠬᠤ</unicode>
+          <definition>aller vite, promptement, se dépécher.</definition>
+        </example>
+        <example>
+          <unicode>ᠢᠳᠡᠪᠺᠢᠯᠡᠺᠦ ᠦᠢᠯᠡ</unicode>
+          <definition>invasion, incursion soudaine.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠳᠡᠪᠬᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>идэвхлэх</cyrillic>
+      <definition>〔动〕积极，主动.</definition>
+      <page>603</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠳᠠᠪᠺᠢᠯᠠᠺᠥ</unicode>
+      <cyrillic>ИДЭВХЛЭХ</cyrillic>
+      <definition>идэвхийлэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠳᠡᠪᠬᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>идэвхийлэх</cyrillic>
+      <definition>идэвхлэх, идэвх чармайлт гаргах; идэвхийлэн оролцох.</definition>
+      <page>300</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠳᠡᠪᠬᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>идэвхлэх</cyrillic>
+      <definition>үйл явдалд санаа тавин хичээх, чармайх; идэвхлэн оролцох.</definition>
+      <page>300</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>I0332</ref>
+  </related_to>
+</entry>

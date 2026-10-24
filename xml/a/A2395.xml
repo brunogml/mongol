@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A2395">
+  <head>
+    <unicode>ᠠᠯᠣᠰᠬᠣ</unicode>
+    <transcript>alusqu</transcript>
+    <transcript2>alosgo</transcript2>
+    <cyrillic>алсах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠯᠣᠰᠬᠤ</unicode>
+      <definition>passer au delà, traverser</definition>
+      <page>79</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠭᠤᠯᠠ ᠠᠯᠤᠰᠪᠠ</unicode>
+          <definition>il traversa la montagne.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠯᠤᠰᠬᠤ</unicode>
+      <cyrillic>алсах</cyrillic>
+      <definition>〔动〕越过，飞越：уул ~ （动物或云雾等）越过山顶.</definition>
+      <page>44</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠯᠣᠰᠬᠣ</unicode>
+      <cyrillic>АЛСАХ</cyrillic>
+      <definition>перешагнуть, переступать, переходить, проходить мимо; уул алсах перейти (через) гору.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

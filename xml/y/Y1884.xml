@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1884">
+  <head>
+    <unicode>ᠵᠠᠷᠮ ᠠ</unicode>
+    <transcript>ǰarm-a</transcript>
+    <transcript2>yarm-a</transcript2>
+    <cyrillic>зарам</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠠᠷᠮ᠎ᠠ</unicode>
+      <uighur>ǰarm-a</uighur>
+      <cyrillic>зарам - зарма</cyrillic>
+      <transcript>ZARM-A</transcript>
+      <definition>[= zarm-a] n. Groats, grits, bran; fine meal.</definition>
+      <page>1038</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠠᠷᠮ᠎ᠠ ᠬᠣᠷᠤᠬᠠᠢ</unicode>
+          <transcript>-- xoruxai</transcript>
+          <definition>Bookworm (also fig.).</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠠᠷᠮ᠎ᠠ ᠵᠢᠭᠠᠰᠤ</unicode>
+          <transcript>-- ziγasu</transcript>
+          <definition>Small fish, fry, smelt, sparling, gudgeon.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠠᠷᠮ᠎ᠠ</unicode>
+      <definition>les grumeaux qui sortent des grains pillés et émondés, et ceux qui restent de la farine tamisée. Lex. msc,</definition>
+      <page>2308</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠠᠷᠮ᠎ᠠ ᠵᠢᠭᠠᠰᠤᠨ</unicode>
+          <definition>petit poisson; éperlan</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠵᠠᠷᠮ ᠠ</unicode>
+      <uighur>ǰarm-a</uighur>
+      <definition>n. Groats, grits. Peeled grain</definition>
+      <page>1196</page>
+      <examples>
+        <example>
+          <uighur>ǰarm-a ǰiγasu</uighur>
+          <definition>n. The spoon-smelt, a very small fish</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠷᠮ ᠠ</unicode>
+      <cyrillic>ЗАРАМ</cyrillic>
+      <definition>I отруби (из рисовой крупы); мучные высевки; буурцгийн зарам гороховая мука; гурилын зарам отходы от просеянной муки; зарам гол охвостье, остатки от очистки зерна; † шүүс зарам болгох хэлц. измолотить кого-л.; стереть в порошок кого-л.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠷᠮ ᠠ</unicode>
+      <cyrillic>ЗАРАМ</cyrillic>
+      <definition>II: зарам хорхой амьт. книжный червь.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠷᠮ ᠠ</unicode>
+      <cyrillic>ЗАРАМ</cyrillic>
+      <definition>III: зарам загас / зарам жараахай загас. мелкие рыбы, мальки.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠷᠮ ᠠ</unicode>
+      <cyrillic>ЗАРАМ</cyrillic>
+      <definition>IV ург. лён; зарам маалинга ург. лен культурный; льны стелющиеся; дикие родичи льна долгунца, кудряша.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠷᠮ᠎ᠠ᠊ᠨ</unicode>
+      <cyrillic>зарам /1</cyrillic>
+      <definition>маш бүдүүн ширхэгтэй гурил, нүдэж тээрэмдсэн амуу тарианы талхарч чадаагүй бүдүүн ширхэгтэй байгаа нь: гурилын зарам.</definition>
+      <page>267</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠷᠮ᠎ᠠ</unicode>
+      <cyrillic>зарам /2</cyrillic>
+      <definition>&lt;амьтан&gt;загас хэлбэртэй, цаас иддэг нэгэн зүйл хорхой; зарам хорхой.</definition>
+      <page>268</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠷᠮ᠎ᠠ</unicode>
+      <cyrillic>зарам /3</cyrillic>
+      <definition>&lt;амьтан&gt;жижиг загас жараахай; зарам загас.</definition>
+      <page>268</page>
+    </entry_item>
+  </entries>
+</entry>

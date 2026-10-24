@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B3040">
+  <head>
+    <unicode>ᠪᠣᠳᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>budaraγulqu</transcript>
+    <transcript2>bodaragolgo</transcript2>
+    <cyrillic>будруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B3038</ref>
+  </related_to>
+  <see_also>
+    <ref>B3039</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠤᠳᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>будруулах</cyrillic>
+      <definition>〔动〕будрах 的使动态.</definition>
+      <page>197</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠳᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БУДРУУЛАХ</cyrillic>
+      <definition>будрах-ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠳᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>будруулах</cyrillic>
+      <definition>будрахын үйлдүүлэх хэв.</definition>
+      <page>103</page>
+    </entry_item>
+  </entries>
+</entry>

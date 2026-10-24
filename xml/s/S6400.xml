@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6400">
+  <head>
+    <unicode>ᠰᠣᠸᠠᠮᠫᠠᠨᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sovampendaγulqu</transcript>
+    <transcript2>sovampendagolgo</transcript2>
+    <cyrillic>сампиндуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S6399</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠸᠠᠨᠫᠠᠨᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сампиндуулах</cyrillic>
+      <definition>〔动〕сампиндах 的使动态.</definition>
+      <page>907</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠸᠠᠮᠫᠠᠨᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>САМПИНДУУЛАХ</cyrillic>
+      <definition>сампиндах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сампиндуулах</cyrillic>
+      <definition>Kaus von сампиндах</definition>
+      <page>193</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠸᠠᠮᠫᠠᠨᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сампиндуулах</cyrillic>
+      <definition>сампиндахын үйлдүүлэх хэв.</definition>
+      <page>466</page>
+    </entry_item>
+  </entries>
+</entry>

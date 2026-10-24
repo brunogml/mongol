@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2452">
+  <head>
+    <unicode>ᠴᠣᠣᠺᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čougiγulqu</transcript>
+    <transcript2>coogigolgo</transcript2>
+    <cyrillic>цуугиулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C2451</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠤᠤᠭᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цуугиулах</cyrillic>
+      <definition>〔动〕цуугих 的使动态.</definition>
+      <page>1553</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠣᠺᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦУУГИУЛАХ</cyrillic>
+      <definition>цуугих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цуугиулах</cyrillic>
+      <definition>Kaus von цуугих</definition>
+      <page>361</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠤᠤᠭᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цуугиулах</cyrillic>
+      <definition>цуугихын үйлдүүлэх хэв.</definition>
+      <page>800</page>
+    </entry_item>
+  </entries>
+</entry>

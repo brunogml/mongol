@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I1270">
+  <head>
+    <unicode>ᠢᠷᠮᠠᠺᠳᠠᠺᠥ</unicode>
+    <transcript>irmegdekü</transcript>
+    <transcript2>irmegdegö</transcript2>
+    <cyrillic>ирмэгдэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>I1263</ref>
+  </related_to>
+  <derivatives>
+    <ref>I1271</ref>
+    <ref>I1269</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠷᠮᠡᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>ирмэгдэх</cyrillic>
+      <definition>〔动〕抵住边沿，置于边沿，固定于边沿：~ж эргэх 〈体〉急转弯.</definition>
+      <page>620</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠷᠮᠠᠺᠳᠠᠺᠥ</unicode>
+      <cyrillic>ИРМЭГДЭХ</cyrillic>
+      <definition>опираться, держаться за край, борт, грань чего-л. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠷᠮᠡᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>ирмэгдэх</cyrillic>
+      <definition>ирмэгт тулах, тогтох, онох.</definition>
+      <page>307</page>
+    </entry_item>
+  </entries>
+</entry>

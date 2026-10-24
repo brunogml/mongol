@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S3809">
+  <head>
+    <unicode>ᠰᠢᠳᠯᠠᠬᠣ</unicode>
+    <transcript>sidlaqu</transcript>
+    <transcript2>sidlago</transcript2>
+    <cyrillic>шадлах</cyrillic>
+  </head><derivatives>
+    <ref>S3810</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠳᠯᠠᠬᠤ</unicode>
+      <cyrillic>шадлах</cyrillic>
+      <definition>〔动〕划分（藏文经典的）句续符号，分诗行.</definition>
+      <page>1609</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠳᠯᠠᠬᠣ</unicode>
+      <cyrillic>ШАДЛАХ</cyrillic>
+      <definition>поставить точку, отделить. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1004">
+  <head>
+    <unicode>ᠭᠠᠪᠢᠶᠠᠲᠠᠨ</unicode>
+    <transcript>γabiyatan</transcript>
+    <transcript2>gabiyadan</transcript2>
+    <cyrillic>гавъяатан</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠪᠢᠶᠠᠲᠠᠨ</unicode>
+      <cyrillic>ГАВЪЯАТАН</cyrillic>
+      <definition>заслуженный, доблестный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠠᠪᠢᠶᠠᠲᠠᠨ</unicode>
+      <cyrillic>гавьяатан</cyrillic>
+      <definition>гавьяа бүхий хүмүүс; алдар гавьяатан.</definition>
+      <page>129</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q1000</ref>
+  </related_to>
+</entry>

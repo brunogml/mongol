@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I0199">
+  <head>
+    <unicode>ᠢᠪᠠᠷᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>iberegülkü</transcript>
+    <transcript2>iberegölgö</transcript2>
+    <cyrillic>иврүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>I0198</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠪᠡᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>иврүүлэх</cyrillic>
+      <definition>〔动〕иврэх 的使动态.</definition>
+      <page>601</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠪᠠᠷᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ИВРҮҮЛЭХ</cyrillic>
+      <definition>иврэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>иврүүлэх</cyrillic>
+      <definition>Kaus von иврэх</definition>
+      <page>132</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠪᠡᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>иврүүлэх</cyrillic>
+      <definition>иврэхийн үйлдүүлэх хэв, иврэхэд хүрүүлэх.</definition>
+      <page>298</page>
+    </entry_item>
+  </entries>
+</entry>

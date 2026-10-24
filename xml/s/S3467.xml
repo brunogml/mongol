@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3467">
+  <head>
+    <unicode>ᠰᠢᠪᠠᠯᠳᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sibalduγulqu</transcript>
+    <transcript2>sibaldogolgo</transcript2>
+    <cyrillic>шавалдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S3466</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠪᠠᠯᠳᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шавалдуулах</cyrillic>
+      <definition>〔动〕шавалдах 的使动态.</definition>
+      <page>1603</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠪᠠᠯᠳᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАВАЛДУУЛАХ</cyrillic>
+      <definition>шавалдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠪᠠᠯᠳᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шавалдуулах</cyrillic>
+      <definition>шавалдахын үйлдүүлэх хэв.</definition>
+      <page>827</page>
+    </entry_item>
+  </entries>
+</entry>

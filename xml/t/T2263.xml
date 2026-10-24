@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2263">
+  <head>
+    <unicode>ᠳᠠᠺᠢᠬᠣ</unicode>
+    <transcript>dagiqu</transcript>
+    <transcript2>dagigo</transcript2>
+    <cyrillic>дагих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T2266</ref>
+    <ref>T2303</ref>
+  </derivatives>
+  <see_also>
+    <ref>T2262</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠭᠢᠬᠤ</unicode>
+      <cyrillic>дагих</cyrillic>
+      <definition>〔动〕过分使役或常骑而使马疲劳、困惫.</definition>
+      <page>373</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠺᠢᠬᠣ</unicode>
+      <cyrillic>ДАГИХ</cyrillic>
+      <definition>заездить, измучить постоянной ездой (лошадь). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дагих</cyrillic>
+      <definition>schinden; Pferd zuschanden reiten</definition>
+      <page>88</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠭᠢᠬᠤ</unicode>
+      <cyrillic>дагих</cyrillic>
+      <definition>унаа малыг хэтэрхий давтан эдлэх,дан морио дагиж хэрэггүй.</definition>
+      <page>179</page>
+    </entry_item>
+  </entries>
+</entry>

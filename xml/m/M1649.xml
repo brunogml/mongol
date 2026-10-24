@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1649">
+  <head>
+    <unicode>ᠮᠣᠩᠬᠣᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>mongqulǰaγulqu</transcript>
+    <transcript2>monggolcagolgo</transcript2>
+    <cyrillic>монхолзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>M1648</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠣᠩᠬᠣᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>монхолзуулах</cyrillic>
+      <definition>〔动〕монхолзох 的使动态.</definition>
+      <page>679</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠩᠬᠣᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>МОНХОЛЗУУЛАХ</cyrillic>
+      <definition>монхолзох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠣᠩᠬᠣᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>монхолзуулах</cyrillic>
+      <definition>монхолзохын үйлдүүлэх хэв.</definition>
+      <page>341</page>
+    </entry_item>
+  </entries>
+</entry>

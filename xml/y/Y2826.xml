@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y2826">
+  <head>
+    <unicode>ᠵᠢᠰᠢᠶᠠᠯᠠᠬᠣ</unicode>
+    <transcript>ǰisiyalaqu</transcript>
+    <transcript2>yisiyalago</transcript2>
+    <cyrillic>жишаалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y2827</ref>
+    <ref>Y2828</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠢᠰᠢᠶᠠᠯᠠᠬᠣ</unicode>
+      <uighur>ǰisiyalaqu</uighur>
+      <cyrillic>жишаалах</cyrillic>
+      <transcript>ZISIJALA-</transcript>
+      <definition>[= zisaγala-] v. i. To go on duty.</definition>
+      <page>1063</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠢᠰᠢᠶᠠᠯᠠᠬᠤ</unicode>
+      <definition>être de garde, de quartier chacun à son tour.</definition>
+      <page>2341</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠢᠰᠢᠶᠠᠯᠠᠨ ᠣᠷᠤᠬᠤ</unicode>
+          <definition>reprendre son poste, son quartier, sa garde</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠵᠢᠰᠢᠶᠠᠯᠠᠬᠣ</unicode>
+      <uighur>ǰisiyalaqu</uighur>
+      <definition>bestimmen. anordnen, stellen</definition>
+      <page>306</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠵᠢᠰᠢᠶᠠᠯᠠᠬᠣ</unicode>
+      <uighur>ǰisiyalaqu</uighur>
+      <definition>To take turns in standing as sentries. To decide. To order. To arrange. To place.</definition>
+      <page>1232</page>
+      <examples>
+        <example>
+          <uighur>ǰisiyalan odqu</uighur>
+          <definition>To go on duty.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠰᠢᠶᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>жишаалах</cyrillic>
+      <definition>〔动〕值班，轮班.</definition>
+      <page>514</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠰᠢᠶᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЖАСААЛАХ</cyrillic>
+      <definition>хуучир. 1) учреждать очередную административную службу; Бээжин хотод жасаалах, худалдаалах хугацаа хэмжээ тогтоох устанавливать срок и лимит очередной службы и торговли в Пекине; 2) расставлять в ряд; упорядочивать; 3) соблюдать очередь, делать что-л. по очереди; 4) дежурить.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠰᠢᠶᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>жасаалах</cyrillic>
+      <definition>&lt;хуучирсан&gt;ээлж дараатайгаар тогтмол хаах албанд суух буюу ямар нэгэн тогтмол болсон үйл ажлаа гүйцэтгэх; тамгийн газар жасаалан суух.</definition>
+      <page>243</page>
+    </entry_item>
+  </entries>
+</entry>

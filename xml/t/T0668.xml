@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0668">
+  <head>
+    <unicode>ᠲᠠᠭᠣᠬᠣ</unicode>
+    <transcript>taγuqu</transcript>
+    <transcript2>dagogo</transcript2>
+    <cyrillic>туух</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T0669</ref>
+    <ref>T0670</ref>
+    <ref>T0761</ref>
+  </derivatives>
+  <see_also>
+    <ref>T5726</ref>
+    <ref>T0668a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠭᠣᠬᠣ</unicode>
+      <uighur>taγoqu</uighur>
+      <cyrillic>туух</cyrillic>
+      <transcript>TAΓU-</transcript>
+      <definition>v. t. To drive (as cattle or a cart); to chase, pursue, track</definition>
+      <page>766</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠭᠣᠵᠤ ᠶᠠᠪᠤᠬᠤ</unicode>
+          <transcript>--zy jabuxu</transcript>
+          <definition> To drive, drive away.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠷᠭᠡ ᠲᠠᠭᠣᠬᠤ</unicode>
+          <transcript>terge --xu</transcript>
+          <definition> To drive a cart.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠤᠯᠠᠭᠠᠶᠢᠴᠢ ᠮᠠᠯ ᠲᠠᠭᠣᠵᠤ ᠶᠠᠪᠤᠪᠠ</unicode>
+          <transcript>xulaγaici mal --zu jabuba</transcript>
+          <definition> The bandits drove away the cattle</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠭᠣᠬᠤ ~ ᠳᠠᠭᠣᠣᠬᠤ</unicode>
+      <definition>chasser, poursuivre, persécuter, traquer</definition>
+      <page>1587</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠭᠤᠬᠤ</unicode>
+      <cyrillic>туух</cyrillic>
+      <definition>амьтныг алгуурхнаар хойноос нь үлдэн хөөх;хөөх туух&lt;хорш&gt;.</definition>
+      <page>561</page>
+    </entry_item>
+  </entries>
+</entry>

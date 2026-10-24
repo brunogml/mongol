@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3470">
+  <head>
+    <unicode>ᠴᠥᠪᠥᠳᠠᠯᠳᠠᠺᠥ</unicode>
+    <transcript>čöbüdeldekü</transcript>
+    <transcript2>cöbödeldegö</transcript2>
+    <cyrillic>цөвдөлдөх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠥᠪᠥᠳᠡᠯᠳᠡᠬᠦ</unicode>
+      <cyrillic>цөвдөлдөх</cyrillic>
+      <definition>〔动〕变得过碎，变得太细碎；碎末（碎屑、碎片）过多.</definition>
+      <page>1541</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠥᠪᠥᠳᠠᠯᠳᠠᠺᠥ</unicode>
+      <cyrillic>ЦӨВДӨЛДӨХ</cyrillic>
+      <definition>становиться чересчур мелким, крошечным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠥᠪᠥᠳᠡᠯᠳᠡᠬᠦ</unicode>
+      <cyrillic>цөвдөлдөх</cyrillic>
+      <definition>хэтэрхий цөвдөл болох.</definition>
+      <page>794</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>C3469</ref>
+  </related_to>
+</entry>

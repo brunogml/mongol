@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1344">
+  <head>
+    <unicode>ᠰᠠᠮᠪᠠᠷᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sambaralaγulqu</transcript>
+    <transcript2>sambaralagolgo</transcript2>
+    <cyrillic>самбарлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S1343</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠮᠪᠠᠷᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>самбарлуулах</cyrillic>
+      <definition>〔动〕самбарлах 的使动态.</definition>
+      <page>906</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠮᠪᠠᠷᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>САМБАРЛУУЛАХ</cyrillic>
+      <definition>самбарлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠮᠪᠠᠷᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>самбарлуулах</cyrillic>
+      <definition>самбарлахын үйлдүүлэх хэв.</definition>
+      <page>465</page>
+    </entry_item>
+  </entries>
+</entry>

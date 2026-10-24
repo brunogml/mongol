@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q5097">
+  <head>
+    <unicode>ᠬᠣᠰᠣᠷ</unicode>
+    <transcript>qusur</transcript>
+    <transcript2>gosor</transcript2>
+    <cyrillic>хусар</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠰᠣᠷ</unicode>
+      <uighur>qusor</uighur>
+      <transcript>XUSUR</transcript>
+      <page>992</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠰᠣᠷ ᠰᠤᠮᠤ</unicode>
+          <transcript>-- sumu</transcript>
+          <definition> [Go.] Arrow without a whistling head</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠰᠣᠷ ᠰᠤᠮᠤᠨ</unicode>
+      <definition>flèche sans bouton en os</definition>
+      <page>903</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠰᠣᠷ</unicode>
+      <cyrillic>ХУСАР</cyrillic>
+      <definition>: хусар сум стрела без свистящей головки. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

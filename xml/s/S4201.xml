@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4201">
+  <head>
+    <unicode>ᠰᠢᠵᠠᠶᠢᠯᠭᠠᠬᠣ</unicode>
+    <transcript>siǰayilγaqu</transcript>
+    <transcript2>sicayilgago</transcript2>
+    <cyrillic>шазайлгах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠵᠠᠢᠯᠭᠠᠬᠤ</unicode>
+      <cyrillic>шазайлгах</cyrillic>
+      <definition>〔动〕шазайх 的使动态.</definition>
+      <page>1609</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠵᠠᠶᠢᠯᠭᠠᠬᠣ</unicode>
+      <cyrillic>ШАЗАЙЛГАХ</cyrillic>
+      <definition>шазайх-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шазайлгах</cyrillic>
+      <definition>1. Kaus von шазайх
+2. Zähne fletschen, blecken</definition>
+      <page>377</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠵᠠᠢᠯᠭᠠᠬᠤ</unicode>
+      <cyrillic>шазайлгах</cyrillic>
+      <definition>шазайхын үйлдүүлэх хэв.</definition>
+      <page>831</page>
+    </entry_item>
+  </entries>
+</entry>

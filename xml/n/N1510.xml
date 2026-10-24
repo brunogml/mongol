@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1510">
+  <head>
+    <unicode>ᠨᠢᠳᠣᠭᠠᠯᠠᠬᠣ</unicode>
+    <transcript>niduγalaqu</transcript>
+    <transcript2>nidogalago</transcript2>
+    <cyrillic>нядгалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>N1511</ref>
+    <ref>N1512</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠢᠳᠤᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>нядгалах</cyrillic>
+      <definition>〔动〕参见 удгалах.</definition>
+      <page>780</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠢᠳᠣᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>НЯДГАЛАХ</cyrillic>
+      <definition>удгалах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠢᠳᠣᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>УДГАЛАХ</cyrillic>
+      <definition>I шаманить. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠢᠳᠣᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>УДГАЛАХ</cyrillic>
+      <definition>II бежать в три ногљ (аллюр). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠢᠳᠤᠬᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>нядгалах</cyrillic>
+      <definition>удгалах, удган бөөгийн бөөлөх.</definition>
+      <page>401</page>
+    </entry_item>
+  </entries>
+</entry>

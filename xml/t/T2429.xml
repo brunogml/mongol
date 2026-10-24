@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2429">
+  <head>
+    <unicode>ᠳᠠᠶᠢᠪᠣᠷᠢᠯᠠᠬᠣ</unicode>
+    <transcript>dayiburilaqu</transcript>
+    <transcript2>dayiborilago</transcript2>
+    <cyrillic>дайварлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T2430</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠢᠪᠤᠷᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>дайварлах</cyrillic>
+      <definition>〔动〕附带，附寄，附带给，附送；邮寄.</definition>
+      <page>376</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠶᠢᠪᠣᠷᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ДАЙВАРЛАХ</cyrillic>
+      <definition>перегружать, класть сверх навьюченного. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠢᠪᠤᠷᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>дайварлах</cyrillic>
+      <definition>1. дайх, дайж өгөх, дайварлаж өгөх;2. дайхад хүрүүлэх.</definition>
+      <page>180</page>
+    </entry_item>
+  </entries>
+</entry>

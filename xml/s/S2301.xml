@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2301">
+  <head>
+    <unicode>ᠰᠠᠯᠺᠥᠺᠥᠯᠺᠥ</unicode>
+    <transcript>selgügülkü</transcript>
+    <transcript2>selgögölgö</transcript2>
+    <cyrillic>сэлгүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S2300</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠡᠯᠭᠦᠭᠦᠯᠺᠦ</unicode>
+      <definition>composer, préparer , apprêter</definition>
+      <page>1356</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠮ ᠢ ᠰᠡᠯᠭᠦᠭᠦᠯᠦᠨ ᠥᠭᠺᠦ</unicode>
+          <definition>donner une médecine apprêtée</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠯᠭᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сэлгүүлэх</cyrillic>
+      <definition>〔动〕сэлгэх 的使动态.</definition>
+      <page>986</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠯᠺᠥᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>СЭЛГҮҮЛЭХ</cyrillic>
+      <definition>сэлгэх-ийн үйлдүүл., перемежать; ажиллах амрах хоёрыг сэлгүүлэх чередовать труд с отдыхом. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сэлгүүлэх</cyrillic>
+      <definition>Kaus von сэлгэх</definition>
+      <page>210</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠯᠭᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сэлгүүлэх</cyrillic>
+      <definition>сэлгэхийн үйлдүүлэх хэв.</definition>
+      <page>502</page>
+    </entry_item>
+  </entries>
+</entry>

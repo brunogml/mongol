@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2990">
+  <head>
+    <unicode>ᠲᠠᠷᠴᠢᠯᠠᠬᠣ</unicode>
+    <transcript>tarčilaqu</transcript>
+    <transcript2>darcilago</transcript2>
+    <cyrillic>тарчлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T2992</ref>
+    <ref>T2994</ref>
+  </derivatives>
+  <see_also>
+    <ref>T2991</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠷᠴᠢᠯᠠᠬᠣ</unicode>
+      <uighur>tarčilaqu</uighur>
+      <cyrillic>тарчлах</cyrillic>
+      <transcript>TARCILA-</transcript>
+      <definition>[= tercile-, = darcila-] v. i. To suffer, be tormented; to squirm or toss from side to side; to stagger, waver</definition>
+      <page>780</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠮᠢ ᠲᠠᠷᠴᠢᠯᠠᠬᠣ</unicode>
+          <transcript>ami --xu</transcript>
+          <definition> To be in agony of death</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠷᠪᠠᠯᠵᠠᠨ ᠲᠠᠷᠴᠢᠯᠠᠬᠣ</unicode>
+          <transcript>sarbalzan --xu</transcript>
+          <definition> To writhe in agony.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠷᠴᠢᠯᠠᠬᠤ</unicode>
+      <definition>se retourner de tous les côtés: branler, vaciller, chanceler: 2 faire du bruit, trépigner des pieds.</definition>
+      <page>1682</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠠᠷ ᠺᠥᠯ ᠢᠶᠡᠨ ᠰᠠᠷᠪᠠᠯᠵᠢᠨ ᠳᠠᠷᠴᠢᠯᠠᠬᠤ</unicode>
+          <definition>frapper des pieds et des mains</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠡᠶ᠎ᠡ ᠢᠨᠤ ᠺᠥᠩᠭᠡᠨ ᠪᠦᠭᠡᠳ ᠳᠠᠷᠴᠢᠯᠠᠮᠤᠢ</unicode>
+          <definition>il chancèle par sa légéreté</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠥᠯ ᠢᠶᠡᠷ ᠢᠶᠡᠨ ᠺᠦᠰᠡᠷ ᠎ᠲᠤᠷ ᠳᠠᠷᠴᠢᠯᠠᠬᠤ</unicode>
+          <definition>frapper des pieds, trépigner des pieds</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠷᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>тарчлах</cyrillic>
+      <definition>〔动〕受折磨，受虐待，受凌辱，被蹂躏，苦恼；（因病而）痉挛，辗转不安：~н зовоох 虐待；зовж ~ 受折磨；колонийн гинжинд ~н зовж байжээ 在殖民主义的枷锁下备受蹂躏.</definition>
+      <page>1033</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠷᠴᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ТАРЧЛАХ</cyrillic>
+      <definition>мучиться, страдать, корчиться (от боли); амь тарчлах быть в агонии, мучиться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тарчлах</cyrillic>
+      <definition>sich abquälen, sich plagen od schinden (mit etw. -аар); амь ~ Agonie f</definition>
+      <page>221</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠷᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>тарчлах</cyrillic>
+      <definition>ихэд зовох, зүдэх, шаналгах; зовж тарчлах; колонийн гинжинд тарчлан зовж байжээ.</definition>
+      <page>524</page>
+    </entry_item>
+  </entries>
+</entry>

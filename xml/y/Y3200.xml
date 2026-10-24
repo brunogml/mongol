@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3200">
+  <head>
+    <unicode>ᠵᠢᠵᠢᠺᠳᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ǰiǰigdegülkü</transcript>
+    <transcript2>yicigdegölgö</transcript2>
+    <cyrillic>жижигдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y3198</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠵᠢᠭᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>жижигдүүлэх</cyrillic>
+      <definition>жижигдэх 的使动态.</definition>
+      <page>507</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠵᠢᠺᠳᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЖИЖИГДҮҮЛЭХ</cyrillic>
+      <definition>жижигдэх-ийн үйлдүүл., делать что-л. размером меньше, чем нужно, делать чрезмерно маленьким. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠵᠢᠭᠵᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>жижигдүүлэх</cyrillic>
+      <definition>жижигдэхийн үйлдүүлэх хэв, жижиг болгох.</definition>
+      <page>245</page>
+    </entry_item>
+  </entries>
+</entry>

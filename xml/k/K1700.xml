@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1700">
+  <head>
+    <unicode>ᠺᠠᠷᠺᠠᠮᠲᠠᠨ</unicode>
+    <transcript>kergemten</transcript>
+    <transcript2>gergemden</transcript2>
+    <cyrillic>хэргэмтэн</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠠᠷᠺᠠᠮᠲᠠᠨ</unicode>
+      <uighur>kerkemdea</uighur>
+      <cyrillic>хэргэмтэн</cyrillic>
+      <transcript>KERGEMTEN</transcript>
+      <definition>n. High-ranking or titled person[s], high officials, dignitaries</definition>
+      <page>458</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠡᠰᠡᠭ ᠺᠠᠷᠺᠠᠮᠲᠠᠨ</unicode>
+          <transcript>keseg --</transcript>
+          <definition> Caste</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠷᠭᠡᠮᠲᠡᠨ</unicode>
+      <cyrillic>хэргэмтэн</cyrillic>
+      <definition>〔名〕高官显爵.</definition>
+      <page>1487</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠷᠺᠠᠮᠲᠠᠨ</unicode>
+      <cyrillic>ХЭРГЭМТЭН</cyrillic>
+      <definition>түүх. титулованные, сановные, сановники; хэсэг хэргэмтэн, явцуу хэргэмтэн каста; цэргийн хэргэмтэн высшие военные чины; хэргэмтэн лам нар сановные ламы, верхушечное ламство. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хэргэмтэн</cyrillic>
+      <definition>hist Würdenträger Pl</definition>
+      <page>344</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠷᠭᠡᠮᠲᠡᠨ</unicode>
+      <cyrillic>хэргэмтэн</cyrillic>
+      <definition>хэргэм бүхий этгээд.</definition>
+      <page>763</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>K1698</ref>
+  </related_to>
+</entry>

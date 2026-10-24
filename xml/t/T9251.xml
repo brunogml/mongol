@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9251">
+  <head>
+    <unicode>ᠳᠥᠷᠢᠰᠢᠺᠥᠯᠺᠥ</unicode>
+    <transcript>dürisigülkü</transcript>
+    <transcript2>dörisigölgö</transcript2>
+    <cyrillic>дүршүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T9250</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠦᠷᠢᠰᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дүршүүлэх</cyrillic>
+      <definition>〔动〕дүрших 的使动态.</definition>
+      <page>457</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠥᠷᠢᠰᠢᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ДҮРШҮҮЛЭХ</cyrillic>
+      <definition>дүрших-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠦᠷᠢᠰᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дүршүүлэх</cyrillic>
+      <definition>дүршихийн үйлдүүлэх хэв.</definition>
+      <page>218</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y1651">
+  <head>
+    <unicode>ᠵᠠᠶᠢᠯᠣᠮ ᠠ</unicode>
+    <transcript>ǰayilum-a</transcript>
+    <transcript2>yayilom-a</transcript2>
+    <cyrillic>зайлам</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠠᠶᠢᠯᠣᠮ᠎ᠠ</unicode>
+      <uighur>ǰayilom-a</uighur>
+      <transcript>ZAILUM-A</transcript>
+      <page>1027</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠠᠶᠢᠯᠣᠮ᠎ᠠ ᠤᠰᠤ</unicode>
+          <transcript>-- usu</transcript>
+          <definition> Brook.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠠᠶᠢᠯᠣᠮ᠎ᠠ ᠣᠰᠤᠨ</unicode>
+      <definition>ruisseau: 2 eau bouilli.</definition>
+      <page>2236</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠶᠢᠯᠣᠮ ᠠ</unicode>
+      <cyrillic>ЗАЙЛАМ</cyrillic>
+      <definition>столько, сколько нужно для полоскания; зайлам ус вода, которой ровно столько, сколько нужно для полоскания. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

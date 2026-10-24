@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7068">
+  <head>
+    <unicode>ᠲᠣᠯᠺᠢᠬᠣ</unicode>
+    <transcript>tolkiqu</transcript>
+    <transcript2>dolgigo</transcript2>
+    <cyrillic>толхих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T7070</ref>
+  </derivatives>
+  <see_also>
+    <ref>T7069</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠯᠬᠢᠬᠤ</unicode>
+      <cyrillic>толхих</cyrillic>
+      <definition>〔动〕①伤刃，使钝化，使变钝（如刀子）：тонгорог битгий ~иорой 不要把小刀弄钝；②滥用牲口：хонины морь толхичихаж болохгүй 不能滥用牧羊用的马.</definition>
+      <page>1066</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠯᠺᠢᠬᠣ</unicode>
+      <cyrillic>ТОЛХИХ</cyrillic>
+      <definition>1) притуплять (напр. нож), делать тупым; 2) истощать, изнурять (скот). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>толхих</cyrillic>
+      <definition>Messer stumpf machen</definition>
+      <page>228</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠯᠬᠢᠬᠤ</unicode>
+      <cyrillic>толхих</cyrillic>
+      <definition>1. хутга зэргийн ирт юмаар хэрэгцээгүй юм оролдож мохоох; тонгорог битгий толхиорой;2. морь малыг хэрэгцээгүй үйл ажилд зүй бус хэрэглэж болиох; хонины морь толхичихаж болохгүй.</definition>
+      <page>538</page>
+    </entry_item>
+  </entries>
+</entry>

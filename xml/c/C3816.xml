@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3816">
+  <head>
+    <unicode>ᠴᠥᠷᠠᠶᠢᠺᠥ</unicode>
+    <transcript>čüreyikü</transcript>
+    <transcript2>cöreyigö</transcript2>
+    <cyrillic>цүрийх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C3815</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠦᠷᠡᠢᠬᠦ</unicode>
+      <cyrillic>цүрийх</cyrillic>
+      <definition>〔动〕肚子胀，肚子鼓起.</definition>
+      <page>1558</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠥᠷᠠᠶᠢᠺᠥ</unicode>
+      <cyrillic>ЦҮРИЙХ</cyrillic>
+      <definition>надуваться, пучиться; пучить (о животе), раздуваться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цүрийх</cyrillic>
+      <definition>= цүрдийх</definition>
+      <page>363</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠦᠷᠡᠢᠬᠦ</unicode>
+      <cyrillic>цүрийх</cyrillic>
+      <definition>цүргэр болох, цүрийж харагдах.</definition>
+      <page>803</page>
+    </entry_item>
+  </entries>
+</entry>

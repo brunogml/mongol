@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0063">
+  <head>
+    <unicode>ᠵᠠᠨᠲᠠᠶᠢᠬᠣ</unicode>
+    <transcript>ǰantayiqu</transcript>
+    <transcript2>yandayigo</transcript2>
+    <cyrillic>зантайх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y0068</ref>
+  </derivatives>
+  <see_also>
+    <ref>Y0062</ref>
+    <ref>Y0064</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠨᠲᠠᠢᠬᠤ</unicode>
+      <cyrillic>зантайх</cyrillic>
+      <definition>〔动〕一头变大；头部显大：~сан том толгойтой 头部显得很大的.</definition>
+      <page>545</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠨᠲᠠᠶᠢᠬᠣ</unicode>
+      <cyrillic>ЗАНТАЙХ</cyrillic>
+      <definition>быть большеголовым; торчать кверху; зантайсан толгой торчащая как шар голова, откинутая назад голова. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠨᠲᠠᠢᠬᠤ</unicode>
+      <cyrillic>зантайх</cyrillic>
+      <definition>зантгар болох; зантайсан том толгойтой.</definition>
+      <page>267</page>
+    </entry_item>
+  </entries>
+</entry>

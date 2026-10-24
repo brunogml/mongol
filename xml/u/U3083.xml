@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U3083">
+  <head>
+    <unicode>ᠣᠷᠲᠣᠰᠬᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>urtusqaγulqu</transcript>
+    <transcript2>ordosgagolgo</transcript2>
+  </head>
+  <related_to>
+    <ref>U3082</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠷᠲᠣᠰᠬᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>УРТАСГУУЛАХ</cyrillic>
+      <definition>уртасгах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠷᠲᠤᠰᠬᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>уртасгуулах</cyrillic>
+      <definition>уртасгахын үйлдүүлэх хэв.</definition>
+      <page>599</page>
+    </entry_item>
+  </entries>
+</entry>

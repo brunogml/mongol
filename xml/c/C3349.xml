@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3349">
+  <head>
+    <unicode>ᠴᠣᠷᠮᠠᠳᠠᠬᠣ</unicode>
+    <transcript>čurmadaqu</transcript>
+    <transcript2>cormadago</transcript2>
+    <cyrillic>цурамдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C3350</ref>
+    <ref>C3352</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠤᠷᠮᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>цурамдах</cyrillic>
+      <definition>〔动〕烧毁，烧光，烧焦；烧一片草（以防野火蔓延）.</definition>
+      <page>1550</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠷᠮᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЦУРАМДАХ</cyrillic>
+      <definition>выжечь траву (во время пожара). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цурамдах</cyrillic>
+      <definition>einen Brand legen, Gras in Brand setzen, Gras abbrennen</definition>
+      <page>360</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠤᠷᠮᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>цурамдах</cyrillic>
+      <definition>хэтэрхий цурам болох, цуравдах.</definition>
+      <page>798</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2943">
+  <head>
+    <unicode>ᠳᠠᠷᠳᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>dardalǰaqu</transcript>
+    <transcript2>dardalcago</transcript2>
+    <cyrillic>дардалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T2944</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠷᠳᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>дардалзах</cyrillic>
+      <definition>〔动〕参见 дардганах.</definition>
+      <page>396</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠷᠳᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ДАРДАЛЗАХ</cyrillic>
+      <definition>дардганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠷᠳᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>дардалзах</cyrillic>
+      <definition>дардгар болох.</definition>
+      <page>190</page>
+    </entry_item>
+  </entries>
+</entry>

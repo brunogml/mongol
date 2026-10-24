@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="E1003">
+  <head>
+    <unicode>ᠡᠯᠴᠢᠮ᠎ᠡ</unicode>
+    <transcript>elčim-e</transcript>
+    <transcript2>elcim-e</transcript2>
+    <cyrillic>элчим</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠯᠴᠢᠮ᠎ᠡ</unicode>
+      <uighur>elčim-e</uighur>
+      <cyrillic>элчим</cyrillic>
+      <transcript>ELCIM-E</transcript>
+      <page>307</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠯᠴᠢᠮ᠎ᠡ ᠲᠠᠯ᠎ᠠ</unicode>
+          <transcript>-- tal-a</transcript>
+          <definition> Desert, steppe; uninhabited region or place.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠯᠴᠢᠮ᠎ᠡ</unicode>
+      <cyrillic>элчим</cyrillic>
+      <definition>〔形〕静静的，荒无人烟的：~ тал 荒无人烟的草原.</definition>
+      <page>1692</page>
+    </entry_item>
+  </entries>
+</entry>

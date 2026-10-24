@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K0325">
+  <head>
+    <unicode>ᠺᠠᠪᠠᠺᠠᠶᠢᠳᠠᠺᠥ</unicode>
+    <transcript>kebegeyidekü</transcript>
+    <transcript2>gebegeyidegö</transcript2>
+    <cyrillic>хэвгийдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K0326</ref>
+    <ref>K0324</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠪᠡᠭᠡᠢᠳᠡᠬᠦ</unicode>
+      <cyrillic>хэвгийдэх</cyrillic>
+      <definition>〔动〕变得过于倾斜.</definition>
+      <page>1470</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠪᠠᠺᠠᠶᠢᠳᠠᠺᠥ</unicode>
+      <cyrillic>ХЭВГИЙДЭХ</cyrillic>
+      <definition>наклониться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хэвгийдэх</cyrillic>
+      <definition>zu schief od zu geneigt sein</definition>
+      <page>339</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠪᠡᠭᠡᠢᠳᠡᠬᠦ</unicode>
+      <cyrillic>хэвгийдэх</cyrillic>
+      <definition>хэвэрхий хэвгий болох.</definition>
+      <page>753</page>
+    </entry_item>
+  </entries>
+</entry>

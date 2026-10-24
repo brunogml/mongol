@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q5463">
+  <head>
+    <unicode>ᠬᠣᠯᠠᠳᠠ</unicode>
+    <transcript>qolada</transcript>
+    <transcript2>golada</transcript2>
+    <cyrillic>холд</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠯᠠᠳᠠ</unicode>
+      <definition>dans le lointain, loin</definition>
+      <page>923</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠯᠠᠳᠠ ᠦᠵᠡᠭᠴᠢ</unicode>
+          <definition>celui qui a la vue perçante, perspicace</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠣᠯᠠ ᠳᠤ</unicode>
+      <cyrillic>холд</cyrillic>
+      <definition>〔副〕在远处，在遥远的那边，长远地.</definition>
+      <page>1355</page>
+    </entry_item>
+  </entries>
+</entry>

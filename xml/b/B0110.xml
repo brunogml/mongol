@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0110">
+  <head>
+    <unicode>ᠪᠠᠭᠠᠨᠠᠳᠠᠬᠣ</unicode>
+    <transcript>baγanadaqu</transcript>
+    <transcript2>baganadago</transcript2>
+    <cyrillic>баганадах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0111</ref>
+    <ref>B0112</ref>
+    <ref>X0516</ref>
+    <ref>X0517</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠠᠭᠠᠨᠠᠳᠠᠬᠣ</unicode>
+      <uighur>baγanadaqu</uighur>
+      <cyrillic>баганадах</cyrillic>
+      <transcript>BAГANADA-</transcript>
+      <definition>v,t, To prop or support with a pole.</definition>
+      <page>68</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠭᠠᠨᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>баганадах</cyrillic>
+      <definition>〔动〕①立柱；②用柱子支起.</definition>
+      <page>106</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠭᠠᠨᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>БАГАНАДАХ</cyrillic>
+      <definition>подпирать столбом; тэнгэр баганадсан өндөр хүн яриа. каланча; жердь, коломенская верста (об очень высокого роста человеке).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>баганадах</cyrillic>
+      <definition>mit einer Stütze Halt geben (Dat -ыг)</definition>
+      <page>40</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠭᠠᠨᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>баганадах</cyrillic>
+      <definition>баганаар тулах, тулгуурдах.</definition>
+      <page>64</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>B0107</ref>
+  </related_to>
+</entry>

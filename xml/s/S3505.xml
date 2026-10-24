@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3505">
+  <head>
+    <unicode>ᠰᠢᠪᠠᠨᠠᠺᠥ</unicode>
+    <transcript>sibenekü</transcript>
+    <transcript2>sibenegö</transcript2>
+    <cyrillic>шивнэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3506</ref>
+    <ref>S3503</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠪᠠᠨᠠᠺᠥ</unicode>
+      <uighur>sibenekü</uighur>
+      <cyrillic>шивнэх</cyrillic>
+      <transcript>SIBENE-</transcript>
+      <definition>[= sibegene-, sibine-] v.i. To whisper</definition>
+      <page>694</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠺᠢᠨ ᠳ᠋‍‍ᠤ‍ᠷ ᠰᠢᠪᠠᠨᠠᠺᠥ</unicode>
+          <transcript>cikin dyr --ky</transcript>
+          <definition> To whisper into the ear.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠪᠡᠨᠡᠺᠦ ~ ᠰᠢᠪᠠᠨᠠᠬᠤ</unicode>
+      <definition>chouchoter, parler bas à l'oreille de.</definition>
+      <page>1477</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠺᠢᠨ ᠳ᠋‍‍ᠤ‍ᠷ ᠰᠢᠪᠡᠨᠡᠺᠦ</unicode>
+          <definition>parler bas à l'oreille de</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠪᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>шивнэх</cyrillic>
+      <definition>〔动〕①耳语，窃窃私语；嘟嘟嚷嚷；沙沙作响；②（嗓子）嘶哑起来.</definition>
+      <page>1627</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠪᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>ШИВНЭХ</cyrillic>
+      <definition>1. шептать; нашёптывать, говорить шёпотом, шушукать, перешёптываться; аман дотроо шивнэх шептать про себя (үгчил. в свой рот); чихэнд шивнэх шепнуть на ухо кому-н.; шивнэн унших читать про себя (үгчил. шёпотом); шивнэн хэлэх шепнуть, говорить шёпотом; 2. шивнэхүй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠪᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>ШИВНЭХҮЙ</cyrillic>
+      <definition>шёпот. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шивнэх</cyrillic>
+      <definition>flüstern, wispern; амандаа ~ vor sich hin murmeln; чихэнд ~ ins Ohr flüstern od raunen; шивнэн хэлэх im Flüsterton reden</definition>
+      <page>383</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠪᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>шивнэх</cyrillic>
+      <definition>1. тодорхой үл сонсдохоор сэм хэлэх; шивнэж ярих; шивнэж унших; чихэнд нь шивнэх;2. хоолой сөөх; хоолой шивнэчихэв.</definition>
+      <page>842</page>
+    </entry_item>
+  </entries>
+</entry>

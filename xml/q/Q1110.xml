@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1110">
+  <head>
+    <unicode>ᠬᠠᠪᠰᠢᠢᠬᠣ</unicode>
+    <transcript>qabsiiqu</transcript>
+    <transcript2>gabsiigo</transcript2>
+    <cyrillic>хавшийх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q1112</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠪᠰᠢᠢᠬᠤ</unicode>
+      <cyrillic>хавшийх</cyrillic>
+      <definition>〔动〕见 хавчийх.</definition>
+      <page>1267</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠪᠰᠢᠢᠬᠣ</unicode>
+      <cyrillic>ХАВШИЙХ</cyrillic>
+      <definition>становиться приплюснутым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хавшийх</cyrillic>
+      <definition>= хавчийх</definition>
+      <page>281</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠪᠰᠢᠢᠬᠤ</unicode>
+      <cyrillic>хавшийх</cyrillic>
+      <definition>хавчийх, навшийх.</definition>
+      <page>637</page>
+    </entry_item>
+  </entries>
+</entry>

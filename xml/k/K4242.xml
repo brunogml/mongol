@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4242">
+  <head>
+    <unicode>ᠺᠥᠯᠺᠥᠺᠡᠨᠡᠺᠥ</unicode>
+    <transcript>külkügenekü</transcript>
+    <transcript2>gölgögenegö</transcript2>
+    <cyrillic>хүлхэгнэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K4243</ref>
+    <ref>K4241</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠦᠯᠬᠦᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>хүлхэгнэх</cyrillic>
+      <definition>〔动〕肥大的东西不断动作，摆动，晃动.</definition>
+      <page>1453</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠯᠺᠥᠺᠡᠨᠡᠺᠥ</unicode>
+      <cyrillic>ХҮЛХЭГНЭХ</cyrillic>
+      <definition>двигаться (о чём-л. мешковатом). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠦᠯᠬᠦᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>хүлхэгнэх</cyrillic>
+      <definition>хүлхгэр юмны хүлхэг хүлхэг хөдлөх.</definition>
+      <page>744</page>
+    </entry_item>
+  </entries>
+</entry>

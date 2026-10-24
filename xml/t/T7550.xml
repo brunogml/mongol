@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T7550">
+  <head>
+    <unicode>ᠲᠣᠶᠢᠲᠣᠷ</unicode>
+    <transcript>toyitur</transcript>
+    <transcript2>doyidor</transcript2>
+    <cyrillic>тойтор</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠶᠢᠲᠣᠷ</unicode>
+      <uighur>toyidor</uighur>
+      <transcript>TOIDUR</transcript>
+      <page>819</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠣᠶᠢᠲᠣᠷ ᠲᠠᠶᠢᠳᠠᠷ</unicode>
+          <transcript>-- taidar</transcript>
+          <definition> With a waddling gait.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠶᠢᠳᠣᠷ ᠳᠠᠶᠢᠳᠠᠷ</unicode>
+      <definition>cela se dit des petits enfants qui commencent à mareher , et qui semblent devoir tomber à chaque pas</definition>
+      <page>1782</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠢᠲᠣᠷ</unicode>
+      <cyrillic>тойтор</cyrillic>
+      <definition>见 ~ тайтар 歪歪扭扭，蹒跚着（走路）.</definition>
+      <page>1064</page>
+    </entry_item>
+  </entries>
+</entry>

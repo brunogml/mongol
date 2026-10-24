@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5800">
+  <head>
+    <unicode>ᠰᠣᠯᠢᠯᠴᠠᠭ᠎ᠠ</unicode>
+    <transcript>solilčaγ-a</transcript>
+    <transcript2>solilcaga</transcript2>
+    <cyrillic>солилцоо</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠣᠯᠢᠯᠴᠠᠭ᠎ᠠ</unicode>
+      <uighur>solilčaγ-a</uighur>
+      <cyrillic>солилцоо</cyrillic>
+      <transcript>SOLILCAΓ-A</transcript>
+      <definition>n. Change, exchange, interchange</definition>
+      <page>725</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠣᠳᠠᠰ ᠤᠨ ᠰᠣᠯᠢᠯᠴᠠᠭ᠎ᠠ</unicode>
+          <transcript>bodas un -- </transcript>
+          <definition> Metabolism.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠯᠢᠯᠴᠠᠭ᠎ᠠ</unicode>
+      <cyrillic>СОЛИЛЦОО(Н)</cyrillic>
+      <definition>обмен; эдийн солилцоо бие.суд. обмен веществ. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>солилцоо[н]</cyrillic>
+      <definition>Tausch m, Austausch m; Wechsel m; туршлагын ~ Erfahrungsaustausch m; эдийн ~ Physiol Stoffwechsel m</definition>
+      <page>199</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠯᠢᠯᠴᠠᠭ᠎ᠠ᠊ᠨ</unicode>
+      <cyrillic>солилцоо</cyrillic>
+      <definition>солилцох үйлийн нэр; бараа таваарын солилцоо.</definition>
+      <page>478</page>
+    </entry_item>
+  </entries>
+</entry>

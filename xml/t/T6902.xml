@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T6902">
+  <head>
+    <unicode>ᠳᠣᠯᠣᠭᠠᠬᠣ</unicode>
+    <transcript>doluγaqu</transcript>
+    <transcript2>dologago</transcript2>
+  </head><derivatives>
+    <ref>T6924</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠣᠯᠣᠭᠠᠬᠣ</unicode>
+      <uighur>doluγaqu</uighur>
+      <transcript>DOLUΓA-</transcript>
+      <definition>See dolija-.</definition>
+      <page>260</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠯᠣᠭᠠᠬᠤ ~ ᠳᠤᠯᠢᠶᠠᠬᠤ</unicode>
+      <definition>lécher, lécher tout autour.</definition>
+      <page>1854</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠦᠮᠦᠨ ᠤ ᠠᠷᠢᠰᠤᠨ ᠤ ᠲᠤᠰᠤᠨ ᠢ ᠳᠤᠯᠣᠭᠠᠬᠤ</unicode>
+          <definition>lécher la graisse de la peau humaine</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

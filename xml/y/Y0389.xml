@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0389">
+  <head>
+    <unicode>ᠵᠠᠭᠠᠳᠠᠰᠣ</unicode>
+    <transcript>ǰaγadasu</transcript>
+    <transcript2>yagadaso</transcript2>
+    <cyrillic>заадас</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠠᠭᠠᠳᠠᠰᠤ ~ ᠵᠠᠭᠠᠳᠠᠰᠤᠨ</unicode>
+      <uighur>ǰaγadasu - ǰaγadasun</uighur>
+      <cyrillic>заадас</cyrillic>
+      <transcript>ZAΓADASU(N)</transcript>
+      <definition>n. The sutures of the skull; joint; groove.</definition>
+      <page>1022</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠠᠭᠠᠳᠠᠰᠤ ᠪᠡᠷ ᠢᠶᠡᠨ ᠠᠩᠭᠠᠶᠢᠬᠤ</unicode>
+          <transcript>-- ber ijen angγaixu</transcript>
+          <definition>To open up at the joints.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠷᠢᠺᠢᠨ ᠤ ᠵᠠᠭᠠᠳᠠᠰᠤ</unicode>
+          <transcript>tarikin u --</transcript>
+          <definition>Sutures of the skull</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠠᠭᠠᠳᠠᠰᠤᠨ ~ ᠵᠠᠭᠠᠳᠠᠰᠤ</unicode>
+      <definition>1 raie sur la tète: 
+2 suture: 
+3 rainure, mortaise, échancrure</definition>
+      <page>2246</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠷᠢᠺᠢᠨ ᠤ ᠵᠠᠭᠠᠳᠠᠰᠣᠨ</unicode>
+          <definition>suture du crâne</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠣᠯᠣᠭᠠᠢ ᠎ᠶᠢᠨ ᠳᠥᠷᠪᠡᠨ ᠵᠠᠭᠠᠳᠠᠰᠣᠨ</unicode>
+          <definition>les quatre côtés de la tête</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠵᠠᠭᠠᠳᠠᠰᠣ</unicode>
+      <uighur>ǰaγadasu</uighur>
+      <definition>Sagittal suture. The line where the hair is parted</definition>
+      <page>1184</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠭᠠᠳᠠᠰᠣ</unicode>
+      <cyrillic>ЗААДАС(АН)</cyrillic>
+      <definition>1) шов, швы; паз; фальц; соединение; гавлын ясны заадас швы на черепе; заадсаараа ангайх расходиться по швам; выходить из пазов; заадасны салаа тусг. ветвь шовная; 2) выструганные концы лука, покрываемые роговыми накладками; 3) тех. замок.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>заадас[ан]</cyrillic>
+      <definition>Naht f, Fuge f; заадсаараа салах od ангайх aus den Fugen gehen; Knochennaht f</definition>
+      <page>113</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠭᠠᠳᠠᠰᠤ</unicode>
+      <cyrillic>заадас</cyrillic>
+      <definition>юмны заадлаар уулзар зааг нийлсэн газар; толгойн заадас; авдарны заадас; заадсаараа салах.</definition>
+      <page>253</page>
+    </entry_item>
+  </entries>
+</entry>

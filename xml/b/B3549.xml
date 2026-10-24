@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B3549">
+  <head>
+    <unicode>ᠪᠣᠯᠵᠢᠬᠣ</unicode>
+    <transcript>bulǰiqu</transcript>
+    <transcript2>bolcigo</transcript2>
+    <cyrillic>булжих</cyrillic>
+  </head><derivatives>
+    <ref>B3552</ref>
+  </derivatives><see_also>
+    <ref>B3550</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠣᠯᠵᠢᠬᠣ</unicode>
+      <uighur>bulǰiqu</uighur>
+      <cyrillic>булжих</cyrillic>
+      <transcript>BULZI-</transcript>
+      <definition>v.i. To slip out, become dislocated (as a joint).</definition>
+      <page>137</page>
+      <examples>
+        <example>
+          <unicode>ᠦᠶ᠎ᠡ ᠪᠣᠯᠵᠢᠪᠠ</unicode>
+          <transcript>yj-e --ba</transcript>
+          <definition> The limb has become luxated.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠤᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>булжих</cyrillic>
+      <definition>〔动〕（骨节）脱臼，错位，扭伤；崴：мөр ~ 肩к 节脱臼；хөл ~ 崴脚.</definition>
+      <page>203</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠯᠵᠢᠬᠣ</unicode>
+      <cyrillic>БУЛЖИХ</cyrillic>
+      <definition>1. сводить, скорчить (руки, ноги во время болезни); вывихнуться (о суставах); 2. булжихуй-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠯᠵᠢᠬᠣ</unicode>
+      <cyrillic>БУЛЖИХУЙ</cyrillic>
+      <definition>вывих.</definition>
+      <page>0</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>булжих</cyrillic>
+    <definition>intr Med ausrenken</definition>
+    <page>61</page>
+  </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1465">
+  <head>
+    <unicode>ᠥᠺᠠᠴᠢᠯᠠᠺᠳᠠᠺᠥ</unicode>
+    <transcript>ögečilegdekü</transcript>
+    <transcript2>ögecilegdegö</transcript2>
+    <cyrillic>өөчлөгдөх</cyrillic>
+  </head>
+  <related_to>
+    <ref>O1462</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠭᠡᠴᠢᠯᠡᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>өөчлөгдөх</cyrillic>
+      <definition>〔动〕өөчлөх 的被动态.</definition>
+      <page>856</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠺᠠᠴᠢᠯᠠᠺᠳᠠᠺᠥ</unicode>
+      <cyrillic>ӨӨЧЛӨГДӨХ</cyrillic>
+      <definition>өөчлөх-ийн үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠭᠡᠴᠢᠯᠡᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>өөчлөгдөх</cyrillic>
+      <definition>өөчлөхийн үйлдэгдэх хэв.</definition>
+      <page>443</page>
+    </entry_item>
+  </entries>
+</entry>

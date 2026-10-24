@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2377a">
+  <head>
+    <unicode>ᠳᠠᠶᠢᠪᠠᠬᠣ</unicode>
+    <transcript>dayibaqu</transcript>
+    <transcript2>dayibago</transcript2>
+    <cyrillic>дайвах</cyrillic>
+  </head>
+  <see_also>
+    <ref>T2397</ref>
+    <ref>T2377</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠠᠶᠢᠪᠠᠬᠣ</unicode>
+      <uighur>dayibaqu</uighur>
+      <cyrillic>дайвах</cyrillic>
+      <transcript>DAIBA-</transcript>
+      <definition>v.t. To wobble, totter, sway.</definition>
+      <page>221</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠤᠶᠢᠪᠠᠵᠤ ᠳᠠᠶᠢᠪᠠᠬᠣ</unicode>
+          <transcript>γuibazu --xu</transcript>
+          <definition> To wobble, totter, sway.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠶᠢᠪᠠᠬᠤ</unicode>
+      <definition>trembler, palpiter, se remuer</definition>
+      <page>1549</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠢᠪᠠᠬᠤ</unicode>
+      <cyrillic>дайвах</cyrillic>
+      <definition>ганхах, хэлбэрэлзэх, гуйвах;гуйвах дайвах&lt;хорш&gt;.</definition>
+      <page>180</page>
+    </entry_item>
+  </entries>
+</entry>

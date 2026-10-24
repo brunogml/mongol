@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B4082">
+  <head>
+    <unicode>ᠪᠣᠷᠵᠢᠺᠢᠨ</unicode>
+    <transcript>borǰigin</transcript>
+    <transcript2>borcigin</transcript2>
+    <cyrillic>боржигин</cyrillic>
+  </head>
+  <variants>
+    <variant type="cyrillic">боржгин</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠷᠵᠢᠺᠢᠨ</unicode>
+      <cyrillic>БОРЖИГИН</cyrillic>
+      <definition>борджигин (название одного из монгольских родов); † боржигин янзын гөлөм кичим расшитый узорами.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠣᠷᠵᠢᠭᠢᠨ</unicode>
+      <cyrillic>Боржгин</cyrillic>
+      <definition>〔名〕见 боржигин.</definition>
+      <page>177</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠣᠷᠵᠢᠭᠢᠨ</unicode>
+      <cyrillic>Боржигин</cyrillic>
+      <definition>〔名〕孛尔只斤（蒙古族的一部族）.</definition>
+      <page>177</page>
+    </entry_item>
+  </entries>
+</entry>

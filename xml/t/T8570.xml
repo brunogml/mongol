@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8570">
+  <head>
+    <unicode>ᠲᠥᠰᠥᠺᠠᠷᠠᠺᠥ</unicode>
+    <transcript>tösügerekü</transcript>
+    <transcript2>dösögeregö</transcript2>
+    <cyrillic>төсөөрөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T8571</ref>
+    <ref>T8569</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠥᠰᠥᠭᠡᠷᠡᠬᠦ</unicode>
+      <cyrillic>төсөөрөх</cyrillic>
+      <definition>〔动〕变生疏；变迟钝，变得不机敏.</definition>
+      <page>1104</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠰᠥᠺᠠᠷᠠᠺᠥ</unicode>
+      <cyrillic>ТӨСӨӨРӨХ</cyrillic>
+      <definition>забыть, позабыть; отучаться, отвыкать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠥᠰᠥᠭᠡᠷᠡᠬᠦ</unicode>
+      <cyrillic>төсөөрөх</cyrillic>
+      <definition>мартаж эв дүйгүй болох, төсөөрөх; бөмбөг цохихгүй удаад төсөөрч орхисон байв.</definition>
+      <page>553</page>
+    </entry_item>
+  </entries>
+</entry>

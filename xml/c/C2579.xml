@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2579">
+  <head>
+    <unicode>ᠴᠣᠬᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čoquγulqu</transcript>
+    <transcript2>cogogolgo</transcript2>
+    <cyrillic>цохуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C2578</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠣᠬᠣᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цохуулах</cyrillic>
+      <definition>〔动〕цохох /1、/2 的使动态.</definition>
+      <page>1539</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠬᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦОХУУЛАХ</cyrillic>
+      <definition>цохох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠣᠬᠣᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цохуулах</cyrillic>
+      <definition>цохохын үйлдүүлэх хэв.</definition>
+      <page>793</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E1814">
+  <head>
+    <unicode>ᠡᠭᠰᠢᠭᠦᠯᠺᠦ</unicode>
+    <transcript>egsigülkü</transcript>
+    <transcript2>egsigölgö</transcript2>
+    <cyrillic>эгшүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>E1812</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠭᠰᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>эгшүүлэх</cyrillic>
+      <definition>〔动〕эгших 的使动态；晒干，烘干，使之干枯.</definition>
+      <page>1681</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠺᠰᠢᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЭГШҮҮЛЭХ</cyrillic>
+      <definition>эгших-ийн үйлдүүл., сушить. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠭᠰᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>эгшүүлэх</cyrillic>
+      <definition>эгшихийн үйлдүүлэх хэв, эгшихэд хүрүүлэх.</definition>
+      <page>869</page>
+    </entry_item>
+  </entries>
+</entry>

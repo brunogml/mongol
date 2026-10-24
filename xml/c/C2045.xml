@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2045">
+  <head>
+    <unicode>ᠴᠢᠮᠺᠢᠶᠠᠷᠢᠯᠠᠺᠥ</unicode>
+    <transcript>čimkiyerilekü</transcript>
+    <transcript2>cimgiyerilegö</transcript2>
+    <cyrillic>чимхээрлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C2046</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠮᠬᠡᠷᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>чимхээрлэх</cyrillic>
+      <definition>〔动〕缝饰边，上花边，做边子，镶边子.</definition>
+      <page>1589</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠮᠺᠢᠶᠠᠷᠢᠯᠠᠺᠥ</unicode>
+      <cyrillic>ЧИМХЭЭРЛЭХ</cyrillic>
+      <definition>обшивать оторочкой, оторочить рант на сапогах и башмаках. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠮᠬᠢᠶᠡᠷᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>чимхээрлэх</cyrillic>
+      <definition>эмжээрлэх, мөшгөөрлөх.</definition>
+      <page>819</page>
+    </entry_item>
+  </entries>
+</entry>

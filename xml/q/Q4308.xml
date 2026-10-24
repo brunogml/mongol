@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4308">
+  <head>
+    <unicode>ᠭᠣᠩᠰᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>γungsiγulqu</transcript>
+    <transcript2>gongsigolgo</transcript2>
+    <cyrillic>гуншуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q4306</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠤᠩᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гуншуулах</cyrillic>
+      <definition>〔动〕гунших 的使动态.</definition>
+      <page>328</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠩᠰᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ГУНШУУЛАХ</cyrillic>
+      <definition>гунших-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠤᠩᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гуншуулах</cyrillic>
+      <definition>гуншихын үйлдүүлэх хэв.</definition>
+      <page>159</page>
+    </entry_item>
+  </entries>
+</entry>

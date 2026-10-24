@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5627">
+  <head>
+    <unicode>ᠲᠣᠭᠠᠴᠠᠬᠣ</unicode>
+    <transcript>toγačaqu</transcript>
+    <transcript2>dogacago</transcript2>
+    <cyrillic>тооцох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T5628</ref>
+    <ref>T5629</ref>
+    <ref>T5639</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠭᠠᠴᠠᠬᠣ</unicode>
+      <uighur>toγačaqu</uighur>
+      <cyrillic>тооцох</cyrillic>
+      <transcript>TOΓACA-</transcript>
+      <definition>See toγaci-</definition>
+      <page>813</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠭᠠᠴᠠᠬᠤ</unicode>
+      <definition>compler, calculer, énumérer: 2 être mis au nombre, être admis, faire parlie de qc</definition>
+      <page>1802</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠤᠭᠠᠴᠠᠬᠤ ᠦᠭᠡᠢ</unicode>
+          <definition>incalculable, innombrable</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠤᠭᠠᠴᠠᠬᠤᠢ ᠳᠤᠭ᠎ᠠ</unicode>
+          <definition>nombre compté, calcul, nombre</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠣᠭᠠᠴᠠᠬᠣ</unicode>
+      <uighur>duγačaqu</uighur>
+      <definition>die Rechnung machen, zusammen rechnen</definition>
+      <page>249</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠣᠭᠠᠴᠠᠬᠣ</unicode>
+      <uighur>tuγačaqu</uighur>
+      <definition>To make calculations. To calculate (of several).</definition>
+      <page>988</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠭᠠᠴᠠᠬᠤ</unicode>
+      <cyrillic>тооцох</cyrillic>
+      <definition>〔动〕①结账，清账：ажлаас халагдагсадтай сайн ~ хэрэгтэй 和离职的人要很好地结账；~н бодох математик 计算数学；~ арга 结算方式；~ жин 结算重量；~ хуудас 核算卡；②登账，入账，记账；登记注册：юмыг бүртгэл тооцоонд бүртгэн ~ 把东西登入账内；③（和给在格或гэж 连用）认为…是…，以为…是…；把…当作…，把…作为…，把…算为…；把…列入…，把…记人…，把…编人…： түүнийг сайн хүн гэж ~ж болохгүй 不能把他当作好人；үүнийг бүртгэл тооцоонд бүртгэн ~ж болно 可将此列入统计数内；тооцохгүй! 〈体〉不算！</definition>
+      <page>1078</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠭᠠᠴᠠᠬᠣ</unicode>
+      <cyrillic>ТООЦОХ</cyrillic>
+      <definition>1) причислять к чему-л., принимать за кого-что-л.; зачислять (с дательно-местным падежом или с “гэж”); хурал нээгдсэнд тооцох объявлять собрание открытым; түүнийг муу хүнд тооцож болохгүй нельзя считать его плохљм человеком; хүчинтэйд тооцох считать действљтельным; 2) произвестљ расчёт, рассчитаться; 3) учљтывать при расчёте. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тооцох</cyrillic>
+      <definition>1. die Rechnung machen; rechnen (zu -д); тооцон бодох ausrechnen, berechnen; тооцон бодох тэв Rechenzentrum n
+2. halten (für -д); хэрэггүйд ~ für unnötig halten</definition>
+      <page>231</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠭᠣᠴᠠᠬᠤ</unicode>
+      <cyrillic>тооцох</cyrillic>
+      <definition>1. юмны данс тооцоог бодож дуусгах; ажлаас халагдагсадтай сайн тооцох хэрэгтэй;2. юмыг бүртгэл тоонд оруулах; бүртгэл тооцоонд бүртгэн тооцохгүй зүйл байж үл болно;3. тоолох, бодох; түүнийг сайн хүн гэж тооцож болохгүй; хурал нээхэд хүчинтэйд тооцож хурлаа нээе.</definition>
+      <page>543</page>
+    </entry_item>
+  </entries>
+</entry>

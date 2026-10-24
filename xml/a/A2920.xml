@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A2920">
+  <head>
+    <unicode>ᠠᠮᠢᠰᠬᠣᠯᠯᠠᠬᠣ</unicode>
+    <transcript>amisqullaqu</transcript>
+    <transcript2>amisgollago</transcript2>
+    <cyrillic>амьсгаллах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠮᠢᠰᠬᠤᠯᠯᠠᠬᠤ</unicode>
+      <cyrillic>амьсгаллах</cyrillic>
+      <definition>〔动〕амьсгалах 的多次体.</definition>
+      <page>58</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠮᠢᠰᠬᠣᠯᠯᠠᠬᠣ</unicode>
+      <cyrillic>АМЬСГАЛЛАХ</cyrillic>
+      <definition>дышать.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠮᠢᠰᠬᠤᠯᠯᠠᠬᠤ</unicode>
+      <cyrillic>амьсгаллах</cyrillic>
+      <definition>байн байн амьсгал авах.</definition>
+      <page>42</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>A2911</ref>
+  </related_to>
+</entry>

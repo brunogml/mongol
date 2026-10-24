@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E1231">
+  <head>
+    <unicode>ᠡᠮᠺᠢᠲᠭᠡᠺᠦ</unicode>
+    <transcript>emkitgekü</transcript>
+    <transcript2>emgidgegö</transcript2>
+    <cyrillic>эмхэтгэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>E1232</ref>
+    <ref>E1233</ref>
+    <ref>E1230</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠮᠺᠢᠲᠺᠠᠺᠥ</unicode>
+      <uighur>emkidgekü</uighur>
+      <cyrillic>эмхэтгэх</cyrillic>
+      <transcript>EMKIDKE-</transcript>
+      <definition>v. t. To put in order, arrange, systematize, plan.</definition>
+      <page>313</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠮᠺᠢᠲᠺᠠᠨ ᠪᠠᠶᠢᠭᠤᠯᠬᠤ</unicode>
+          <transcript>--n baiγulxu</transcript>
+          <definition> To bring in order, establish, organize.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠮᠬᠢᠳᠬᠡᠬᠦ</unicode>
+      <cyrillic>эмхэтгэх</cyrillic>
+      <definition>〔名〕见 эмхтгэх.</definition>
+      <page>1698</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠮᠺᠢᠲᠺᠠᠺᠥ</unicode>
+      <cyrillic>ЭМХТГЭХ</cyrillic>
+      <definition>1) составлять сборник; 2) сводить в одно органическое целое, кодифицировать; хууль эмхтгэх кодифицировать закона; эмхтгэн найруулах кодифицировать; 3) обобщать; цаг уурын талаар олон жилийн ажиглалтаа эмхтгэх обобщить свои многолетние наблюдения над метеорологическими явлениями. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠮᠬᠢᠳᠬᠡᠬᠦ</unicode>
+      <cyrillic>эмхэтгэх</cyrillic>
+      <definition>1. эмхлэх, эмхтэй цэгцтэй, журамтай замбараатай болгох; ажлаа эмхэтгэх;2. цуглуулан нэгтгэж нэгэн бөөн болгох; уран зохиол эмхэтгэх.</definition>
+      <page>877</page>
+    </entry_item>
+  </entries>
+</entry>

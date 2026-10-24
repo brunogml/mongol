@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I0195">
+  <head>
+    <unicode>ᠢᠪᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ibegülkü</transcript>
+    <transcript2>ibegölgö</transcript2>
+    <cyrillic>ивүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>I0194</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠪᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>ивүүлэх</cyrillic>
+      <definition>〔动〕ивэх 的使动态.</definition>
+      <page>601</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠪᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ИВҮҮЛЭХ</cyrillic>
+      <definition>ивэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠪᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>ивүүлэх</cyrillic>
+      <definition>ивэхийн үйлдүүлэх хэв, ивэхэд хүрүүлэх.</definition>
+      <page>298</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4194">
+  <head>
+    <unicode>ᠰᠢᠵᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>siǰalaγulqu</transcript>
+    <transcript2>sicalagolgo</transcript2>
+    <cyrillic>шазлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S4193</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠵᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шазлуулах</cyrillic>
+      <definition>〔动〕шазлах 的使动态.</definition>
+      <page>1609</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠵᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАЗЛУУЛАХ</cyrillic>
+      <definition>1) шазлах-ын үйлдүүл.; 2) быть разваренным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠵᠠᠯᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шазлуулах</cyrillic>
+      <definition>шазлахын үйлдүүлэх хэв.</definition>
+      <page>831</page>
+    </entry_item>
+  </entries>
+</entry>

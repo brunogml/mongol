@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3245">
+  <head>
+    <unicode>ᠳᠠᠩᠰᠠᠯᠺᠥ</unicode>
+    <transcript>dengselkü</transcript>
+    <transcript2>dengselgö</transcript2>
+    <cyrillic>дэнслэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T3237</ref>
+  </derivatives>
+  <see_also>
+    <ref>T3228</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠠᠩᠰᠠᠯᠺᠥ</unicode>
+      <uighur>dengselkü</uighur>
+      <cyrillic>дэнслэх</cyrillic>
+      <transcript>DENGSEL-</transcript>
+      <definition>v.i. To vaccillate, oscillate, waver, totter, tremble; to doubt, be irresolute; to be[come] excited.</definition>
+      <page>252</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠩᠰᠠᠯᠦᠨ ᠺᠥᠳᠡᠯᠺᠦ</unicode>
+          <transcript>--yn kodelky</transcript>
+          <definition> To shake, quake.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠡᠳᠺᠢᠯ ᠎ᠳᠡᠭᠡᠨ ᠳᠠᠩᠰᠠᠯᠺᠦ</unicode>
+          <transcript>sedkil degen --ky</transcript>
+          <definition> To waver, be irresolute, hesitate</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠡᠩᠰᠡᠯᠺᠦ</unicode>
+      <definition>chanceler, se balancer: 2 trembler.</definition>
+      <page>1692</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠳᠠᠩᠰᠠᠯᠺᠥ</unicode>
+      <uighur>dengselkü</uighur>
+      <definition>schwanken, wanken</definition>
+      <page>273</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠩᠰᠠᠯᠺᠥ</unicode>
+      <cyrillic>ДЭНСЛЭХ</cyrillic>
+      <definition>III 1) возбуждаться, быть возбуждённым; разволноваться; дэнслэн энслэн хорш. горько плача, обливаясь слезами; 2) качаться, трястись; дэнслэн донсох хорш. трястись. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠩᠰᠠᠯᠺᠥ</unicode>
+      <cyrillic>ДЭНСЛЭХ</cyrillic>
+      <definition>IV голодать в течение долгого времени, изголодаться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠩᠰᠡᠯᠬᠦ</unicode>
+      <cyrillic>дэнслэх /2</cyrillic>
+      <definition>1. донслох;дэнслэх донслох&lt;хорш&gt;;2. амгалангүй болох, гуниглах, догдлох; дэнсэлсэн хоёр сэтгэлийг дэмий битгий зовоогоорой &lt;уртын дуу&gt;.</definition>
+      <page>228</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠩᠰᠡᠯᠬᠦ</unicode>
+      <cyrillic>дэнслэх /3</cyrillic>
+      <definition>удаан хугацаагаар өлсөж зовиурлах; дэнслэн зовох.</definition>
+      <page>228</page>
+    </entry_item>
+  </entries>
+</entry>

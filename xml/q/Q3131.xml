@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q3131">
+  <head>
+    <unicode>ᠬᠠᠶᠢᠷᠰᠣ</unicode>
+    <transcript>qayirsu</transcript>
+    <transcript2>gayirso</transcript2>
+    <cyrillic>хайрс</cyrillic>
+  </head><see_also>
+    <ref>Q3096</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠶᠢᠷᠰᠣ ~ ᠬᠠᠶᠢᠷᠰᠣᠨ</unicode>
+      <uighur>qayirsu - qayirsun</uighur>
+      <cyrillic>хайрс</cyrillic>
+      <transcript>XAIRSU(N)</transcript>
+      <definition>[= xairasu(n)] n. Scales (as of fishes and reptiles)</definition>
+      <page>914</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠢᠭᠠᠰᠤᠨ ᠤ ᠬᠠᠶᠢᠷᠰᠣ</unicode>
+          <transcript>ziγasun u -- </transcript>
+          <definition> Fish scales.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠶᠢᠷᠰᠤ ~ ᠬᠠᠶᠢᠷᠰᠣᠨ ~ ᠬᠠᠶᠢᠷᠠᠰᠣᠨ</unicode>
+      <definition>écaille de poisson</definition>
+      <page>714</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠶᠢᠷᠰᠣ</unicode>
+      <cyrillic>ХАЙРС</cyrillic>
+      <definition>чешуя, чешуйка; роговидная пластинка; загасны хайрс рыбья чешуя. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

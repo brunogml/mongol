@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7024">
+  <head>
+    <unicode>ᠲᠣᠯᠪᠣᠷ</unicode>
+    <transcript>tulbur</transcript>
+    <transcript2>dolbor</transcript2>
+    <cyrillic>тулбар</cyrillic>
+  </head>
+  <see_also>
+    <ref>T7023</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠯᠪᠤᠷ</unicode>
+      <cyrillic>тулбар</cyrillic>
+      <definition>〔名〕钻子，钻孔器，钻头.</definition>
+      <page>1110</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠯᠪᠣᠷ</unicode>
+      <cyrillic>ТУЛБАР</cyrillic>
+      <definition>бурав, сверло (для сверления железа), пробойник (инструмент для пробивания дыр по металлу). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тулбар</cyrillic>
+      <definition>alt Metallbohrer m</definition>
+      <page>238</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠯᠪᠤᠷ</unicode>
+      <cyrillic>тулбар</cyrillic>
+      <definition>цоолтуур, төмөрлөгийг цоолох багаж.</definition>
+      <page>555</page>
+    </entry_item>
+  </entries>
+</entry>

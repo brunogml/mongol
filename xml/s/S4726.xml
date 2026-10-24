@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4726">
+  <head>
+    <unicode>ᠰᠢᠷᠪᠥᠰᠥᠷᠠᠺᠥ</unicode>
+    <transcript>sirbüsürekü</transcript>
+    <transcript2>sirbösöregö</transcript2>
+    <cyrillic>шөрмөсрөх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠷᠪᠥᠰᠥᠷᠡᠬᠦ</unicode>
+      <cyrillic>шөрмөсрөх</cyrillic>
+      <definition>〔动〕健壮，有劲，变为有力.</definition>
+      <page>1654</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠷᠪᠥᠰᠥᠷᠠᠺᠥ</unicode>
+      <cyrillic>ШӨРМӨСРӨХ</cyrillic>
+      <definition>получиться жилообразным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠷᠪᠥᠰᠥᠷᠡᠬᠦ</unicode>
+      <cyrillic>шөрмөсрөх</cyrillic>
+      <definition>шөрмөс мэт байдалтай болох.</definition>
+      <page>856</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S4718</ref>
+  </related_to>
+</entry>

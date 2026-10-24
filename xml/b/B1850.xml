@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1850">
+  <head>
+    <unicode>ᠪᠠᠮᠪᠠᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>bembegenegülkü</transcript>
+    <transcript2>bembegenegölgö</transcript2>
+    <cyrillic>бэмбэгнүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>B1848</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠡᠮᠪᠡᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бэмбэгнүүлэх</cyrillic>
+      <definition>〔动〕бэмбэгнэх 的使动态.</definition>
+      <page>246</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠮᠪᠠᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>БЭМБЭГНҮҮЛЭХ</cyrillic>
+      <definition>бэмбэгнэх-ийн үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠡᠮᠪᠡᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бэмбэгнүүлэх</cyrillic>
+      <definition>бэмбэгнэхийн үйлдүүлэх хэв.</definition>
+      <page>122</page>
+    </entry_item>
+  </entries>
+</entry>

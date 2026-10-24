@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2013">
+  <head>
+    <unicode>ᠳᠠᠮᠠᠷᠣᠳᠠᠬᠣ</unicode>
+    <transcript>damarudaqu</transcript>
+    <transcript2>damarodago</transcript2>
+    <cyrillic>дамардах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠠᠮᠠᠷᠣᠳᠠᠬᠣ</unicode>
+      <uighur>damarudaqu</uighur>
+      <cyrillic>дамардах</cyrillic>
+      <transcript>DAMARUDA-</transcript>
+      <definition>v.t. To rattle the skull drum; to shake the head</definition>
+      <page>228</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠮᠠᠷᠣᠳᠠᠬᠣ</unicode>
+      <cyrillic>ДАМАРДАХ</cyrillic>
+      <definition>ударять, бить в дамар; трясти дамар, извлекая из него звук. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дамардах</cyrillic>
+      <definition>Rel trommeln, die Handtrommel schlagen</definition>
+      <page>90</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠮᠠᠷᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>дамардах</cyrillic>
+      <definition>дамрыг сэжлэн дуугаргах.</definition>
+      <page>185</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T2012</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E0258">
+  <head>
+    <unicode>ᠡᠪᠡᠷᠳᠡᠺᠦ</unicode>
+    <transcript>eberdekü</transcript>
+    <transcript2>eberdegö</transcript2>
+    <cyrillic>эвэрдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>E0259</ref>
+    <ref>E0257</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠪᠠᠷᠳᠠᠺᠥ</unicode>
+      <cyrillic>ЭВЭРДЭХ</cyrillic>
+      <definition>брать, хватать за рог. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠪᠡᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>эвэрдэх</cyrillic>
+      <definition>эврээс нь барих.</definition>
+      <page>867</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0956">
+  <head>
+    <unicode>ᠭᠠᠪᠢ</unicode>
+    <transcript>γabi</transcript>
+    <transcript2>gabi</transcript2>
+    <cyrillic>гавь</cyrillic>
+  </head>
+  <see_also>
+    <ref>Q0955</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠠᠪᠢ</unicode>
+      <uighur>γabi</uighur>
+      <cyrillic>гавь</cyrillic>
+      <transcript>ΓABI</transcript>
+      <definition>[Gu.] adj. As good as others, on par with others.</definition>
+      <page>340</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠠᠪᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Not so good.</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠠᠪᠢ ᠦᠭᠡᠢ ᠺᠦᠮᠦᠨ</unicode>
+          <transcript>--ygei kymyn</transcript>
+          <definition> Subnormal or defective person; impolite person.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠭᠠᠪᠢ</unicode>
+      <uighur>γabi ügei</uighur>
+      <definition>Altogether unlike.</definition>
+      <page>750</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠠᠪᠢ</unicode>
+      <cyrillic>гавь</cyrillic>
+      <definition>〔名〕见 гавиа.</definition>
+      <page>262</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠪᠢ</unicode>
+      <cyrillic>ГАВЬ</cyrillic>
+      <definition>что-л. незначительное, несущественное, пустяковое; ерунда, пустяк, мелочь. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠪᠢ</unicode>
+      <cyrillic>ГАВЬГҮЙ</cyrillic>
+      <definition>не сравниться с..., нечего и сравнивать с..., не ровня, не пара; гавихгүй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гавь</cyrillic>
+      <definition>Besonderheit f, etw. Außergewöhnliches od Ungewöhnliches</definition>
+      <page>71</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠠᠪᠢ</unicode>
+      <cyrillic>гавь</cyrillic>
+      <definition>горь, горьдлого; гавьтай сайн эд биш гавигүй муу юм; гавиа ч гэнэ.</definition>
+      <page>129</page>
+    </entry_item>
+  </entries>
+</entry>

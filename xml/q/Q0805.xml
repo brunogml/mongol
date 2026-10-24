@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0805">
+  <head>
+    <unicode>ᠬᠠᠭᠣᠷᠲᠠᠬᠣ</unicode>
+    <transcript>qaγurtaqu</transcript>
+    <transcript2>gagordago</transcript2>
+    <cyrillic>хууртах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q0808</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q0810</ref>
+    <ref>Q0806</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠭᠣᠷᠲᠠᠬᠣ</unicode>
+      <uighur>qaγordaqu</uighur>
+      <cyrillic>хууртах</cyrillic>
+      <transcript>XAΓURTA-</transcript>
+      <definition>v. i. To be cheated or deceived.</definition>
+      <page>910</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠭᠣᠷᠳᠠᠬᠤ</unicode>
+      <definition>être trompé, dupé, séduit</definition>
+      <page>748</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠭᠣᠷᠳᠠᠭᠰᠠᠨ ᠺᠦᠮᠦᠨ</unicode>
+          <definition>un homme trompé</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠠᠭᠣᠷᠲᠠᠬᠣ</unicode>
+      <uighur>qaγurdaqu</uighur>
+      <definition>siehe qaguraqdaqu</definition>
+      <page>133</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠭᠤᠷᠲᠠᠬᠤ</unicode>
+      <cyrillic>хууртах</cyrillic>
+      <definition>бусдын хуурмаг үйл явдалд мэхлэгдэх, хуурагдах, залилагдах.</definition>
+      <page>739</page>
+    </entry_item>
+  </entries>
+</entry>

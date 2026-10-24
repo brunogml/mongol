@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q7126">
+  <head>
+    <unicode>ᠭᠣᠷᠪᠠᠨᠲᠠ</unicode>
+    <transcript>γurbanta</transcript>
+    <transcript2>gorbanda</transcript2>
+    <cyrillic>гурвант</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠣᠷᠪᠠᠨᠲᠠ</unicode>
+      <uighur>γurbanta</uighur>
+      <cyrillic>гурвант</cyrillic>
+      <transcript>ΓURBANTA</transcript>
+      <definition>multip. num.Three times.</definition>
+      <page>369</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠣᠷᠪᠠᠨᠲᠠ ᠪᠡᠷ</unicode>
+          <transcript>-- ber</transcript>
+          <definition> Three times ( rare).</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠤᠷᠪᠠᠨᠳᠠ</unicode>
+      <definition>trois fois.</definition>
+      <page>1041</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠭᠣᠷᠪᠠᠨᠲᠠ</unicode>
+      <uighur>γurbanda</uighur>
+      <definition>dreimal.</definition>
+      <page>205</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠭᠣᠷᠪᠠᠨᠲᠠ</unicode>
+      <uighur>γurbanta</uighur>
+      <definition>Three times.</definition>
+      <page>806</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠷᠪᠠᠨᠲᠠ</unicode>
+      <cyrillic>ГУРВАНТАА</cyrillic>
+      <definition>три раза, трижды. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠤᠷᠪᠠᠨᠲᠠ</unicode>
+      <cyrillic>гурвантаа</cyrillic>
+      <definition>гурван удаа.</definition>
+      <page>160</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q7125</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0910">
+  <head>
+    <unicode>ᠱᠠᠯᠠᠪᠯᠠᠬᠣ</unicode>
+    <transcript>šalablaqu</transcript>
+    <transcript2>salablago</transcript2>
+    <cyrillic>шалавлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S0911</ref>
+    <ref>S0913</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠯᠠᠪᠯᠠᠬᠤ</unicode>
+      <cyrillic>шалавлах</cyrillic>
+      <definition>〔动〕迅速；敏捷，轻捷；加快，加紧.</definition>
+      <page>1610</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠯᠠᠪᠯᠠᠬᠣ</unicode>
+      <cyrillic>ШАЛАВЛАХ</cyrillic>
+      <definition>1) торопиться, спешить; 2) вертеться, юлить, егозить, быть непоседливым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шалавлах</cyrillic>
+      <definition>sich beeilen od sputen, schnell machen</definition>
+      <page>378</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠯᠠᠪᠯᠠᠬᠤ</unicode>
+      <cyrillic>шалавлах</cyrillic>
+      <definition>маш хурдлах, түргэлэх, бушуулах.</definition>
+      <page>831</page>
+    </entry_item>
+  </entries>
+</entry>

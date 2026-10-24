@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A0264">
+  <head>
+    <unicode>ᠠᠩᠢ</unicode>
+    <transcript>angi</transcript>
+    <transcript2>angi</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠩᠢ</unicode>
+      <transcript>ANGI</transcript>
+      <definition> T. bam po; S. anga. Member, part, section, book, as part of a work. ED 5b.</definition>
+      <page>1160</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠩᠢ</unicode>
+      <uighur>anggi</uighur>
+      <definition>division, section, chapitre, classe, partie, portion</definition>
+      <page>18</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠩᠭᠢ ᠵᠣᠬᠢᠶᠠᠬᠤ</unicode>
+          <definition>diviser en parties ou sections, étaler en parties</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠠᠳᠮ᠎ᠠ ᠶᠢᠨ ᠵᠢᠷᠦᠬᠡᠨ ᠳᠥᠷᠪᠡᠨ ᠠᠩᠭᠢ ᠭᠠᠭᠠᠷᠪᠠᠢ</unicode>
+          <definition>la corolle du lys se partagea quatre parties</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠪᠤᠨ ᠠᠩᠭᠢ ᠬᠤᠪᠢᠶ᠎ᠠ</unicode>
+          <definition>divise en cinq parties</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

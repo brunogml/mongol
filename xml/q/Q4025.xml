@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4025">
+  <head>
+    <unicode>ᠬᠣᠨᠢᠶᠠᠰᠣ</unicode>
+    <transcript>quniyasu</transcript>
+    <transcript2>goniyaso</transcript2>
+    <cyrillic>хуниас</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q4026</ref>
+    <ref>Q4027</ref>
+    <ref>Q4028</ref>
+    <ref>Q4029</ref>
+    <ref>Q4032</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠤᠨᠢᠶᠠᠰᠤ ~ ᠬᠤᠨᠢᠶᠠᠰᠤᠨ</unicode>
+      <uighur>quniyasu - quniyasun</uighur>
+      <cyrillic>хуниас</cyrillic>
+      <transcript>XUNIJASU(N)</transcript>
+      <definition>n. An opening or orifice which closes by contracting or tightening into folds or wrinkles; fold[s], plait[s], gather[s]</definition>
+      <page>986</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠤᠨᠢᠶᠠᠰᠤ ᠲᠠᠲᠠᠬᠤ</unicode>
+          <transcript>-- tataxu</transcript>
+          <definition>To pull, arrange, or gather together in folds.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠨᠢᠶᠠᠰᠣᠨ ~ ᠬᠣᠨᠢᠶᠠᠰᠤ</unicode>
+      <definition>les rides da visage, sillon 2 pli que fait une chose, plissure</definition>
+      <page>867</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠨᠢᠶᠠᠰᠣ ᠳᠠᠲᠠᠬᠤ</unicode>
+          <definition>faire des plis, plisser</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠣᠨᠢᠶᠠᠰᠣ</unicode>
+      <uighur>quniyasun</uighur>
+      <definition>die Runzeln der Haut; die Falten eines Kleides</definition>
+      <page>161</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠣᠨᠢᠶᠠᠰᠣ</unicode>
+      <uighur>quniyasO</uighur>
+      <definition>n. Wrinkles of the skin. The foldings of clothes or dresses.</definition>
+      <page>632</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠨᠢᠶᠠᠰᠤ</unicode>
+      <cyrillic>хуниас</cyrillic>
+      <definition>〔名〕褶，皱褶，褶痕，皱纹：хувцасны ~ 衣服的铍權；~ татах 把衣服折出褶痕.</definition>
+      <page>1432</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠨᠢᠶᠠᠰᠣ</unicode>
+      <cyrillic>ХУНИАС</cyrillic>
+      <definition>морщина; складки; сборки; волан; хуниас гаргах делать сборки; плиссировать; хуниас татах морщить; морщиться.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хуниас[ан]</cyrillic>
+      <definition>Falte f, Falz m, Kniff m</definition>
+      <page>328</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠨᠢᠶᠠᠰᠤ᠊ᠨ</unicode>
+      <cyrillic>хуниас</cyrillic>
+      <definition>эд юманд тусгайлан гаргасан буюу өөрөө бүтсэн, бий болсон атираа; хувцасны хуниас; хавтганы хуниас.</definition>
+      <page>730</page>
+    </entry_item>
+  </entries>
+</entry>

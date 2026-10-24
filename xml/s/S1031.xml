@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1031">
+  <head>
+    <unicode>ᠰᠠᠯᠭᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>salγalaγulqu</transcript>
+    <transcript2>salgalagolgo</transcript2>
+    <cyrillic>салгалуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S1030</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠯᠭᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>салгалуулах</cyrillic>
+      <definition>〔动〕салгалах 的使动态.</definition>
+      <page>902</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠯᠭᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>САЛГАЛУУЛАХ</cyrillic>
+      <definition>салгалах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠯᠭᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>салгалуулах</cyrillic>
+      <definition>салгалахын үйлдүүлэх хэв.</definition>
+      <page>463</page>
+    </entry_item>
+  </entries>
+</entry>

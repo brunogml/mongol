@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2582">
+  <head>
+    <unicode>ᠲᠠᠷᠠᠭᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>taraγaγdaqu</transcript>
+    <transcript2>daragagdago</transcript2>
+    <cyrillic>тараагдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T2581</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠷᠠᠭᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>тараагдах</cyrillic>
+      <definition>〔动〕тараах 的被动态.</definition>
+      <page>1028</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠷᠠᠭᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТАРААГДАХ</cyrillic>
+      <definition>тараах-ын үйлдэгд., распускаться, разбрасываться; быть распущенным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠷᠠᠭᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>тараагдах</cyrillic>
+      <definition>тараахын үйлдэгдэх хэв.</definition>
+      <page>521</page>
+    </entry_item>
+  </entries>
+</entry>

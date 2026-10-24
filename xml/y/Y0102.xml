@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y0102">
+  <head>
+    <unicode>ᠵᠠᠩᠬ ᠠ</unicode>
+    <transcript>ǰangq-a</transcript>
+    <transcript2>yangga</transcript2>
+    <cyrillic>занх</cyrillic>
+  </head>
+  <see_also>
+    <ref>Y0103</ref>
+    <ref>Y0104</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠠᠩᠬ᠎ᠠ</unicode>
+      <uighur>ǰangq-a</uighur>
+      <cyrillic>занх</cyrillic>
+      <transcript>ZANGX-A</transcript>
+      <page>1036</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠠᠩᠬ᠎ᠠ ᠨᠤᠮᠤ</unicode>
+          <transcript>-- numu</transcript>
+          <definition>Bow made from buffalo horn.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠠᠩᠬᠠ</unicode>
+      <definition>arc fait de cornes de buffle</definition>
+      <page>2239</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠩᠬ᠎ᠠ</unicode>
+      <cyrillic>занх</cyrillic>
+      <definition>〔名〕用牛角制作的弓.</definition>
+      <page>545</page>
+    </entry_item>
+  </entries>
+</entry>

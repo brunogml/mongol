@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2332">
+  <head>
+    <unicode>ᠰᠠᠮᠠᠴᠢᠺᠥᠯᠺᠥ</unicode>
+    <transcript>semečigülkü</transcript>
+    <transcript2>semecigölgö</transcript2>
+    <cyrillic>сэмчүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S2331</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠮᠡᠴᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сэмчүүлэх</cyrillic>
+      <definition>〔动〕сэмчих 的使动态.</definition>
+      <page>989</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠮᠠᠴᠢᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>СЭМЧҮҮЛЭХ</cyrillic>
+      <definition>сэмчих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠮᠡᠴᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сэмчүүлэх</cyrillic>
+      <definition>сэмчихийн үйлдүүлэх хэв.</definition>
+      <page>503</page>
+    </entry_item>
+  </entries>
+</entry>

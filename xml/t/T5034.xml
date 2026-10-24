@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T5034">
+  <head>
+    <transcript>dila</transcript>
+    <transcript2>dila</transcript2>
+    <cyrillic>дэл</cyrillic>
+  </head><see_also>
+    <ref>T5033</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠢᠯ ~ ᠳᠢᠯᠠ</unicode>
+      <uighur>dil - dila</uighur>
+      <cyrillic>дэл</cyrillic>
+      <transcript>DIL[A]</transcript>
+      <definition>n. Sesame, Sesamum indicum.</definition>
+      <page>255</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᢐᠢᠯ ~ ᢐᠢᠯᠠ ~ ᠺᠦᠨᠵᠢᠳ</unicode>
+      <definition>sesamum orientale.</definition>
+      <page>1779</page>
+    </entry_item>
+  </entries>
+</entry>

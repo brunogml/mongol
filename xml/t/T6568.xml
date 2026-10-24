@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6568">
+  <head>
+    <unicode>ᠲᠣᠰᠬᠣᠭᠣᠯ</unicode>
+    <transcript>tosquγul</transcript>
+    <transcript2>dosgogol</transcript2>
+    <cyrillic>тосгуул</cyrillic>
+  </head>
+  <related_to>
+    <ref>T6563</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠰᠬᠣᠭᠤᠯ</unicode>
+      <cyrillic>тосгуул</cyrillic>
+      <definition>〔名〕①支撑物，承接物；②前置量，提前修正量.</definition>
+      <page>1084</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠰᠬᠣᠭᠣᠯ</unicode>
+      <cyrillic>ТОСГУУЛ</cyrillic>
+      <definition>тосгуур-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠰᠣᠭᠤᠯ</unicode>
+      <cyrillic>тосгуул</cyrillic>
+      <definition>тоссон юм.</definition>
+      <page>546</page>
+    </entry_item>
+  </entries>
+</entry>

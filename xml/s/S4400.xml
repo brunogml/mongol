@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4400">
+  <head>
+    <unicode>ᠰᠢᠺᠥᠷᠯᠠᠺᠥ</unicode>
+    <transcript>sikürlekü</transcript>
+    <transcript2>sigörlegö</transcript2>
+    <cyrillic>шүхэрлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S4401</ref>
+    <ref>S4399</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠬᠦᠷᠯᠡᠬᠦ</unicode>
+      <cyrillic>шүхэрлэх</cyrillic>
+      <definition>〔动〕①打伞，撑伞；②孔雀开屏.</definition>
+      <page>1671</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠺᠥᠷᠯᠠᠺᠥ</unicode>
+      <cyrillic>ШҮХЭРЛЭХ</cyrillic>
+      <definition>распускать перья (о павлине). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шүхэрлэх</cyrillic>
+      <definition>Sport, Pfau radschlagen</definition>
+      <page>394</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠬᠦᠷᠯᠡᠬᠦ</unicode>
+      <cyrillic>шүхэрлэх</cyrillic>
+      <definition>тогос шувууны өд сөдөө дэлгэх; тогос шүхэрлэж байна.</definition>
+      <page>864</page>
+    </entry_item>
+  </entries>
+</entry>

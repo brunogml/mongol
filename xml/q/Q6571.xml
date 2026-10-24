@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q6571">
+  <head>
+    <unicode>ᠬᠣᠶᠢᠰᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>quyisaγanaqu</transcript>
+    <transcript2>goyisaganago</transcript2>
+    <cyrillic>хуйсганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q6572</ref>
+    <ref>Q6576</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠢᠰᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>хуйсганах</cyrillic>
+      <definition>〔动〕参见 хуйсрах.</definition>
+      <page>1426</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠶᠢᠰᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ХУЙСГАНАХ</cyrillic>
+      <definition>хуйсрах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠢᠰᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>хуйсганах</cyrillic>
+      <definition>хуйсалзах, аягүй ааш байдал гаргах.</definition>
+      <page>725</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1233">
+  <head>
+    <unicode>ᠴᠠᠺᠴᠠᠲᠺᠠᠺᠥ</unicode>
+    <transcript>čegčetgekü</transcript>
+    <transcript2>cegcedgegö</transcript2>
+    <cyrillic>цэгцэтгэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1234</ref>
+    <ref>C1232</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠺᠴᠠᠲᠺᠠᠺᠥ</unicode>
+      <uighur>čegčedgekü</uighur>
+      <cyrillic>цэгцтгэх</cyrillic>
+      <transcript>CEGCEDKE-</transcript>
+      <definition>v. t, To put in order.</definition>
+      <page>169</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠮᠺᠢᠳᠺᠡᠨ ᠴᠠᠺᠴᠠᠲᠺᠠᠺᠥ</unicode>
+          <transcript>emkidken –ky</transcript>
+          <definition> To put in order..</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠭᠴᠡᠳᠬᠡᠬᠦ</unicode>
+      <cyrillic>цэгцэтгэх</cyrillic>
+      <definition>〔动〕цэгцтэх 的使动态.</definition>
+      <page>1562</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠺᠴᠠᠲᠺᠠᠺᠥ</unicode>
+      <cyrillic>ЦЭГЦЭТГЭХ</cyrillic>
+      <definition>цэгцтэх-ийн үйлдүүл., приводить в порядок, систематизировать, действовать систематически, планомерно. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠭᠴᠡᠳᠬᠡᠬᠦ</unicode>
+      <cyrillic>цэгцэтгэх</cyrillic>
+      <definition>цэгцтэхэд хүрүүлэх.</definition>
+      <page>805</page>
+    </entry_item>
+  </entries>
+</entry>

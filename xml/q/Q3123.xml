@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q3123">
+  <head>
+    <unicode>ᠬᠠᠶᠢᠷᠬᠠᠬᠲᠣ</unicode>
+    <transcript>qayirqaγtu</transcript>
+    <transcript2>gayirgagdo</transcript2>
+    <cyrillic>хайрхагт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠶᠢᠷᠬᠠᠬᠳᠤ</unicode>
+      <definition>parsemé ou couvert de cailloux</definition>
+      <page>714</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠶᠢᠷᠬᠠᠬᠳᠤ ᠨᠢᠭᠡᠨ ᠪᠣᠯᠠᠭ ᠎ᠲᠤ ᠭᠠᠵᠠᠷ</unicode>
+          <definition>endroit parsemé de cailloux et arrosé d'un ruisseau</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠠᠶᠢᠷᠬᠠᠬᠲᠣ</unicode>
+      <uighur>qayirqaqtu</uighur>
+      <definition>mit kleinem Steingerülle (ein Ufer).</definition>
+      <page>126</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠠᠶᠢᠷᠬᠠᠬᠲᠣ</unicode>
+      <uighur>qayirqaqtu</uighur>
+      <definition>adj. Gravelled, stony.</definition>
+      <page>499</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠶᠢᠷᠬᠠᠬᠲᠣ</unicode>
+      <cyrillic>ХАЙРХАГТ</cyrillic>
+      <definition>усеянный галькой, мелкими камешками, каменистый. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+<related_to><ref>Q3122</ref></related_to></entry>

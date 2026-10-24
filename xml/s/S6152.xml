@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6152">
+  <head>
+    <unicode>ᠰᠣᠷᠢᠨᠵᠢᠳᠠᠬᠣ</unicode>
+    <transcript>sorinǰidaqu</transcript>
+    <transcript2>sorincidago</transcript2>
+    <cyrillic>соронздох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6153</ref>
+    <ref>S6153a</ref>
+    <ref>S6154</ref>
+  </derivatives>
+  <see_also>
+    <ref>S6177</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠷᠢᠨᠵᠢᠳᠠᠬᠣ</unicode>
+      <cyrillic>СОРОНЗДОХ</cyrillic>
+      <definition>намагничивать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠷᠢᠨᠵᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>соронздох</cyrillic>
+      <definition>соронзоор татах.</definition>
+      <page>481</page>
+    </entry_item>
+  </entries>
+</entry>

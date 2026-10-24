@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K0321">
+  <head>
+    <unicode>ᠺᠡᠪᠡᠭ</unicode>
+    <transcript>kebeg</transcript>
+    <transcript2>gebeg</transcript2>
+    <cyrillic>хэвэг</cyrillic>
+  </head>
+  <see_also>
+    <ref>K0358</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠡᠪᠡᠭ</unicode>
+      <uighur>kebeg</uighur>
+      <cyrillic>хэвэг</cyrillic>
+      <transcript>KEBEG</transcript>
+      <definition>[=kebig] n. Husk, peel, chaff; bran.</definition>
+      <page>438</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠷᠢᠶᠠᠨ ᠤ ᠺᠡᠪᠡᠭ</unicode>
+          <transcript>tarijan u - -</transcript>
+          <definition>Husks of grain, chaff.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠡᠪᠡᠭ</unicode>
+      <definition>la balle (du blé), gousse, cosse, le son (de farine)</definition>
+      <page>2451</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠷᠢᠶᠠᠨ ᠤ ᠺᠡᠪᠡᠭ</unicode>
+          <definition>la balle du blé</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠣᠳᠤᠷᠭ᠎ᠠ ᠎ᠶᠢᠨ ᠺᠡᠪᠡᠭ</unicode>
+          <definition>le son du millet</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠡᠪᠡᠭ ᠢ ᠭᠡᠶᠢᠭᠡᠺᠦ</unicode>
+          <definition>vanner, éventer la balle du blé</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠺᠡᠪᠡᠭ</unicode>
+      <uighur>kebek</uighur>
+      <definition>die Spreu, Kleie</definition>
+      <page>147</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠺᠡᠪᠡᠭ</unicode>
+      <uighur>kebeg</uighur>
+      <definition>n. Chaff. Bran</definition>
+      <page>581</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠡᠪᠡᠭ ᠢ ᠺᠡᠶᠢᠰᠺᠡᠺᠦ</unicode>
+          <definition>v.t. To separate the chaff from the grain by shoveling it in the wind.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠡᠪᠡᠭ</unicode>
+      <cyrillic>ХИВЭГ</cyrillic>
+      <definition>шелуха; мякина; отруби.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠡᠪᠡᠭ</unicode>
+      <cyrillic>ХЭВЭГ</cyrillic>
+      <definition>шелуха; мякина; отруби; хивэг— ийг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠪᠡᠭ</unicode>
+      <cyrillic>хэвэг</cyrillic>
+      <definition>тариа будааны ааг хальс; тарианы хэвэг; хэвгий нь арилгах.</definition>
+      <page>755</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q5514">
+  <head>
+    <unicode>ᠬᠣᠯᠢᠬᠣ</unicode>
+    <transcript>qoliqu</transcript>
+    <transcript2>goligo</transcript2>
+    <cyrillic>холих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q5515</ref>
+    <ref>Q5517</ref>
+    <ref>Q5556</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠯᠢᠬᠣ</unicode>
+      <uighur>qoliqu</uighur>
+      <cyrillic>холих</cyrillic>
+      <transcript>XOLI-</transcript>
+      <definition>v. t. To mix, mingle, blend, alloy, adulterate.</definition>
+      <page>959</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠯᠢᠵᠤ ᠬᠤᠳᠬᠤᠬᠤ</unicode>
+          <transcript>--zu xudxuxu</transcript>
+          <definition> To mix; to confuse.</definition>
+        </example>
+        <example>
+          <unicode>ᠢᠳᠡᠭᠡᠨ ᠳ᠋‍‍ᠤ‍ᠷ ᠬᠣᠤᠷ ᠬᠣᠯᠢᠬᠣ</unicode>
+          <transcript>idegen dyr xour --xu</transcript>
+          <definition> To mix poison into food.</definition>
+        </example>
+        <example>
+          <unicode>... ᠎ᠯᠤᠭ᠎ᠠ ᠬᠣᠯᠢᠬᠣ</unicode>
+          <transcript> . . luγ-a --xu. </transcript>
+          <definition>To mix with . . .</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠣᠩᠭᠤᠯ ᠺᠢᠲᠠᠳ ᠬᠣᠯᠢᠵᠤ ᠶᠠᠷᠢᠬᠤ</unicode>
+          <transcript>mongγul kitad --zu jarixu</transcript>
+          <definition> To speak a mixture of Mongolian and Chinese.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠯᠢᠬᠤ</unicode>
+      <definition>mêler, mélanger. mixtionner: 2 métaph. s'attacher à qc, se mêler de qc.</definition>
+      <page>925</page>
+      <examples>
+        <example>
+          <unicode>ᠢᠳᠡᠭᠡᠨ ᠳ᠋‍‍ᠤ‍ᠷ ᠬᠣᠤᠷᠠ ᠬᠣᠯᠢᠬᠤ</unicode>
+          <definition>mêler du poison dans la nourriture</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠣᠲᠤᠷᠭ᠎ᠠ ᠎ᠵᠤᠭᠠᠨ ᠮᠢᠬᠠ ᠎ᠯᠤᠭ᠎ᠠ ᠬᠣᠯᠢᠬᠤ</unicode>
+          <definition>ajouter du riz à la viande</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠢᠷᠲᠢᠨᠴᠦ ᠎ᠶᠢᠨ ᠨᠣᠮ ᠎ᠯᠤᠭ᠎ᠠ ᠡᠰᠡ ᠬᠣᠯᠢᠬᠤ</unicode>
+          <definition>ne pas se mêler des affaires du monde</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠣᠯᠢᠬᠣ</unicode>
+      <uighur>quliqu</uighur>
+      <definition>mischen (z.B. Milch und Wasser).</definition>
+      <page>167</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠣᠯᠢᠬᠣ</unicode>
+      <uighur>quliqu</uighur>
+      <definition>v.t. To mix, to mingle.</definition>
+      <page>657</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠣᠯᠢᠬᠤ</unicode>
+      <cyrillic>холих</cyrillic>
+      <definition>〔动〕混合在一起，调和，掺上，拌上，混杂，搅合：идээнд чихэр ~ 食物里掺上糖；хөзөр ~ 洗牌；хольж хутгах 掺合，拌合；ярихдаа хольж хутгах 讲得颠三倒四，说话杂乱无章.</definition>
+      <page>1356</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠯᠢᠬᠣ</unicode>
+      <cyrillic>ХОЛИХ</cyrillic>
+      <definition>1) смешивать, перемешивать, примешивать, подмешивать; зуурсан гурилд үзэм холих намешать изюма в тесто; идээнд чихэр холих подмешивать сахар в пищу; хөзөр холих тасовать, перемешивать карты в колоде; сүү хольж (хийж) гурил зуурах примешать молоко в тесто; хольсон тос смешанное (с мукой) масло; 2) путать, путаться; быть причастным к какому-л. делу; хольж хутгах хорш. путаться, сбиваться с толку; ярихдаа хольж хутгах путаться в рассказе. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>холих</cyrillic>
+      <definition>1. [bei-, ver-, zusammen]mischen, vermengen, [um-, ver]rühren; сүүнд ус ~ Wasser in die Milch rühren; хэзэр ~ Karten mischen
+2. übertr durcheinander geraten, durcheinanderkommen (bei, in etw. -д)</definition>
+      <page>308</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠯᠢᠬᠤ</unicode>
+      <cyrillic>холих</cyrillic>
+      <definition>1. нийлүүлж хутгах; хөзөр холих; алтанд зэс холих; тос холих;2. юмыг хооронд нь нийлүүлэн будлиантай болгох; хооронд нь хольж үл болох бичгүүд; ярихдаа хольж солих.</definition>
+      <page>686</page>
+    </entry_item>
+  </entries>
+</entry>

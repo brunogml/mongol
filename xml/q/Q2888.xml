@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q2888">
+  <head>
+    <unicode>ᠬᠠᠶᠠᠴᠠᠬᠣ</unicode>
+    <transcript>qayačaqu</transcript>
+    <transcript2>gayacago</transcript2>
+    <cyrillic>хаяцах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q2889</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠶᠠᠴᠠᠬᠤ</unicode>
+      <cyrillic>хаяцах</cyrillic>
+      <definition>〔动〕相互推诿，互相推托.</definition>
+      <page>1333</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠶᠠᠴᠠᠬᠣ</unicode>
+      <cyrillic>ХАЯЦАХ</cyrillic>
+      <definition>сваливать друг на друга; хаяцах хэрэггүй, хамжаад ажилла не сваливайте друг на друга, а работайте сообща. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠶᠠᠴᠠᠬᠤ</unicode>
+      <cyrillic>хаяцах</cyrillic>
+      <definition>үйл хэргийг бие бие рүүгээ түлхцэх; хаяцах хэрэггүй, хамжаад бүтээ!</definition>
+      <page>675</page>
+    </entry_item>
+  </entries>
+</entry>

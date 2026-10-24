@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6615">
+  <head>
+    <unicode>ᠳᠣᠲᠠᠬᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>dutaγdaγulqu</transcript>
+    <transcript2>dodagdagolgo</transcript2>
+    <cyrillic>дутагдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T6613</ref>
+    <ref>T6612</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠣᠲᠠᠬᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <uighur>dutaqdaγulqu</uighur>
+      <cyrillic>дутагдуулах</cyrillic>
+      <transcript>DUTAΓDAΓUL-</transcript>
+      <definition>[v. caus. of dutaγda-] To cause a lack or shortage, cause to be insufficient; to omit.</definition>
+      <page>277</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠣᠲᠠᠬᠳᠠᠭᠣᠯᠬᠣ ᠦᠭᠡᠢ ᠪᠡᠷ</unicode>
+          <transcript>-- ygei ber</transcript>
+          <definition> Without omission, in regular sequence.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠰᠢᠶᠠᠷᠠᠨ ᠳᠣᠲᠠᠬᠳᠠᠭᠣᠯᠬᠣ</unicode>
+          <transcript>tasijaran --xu</transcript>
+          <definition> To commit an oversight, make an error.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠤᠲᠠᠭᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дутагдуулах</cyrillic>
+      <definition>〔动〕дутагдах 的使动态；使缺乏，使缺少，使不足：дутагдуулсан зүйлийг төлж гүйцээх 补偿短缺的东西.</definition>
+      <page>445</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠲᠠᠬᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДУТАГДУУЛАХ</cyrillic>
+      <definition>дутагдах-ын үйлдүүл., пропускать; допускать нехватку, недостачу, недостаток; ташааран дутагдуулах допустить опечатку, совершать погрешность, сделать ошибку. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠤᠲᠠᠭᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дутагдуулах</cyrillic>
+      <definition>дутагдахын үйлдүүлэх хэв; дутагдуулсан зүйлийг төлж гүйцээх.</definition>
+      <page>213</page>
+    </entry_item>
+  </entries>
+</entry>

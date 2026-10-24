@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1978">
+  <head>
+    <unicode>ᠬᠠᠯᠢᠮᠯᠠᠬᠣ</unicode>
+    <transcript>qalimlaqu</transcript>
+    <transcript2>galimlago</transcript2>
+    <cyrillic>халимлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q1979</ref>
+    <ref>Q1980</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠯᠢᠮᠯᠠᠬᠤ</unicode>
+      <cyrillic>халимлах</cyrillic>
+      <definition>〔动〕剥下熟肉的脂肪层.</definition>
+      <page>1289</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠯᠢᠮᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХАЛИМЛАХ</cyrillic>
+      <definition>снимать верхний слой жирового покрова. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>халимлах</cyrillic>
+      <definition>die [obere] Fetthaut od Fettschicht entfernen</definition>
+      <page>287</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠯᠢᠮᠯᠠᠬᠤ</unicode>
+      <cyrillic>халимлах</cyrillic>
+      <definition>халимыг өвчиж хуулах; чанасан ууцыг халимлаж байв.</definition>
+      <page>650</page>
+    </entry_item>
+  </entries>
+</entry>

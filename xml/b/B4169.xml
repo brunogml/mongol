@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4169">
+  <head>
+    <unicode>ᠪᠥᠨᠳᠥᠯᠵᠠᠺᠥ</unicode>
+    <transcript>böndülǰekü</transcript>
+    <transcript2>böndölcegö</transcript2>
+    <cyrillic>бөндөлзөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B4170</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠨᠳᠥᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>бөндөлзөх</cyrillic>
+      <definition>〔动〕（球形物）移动动荡，摇晃；翻滚，滚动.</definition>
+      <page>188</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠨᠳᠥᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>БӨНДӨЛЗӨХ</cyrillic>
+      <definition>бөндгөнөх-ийг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бөндөлзөх</cyrillic>
+      <definition>= бөндөгнөх</definition>
+      <page>58</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠥᠨᠳᠥᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>бөндөлзөх</cyrillic>
+      <definition>бөндгөр юмны бөндөс бөндөс хөдлөх байдал.</definition>
+      <page>98</page>
+    </entry_item>
+  </entries>
+</entry>

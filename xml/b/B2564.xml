@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B2564">
+  <head>
+    <unicode>ᠪᠣᠣᠮᠠ</unicode>
+    <transcript>boum-a</transcript>
+    <transcript2>boom-a</transcript2>
+    <cyrillic>боом</cyrillic>
+  </head><see_also>
+    <ref>B2769</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠣᠣᠮ᠎ᠠ</unicode>
+      <uighur>boum-a</uighur>
+      <cyrillic>боом</cyrillic>
+      <transcript>BOUM-A</transcript>
+      <definition>see boγum-a,</definition>
+      <page>123</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠣᠤᠮ᠎ᠠ ~ ᠪᠤᠭᠣᠮ᠎ᠠ</unicode>
+      <definition>abcès, carboncle, charbon</definition>
+      <page>1157</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠣᠤᠮ᠎ᠠ ᠎ᠶᠢ ᠡᠮᠯᠡᠺᠦ</unicode>
+          <definition>guérir un abcès</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠣᠤᠮ᠎ᠠ ᠳ᠋‍‍ᠤ‍ᠷ ᠦᠺᠦᠺᠦ</unicode>
+          <definition>mourir d'un abcès</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠣᠤᠮ᠎ᠠ ᠎ᠶᠢ ᠬᠠᠳᠬᠤᠬᠤ</unicode>
+          <definition>percer un abcès</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠣᠤᠮ᠎ᠠ</unicode>
+      <definition>maître , instituteur.</definition>
+      <page>1157</page>
+    </entry_item>
+  </entries>
+</entry>

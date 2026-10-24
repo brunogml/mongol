@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S7075">
+  <head>
+    <unicode>ᠱᠥᠷᠺᠠᠳᠠᠺᠥ</unicode>
+    <transcript>šörgedekü</transcript>
+    <transcript2>sörgedegö</transcript2>
+    <cyrillic>шөрөгдөх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠥᠷᠭᠡᠳᠡᠬᠦ</unicode>
+      <cyrillic>шөрөгдөх</cyrillic>
+      <definition>〔动〕（牛犊用所戴的戒奶器）顶，戳，扎.</definition>
+      <page>1655</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠥᠷᠺᠠᠳᠠᠺᠥ</unicode>
+      <cyrillic>ШӨРӨГДӨХ</cyrillic>
+      <definition>шөрөглөх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠥᠷᠭᠡᠳᠡᠬᠦ</unicode>
+      <cyrillic>шөрөгдөх</cyrillic>
+      <definition>шөргөөр хатгах.</definition>
+      <page>856</page>
+    </entry_item>
+  </entries>
+</entry>

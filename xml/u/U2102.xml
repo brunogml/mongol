@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="U2102">
+  <head>
+    <unicode>ᠣᠴᠢᠲᠣ</unicode>
+    <transcript>očitu</transcript>
+    <transcript2>ocido</transcript2>
+    <cyrillic>очт</cyrillic>
+  </head><see_also>
+    <ref>U2101</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠴᠢᠲᠣ</unicode>
+      <uighur>očidu</uighur>
+      <cyrillic>очит</cyrillic>
+      <transcript>OCITU</transcript>
+      <definition>See ocitai.</definition>
+      <page>600</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠴᠢᠳᠠᠢ ~ ᠣᠴᠢᠳᠤ</unicode>
+      <definition>rempli d'étincelles, étincelé, étincelant</definition>
+      <page>416</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠴᠢᠳᠤ ᠭᠠᠯ</unicode>
+          <definition>flamme scintillante, etincelles de feu.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠴᠢᠲᠣ</unicode>
+      <cyrillic>ОЧИТ</cyrillic>
+      <definition>очтой-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

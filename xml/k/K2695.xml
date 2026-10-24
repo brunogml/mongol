@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K2695">
+  <head>
+    <unicode>ᠺᠢᠷᠪᠣᠰᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>kirbusulaγulqu</transcript>
+    <transcript2>girbosolagolgo</transcript2>
+    <cyrillic>хярваслуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>K2694</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠢᠷᠪᠤᠰᠤᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хярваслуулах</cyrillic>
+      <definition>〔动〕хярваслах 的使动态.</definition>
+      <page>1504</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠷᠪᠣᠰᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХЯРВАСЛУУЛАХ</cyrillic>
+      <definition>хярваслах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠢᠷᠪᠤᠰᠤᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хярваслуулах</cyrillic>
+      <definition>хярваслахын үйлдүүлэх хэв.</definition>
+      <page>773</page>
+    </entry_item>
+  </entries>
+</entry>

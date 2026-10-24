@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q5548">
+  <head>
+    <unicode>ᠬᠣᠯᠢᠴᠠᠭᠠᠲᠣ</unicode>
+    <transcript>qoličaγatu</transcript>
+    <transcript2>golicagado</transcript2>
+    <cyrillic>хольцоот</cyrillic>
+  </head><see_also>
+    <ref>Q5547</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠯᠢᠴᠠᠭᠠᠲᠣ</unicode>
+      <uighur>qoličaγadu</uighur>
+      <cyrillic>хольцоот</cyrillic>
+      <transcript>XOLICAΓATU</transcript>
+      <definition>See xolicaγatai</definition>
+      <page>959</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠯᠢᠴᠠᠭᠠᠳᠤ</unicode>
+      <definition>mêlé, mélangé, avec de l'alliage</definition>
+      <page>926</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠯᠢᠴᠠᠭ᠎ᠠ ᠳᠤ ᠠᠯᠲᠠᠨ</unicode>
+          <definition>or qu in'est pas pur, avec de l'alliage</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠯᠢᠴᠠᠭ᠎ᠠ ᠳᠤ ᠪᠡᠯ</unicode>
+          <definition>miel qui n'est pas pur</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

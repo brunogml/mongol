@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K2998">
+  <head>
+    <unicode>ᠺᠥᠨᠥᠺᠡᠯᠴᠡᠺᠥ</unicode>
+    <transcript>könügelčekü</transcript>
+    <transcript2>gönögelcegö</transcript2>
+    <cyrillic>хөнөөлцөх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠨᠥᠭᠡᠯᠴᠡᠬᠦ</unicode>
+      <cyrillic>хөнөөлцөх</cyrillic>
+      <definition>〔动〕хөнөөх 的共动态.</definition>
+      <page>1402</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠨᠥᠺᠡᠯᠴᠡᠺᠥ</unicode>
+      <cyrillic>ХӨНӨӨЛЦӨХ</cyrillic>
+      <definition>хөнөөх-ийн үйлдэлц. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хөнөөлцөх</cyrillic>
+      <definition>(Koop von хөнөөх) miteinander zugrunde richten od Schaden bringen</definition>
+      <page>320</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠨᠦᠭᠡᠯᠴᠡᠬᠦ</unicode>
+      <cyrillic>хөнөөлцөх</cyrillic>
+      <definition>хөнөөхийн үйлдэлцэх хэв.</definition>
+      <page>712</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>K2994</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B3888">
+  <head>
+    <unicode>ᠪᠣᠷᠣᠣᠬᠠᠶᠢᠳᠠᠬᠣ</unicode>
+    <transcript>borouqayidaqu</transcript>
+    <transcript2>boroogayidago</transcript2>
+    <cyrillic>бороохойдох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B3889</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠣᠷᠣᠣᠬᠠᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>бороохойдох</cyrillic>
+      <definition>〔动〕用棍棒打.</definition>
+      <page>179</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠷᠣᠣᠬᠠᠶᠢᠳᠠᠬᠣ</unicode>
+      <cyrillic>БОРООХОЙДОХ</cyrillic>
+      <definition>ударять палкой, дубиной, булавой, палицей.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бороохойдох</cyrillic>
+      <definition>mit einem Knüppel schlagen</definition>
+      <page>57</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠣᠷᠣᠣᠬᠠᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>бороохойдох</cyrillic>
+      <definition>бороохойгоор цохих.</definition>
+      <page>94</page>
+    </entry_item>
+  </entries>
+</entry>

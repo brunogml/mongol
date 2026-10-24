@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3037">
+  <head>
+    <unicode>ᠴᠣᠮ</unicode>
+    <transcript>čum</transcript>
+    <transcript2>com</transcript2>
+    <cyrillic>цум</cyrillic>
+  </head>
+  <see_also>
+    <ref>C3038</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠤᠮ</unicode>
+      <cyrillic>цум</cyrillic>
+      <definition>〔形〕见 цом /2.</definition>
+      <page>1550</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠮ</unicode>
+      <cyrillic>ЦУМ</cyrillic>
+      <definition>цом II-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠤᠮ</unicode>
+      <cyrillic>цум</cyrillic>
+      <definition>цом, авсаар, аятай.</definition>
+      <page>798</page>
+    </entry_item>
+  </entries>
+</entry>

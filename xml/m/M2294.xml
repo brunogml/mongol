@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M2294">
+  <head>
+    <unicode>ᠮᠥᠴᠢᠺᠳᠠᠺᠥ</unicode>
+    <transcript>möčigdekü</transcript>
+    <transcript2>möcigdegö</transcript2>
+    <cyrillic>мөчигдөх</cyrillic>
+  </head>
+  <related_to>
+    <ref>M2287</ref>
+  </related_to>
+  <derivatives>
+    <ref>M2295</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠥᠴᠢᠺᠳᠠᠺᠥ</unicode>
+      <cyrillic>МӨЧИГДӨХ</cyrillic>
+      <definition>еле-еле хватать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠥᠴᠢᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>мөчигдөх /1</cyrillic>
+      <definition>хэтэрхий мөчиг болох.</definition>
+      <page>347</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠥᠴᠢᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>мөчигдөх /2</cyrillic>
+      <definition>мөчихийн үйлдэгдэх хэв.</definition>
+      <page>347</page>
+    </entry_item>
+  </entries>
+</entry>

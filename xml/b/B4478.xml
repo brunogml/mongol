@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4478">
+  <head>
+    <unicode>ᠪᠥᠯᠲᠠᠩ</unicode>
+    <transcript>bülteng</transcript>
+    <transcript2>böldeng</transcript2>
+    <cyrillic>бүлтэн</cyrillic>
+  </head>
+  <variants>
+    <variant type="cyrillic">бүлтэнг</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠥᠯᠲᠠᠩ</unicode>
+      <uighur>bülteng</uighur>
+      <cyrillic>бүлтэн</cyrillic>
+      <transcript>BYLTENG</transcript>
+      <definition>adj. and adv, Protruding, staring (of eyes); pop-eyed.</definition>
+      <page>147</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠥᠯᠲᠠᠩ ᠪᠥᠯᠲᠠᠩ ᠬᠠᠷᠠᠬᠤ</unicode>
+          <transcript>-- -- xaraxu</transcript>
+          <definition> To stare.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠯᠲᠠᠩ</unicode>
+      <cyrillic>БҮЛТЭН</cyrillic>
+      <definition>I пучеглазый; бүлтэн харах смотреть выпучив глаза.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠯᠲᠠᠩ</unicode>
+      <cyrillic>БҮЛТЭН</cyrillic>
+      <definition>II амьт. слонёнок.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠦᠯᠲᠡᠩ</unicode>
+      <cyrillic>бүлтэн(г)</cyrillic>
+      <definition>〔形〕（眼珠）瞪起的，凸起的：~ ~ （眼睛）一瞪一瞪地，一楞一楞地.</definition>
+      <page>227</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бүлтэн</cyrillic>
+      <definition>= бүлттэр</definition>
+      <page>66</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠦᠯᠲᠡᠩ</unicode>
+      <cyrillic>бүлтэн</cyrillic>
+      <definition>нүд зэрэг юмны бүлтгэр, нүд бүлтэн, хамар шулуун.</definition>
+      <page>116</page>
+    </entry_item>
+  </entries>
+</entry>

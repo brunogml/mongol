@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1950">
+  <head>
+    <unicode>ᠬᠠᠯᠢᠰᠣᠳᠠᠬᠣ</unicode>
+    <transcript>qalisudaqu</transcript>
+    <transcript2>galisodago</transcript2>
+    <cyrillic>хальсдах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠯᠢᠰᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>хальсдах</cyrillic>
+      <definition>〔动〕①外壳变厚，壳变多，皮变厚，表皮变多，鳞过多；②膜变厚，膜变多.</definition>
+      <page>1294</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠯᠢᠰᠣᠳᠠᠬᠣ</unicode>
+      <cyrillic>ХАЛЬСДАХ</cyrillic>
+      <definition>образовываться (о кожуре оболочке), покрываться кожурой, корой. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хальсдах</cyrillic>
+      <definition>zu dickschalig sein</definition>
+      <page>289</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠯᠢᠰᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>хальсдах</cyrillic>
+      <definition>хэтэрхий хальс болох.</definition>
+      <page>653</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q1948</ref>
+  </related_to>
+</entry>

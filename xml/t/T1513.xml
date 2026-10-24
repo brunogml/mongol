@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1513">
+  <head>
+    <unicode>ᠲᠠᠲᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tataγanaγulqu</transcript>
+    <transcript2>dadaganagolgo</transcript2>
+    <cyrillic>татгануулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T1511</ref>
+  </related_to>
+  <see_also>
+    <ref>T1514</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠲᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>татгануулах</cyrillic>
+      <definition>〔动〕татганах 的使动态.</definition>
+      <page>1039</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠲᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАТГАНУУЛАХ</cyrillic>
+      <definition>татганах-ын үйлдүүл., подёргивать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠲᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>татгануулах</cyrillic>
+      <definition>татганахын үйлдүүлэх хэв.</definition>
+      <page>526</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S2285">
+  <head>
+    <unicode>ᠰᠠᠯᠲᠥᠷ</unicode>
+    <transcript>seltür</transcript>
+    <transcript2>seldör</transcript2>
+    <cyrillic>сэлтэр</cyrillic>
+  </head><see_also>
+    <ref>S2283</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠯᠲᠥᠷ</unicode>
+      <uighur>seldür</uighur>
+      <cyrillic>сэлтэр</cyrillic>
+      <transcript>SELDYR</transcript>
+      <page>686</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠯᠲᠥᠷ ᠰᠠᠯᠳᠤᠷ ᠶᠠᠪᠤᠬᠤ</unicode>
+          <transcript>-- saldur jabuxu</transcript>
+          <definition> To walk hurriedly brushing against others.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠡᠯᠳᠦᠷ ᠰᠡᠯᠳᠦᠷ</unicode>
+      <definition>avec précipitation , dans la précipitation, tantôt ceci, tantôt cela</definition>
+      <page>1356</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠯᠲᠦᠷ</unicode>
+      <cyrillic>сэлтэр</cyrillic>
+      <definition>见 ~ салтар 忙乱地，匆匆忙忙地，杂乱地.</definition>
+      <page>987</page>
+    </entry_item>
+  </entries>
+</entry>

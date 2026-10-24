@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0098">
+  <head>
+    <unicode>ᠶᠠᠩᠨᠠᠬᠣ</unicode>
+    <transcript>yangnaqu</transcript>
+    <transcript2>yangnago</transcript2>
+    <cyrillic>яннах</cyrillic>
+  </head>
+  <see_also>
+    <ref>Y0097</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠶᠠᠩᠨᠠᠬᠣ</unicode>
+      <uighur>yangnaqu</uighur>
+      <transcript>JANGNA-</transcript>
+      <definition>See jangla-</definition>
+      <page>427</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠠᠩᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЯННАХ</cyrillic>
+      <definition>хуучир. петь религиозные песни, исполнять религиозное песнопение. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠠᠩᠨᠠᠬᠤ</unicode>
+      <cyrillic>ягнах</cyrillic>
+      <definition>хөгжилтэйгөөр уянгалан эгшиглэх.</definition>
+      <page>901</page>
+    </entry_item>
+  </entries>
+</entry>

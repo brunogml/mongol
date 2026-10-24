@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T9535">
+  <head>
+    <unicode>ᠲᠥᠷᠺᠠᠪᠴᠢᠯᠠᠺᠥ</unicode>
+    <transcript>türgebčilekü</transcript>
+    <transcript2>dörgebcilegö</transcript2>
+    <cyrillic>түргэвчлэх</cyrillic>
+  </head><derivatives>
+    <ref>T9536</ref>
+  
+    <ref>T9534</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠥᠷᠺᠠᠪᠴᠢᠯᠠᠺᠥ</unicode>
+      <uighur>tükebčilekü</uighur>
+      <cyrillic>түргэвчлэх</cyrillic>
+      <transcript>TYRGEBCILE-</transcript>
+      <definition>v.t. and i. To hasten, speed, urge.</definition>
+      <page>854</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠥᠷᠺᠠᠪᠴᠢᠯᠠᠨ ᠺᠢᠺᠦ</unicode>
+          <transcript>--n kiky- </transcript>
+          <definition>To do in a hurry, to speed up</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠥᠷᠺᠠᠪᠴᠢᠯᠠᠨ ᠪᠡᠯᠡᠳᠺᠡᠺᠦ</unicode>
+          <transcript>--n beledkeky</transcript>
+          <definition> To prepare hastily.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠥᠷᠺᠠᠪᠴᠢᠯᠠᠺᠥ</unicode>
+      <uighur>türkebčilekü</uighur>
+      <definition>To act positively.</definition>
+      <page>1041</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠦᠷᠭᠡᠪᠴᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>түргэвчлэх</cyrillic>
+      <definition>〔动〕加快，加速：түргэвчилсэн тормосны автомат тохируулга 制动速度自动调整器.</definition>
+      <page>1137</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠷᠺᠠᠪᠴᠢᠯᠠᠺᠥ</unicode>
+      <cyrillic>ТҮРГЭВЧЛЭХ</cyrillic>
+      <definition>спешљть, торопљться. </definition>
+      <page>0</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>түргэвчлэх</cyrillic>
+    <definition>= тургэлэх</definition>
+    <page>244</page>
+  </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B1694">
+  <head>
+    <unicode>ᠪᠠᠲᠠᠺᠠᠢ</unicode>
+    <transcript>betegei</transcript>
+    <transcript2>bedegei</transcript2>
+    <cyrillic>бэтэг</cyrillic>
+  </head><see_also>
+    <ref>B1693</ref>
+  
+    <ref>B1695</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠠᠲᠠᠺᠠᠢ</unicode>
+      <uighur>betegei</uighur>
+      <transcript>BETEGEI</transcript>
+      <definition>See bitegei.</definition>
+      <page>101</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠡᠳᠡᠺᠡᠢ ~ ᠪᠢᠳᠡᠺᠡᠢ</unicode>
+      <definition>particule négative ne qui se met devant l'impératif</definition>
+      <page>1113</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠡᠳᠡᠺᠡᠢ ᠦᠢᠯᠡᠳ</unicode>
+          <definition>ne fais pas</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠪᠠᠲᠠᠺᠠᠢ</unicode>
+      <uighur>bedekei</uighur>
+      <definition>Let it alone! Stop it! Don't!</definition>
+      <page>421</page>
+      <examples>
+        <example>
+          <uighur>bedekei üiled</uighur>
+          <definition>Let it alone! Don't!</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

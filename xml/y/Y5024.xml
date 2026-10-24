@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y5024">
+  <head>
+    <unicode>ᠵᠥᠩ</unicode>
+    <transcript>ǰüng</transcript>
+    <transcript2>yöng</transcript2>
+    <cyrillic>зүн</cyrillic>
+  </head>
+  <see_also>
+    <ref>Y5023</ref>
+    <ref>Y5025</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠥᠩ</unicode>
+      <uighur>ǰüng</uighur>
+      <cyrillic>зүн(г)</cyrillic>
+      <transcript>ZYNG</transcript>
+      <definition>[Ch chung] n. Bell; clock.</definition>
+      <page>1085</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠥᠩ ᠴᠣᠺᠢᠬᠤ</unicode>
+          <transcript>-- cokixu</transcript>
+          <definition>To ring the bell.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠦᠩ</unicode>
+      <definition>3 en chin. tchoung cloche.</definition>
+      <page>2408</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠥᠩ ᠴᠣᠺᠢᠬᠤ</unicode>
+          <definition>sonner la cloche, donner le signal</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

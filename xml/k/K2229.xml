@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K2229">
+  <head>
+    <unicode>ᠭᠢᠯᠲᠡ</unicode>
+    <transcript>gilte</transcript>
+    <transcript2>gilde</transcript2>
+    <cyrillic>гилт</cyrillic>
+  </head>
+  <see_also>
+    <ref>K2228</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠢᠯᠲᠡ</unicode>
+      <uighur>gilde</uighur>
+      <transcript>GILTE</transcript>
+      <definition>n. Lustre, shine, glare, brilliance.</definition>
+      <page>383</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠠᠷᠠᠨ ᠭᠢᠯᠲᠡ ᠪᠣᠯᠬᠤᠢ ᠴᠠᠭ</unicode>
+          <transcript>naran - - bolxui caγ</transcript>
+          <definition>The time of sunrise.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠢᠯᠲᠡ</unicode>
+      <definition>éclat, splendeur , reflet.</definition>
+      <page>2535</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠠᠷᠠᠨ ᠭᠢᠯᠲᠡ ᠪᠣᠯᠬᠤᠢ ᠴᠠᠭ</unicode>
+          <definition>le temps du lever du soleil</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠢᠯᠲᠡ</unicode>
+      <cyrillic>ГИЛТ</cyrillic>
+      <definition>блеск, сияние, отблеск; наран гилт болох цаг время восхода солнца.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

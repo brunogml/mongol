@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2885">
+  <head>
+    <unicode>ᠪᠣᠪ</unicode>
+    <transcript>bub</transcript>
+    <transcript2>bob</transcript2>
+    <cyrillic>був</cyrillic>
+  </head>
+  <see_also>
+    <ref>B2884</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠤᠪ</unicode>
+      <cyrillic>був</cyrillic>
+      <definition>（加强语气词，用于以"бу"为首音节的词前）见 ~ буруу 极端错误：~ буурал 十分苍白.</definition>
+      <page>194</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠪ</unicode>
+      <cyrillic>БУВ</cyrillic>
+      <definition>бу-гаар эхлэсэн үгэнд хүч нэмэгдүүлэх сул үг (усилительная частица к словам с начальным “бу”); був буруу совершенно неправильно, совсем ошибочно; був буурал седой, совсем седой.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠪ</unicode>
+      <cyrillic>був</cyrillic>
+      <definition>хүч нэмэгдүүлэх сул үг.</definition>
+      <page>101</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1282">
+  <head>
+    <unicode>ᠳᠠᠪᠴᠢᠭᠣᠳᠠᠬᠣ</unicode>
+    <transcript>dabčiγudaqu</transcript>
+    <transcript2>dabcigodago</transcript2>
+    <cyrillic>давчуудах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1284</ref>
+  </derivatives>
+  <see_also>
+    <ref>T1283</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠪᠴᠢᠭᠤᠳᠬᠤ</unicode>
+      <cyrillic>давчуудах</cyrillic>
+      <definition>〔动〕参见 давчдах.</definition>
+      <page>370</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠪᠴᠢᠭᠣᠳᠠᠬᠣ</unicode>
+      <cyrillic>ДАВЧУУДАХ</cyrillic>
+      <definition>1) оказываться более поспешным чем надо, быть слишком поспешным, суетливым; 2) давчдах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠪᠴᠢᠭᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>давчуудах</cyrillic>
+      <definition>хэтэрхий давчуу болох.</definition>
+      <page>178</page>
+    </entry_item>
+  </entries>
+</entry>

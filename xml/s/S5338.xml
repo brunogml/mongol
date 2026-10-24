@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5338">
+  <head>
+    <unicode>ᠰᠣᠬᠣᠴᠢᠬᠣ</unicode>
+    <transcript>soqučiqu</transcript>
+    <transcript2>sogocigo</transcript2>
+    <cyrillic>сохчих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5340</ref>
+  </derivatives>
+  <see_also>
+    <ref>S5339</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠬᠣᠴᠢᠬᠤ</unicode>
+      <cyrillic>сохчих</cyrillic>
+      <definition>〔动〕сохлох 的多次体.</definition>
+      <page>945</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠬᠣᠴᠢᠬᠣ</unicode>
+      <cyrillic>СОХЧИХ</cyrillic>
+      <definition>сохлох-ын олонтаа., ослеплять. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠬᠣᠴᠢᠬᠤ</unicode>
+      <cyrillic>сохчих</cyrillic>
+      <definition>байн байн сохлох.</definition>
+      <page>482</page>
+    </entry_item>
+  </entries>
+</entry>

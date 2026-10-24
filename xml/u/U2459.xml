@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="U2459">
+  <head>
+    <unicode>ᠣᠶᠢᠷᠠᠲᠠᠬᠣ</unicode>
+    <transcript>oyirataqu</transcript>
+    <transcript2>oyiradago</transcript2>
+    <cyrillic>ойртох</cyrillic>
+  </head><derivatives>
+    <ref>U2461</ref>
+  </derivatives><see_also>
+    <ref>U2465</ref>
+  
+    <ref>U2460</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠶᠢᠷᠠᠲᠠᠬᠣ</unicode>
+      <uighur>oyiradaqu</uighur>
+      <cyrillic>ойртох</cyrillic>
+      <transcript>OIRATA-</transcript>
+      <definition>[= oirad- = oiratu-] v.i. To come or drawn near, approach; to be about to do something</definition>
+      <page>605</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠶᠢᠷᠠᠲᠠᠨ ᠢᠷᠡᠺᠦ</unicode>
+          <transcript>--n ireky</transcript>
+          <definition> To come or draw nearer, approach</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠶᠢᠷᠠᠲᠠᠵᠤ ᠪᠣᠯᠹᠠᠭ ᠦᠭᠡᠢ</unicode>
+          <transcript>--zu boldaγ ygei</transcript>
+          <definition> Someone or something from whom or which one should keep away or should not touch.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠠᠷᠢᠬᠤ ᠳ᠋‍‍ᠤ‍ᠷ ᠣᠶᠢᠷᠠᠲᠠᠬᠤ</unicode>
+          <transcript>barixu dur --xu</transcript>
+          <definition> To be about to seize, catch.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠭᠦᠨ ᠎ᠲᠡᠢ ᠪᠢᠲᠡᠭᠡᠢ ᠣᠶᠢᠷᠠᠲᠠ</unicode>
+          <transcript>tegyn tei bitegei -- !</transcript>
+          <definition> Don't get near him!. Keep away from him!.</definition>
+        </example>
+        <example>
+          <unicode>ᠦᠺᠦᠺᠦᠢ ᠳ᠋‍‍ᠤ‍ᠷ ᠣᠶᠢᠷᠠᠲᠠᠬᠤ</unicode>
+          <transcript>ykykyi dur --xu</transcript>
+          <definition> To come close to death, be at the point of death.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠶᠢᠷᠠᠳᠠᠬᠤ ~ ᠣᠶᠢᠷᠠᠳᠣᠬᠤ</unicode>
+      <definition>s'approcher, se rapprocher</definition>
+      <page>335</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠣᠶᠢᠷᠠᠲᠠᠬᠣ</unicode>
+      <uighur>oyiradaqu</uighur>
+      <definition>sich nähern, nahe kommen</definition>
+      <page>43</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠣᠶᠢᠷᠠᠲᠠᠬᠣ</unicode>
+      <uighur>oyiradaqu</uighur>
+      <definition>v.i. To draw near, to approach, to get close to.</definition>
+      <page>167</page>
+      <examples>
+        <example>
+          <uighur>oyiradaqu ügei</uighur>
+          <definition>v.i. Unable to get close to.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

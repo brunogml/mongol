@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="V0075">
+  <head>
+    <unicode>ᠸᠠᠷ</unicode>
+    <transcript>var</transcript>
+    <transcript2>var</transcript2>
+    <cyrillic>вар</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠸᠠᠷ</unicode>
+      <uighur>var</uighur>
+      <transcript>VAR</transcript>
+      <page>894</page>
+      <examples>
+        <example>
+          <unicode>ᠸᠠᠷ ᠨᠢᠷ</unicode>
+          <transcript>-- nir</transcript>
+          <definition>Onomat. describing the croaking of a frog</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠸᠠᠷ</unicode>
+      <cyrillic>ВАР</cyrillic>
+      <definition>II : вар вар авиа.дуур. ква-ква (подражание кваканью лягушки); вар вар хийх квакать (о лягушке).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠸᠠᠷ</unicode>
+      <page>2666</page>
+      <examples>
+        <example>
+          <unicode>ᠸᠠᠷ ᠢᠷ</unicode>
+          <definition>ecassement des grenouilles</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>вар</cyrillic>
+      <definition>~ ~ хийх quaken, schnattern</definition>
+      <page>70</page>
+    </entry_item>
+  </entries>
+</entry>

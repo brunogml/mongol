@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1597">
+  <head>
+    <unicode>ᠴᠢᠬᠣᠯᠳᠠᠬᠣ</unicode>
+    <transcript>čiquldaqu</transcript>
+    <transcript2>cigoldago</transcript2>
+    <cyrillic>цухалдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1600</ref>
+    <ref>C1605</ref>
+  </derivatives>
+  <see_also>
+    <ref>C1598</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠢᠬᠣᠯᠳᠠᠬᠣ</unicode>
+      <uighur>čiquldaqu</uighur>
+      <cyrillic>цухалдах</cyrillic>
+      <transcript>CIXULDA-</transcript>
+      <definition>[=cuxulda-] v . i, To be narrow.; to be crowded; to be pressed; to be in straitened or difficult circumstances; to be irritable, nervous or angry; to despair, be despondent, lose hope.</definition>
+      <page>193</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠬᠣᠯᠳᠠᠵᠤ ᠪᠣᠭᠤᠵᠤ ᠦᠺᠦᠺᠦ</unicode>
+          <transcript>--zu boγuzu ykyky</transcript>
+          <definition> To hang oneself from despair.</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠣᠲᠤᠷ᠎ᠠ ᠴᠢᠬᠣᠯᠳᠠᠬᠤ</unicode>
+          <transcript>dotur-a - -xu, </transcript>
+          <definition>To be nervous or irritable</definition>
+        </example>
+        <example>
+          <unicode>ᠶᠠᠭᠠᠷᠠᠬᠤ ᠴᠢᠬᠣᠯᠳᠠᠬᠤ</unicode>
+          <transcript>jaγarazu --xu</transcript>
+          <definition> To hurry desperately.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠢᠬᠣᠯᠳᠠᠬᠤ</unicode>
+      <definition>être serré, pressé, opprimé, vexé: 2 être réduit à l'extrémité, être misérable, n'avoir pas de quoi vivre, ne savoir où donner de la tête.</definition>
+      <page>2145</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠴᠢᠬᠣᠯᠳᠠᠬᠣ</unicode>
+      <uighur>čiquldaqu</uighur>
+      <definition>sich in grosser Noth und Dürftigkeit befinden, sehr gedrückt und beengt seyn.</definition>
+      <page>326</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠴᠢᠬᠣᠯᠳᠠᠬᠣ</unicode>
+      <uighur>čiqoldaqu</uighur>
+      <definition>v.i. To be narrow. To be in a state of great need and poverty. To be hard oppressed or troubled. To be treated unjustly.</definition>
+      <page>1315</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠬᠣᠯᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЦУХАЛДАХ</cyrillic>
+      <definition>1. 1) быть узким, тесным, стеснённым, находиться в трудном положении; 2) нервничать; раздражаться; сердиться; гневаться, горячиться, вспылить; дотор цухалдах нервничать; ихэд цухалдах изнервничаться; яльгүй юманд цухалдах вспылить из-за пустяков; 2. цухалдахуй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠬᠣᠯᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЦУХАЛДАХУЙ</cyrillic>
+      <definition>1) трепка нервов; 2) аффект. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цухалдах</cyrillic>
+      <definition>1. zu schmal od zu eng sein
+2. nervös sein, die Nerven verlieren; sich ärgern</definition>
+      <page>362</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠬᠤᠯᠳᠠᠬᠤ</unicode>
+      <cyrillic>цухалдах /1</cyrillic>
+      <definition>сав суулга зэргийн юмны явцуудах.</definition>
+      <page>801</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠬᠤᠯᠳᠠᠬᠤ</unicode>
+      <cyrillic>цухалдах /2</cyrillic>
+      <definition>үйл ажилд маш мохож, тэсч ядан бачимдах; дотор цухалдах.</definition>
+      <page>801</page>
+    </entry_item>
+  </entries>
+</entry>

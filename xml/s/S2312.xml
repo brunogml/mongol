@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2312">
+  <head>
+    <unicode>ᠰᠠᠯᠺᠥᠷᠠᠺᠥ</unicode>
+    <transcript>selkürekü</transcript>
+    <transcript2>selgöregö</transcript2>
+    <cyrillic>сэлхрэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S2315</ref>
+    <ref>S2309</ref>
+  </derivatives>
+  <see_also>
+    <ref>S2311</ref>
+    <ref>S2313</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠯᠬᠦᠷᠡᠬᠦ</unicode>
+      <cyrillic>сэлхрэх</cyrillic>
+      <definition>〔动〕（轻微的）肿，浮肿，水肿：нүүр ~ 脸发肿.</definition>
+      <page>987</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠯᠺᠥᠷᠠᠺᠥ</unicode>
+      <cyrillic>СЭЛХРЭХ</cyrillic>
+      <definition>опухать, становиться одутловатым, отекать; распухнуть; нүүр нь сэлхэрчээ у него отекло лицо. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠯᠺᠥᠷᠠᠺᠥ</unicode>
+      <cyrillic>СЭЛХЭРСЭН</cyrillic>
+      <definition>одутловатый; сэлхэрсэн нүүр одутловатое лицо. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сэлхрэх</cyrillic>
+      <definition>anschwellen; нүүр нь сэлхэрцзэ sein Gesicht ist aufgedunsen</definition>
+      <page>210</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠯᠬᠦᠷᠡᠬᠦ</unicode>
+      <cyrillic>сэлхрэх</cyrillic>
+      <definition>хүний нүүр биед бага зэрэг хаван суух; нүүр сэлхрэх.</definition>
+      <page>502</page>
+    </entry_item>
+  </entries>
+</entry>

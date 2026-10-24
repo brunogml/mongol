@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0398">
+  <head>
+    <unicode>ᠲᠠᠭᠠᠬᠣ</unicode>
+    <transcript>taγaqu</transcript>
+    <transcript2>dagago</transcript2>
+    <cyrillic>таах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T0405</ref>
+    <ref>T0748</ref>
+    <ref>T0408</ref>
+    <ref>T0560</ref>
+  </derivatives>
+  <see_also>
+    <ref>T0399</ref>
+    <ref>T0400</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠭᠠᠬᠣ</unicode>
+      <uighur>taγaqu</uighur>
+      <cyrillic>таах</cyrillic>
+      <transcript>TAΓA-</transcript>
+      <definition>v. t. To guess, surmise, solve a riddle; to suspect; to admit (the possibility).</definition>
+      <page>763</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠦᠮᠦᠨ ᠢ ᠲᠠᠭᠠᠬᠣ</unicode>
+          <transcript>kymyni --xu</transcript>
+          <definition> To suspect someone.</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠢᠨᠤ ᠭᠠᠷ ᠎ᠲᠤᠷ ᠺᠡᠳᠦᠨ ᠪᠤᠷᠴᠠᠭ ᠪᠠᠶᠢᠨ᠎ᠠᠠ ᠤᠤ ᠲᠠᠭ᠎ᠠ</unicode>
+          <transcript>minu γar tur kedyn burcaγ bain-a uu -- !</transcript>
+          <definition> Guess how many beans are in my hand[s]!.</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠨᠢᠰᠬ᠎ᠠ ᠲᠠᠭᠠᠬᠣ</unicode>
+          <transcript>onisx-a --xu</transcript>
+          <definition> To solve a riddle.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠭᠠᠬᠤ</unicode>
+      <definition>douter, se douter, soupçonner, avoir un pressentiment, présumer</definition>
+      <page>1571</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠭᠠᠬᠣ</unicode>
+      <uighur>daγaqu</uighur>
+      <definition>rathen, ahnen, muthmassen</definition>
+      <page>230</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠭᠠᠬᠣ</unicode>
+      <uighur>daγaqu</uighur>
+      <definition>To guess. To have a presentiment of. To have an idea of. To presume.</definition>
+      <page>906</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠭᠠᠬᠤ</unicode>
+      <cyrillic>таах</cyrillic>
+      <definition>〔动〕①猜测，猜想；②推测，揣测，假设，假定.</definition>
+      <page>1002</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠭᠠᠬᠣ</unicode>
+      <cyrillic>ТААХ</cyrillic>
+      <definition>1. 1) отгадывать, разгадывать; угадывать; оньсого таах отгадать загадку; би юу хийх гэж байна, та нар таа? отгадайте, что я буду делать?; тааж мэдэх угадать, узнавать заранее, наперёд; тааж мэддэг таван хаан биш, тамшааж мэддэг тарган бух биш зүйр. я не господь-бог – всё знать; таан дурдах вспоминать; 2) предполагать, допускать возможность чего-л., подозревать, предчувствовать; предсказывать, предугадывать; догадываться; ирээдүйг урьдчилан таах предсказывать будущее; хүний санааг тааж мэдэх предугадывать чьи-л. намерения; 3) сомневаться, терять уверенность; 2. наугад, вслепую. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠭᠠᠬᠣ</unicode>
+      <cyrillic>ТААН</cyrillic>
+      <definition>таах-ын хамж., наугад, вслепую; таан дурдах вспоминать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>таах</cyrillic>
+      <definition>erraten, herausfinden; оньсго ~ ein Rätsel lösen</definition>
+      <page>214</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠭᠠᠬᠤ</unicode>
+      <cyrillic>таах</cyrillic>
+      <definition>тааварлах, таамаглах, таамнан бодох; оньсго таах; би юу хийх гэж байна, та нар таа?</definition>
+      <page>509</page>
+    </entry_item>
+  </entries>
+</entry>

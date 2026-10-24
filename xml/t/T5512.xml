@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5512">
+  <head>
+    <unicode>ᠲᠣᠩᠰᠠᠳᠠᠬᠣ</unicode>
+    <transcript>tungsadaqu</transcript>
+    <transcript2>dongsadago</transcript2>
+    <cyrillic>тунсаадах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T5513</ref>
+    <ref>T5514</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠩᠰᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>тунсаадах</cyrillic>
+      <definition>〔动〕〈化〉抹硼砂，涂硼砂（以焊接）.</definition>
+      <page>1114</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠩᠰᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТУНСААДАХ</cyrillic>
+      <definition>покрывать бурёй. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тунсаадах</cyrillic>
+      <definition>mit Borax bestreichen</definition>
+      <page>239</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠩᠰᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>тунсаадах</cyrillic>
+      <definition>тунсаа түрхэх, тунсаа түрхэж гагнах.</definition>
+      <page>557</page>
+    </entry_item>
+  </entries>
+</entry>

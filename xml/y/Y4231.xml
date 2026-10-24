@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4231">
+  <head>
+    <unicode>ᠵᠣᠳᠠᠴᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰudačiγulqu</transcript>
+    <transcript2>yodacigolgo</transcript2>
+    <cyrillic>зудчуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y4230</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠤᠳᠠᠴᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зудчуулах</cyrillic>
+      <definition>〔动〕зудчих 的使动态.</definition>
+      <page>574</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠳᠠᠴᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗУДЧУУЛАХ</cyrillic>
+      <definition>зудчих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠤᠳᠠᠴᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зудчуулах</cyrillic>
+      <definition>зудчихын үйлдүүлэх хэв.</definition>
+      <page>282</page>
+    </entry_item>
+  </entries>
+</entry>

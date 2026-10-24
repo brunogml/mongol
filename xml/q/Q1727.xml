@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1727">
+  <head>
+    <unicode>ᠬᠠᠳᠣᠬᠣ</unicode>
+    <transcript>qaduqu</transcript>
+    <transcript2>gadogo</transcript2>
+    <cyrillic>хадах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q1728</ref>
+    <ref>Q1732</ref>
+    <ref>Q1758</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q1550</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠳᠣᠬᠣ</unicode>
+      <uighur>qadoqu</uighur>
+      <cyrillic>хадах</cyrillic>
+      <transcript>XADU-</transcript>
+      <definition>v.t. To mow, harvest; to cut (as grass, grain).</definition>
+      <page>903</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠪᠡᠰᠦ ᠬᠠᠳᠣᠬᠣ</unicode>
+          <transcript>ebesy --xu</transcript>
+          <definition> To cut hay, mow grass.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠷᠢᠶ᠎ᠠ ᠬᠠᠳᠣᠬᠣ</unicode>
+          <transcript>tarij-a --xu</transcript>
+          <definition> To reap cereals; to harvest.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠳᠣᠬᠤ</unicode>
+      <definition>couper, moissonner, faucher, récolter, faire la récolte, couper avec la faux; 2 blesser</definition>
+      <page>782</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠠᠳᠣᠬᠣ</unicode>
+      <uighur>qadoqu</uighur>
+      <definition>Getreide schneiden, mähen, ernten.</definition>
+      <page>144</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠠᠳᠣᠬᠣ</unicode>
+      <uighur>qaduqu</uighur>
+      <definition>(d)v.t. To cut, to mow. To reap, To harvest.</definition>
+      <page>567</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠳᠣᠬᠣ</unicode>
+      <cyrillic>ХАДАХ</cyrillic>
+      <definition>II косить (сено); жать (хлеб); срезать, скашивать; өвс хадах / хадлан хадах а) косить траву, косить сено; б) сенокошение; сенокос; өвс хадах станц сенокосная станция; тариа хадах жать хлеб; улаан буудай хадах жать пшеницу; тарьснаас хаддаг зүйр. что посеешь, то и пожнёшь. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠳᠣᠬᠣ</unicode>
+      <cyrillic>ХАДАХ</cyrillic>
+      <definition>IV : хавирга хадах отделять рёбра от позвоночника (при разделке туши). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠳᠤᠬᠤ</unicode>
+      <cyrillic>хадах /2</cyrillic>
+      <definition>хадуураар цавчин огтлох; өвс хадах; тариа хадах.</definition>
+      <page>640</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C1952">
+  <head>
+    <unicode>ᠴᠢᠮᠠᠶᠢ</unicode>
+    <transcript>čimayi</transcript>
+    <transcript2>cimayi</transcript2>
+    <cyrillic>чамай</cyrillic>
+  </head><see_also>
+    <ref>C1932</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠢᠮᠠᠶᠢ</unicode>
+      <uighur>čimayi</uighur>
+      <cyrillic>чамайч - чамай</cyrillic>
+      <transcript>CIMAJI</transcript>
+      <definition>[=cima ji] Accusative, of ci, you</definition>
+      <page>184</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠢᠮᠡᠢᠢ ~ ᠴᠢᠮᠡᠢᠢ ᠎ᠶᠢ</unicode>
+      <definition>te</definition>
+      <page>2168</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠴᠢᠮᠠᠶᠢ</unicode>
+      <uighur>čimayi</uighur>
+      <definition>dich.</definition>
+      <page>327</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠴᠢᠮᠠᠶᠢ</unicode>
+      <uighur>čimayi</uighur>
+      <definition>You, thee (sing.accusative case).</definition>
+      <page>1318</page>
+      <examples>
+        <example>
+          <uighur>čimayi-i</uighur>
+          <definition>You (Sing.). Another form of accusative case.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠮᠠᠢ</unicode>
+      <cyrillic>чамай</cyrillic>
+      <definition>〔副〕勉强地，好不容易地：арай чуу ~ 勉勉强强地，好不容易地；арай ~ гүйцэв 好不容易赶上了.</definition>
+      <page>1576</page>
+    </entry_item>
+  </entries>
+</entry>

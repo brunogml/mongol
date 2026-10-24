@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y1904">
+  <head>
+    <unicode>ᠵᠡᠥ</unicode>
+    <transcript>ǰeü</transcript>
+    <transcript2>yeö</transcript2>
+    <cyrillic>зүү</cyrillic>
+  </head>
+  <see_also>
+    <ref>Y5006</ref>
+    <ref>Y1905</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠡᠥ</unicode>
+      <uighur>ǰeü</uighur>
+      <cyrillic>зүү</cyrillic>
+      <transcript>ZEY</transcript>
+      <definition>See zegyy.</definition>
+      <page>1047</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠡᠦ ~ ᠵᠡᠭᠦᠦ ~ ᠵᠡᠭᠦᠨ</unicode>
+      <definition>aiguille à coudre. Cf. s. v. dsegun,</definition>
+      <page>2309</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠡᠪᠡᠨᠡ ᠵᠡᠦ</unicode>
+          <definition>aiguille triangulaire dont on se sert pour coudre les peaux</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠡᠦ ᠎ᠶᠢᠨ ᠰᠦᠪᠡ</unicode>
+          <definition>le trou d'une aiguille</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠡᠦ ᠰᠦᠪᠡᠯᠡᠺᠦ</unicode>
+          <definition>passer le fil dans une qiguille, enfiler une aiguille</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠵᠡᠥ</unicode>
+      <uighur>ǰeü</uighur>
+      <definition>n. A needle, a pin,</definition>
+      <page>1202</page>
+    </entry_item>
+  </entries>
+</entry>

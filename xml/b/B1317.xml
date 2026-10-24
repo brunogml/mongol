@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1317">
+  <head>
+    <unicode>ᠪᠠᠷᠠᠭᠠᠨᠲᠠᠬᠣ</unicode>
+    <transcript>baraγantaqu</transcript>
+    <transcript2>baragandago</transcript2>
+    <cyrillic>бараантах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B1320</ref>
+  </derivatives>
+  <see_also>
+    <ref>B1316</ref>
+    <ref>B1318</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠠᠷᠠᠭᠠᠨᠲᠠᠬᠣ</unicode>
+      <uighur>baraγantaqu</uighur>
+      <cyrillic>бараантах</cyrillic>
+      <transcript>BARAГANTA-</transcript>
+      <definition>v. i To darken; to be[come] visible (of dark objects).</definition>
+      <page>83</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠠᠵᠠᠷ ᠪᠠᠷᠠᠭᠠᠨᠲᠠᠬᠣ</unicode>
+          <transcript>γazar --xu</transcript>
+          <definition> For a thawed place or spot to appear.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠷᠠᠭᠠᠨᠲᠤᠬᠤ</unicode>
+      <cyrillic>бараантах</cyrillic>
+      <definition>〔动〕变黑，变青，变暗；显得暗：газар ~ 大地上的雪一片片融化（显出暗黑色的土地）.</definition>
+      <page>130</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠷᠠᠭᠠᠨᠲᠠᠬᠣ</unicode>
+      <cyrillic>БАРААНТАХ</cyrillic>
+      <definition>темнеть, чернеть, виднеться (о тёмных предметах); газар бараантах протаивать; появление проталин.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бараантах</cyrillic>
+      <definition>dunkeln; sich dunkel abheben; газар бараантав der Boden ist schneefrei geworden</definition>
+      <page>46</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠷᠠᠭᠠᠨᠲᠤᠬᠤ</unicode>
+      <cyrillic>бараантах</cyrillic>
+      <definition>бараан болох, газар бараантах, эрээнтэх бараантах хорш.</definition>
+      <page>74</page>
+    </entry_item>
+  </entries>
+</entry>

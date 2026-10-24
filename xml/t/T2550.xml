@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2550">
+  <head>
+    <unicode>ᠳᠠᠶᠢᠴᠢᠯᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>dayičilaγdaqu</transcript>
+    <transcript2>dayicilagdago</transcript2>
+    <cyrillic>дайчлагдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T2548</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠠᠶᠢᠴᠢᠯᠠᠬᠳᠠᠬᠣ</unicode>
+      <uighur>dayičilaqdaqu</uighur>
+      <cyrillic>дайчлагдах</cyrillic>
+      <transcript>DAICILAΓDA-</transcript>
+      <definition>[v. pass. of daicila-] To be mobilized or called to arms</definition>
+      <page>221</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠶᠢᠴᠢᠯᠠᠬᠳᠠᠬᠣ ᠨᠠᠰᠤ</unicode>
+          <transcript>--xu nasu</transcript>
+          <definition> Conscription or military age.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠠᠶᠢᠯᠳᠤᠭᠠᠨ ᠤ ᠶᠣᠰᠤᠭᠠᠷ ᠳᠠᠶᠢᠴᠢᠯᠠᠬᠳᠠᠬᠣ</unicode>
+          <transcript>bailduγan u josuyar --xu</transcript>
+          <definition> To be put on a war time footing</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠢᠴᠢᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>дайчлагдах</cyrillic>
+      <definition>〔动〕дайчлах 的被动态：цэргийн албанд ~ 〈军〉被动员服兵役.</definition>
+      <page>379</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠶᠢᠴᠢᠯᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ДАЙЧЛАГДАХ</cyrillic>
+      <definition>дайчлах-ын үйлдэгд., 1. 1) быть мобилизованным, мобилизоваться; байлдааны ёсоор дайчлагдах быть мобилизованным в боевом порядке; цэргийн албанд дайчлагдах призываться на военную службу; цэргийн албанаа заавал дайчлагдах журам обязательная воинская повинность; дайчлагдах насны хүн призывник; 2) подвергаться чему-л.; хөрөнгө мал дайчлагдах подвергаться принудительному отчуждению имущества; 2. дайчлагдахуй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠶᠢᠴᠢᠯᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ДАЙЧЛАГДАХУЙ</cyrillic>
+      <definition>мобилизация; явка по мобилизации. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠢᠴᠢᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>дайчлагдах</cyrillic>
+      <definition>дайчлахын үйлдэгдэх хэв; цэргийн албанд дайчлагдах.</definition>
+      <page>181</page>
+    </entry_item>
+  </entries>
+</entry>

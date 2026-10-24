@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0400">
+  <head>
+    <unicode>ᠵᠠᠭᠠᠲᠣᠨᠠᠬᠣ</unicode>
+    <transcript>ǰaγatunaqu</transcript>
+    <transcript2>yagadonago</transcript2>
+    <cyrillic>загтнах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y0401</ref>
+    <ref>Y0403</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠠᠭᠠᠲᠣᠨᠠᠬᠣ</unicode>
+      <uighur>ǰaγadonaqu</uighur>
+      <cyrillic>загтнах</cyrillic>
+      <transcript>ZAΓATUNA-</transcript>
+      <definition>v. i. To itch.</definition>
+      <page>1023</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠠᠭᠠᠳᠣᠨᠠᠬᠤ</unicode>
+      <definition>avoir une démangeaison, démanger</definition>
+      <page>2247</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠡᠶ ᠡ ᠪᠡᠨ ᠵᠠᠭᠠᠲᠤᠨᠠᠬᠤ</unicode>
+          <definition>se gratter</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠥᠯ ᠤᠨ ᠣᠯᠠ ᠵᠠᠭᠠᠲᠤᠨᠠᠨ ᠳᠠᠳᠠᠬᠤ</unicode>
+          <definition>gratter la plante du pied</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠵᠠᠭᠠᠲᠣᠨᠠᠬᠣ</unicode>
+      <uighur>ǰaγadonaqu</uighur>
+      <definition>jucken, Kitzel empfinden.</definition>
+      <page>295</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠵᠠᠭᠠᠲᠣᠨᠠᠬᠣ</unicode>
+      <uighur>ǰaγadonaqu</uighur>
+      <definition>v.i. To itch. To get ticklish.</definition>
+      <page>1184</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠭᠠᠲᠤᠨᠠᠬᠤ</unicode>
+      <cyrillic>загтнах</cyrillic>
+      <definition>〔动〕痒，发痒.</definition>
+      <page>529</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠭᠠᠲᠣᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЗАГАТНАХ</cyrillic>
+      <definition>зудеть, чесаться; хэлэх гэхээс хэл нь загатнана у него язык чешется сказать это.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠭᠠᠲᠤᠨᠠᠬᠤ</unicode>
+      <cyrillic>загатнах</cyrillic>
+      <definition>хүн амьтны биед өвчин ба хорхойн хор зэргээс арьс мах жирвэгнэх гүвэгнэх мэтээр тачаадуулах; бие загатнах; толгой загатнах.</definition>
+      <page>257</page>
+    </entry_item>
+  </entries>
+</entry>

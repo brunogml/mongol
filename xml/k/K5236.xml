@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K5236">
+  <head>
+    <unicode>ᠺᠥᠷᠺᠢᠷᠡᠲᠥᠺᠥᠯᠺᠥ</unicode>
+    <transcript>kürkiretügülkü</transcript>
+    <transcript2>görgiredögölgö</transcript2>
+    <cyrillic>хүрхрээтүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K5235</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠦᠷᠬᠢᠷᠡᠲᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хүрхрээтүүлэх</cyrillic>
+      <definition>〔动〕хүрхрээтэх 的使动态.</definition>
+      <page>1460</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠷᠺᠢᠷᠡᠲᠥᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ХҮРХРЭЭТҮҮЛЭХ</cyrillic>
+      <definition>хүрхрээтэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠦᠷᠬᠢᠷᠡᠲᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хүрхрээтүүлэх</cyrillic>
+      <definition>хүрхрээтэхийн үйлдүүлэх хэв.</definition>
+      <page>748</page>
+    </entry_item>
+  </entries>
+</entry>

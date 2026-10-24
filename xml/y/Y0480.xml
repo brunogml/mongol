@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0480">
+  <head>
+    <unicode>ᠶᠠᠭᠠᠺᠢᠯᠭᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>yaγagilγaγulqu</transcript>
+    <transcript2>yagagilgagolgo</transcript2>
+    <cyrillic>яалгуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y0479</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠠᠭᠠᠬᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>яалгуулах</cyrillic>
+      <definition>〔动〕яалгах 的使动态.</definition>
+      <page>1733</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠠᠭᠠᠺᠢᠯᠭᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЯАЛГУУЛАХ</cyrillic>
+      <definition>яалгах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠠᠭᠠᠬᠢᠯᠭᠠᠭᠤᠯᠬᠦ</unicode>
+      <cyrillic>яалгуулах</cyrillic>
+      <definition>яалгахын үйлдүүлэх хэв.</definition>
+      <page>897</page>
+    </entry_item>
+  </entries>
+</entry>

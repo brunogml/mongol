@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9619">
+  <head>
+    <transcript>traktorǰiγulqu</transcript>
+    <transcript2>dragdorcigolgo</transcript2>
+    <cyrillic>тракторжуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T9618</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠷᠠᠺᠲ᠋ᠣᠷᠵᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тракторжуулах</cyrillic>
+      <definition>〔动〕тракторжих 的使动态.</definition>
+      <page>1105</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ТРАКТОРЖУУЛАХ</cyrillic>
+      <definition>тракторжих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠷᠠᠺᠲ᠋ᠣᠷᠵᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тракторжуулах</cyrillic>
+      <definition>тракторжихын үйлдүүлэх хэв.</definition>
+      <page>553</page>
+    </entry_item>
+  </entries>
+</entry>

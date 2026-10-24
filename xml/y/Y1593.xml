@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1593">
+  <head>
+    <unicode>ᠵᠠᠶᠢᠪᠢᠯᠵᠠᠬᠣ</unicode>
+    <transcript>ǰayibilǰaqu</transcript>
+    <transcript2>yayibilcago</transcript2>
+    <cyrillic>жайвалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1594</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠢᠪᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>жайвалзах</cyrillic>
+      <definition>〔动〕不时弯斜，不断倾斜，一曲一翘.</definition>
+      <page>499</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠶᠢᠪᠢᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ЖАЙВАЛЗАХ</cyrillic>
+      <definition>жайвганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠢᠪᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>жайвалзах</cyrillic>
+      <definition>жайвгар юмны байн байн хөдлөх.</definition>
+      <page>240</page>
+    </entry_item>
+  </entries>
+</entry>

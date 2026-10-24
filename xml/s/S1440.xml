@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1440">
+  <head>
+    <unicode>ᠰᠠᠵᠢᠩ</unicode>
+    <transcript>saǰing</transcript>
+    <transcript2>sacing</transcript2>
+    <cyrillic>сажин</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠵᠢᠩ</unicode>
+      <cyrillic>САЖИН</cyrillic>
+      <definition>сажень (мера длины, равная 2,13 м.); дөрвөлжин сажин квадратная сажень. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сажин</cyrillic>
+      <definition>Saschen n (altes russisches Längenmaß = 2,13 m)</definition>
+      <page>191</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠵᠢᠩ</unicode>
+      <cyrillic>сажин</cyrillic>
+      <definition>2,13 метртэй тэнцүү уртын хэмжээ.</definition>
+      <page>460</page>
+    </entry_item>
+  </entries>
+</entry>

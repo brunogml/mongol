@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A0777">
+  <head>
+    <unicode>ᠠᠭᠣᠰᠬᠣ</unicode>
+    <transcript>aγusqu</transcript>
+    <transcript2>agosgo</transcript2>
+    <cyrillic>уусах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>A0784</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠭᠣᠰᠬᠣ</unicode>
+      <uighur>aγusqu</uighur>
+      <cyrillic>уусах</cyrillic>
+      <transcript>AГUS-</transcript>
+      <definition>v.i. To dissolve, pass into solution.</definition>
+      <page>18</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠭᠤᠰᠬᠤ ᠴᠢᠨᠠᠷ</unicode>
+          <transcript>--xu cinar , </transcript>
+          <definition>Solubility</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠭᠤᠰᠬᠤ ᠤᠭᠡᠢ</unicode>
+          <transcript>--xu ygei</transcript>
+          <definition> Insoluble.</definition>
+        </example>
+        <example>
+          <unicode>ᠤᠰᠤᠨ ᠎ᠳᠤ ᠠᠭᠤᠰᠬᠤ</unicode>
+          <transcript>usun du --xu</transcript>
+          <definition> To dissolve in water.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠭᠣᠰᠬᠣ</unicode>
+      <cyrillic>уусах</cyrillic>
+      <definition>〔动〕溶化，溶解：усанд ~ 在水中溶解；~ чанар 溶解性；~ бодис 溶质；уусдаггүй коллоид 疏液胶体；ууссан хагшаас 溶解冲积层，溶解浮土；ууссан хий 溶解气体.</definition>
+      <page>1215</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠣᠰᠬᠣ</unicode>
+      <cyrillic>УУСАХ</cyrillic>
+      <definition>1. 1) растворяться; усанд уусах растворяться в воде; тэр хүн олны дунд уусах мэт алга болов он исчез в толпе, как растворљлся; 2) пропљтывать; 3) ассимилљроваться; 2. уусахуй-г үз., 3. растворљмый; уусах чанар растворљмость, растворяемость. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠣᠰᠬᠣ ᠦᠭᠡᠢ</unicode>
+      <cyrillic>УУСАХГҮЙ</cyrillic>
+      <definition>нерастворљмый. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠣᠰᠬᠣᠢ</unicode>
+      <cyrillic>УУСАХУЙ</cyrillic>
+      <definition>растворение. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>уусах</cyrillic>
+      <definition>sich [auf]lösen, zergehen; ~ чанар Löslichkeit f; усанд ~ sich im Wasser auflösen</definition>
+      <page>264</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠭᠤᠰᠬᠤ</unicode>
+      <cyrillic>уусах</cyrillic>
+      <definition>шингэн бодисын дотор хайлах; давс уусах;ажил хийвэл дуустал, давс хийвэл уустал&lt;зүйр&gt;.</definition>
+      <page>607</page>
+    </entry_item>
+  </entries>
+</entry>

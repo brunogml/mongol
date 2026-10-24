@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5004">
+  <head>
+    <unicode>ᠰᠣᠨᠳᠣᠣ</unicode>
+    <transcript>sundou</transcript>
+    <transcript2>sondoo</transcript2>
+    <cyrillic>сундуу</cyrillic>
+  </head>
+  <see_also>
+    <ref>S5003</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠣᠨᠳᠣᠣ</unicode>
+      <uighur>sundou</uighur>
+      <cyrillic>сундуу</cyrillic>
+      <transcript>SUNDUU</transcript>
+      <definition>See sonduu.</definition>
+      <page>737</page>
+      <examples>
+        <example>
+          <unicode>ᠦᠺᠡᠷ ᠰᠣᠨᠳᠣᠣ</unicode>
+          <transcript>yker -- , </transcript>
+          <definition>Acacia</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠨᠳᠣᠣ</unicode>
+      <cyrillic>СУНДУУ</cyrillic>
+      <definition>1) шип; өргөс сундуу хорш. шип; 2) тёрн; терновник; сондуу-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сундуу[н]</cyrillic>
+      <definition>Bot
+1. Dorn m
+2. Schlehdorn m</definition>
+      <page>205</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠨᠳᠤᠤ</unicode>
+      <cyrillic>сундуу /1</cyrillic>
+      <definition>өргөс,өргөс сундуу&lt;хорш&gt;.</definition>
+      <page>490</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠨᠳᠤᠤ</unicode>
+      <cyrillic>сундуу /2</cyrillic>
+      <definition>&lt;ургамал&gt;чавганы модтой адил болоод арай богино, салаад нь зүү мэт өргөстэй нэгэн зүйл мод.</definition>
+      <page>490</page>
+    </entry_item>
+  </entries>
+</entry>

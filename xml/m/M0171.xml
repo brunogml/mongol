@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0171">
+  <head>
+    <unicode>ᠮᠠᠩᠭᠠᠷᠲᠣᠬᠣ</unicode>
+    <transcript>mangγartuqu</transcript>
+    <transcript2>manggardogo</transcript2>
+    <cyrillic>мангартах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M0170</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠩᠭᠠᠷᠲᠤᠬᠤ</unicode>
+      <cyrillic>мангартах</cyrillic>
+      <definition>〔动〕行为昏愦，懵懂，糊涂，头脑昏昏然.</definition>
+      <page>659</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠩᠭᠠᠷᠲᠣᠬᠣ</unicode>
+      <cyrillic>МАНГАРТАХ</cyrillic>
+      <definition>вести себя глупо; битгий мангарт! не глупи!. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠩᠭᠤᠷᠲᠤᠬᠤ</unicode>
+      <cyrillic>мангартах</cyrillic>
+      <definition>мангар байдал гаргах.</definition>
+      <page>330</page>
+    </entry_item>
+  </entries>
+</entry>

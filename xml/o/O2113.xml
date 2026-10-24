@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O2113">
+  <head>
+    <unicode>ᠥᠷᠲᠥᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ördügülkü</transcript>
+    <transcript2>ördögölgö</transcript2>
+    <cyrillic>өрдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>O2111</ref>
+  </related_to>
+  <see_also>
+    <ref>O2112</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠷᠲᠥᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ӨРДҮҮЛЭХ</cyrillic>
+      <definition>өрдөх I-ийн үйлдүүл., раздувать (напр. огонь). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠷᠢᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өрдүүлэх</cyrillic>
+      <definition>өрдөхийн үйлдүүлэх хэв.</definition>
+      <page>444</page>
+    </entry_item>
+  </entries>
+</entry>

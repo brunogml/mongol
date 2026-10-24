@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O2183">
+  <head>
+    <unicode>ᠥᠷᠭᠡᠳᠬᠡᠭᠥ</unicode>
+    <transcript>örgetgekü</transcript>
+    <transcript2>örgedgegö</transcript2>
+    <cyrillic>өргөтгөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>O2184</ref>
+    <ref>O2182</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠥᠷᠭᠡᠳᠬᠡᠭᠥ</unicode>
+      <uighur>örgedkekü</uighur>
+      <cyrillic>өргөтгөх</cyrillic>
+      <transcript>ØRGEDKE-</transcript>
+      <definition>v. t. To widen, broaden, enlarge, increase, spread, develop.</definition>
+      <page>640</page>
+      <examples>
+        <example>
+          <unicode>ᠥᠷᠭᠡᠳᠬᠡᠨ ᠪᠠᠶᠢᠭᠤᠯᠬᠤ</unicode>
+          <transcript>--n baiγulxu</transcript>
+          <definition> To expand, establish on a larger scale.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠮᠨᠡᠯᠭᠡ ᠎ᠶᠢᠨ ᠭᠠᠵᠠᠷᠤᠳ ᠢ ᠥᠷᠭᠡᠳᠬᠡᠨ ᠪᠠᠶᠢᠭᠤᠯᠬᠤ</unicode>
+          <transcript>emnelge jin γazarud i --n baiγulxu</transcript>
+          <definition> To increase [the number of] medical institutions.</definition>
+        </example>
+        <example>
+          <unicode>ᠥᠷᠭᠡᠳᠬᠡᠨ ᠪᠠᠶᠢᠭᠤᠯᠬᠤ</unicode>
+          <transcript>--n baiγulxu</transcript>
+          <definition> To enlarge, extend.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠦᠷᠺᠡᠳᠺᠡᠺᠦ</unicode>
+      <definition>élargir , dilater. répandre; 2 propager.</definition>
+      <page>591</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠥᠷᠭᠡᠳᠬᠡᠭᠥ</unicode>
+      <uighur>ürkedkekü</uighur>
+      <definition>breit oder breiter machen</definition>
+      <page>74</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠥᠷᠭᠡᠳᠬᠡᠭᠥ</unicode>
+      <uighur>ürgedgekü</uighur>
+      <definition>v.t. To make wide or wider, broad or broader, to broaden.</definition>
+      <page>293</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠷᠭᠡᠳᠬᠡᠬᠦ</unicode>
+      <cyrillic>өргөтгөх</cyrillic>
+      <definition>〔动〕өргөтөх 的使动态；扩大，加宽，展宽，扩张，扩充：зам ~ 加宽道路；~сөн бүгд хурал 扩大的全体会议；эмнэлгийн салбарыг ~ 扩大医疗网；~сөн нөхөн уйлдвэрлэл 扩大再生产.</definition>
+      <page>858</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠷᠭᠡᠳᠬᠡᠭᠥ</unicode>
+      <cyrillic>ӨРГӨТГӨХ</cyrillic>
+      <definition>өргөтөх-ийн үйлдүүл., расширять; разворачивать; усиливать; гарцыг өргөтгөх расширить проход; гудамж өргөтгөх расширить улицу; зам өргөтгөх расширять дорогу; мэдлэгээ өргөтгөх расширить кругозор; эмнэлгийн салбарыг өргөтгөх расширять медицинскую сеть. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠷᠭᠡᠳᠬᠡᠭᠥ</unicode>
+      <cyrillic>ӨРГӨТГӨН</cyrillic>
+      <definition>өргөтгөх-ийн хамж., широко; өргөтгөн байгуулах организовать в широком масштабе; өргөтгөн хөгжүүлэх широко развивать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠷᠭᠡᠳᠬᠡᠭᠥ</unicode>
+      <cyrillic>ӨРГӨТГӨСӨН</cyrillic>
+      <definition>расширенный; өргөтгөсөн хурал расширенное заседание; өргөтгөсөн бүгд хурал расширенный пленум. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠷᠭᠡᠳᠬᠡᠬᠦ</unicode>
+      <cyrillic>өргөтгөх</cyrillic>
+      <definition>өргөн дэлгэр болгох; зам өргөтгөх; өргөтгөсөн бүгд хурал; эмнэлгийн салбарыг өргөтгөх.</definition>
+      <page>444</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C1270">
+  <head>
+    <unicode>CerikleKlK</unicode>
+    <transcript>čeriglegülkü</transcript>
+    <transcript2>ceriglegölgö</transcript2>
+    <cyrillic>цэрэглүүлэх</cyrillic>
+  </head><related_to>
+    <ref>C1269</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>CerikleKlK</unicode>
+      <uighur>čeriglegülkü</uighur>
+      <definition>in den Krieg schicken, einen Feldzug eröffnen lassen</definition>
+      <page>322</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠷᠢᠭᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>цэрэглүүлэх</cyrillic>
+      <definition>〔动〕цэрэглэх 的使动态.</definition>
+      <page>1568</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>CerikleKlK</unicode>
+      <cyrillic>ЦЭРЭГЛҮҮЛЭХ</cyrillic>
+      <definition>цэрэглэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

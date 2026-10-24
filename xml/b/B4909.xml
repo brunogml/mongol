@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4909">
+  <head>
+    <unicode>ᠪᠥᠺᠴᠥᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>bögčügenekü</transcript>
+    <transcript2>bögcögenegö</transcript2>
+    <cyrillic>бөгцгөнөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B4910</ref>
+    <ref>B4908</ref>
+  </derivatives>
+  <variants>
+    <variant type="cyrillic">бөгцөгнөх</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠭᠴᠥᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>бөгцгөнөх</cyrillic>
+      <definition>〔动〕①频频弯腰，一下下地弯曲（指驼背人）；②移动，徐徐前进（指驼背人或弯曲物）.</definition>
+      <page>184</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠺᠴᠥᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>БӨГЦГӨНӨХ</cyrillic>
+      <definition>1) часто наклоняться, нагибаться; 2) двигаться (о горбатом, сутулом человеке), сгибаться, сутулиться, горбиться.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠭᠴᠥᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>бөгцөгнөх</cyrillic>
+      <definition>〔动〕见 бөгдгөнөх.</definition>
+      <page>184</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠥᠭᠴᠥᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>бөгцгөнөх</cyrillic>
+      <definition>бөгцгөр юмны бөгцөг бөгцөг хийх.</definition>
+      <page>97</page>
+    </entry_item>
+  </entries>
+</entry>

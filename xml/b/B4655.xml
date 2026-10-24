@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4655">
+  <head>
+    <unicode>ᠪᠥᠺᠠᠳᠠᠶᠢᠯᠺᠠᠺᠥ</unicode>
+    <transcript>bögedeyilgekü</transcript>
+    <transcript2>bögedeyilgegö</transcript2>
+    <cyrillic>бөөдийлгөх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠭᠡᠳᠡᠢᠯᠭᠡᠬᠦ</unicode>
+      <cyrillic>бөөдийлгөх</cyrillic>
+      <definition>〔动〕бөөдийх 的使动态.</definition>
+      <page>189</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠺᠠᠳᠠᠶᠢᠯᠺᠠᠺᠥ</unicode>
+      <cyrillic>БӨӨДИЙЛГӨХ</cyrillic>
+      <definition>бөөдийх-ийн үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠥᠭᠡᠳᠡᠢᠯᠭᠡᠬᠦ</unicode>
+      <cyrillic>бөөдийлгөх</cyrillic>
+      <definition>бөөдийхийн үйлдүүлэх хэв.</definition>
+      <page>99</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>B4648</ref>
+  </related_to>
+</entry>

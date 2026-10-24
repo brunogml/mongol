@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T3281">
+  <head>
+    <unicode>ᠲᠠᠩᠴᠠᠰᠢ</unicode>
+    <transcript>tengčesi</transcript>
+    <transcript2>dengcesi</transcript2>
+    <cyrillic>тэнцэш</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠩᠴᠠᠰᠢ</unicode>
+      <uighur>tengčesi</uighur>
+      <transcript>TENGCESI</transcript>
+      <page>802</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠩᠴᠠᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Unmatched, incomparable, incomparably</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠩᠴᠠᠰᠢ ᠦᠭᠡᠢ ᠪᠠᠭᠠᠲᠤᠷ</unicode>
+          <transcript>-- ygei baγatur </transcript>
+          <definition>Incomparable hero</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠩᠴᠠᠰᠢ</unicode>
+      <cyrillic>ТЭНЦЭШГҮЙ</cyrillic>
+      <definition>несоответствующий. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

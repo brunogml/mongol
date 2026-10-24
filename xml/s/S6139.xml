@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6139">
+  <head>
+    <unicode>ᠰᠣᠷᠠᠬᠯᠠᠬᠣ</unicode>
+    <transcript>suraγlaqu</transcript>
+    <transcript2>soraglago</transcript2>
+    <cyrillic>сураглах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6141</ref>
+    <ref>S6145</ref>
+  </derivatives>
+  <see_also>
+    <ref>S6140</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠣᠷᠠᠬᠯᠠᠬᠣ</unicode>
+      <uighur>suraqlaqu</uighur>
+      <cyrillic>сураглах</cyrillic>
+      <transcript>SURAΓLA-</transcript>
+      <definition>v.i. To make inquiries, find out, gather information</definition>
+      <page>738</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠯᠳᠠᠭᠰᠠᠨ ᠮᠠᠯ ᠢᠶᠠᠨ ᠰᠣᠷᠠᠬᠯᠠ ᠶᠠᠪᠤᠬᠤ</unicode>
+          <transcript>aldaγsan mal ijen --n jabuxu</transcript>
+          <definition> To go around inquiring about a lost animal</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠤᠷᠠᠬᠯᠠᠬᠤ</unicode>
+      <definition>prendre les informations, s'informer.</definition>
+      <page>1412</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠤᠷᠠᠬᠯᠠᠨ ᠰᠣᠨᠣᠰᠬᠤ</unicode>
+          <definition>entendre dire qc., bruit d'une chose</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠰᠣᠷᠠᠬᠯᠠᠬᠣ</unicode>
+      <uighur>suraqlaqu</uighur>
+      <definition>Nachricht einziehen, sich erkundigen</definition>
+      <page>369</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠰᠣᠷᠠᠬᠯᠠᠬᠣ</unicode>
+      <uighur>suraqlaqu</uighur>
+      <definition>To verify the facts thru inquiry. To collect news and information.</definition>
+      <page>1481</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠷᠠᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>сураглах</cyrillic>
+      <definition>〔动〕打听，探问，讯问，查问，询问；采访：алдсан малы ~н явах 打听丢失的牲畜.</definition>
+      <page>962</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠷᠠᠬᠯᠠᠬᠣ</unicode>
+      <cyrillic>СУРАГЛАХ</cyrillic>
+      <definition>осведомляться, наводить справки; разузнавать, расспрашивать; асууж сураглах расспросить; түүний тухай сайн сураглаж мэдэх хэрэгтэй надо о нём разузнать; сураглаж сонсов по слухам дошло; пошёл слух, слышно. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сураглах</cyrillic>
+      <definition>sich erkundigen (bei jmdm. -аас; nach -ыг)</definition>
+      <page>205</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠷᠠᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>сураглах</cyrillic>
+      <definition>энд тэндээс асуух, лавлах, сурвалжлах; асууж сураглаж явсаар аянчны нэгэн майханд хүрэв.</definition>
+      <page>490</page>
+    </entry_item>
+  </entries>
+</entry>

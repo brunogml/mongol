@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5275">
+  <head>
+    <unicode>ᠲᠣᠨᠢᠷᠬᠠᠬᠣ</unicode>
+    <transcript>tunirqaqu</transcript>
+    <transcript2>donirgago</transcript2>
+    <cyrillic>тунирхах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T5277</ref>
+    <ref>T5278</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠨᠢᠷᠬᠠᠬᠤ</unicode>
+      <cyrillic>тунирхах</cyrillic>
+      <definition>〔动〕装腔作势，摆架子，扭捏作态，撒娇.</definition>
+      <page>1114</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠨᠢᠷᠬᠠᠬᠣ</unicode>
+      <cyrillic>ТУНИРХАХ</cyrillic>
+      <definition>упрямиться; набивать себе цену; тумархах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠨᠢᠷᠬᠠᠬᠤ</unicode>
+      <cyrillic>тунирхах</cyrillic>
+      <definition>туних, үнэрхэх, чадах атлаа гуйлгах.</definition>
+      <page>557</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A3010">
+  <head>
+    <unicode>ᠠᠮᠣᠯ</unicode>
+    <transcript>amul</transcript>
+    <transcript2>amol</transcript2>
+    <cyrillic>амал</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠮᠣᠯ</unicode>
+      <definition>tranquillité, paix, repos: 2 bonheur, prospérité</definition>
+      <page>109</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠠᠮᠣᠯ</unicode>
+      <uighur>amul</uighur>
+      <definition>Glück, Harmlosigkeit</definition>
+      <page>10</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠠᠮᠣᠯ</unicode>
+      <uighur>amul</uighur>
+      <definition>n. Happiness. Unconcern. Without sorrow.</definition>
+      <page>37</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠮᠤᠯ</unicode>
+      <cyrillic>амал</cyrillic>
+      <definition>〔名〕休息；享福.</definition>
+      <page>49</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠮᠣᠯ</unicode>
+      <cyrillic>АМАЛ</cyrillic>
+      <definition>1) передышка; перерыв (напр. для курения); отдых; отдохновение; отдых (во время работы); 2) успокоение, спокойствие, благополучие; покой.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠮᠣᠯ ᠦᠭᠡᠢ</unicode>
+      <cyrillic>АМАЛГҮЙ</cyrillic>
+      <definition>не успокаиваясь, не незнающий (зная) покоя, отдыха; неутомимый.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠮᠤᠯ</unicode>
+      <cyrillic>амал</cyrillic>
+      <definition>амрал.</definition>
+      <page>38</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>A3012</ref>
+    <ref>A3013</ref>
+  </derivatives>
+</entry>

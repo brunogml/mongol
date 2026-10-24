@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M2041">
+  <head>
+    <unicode>ᠮᠣᠷᠳᠠᠬᠣ</unicode>
+    <transcript>mordaqu</transcript>
+    <transcript2>mordago</transcript2>
+    <cyrillic>мордох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M2042</ref>
+    <ref>M2045</ref>
+  </derivatives>
+  <see_also>
+    <ref>M2046</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠮᠣᠷᠳᠠᠬᠣ</unicode>
+      <uighur>murdaqu</uighur>
+      <cyrillic>мордох</cyrillic>
+      <transcript>MORDA-</transcript>
+      <definition>[= mordu-] v.i. To mount a horse, to set out; to start on a journey, depart.</definition>
+      <page>543</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠣᠷᠳᠠᠬᠣ ᠴᠢᠯᠠᠭᠤ</unicode>
+          <transcript>--xu cilaγu</transcript>
+          <definition> Stone to step on for mounting a horse</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠣᠷᠳᠠᠬᠣ ᠡᠳᠦᠷ</unicode>
+          <transcript>--xu edyr</transcript>
+          <definition> Day of departure</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠣᠷᠳᠠᠵᠤ ᠭᠠᠷᠬᠤ</unicode>
+          <transcript>--zu γarxu</transcript>
+          <definition> To ride or set out</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠮᠣᠷᠳᠠᠬᠤ</unicode>
+      <definition>partir pour un lieu.</definition>
+      <page>2050</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠮᠣᠷᠳᠠᠬᠣ</unicode>
+      <uighur>murdaqu</uighur>
+      <definition>zu Pferde steigen</definition>
+      <page>219</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠮᠣᠷᠳᠠᠬᠣ</unicode>
+      <uighur>mordaqu</uighur>
+      <definition>v.t. To mount a horse.</definition>
+      <page>864</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠷᠳᠠᠬᠣ</unicode>
+      <cyrillic>МОРДОХ</cyrillic>
+      <definition>1. 1) садиться верхом; алавхийн мордох скакать, ехать вскачь; вскочить с размаха; моринд мордох сесть верхом на лошадь; мордох нь хазгай бол, морилох нь хазгай зүйр. как вскочишь, так и поскачешь; мордохын хазгай хэлц. первый блин комом; мордох чулуу камень, с которого садятся на лошадь; 2) отправляться в дорогу, пускаться в путь, уезжать; анд мордох выезжать на охоту; аянд мордох / замд мордох отправляться в дорогу; дайлаар мордох выступить в поход; дайнд мордох отправляться на войну; довтлон мордох скакать верхом; өглөө эрт мордох выступать рано утром; хотыг зорин мордох отправляться в город, ехать к городу; цэрэгт мордох отправляться служить в армию; цэрэгт мордогсод мобилизованные в армию, призывники; эх орноо хамгаалахаар мордох встать на защиту родины; мордож явах выступать в путь`, ехать; тэд өчигдөр мордов они отправились вчера; ирсэн гийчин морддог, орсон бороо гийдэг зүйр. приезжий гость – уезжает, льющий дождь – прекращается; 2. мордохуй-г үз., мордохын мэнд напутственное приветствие; мордохын өмнө перед отправлением, выступлением; мордоход бэлдэх готовиться к отъезду; мордох цаг болов наступил час отъезда. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠷᠳᠠᠬᠣ</unicode>
+      <cyrillic>МОРДОХУЙ</cyrillic>
+      <definition>отъезд, отправление. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠣᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>мордох</cyrillic>
+      <definition>1. юман дээр унах, зайдлах; мориндоо мордон ухасхийв;2. &lt;шилжсэн&gt;алс юманд хөдлөх; Москва орохоор мордов.</definition>
+      <page>341</page>
+    </entry_item>
+  </entries>
+</entry>

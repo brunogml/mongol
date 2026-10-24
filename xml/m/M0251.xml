@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0251">
+  <head>
+    <unicode>ᠮᠠᠭᠠᠳᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>maγadaγanaqu</transcript>
+    <transcript2>magadaganago</transcript2>
+    <cyrillic>маадганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M0252</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠭᠠᠳᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>маадганах</cyrillic>
+      <definition>〔动〕参见 маадалзах.</definition>
+      <page>650</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠭᠠᠳᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>МААДГАНАХ</cyrillic>
+      <definition>маадалзах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠭᠠᠳᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>маадганах</cyrillic>
+      <definition>маадгар юмны үргэлжлэн хөдлөх.</definition>
+      <page>324</page>
+    </entry_item>
+  </entries>
+</entry>

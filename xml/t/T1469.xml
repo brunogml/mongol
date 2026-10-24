@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1469">
+  <head>
+    <unicode>ᠲᠠᠰᠣᠷᠠᠯ</unicode>
+    <transcript>tasural</transcript>
+    <transcript2>dasoral</transcript2>
+    <cyrillic>тасрал</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠰᠣᠷᠠᠯ</unicode>
+      <uighur>tasoral</uighur>
+      <cyrillic>тасрал</cyrillic>
+      <transcript>TASURAL</transcript>
+      <definition>n. Separation, disruption, interruption, cessation, stoppage.</definition>
+      <page>785</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠰᠣᠷᠠᠯ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Uninterrupted[ly], unceasing[ly].</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠰᠣᠷᠠᠯ</unicode>
+      <definition>séparation, clôture: 2 interruption, cessation; fin.</definition>
+      <page>1616</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠰᠣᠷᠠᠯ ᠦᠭᠡᠢ</unicode>
+          <definition>intarissablement, inséparablement; sans cesse, continuellement</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠰᠣᠷᠠᠯ</unicode>
+      <uighur>dasoral</uighur>
+      <definition>die Trennung, Abtrennung.; das Ende, die Unterbrechung</definition>
+      <page>238</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠰᠣᠷᠠᠯ</unicode>
+      <uighur>tasural</uighur>
+      <definition>n. The act of pulling in two or ripping off. Ceasing. Interruption.</definition>
+      <page>938</page>
+      <examples>
+        <example>
+          <uighur>tasural ügei</uighur>
+          <definition>Without interruption. Uninterrupted. Continually. Continous</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠰᠤᠷᠠᠯ</unicode>
+      <cyrillic>тасрал</cyrillic>
+      <definition>〔名〕①间断，中断，停息；②离开，脱离：~ хөндийрөл 隔阂；③停止，终止，终了；④完成，结束.</definition>
+      <page>1036</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠰᠣᠷᠠᠯ</unicode>
+      <cyrillic>ТАСРАЛ</cyrillic>
+      <definition>1) перерыв; перебой; 2) срыв; отставание; 3) разрыв, разделение, трещина; 4) отделение, выделение. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠰᠣᠷᠠᠯ</unicode>
+      <cyrillic>ТАСРАЛГҮЙ</cyrillic>
+      <definition>беспрерывный; непрерывный, постоянный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тасрал</cyrillic>
+      <definition>1. Trennung f; Abbruch m, Ende n
+2. Störung f, Unterbrechung f</definition>
+      <page>222</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠰᠤᠷᠠᠯ</unicode>
+      <cyrillic>тасрал</cyrillic>
+      <definition>барагдал, дуусал, төгсгөл.</definition>
+      <page>525</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>T1471</ref>
+    <ref>T1472</ref>
+    <ref>T1470</ref>
+  </derivatives>
+</entry>

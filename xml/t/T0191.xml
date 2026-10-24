@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0191">
+  <head>
+    <unicode>ᠲᠠᠩᠭᠠᠴᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tangγačiγulqu</transcript>
+    <transcript2>danggacigolgo</transcript2>
+    <cyrillic>тангачуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T0190</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠩᠭᠠᠴᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тангачуулах</cyrillic>
+      <definition>〔动〕тангачих 的使动态.</definition>
+      <page>1025</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠩᠭᠠᠴᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАНГАЧУУЛАХ</cyrillic>
+      <definition>тангачих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠩᠭᠠᠴᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тангачуулах</cyrillic>
+      <definition>тангачихын үйлдүүлэх хэв.</definition>
+      <page>520</page>
+    </entry_item>
+  </entries>
+</entry>

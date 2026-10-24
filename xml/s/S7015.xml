@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S7015">
+  <head>
+    <unicode>ᠱᠥᠷᠪᠥᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>šörbügenekü</transcript>
+    <transcript2>sörbögenegö</transcript2>
+    <cyrillic>шөрвөгнөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S7016</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠥᠷᠪᠥᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>шөрвөгнөх</cyrillic>
+      <definition>〔动〕参见 шөрвөлзөх.</definition>
+      <page>1654</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠥᠷᠪᠥᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>ШӨРВӨГНӨХ</cyrillic>
+      <definition>шөрвөлзөх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шөрвөгнөх</cyrillic>
+      <definition>etw. Struppiges, Abstehendes sich bewegen</definition>
+      <page>390</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠥᠷᠪᠥᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>шөрвөгнөх</cyrillic>
+      <definition>шөрөвгөр юмны шөрвөг шөрвөг хөдлөх.</definition>
+      <page>856</page>
+    </entry_item>
+  </entries>
+</entry>

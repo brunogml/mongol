@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2313">
+  <head>
+    <unicode>ᠱᠠᠯᠺᠥᠷᠠᠺᠥ</unicode>
+    <transcript>šelkürekü</transcript>
+    <transcript2>selgöregö</transcript2>
+    <cyrillic>шилхрэх</cyrillic>
+  </head>
+  <see_also>
+    <ref>S2312</ref>
+    <ref>S2314</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠡᠯᠬᠦᠷᠬᠦ</unicode>
+      <cyrillic>шилхрэх</cyrillic>
+      <definition>〔动〕肿胀，浮肿.</definition>
+      <page>1635</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠯᠺᠥᠷᠠᠺᠥ</unicode>
+      <cyrillic>ШИЛХРЭХ</cyrillic>
+      <definition>сэлхрэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠡᠯᠬᠦᠷᠡᠬᠦ</unicode>
+      <cyrillic>шилхрэх</cyrillic>
+      <definition>сэлхрэх, цэлхрэх, хүний нүүр этгээд хавдсан мэт хөөнгөтөх.</definition>
+      <page>847</page>
+    </entry_item>
+  </entries>
+</entry>

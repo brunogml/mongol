@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B2523">
+  <head>
+    <unicode>ᠪᠢᠸᠠᠩᠺᠢᠷᠢᠳ</unicode>
+    <transcript>bivanggirid</transcript>
+    <transcript2>bivanggirid</transcript2>
+    <cyrillic>биванхирид</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠢᠸᠠᠩᠺᠢᠷᠢᠳ</unicode>
+      <transcript>BIVANGGIRID </transcript>
+      <definition>See vivanggirid.</definition>
+      <page>1164</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠢᠸᠠᠩᠭᠢᠷᠢᠳ ~ ᠸᠢᠸᠠᠩᠭᠢᠷᠢᠳ</unicode>
+      <definition>explication des destinées futures, prédiction. prophétie: 2 explication, démonstration, 3 gràmmaire.</definition>
+      <page>1154</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠢᠸᠠᠩᠭᠢᠷᠢᠳ ᠦᠵᠡᠭᠦᠯᠺᠦ</unicode>
+          <definition>prophétiser; 2 expliquer, exposer, démontrer</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠢᠸᠠᠩᠭᠢᠷᠢᠳ ᠦᠵᠦᠭᠦᠯᠦᠭᠰᠡᠨ</unicode>
+          <definition>démontré</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠢᠸᠠᠩᠭᠢᠷᠢᠳ ᠥᠭᠺᠦ</unicode>
+          <definition>prohpétiser, prédire; 2 expliquer, exposer, démontrer</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

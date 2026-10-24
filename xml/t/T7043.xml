@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T7043">
+  <head>
+    <unicode>ᠳᠣᠯᠳᠣᠶᠢᠳᠣᠯ</unicode>
+    <transcript>dulduyidul</transcript>
+    <transcript2>doldoyidol</transcript2>
+    <cyrillic>дулдуйдал</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠣᠯᠳᠣᠶᠢᠳᠣᠯ</unicode>
+      <uighur>dulduyidul</uighur>
+      <cyrillic>дулдуйдал</cyrillic>
+      <transcript>DULDUIDUL</transcript>
+      <definition>n. The act of dulduid-.</definition>
+      <page>273</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠣᠯᠳᠣᠶᠢᠳᠣᠯ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Without support, not leaning on anything.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠯᠳᠣᠶᠢᠳᠣᠯ ᠦᠭᠡᠢ</unicode>
+      <definition>sans fondement, sans relation, incohérent, absurde.</definition>
+      <page>1859</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠤᠯᠳᠤᠢᠳᠠᠯ</unicode>
+      <cyrillic>дулдуйдал</cyrillic>
+      <definition>〔名〕дулдуйдах 的名词.</definition>
+      <page>437</page>
+    </entry_item>
+  </entries>
+</entry>

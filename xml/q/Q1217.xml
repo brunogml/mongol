@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1217">
+  <head>
+    <unicode>ᠬᠠᠪᠴᠢᠭᠠᠷᠳᠠᠬᠣ</unicode>
+    <transcript>qabčiγardaqu</transcript>
+    <transcript2>gabcigardago</transcript2>
+    <cyrillic>хавчгардах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q1219</ref>
+    <ref>Q1220</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q1218</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠪᠴᠢᠭᠠᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>хавчгардах</cyrillic>
+      <definition>〔动〕变得太扁，变得太扁长；变得太狭窄，变得十分干瘪，瘦削；感到被压挤得很厉害.</definition>
+      <page>1266</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠪᠴᠢᠭᠠᠷᠳᠠᠬᠣ</unicode>
+      <cyrillic>ХАВЧГАРДАХ</cyrillic>
+      <definition>оказываться слишком приплюснутым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠪᠴᠢᠭᠠᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>хавчгардах</cyrillic>
+      <definition>хэтэрхий хавчгар болох.</definition>
+      <page>637</page>
+    </entry_item>
+  </entries>
+</entry>

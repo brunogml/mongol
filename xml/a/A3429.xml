@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A3429">
+  <head>
+    <unicode>ᠠᠺᠢᠬᠣ</unicode>
+    <transcript>agiqu</transcript>
+    <transcript2>agigo</transcript2>
+    <cyrillic>агих</cyrillic>
+  </head>
+  <see_also>
+    <ref>A3430</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠺᠢᠬᠣ</unicode>
+      <uighur>agiqu</uighur>
+      <cyrillic>агих</cyrillic>
+      <transcript>AGI-</transcript>
+      <definition>v . 1. To dry up, harden; to freeze.</definition>
+      <page>19</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠥᠰᠦ ᠠᠭᠢᠵᠤᠬᠤᠢ</unicode>
+          <transcript>møsy --zuxui</transcript>
+          <definition> Ice has formed.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠺᠢᠬᠤ</unicode>
+      <definition>se fondre, en parlant de la glace</definition>
+      <page>125</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠭᠢᠬᠤ</unicode>
+      <cyrillic>агих</cyrillic>
+      <definition>〔动〕（冰冻得）凸起来.</definition>
+      <page>18</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠺᠢᠬᠣ</unicode>
+      <cyrillic>АГИХ</cyrillic>
+      <definition>промерзать, вымерзать (о льде); мөс агиж хөлдөх смерзаться, смёрзнуться (о льде).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠭᠢᠬᠤ</unicode>
+      <cyrillic>агих</cyrillic>
+      <definition>мөс агиран хөлдөж овойх. мөс агих.</definition>
+      <page>20</page>
+    </entry_item>
+  </entries>
+</entry>

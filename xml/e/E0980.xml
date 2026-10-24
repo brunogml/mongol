@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E0980">
+  <head>
+    <unicode>ᠡᠯᠲᠡᠷᠺᠡᠢ</unicode>
+    <transcript>elterkei</transcript>
+    <transcript2>eldergei</transcript2>
+    <cyrillic>элтэрхий</cyrillic>
+  </head>
+  <see_also>
+    <ref>E0990</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠯᠲᠠᠷᠺᠠᠢ</unicode>
+      <cyrillic>ЭЛТЭРХИЙ</cyrillic>
+      <definition>обломанный, отбитый, сломанный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠯᠲᠡᠷᠬᠡᠢ</unicode>
+      <cyrillic>элтэрхий</cyrillic>
+      <definition>хэлтэрхий, сэлтэрхий, эмтэрхий;элтэрхий хэлтэрхий&lt;хорш&gt;.</definition>
+      <page>874</page>
+    </entry_item>
+  </entries>
+</entry>

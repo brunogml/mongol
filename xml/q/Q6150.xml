@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q6150">
+  <head>
+    <unicode> ᠬᠣᠮᠰᠠᠳᠬᠠᠬᠣ</unicode>
+    <transcript>qomsatqaqu</transcript>
+    <transcript2>gomsadgago</transcript2>
+    <cyrillic>хомстгох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q6151</ref>
+    <ref>Q6152</ref>
+    <ref>Q6155</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode> ᠬᠣᠮᠰᠠᠳᠬᠠᠬᠣ</unicode>
+      <uighur>qomsadqaqu</uighur>
+      <cyrillic>хомсотгох</cyrillic>
+      <transcript>XOMSADXA-</transcript>
+      <definition>[v. caus. of xomsad-] v. t. To diminish, keep down, cut down, curtail; to occasion a loss; to expend, consume.</definition>
+      <page>960</page>
+      <examples>
+        <example>
+          <unicode> ᠬᠣᠮᠰᠠᠳᠬᠠᠵᠤ ᠲᠥᠰᠦᠪᠯᠡᠺᠦ</unicode>
+          <transcript>--zu tosybleky</transcript>
+          <definition> To cut down or trim a budget.</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠠᠳᠠᠭᠠᠳᠤ ᠡᠴᠡ ᠠᠪᠴᠢᠷᠠᠭᠤᠯᠬᠤ ᠵᠦᠢᠯ ᠤᠳ ᠢ ᠬᠣᠮᠰᠠᠳᠬᠠᠬᠣ </unicode>
+          <transcript>γadaγadu ece abciraγulxu zyil yd i --xu</transcript>
+          <definition> To restrict or limit imports.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠮᠰᠠᠳᠬᠠᠬᠤ</unicode>
+      <definition>occasioner une perte, dissiper, dépenser, consommer; diminuer: 2 épuiser</definition>
+      <page>939</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode> ᠬᠣᠮᠰᠠᠳᠬᠠᠬᠣ</unicode>
+      <uighur>qumsadqaqu</uighur>
+      <definition>vermindern, in Abnahme bringen, verzehren , vernichten,</definition>
+      <page>167</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode> ᠬᠣᠮᠰᠠᠳᠬᠠᠬᠣ</unicode>
+      <uighur>qumsadqaqu</uighur>
+      <definition>v.t. To diminish, to cause to decline. To bring to naught. To destroy.</definition>
+      <page>655</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠣᠮᠰᠠᠳᠬᠠᠬᠤ</unicode>
+      <cyrillic>хомстгох</cyrillic>
+      <definition>〔动〕хомстох 的使动态；使减少，裁减；压缩：орон тоо ~ 裁减编制.</definition>
+      <page>1360</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode> ᠬᠣᠮᠰᠠᠳᠬᠠᠬᠣ</unicode>
+      <cyrillic>ХОМСТГОХ</cyrillic>
+      <definition>хомстох-ын үйлдүүл., уменьшать, убавлять; урезывать, сокращать; вызывать оскудение, истощать; зардал хомстгох сокращать расходы; чирэгдэл хомстгох уменьшать тяготы, облегчать тяготы. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠮᠰᠠᠳᠬᠠᠬᠤ</unicode>
+      <cyrillic>хомстгох</cyrillic>
+      <definition>хомстохын үйлдүүлэх хэв, хомс болгох; орон тоо хомстгох.</definition>
+      <page>688</page>
+    </entry_item>
+  </entries>
+</entry>

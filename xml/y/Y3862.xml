@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3862">
+  <head>
+    <unicode>ᠶᠣᠩᠬᠣᠯᠵᠠᠬᠣ</unicode>
+    <transcript>yongqulǰaqu</transcript>
+    <transcript2>yonggolcago</transcript2>
+    <cyrillic>ёнхолзох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y3863</ref>
+    <ref>Y3864</ref>
+  </derivatives>
+  <see_also>
+    <ref>Y3862a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠣᠩᠬᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>ёнхолзох</cyrillic>
+      <definition>〔动〕参见 ёнхгонох.</definition>
+      <page>492</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠣᠩᠬᠣᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ЁНХОЛЗОХ</cyrillic>
+      <definition>ёнхгонох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠣᠩᠬᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>ёнхолзох</cyrillic>
+      <definition>ёнхгор амьтны ёнхос ёнхос хөдлөх.</definition>
+      <page>236</page>
+    </entry_item>
+  </entries>
+</entry>

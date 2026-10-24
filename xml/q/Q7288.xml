@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q7288">
+  <head>
+    <unicode> ᠣᠦᠴᠠᠳᠬᠠᠬᠣ</unicode>
+    <transcript>qurčatqaqu</transcript>
+    <transcript2>gorcadgago</transcript2>
+    <cyrillic>хурцатгах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q7289</ref>
+    <ref>Q7290</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠤᠷᠴᠠᠳᠬᠠᠬᠤ</unicode>
+      <uighur>qurčadqaqu</uighur>
+      <cyrillic>хурцатгах</cyrillic>
+      <transcript>XURCADXA-</transcript>
+      <definition>[v. caus. of xurcad-] To sharpen; to aggravate</definition>
+      <page>988</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠡᠮᠡᠴᠡᠯ ᠢ ᠬᠤᠷᠴᠠᠳᠬᠠᠬᠤ</unicode>
+          <transcript>temecel i --xu</transcript>
+          <definition> To aggravate a struggle</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠷᠴᠠᠳᠬᠠᠬᠤ</unicode>
+      <definition>aiguiser, affiler</definition>
+      <page>973</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode> ᠣᠦᠴᠠᠳᠬᠠᠬᠣ</unicode>
+      <uighur>qurčadqaqu</uighur>
+      <definition>scharf machen, schärfen lassen</definition>
+      <page>172</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode> ᠣᠦᠴᠠᠳᠬᠠᠬᠣ</unicode>
+      <uighur>qurčadqaqu</uighur>
+      <definition>To cause to sharpen.</definition>
+      <page>675</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠷᠴᠠᠳᠬᠠᠬᠤ</unicode>
+      <cyrillic>хурцатгах</cyrillic>
+      <definition>〔动〕参见 хурцасгах.</definition>
+      <page>1438</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode> ᠣᠦᠴᠠᠳᠬᠠᠬᠣ</unicode>
+      <cyrillic>ХУРЦАТГАХ</cyrillic>
+      <definition>хурцдах-ын үйлдүүл., 1) делать острым, заострять; точить; хутга хурцатгах точить нож; 2) обострять; асуудлыг хурцатгах заострить вопрос; байдал хурцатгах обострять положение. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠷᠴᠠᠳᠬᠠᠬᠤ</unicode>
+      <cyrillic>хурцатгах</cyrillic>
+      <definition>хурцлах, хурцасгах.</definition>
+      <page>734</page>
+    </entry_item>
+  </entries>
+</entry>

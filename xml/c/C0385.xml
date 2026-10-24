@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0385">
+  <head>
+    <unicode>ᠴᠠᠳᠢᠭᠭᠦᠶᠢᠷᠭᠡᠺᠦ</unicode>
+    <transcript>čadiγgüyirkekü</transcript>
+    <transcript2>cadiggöyirgegö</transcript2>
+    <cyrillic>цадиггүйрхэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>C0383</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠳᠢᠭ᠎ᠦᠭᠡᠢᠷᠬᠡᠬᠦ</unicode>
+      <cyrillic>цадиггүйрхэх</cyrillic>
+      <definition>〔动〕不自量，不知高低，狂妄不自量.</definition>
+      <page>1514</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠳᠢᠭᠭᠦᠶᠢᠷᠭᠡᠺᠦ</unicode>
+      <cyrillic>ЦАДИГГҮЙРХЭХ</cyrillic>
+      <definition>цадиггүйтэх-ийг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠳᠢᠭ᠊ᠭᠦᠢᠷᠬᠡᠬᠦ</unicode>
+      <cyrillic>цадиггүйрхэх</cyrillic>
+      <definition>цадиггүй зан авир гаргах.</definition>
+      <page>780</page>
+    </entry_item>
+  </entries>
+</entry>

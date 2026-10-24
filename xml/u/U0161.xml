@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U0161">
+  <head>
+    <unicode>ᠣᠨᠢᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>onilǰaγulqu</transcript>
+    <transcript2>onilcagolgo</transcript2>
+    <cyrillic>онилзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U0160</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠨᠢᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>онилзуулах</cyrillic>
+      <definition>〔动〕онилзох 的使动态.</definition>
+      <page>807</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠨᠢᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ОНИЛЗУУЛАХ</cyrillic>
+      <definition>онилзох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠨᠢᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>онилзуулах</cyrillic>
+      <definition>онилзохын үйлдүүлэх хэв, анивалзуулах.</definition>
+      <page>417</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C0795">
+  <head>
+    <unicode>ᠴᠠᠨᠠ</unicode>
+    <transcript>čene</transcript>
+    <transcript2>cene</transcript2>
+    <cyrillic>цээнэ</cyrillic>
+  </head><see_also>
+    <ref>C1144</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠨᠠ</unicode>
+      <uighur>čene</uighur>
+      <cyrillic>цээнэ</cyrillic>
+      <transcript>CENE</transcript>
+      <definition>n. Peony.</definition>
+      <page>171</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠠᠨᠠ ᠴᠡᠴᠡᠭᠬ</unicode>
+          <transcript>-- ceceg</transcript>
+          <definition> Peony.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠠᠨᠠ ᠵᠠᠭᠠᠨ</unicode>
+          <transcript>jaγan --</transcript>
+          <definition> Peony,</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠡᠨᠡ ᠴᠡᠴᠡᠭ</unicode>
+      <definition>la pivoine, pione, péone [paeonia].</definition>
+      <page>2116</page>
+    </entry_item>
+  </entries>
+</entry>

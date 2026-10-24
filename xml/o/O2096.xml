@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="O2096">
+  <head>
+    <unicode>ᠥᠷᠲᠠᠺᠥ</unicode>
+    <transcript>örtekü</transcript>
+    <transcript2>ördegö</transcript2>
+    <cyrillic>өртөх</cyrillic>
+  </head><derivatives>
+    <ref>O2097</ref>
+  </derivatives><see_also>
+    <ref>O1898</ref>
+  
+    <ref>O2110</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠥᠷᠲᠠᠺᠥ</unicode>
+      <uighur>ördekü</uighur>
+      <cyrillic>өртөх</cyrillic>
+      <transcript>ØRTE-</transcript>
+      <definition>v. i. and t. To change post horses; to be caught; to reach.</definition>
+      <page>643</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠢᠨᠤ ᠭᠠᠷ ᠎ᠲᠤᠷ ᠥᠷᠲᠠᠺᠥ ᠦᠭᠡᠢ ᠪᠠᠶᠢᠨᠠ</unicode>
+          <transcript>minu γar tur --ky ygei baina</transcript>
+          <definition> I can't reach [it] with my hand; [it is] out of my reach</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠦᠷᠳᠡᠺᠦ</unicode>
+      <definition>fournir les chevaux de poste</definition>
+      <page>588</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠥᠷᠲᠠᠺᠥ</unicode>
+      <uighur>ürdekü</uighur>
+      <definition>Postpferde stellen</definition>
+      <page>74</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠥᠷᠲᠠᠺᠥ</unicode>
+      <uighur>ürdekü</uighur>
+      <definition>v.t. To require or supply with post-horses.</definition>
+      <page>296</page>
+    </entry_item>
+  </entries>
+</entry>

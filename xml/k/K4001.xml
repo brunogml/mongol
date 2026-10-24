@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4001">
+  <head>
+    <unicode>ᠺᠥᠯᠢᠺᠡᠯᠵᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>küligelǰegülkü</transcript>
+    <transcript2>göligelcegölgö</transcript2>
+    <cyrillic>хүлгэлзүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K4000</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠦᠯᠢᠭᠡᠯᠵᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хүлгэлзүүлэх</cyrillic>
+      <definition>〔动〕хүлгэлзэх 的使动态.</definition>
+      <page>1452</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠯᠢᠺᠡᠯᠵᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ХҮЛГЭЛЗҮҮЛЭХ</cyrillic>
+      <definition>хүлгэлзэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠦᠯᠢᠭᠡᠯᠵᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хүлгэлзүүлэх</cyrillic>
+      <definition>хүлгэлзэхийн үйлдүүлэх хэв.</definition>
+      <page>743</page>
+    </entry_item>
+  </entries>
+</entry>

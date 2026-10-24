@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1048">
+  <head>
+    <unicode>ᠳᠠᠪᠠᠷᠬᠠᠶᠢᠲᠣᠬᠣ</unicode>
+    <transcript>dabarqayituqu</transcript>
+    <transcript2>dabargayidogo</transcript2>
+    <cyrillic>давирхайтах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1049</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠪᠠᠷᠬᠠᠢᠲᠤᠬᠤ</unicode>
+      <cyrillic>давирхайтах</cyrillic>
+      <definition>〔动〕长树脂，长松香，出松脂.</definition>
+      <page>365</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠪᠠᠷᠬᠠᠶᠢᠲᠣᠬᠣ</unicode>
+      <cyrillic>ДАВИРХАЙТАХ</cyrillic>
+      <definition>давирхайдах-ын үйлдэгд., смолиться, выделять смолу. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>давирхайтах</cyrillic>
+      <definition>= давирхайдах</definition>
+      <page>87</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠪᠠᠷᠬᠠᠢᠲᠤᠬᠤ</unicode>
+      <cyrillic>давирхайтах</cyrillic>
+      <definition>давирхайтай болох, давирхай гарах.</definition>
+      <page>176</page>
+    </entry_item>
+  </entries>
+</entry>

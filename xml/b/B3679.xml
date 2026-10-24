@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B3679">
+  <head>
+    <unicode>ᠪᠣᠴᠠᠯᠠᠬᠣ</unicode>
+    <transcript>bučalaqu</transcript>
+    <transcript2>bocalago</transcript2>
+    <cyrillic>буцлах</cyrillic>
+  </head>
+  <see_also>
+    <ref>B3691</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠤᠴᠠᠯᠠᠬᠤ</unicode>
+      <definition>bouillir, bouillonner, être en ébullition</definition>
+      <page>1204</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠤᠴᠠᠯᠠᠭᠰᠠᠨ ᠤᠰᠤᠨ</unicode>
+          <definition>de l'eau bouiilante</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠪᠣᠴᠠᠯᠠᠬᠣ</unicode>
+      <uighur>bučalaqu</uighur>
+      <definition>kochen, sieden</definition>
+      <page>119</page>
+    </entry_item>
+  </entries>
+</entry>

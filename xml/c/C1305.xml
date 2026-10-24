@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1305">
+  <head>
+    <unicode>ᠴᠠᠷᠮᠠᠺᠥ</unicode>
+    <transcript>čermekü</transcript>
+    <transcript2>cermegö</transcript2>
+    <cyrillic>цэрмэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1306</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠷᠮᠡᠬᠦ</unicode>
+      <cyrillic>цэрмэх</cyrillic>
+      <definition>〔动〕（马）用单蹄刨，（马）用蹄子刨雪.</definition>
+      <page>1567</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠷᠮᠠᠺᠥ</unicode>
+      <cyrillic>ЦЭРМЭХ</cyrillic>
+      <definition>выбивать снег (о скоте, добывающем корм из-под снега); разгребать снег копытами (о скоте, очищающем ветошь от снега). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цэрмэх</cyrillic>
+      <definition>Tier Schnee wegscharren</definition>
+      <page>365</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠷᠮᠡᠬᠦ</unicode>
+      <cyrillic>цэрмэх</cyrillic>
+      <definition>морь малын цас цавчлах.</definition>
+      <page>807</page>
+    </entry_item>
+  </entries>
+</entry>

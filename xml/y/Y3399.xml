@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y3399">
+  <head>
+    <unicode>ᠵᠢᠶᠠᠩᠴᠠ</unicode>
+    <transcript>ǰiyangča</transcript>
+    <transcript2>yiyangca</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠢᠶᠠᠩᠴᠠ</unicode>
+      <uighur>ǰiyangča</uighur>
+      <transcript>ZIJANGCA</transcript>
+      <page>1053</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠢᠶᠠᠩᠴᠠ ᠬᠣᠷᠤᠬᠠᠢ</unicode>
+          <transcript>-- xoruxai</transcript>
+          <definition> Cicindela chinensis, small worm, with black and yellow spots, which eats kidney beans</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠢᠶᠠᠩᠴᠠ ᠬᠣᠷᠣᠬᠠᠢ</unicode>
+      <definition>un petit ver, tacheté de noir et de jaune, qui mange les fleurs des haricots. et dont la chair guérit de la rage.</definition>
+      <page>2351</page>
+    </entry_item>
+  </entries>
+</entry>

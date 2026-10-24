@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S5832">
+  <head>
+    <unicode>ᠰᠣᠯᠣᠩᠭᠠᠷᠠᠯ</unicode>
+    <transcript>solungγaral</transcript>
+    <transcript2>solonggaral</transcript2>
+    <cyrillic>солонгорол</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠯᠣᠩᠭᠠᠷᠠᠯ</unicode>
+      <cyrillic>солонгорол</cyrillic>
+      <definition>〔名〕光谱：солонгорлын задлаг 光谱分析.</definition>
+      <page>935</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠯᠣᠩᠭᠠᠷᠠᠯ</unicode>
+      <cyrillic>СОЛОНГОРОЛ</cyrillic>
+      <definition>тусг. спектр. </definition>
+      <page>0</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>солонгорол</cyrillic>
+    <definition>Phys Spektrum n; солонгорлын зарлал Spektralanalyse f</definition>
+    <page>200</page>
+  </entry_item>
+  </entries>
+<related_to><ref>S5830</ref></related_to></entry>

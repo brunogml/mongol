@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5106">
+  <head>
+    <unicode>ᠱᠣᠩᠬᠣᠭᠣᠨᠠᠬᠣ</unicode>
+    <transcript>šongquγunaqu</transcript>
+    <transcript2>songgogonago</transcript2>
+    <cyrillic>шонхогнох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5107</ref>
+    <ref>S5108</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠣᠩᠬᠣᠭᠣᠨᠠᠬᠤ</unicode>
+      <cyrillic>шонхогнох</cyrillic>
+      <definition>〔动〕高而尖的东西摇动.</definition>
+      <page>1648</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠩᠬᠣᠭᠣᠨᠠᠬᠣ</unicode>
+      <cyrillic>ШОНХОГНОХ</cyrillic>
+      <definition>шонхолзох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шонхогнох</cyrillic>
+      <definition>etw. Spitzes, Vorspringendes sich bewegen</definition>
+      <page>389</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠣᠩᠬᠣᠭᠣᠨᠠᠬᠤ</unicode>
+      <cyrillic>шонхогнох</cyrillic>
+      <definition>шонхгор юмны шонхог шонхог хөдлөх.</definition>
+      <page>854</page>
+    </entry_item>
+  </entries>
+</entry>

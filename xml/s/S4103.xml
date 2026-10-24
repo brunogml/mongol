@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4103">
+  <head>
+    <unicode>ᠰᠢᠮᠠᠷᠠᠬᠣ</unicode>
+    <transcript>simaraqu</transcript>
+    <transcript2>simarago</transcript2>
+    <cyrillic>шамрах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S4104</ref>
+    <ref>S4105</ref>
+  </derivatives>
+  <see_also>
+    <ref>S4111</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠮᠠᠷᠠᠬᠣ</unicode>
+      <cyrillic>ШАМРАХ</cyrillic>
+      <definition>I засучиваться, заворачиваться, подворачиваться (о рукаве); подниматься, закручиваться (о подоле); ханцуй шамрав рукава засучились. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠮᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>шамрах /1</cyrillic>
+      <definition>1. юмны зах сэжүүр этгээд энэ тийшээ эргэх, нугаларах; ханцуй шамрах; хормой шамрах; цаас шамрах; арьс шамрах;2. юмны шантрах; гадас шамрах; хадаас шамрах; үзүүр нь шамрах; ир нь шамрах.</definition>
+      <page>835</page>
+    </entry_item>
+  </entries>
+</entry>

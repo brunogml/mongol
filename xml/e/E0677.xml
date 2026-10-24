@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E0677">
+  <head>
+    <unicode>ᠡᠲᠡᠶᠢᠯᠭᠡᠺᠦ</unicode>
+    <transcript>eteyilgekü</transcript>
+    <transcript2>edeyilgegö</transcript2>
+    <cyrillic>этийлгэх</cyrillic>
+  </head>
+  <see_also>
+    <ref>E0715</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠲᠠᠶᠢᠯᠺᠠᠺᠥ</unicode>
+      <cyrillic>ЭТИЙЛГЭХ</cyrillic>
+      <definition>этийх-ийн үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>этийлгэх</cyrillic>
+      <definition>1. Kaus von этийх 
+2. nach oben biegen</definition>
+      <page>407</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠲᠡᠢᠯᠭᠡᠬᠦ</unicode>
+      <cyrillic>этийлгэх</cyrillic>
+      <definition>этийхэд хүрүүлэх.</definition>
+      <page>891</page>
+    </entry_item>
+  </entries>
+</entry>

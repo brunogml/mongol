@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1403">
+  <head>
+    <unicode>ᠣᠲᠣᠬᠳᠠᠬᠣ</unicode>
+    <transcript>utuγdaqu</transcript>
+    <transcript2>odogdago</transcript2>
+    <cyrillic>утагдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U1395</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠲᠤᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>утагдах</cyrillic>
+      <definition>〔动〕утах 的被动态.</definition>
+      <page>1209</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠲᠣᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>УТАГДАХ</cyrillic>
+      <definition>утах-ын үйлдэгд., быть прокуренным дымом. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠲᠤᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>утагдах</cyrillic>
+      <definition>утахын үйлдэгдэх хэв.</definition>
+      <page>603</page>
+    </entry_item>
+  </entries>
+</entry>

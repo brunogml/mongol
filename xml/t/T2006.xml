@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2006">
+  <head>
+    <unicode>ᠲᠠᠮᠠᠺᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tamakilaγulqu</transcript>
+    <transcript2>damagilagolgo</transcript2>
+    <cyrillic>тамхилуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T2005</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠮᠠᠬᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тамхилуулах</cyrillic>
+      <definition>〔动〕тамхилах 的使动态.</definition>
+      <page>1023</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠮᠠᠺᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАМХИЛУУЛАХ</cyrillic>
+      <definition>тамхилах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тамхилуулах</cyrillic>
+      <definition>Kaus von тамхилах</definition>
+      <page>219</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠮᠠᠬᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тамхилуулах</cyrillic>
+      <definition>тамхилахын үйлдүүлэх хэв.</definition>
+      <page>519</page>
+    </entry_item>
+  </entries>
+</entry>

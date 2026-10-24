@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1912">
+  <head>
+    <unicode>ᠨᠣᠣᠬᠠᠲᠣᠬᠣ</unicode>
+    <transcript>nouqatuqu</transcript>
+    <transcript2>noogadogo</transcript2>
+    <cyrillic>нуухтах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>N1913</ref>
+    <ref>N1914</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <cyrillic>нуухтах</cyrillic>
+      <definition>〔动〕生眼移.</definition>
+      <page>763</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠣᠣᠬᠠᠲᠣᠬᠣ</unicode>
+      <cyrillic>НУУХТАХ</cyrillic>
+      <definition>гноиться (о глазах); нүд нуухтаж байна глаза гноятся. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>нуухтах</cyrillic>
+      <definition>Augendrüseneiterung haben</definition>
+      <page>161</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠤᠤᠬᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>нуухтах</cyrillic>
+      <definition>нүдэнд нуух тогтох; нүд нуухтах.</definition>
+      <page>391</page>
+    </entry_item>
+  </entries>
+</entry>

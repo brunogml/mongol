@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y3111">
+  <head>
+    <unicode>ᠵᠢᠮᠡᠲᠥ</unicode>
+    <transcript>ǰimetü</transcript>
+    <transcript2>yimedö</transcript2>
+    <cyrillic>зэмт</cyrillic>
+  </head>
+  <see_also>
+    <ref>Y2098</ref>
+    <ref>Y3105</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠢᠮᠡᠲᠥ</unicode>
+      <uighur>ǰimedü</uighur>
+      <cyrillic>зэмт</cyrillic>
+      <transcript>ZIMETY</transcript>
+      <definition>See zimetei.</definition>
+      <page>1056</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠢᠮ᠎ᠡ ᠎ᠲᠦ</unicode>
+      <definition>1 coupable , un prévenu: &#13;
+2 grave, important.</definition>
+      <page>2349</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠢᠮᠡᠲᠦ ᠪᠣᠯᠭᠠᠬᠤ</unicode>
+          <definition>accuser de, juger, faire le procès</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

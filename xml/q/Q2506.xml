@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q2506">
+  <head>
+    <unicode>ᠬᠠᠮᠰᠣᠬᠣ</unicode>
+    <transcript>qamsuqu</transcript>
+    <transcript2>gamsogo</transcript2>
+    <cyrillic>хамсах</cyrillic>
+  </head><derivatives>
+    <ref>Q2507</ref>
+  </derivatives><see_also>
+    <ref>Q2477</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠮᠰᠣᠬᠣ</unicode>
+      <uighur>qamsoqu</uighur>
+      <cyrillic>хамсах</cyrillic>
+      <transcript>XAMSU-</transcript>
+      <definition>[= xamsa- = xamtu-] v. i. To be united, combined, incorporated; to come together; to be together; to work jointly or collectively.</definition>
+      <page>924</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠥᠺᠦᠷ ᠎ᠯᠦᠭᠡ ᠬᠠᠮᠰᠣᠬᠣ</unicode>
+          <transcript>nøkyr lyge --xu</transcript>
+          <definition> To unite with friends, join comrades.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠮᠰᠠᠬᠤ ~ ᠬᠠᠮᠰᠣᠬᠤ</unicode>
+      <definition>s'unir, se réunir; 2 se lier d'amitié.</definition>
+      <page>810</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠮᠰᠠᠬᠤ</unicode>
+      <cyrillic>хамсах</cyrillic>
+      <definition>〔动〕①做同伙，同谋，合伙；②联合，协力，结合，共同：ажлаа ~ж хийх 共同做工作，协力搞工作.</definition>
+      <page>1299</page>
+    </entry_item>
+  </entries>
+</entry>

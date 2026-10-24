@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5303">
+  <head>
+    <unicode>ᠰᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>suγulqu</transcript>
+    <transcript2>sogolgo</transcript2>
+    <cyrillic>сугалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5321</ref>
+  </derivatives>
+  <see_also>
+    <ref>S5291</ref>
+    <ref>S5302</ref>
+    <ref>S5304</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠣᠭᠣᠯᠬᠣ</unicode>
+      <uighur>suγulqu</uighur>
+      <cyrillic>сугалах</cyrillic>
+      <transcript>SUΓUL-</transcript>
+      <definition>[= zuγul-] v. t. To pull out, pluck out, draw out; to draw in a lottery.</definition>
+      <page>735</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠣᠭᠣᠯᠵᠤ ᠠᠪᠬᠤ</unicode>
+          <transcript>--zu abxu</transcript>
+          <definition> To draw out, pullout.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠡᠯᠡᠮ᠎ᠡ ᠪᠡᠨ ᠰᠣᠭᠣᠯᠬᠤ</unicode>
+          <transcript>selem-e ben --xu</transcript>
+          <definition> To unsheathe, draw one's sword</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠲᠠᠨ ᠰᠣᠭᠣᠯᠬᠤ</unicode>
+          <transcript>tatan --xu</transcript>
+          <definition> To pull out, drag out, draw out.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠤᠭᠤᠯᠬᠤ</unicode>
+      <definition>tirer, arracher.</definition>
+      <page>1389</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠤᠭᠤᠯᠵᠤ ᠠᠪᠬᠤ</unicode>
+          <definition>tirer, arracher</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠰᠣᠭᠣᠯᠬᠣ</unicode>
+      <uighur>suγulqu</uighur>
+      <definition>ausziehen, ausreissen</definition>
+      <page>367</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠰᠣᠭᠣᠯᠬᠣ</unicode>
+      <uighur>suγulqu</uighur>
+      <definition>v.t. To draw a sword. To pull out, to tear out.</definition>
+      <page>1473</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>СУГАЛАХ</cyrillic>
+      <definition>I 1) выдёргивать, вытаскивать, вытащить, извлечь, выудить, вырывать; гутлаа сугалж хаях сбрасывать с себя сапоги; зүрхий нь сугалах хуучир. вырвать сердце; бусдын нөлөөнөөс сугалан авах вырвать из-под чужого влияния; сэлэм хуйнаас нь сугалах обнажить шпагу; выхватить шашку из ножен; татан сугалах вытащить, вытянуть; извлечь; тэвэр үл багтах модны үндсийг сугалж авав вырвал дерево толщиною больше обхвата; үндсийг сугалж таслах выкорчевать корни; хадаас сугалах вытащить гвоздь; хосы нь сугалах хэлц. содрать шкуру (үгчил. вырвать кишку); ам хэл сугалах шахах үл.тааш. засыпать вопросами, расспросить обо всем (үгчил. чуть не вырвать язык); шархнаас сум сугалан авах извлечь пулю из раны; шүд сугалах рвать зуб; 2) выбирать; 3) разыграть (лотерею), устраивать тираж, розыгрыш (по займу); хорин хонжвор сугалах болов будут разыгрываться двадцать выигрышей; сугалаа сугалах / шавга сугалах тянуть жребий; 4) шилж. выманивать, брать обманом (напр. ворожбой); 2. сугалахуй-ын үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>СУГАЛАХУЙ</cyrillic>
+      <definition>выдёргивание, вытаскивание, вырывание; розыгрыш. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сугалах /1</cyrillic>
+      <definition>1. ямар нэгэн уртавтар юмыг юман дотроос гаргах; сэлэм сугалах; шувууны өдийг сугалав;2. олон бөөмийн дотроос онож авах; соды нь сугалж орхив;3. сугалааны бичигт цаас буюу дугаарыг авах; сугалаа сугалах.</definition>
+      <page>486</page>
+    </entry_item>
+  </entries>
+</entry>

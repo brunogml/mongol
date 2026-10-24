@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T0763">
+  <head>
+    <unicode>ᠲᠠᠭᠣᠷᠠᠬᠣ</unicode>
+    <transcript>taγuraqu</transcript>
+    <transcript2>dagorago</transcript2>
+    <cyrillic>туурах</cyrillic>
+  </head><derivatives>
+    <ref>T0765</ref>
+  </derivatives><see_also>
+    <ref>T5964</ref>
+  
+    <ref>T0764</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠭᠣᠷᠠᠬᠣ</unicode>
+      <uighur>taγuraqu</uighur>
+      <cyrillic>туурах</cyrillic>
+      <transcript>TAΓURA-</transcript>
+      <definition>v.i. To terminate, cease.</definition>
+      <page>766</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠭᠣᠷᠠᠭᠰᠠᠨ</unicode>
+          <transcript>--γsan !</transcript>
+          <definition> It is finished!.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠪᠡᠳᠴᠢᠨ ᠲᠠᠭᠣᠷᠠᠪᠠ</unicode>
+          <transcript>ebedcin --ba</transcript>
+          <definition> The illness has ceased</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠡᠷᠡᠭ ᠵᠠᠷᠭᠤ ᠲᠠᠭᠣᠷᠠᠪᠠ</unicode>
+          <transcript>kereg zarγu --ba</transcript>
+          <definition> The lawsuit has come to an end</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠭᠣᠷᠠᠬᠤ</unicode>
+      <definition>se passer ,cesser, se termmer: s apaiser, se tranquilliser.</definition>
+      <page>1591</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠪᠡᠳᠴᠢᠨ ᠳᠠᠭᠣᠷᠠᠪᠠ</unicode>
+          <definition>la maladie a cessé</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q2482">
+  <head>
+    <unicode>ᠬᠠᠮᠰᠢᠢᠬᠣ</unicode>
+    <transcript>qamsiiqu</transcript>
+    <transcript2>gamsiigo</transcript2>
+    <cyrillic>хамшийх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q2484</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q2502</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠮᠰᠢᠢᠬᠣ</unicode>
+      <uighur>qamsiiqu</uighur>
+      <cyrillic>хамшийх</cyrillic>
+      <transcript>XAMSII-</transcript>
+      <definition>v. i. To be flattened, compressed.</definition>
+      <page>924</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠮᠰᠢᠢᠭᠰᠠᠨ ᠬᠠᠪᠠᠷ</unicode>
+          <transcript>---γsan xabar</transcript>
+          <definition> Flat nose.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠠᠮᠰᠢᠢᠬᠣ</unicode>
+      <uighur>qamsiiqu</uighur>
+      <definition>eingedrückt seyn, eingequetscht seyn, platt werden durch Druck.</definition>
+      <page>135</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠮᠰᠢᠢᠬᠣ</unicode>
+      <cyrillic>ХАМШИЙХ</cyrillic>
+      <definition>1. сплющиваться, вдавливаться, становиться плоским, спрессовываться; 2. хамшийхуй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠮᠰᠢᠢᠬᠣ</unicode>
+      <cyrillic>ХАМШИЙХУЙ</cyrillic>
+      <definition>сплющивание, вдавливание, прессование. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠮᠰᠢᠢᠬᠤ</unicode>
+      <cyrillic>хамшийх</cyrillic>
+      <definition>хамшгар болох.</definition>
+      <page>656</page>
+    </entry_item>
+  </entries>
+</entry>

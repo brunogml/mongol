@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5525">
+  <head>
+    <unicode>ᠳᠣᠩᠰᠢᠭᠣᠴᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>dongsiγučilaγulqu</transcript>
+    <transcript2>dongsigocilagolgo</transcript2>
+    <cyrillic>доншуучлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T5524</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠣᠩᠰᠢᠭᠤᠴᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>доншуучлуулах</cyrillic>
+      <definition>〔动〕доншуучлах 的使动态.</definition>
+      <page>417</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠩᠰᠢᠭᠣᠴᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДОНШУУЧЛУУЛАХ</cyrillic>
+      <definition>доншуучлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠣᠩᠰᠢᠭᠤᠴᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>доншуучлуулах</cyrillic>
+      <definition>доншуучлахын үйлдүүлэх хэв.</definition>
+      <page>200</page>
+    </entry_item>
+  </entries>
+</entry>

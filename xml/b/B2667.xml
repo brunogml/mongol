@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2667">
+  <head>
+    <unicode>ᠪᠣᠭᠣᠨᠢᠬᠠᠨ</unicode>
+    <transcript>boγuniqan</transcript>
+    <transcript2>bogonigan</transcript2>
+    <cyrillic>богинохон</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠣᠭᠣᠨᠢᠬᠠᠨ</unicode>
+      <uighur>boγuniqan</uighur>
+      <cyrillic>богоньхон</cyrillic>
+      <transcript>BOΓUNIXAN</transcript>
+      <definition>adj. Somewhat low or short.</definition>
+      <page>113</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠣᠭᠣᠨᠢᠬᠠᠨ ᠺᠡᠷᠡᠮ</unicode>
+          <transcript>-- kerem</transcript>
+          <definition> A rather low wall.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠤᠭᠣᠨᠢᠬᠠᠨ</unicode>
+      <definition>bas, non élevé, petit, court,</definition>
+      <page>1161</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠤᠭᠣᠨᠢᠬᠠᠨ ᠺᠡᠷᠡᠮ</unicode>
+          <definition>mur peu élevé</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠣᠭᠣᠨᠢᠬᠠᠨ</unicode>
+      <cyrillic>богинохон</cyrillic>
+      <definition>〔形〕богино 的小称；较短的，短些的；较矮的，矮些的.</definition>
+      <page>161</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠭᠣᠨᠢᠬᠠᠨ</unicode>
+      <cyrillic>БОГИНОХОН</cyrillic>
+      <definition>богино-ын багас., коротковатый, коротенький.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>богинохон</cyrillic>
+      <definition>(Dim von богино) etwas kurz</definition>
+      <page>53</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠣᠭᠣᠨᠢᠬᠠᠨ</unicode>
+      <cyrillic>богинохон</cyrillic>
+      <definition>баахан богино.</definition>
+      <page>86</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>B2666</ref>
+  </related_to>
+</entry>

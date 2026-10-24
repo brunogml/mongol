@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0948">
+  <head>
+    <unicode>ᠲᠠᠪᠠᠬᠠᠶᠢᠳᠠᠬᠣ</unicode>
+    <transcript>tabaqayidaqu</transcript>
+    <transcript2>dabagayidago</transcript2>
+    <cyrillic>тавхайдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T0949</ref>
+    <ref>T0950</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠪᠠᠬᠠᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>тавхайдах</cyrillic>
+      <definition>〔动〕抓（动物的）脚掌，抓蹄掌.</definition>
+      <page>1008</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠪᠠᠬᠠᠶᠢᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТАВХАЙДАХ</cyrillic>
+      <definition>б.т. зацепляться рукой за ступню (приём национальной борьбы); подбивать ногу протљвника в борьбе. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠪᠠᠬᠠᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>тавхайдах</cyrillic>
+      <definition>тавхай дээрээс нь шүүрэх, тагах.</definition>
+      <page>512</page>
+    </entry_item>
+  </entries>
+</entry>

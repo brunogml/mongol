@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2668">
+  <head>
+    <unicode>ᠪᠣᠭᠣᠨᠢᠪᠲᠣᠷ</unicode>
+    <transcript>boγunibtur</transcript>
+    <transcript2>bogonibdor</transcript2>
+    <cyrillic>богиновтор</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠣᠭᠣᠨᠢᠪᠲᠣᠷ</unicode>
+      <cyrillic>богиновтор</cyrillic>
+      <definition>〔形〕稍短的，较短的，甚短的；较矮的.</definition>
+      <page>160</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠭᠣᠨᠢᠪᠲᠣᠷ</unicode>
+      <cyrillic>БОГИНОВТОР</cyrillic>
+      <definition>коротковатый.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>богиновтор</cyrillic>
+      <definition>ziemlich kurz</definition>
+      <page>53</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠣᠭᠣᠨᠢᠪᠲᠣᠷ</unicode>
+      <cyrillic>богиновтор</cyrillic>
+      <definition>нилээд богино.</definition>
+      <page>86</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>B2666</ref>
+  </related_to>
+</entry>

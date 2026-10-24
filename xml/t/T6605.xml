@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6605">
+  <head>
+    <unicode>ᠳᠣᠲᠠᠬᠣ</unicode>
+    <transcript>dutaqu</transcript>
+    <transcript2>dodago</transcript2>
+    <cyrillic>дутах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T6612</ref>
+    <ref>T6613</ref>
+  </derivatives>
+  <see_also>
+    <ref>T6606</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠣᠲᠠᠬᠣ</unicode>
+      <uighur>dutaqu</uighur>
+      <cyrillic>дутах</cyrillic>
+      <transcript>DUTA-</transcript>
+      <definition>v.i. Tobe insufficient, short, lacking, scarce; to suffershortage. of .</definition>
+      <page>277</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠳᠠᠯ ᠳᠣᠲᠠᠬᠣ</unicode>
+          <transcript>cidal --xu</transcript>
+          <definition> To lack ability.</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠥᠩᠭᠦ ᠳᠣᠲᠠᠬᠣ</unicode>
+          <transcript>mønggy --xu</transcript>
+          <definition> To be short of money.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠳᠠᠬᠤ ~ ᠳᠤᠳᠣᠬᠤ</unicode>
+      <definition>manquer.</definition>
+      <page>1837</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠤᠳᠠᠭᠰᠠᠨ ᠮᠥᠩᠭᠦᠨ ᠢ ᠭᠡᠯᠳᠦᠷᠢᠶᠦᠯᠺᠦ</unicode>
+          <definition>pardonner les arrérages</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠤᠳᠠᠨ ᠶᠠᠪᠤᠬᠤ</unicode>
+          <definition>être en nécessité</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠳᠣᠲᠠᠬᠣ</unicode>
+      <uighur>dudaqu</uighur>
+      <definition>zu wenig seyn, nicht zureichend seyn,</definition>
+      <page>283</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠳᠣᠲᠠᠬᠣ</unicode>
+      <uighur>dodaqu</uighur>
+      <definition>v.i. Lacking, insufficient. To want, to lack.</definition>
+      <page>1130</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠤᠲᠠᠬᠤ</unicode>
+      <cyrillic>дутах</cyrillic>
+      <definition>〔动〕不足，不够，缺乏，短缺；达不到：сонины нэг дугаар ~в 报纸缺了一期；арван төгрөг ~ 缺十图格里克；аз ~ 运气不佳，不走运；яс чанараар ~ 质量不好.</definition>
+      <page>445</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠲᠠᠬᠣ</unicode>
+      <cyrillic>ДУТАХ</cyrillic>
+      <definition>1. не хватать, недоставать; не досчитаться; уступать; отсутствовать; аз дутах / хувь дутах хорш. незадача, неудача; несчастье; зодуулах нь дутав а) не хватает побоев; б) шилж. верёвка плачет; кассны мөнгө дутах недостача в кассе; таван ширхэг дутаж байна не хватает пяти штук; тоолоход дутах недосчитываться; тоолоход хоёр үнээ дутав недосчитались двух коров; туршлага дутаж байна недостаёт опыта; ус чийг дутах а) недоставать воды, влажности; б) маловодье; хоншоор дутах хэлц. руки коротки; дутаж гуцах хорш. недоставать, не хватать; 2. дутахуй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠲᠠᠬᠣ</unicode>
+      <cyrillic>ДУТАХУЙ</cyrillic>
+      <definition>нехватка, недостача. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дутах</cyrillic>
+      <definition>fehlen, mangeln; nicht ausreichen; миний аз дутаад байна es fehlt mir an Glück</definition>
+      <page>100</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠤᠲᠠᠬᠤ</unicode>
+      <cyrillic>дутах</cyrillic>
+      <definition>1. зохих хэмжээнд хүрэхгүй, дутуу болох, бүрэн биш болох; сонины нэг дугаар дутав; арван төгрөг дутав;2. чанараар зохих хэмжээнд үл хүрэх; энэ аргагүй дутна, хаанаас гүйцэх вэ?; яс чанараар дутах; чадлаар дутах.</definition>
+      <page>213</page>
+    </entry_item>
+  </entries>
+</entry>

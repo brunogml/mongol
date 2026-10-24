@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="M2099">
+  <head>
+    <unicode>ᠮᠥᠩᠺᠠᠷᠥᠺᠥ</unicode>
+    <transcript>möngkerükü</transcript>
+    <transcript2>mönggerögö</transcript2>
+    <cyrillic>мөнхрөх</cyrillic>
+  </head><derivatives>
+    <ref>M2100</ref>
+  </derivatives><see_also>
+    <ref>M2097</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠮᠥᠩᠺᠡᠷᠡᠺᠦ ~ ᠮᠥᠩᠺᠡᠷᠦᠺᠦ</unicode>
+      <definition>être éternel, exister éternellement</definition>
+      <page>2054</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠮᠥᠩᠺᠠᠷᠥᠺᠥ</unicode>
+      <uighur>müngkerükü</uighur>
+      <definition>ewig fortdauern</definition>
+      <page>221</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠮᠥᠩᠺᠠᠷᠥᠺᠥ</unicode>
+      <uighur>möngkerükü</uighur>
+      <definition>To continue to live for ever.</definition>
+      <page>871</page>
+      <examples>
+        <example>
+          <uighur>möngkerükü amuγulang</uighur>
+          <definition>Eternal bliss.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

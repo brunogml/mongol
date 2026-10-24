@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O2007">
+  <head>
+    <unicode>ᠥᠷᠥᠺᠠᠰᠥᠳᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>örügesüdegülkü</transcript>
+    <transcript2>örögesödegölgö</transcript2>
+    <cyrillic>өрөөсдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>O2006</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠷᠥᠭᠡᠰᠦᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өрөөсдүүлэх</cyrillic>
+      <definition>〔动〕өрөөсдөх 的使动态.</definition>
+      <page>861</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠷᠥᠺᠠᠰᠥᠳᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ӨРӨӨСДҮҮЛЭХ</cyrillic>
+      <definition>өрөөсдөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠷᠥᠭᠡᠰᠦᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өрөөсдүүлэх</cyrillic>
+      <definition>өрөөсдөхийн үйлдүүлэх хэв.</definition>
+      <page>446</page>
+    </entry_item>
+  </entries>
+</entry>

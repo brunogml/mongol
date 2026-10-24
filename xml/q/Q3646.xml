@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q3646">
+  <head>
+    <unicode>ᠬᠠᠷᠮᠠᠨ</unicode>
+    <transcript>qarman</transcript>
+    <transcript2>garman</transcript2>
+    <cyrillic>харман</cyrillic>
+  </head><see_also>
+    <ref>Q3290a</ref>
+  
+    <ref>Q3646a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠷᠮᠠᠨ</unicode>
+      <uighur>qarman</uighur>
+      <cyrillic>харман</cyrillic>
+      <transcript>XARMAN</transcript>
+      <page>940</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠷᠮᠠᠨ ᠴᠢᠷᠮᠠᠨ</unicode>
+          <transcript>-- cirman</transcript>
+          <definition> See xarmas cirmas.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠷᠮᠠᠨ</unicode>
+      <cyrillic>харман</cyrillic>
+      <definition>见 ~ цирман 急匆匆地，慌忙地.</definition>
+      <page>1318</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠷᠮᠠᠨ</unicode>
+      <cyrillic>ХАРМАН</cyrillic>
+      <definition>: харман чарман хорш. спешно; хармас чармас-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S4102">
+  <head>
+    <unicode>ᠰᠢᠮᠠᠯᠢᠬᠣ</unicode>
+    <transcript>simaliqu</transcript>
+    <transcript2>simaligo</transcript2>
+    <cyrillic>шамлах</cyrillic>
+  </head>
+  <see_also>
+    <ref>S4097</ref>
+    <ref>S7162</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠮᠠᠯᠢᠬᠣ</unicode>
+      <uighur>simaliqu</uighur>
+      <transcript>SIMALI-</transcript>
+      <definition>See simala-.</definition>
+      <page>709</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠮᠠᠯᠠᠬᠤ ~ ᠰᠢᠮᠠᠯᠢᠬᠤ</unicode>
+      <definition>lever, ramasser; retrousser (les manches).</definition>
+      <page>1503</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠨᠴᠤᠢ ᠰᠢᠮᠠᠯᠢᠬᠤ</unicode>
+          <definition>retrousser les manches</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠮᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>шамлах</cyrillic>
+      <definition>〔动〕捋起，挽起卷起，卷上（袖子等）：ханцуй ~ 捋起袖子.</definition>
+      <page>1617</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="X0680">
+  <head>
+    <unicode>ᠪᠠᠨᠠᠨᠠ</unicode>
+    <transcript>banana</transcript>
+    <transcript2>banana</transcript2>
+    <cyrillic>банан</cyrillic>
+  </head>
+  <variants>
+    <variant type="cyrillic">банаан</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠨᠠᠨᠠ</unicode>
+      <cyrillic>банан</cyrillic>
+      <definition>〔名〕〈植〉香蕉；芭蕉（树）.</definition>
+      <page>126</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠨᠠᠨᠠ</unicode>
+      <cyrillic>банаан</cyrillic>
+      <definition>〔名〕〈植〉见 банан.</definition>
+      <page>126</page>
+    </entry_item>
+  </entries>
+</entry>

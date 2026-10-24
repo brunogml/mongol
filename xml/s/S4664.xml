@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4664">
+  <head>
+    <unicode>ᠰᠢᠷᠪᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>sirbaγanaqu</transcript>
+    <transcript2>sirbaganago</transcript2>
+    <cyrillic>шарваганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S4665</ref>
+    <ref>S4667</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠷᠪᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>шарваганах</cyrillic>
+      <definition>〔动〕参见 шарвалзах.</definition>
+      <page>1621</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠷᠪᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ШАРВАГАНАХ</cyrillic>
+      <definition>вилять хвостом. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠷᠪᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>шарваганах</cyrillic>
+      <definition>шарвалзах.</definition>
+      <page>839</page>
+    </entry_item>
+  </entries>
+</entry>

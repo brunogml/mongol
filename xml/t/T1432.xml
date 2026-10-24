@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T1432">
+  <head>
+    <unicode>ᠲᠠᠰᠣᠯ</unicode>
+    <transcript>tasul</transcript>
+    <transcript2>dasol</transcript2>
+    <cyrillic>тасал</cyrillic>
+  </head><see_also>
+    <ref>T1431</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠰᠣᠯ</unicode>
+      <cyrillic>ТАСАЛ</cyrillic>
+      <definition>перерыв; замд тасал болох прерываться (о дороге), прерываться (о сообщении). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠰᠣᠯ</unicode>
+      <cyrillic>ТАСАЛГҮЙ</cyrillic>
+      <definition>беспрерывно, беспрестанно. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

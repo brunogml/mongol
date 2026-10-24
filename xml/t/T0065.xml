@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0065">
+  <head>
+    <unicode>ᠲᠠᠨᠢᠮᠠᠭᠠᠶᠢᠷᠬᠠᠬᠣ</unicode>
+    <transcript>tanimaγayirqaqu</transcript>
+    <transcript2>danimagayirgago</transcript2>
+    <cyrillic>танимгайрхах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠨᠢᠮᠠᠭᠠᠢᠷᠬᠠᠬᠤ</unicode>
+      <cyrillic>танимгайрхах</cyrillic>
+      <definition>〔动〕显得好交际，易与人混熟，见面熟.</definition>
+      <page>1025</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠨᠢᠮᠠᠭᠠᠶᠢᠷᠬᠠᠬᠣ</unicode>
+      <cyrillic>ТАНИМГАЙРХАХ</cyrillic>
+      <definition>хвастаться знакомством, выдавать себя за друга; быть знающим. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠨᠢᠮᠠᠭᠠᠢᠷᠬᠠᠬᠤ</unicode>
+      <cyrillic>танимгайрхах</cyrillic>
+      <definition>танимгай байдал гаргах.</definition>
+      <page>520</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T0060</ref>
+  </related_to>
+</entry>

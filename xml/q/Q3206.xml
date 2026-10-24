@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q3206">
+  <head>
+    <unicode>ᠭᠠᠷᠠᠬᠠᠲᠣᠬᠣ</unicode>
+    <transcript>γaraqatuqu</transcript>
+    <transcript2>garagadogo</transcript2>
+    <cyrillic>гархитах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q3207</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q3710</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠷᠠᠬᠠᠲᠣᠬᠣ</unicode>
+      <cyrillic>ГАРХИТАХ</cyrillic>
+      <definition>I иметь вид кольца. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠠᠷᠠᠬᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>гархитах</cyrillic>
+      <definition>гархилах.</definition>
+      <page>141</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠠᠷᠠᠬᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>гархитуулах</cyrillic>
+      <definition>гархитахын үйлдүүлэх хэв.</definition>
+      <page>141</page>
+    </entry_item>
+  </entries>
+</entry>

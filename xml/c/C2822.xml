@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C2822">
+  <head>
+    <unicode>ᠴᠣᠪᠣᠭ᠎ᠠ</unicode>
+    <transcript>čobuγ-a</transcript>
+    <transcript2>coboga</transcript2>
+    <cyrillic>цовоо</cyrillic>
+  </head><see_also>
+    <ref>C2826</ref>
+  
+    <ref>C2823</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠣᠪᠣᠭ᠎ᠠ</unicode>
+      <uighur>čobuγ-a</uighur>
+      <cyrillic>цовоо</cyrillic>
+      <transcript>COBUΓ-A</transcript>
+      <definition>[=cobuγu] adj. Clever, smart, quickwitted, alert (usually of children).</definition>
+      <page>193</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠣᠪᠣᠭ᠎ᠠ ᠺᠡᠦᠺᠡᠳ</unicode>
+          <transcript>-- keyked</transcript>
+          <definition> Clever or alert child.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠣᠪᠣᠭ᠎ᠠ ᠦᠭᠡ</unicode>
+          <transcript>-- yge</transcript>
+          <definition> Clever word or speech.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

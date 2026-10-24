@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1452">
+  <head>
+    <unicode>ᠮᠢᠺᠷᠣᠨ</unicode>
+    <transcript>mikron</transcript>
+    <transcript2>migron</transcript2>
+    <cyrillic>микрон</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠢᠺᠷᠣᠨ</unicode>
+      <cyrillic>микрон</cyrillic>
+      <definition>〔数〕微米（百万分之一米）.</definition>
+      <page>672</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠢᠺᠷᠣᠨ</unicode>
+      <cyrillic>МИКРОН</cyrillic>
+      <definition>микрон; микрон нь метрийг нэг сая хуваасны нэг микрон – миллионная часть метра. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠢᠺᠷᠣᠨ</unicode>
+      <cyrillic>микрон</cyrillic>
+      <definition>метрийг нэг сая хуваасны нэг буюу миллиметрийг нэг мянга хуваасны нэг.</definition>
+      <page>337</page>
+    </entry_item>
+  </entries>
+</entry>

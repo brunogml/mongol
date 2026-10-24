@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3435">
+  <head>
+    <unicode>ᠰᠢᠪᠠᠭᠠᠷᠠᠯᠳᠣᠬᠣ</unicode>
+    <transcript>sibaγaralduqu</transcript>
+    <transcript2>sibagaraldogo</transcript2>
+    <cyrillic>шавааралдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3436</ref>
+    <ref>S3437</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠪᠠᠭᠠᠷᠠᠯᠳᠤᠬᠤ</unicode>
+      <cyrillic>шавааралдах</cyrillic>
+      <definition>〔动〕шаваарах 的互动态.</definition>
+      <page>1603</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠪᠠᠭᠠᠷᠠᠯᠳᠣᠬᠣ</unicode>
+      <cyrillic>ШАВААРАЛДАХ</cyrillic>
+      <definition>шаваарах-ын үйлдэлд., собираться, скапливаться в одном месте. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шавааралдах</cyrillic>
+      <definition>(Rez von шаваарах) sich aneinanderdrängen od zusammendrängen; хүмүүс шавааралдан зогсож байв die Leute standen dichtgedrängt</definition>
+      <page>375</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠪᠠᠭᠠᠷᠠᠯᠳᠤᠬᠤ</unicode>
+      <cyrillic>шавааралдах</cyrillic>
+      <definition>шаваарахын үйлдэлдэх хэв; олон хүн шавааралдан зогсож байв.</definition>
+      <page>827</page>
+    </entry_item>
+  </entries>
+</entry>

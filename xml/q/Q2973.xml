@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q2973">
+  <head>
+    <unicode>ᠬᠠᠶᠢᠪᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>qayibalǰaγulqu</transcript>
+    <transcript2>gayibalcagolgo</transcript2>
+    <cyrillic>хайвалзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q2972</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠢᠪᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хайвалзуулах</cyrillic>
+      <definition>〔动〕хайвалзах 的使动态.</definition>
+      <page>1277</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠶᠢᠪᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХАЙВАЛЗУУЛАХ</cyrillic>
+      <definition>хайвалзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠢᠪᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хайвалзуулах</cyrillic>
+      <definition>хайвалзахын үйлдүүлэх хэв.</definition>
+      <page>643</page>
+    </entry_item>
+  </entries>
+</entry>

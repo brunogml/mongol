@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1360">
+  <head>
+    <unicode>ᠥᠴᠥᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>öčügenekü</transcript>
+    <transcript2>öcögenegö</transcript2>
+    <cyrillic>өцөгнөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>O1361</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠴᠥᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>өцөгнөх</cyrillic>
+      <definition>〔动〕参见 оцгонох.</definition>
+      <page>867</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠴᠥᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>ӨЦӨГНӨХ</cyrillic>
+      <definition>оцгонох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠴᠥᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>өцөгнөх</cyrillic>
+      <definition>өцгөр юмны өцөг өцөг хөдлөх.</definition>
+      <page>448</page>
+    </entry_item>
+  </entries>
+</entry>

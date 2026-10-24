@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0783">
+  <head>
+    <unicode>ᠴᠠᠷᠺᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čargiγulqu</transcript>
+    <transcript2>cargigolgo</transcript2>
+    <cyrillic>царгиулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C0782</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠷᠭᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>царгиулах</cyrillic>
+      <definition>〔动〕царгих /1、/2 的使动态.</definition>
+      <page>1520</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠷᠺᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦАРГИУЛАХ</cyrillic>
+      <definition>царгих I, II-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>царгиулах</cyrillic>
+      <definition>Kaus von царгих</definition>
+      <page>353</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠷᠭᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>царгиулах</cyrillic>
+      <definition>царгихын үйлдүүлэх хэв.</definition>
+      <page>784</page>
+    </entry_item>
+  </entries>
+</entry>

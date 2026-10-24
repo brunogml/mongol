@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1361">
+  <head>
+    <unicode>ᠮᠢᠬᠠᠴᠢᠯᠠᠬᠣ</unicode>
+    <transcript>miqačilaqu</transcript>
+    <transcript2>migacilago</transcript2>
+    <cyrillic>махчлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M1362</ref>
+    <ref>M1363</ref>
+    <ref>M1364</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠢᠬᠠᠴᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>МАХЧЛАХ</cyrillic>
+      <definition>I переводить дословно; махчлан орчуулах дословно переводить; махчилбаас... в буквальном смысле слова... </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠢᠬᠠᠴᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>МАХЧЛАХ</cyrillic>
+      <definition>II мучить, истязать; махчлан тарчлаах истязать, мучить; пытать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠢᠬᠠᠴᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>МАХЧИЛСАН</cyrillic>
+      <definition>дословный; махчилсан орчуулга дословный перевод. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>махчлах</cyrillic>
+      <definition>1. wörtlich übersetzen; махчилсан орчуулга wörtliche Übersetzung; үгийн махчилсан утга санаагаар im eigentlichen Sinn des Wortes
+2. foltern</definition>
+      <page>143</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠢᠬᠠᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>махчлах /1</cyrillic>
+      <definition>бусдыг тарчилган зовоох.</definition>
+      <page>335</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠢᠬᠠᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>махчлах /2</cyrillic>
+      <definition>ном бичгийг яг үгчлэн хөрвүүлэх; махчилж орчууснаас утгачилж орчуулбал дээр.</definition>
+      <page>335</page>
+    </entry_item>
+  </entries>
+</entry>

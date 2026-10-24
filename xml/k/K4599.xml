@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4599">
+  <head>
+    <unicode>ᠺᠥᠺᠡᠴᠥᠷᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>kögečüregülkü</transcript>
+    <transcript2>gögecöregölgö</transcript2>
+    <cyrillic>хөгцрүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K4598</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠭᠡᠴᠦᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хөгцрүүлэх</cyrillic>
+      <definition>〔动〕хөгцрөх 的使动态.</definition>
+      <page>1389</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠺᠡᠴᠥᠷᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ХӨГЦРҮҮЛЭХ</cyrillic>
+      <definition>хөгцрөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠭᠡᠴᠦᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хөгцрүүлэх</cyrillic>
+      <definition>хөгцрөхийн үйлдүүлэх хэв.</definition>
+      <page>705</page>
+    </entry_item>
+  </entries>
+</entry>

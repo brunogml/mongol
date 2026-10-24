@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0002">
+  <head>
+    <unicode>ᠴᠠ</unicode>
+    <transcript>ča</transcript>
+    <transcript2>ca</transcript2>
+    <cyrillic>чаа</cyrillic>
+  </head>
+  <see_also>
+    <ref>C0001</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠ</unicode>
+      <cyrillic>чаа</cyrillic>
+      <definition>〔拟〕恰（哄赶羊的叫喊声）.</definition>
+      <page>1572</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠ</unicode>
+      <cyrillic>ЧАА</cyrillic>
+      <definition>: чаа чаа аялга. ча ча (междометие выражает возглас, которым отгоняют, прогоняют коз). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠ</unicode>
+      <cyrillic>чаа</cyrillic>
+      <definition>хонь ямааг зандахад хэрэглэх аялга; хааяа чаа! хүүе чаа!</definition>
+      <page>810</page>
+    </entry_item>
+  </entries>
+</entry>

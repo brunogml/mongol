@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2460">
+  <head>
+    <unicode>ᠣᠶᠢᠷᠠᠳᠠᠬᠣ</unicode>
+    <transcript>oyiradaqu</transcript>
+    <transcript2>oyiradago</transcript2>
+    <cyrillic>ойрдох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U2462</ref>
+    <ref>U2464</ref>
+  </derivatives>
+  <see_also>
+    <ref>U2459</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠢᠷᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>ойрдох</cyrillic>
+      <definition>〔动〕靠近，相近.</definition>
+      <page>796</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠶᠢᠷᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>ОЙРДОХ</cyrillic>
+      <definition>оказаться ближе, чем надо, быть чрезмерно близким; хоорондох зай нь арай ойрдоод байна расстояние между ними оказывается слишком близким. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>ойрдох</cyrillic>
+      <definition>zu nah[e] sein</definition>
+      <page>169</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠢᠷᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>ойрдох</cyrillic>
+      <definition>хэтэрхий ойр болох; чи бид хоёр арай ойрдоод байна, жаахан холхон сууя.</definition>
+      <page>410</page>
+    </entry_item>
+  </entries>
+</entry>

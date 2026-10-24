@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A1220">
+  <head>
+    <unicode>ᠠᠬᠯᠠᠭᠣᠨᠰᠢᠯ</unicode>
+    <transcript>aγlaγunsil</transcript>
+    <transcript2>aglagonsil</transcript2>
+    <cyrillic>аглууншил</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠬᠯᠠᠭᠣᠨᠰᠢᠯ</unicode>
+      <cyrillic>АГЛУУНШИЛ</cyrillic>
+      <definition>тусг. вязкость.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠬᠯᠠᠭᠣᠨᠰᠢᠯ ᠤᠨ</unicode>
+      <cyrillic>АГЛУУНШЛЫН</cyrillic>
+      <definition>аглууншил–ын харь¬яал., вязкостный, вяжущийся; аглууншлын илт¬гэлцүүр коэффициент вязкости.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Bawden</dico>
+      <cyrillic>аглууншил</cyrillic>
+      <definition>viscosity</definition>
+      <page>5</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>аглууншил</cyrillic>
+      <definition>Tech Viskosität f</definition>
+      <page>22</page>
+    </entry_item>
+  </entries>
+</entry>

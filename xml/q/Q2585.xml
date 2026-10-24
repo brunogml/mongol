@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q2585">
+  <head>
+    <unicode>ᠬᠠᠵᠠᠭᠠᠶᠢᠳᠠᠬᠣ</unicode>
+    <transcript>qaǰaγayidaqu</transcript>
+    <transcript2>gacagayidago</transcript2>
+    <cyrillic>хазгайдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q2587</ref>
+    <ref>Q2588</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q2590</ref>
+    <ref>Q2586</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠵᠠᠭᠠᠶᠢᠳᠠᠬᠣ</unicode>
+      <cyrillic>ХАЗГАЙДАХ</cyrillic>
+      <definition>оказываться слишком косым, наклонным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠵᠠᠭᠠᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>хазгайдах</cyrillic>
+      <definition>хэтэрхий хазгай болох; газар нь хазгайдаад гэрээ барьсангүй.</definition>
+      <page>643</page>
+    </entry_item>
+  </entries>
+</entry>

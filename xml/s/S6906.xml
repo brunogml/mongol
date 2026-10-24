@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6906">
+  <head>
+    <unicode>ᠰᠥᠺᠥᠺᠠᠯᠺᠠᠺᠥ</unicode>
+    <transcript>sökügelgekü</transcript>
+    <transcript2>sögögelgegö</transcript2>
+    <cyrillic>сөхөөлгөх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠥᠬᠥᠭᠡᠯᠭᠡᠬᠦ</unicode>
+      <cyrillic>сөхөөлгөх</cyrillic>
+      <definition>〔动〕сөхөөх 的使动态.</definition>
+      <page>950</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠥᠺᠥᠺᠠᠯᠺᠠᠺᠥ</unicode>
+      <cyrillic>СӨХӨӨЛГӨХ</cyrillic>
+      <definition>сөхөөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠥᠬᠥᠭᠡᠯᠭᠡᠬᠦ</unicode>
+      <cyrillic>сөхөөлгөх</cyrillic>
+      <definition>сөхөөхийн үйлдүүлэх хэв.</definition>
+      <page>484</page>
+    </entry_item>
+  </entries>
+</entry>

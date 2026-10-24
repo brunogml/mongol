@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5374">
+  <head>
+    <unicode>ᠳᠣᠩ</unicode>
+    <transcript>dung</transcript>
+    <transcript2>dong</transcript2>
+    <cyrillic>дун</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q5803</ref>
+  </derivatives>
+  <see_also>
+    <ref>T5373</ref>
+    <ref>T5375</ref>
+    <ref>T5372</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠣᠩ</unicode>
+      <uighur>dung</uighur>
+      <transcript>DUNG</transcript>
+      <definition>[T. dung] n. Big sea shell; shell; wind instrument made of a shell.</definition>
+      <page>274</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠣᠩ ᠴᠠᠭᠠᠨ</unicode>
+          <transcript>-- caγan</transcript>
+          <definition> Snow-white</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠣᠩ ᠦᠯᠢᠶᠡᠺᠦ</unicode>
+          <transcript>-- ylijeky</transcript>
+          <definition> To blow a conch.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠩ ~ ᠪᠦᠷᠢᠶ᠎ᠡ ~ ᠯᠠᠪᠠᠢ</unicode>
+      <definition>grand limaçon de mer, coquille; 2 trompette.</definition>
+      <page>1792</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠤᠩ ᠪᠦᠷᠢᠶ᠎ᠡ</unicode>
+          <definition>trompette en coquille</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠤᠩ ᠳᠤᠩ</unicode>
+          <definition>carillon, sonnerie, bruit que fait le tambour lorsqu'on le frappe, retentissement</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠳᠣᠩ</unicode>
+      <uighur>dung</uighur>
+      <definition>die grosse Seeschnecke (auch Lawai genannt).</definition>
+      <page>278</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠳᠣᠩ</unicode>
+      <uighur>dong</uighur>
+      <definition>n A large conch. An alectrion</definition>
+      <page>1111</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠩ</unicode>
+      <cyrillic>ДУН(Г)</cyrillic>
+      <definition>тө. 1. 1) большая морская раковина (завитая улиткой); 2) бие.зүй. ушная раковина; чихний дун бие.зүй. ушная раковина; 3) хөгжим. труба из раковины; дун бүрээ труба, сделанная из большой морской раковины; 3) улитка; дун хорхой амьт. улитка; 2. 1) ракушечный; дун цагаан белый как раковина, совершенно белый, белоснежный, жемчужный; дун цагаан шүд белоснежные зубы, жемчужные зубы; 2) улитковый; дун яс улитковая кость. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠩ</unicode>
+      <cyrillic>ДУНГИЙН</cyrillic>
+      <definition>дун(г)-ийн харьяал., улитковый. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠤᠩ</unicode>
+      <cyrillic>дун</cyrillic>
+      <definition>1. зарим нуруугүй амьтны бие хамгаалах хатуу бүрхүүл гэр; үлээдэг дун;2. дун дотор орших нялцгай биетэн; дун хорхой.</definition>
+      <page>210</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1011">
+  <head>
+    <unicode>ᠪᠠᠴᠠᠬ</unicode>
+    <transcript>bačaγ</transcript>
+    <transcript2>bacag</transcript2>
+    <cyrillic>бацаг</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0342a</ref>
+  </derivatives>
+  <see_also>
+    <ref>B1011a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠠᠴᠠᠬ</unicode>
+      <uighur>bačaq</uighur>
+      <cyrillic>бацаг</cyrillic>
+      <transcript>BACAГ</transcript>
+      <definition>[= macaγ, T. bsnyen gnas, S. upavāsatha] n, Fast, fasting, abstinence, vow of fasting.</definition>
+      <page>64</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠠᠴᠠᠬ ᠠᠪᠬᠤ</unicode>
+          <transcript>abxu</transcript>
+          <definition> To take the vows or receive the consecration of a gelyng (q. v.) which involves the practice of fasting and abstinence; to fast</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠠᠴᠠᠬ ᠪᠠᠷᠢᠬᠤ</unicode>
+          <transcript>-- barixu</transcript>
+          <definition> To fast, practice abstinence.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠠᠴᠠᠬ ᠡᠪᠳᠡᠺᠦ</unicode>
+          <transcript>-- ebdeky</transcript>
+          <definition> To break the vow of fasting, end a fast.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠠᠴᠠᠬ ᠤᠨ ᠰᠠᠨᠸᠠᠷ</unicode>
+          <transcript>-- un sanvar</transcript>
+          <definition> Vow of abstinence (also taken by laymen).</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠠᠴᠠᠬ</unicode>
+      <definition>carême, jeûne,</definition>
+      <page>1081</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠠᠴᠠᠬ ᠠᠪᠬᠠᠭᠤᠯᠬᠤ</unicode>
+          <definition>ordonner de garder le jeûne, faire observer le carême</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠠᠴᠠᠬ ᠡᠪᠳᠡᠺᠦ</unicode>
+          <definition>violer le carême</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠠᠴᠠᠬ ᠪᠠᠷᠢᠬᠤ</unicode>
+          <definition>jeûner, garder le jeûne</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠠᠴᠠᠬ ᠤᠨ ᠰᠠᠨᠸᠠᠷ</unicode>
+          <definition>voeu d'abstinence, degré d'oubachy et d'oubasantsa</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠪᠠᠴᠠᠬ</unicode>
+      <uighur>bačaq</uighur>
+      <definition>die Fasten</definition>
+      <page>104</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠪᠠᠴᠠᠬ</unicode>
+      <uighur>bačaq</uighur>
+      <definition>n. Fast, fasting.</definition>
+      <page>412</page>
+      <examples>
+        <example>
+          <uighur>bačaq bariqu</uighur>
+          <definition>v.i. To fast.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠴᠠᠭ</unicode>
+      <cyrillic>бацаг</cyrillic>
+      <definition>〔名〕〈宗〉（一天的）斋戒（特指不吃肉）：~ авах , ~ барих 〈宗〉吃斋吃素.</definition>
+      <page>145</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠴᠠᠬ</unicode>
+      <cyrillic>БАЦАГ</cyrillic>
+      <definition>шашин. 1. пост; воздержание; мацаг - ийг үз.; бацаг авах / бацаг барих а) поститься; б) соблюдение поста; 2. постный; бацаг өдөр постный день.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бацаг</cyrillic>
+      <definition>= мацаг</definition>
+      <page>49</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠴᠠᠭ</unicode>
+      <cyrillic>бацаг</cyrillic>
+      <definition>шашны ёсонд нэг хоногийн санваар (нэг хоног мах амсахгүй байх).</definition>
+      <page>80</page>
+    </entry_item>
+  </entries>
+</entry>

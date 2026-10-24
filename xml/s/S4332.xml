@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4332">
+  <head>
+    <unicode>ᠰᠢᠺᠢᠷᠯᠠᠺᠥ</unicode>
+    <transcript>sikirlekü</transcript>
+    <transcript2>sigirlegö</transcript2>
+    <cyrillic>чихэрлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S4333</ref>
+    <ref>S4331</ref>
+  </derivatives>
+  <see_also>
+    <ref>S4262</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <cyrillic>чихэрлэх</cyrillic>
+      <definition>〔动〕加糖；糖渍，糖煮，糖溜.</definition>
+      <page>1594</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠺᠢᠷᠯᠠᠺᠥ</unicode>
+      <cyrillic>ЧИХЭРЛЭХ</cyrillic>
+      <definition>класть сахар, засахаривать; чихэрлэсэн жимс цукаты. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠬᠢᠷᠯᠡᠬᠦ</unicode>
+      <cyrillic>чихэрлэх</cyrillic>
+      <definition>чихэртэй болгох.</definition>
+      <page>822</page>
+    </entry_item>
+  </entries>
+</entry>

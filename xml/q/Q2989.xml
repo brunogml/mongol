@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q2989">
+  <head>
+    <unicode>ᠬᠠᠶᠢᠰᠣᠯᠠᠬᠣ</unicode>
+    <transcript>qayisulaqu</transcript>
+    <transcript2>gayisolago</transcript2>
+    <cyrillic>хайслах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q2991</ref>
+    <ref>Q2992</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q2990</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠢᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>хайслах</cyrillic>
+      <definition>〔动〕设栏杆，装栅栏.</definition>
+      <page>1282</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠶᠢᠰᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХАЙСЛАХ</cyrillic>
+      <definition>загораживать, огораживать, окружать оградой. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хайслах</cyrillic>
+      <definition>umzäunen, einfrieden, eine Umzäunung errichten (um etw. -д)</definition>
+      <page>285</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠢᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>хайслах</cyrillic>
+      <definition>юманд хайс хийх.</definition>
+      <page>646</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q2988</ref>
+  </related_to>
+</entry>

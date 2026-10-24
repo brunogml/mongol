@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1717">
+  <head>
+    <unicode>ᠥᠺᠯᠢᠺᠠᠯᠠᠺᠥ</unicode>
+    <transcript>ögligelekü</transcript>
+    <transcript2>ögligelegö</transcript2>
+    <cyrillic>өглөглөх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠭᠯᠢᠭᠯᠡᠬᠦ</unicode>
+      <cyrillic>өглөглөх</cyrillic>
+      <definition>〔动〕①施舍，恩赐；②捐献，捐助，捐款.</definition>
+      <page>834</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠺᠯᠢᠺᠠᠯᠠᠺᠥ</unicode>
+      <cyrillic>ӨГЛӨГЛӨХ</cyrillic>
+      <definition>жертвовать, принести жертву. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠭᠯᠢᠭᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>өглөглөх</cyrillic>
+      <definition>өглөг 2-ыг өгөх.</definition>
+      <page>431</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>O1715</ref>
+  </related_to>
+</entry>

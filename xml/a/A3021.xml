@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A3021">
+  <head>
+    <unicode>ᠠᠮᠣᠷᠠᠬᠣ</unicode>
+    <transcript>amuraqu</transcript>
+    <transcript2>amorago</transcript2>
+    <cyrillic>амрах</cyrillic>
+  </head>
+  <see_also>
+    <ref>A2821</ref>
+  </see_also>
+  <derivatives>
+    <ref>A3024</ref>
+    <ref>A3025</ref>
+    <ref>A3026</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠮᠣᠷᠠᠬᠣ</unicode>
+      <uighur>amuraqu</uighur>
+      <cyrillic>амрах</cyrillic>
+      <transcript>AMURA-</transcript>
+      <definition>[:= amara-] v.i To rest, relax; to feel contentment or joy; to be relieved.</definition>
+      <page>40</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠮᠤᠷᠠᠬᠤ ᠴᠠᠭ</unicode>
+          <transcript>--xu caγ</transcript>
+          <definition>The time of rest.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠮᠤᠷᠠᠬᠤ ᠣᠷᠤᠨ</unicode>
+          <transcript>--xu orun</transcript>
+          <definition>Place of retreat, resort.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠡᠶ᠎ᠡ ᠠᠮᠤᠷᠠᠬᠤ</unicode>
+          <transcript>bej-e --xu</transcript>
+          <definition>For the body to rest; to feel rested</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠠᠮᠤᠷᠠᠬᠤ</unicode>
+          <transcript>sanaγ-a --xu</transcript>
+          <definition>To be relieved; to calm down.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠮᠣᠷᠠᠬᠤ</unicode>
+      <definition>se reposer, être tranquille, se calmer</definition>
+      <page>110</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠷᠰᠠᠯᠠᠨ ᠪᠡᠷ ᠮᠠᠰᠢ ᠴᠡᠳᠦᠨ ᠠᠮᠣᠷᠠᠵᠤ ᠺᠡᠪᠳᠡᠮᠦᠢ</unicode>
+          <definition>le lion rassasie reste couche tranquillement</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠳᠠ ᠭᠤᠷᠤᠮᠬᠠᠨᠠ ᠠᠮᠣᠷᠠᠨ ᠰᠠᠭᠤᠨ ᠰᠣᠶᠢᠷᠬ᠎ᠠ</unicode>
+          <definition>veuillez ici reposer un peu;</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠳᠦᠭᠡ ᠪᠡᠶ᠎ᠡ ᠰᠡᠳᠺᠢᠯ ᠢᠶᠡᠷ ᠠᠮᠤᠷᠠᠨ ᠰᠠᠭᠤᠰᠤᠭᠠᠢ</unicode>
+          <definition>je désire maintenant tranquilliser l'ame et le corps.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠢᠯᠡᠺᠰᠡᠳ ᠪᠦᠭᠦᠳᠡᠺᠡᠷ ᠠᠮᠤᠷᠠᠬᠤ ᠪᠣᠯᠪᠠᠢ</unicode>
+          <definition>tous les souffrants trouvèrent le repos</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠠᠮᠣᠷᠠᠬᠣ</unicode>
+      <uighur>amuraqu</uighur>
+      <definition>ruhig seyn, ausruhen, rasten</definition>
+      <page>10</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠠᠮᠣᠷᠠᠬᠣ</unicode>
+      <uighur>amuraqu</uighur>
+      <definition>v.i. To rest, to repose to make a halt (on journey).</definition>
+      <page>38</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠮᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>амрах</cyrillic>
+      <definition>〔动〕①休息；休假：~ цаг 休息时间；~ хуудас 假条；②舒畅；安宁；放心：сэтгэл ~ 放心，宽心，宽慰.</definition>
+      <page>53</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>амрах</cyrillic>
+      <definition>ausruhen, entspannen, sich erholen; ~ цаг Erholungszeit f; санаа od сэттэл ~ sich beruhigen, sich keine Sorgen machen; та амарч бай! ruhen Sie sich aus!</definition>
+      <page>30</page>
+    </entry_item>
+  </entries>
+</entry>

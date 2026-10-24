@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0314">
+  <head>
+    <unicode>ᠴᠠᠪᠴᠢᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>čabčiγanaqu</transcript>
+    <transcript2>cabciganago</transcript2>
+    <cyrillic>цавчганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0315</ref>
+    <ref>C0316</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠪᠴᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>цавчганах</cyrillic>
+      <definition>〔动〕瞬眼，眨眼.</definition>
+      <page>1509</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠪᠴᠢᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЦАВЧГАНАХ</cyrillic>
+      <definition>моргать, мигать (глазами). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цавчганах</cyrillic>
+      <definition>Augen blinzeln, zwinkern</definition>
+      <page>350</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠪᠴᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>цавчганах</cyrillic>
+      <definition>нүдээ байн байн анивхийлэх, цавчих.</definition>
+      <page>776</page>
+    </entry_item>
+  </entries>
+</entry>

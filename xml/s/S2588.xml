@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2588">
+  <head>
+    <unicode>ᠰᠠᠺᠰᠥᠴᠢᠺᠥ</unicode>
+    <transcript>segsüčikü</transcript>
+    <transcript2>segsöcigö</transcript2>
+    <cyrillic>сэгсчих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S2589</ref>
+    <ref>S2590</ref>
+    <ref>S2587</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠭᠰᠦᠴᠢᠬᠦ</unicode>
+      <cyrillic>сэгсчих</cyrillic>
+      <definition>〔动〕сэгсрэх 的多次体；频频抖动，频频抖搂.</definition>
+      <page>983</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠺᠰᠥᠴᠢᠺᠥ</unicode>
+      <cyrillic>СЭГСЧИХ</cyrillic>
+      <definition>сэгсрэх-ийн олонтаа., беспрерывно и сильно трясти; всё время трясти, отряхивать; гар барьж сэгсчих трясти руку. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сэгсчих</cyrillic>
+      <definition>wiederholt schütteln od rütteln</definition>
+      <page>209</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠭᠰᠦᠴᠢᠬᠦ</unicode>
+      <cyrillic>сэгсчих</cyrillic>
+      <definition>юмыг байн байн сэгсрэх.</definition>
+      <page>500</page>
+    </entry_item>
+  </entries>
+</entry>

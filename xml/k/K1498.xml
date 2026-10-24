@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K1498">
+  <head>
+    <unicode>ᠺᠠᠷᠠᠮᠲᠠᠢ</unicode>
+    <transcript>keremtei</transcript>
+    <transcript2>geremdei</transcript2>
+    <cyrillic>хэрэмтэй</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠠᠷᠠᠮᠲᠠᠢ</unicode>
+      <uighur>keremdei</uighur>
+      <cyrillic>хэрэмтэй</cyrillic>
+      <transcript>KEREMTEI</transcript>
+      <definition>adj. Walled</definition>
+      <page>457</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠠᠷᠠᠮᠲᠠᠢ ᠬᠣᠲᠠ</unicode>
+          <transcript>-- xota</transcript>
+          <definition> Walled city</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠷᠡᠮᠲᠡᠢ</unicode>
+      <cyrillic>хэрэмтэй</cyrillic>
+      <definition>〔形〕①有墙的；有要塞的；②有瘟疫的.</definition>
+      <page>1492</page>
+    </entry_item>
+  </entries>
+</entry>

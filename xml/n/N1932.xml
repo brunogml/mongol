@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1932">
+  <head>
+    <unicode>ᠨᠣᠣᠺᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>nougiγulqu</transcript>
+    <transcript2>noogigolgo</transcript2>
+    <cyrillic>нуугиулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>N1931</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠤᠤᠭᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нуугиулах</cyrillic>
+      <definition>〔动〕нуугих 的使动态.</definition>
+      <page>762</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠣᠣᠺᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>НУУГИУЛАХ</cyrillic>
+      <definition>нуугих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠤᠤᠭᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нуугиулах</cyrillic>
+      <definition>нуугихын үйлдүүлэх хэв.</definition>
+      <page>390</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1014">
+  <head>
+    <unicode>ᠱᠠᠯᠬᠠᠭᠠᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šalqaγardaγulqu</transcript>
+    <transcript2>salgagardagolgo</transcript2>
+    <cyrillic>шалхгардуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S1012</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠯᠬᠠᠭᠠᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шалхгардуулах</cyrillic>
+      <definition>〔动〕шалхгардах 的使动态.</definition>
+      <page>1615</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠯᠬᠠᠭᠠᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАЛХГАРДУУЛАХ</cyrillic>
+      <definition>шалхгардах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шалхгардуулах</cyrillic>
+      <definition>Kaus von шалхгардах</definition>
+      <page>379</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠯᠬᠠᠭᠠᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шалхгардуулах</cyrillic>
+      <definition>шалхгардахын үйлдүүлэх хэв.</definition>
+      <page>834</page>
+    </entry_item>
+  </entries>
+</entry>

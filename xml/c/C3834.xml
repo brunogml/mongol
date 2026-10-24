@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3834">
+  <head>
+    <unicode>ᠴᠥᠷᠪᠥᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>čörbügenekü</transcript>
+    <transcript2>cörbögenegö</transcript2>
+    <cyrillic>цөрөвгөнөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C3835</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠥᠷᠪᠥᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>цөрөвгөнөх</cyrillic>
+      <definition>〔动〕参见 цөрвөлзөх.</definition>
+      <page>1545</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠥᠷᠪᠥᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>ЦӨРӨВГӨНӨХ</cyrillic>
+      <definition>цорвогонох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠥᠷᠪᠥᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>цөрөвгөнөх</cyrillic>
+      <definition>цөрөвгөр юмны үргэлжлэн хөдлөх.</definition>
+      <page>796</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3761">
+  <head>
+    <unicode>ᠰᠢᠳᠢᠲᠥ</unicode>
+    <transcript>siditü</transcript>
+    <transcript2>sididö</transcript2>
+    <cyrillic>шидэт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠳᠢᠲᠥ</unicode>
+      <uighur>sididü</uighur>
+      <cyrillic>шидэт</cyrillic>
+      <transcript>SIDITY</transcript>
+      <definition>adj. Magical, supematural</definition>
+      <page>698</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠳᠢᠲᠥ ᠶᠣᠺᠠ</unicode>
+          <transcript>-- joga </transcript>
+          <definition>A yogi possessing supernatural powers, thaumaturge, magician</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠳᠢᠳᠦ ~ ᠰᠢᠳᠳᠾᠢᠳᠤ</unicode>
+      <definition>parfait; sage, saint</definition>
+      <page>1485</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠳᠳᠾᠢᠳᠤ ᠪᠯᠠᠮ᠎ᠠ</unicode>
+          <definition>parfait, savant, saint lama</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠢᠳᠳᠾᠢᠳᠤ ᠶᠣᠺᠠ</unicode>
+          <definition>saint yoghi</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠳᠢᠲᠦ</unicode>
+      <cyrillic>шидэт</cyrillic>
+      <definition>〔形〕有法术的，有魔术的；有妖术的，有魔法的：~ үлгэр 神话，传奇故事.</definition>
+      <page>1630</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠳᠢᠲᠥ</unicode>
+      <cyrillic>ШИДЭТ</cyrillic>
+      <definition>магический, волшебный; сверхъестественный, одарённый сверхестественными способностями; шидэт морь волшебный конь; шидэт үлгэр волшебная сказка; шидэт хүүр волшебный мертвец (заглавие известного сборника сказок). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шидэт</cyrillic>
+      <definition>magisch; Zauber-; ~ үлгэр Zaubermärchen n</definition>
+      <page>384</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠳᠢᠲᠦ</unicode>
+      <cyrillic>шидэт</cyrillic>
+      <definition>шидтэй; шидэт амьтан.</definition>
+      <page>844</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S3757</ref>
+  </related_to>
+  <see_also>
+    <ref>S3759</ref>
+    <ref>S3758</ref>
+  </see_also>
+</entry>

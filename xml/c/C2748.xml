@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2748">
+  <head>
+    <unicode>ᠴᠣᠬᠲᠠᠭᠠᠨ</unicode>
+    <transcript>čuγtaγan</transcript>
+    <transcript2>cogdagan</transcript2>
+    <cyrillic>цугтаа</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠣᠬᠲᠠᠭᠠᠨ</unicode>
+      <uighur>čuqtaγan</uighur>
+      <cyrillic>цугтаа</cyrillic>
+      <transcript>CUΓTAΓAN</transcript>
+      <definition>adv. Along with, together with, jointly; simultaneously.</definition>
+      <page>206</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠣᠬᠲᠠᠭᠠᠨ ᠰᠠᠭᠤᠬᠤ</unicode>
+          <transcript>-- saγuxu</transcript>
+          <definition> To live together, cohabit.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цугтаа</cyrillic>
+      <definition>gemeinsam, zusammen, samt</definition>
+      <page>360</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠤᠭᠲᠠᠭᠠᠨ</unicode>
+      <cyrillic>цугтаа</cyrillic>
+      <definition>нэгэн хамт; цугтаа ажилладаг хоёр; надтай цугтаа яваад ирсэн хүн.</definition>
+      <page>797</page>
+    </entry_item>
+  </entries>
+</entry>

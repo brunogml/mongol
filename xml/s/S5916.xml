@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5916">
+  <head>
+    <unicode>ᠰᠣᠯᠪᠢᠴᠠᠯᠳᠣᠬᠣ</unicode>
+    <transcript>solbičalduqu</transcript>
+    <transcript2>solbicaldogo</transcript2>
+    <cyrillic>солбицолдох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5917</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠯᠪᠢᠴᠠᠯᠳᠠᠬᠤ</unicode>
+      <cyrillic>солбицолдох</cyrillic>
+      <definition>〔动〕солбицох 的互动态.</definition>
+      <page>933</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠯᠪᠢᠴᠠᠯᠳᠣᠬᠣ</unicode>
+      <cyrillic>СОЛБИЦОЛДОХ</cyrillic>
+      <definition>солбих-ийн үйлдэлд., скрещиваться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>солбицолдох</cyrillic>
+      <definition>(Rez von солбих) einander kreuzen</definition>
+      <page>199</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠯᠪᠢᠴᠠᠯᠳᠤᠬᠤ</unicode>
+      <cyrillic>солбицолдох</cyrillic>
+      <definition>солбицохын үйлдүүлэх хэв.</definition>
+      <page>477</page>
+    </entry_item>
+  </entries>
+</entry>

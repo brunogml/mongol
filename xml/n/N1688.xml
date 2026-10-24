@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1688">
+  <head>
+    <unicode>ᠨᠢᠮᠺᠠᠳᠠᠺᠥ</unicode>
+    <transcript>nimgedekü</transcript>
+    <transcript2>nimgedegö</transcript2>
+    <cyrillic>нимгэдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>N1689</ref>
+    <ref>N1687</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠨᠢᠮᠺᠡᠳᠡᠺᠦ</unicode>
+      <definition>ammcir, rendre mince</definition>
+      <page>663</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠢᠮᠭᠡᠳᠡᠬᠦ</unicode>
+      <cyrillic>нимгэдэх</cyrillic>
+      <definition>〔动〕变得过薄，变得单薄.</definition>
+      <page>740</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠢᠮᠺᠠᠳᠠᠺᠥ</unicode>
+      <cyrillic>НИМГЭДЭХ</cyrillic>
+      <definition>быть слишком тонким. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>нимгэдэх</cyrillic>
+      <definition>zu flach od zu schmal sein</definition>
+      <page>155</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠢᠮᠭᠡᠳᠡᠬᠦ</unicode>
+      <cyrillic>нимгэдэх</cyrillic>
+      <definition>хэтэрхий нимгэн учир тохиромжгүй болох, нингэдэх.</definition>
+      <page>377</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠢᠮᠭᠡᠳᠡᠬᠦ</unicode>
+      <cyrillic>нингэдэх</cyrillic>
+      <definition>хэтэрхий нингэн болох, нимгэдэх.</definition>
+      <page>377</page>
+    </entry_item>
+  </entries>
+</entry>

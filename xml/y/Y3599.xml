@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3599">
+  <head>
+    <unicode>ᠵᠢᠷᠲᠠᠪᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>ǰirtabalǰaqu</transcript>
+    <transcript2>yirdabalcago</transcript2>
+    <cyrillic>жартвалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y3600</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠷᠲᠠᠪᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>жартвалзах</cyrillic>
+      <definition>〔动〕参见 жартганах.</definition>
+      <page>503</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠷᠲᠠᠪᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ЖАРТВАЛЗАХ</cyrillic>
+      <definition>1) часто выворачиваться (о веках); 2) шилж. кривляться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠷᠲᠠᠪᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>жартвалзах</cyrillic>
+      <definition>байн байн жарталзах.</definition>
+      <page>242</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K0181">
+  <head>
+    <unicode>ᠺᠠᠥᠷᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>keüregülkü</transcript>
+    <transcript2>geöregölgö</transcript2>
+    <cyrillic>хүүрүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K0180</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠦᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хүүрүүлэх</cyrillic>
+      <definition>〔动〕хүүрэх 的使动态.</definition>
+      <page>1464</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠥᠷᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ХҮҮРҮҮЛЭХ</cyrillic>
+      <definition>хүүрэх-ийн үйлдүүл., разламывать, раздробить. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠦᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хүүрүүлэх</cyrillic>
+      <definition>хүүрэхийн үйлдүүлэх хэв.</definition>
+      <page>750</page>
+    </entry_item>
+  </entries>
+</entry>

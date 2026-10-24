@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0110">
+  <head>
+    <unicode>ᠴᠠᠭᠠᠰᠢᠷᠠᠬᠣ</unicode>
+    <transcript>čaγasiraqu</transcript>
+    <transcript2>cagasirago</transcript2>
+    <cyrillic>цагаашрах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0111</ref>
+    <ref>C0112</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠭᠠᠰᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>цагаашрах</cyrillic>
+      <definition>〔动〕①学惯，习惯；②满不在乎，不以为然，不觉羞愧.</definition>
+      <page>1512</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠭᠠᠰᠢᠷᠠᠬᠣ</unicode>
+      <cyrillic>ЦАГААШРАХ</cyrillic>
+      <definition>1) приучаться, привыкать; 2) самовольничать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цагаашрах</cyrillic>
+      <definition>1. sich gewöhnen (an etw. -д), Übung bekommen (in, bei etw. -д)
+2. offen od freimütig sein</definition>
+      <page>351</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠭᠠᠰᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>цагаашрах</cyrillic>
+      <definition>1. юманд сурч дадах зүгшрэх; ном уншиж цагаашрах; морь мал эдэлгээнд цагаашрах;2. хүний ичих зовох, халшрах бэрхшээхийг мэдэхгүй хааш яаш зан байдал гаргах.</definition>
+      <page>779</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4109">
+  <head>
+    <unicode>ᠪᠣᠷᠺᠢᠯᠳᠣᠬᠣ</unicode>
+    <transcript>burgilduqu</transcript>
+    <transcript2>borgildogo</transcript2>
+    <cyrillic>бургилдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B4110</ref>
+  </derivatives>
+  <see_also>
+    <ref>B4109a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠤᠷᠭᠢᠯᠳᠠᠬᠤ</unicode>
+      <cyrillic>бургилдах</cyrillic>
+      <definition>〔动〕喧闹，闹哄.</definition>
+      <page>209</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠷᠺᠢᠯᠳᠣᠬᠣ</unicode>
+      <cyrillic>БУРГИЛДАХ</cyrillic>
+      <definition>суетиться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠷᠭᠢᠯᠳᠤᠬᠤ</unicode>
+      <cyrillic>бургилдах</cyrillic>
+      <definition>тохигүй байдалтайгаар үймэлдэн орших; бургилдан үймсэн айл.</definition>
+      <page>108</page>
+    </entry_item>
+  </entries>
+</entry>

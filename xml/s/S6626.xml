@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6626">
+  <head>
+    <unicode>ᠰᠥᠳᠥᠷᠺᠠᠲᠥᠺᠥ</unicode>
+    <transcript>södürgetükü</transcript>
+    <transcript2>södörgedögö</transcript2>
+    <cyrillic>сөдрөгтөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6627</ref>
+    <ref>S6625</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠥᠳᠥᠷᠭᠡᠲᠦᠬᠦ</unicode>
+      <cyrillic>сөдрөгтөх</cyrillic>
+      <definition>〔动〕〈医〉（马）得蹄漏病.</definition>
+      <page>946</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠥᠳᠥᠷᠺᠠᠲᠥᠺᠥ</unicode>
+      <cyrillic>СӨДРӨГТӨХ</cyrillic>
+      <definition>заболеть чумой (о лошади). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠥᠳᠥᠷᠭᠡᠲᠦᠬᠦ</unicode>
+      <cyrillic>сөдрөгтөх</cyrillic>
+      <definition>сөдрөг өвчин тусах.</definition>
+      <page>483</page>
+    </entry_item>
+  </entries>
+</entry>

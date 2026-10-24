@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2506">
+  <head>
+    <unicode>ᠣᠶᠣᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>oyuγlaγulqu</transcript>
+    <transcript2>oyoglagolgo</transcript2>
+    <cyrillic>оёглуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U2505</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠶᠣᠭᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>оёглуулах</cyrillic>
+      <definition>〔动〕оёглох 的使动态.</definition>
+      <page>793</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠶᠣᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ОЁГЛУУЛАХ</cyrillic>
+      <definition>оёглох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠶᠣᠭᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>оёглуулах</cyrillic>
+      <definition>оёглохын үйлдүүлэх хэв, оёг олгох.</definition>
+      <page>409</page>
+    </entry_item>
+  </entries>
+</entry>

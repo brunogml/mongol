@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B3894">
+  <head>
+    <unicode>ᠪᠣᠷᠣᠨᠲᠠᠬ</unicode>
+    <transcript>buruntaγ</transcript>
+    <transcript2>borondag</transcript2>
+    <cyrillic>бурантаг</cyrillic>
+  </head>
+  <see_also>
+    <ref>B3864</ref>
+    <ref>B3895</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠣᠷᠣᠨᠲᠠᠬ</unicode>
+      <uighur>buruntaq</uighur>
+      <cyrillic>бурантаг</cyrillic>
+      <transcript>BURUNTAΓ</transcript>
+      <definition>[=buruntuγ] n. Halter, rope attached to the mouth of a camel.</definition>
+      <page>139</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠣᠷᠣᠨᠲᠠᠬ ᠵᠡᠭᠦᠺᠦ</unicode>
+          <transcript>-- zegyky</transcript>
+          <definition>To put a peg with a lead into a camel's nose.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠪᠣᠷᠣᠨᠲᠠᠬ</unicode>
+      <uighur>burundaq</uighur>
+      <definition>das Lenkseil eines Kameels oder Ochsen</definition>
+      <page>115</page>
+    </entry_item>
+    <entry_item>
+      <dico>Bawden</dico>
+      <cyrillic>бурантаг</cyrillic>
+      <definition>Kamel Leitstrick m, Zügel m</definition>
+      <page>62</page>
+    </entry_item>
+  </entries>
+</entry>

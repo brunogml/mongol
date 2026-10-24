@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q5989a1">
+  <head>
+    <unicode>ᠺᠣᠮᠢᠰᠠᠷ</unicode>
+    <transcript>komisar</transcript>
+    <transcript2>gomisar</transcript2>
+    <cyrillic>комисар</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠣᠮᠢᠰᠠᠷ</unicode>
+      <uighur>komisar</uighur>
+      <cyrillic>комисар</cyrillic>
+      <transcript>KOMISAR</transcript>
+      <definition>[R. комиссар] n. Commissar.</definition>
+      <page>512</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠷᠠᠳ ᠤᠨ ᠺᠣᠮᠢᠰᠠᠷ</unicode>
+          <transcript>arad un --</transcript>
+          <definition> People's commissar.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠺᠣᠮᠢᠰᠠᠷ</unicode>
+      <cyrillic>комиссар</cyrillic>
+      <definition>нийгэмлэг, улс төр, засаг захиргааны зэрэг үйл ажлыг удирдах; тушаалтан; цэргийн комиссар.</definition>
+      <page>315</page>
+    </entry_item>
+  </entries>
+</entry>

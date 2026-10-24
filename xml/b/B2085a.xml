@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B2085a">
+  <head>
+    <unicode>ᠪᠢᠨᠲᠣᠪ</unicode>
+    <transcript>bintob</transcript>
+    <transcript2>bindob</transcript2>
+    <cyrillic>винтов</cyrillic>
+  </head>
+  <see_also>
+    <ref>V0089</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠢᠨᠲᠣᠪ</unicode>
+      <uighur>bintob</uighur>
+      <cyrillic>винтов</cyrillic>
+      <transcript>BINTOB</transcript>
+      <definition>[R. винтовка] n, Gun, rifle.</definition>
+      <page>105</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠢᠨᠲᠣᠪ ᠪᠤᠤ</unicode>
+          <transcript>-- buu</transcript>
+          <definition>Gun, rifle.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>винтов</cyrillic>
+      <definition>Flinte f</definition>
+      <page>70</page>
+    </entry_item>
+  </entries>
+</entry>

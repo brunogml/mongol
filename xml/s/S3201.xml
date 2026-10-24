@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3201">
+  <head>
+    <unicode> ᠰᠢᠩᠭᠡᠳᠬᠡᠭᠥ</unicode>
+    <transcript>singgetgekü</transcript>
+    <transcript2>singgedgegö</transcript2>
+    <cyrillic>шингэтгэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3202</ref>
+    <ref>S3203</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode> ᠰᠢᠩᠭᠡᠳᠬᠡᠭᠥ</unicode>
+      <uighur>singkedkekü</uighur>
+      <cyrillic>шингэтгэх</cyrillic>
+      <transcript>SINGGEDKE-</transcript>
+      <definition>[v. caus. of singged-] v.t. To dilute, make thin, thin out, rarefy</definition>
+      <page>712</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠯᠦᠨ ᠎ᠳᠦ ᠤᠰᠤ ᠺᠢᠵᠦ ᠰᠢᠩᠭᠡᠳᠬᠡᠭᠥ</unicode>
+          <transcript>silyn dy usu kizy --ky</transcript>
+          <definition> To thin soup by adding water</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠩᠺᠡᠳᠺᠡᠺᠦ</unicode>
+      <definition>liquéfier. rendre liquide.</definition>
+      <page>1464</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode> ᠰᠢᠩᠭᠡᠳᠬᠡᠭᠥ</unicode>
+      <uighur>singgetgekü</uighur>
+      <definition>dünn oder flüssig machen, verdünnen</definition>
+      <page>352</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode> ᠰᠢᠩᠭᠡᠳᠬᠡᠭᠥ</unicode>
+      <uighur>singkedgekü</uighur>
+      <definition>v.t. To attenuate. To make thin or fluid.</definition>
+      <page>1419</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠩᠭᠡᠳᠬᠡᠬᠦ</unicode>
+      <cyrillic>шингэтгэх</cyrillic>
+      <definition>〔动〕①冲淡，冲得更淡；②疏伐，疏枝，间枝，间苗.</definition>
+      <page>1637</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode> ᠰᠢᠩᠭᠡᠳᠬᠡᠭᠥ</unicode>
+      <cyrillic>ШИНГЭТГЭХ</cyrillic>
+      <definition>шингэтэх-ийн үйлдүүл., 1) разбавлять, разводить; разжижать; быть разжиженным, переходить в жидкое состояние; 2) прореживать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠩᠭᠡᠳᠬᠡᠬᠦ</unicode>
+      <cyrillic>шингэтгэх</cyrillic>
+      <definition>улам шингэн болгох, шингэрүүлэх.</definition>
+      <page>848</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q7321">
+  <head>
+    <unicode>ᠬᠣᠷᠵᠢᠺᠢᠨᠠᠬᠣ</unicode>
+    <transcript>qorǰiginaqu</transcript>
+    <transcript2>gorciginago</transcript2>
+    <cyrillic>хоржигнах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q7324</ref>
+    <ref>Q7328</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q7320</ref>
+    <ref>Q7319</ref>
+    <ref>Q7318</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠷᠵᠢᠺᠢᠨᠠᠬᠣ</unicode>
+      <uighur>qorǰikinaqu</uighur>
+      <cyrillic>хоржигнах</cyrillic>
+      <transcript>XORZIGINA-</transcript>
+      <definition>v. i. To chirp, chirrup.</definition>
+      <page>970</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠷᠵᠢᠺᠢᠨᠠᠬᠣ</unicode>
+      <cyrillic>ХОРЖИГНОХ</cyrillic>
+      <definition>1) стрекотать, скрежетать; 2) журчать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠷᠵᠢᠭᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>хоржигнох</cyrillic>
+      <definition>юмны харшиж хавиралдах, хор хор дуугарах чимээ гарах; ус хоржигнох; хоолой хоржигнох.</definition>
+      <page>694</page>
+    </entry_item>
+  </entries>
+</entry>

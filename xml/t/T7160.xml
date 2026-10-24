@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7160">
+  <head>
+    <unicode>ᠳᠣᠮᠣᠬᠲᠠᠢ</unicode>
+    <transcript>domuγtai</transcript>
+    <transcript2>domogdai</transcript2>
+    <cyrillic>домогтой</cyrillic>
+  </head>
+  <see_also>
+    <ref>T7162</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠣᠮᠣᠭ ᠲᠠᠢ</unicode>
+      <cyrillic>домогтой</cyrillic>
+      <definition>〔形〕参见 домогт.</definition>
+      <page>415</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠮᠣᠬᠲᠠᠢ</unicode>
+      <cyrillic>ДОМОГТОЙ</cyrillic>
+      <definition>имеющий легенду. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠣᠮᠣᠭᠲᠠᠢ</unicode>
+      <cyrillic>домогтой</cyrillic>
+      <definition>домог бүхий; тийм домогтой юм.</definition>
+      <page>199</page>
+    </entry_item>
+  </entries>
+</entry>

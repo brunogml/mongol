@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B3702">
+  <head>
+    <unicode>ᠪᠣᠵᠠᠷᠲᠠᠢ</unicode>
+    <transcript>buǰartai</transcript>
+    <transcript2>bocardai</transcript2>
+    <cyrillic>бузартай</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠤᠵᠠᠷᠲᠠᠢ</unicode>
+      <cyrillic>бузартай</cyrillic>
+      <definition>〔形〕①污秽的，肮脏的；②丑陋的，下流的，卑劣的.</definition>
+      <page>198</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠵᠠᠷᠲᠠᠢ</unicode>
+      <cyrillic>БУЗАРТАЙ</cyrillic>
+      <definition>грязный, позорный; гадкий, пошлый.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бузартай</cyrillic>
+      <definition>verabscheuungswürdig</definition>
+      <page>60</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠵᠠᠷᠲᠠᠢ</unicode>
+      <cyrillic>бузартай</cyrillic>
+      <definition>бузар бүхий, шившигтэй, муухай; бузартай явдал.</definition>
+      <page>104</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>B3701</ref>
+  </related_to>
+</entry>

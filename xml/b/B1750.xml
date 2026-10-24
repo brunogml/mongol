@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1750">
+  <head>
+    <unicode>ᠪᠠᠯᠠᠵᠢᠺᠥ</unicode>
+    <transcript>beleǰikü</transcript>
+    <transcript2>belecigö</transcript2>
+    <cyrillic>бэлжих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B1752</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠡᠯᠡᠵᠢᠬᠦ</unicode>
+      <cyrillic>бэлжих</cyrillic>
+      <definition>〔动〕积蓄，积累，储备，贮备，预备（资产等）.</definition>
+      <page>242</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠯᠠᠵᠢᠺᠥ</unicode>
+      <cyrillic>БЭЛЖИХ</cyrillic>
+      <definition>копить (денежные средства).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бэлжих</cyrillic>
+      <definition>Reichtum anhäufen, zu Geld kommen</definition>
+      <page>68</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠡᠯᠵᠢᠬᠦ</unicode>
+      <cyrillic>бэлжих</cyrillic>
+      <definition>бэл хөрөнгөтэй болох.</definition>
+      <page>121</page>
+    </entry_item>
+  </entries>
+</entry>

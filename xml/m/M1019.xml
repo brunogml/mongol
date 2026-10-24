@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1019">
+  <head>
+    <unicode>ᠮᠠᠲᠠᠺᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>metegegülkü</transcript>
+    <transcript2>medegegölgö</transcript2>
+    <cyrillic>мэтгүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>M1018</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠡᠲᠡᠭᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>мэтгүүлэх</cyrillic>
+      <definition>〔动〕мэтгэх /1、/2 的使动态.</definition>
+      <page>708</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠲᠠᠺᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>МЭТГҮҮЛЭХ</cyrillic>
+      <definition>мэтгэх I, II-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠡᠲᠡᠭᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>мэтгүүлэх</cyrillic>
+      <definition>мэтгэхийн үйлдүүлэх хэв.</definition>
+      <page>357</page>
+    </entry_item>
+  </entries>
+</entry>

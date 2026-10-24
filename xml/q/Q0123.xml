@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q0123">
+  <head>
+    <unicode>ᠬᠠᠨᠢᠶᠠᠳᠣᠮ</unicode>
+    <transcript>qaniyadum</transcript>
+    <transcript2>ganiyadom</transcript2>
+    <cyrillic>ханиадам</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠨᠢᠶᠠᠳᠣᠮ</unicode>
+      <uighur>qaniyadom</uighur>
+      <transcript>XANIJADUM</transcript>
+      <definition>see xanijadu(n)</definition>
+      <page>930</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠨᠢᠶᠠᠲᠤ ~ ᠬᠠᠨᠢᠶᠠᠲᠤᠨ ~ ᠬᠠᠨᠢᠶᠠᠲᠤᠮ</unicode>
+      <definition>la toux.</definition>
+      <page>722</page>
+      <examples>
+        <example>
+          <unicode> ᠬᠠᠨᠢᠶᠠᠲᠤᠨ ᠤᠬᠰᠤᠷᠬᠤ</unicode>
+          <definition>toux avec des vomissements</definition>
+        </example>
+        <example>
+          <unicode> ᠬᠠᠨᠢᠶᠠᠲᠤᠨ ᠬᠠᠨᠢᠶᠠᠬᠤ</unicode>
+          <definition>toux avec des crampes dans les poumons</definition>
+        </example>
+        <example>
+          <unicode> ᠬᠠᠨᠢᠶᠠᠲᠤᠨ ᠬᠣᠪᠬᠤᠯᠠᠬᠤ</unicode>
+          <definition>toux qui arrête la respiration</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

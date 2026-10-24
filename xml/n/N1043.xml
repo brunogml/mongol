@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="N1043">
+  <head>
+    <unicode>ᠨᠠᠮᠠᠷᠢᠲᠥ</unicode>
+    <transcript>nemeritü</transcript>
+    <transcript2>nemeridö</transcript2>
+    <cyrillic>нэмэрт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠨᠡᠮᠡᠷᠢᠳᠦ ~ ᠨᠡᠮᠡᠷᠢᠳᠡᠢ</unicode>
+      <definition>augmenté; ayant un supplément</definition>
+      <page>636</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠡᠮᠡᠷᠢᠳᠦ ᠡᠪᠡᠳᠴᠢᠨ</unicode>
+          <definition>maladie empirée, aggravée</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠮᠠᠷᠢᠲᠥ</unicode>
+      <cyrillic>НЭМЭРТ</cyrillic>
+      <definition>нэмэртэй-г үз., нэмэрт өвчин усиливающаяся болезнь. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+<related_to><ref>N1041</ref></related_to><see_also><ref>N1042</ref></see_also></entry>

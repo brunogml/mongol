@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3421">
+  <head>
+    <unicode>ᠴᠥᠨᠳᠥᠯᠵᠠᠺᠥ</unicode>
+    <transcript>čündülǰekü</transcript>
+    <transcript2>cöndölcegö</transcript2>
+    <cyrillic>цүндэлзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C3422</ref>
+    <ref>C3420</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠦᠨᠳᠦᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>цүндэлзэх</cyrillic>
+      <definition>〔动〕参见 цүндэгнэх.</definition>
+      <page>1557</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠥᠨᠳᠥᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>ЦҮНДЭЛЗЭХ</cyrillic>
+      <definition>двигаться, шевелиться, выпячиваясь время от времени (о ком-чём-л. выпяченом, выпуклом). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠦᠭᠳᠦᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>цүндэлзэх</cyrillic>
+      <definition>цүндгэр юмны байн байн цүндэс цүндэс хөдлөх.</definition>
+      <page>802</page>
+    </entry_item>
+  </entries>
+</entry>

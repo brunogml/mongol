@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y0340">
+  <head>
+    <unicode>ᠵᠠᠬᠠᠨ</unicode>
+    <transcript>ǰaqan</transcript>
+    <transcript2>yagan</transcript2>
+    <cyrillic>жаахан</cyrillic>
+  </head><see_also>
+    <ref>Y2548</ref>
+  
+    <ref>Y0341</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠠᠬᠠᠨ</unicode>
+      <uighur>ǰaqan</uighur>
+      <cyrillic>жаахан</cyrillic>
+      <transcript>ZAXAN</transcript>
+      <definition>[= zaγaxan, zaixan] adj. Small, little, tiny.</definition>
+      <page>1041</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠠᠬᠠᠨ ᠺᠡᠦᠺᠡᠨ</unicode>
+          <transcript>-- keyken</transcript>
+          <definition> Little girl.</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠠᠬᠠᠨ ᠵᠠᠮ</unicode>
+          <transcript>-- zam</transcript>
+          <definition> Path.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

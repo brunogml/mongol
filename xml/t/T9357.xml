@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9357">
+  <head>
+    <unicode>ᠳᠥᠷᠥᠺᠠᠯᠠᠺᠥ</unicode>
+    <transcript>dörügelekü</transcript>
+    <transcript2>dörögelegö</transcript2>
+    <cyrillic>дөрөөлөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T9358</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠥᠷᠥᠺᠠᠯᠠᠺᠥ</unicode>
+      <uighur>dörükelekü</uighur>
+      <cyrillic>дөрөөлөх</cyrillic>
+      <transcript>DØRYGELE-</transcript>
+      <definition>v.i. To put the foot in the stirrup.</definition>
+      <page>269</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠥᠷᠦᠭᠡ ᠳᠥᠷᠥᠺᠠᠯᠠᠺᠥ</unicode>
+          <transcript>døryge --ky</transcript>
+          <definition> To put the foot in the stirrup.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠦᠷᠦᠺᠡᠯᠡᠺᠦ</unicode>
+      <definition>mettre le pied dans l'étrier.</definition>
+      <page>1945</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠥᠯ ᠢᠶᠡᠨ ᠳᠦᠷᠦᠺᠡᠨ ᠳ᠋‍‍ᠤ‍ᠷ ᠳᠦᠷᠦᠺᠡᠯᠡᠺᠦ</unicode>
+          <definition>mettre le pied dans l'étrier</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠳᠥᠷᠥᠺᠠᠯᠠᠺᠥ</unicode>
+      <uighur>dürükelekü</uighur>
+      <definition>den Fuß in den Steigbügel setzen</definition>
+      <page>285</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠳᠥᠷᠥᠺᠠᠯᠠᠺᠥ</unicode>
+      <uighur>dörükelekü</uighur>
+      <definition>v.i. To place the foot in the stirrup</definition>
+      <page>1141</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠥᠷᠥᠺᠠᠯᠠᠺᠥ</unicode>
+      <cyrillic>ДӨРӨӨЛӨХ</cyrillic>
+      <definition>ставить ногу в стремя (при посадке). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠥᠷᠥᠭᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>дөрөөлөх</cyrillic>
+      <definition>1. дөрөөн дээр гишгэх; дөрөөгөө дөрөөлөх хэрэгтэй; мод өөд дөрөөлж гарах;2. морь малын биений дөрөө орших орчны хэсэг газар; дөрөөлөхий нь хатгах.</definition>
+      <page>207</page>
+    </entry_item>
+  </entries>
+</entry>

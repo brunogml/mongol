@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1063">
+  <head>
+    <unicode>ᠰᠠᠯᠪᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>salbaγanaqu</transcript>
+    <transcript2>salbaganago</transcript2>
+    <cyrillic>салбаганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1064</ref>
+    <ref>S1066</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠯᠪᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <uighur>salbaγanaqu</uighur>
+      <transcript>SALBAΓANA-</transcript>
+      <definition>v. i. To flutter.</definition>
+      <page>664</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠯᠪᠠᠭᠠᠨᠠᠨ ᠺᠡᠶᠢᠰᠺᠦ</unicode>
+          <transcript>--n keisky</transcript>
+          <definition> To flutter in the wind.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠯᠪᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>салбаганах</cyrillic>
+      <definition>〔动〕宽大、肥大物不停摆动，转动，移动.</definition>
+      <page>901</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠯᠪᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>САЛБАГАНАХ</cyrillic>
+      <definition>двигаться (о чём-либо висящем, мешковатом); болтаться (о лохмотьях); развеваться, раскачиваться; урд хормой нь салбаганан хөдөлж байв болтался передний подол. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>салбаганах</cyrillic>
+      <definition>Kleidung lose herabhängen, zu groß sein</definition>
+      <page>192</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠯᠪᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>салбаганах</cyrillic>
+      <definition>салбагар юмны үргэлжлэн хөдлөх; урд хормой нь салбаганан хөдөлж байв.</definition>
+      <page>462</page>
+    </entry_item>
+  </entries>
+</entry>

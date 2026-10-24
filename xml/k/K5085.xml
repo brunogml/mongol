@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K5085">
+  <head>
+    <unicode>ᠺᠥᠷᠥᠺᠥᠯᠺᠥ</unicode>
+    <transcript>kürügülkü</transcript>
+    <transcript2>görögölgö</transcript2>
+    <cyrillic>хүрүүлэх</cyrillic>
+  </head>
+  <see_also>
+    <ref>K4957</ref>
+    <ref>K5086</ref>
+  </see_also>
+  <related_to>
+    <ref>K5082a</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠥᠷᠥᠺᠥᠯᠺᠥ</unicode>
+      <uighur>kürügülkü</uighur>
+      <cyrillic>хүрүүлэх</cyrillic>
+      <transcript>KYRYGYL-</transcript>
+      <definition>[v. caus. of kyr-] To cause to arrive or reach.</definition>
+      <page>507</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠤᠳᠤᠯᠢᠶᠠᠨ ᠳ᠋‍‍ᠤ‍ᠷ ᠺᠥᠷᠥᠺᠥᠯᠺᠥ ᠦᠭᠡᠢ ᠪᠡᠷ</unicode>
+          <transcript>budulijan dyr --ky ygei ber</transcript>
+          <definition>So as not to lead to confusion.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠦᠷᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хүрүүлэх</cyrillic>
+      <definition>〔动〕хүрах 的使动态；参见 хүргэх.</definition>
+      <page>1460</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠦᠷᠦᠭᠦᠯᠺᠦ ~ ᠺᠦᠷᠭᠡᠺᠦ</unicode>
+      <definition>remettre, apporter, donner</definition>
+      <page>2645</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠠᠵᠢᠭᠤ ᠳ᠋‍‍ᠤ‍ᠷ ᠪᠤᠤ ᠺᠦᠷᠦᠭᠦᠯᠦᠭᠲᠦᠨ</unicode>
+          <definition>éloignez de la débauche</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠦᠷᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хүрүүлэх</cyrillic>
+      <definition>хүрэхийн үйлдүүлэх хэв, хүргэх.</definition>
+      <page>748</page>
+    </entry_item>
+  </entries>
+</entry>

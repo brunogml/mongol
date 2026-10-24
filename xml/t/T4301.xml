@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T4301">
+  <head>
+    <unicode>ᠳᠠᠺᠠᠳᠥᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>degedülegülkü</transcript>
+    <transcript2>degedölegölgö</transcript2>
+    <cyrillic>дээдлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T4300</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠡᠭᠡᠳᠦᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дээдлүүлэх</cyrillic>
+      <definition>〔动〕дээдлэх 的使动态.</definition>
+      <page>479</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠺᠠᠳᠥᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ДЭЭДЛҮҮЛЭХ</cyrillic>
+      <definition>дээдлэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠭᠡᠳᠦᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дээдлүүлэх</cyrillic>
+      <definition>дээдлэхийн үйлдүүлэх хэв.</definition>
+      <page>230</page>
+    </entry_item>
+  </entries>
+</entry>

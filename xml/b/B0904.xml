@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0904">
+  <head>
+    <unicode>ᠪᠠᠯᠲᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>baltaγanaqu</transcript>
+    <transcript2>baldaganago</transcript2>
+    <cyrillic>балтганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>X0656</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠯᠲᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>балтганах</cyrillic>
+      <definition>〔动〕参见 балталзах.</definition>
+      <page>124</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠯᠲᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>БАЛТГАНАХ</cyrillic>
+      <definition>двигаться, шевелиться, скользить, ковылять неуклюже (о коренастом человеке).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>балтганах</cyrillic>
+      <definition>= балхалзах</definition>
+      <page>45</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠯᠲᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>балтганах</cyrillic>
+      <definition>балтгар юмны балтга балтга хөдлөх байдал.</definition>
+      <page>71</page>
+    </entry_item>
+  </entries>
+</entry>

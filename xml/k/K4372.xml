@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K4372">
+  <head>
+    <unicode>ᠺᠦᠴᠢᠯᠢᠭ</unicode>
+    <transcript>küčilig</transcript>
+    <transcript2>göcilig</transcript2>
+    <cyrillic>хүчлэг</cyrillic>
+  </head>
+  <see_also>
+    <ref>K4373</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠦᠴᠦᠯᠢᠭ</unicode>
+      <cyrillic>хүчлэг</cyrillic>
+      <definition>〔形〕有力的，强大的，强有力的，强壮的；强烈的；效力强的.</definition>
+      <page>1469</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠦᠴᠢᠯᠢᠭ</unicode>
+      <cyrillic>ХҮЧЛЭГ</cyrillic>
+      <definition>кислый.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠦᠴᠢᠯᠢᠭ</unicode>
+      <definition>orodant, odoriférant</definition>
+      <page>2620</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠦᠴᠢᠯᠢᠭ ᠬᠤᠯᠤᠭᠤᠨᠠ</unicode>
+          <definition>le desman</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

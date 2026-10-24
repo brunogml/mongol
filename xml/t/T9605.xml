@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9605">
+  <head>
+    <unicode>ᠳᠥᠾᠪᠠ</unicode>
+    <transcript>dühba</transcript>
+    <transcript2>döhba</transcript2>
+    <cyrillic>дүгба</cyrillic>
+  </head>
+  <related_to>
+    <ref>T9604</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠥᠷᠬᠥᠵᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>төрхжүүлэх</cyrillic>
+      <definition>〔动〕төрхжих 的使动态.</definition>
+      <page>1102</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠷᠺᠥᠵᠢᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ТӨРХЖҮҮЛЭХ</cyrillic>
+      <definition>төрхжих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>төрхжүүлэх</cyrillic>
+      <definition>1. Kaus von төрхжих
+2. zur Vernunft bringen</definition>
+      <page>236</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠥᠷᠬᠥᠵᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>төрхжүүлэх</cyrillic>
+      <definition>төрхжихийн үйлдүүлэх хэв.</definition>
+      <page>552</page>
+    </entry_item>
+  </entries>
+</entry>

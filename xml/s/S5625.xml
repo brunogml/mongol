@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5625">
+  <head>
+    <unicode>ᠱᠣᠪᠲᠣᠩᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šubtungdaγulqu</transcript>
+    <transcript2>sobdongdagolgo</transcript2>
+    <cyrillic>шувтандуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S5623a</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠤᠪᠲᠤᠩᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шувтандуулах</cyrillic>
+      <definition>〔动〕шувтандах 的使动态.</definition>
+      <page>1655</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠪᠲᠣᠩᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШУВТАНДУУЛАХ</cyrillic>
+      <definition>шувтандах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠤᠪᠲᠤᠩᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шувтандуулах</cyrillic>
+      <definition>шувтандахын үйлдүүлэх хэв.</definition>
+      <page>857</page>
+    </entry_item>
+  </entries>
+</entry>

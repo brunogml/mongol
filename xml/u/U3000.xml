@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U3000">
+  <head>
+    <unicode>ᠣᠷᠪᠠᠯᠳᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>urbalduγulqu</transcript>
+    <transcript2>orbaldogolgo</transcript2>
+    <cyrillic>урвалдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U2999</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠷᠪᠠᠯᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>урвалдуулах</cyrillic>
+      <definition>〔动〕урвалдах 的使动态.</definition>
+      <page>1199</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠷᠪᠠᠯᠳᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>УРВАЛДУУЛАХ</cyrillic>
+      <definition>урвалдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠷᠪᠠᠯᠳᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>урвалдуулах</cyrillic>
+      <definition>урвалдахын үйлдүүлэх хэв.</definition>
+      <page>597</page>
+    </entry_item>
+  </entries>
+</entry>

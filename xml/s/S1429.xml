@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1429">
+  <head>
+    <unicode>ᠰᠠᠵᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>saǰadaγulqu</transcript>
+    <transcript2>sacadagolgo</transcript2>
+    <cyrillic>саздуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S1428</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠵᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>саздуулах</cyrillic>
+      <definition>〔动〕саздах 的使动态.</definition>
+      <page>897</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠵᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>САЗДУУЛАХ</cyrillic>
+      <definition>саздах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>саздуулах</cyrillic>
+      <definition>Kaus von саздах</definition>
+      <page>191</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠵᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>саздуулах</cyrillic>
+      <definition>саздахын үйлдүүлэх хэв.</definition>
+      <page>460</page>
+    </entry_item>
+  </entries>
+</entry>

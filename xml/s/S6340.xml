@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S6340">
+  <head>
+    <unicode>ᠰᠣᠷᠲᠣ</unicode>
+    <transcript>sortu</transcript>
+    <transcript2>sordo</transcript2>
+    <cyrillic>сорт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠤᠷᠳᠤ</unicode>
+      <definition>avec une arête, barbu, aristé.</definition>
+      <page>1418</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠤᠷᠳᠤ ᠲᠠᠷᠢᠶ᠎ᠠ</unicode>
+          <definition>le blé avec des arêtes</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠷᠲ᠋ᠢ</unicode>
+      <cyrillic>сорт</cyrillic>
+      <definition>〔名〕等级；品种，种类：~ын үр 〈农〉良种.</definition>
+      <page>943</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠷᠲᠣ</unicode>
+      <cyrillic>СОРТ</cyrillic>
+      <definition>с остью; остный; сорт лууль ург. марь остистая; сорт тариа остный хлеб; колосистый хлеб. </definition>
+      <page>0</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>сорт</cyrillic>
+    <definition>Sorte f</definition>
+    <page>201</page>
+  </entry_item>
+  </entries>
+</entry>

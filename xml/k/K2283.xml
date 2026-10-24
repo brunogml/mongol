@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K2283">
+  <head>
+    <unicode>ᠭᠢᠯᠵᠢᠷ</unicode>
+    <transcript>gilǰir</transcript>
+    <transcript2>gilcir</transcript2>
+    <cyrillic>гилжир</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠢᠯᠵᠢᠷ</unicode>
+      <uighur>gilǰir</uighur>
+      <transcript>GILZIR</transcript>
+      <definition>Same as gilzigir.</definition>
+      <page>384</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠢᠯᠵᠢᠷ</unicode>
+      <definition>la personne qui porte le cou de travers.</definition>
+      <page>2536</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠢᠯᠵᠢᠷ ᠬᠠᠯᠵᠢᠷ</unicode>
+          <definition>qui a le cou tors</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠭᠢᠯᠵᠢᠷ</unicode>
+      <uighur>kilǰir</uighur>
+      <definition>schiefhalsig, der den Hals schief trägt.</definition>
+      <page>200</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠺᠢᠯᠵᠢᠷ</unicode>
+      <uighur>kilǰir</uighur>
+      <definition>Wry-necked</definition>
+      <page>791</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠢᠯᠵᠢᠷ</unicode>
+      <cyrillic>гилжир</cyrillic>
+      <definition>〔形〕歪脖子的.</definition>
+      <page>295</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠯᠵᠢᠷ</unicode>
+      <cyrillic>ГИЛЖИР</cyrillic>
+      <definition>искривлённый, с кривой шеей; гилжир галжир хорш. кривой, косой; вкривь и вкось; гилжир нуруу боковое искривление позвоночника.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гилжир</cyrillic>
+      <definition>schief, krumm; ~ хүзүүтэй schiefhalsig</definition>
+      <page>76</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠢᠯᠵᠢᠷ</unicode>
+      <cyrillic>гилжир</cyrillic>
+      <definition>гилжгий хүзүүтэй.</definition>
+      <page>144</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>K2284</ref>
+  </derivatives>
+</entry>

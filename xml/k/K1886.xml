@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1886">
+  <head>
+    <unicode>ᠺᠢᠰᠠᠭᠠᠨ</unicode>
+    <transcript>kisaγan</transcript>
+    <transcript2>gisagan</transcript2>
+    <cyrillic>хясаа(н)</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠢᠰᠠᠭᠠᠨ</unicode>
+      <uighur>kisaγan</uighur>
+      <transcript>KISAΓAN</transcript>
+      <page>473</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠢᠰᠠᠭᠠᠨ ᠲᠩᠷᠢ</unicode>
+          <transcript>-- tngri</transcript>
+          <definition> A shamanist deity.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠢᠰᠠᠭᠠᠨ ᠲᠨᠺᠷᠢ</unicode>
+      <definition>dieu de la victoire.</definition>
+      <page>2525</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠢᠰᠤᠭ᠎ᠠ᠊ᠨ</unicode>
+      <cyrillic>хясаа(н) /3</cyrillic>
+      <definition>&lt;амьтан&gt;далай мөрөн, гол нуурт төрөх амьтан, том жижиг олон янз, заримын ясны өнгө гилгэр бөгөөд гоёмсог, юм хийвэл болно.</definition>
+      <page>773</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠢᠰᠤᠭ᠎ᠠ᠊ᠨ</unicode>
+      <cyrillic>хясаа(н) /4</cyrillic>
+      <definition>хясал, гацал, гацаан, боогдол; яасан хясаантай хэрэг болов; хясаантай цаг тохиолдов.</definition>
+      <page>773</page>
+    </entry_item>
+  </entries>
+</entry>

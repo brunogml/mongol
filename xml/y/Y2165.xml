@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y2165">
+  <head>
+    <unicode>ᠵᠡᠺᠡᠯᠡᠺᠥ</unicode>
+    <transcript>ǰegelekü</transcript>
+    <transcript2>yegelegö</transcript2>
+    <cyrillic>зээлэх</cyrillic>
+  </head><derivatives>
+    <ref>Y2166</ref>
+  </derivatives>
+  <see_also>
+    <ref>Y2171</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠡᠺᠡᠯᠡᠺᠥ</unicode>
+      <uighur>ǰekelekü</uighur>
+      <cyrillic>зээлэх</cyrillic>
+      <transcript>ZEGELE-</transcript>
+      <definition>[= zigele-, zegeli-, zegelid-, zegelile-] v.t. To borrow</definition>
+      <page>1043</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠡᠺᠡᠯᠡᠵᠦ ᠥᠭᠺᠦ</unicode>
+          <transcript>--zy øgky</transcript>
+          <definition>To lend, loan.</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠥᠩᠭᠦ ᠵᠡᠺᠡᠯᠡᠺᠥ</unicode>
+          <transcript>mønggy --ky</transcript>
+          <definition>To borrow money.</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠡᠷ᠎ᠡ ᠵᠡᠺᠡᠯᠡᠺᠥ</unicode>
+          <transcript>ner-e --ky</transcript>
+          <definition>Tobe an imposter; to use another's name illegally.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠡᠺᠡᠯᠡᠺᠦ</unicode>
+      <definition>emprunter</definition>
+      <page>2319</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠤᠪᠴᠠᠰᠤᠨ ᠵᠡᠭᠡᠯᠡᠺᠦ</unicode>
+          <definition>emprunter un habit ou une robe</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠭᠤᠬᠤᠢ ᠭᠡᠷ ᠢ ᠵᠡᠭᠡᠯᠡᠺᠦ</unicode>
+          <definition>emprunter une tente</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

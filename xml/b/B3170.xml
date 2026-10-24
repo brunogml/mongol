@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B3170">
+  <head>
+    <unicode>ᠪᠣᠳᠣᠷᠭᠠᠨᠠ</unicode>
+    <transcript>budurγana</transcript>
+    <transcript2>bodorgana</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠣᠳᠣᠷᠭᠨ᠎ᠠ</unicode>
+      <uighur>budurγan-a</uighur>
+      <transcript>BUDURΓAN-A</transcript>
+      <definition>n. Suaeda prostrata, iljinia Regelii.</definition>
+      <page>131</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠤᠳᠣᠷᠭᠠᠨᠠ</unicode>
+      <definition>absinthe des steppes (artemisia absinthium): 2 espèce de jonc.</definition>
+      <page>1184</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠤᠳᠣᠷᠭᠠᠨᠠ ᠎ᠶᠢᠨ ᠴᠤᠬᠤᠷ ᠰᠠᠪᠠ</unicode>
+          <definition>vase cylindrique de jonc</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

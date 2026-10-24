@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4288">
+  <head>
+    <unicode>ᠵᠣᠲᠣᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰotulǰaγulqu</transcript>
+    <transcript2>yodolcagolgo</transcript2>
+    <cyrillic>жоотолзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y4286</ref>
+  </related_to>
+  <see_also>
+    <ref>Y4287</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠣᠲᠣᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>жоотолзуулах</cyrillic>
+      <definition>〔动〕жоотолзох 的使动态.</definition>
+      <page>517</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠲᠣᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЖООТОЛЗУУЛАХ</cyrillic>
+      <definition>жоотолзох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠣᠣᠲᠣᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>жоотолзуулах</cyrillic>
+      <definition>жоотолзохын үйлдүүдэх хэв.</definition>
+      <page>250</page>
+    </entry_item>
+  </entries>
+</entry>

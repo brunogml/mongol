@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K0935">
+  <head>
+    <unicode>ᠺᠠᠮᠠᠷᠠᠯᠳᠠᠺᠥ</unicode>
+    <transcript>gemereldekü</transcript>
+    <transcript2>gemereldegö</transcript2>
+    <cyrillic>гэмрэлдэх</cyrillic>
+  </head>
+  <see_also>
+    <ref>K0936</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠡᠮᠡᠷᠡᠯᠳᠡᠺᠦ</unicode>
+      <definition>faire des reproches l'un à l'autre, murmurer l'un contre l'autre.</definition>
+      <page>2483</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠡᠮᠡᠷᠡᠯᠳᠡᠨ ᠳᠤᠷᠤᠮᠵᠢᠯᠠᠬᠤ</unicode>
+          <definition>murmurer</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠺᠠᠮᠠᠷᠠᠯᠳᠠᠺᠥ</unicode>
+      <uighur>kemereldekü</uighur>
+      <definition>sich gegenseitig vorwerfen oder verweisen</definition>
+      <page>197</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠺᠠᠮᠠᠷᠠᠯᠳᠠᠺᠥ</unicode>
+      <uighur>kemereldekü</uighur>
+      <definition>To reprove or blame one another.</definition>
+      <page>777</page>
+    </entry_item>
+  </entries>
+</entry>

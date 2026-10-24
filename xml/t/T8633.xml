@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8633">
+  <head>
+    <unicode>ᠲᠥᠳᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>tüdegülkü</transcript>
+    <transcript2>dödegölgö</transcript2>
+    <cyrillic>түдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T8631</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠦᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>түдүүлэх</cyrillic>
+      <definition>〔动〕түдэх 的使动态.</definition>
+      <page>1131</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠳᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ТҮДҮҮЛЭХ</cyrillic>
+      <definition>түдэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠦᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>түдүүлэх</cyrillic>
+      <definition>түлэхийн үйлдүүлэх хэв, түдгэлзүүлэх хойшлуулах, азнуулах.</definition>
+      <page>565</page>
+    </entry_item>
+  </entries>
+</entry>

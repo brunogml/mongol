@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C2357">
+  <head>
+    <unicode>ᠴᠢᠷᠪᠣᠭᠣᠯ</unicode>
+    <transcript>čirbuγul</transcript>
+    <transcript2>cirbogol</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠢᠷᠪᠣᠭᠣᠯ</unicode>
+      <uighur>čirbuγul</uighur>
+      <transcript>CIRBUΓUL</transcript>
+      <definition>Same as cilbuγul.</definition>
+      <page>191</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠢᠷᠪᠤᠭᠣᠯ ~ ᠴᠢᠯᠪᠤᠭᠣᠯ</unicode>
+      <definition>le licou, licol pour les chevaux.</definition>
+      <page>2188</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠷᠪᠤᠭᠤᠯ ᠳᠠᠰᠤ ᠳᠠᠳᠠᠬᠤ</unicode>
+          <definition>tenir la bride de fort court pour faire reculer les chevaux</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

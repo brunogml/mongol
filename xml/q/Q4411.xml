@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q4411">
+  <head>
+    <unicode>ᠬᠣᠭᠠᠷᠠᠬᠣ</unicode>
+    <transcript>quγaraqu</transcript>
+    <transcript2>gogarago</transcript2>
+    <cyrillic>хугарах</cyrillic>
+  </head><derivatives>
+    <ref>Q4413</ref>
+  </derivatives><see_also>
+    <ref>Q4546</ref>
+  
+    <ref>Q4412</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠭᠠᠷᠠᠬᠣ</unicode>
+      <uighur>quγaraqu</uighur>
+      <cyrillic>хугарах</cyrillic>
+      <transcript>XUΓARA-</transcript>
+      <definition>See xuγura-.</definition>
+      <page>981</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠭᠠᠷᠠᠬᠤ</unicode>
+      <definition>se briser, se rompre</definition>
+      <page>876</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠪᠠᠭᠤᠨ ᠤ ᠥᠷᠦᠭᠡᠯᠰᠦᠨ ᠵᠢᠭᠦᠷ ᠬᠣᠭᠠᠷᠠᠪᠠᠢ</unicode>
+          <definition>une aile de l'oiseau s'est rompue, s'est brisée, s'est cassée</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

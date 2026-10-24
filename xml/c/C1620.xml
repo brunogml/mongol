@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1620">
+  <head>
+    <unicode>ᠴᠢᠬᠲᠠᠯᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>čiγtalaγdaqu</transcript>
+    <transcript2>cigdalagdago</transcript2>
+    <cyrillic>чагтлагдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C1618</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠭᠲᠠᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>чагтлагдах</cyrillic>
+      <definition>〔动〕чагтлах 的被动态.</definition>
+      <page>1574</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠬᠲᠠᠯᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЧАГТЛАГДАХ</cyrillic>
+      <definition>чагтлах-ын үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чагтлагдах</cyrillic>
+      <definition>Pass von чагтлах</definition>
+      <page>367</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠭᠲᠠᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>чагтлагдах</cyrillic>
+      <definition>чагтлахын үйлдэгдэх хэв.</definition>
+      <page>811</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T8968">
+  <head>
+    <unicode>ᠲᠥᠺᠡᠨᠡᠲᠡᠢ</unicode>
+    <transcript>tögenetei</transcript>
+    <transcript2>dögenedei</transcript2>
+    <cyrillic>төөнөтэй</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠥᠺᠡᠨᠡᠲᠡᠢ</unicode>
+      <uighur>tökenedei</uighur>
+      <cyrillic>төөнөтэй</cyrillic>
+      <transcript>TØGENETEI</transcript>
+      <page>832</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠥᠺᠡᠨᠡᠲᠡᠢ ᠮᠣᠷᠢ</unicode>
+          <transcript>-- mori</transcript>
+          <definition> Horse with a spot on the forehead.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠦᠺᠡᠨᠡᠳᠡᠢ ᠮᠣᠷᠢᠨ</unicode>
+      <definition>cheval cautérisé.</definition>
+      <page>1926</page>
+    </entry_item>
+  </entries>
+</entry>

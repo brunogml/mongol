@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6484">
+  <head>
+    <unicode>ᠲᠣᠰᠢᠶᠠᠯᠳᠣᠬᠣ</unicode>
+    <transcript>tusiyalduqu</transcript>
+    <transcript2>dosiyaldogo</transcript2>
+    <cyrillic>тушаалдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T6485</ref>
+    <ref>T6486</ref>
+  </derivatives>
+  <see_also>
+    <ref>T6480</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠰᠢᠶᠠᠯᠳᠣᠬᠣ</unicode>
+      <uighur>tusiyaldoqu</uighur>
+      <cyrillic>тушаалдах</cyrillic>
+      <transcript>TUSIJALDU-</transcript>
+      <definition>[= tusijalda-] v. i. To meet with, encounter, happen; to come across.</definition>
+      <page>846</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠶᠢᠰᠤᠨ ᠎ᠯᠤᠭ᠎ᠠ ᠲᠣᠰᠢᠶᠠᠯᠳᠣᠬᠣ</unicode>
+          <transcript>daisun luγ-a --xu</transcript>
+          <definition> To encounter or meet the enemy.</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠦᠮᠦᠨ ᠳ᠋‍‍ᠤ‍ᠷ ᠲᠣᠰᠢᠶᠠᠯᠳᠣᠬᠣ</unicode>
+          <transcript>kymyn dyr --xu</transcript>
+          <definition> To meet a person, run into someone</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠰᠢᠶᠠᠯᠳᠤᠬᠤ</unicode>
+      <cyrillic>тушаалдах</cyrillic>
+      <definition>〔动〕偶逢，相遇，遇见，碰上.</definition>
+      <page>1125</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠰᠢᠶᠠᠯᠳᠣᠬᠣ</unicode>
+      <cyrillic>ТУШААЛДАХ</cyrillic>
+      <definition>1) сталкиваться друг с другом; попадаться, встречаться; 2) случаться, происходљть, приурочиваться, совпадать с чем-л. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠰᠢᠶᠠᠯᠳᠤᠬᠤ</unicode>
+      <cyrillic>тушаалдах</cyrillic>
+      <definition>тохиолдох, дайралдах.</definition>
+      <page>562</page>
+    </entry_item>
+  </entries>
+</entry>

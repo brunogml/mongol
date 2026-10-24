@@ -1,0 +1,412 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0012">
+  <head>
+    <unicode>ᠰᠠᠨᠠᠭ ᠠ</unicode>
+    <transcript>sanaγ-a</transcript>
+    <transcript2>sanaga</transcript2>
+    <cyrillic>санаа</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S0052</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ~ ᠰᠠᠨᠠᠭᠠᠨ</unicode>
+      <uighur>sanaγ-a - sanaγan</uighur>
+      <cyrillic>санаа(н)</cyrillic>
+      <transcript>SANAΓ-A(N)</transcript>
+      <definition>n. a) Thought, thinking, idea, reflection, attention. b) Opinion, conception, sentiment; frame of mind. c) Intention, policy, aim.</definition>
+      <page>668</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠪᠣᠳᠤᠯᠭ᠎ᠠ</unicode>
+          <transcript>-- bodulγ-a</transcript>
+          <definition>Meaning, idea.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠮᠠᠭᠤᠲᠠᠢ</unicode>
+          <transcript>-- maγutai</transcript>
+          <definition>Ill-willed; suspicious-minded.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭᠠᠨ ᠎ᠳᠠᠭᠠᠨ ᠠᠭᠤᠯᠬᠤ</unicode>
+          <transcript>--n daγan aγ</transcript>
+          <definition>To keep in one's mind; to learn by heart, remember.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭᠠᠨ ᠎ᠳᠠᠭᠠᠨ ᠺᠦᠷᠺᠦ</unicode>
+          <transcript>--n daγan kyrky</transcript>
+          <definition>To realize one's plans; to do something in one's own way.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭᠠᠨ ᠎ᠳᠤ ᠣᠷᠤᠭᠤᠯᠬᠤ</unicode>
+          <transcript>--n du oruγulxu</transcript>
+          <definition>To remind; to keep in mind</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠳ᠋‍‍ᠤ‍ᠷ ᠣᠷᠤᠬᠤ</unicode>
+          <transcript>--n dur oruxu</transcript>
+          <definition>The thought occurs to [me, etc.]; to remember, recollect</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭᠠᠨ ᠎ᠳᠤ ᠦᠭᠡᠢ</unicode>
+          <transcript>--n du ygei</transcript>
+          <definition>Unintentionally, unexpectedly; being unaware.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠲᠠᠯᠪᠢᠬᠤ</unicode>
+          <transcript>-- talbixu</transcript>
+          <definition>To pay attention; to keep in mind.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠲᠥᠷᠦᠺᠦ</unicode>
+          <transcript>-- tøryky</transcript>
+          <definition>To conceive an idea.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠭᠤᠤ ᠰᠠᠨᠠᠭ᠎ᠠ ᠎ᠲᠠᠢ</unicode>
+          <transcript>aγuu -- tai</transcript>
+          <definition>Broad-minded</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠬᠤᠷ ᠰᠠᠨᠠᠭ᠎ᠠ</unicode>
+          <transcript>axur --</transcript>
+          <definition>Lack of foresight, shortsightedness.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠠᠭᠠᠨ ᠰᠠᠨᠠᠭ᠎ᠠ</unicode>
+          <transcript>caγan --</transcript>
+          <definition>Clean mind, good mind</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠣᠤᠯ ᠰᠠᠨᠠᠭ᠎ᠠ</unicode>
+          <transcript>γoul --</transcript>
+          <definition>Main idea, principal idea</definition>
+        </example>
+        <example>
+          <unicode>ᠶᠡᠺᠡ ᠰᠠᠨᠠᠭ᠎ᠠ ᠎ᠲᠠᠢ</unicode>
+          <transcript>jeke -- tai</transcript>
+          <definition>Haughty, supercilious, overambitious, having great ambition.</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠠᠭᠤ ᠰᠠᠨᠠᠭ᠎ᠠ ᠎ᠲᠠᠢ</unicode>
+          <transcript>maγu -- tai</transcript>
+          <definition>Evil-minded, ill-willed; suspicious</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠢᠭᠡᠨ ᠰᠠᠨᠠᠭ᠎ᠠ ᠪᠡᠷ</unicode>
+          <transcript>nigen -- ber</transcript>
+          <definition>Being of one mind, unanimously</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠷ᠎ᠠ ᠰᠠᠨᠠᠭ᠎ᠠ</unicode>
+          <transcript>xar-a --</transcript>
+          <definition>Vicious thoughts</definition>
+        </example>
+        <example>
+          <unicode>ᠦᠨᠡᠨ ᠰᠠᠨᠠᠭᠠᠨ ᠢᠶᠠᠨ</unicode>
+          <transcript>ynen --n ijen</transcript>
+          <definition>Truly, sincerely, earnestly</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠠᠯᠳᠠᠬᠤ</unicode>
+          <transcript>-- aldaxu</transcript>
+          <definition>To sigh, moan.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠠᠮᠤᠷ</unicode>
+          <transcript>-- amur</transcript>
+          <definition>Having peace of mind; carefree; careless</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠠᠮᠤᠷᠬᠤ</unicode>
+          <transcript>-- amurxu</transcript>
+          <definition>To be relieved, acquire peace of mind</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠪᠡᠷ ᠢᠶᠡᠨ</unicode>
+          <transcript>-- ber ijen</transcript>
+          <definition>At random, as one desires, arbitrarily</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠪᠤᠴᠠᠬᠤ</unicode>
+          <transcript>-- bucaxu</transcript>
+          <definition>To change one's mind.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠰᠠᠨᠠᠭ᠎ᠠ ᠡᠪᠳᠡᠷᠡᠺᠦ</unicode>
+          <transcript>-- -- ebdereky</transcript>
+          <definition>To break up (as friendship, cordial relations)</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭᠠᠨ ᠤ ᠳᠤᠷ᠎ᠠ ᠪᠡᠷ</unicode>
+          <transcript>--n u dur-a ber</transcript>
+          <definition>Arbitrarily, highhandedly</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭᠠᠨ ᠤ ᠡᠪᠡᠳᠴᠢᠨ</unicode>
+          <transcript>--n u ebedcin</transcript>
+          <definition>Heartache, heartbreak</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠰᠡᠳᠺᠢᠯ</unicode>
+          <transcript>-- sedkil</transcript>
+          <definition>Frame of mind, disposition; mind and thought</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠰᠡᠳᠺᠢᠯ ᠠᠮᠤᠷ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- sedkil amur ygei</transcript>
+          <definition>Depressed, worried.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠰᠡᠳᠺᠢᠯ ᠠᠯᠳᠠᠬᠤ</unicode>
+          <transcript>-- sedkil aldaxu</transcript>
+          <definition>To be out of one's mind from grief or disappointment; to be frustrated</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠵᠣᠪᠠᠬᠤ</unicode>
+          <transcript>-- zobaxu</transcript>
+          <definition>To worry about; to grieve</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠨᠡ ᠶᠠᠮᠪᠠᠷ ᠰᠠᠨᠠᠭ᠎ᠠ ᠎ᠲᠠᠢ ᠺᠦᠮᠦᠨ ᠪᠡᠢ</unicode>
+          <transcript>ene jambar -- tai kymyn bei!</transcript>
+          <definition>What is his idea?. What is he thinking?. ( expressing surprise and disgust).</definition>
+        </example>
+        <example>
+          <unicode>ᠥᠴᠦᠺᠡᠨ ᠰᠠᠨᠠᠭ᠎ᠠ</unicode>
+          <transcript>øcyken --</transcript>
+          <definition>My humble opinion (wish ); small mind</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠶᠢᠨ ᠰᠠᠨᠠᠭ᠎ᠠ ᠎ᠲᠠᠢ</unicode>
+          <transcript>sain -- tai</transcript>
+          <definition>Kind-hearted; well-meaning.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠡᠳᠺᠢᠯ ᠰᠠᠨᠠᠭ᠎ᠠ</unicode>
+          <transcript>sedkil --</transcript>
+          <definition>Frame of mind, disposition; thought and mind</definition>
+        </example>
+        <example>
+          <unicode>ᠤᠶᠠᠷᠠᠬᠤ ᠰᠠᠨᠠᠭ᠎ᠠ</unicode>
+          <transcript>ujaraxu --</transcript>
+          <definition>Languishment, sadness.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠪᠡᠷ ᠪᠣᠯᠬᠤ</unicode>
+          <transcript>-- ber bolxu</transcript>
+          <definition>To be in agreement with one's desire or intention</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠪᠡᠷ ᠪᠤᠰᠤ = ᠰᠠᠨᠠᠭ᠎ᠠ ᠪᠡᠷ ᠪᠢᠰᠢ</unicode>
+          <transcript>-- ber busu/bisi</transcript>
+          <definition>Against one's wish, unintentionaly</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠡᠳᠦᠺᠦ</unicode>
+          <transcript>-- edyky,</transcript>
+          <definition>To start or initiate an idea or a plan</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠣᠷᠤᠭᠤᠯᠬᠤ</unicode>
+          <transcript>-- oruγulxu</transcript>
+          <definition>To Suggest an idea or plan; To put an idea into someone's head</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠪᠣᠳᠤᠯᠭ᠎ᠠ</unicode>
+          <transcript>sanaγ-a bodulγ-a</transcript>
+          <definition>Intention, policy</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠠᠨᠠᠭᠠᠨ</unicode>
+      <definition>pensée. réflexion; volonté créatrice; volition, acte par lequel la volonté se détermine ; intention: 2 idée, conception; opinion, sentiment, avis; 3 mémoire, commémoration.</definition>
+      <page>1281</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠭᠤᠤ ᠰᠠᠨᠠᠭᠠᠨ</unicode>
+          <definition>perspicacité</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠮ᠎ᠡ ᠺᠦᠮᠦᠨ ᠤ ᠵᠢᠯᠤᠭ᠎ᠠ ᠠᠨᠤ ᠤᠬᠤᠷ, ᠰᠠᠨᠠᠭ᠎ᠠ ᠠᠨᠤ ᠴᠢᠬᠤᠯ ᠪᠤᠶᠤ</unicode>
+          <definition>la femme a les rênes courtes et l'esprit borné</definition>
+        </example>
+        <example>
+          <unicode>ᠦᠨᠡᠨ ᠰᠠᠨᠠᠭᠠᠨ ᠢᠶᠠᠷ ᠪᠣᠯᠪᠠᠰᠤᠷᠠᠭᠤᠯᠤᠨ ᠰᠤᠷᠭᠠᠬᠤ</unicode>
+          <definition>faire tout son possible pour apprendre</definition>
+        </example>
+        <example>
+          <unicode>ᠥᠪᠡᠷ ᠤᠨ ᠰᠠᠨᠠᠭᠠᠨ ᠢ ᠪᠦᠷᠢᠳᠭᠡᠺᠦ</unicode>
+          <definition>remplir son dessein</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭᠠᠨ ᠠᠯᠳᠠᠬᠤ</unicode>
+          <definition>perdre la mémoire, perdre la présence d'esprit</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠠᠮᠤᠷᠬᠤ</unicode>
+          <definition>sew calmer, s'apaiser; 2 être content, satisfait</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭᠠᠨ ᠤ ᠡᠳᠦᠯ</unicode>
+          <definition>naissance d'une idée; pensée, intention, dessein</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠡᠳᠦᠺᠦ</unicode>
+          <definition>concevoir une idée, un dessein; 2 énoncer son opinion</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭᠠᠨ ᠣᠯᠬᠤ</unicode>
+          <definition>reprendre ses sens; 2 se rappeler</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭᠠᠨ ᠳ᠋‍‍ᠤ‍ᠷ ᠡᠰᠡ ᠣᠷᠤᠪᠠ</unicode>
+          <definition>cela n'est pas venu dans l'idée</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠣᠷᠤᠭᠤᠯᠬᠤ</unicode>
+          <definition>rappeler au souvenir</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭᠠᠨ ᠤ ᠣᠷᠤᠯᠲᠠ</unicode>
+          <definition>commencement d'une pemsée, première idée; pensée, intention, dessein</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠦᠭᠡᠢ</unicode>
+          <definition>insensé, oublieux, sans mémoire; 2 qui n'a pas sa raison, qui a perdu la tête; 3 inconcevable, incompréhensible</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭᠠᠨ ᠳ᠋‍‍ᠤ‍ᠷ ᠨᠡᠶᠢᠯᠡᠭᠦᠯᠺᠦ</unicode>
+          <definition>combiner</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭᠠᠨ ᠢ ᠲᠡᠵᠢᠭᠡᠺᠦ</unicode>
+          <definition>chercher à se conformer au sentiment de son père et de sa mère (animum fovere)</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭᠠᠨ ᠤ ᠲᠣᠮᠤᠷᠴᠤᠭ</unicode>
+          <definition>scrotum; testicules</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠲᠥᠷᠥᠺᠦ</unicode>
+          <definition>concevoir une idée; se faire une idée</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭᠠᠨ ᠎ᠳᠠᠭᠠᠨ ᠠᠭᠤᠯᠬᠤ</unicode>
+          <definition>apprendre par coeur, imprimer dans sa mémoire</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠲᠣᠷᠣᠶᠢᠳᠠᠭᠰᠠᠨ</unicode>
+          <definition>qui a perdu sa mémoire, qui est devenu stupide</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ ᠵᠣᠪᠠᠨᠢᠬᠤ</unicode>
+          <definition>s'inquiéter, s'alarmer, se chagriner</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ</unicode>
+      <uighur>sanaγa</uighur>
+      <definition>der Gedanke; das, Gedächtniss</definition>
+      <page>337</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ</unicode>
+      <uighur>sanaγ-a</uighur>
+      <definition>n. Mind, thought. Inclination, will, design, purpose. Memory. Remembrance. Opinion. Idea. Affection,</definition>
+      <page>1359</page>
+      <examples>
+        <example>
+          <uighur>sanaγ-a aldaqu</uighur>
+          <definition>v.i. "To lose heart". To sigh or groan deeply.</definition>
+        </example>
+        <example>
+          <uighur>sanaγan-u ay-a</uighur>
+          <definition>n. The will, volition.</definition>
+        </example>
+        <example>
+          <uighur>sanaγan-u baqtai</uighur>
+          <definition>Fond of, addicted to.</definition>
+        </example>
+        <example>
+          <uighur>sanaγ-a budolγ-a</uighur>
+          <definition>n. Idea.</definition>
+        </example>
+        <example>
+          <uighur>sanaγ-a qariq bolqu</uighur>
+          <definition>To become feeble. To become indifferent</definition>
+        </example>
+        <example>
+          <uighur>sanaγ-a talbiqu</uighur>
+          <definition>To set one's mind free. To get free from anxiety.</definition>
+        </example>
+        <example>
+          <uighur>sanaγ-a törökü</uighur>
+          <definition>To get an opinion or idea.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ</unicode>
+      <cyrillic>САНАА(Н)</cyrillic>
+      <definition>1) мысль, дума; идея; намерение; желание; размышление; понятие; представление; мнение; предложение; агуу санаа дальновидность; ариун санаа возвышенность; атгаг санаа предрассудки; ахар санаа недальновидность; легкомыслие, ветреность; буянт санаа благие намерения; гол санаа основная мысль; далд санаа задняя мысль; дээгүүр санаа претензия; зориуд санаа умысел; зорьсон санаа замысел; жүжгийн зорьсон санаа замысел пьесы; их санаа чрезмерно большие желания, намерения; муу санаа а) злонамеренноть, злой замысел; б) хитрость; муу санаа бие отно зүйр. дурная мысль себя подкарауливает; ~ не рой яму другому, сам в неё попадёшь; муу санаа гаргах хитрить, быть хитрым; муу санаатай яриа. хитрый; нэг санаа единомыслие; сайн санаа / цагаан санаа доброта, доброжелательность, благое намерение; үзэл санаа идея; ленинч үзэл санаа ленинские идеи; шинэ үзэл санаа дэвшүүлэх выдвижение новых идей; эрүүл биш үзэл санаа нездоровые эмоции; хар санаа злонамеренность, злой умысел, злоба; хар буруу санаа нелепые выдумки; хийсвэр санаа умозрительная абстракция; отвлечённость; зохиолчийн санаа хэт хийсвэр байна точка зрения нашего автора страдает отвлечённостью; хомхой санаа ненасытность; хоосон санаа игра воображения; мыльный пузырь; хорон санаа / хар санаа злой умысел; хорон санаа агуулах зубы точить на кого-л.; хорт санаа злоба; хорт санаа агуулах злоумышлять; таить злобу; хорт санаа агуулж явах питать злобу против кого-л.; хүн хүний санаа адилгүй каждый мыслит по-своему; чөлөөт санаа вольнодумство; санаа авах одуматься, опомниться; санаа авахуулах подсказать; рекомендовать; санаа авахуулах зохиолын цэс рекомендательный список литературы; санаа агуулах / санаа барих иметь намерение, стремление; таить в себе; замышлять, задумывать; санаа багатай неосторожный, легкомысленный; санаа байвч сачий хүрэхгүй үл.тоомс. видит око да зуб неймёт; таныг гомдоох санаа над огт байхгүй у меня и в мыслях нет желания вас обидеть; таныг хуурья гэсэн санаа надад огт байгаагүй у меня в уме не было никаких помыслов обманывать вас; санаа бодлого хорш. мысли, намерения; мнение; санаа бодол хорш. мнение; суждение; замысел; бие даасан санаа бодол самостоятельное суждение; ирээдүйн санаа бодлыг хэрэгжүүлэх реализация замыслов на будущее; нийт хүмүүсийн санаа бодол общий настрой, смысл всех высказываний; санаа бодлоо солилцох поделиться мыслями; санаа буцах отвернуться; санаа гаргах подать мысль; высказывать мнение, делать нарочно с умыслом; нийтийн үйл хэрэгт үнэн санаа гаргах честно относиться к общественному долгу; санаа гуйх просить совета; санаа дагах действовать согласно желанию кого-л., соглашаться; санаа зориг хорш. воля; ард түмний санаа зориг воля народа; санаа зорилго / санаа зорилт цель, намерение; санаа зөрөх быть различного мнения, расходиться во взглядах, рассориться; санаа муу бол заяа муу цэцэн., үгчил. коль душа скверна, то судьба плоха; худо тому, кто добра не делает никому; санаа муут яван хатна, сарьсан багваахай наранд хатна зүйр., үгчил. злой человек погибает со временем, летучая мышь погибает на солнце; ~ собаке собачья смерть; санаа нийлсэн солидарный; санаа нийлэх согласовать; солидаризироваться; илтгэгчтэй санаа нийлэх солидаризироваться с мнением докладчика; санаанд нийлүүлэх сообразоваться с мнением; санаа нь чинжүү, сахал нь туужуу зүйр., үгчил. душа, мысли как перец, борода как метла; ~ и по бороде неказистый, и по душе (мыслям) – недобрый; тэдний санаа нэг байгаа нь ажиглагдав между ними наблюдалось единомыслие; санаа нэгдсэн согласованный, солидарный; санаа нэгтэй заодно; санаа нэгтэй ажиллах действовать заодно; санаа олгуулах напоминать; санаа олох а) опомниться, приходить в себя; б) вспомнить, припомнить; санаа орох приходить к мысли; вспоминать, припоминать; санаа өдөх задумать, замыслить; предлагать, высказывать соображение; санаа сайтай добрый, добросердечный; санаа сайтын мөр цагаан, сааль сайтын хот цагаан зүйр. добрый человек в добре проживёт век; санаа санах задумать; санаа суух задумывать, замышлять; появляться (о мысли, намерении); санаа сүвэгчлэх вникать, быть внимательным; санаа сэтгэл хорш. мнения, мысли; интеллект; санаа сэтгэлийг алдагдуулах упасть во мнении, потерять авторитет, быть дискредитированным; санаа сэтгэлийн соёл / оюуны соёл духовная культура; санаа сэтгэлийн эрч чадал духовная, интеллектуальная энергия; санаа тавих относиться внимательно; заботиться, вникать, обращать внимание; задаваться мыслью; түлш бэлтгэхэд санаа тавих озаботиться заготовкой топлива; санаа тогтвортой уравновешанный, непоколебимый; санаа тохирох быть в согласии, единомыслии, приходить к соглашению; санаа төөрөлджээ мысли путаются; санаа төрөх рождаться (о мысли); приходить (об идее); подумать; санаа төрүүлэх наводить на мысль; санаа үзүүлэх выражать намерение; санаа үлдээх быть внимательным, осторожным; санааг бүртгэх выполнять задуманное; санааг тэжээх хуучир. предупреждать, выполнять желания родителей (о почтительном сыне); санааг хураах привлекать на свою сторону, переманивать, соблазнять; санаагаа хэлэх высказать свои думы, своё мнение; зохиогч санаагаа эх зохиолоос их хэмжээгээр иш татах замаар гаргажээ все свои мысли автор подтверждает цитатами из первоисточников; санаагаа хэлж амрах отвести душу; санаанаас авсан вымышленный, выдуманный; санаанаас гарахгүй помнить, не выпускать из головы; ийм бодол санаанаас гарахгүй байна Їта мысль сверлит голову; санаанаас зохиох создавать в воображении, мысленно представлять, фантазировать; санаанаас хурдан, заяанаас бэрх юмгүй зүйр., үгчил. нет ничего быстрее мысли и неумолимее судьбы; санаанаас цаашгүй хүн рыцарь печального образа; санаанаасаа авах / санаанаасаа авч хэлэх придумывать, брать с потолка; измышлять; 2) душевное состояние; настроение; үнэн санаанаасаа от всего сердца, от всей души; санаа агуу тавих успокаиваться; санаа алдах а) вздыхать, тяжело вздыхать (от заботы); б) падать духом; санаа амрах успокаиваться; за нэг санаа амрав яриа. с плеч долой (что); санаа амар беззаботность; бие тоож санаа амарлингуй байж болохгүй нельзя зазнаваться и самоуспокаиваться; санааг амраах успокаивать, успокоить; успокаиваться; санаа доройтох а) терять память, сознание; б) глупеть; санаа зовних / санаа зовох а) испытывать душевное беспокойство; беспокоиться; б) проявлять заботу о ком-л.; ирээдүйнхээ төлөө санаа зовох заботиться о своём будущем; санаа зовдог совестливый; та яасан санаа зовдоггүй хүн бэ? как вам не стыдно!; түүний төлөө бүү санаа зовогтун! не тревожьтесь о нём; санаа зоволтой сураг тревожные слухи; санаа зовон неспокойно; санаа зовоох беспокоить, тревожить, волновать; санаагий нь зовоох тревожить, беспокоить; стыдить, совестить; санаа эвдрэх а) терять доверие; б) изменить убеждение; в) сокрушаться, огорчаться.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ</unicode>
+      <cyrillic>САНААГААР</cyrillic>
+      <definition>санаа(н)-ы үйлдэх., сам, по своему желанию; по своей воле, по собственной инициативе; нэгэн санаагаар единодушно; өөрийн санаагаар по собственному побуждению; санаагаар болохгүй совершается наперекор желанию, делается, происходит не так, как хочется; санаагаар унах душевно страдать, печалиться; санаагаараа зохиох сочинять, придумывать самому; санаагаараа зохиосон явдал выдуманная история; сайн хүн санаагаараа ирэх хууч. лёгок на помине; сайн хүн санаагаараа, сайвар морь жороогоороо зүйр. хороший человек славен своей добротой, иноходец – своей иноходью.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ</unicode>
+      <cyrillic>САНААГҮЙ</cyrillic>
+      <definition>бессознательный, ненарочно, без умысла; огт санаагүй юм и в помыслах не было; хар санаагүй без злого умысла; хорон санаагүй беззлобный; юмыг зориуд санаагүй үйлдэх совершить что-нибудь без умысла.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ</unicode>
+      <cyrillic>САНААНД(АА)</cyrillic>
+      <definition>санаа(н)-ы ө.о., в мыслях; мысленно; санаанд авах обращать внимание, заботиться; санаанд нийлэх сообразоваться с мыслями; санаанд нь оруулах напомнить кому-л. о чём-л.; санаанд нь тааруулж в угоду кому-л.; санаанд огт ороогүй и в мыслях не было, и не подумал; санаанд орох приходить в голову или на память; вспоминать, припоминать; санаанд орсонгүй не обратил внимания; энэ миний санаанд таарахгүй байгаа юм Їто мне не по нутру; не по душе; санаанд тогтоцтой нравcтвенно устойчивый; санаанд яаж багтах вэ? мыслимое ли Їто дело?, мыслимо ли Їто?; энэ ч миний санаанд багтахгүй юм байна не могу себе Їтого представить; санаандаа агуулах держать в памяти, запоминать; санаандаа дүрслэх воображать; юу ч хэлэлгүй, чагнахын сайнаар чагнаж, санаандаа санаж, шанаандаа зууж явав он ничего не говорил, а только слушал и мотал себе на ус; санаандаа дүрсэлсэн воображаемый; санаанд нийцүүлэн угодить, угождать; санаандаа хүрэх добиться задуманного; добиться своего.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ</unicode>
+      <cyrillic>САНААНДГҮЙ</cyrillic>
+      <definition>отсутствующий в мыслях, неожиданный; случайный; санаандгүй байж байтал хүрээд ирэв приехал нежданно-негаданно; санаандгүй хийсэн случайный; санаандгүй хийсэн алдаа случайная ошибка; санаандгүй юм тохиолдов совершилось нечто неожиданное.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ</unicode>
+      <cyrillic>САНААНЫ</cyrillic>
+      <definition>санаа(н)-ы харьяал., мысленный; санааны гаднахи хуучир. непредвиденный, неожиданный; санааны дураар / санааны зоргоор самовольно; санааны зовлон, сэтгэлийн сэв словно камень на сердце; санааны зовлонгоос салах хэцүү от горя некуда деться; санааны мухарт байна яриа. лежит на душе; миний санааны мухарт нэг хүн байгаа юм у меня на примете есть один человек; санааны оролт хуучир. мысль, идея, понятие; оюун санааны баялаггүй бездуховный; оюун санааны доройтол духовное опустошение; сайн санааны угаас с открытой душой, с открытым сердцем; сайн санааны үүднээс с добрым намерением.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>санаа[н]</cyrillic>
+      <definition>Gedanke m, Idee f; Absicht f; Stimmung f; ~ авах auf einen Gedanken kommen; ~ авахуулах auf einen Gedanken bringen; ~ алдах seufzen; ~ амар ruhig, zufrieden (mit -д); ~ амрах sich beruhigen; ~ бодол Gedanke m; ~ бодол sein, sich beunruhigen (über -д); ~ сэтгэл Denken und Fühlen n; Gewissen n; ~ сэтгэлийн байдал Mentalität f; ~ тавих bedacht sein (auf etw. -д); ~ тɵрɵх eine Idee haben; гол ~ Hauptgesichtspunkt m; ~ их Ambition f; муу ~ Böswilligkeit f, Schlechtigkeit f; сайн ~ Gutmütigkeit f; үзэл ~ Pol Standpunkt m; хар ~ Mißgunst f, Bosheit f; цагаан ~ Herzensgüte f</definition>
+      <page>194</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠨᠠᠭ᠎ᠠ᠊ᠨ</unicode>
+      <cyrillic>санаа</cyrillic>
+      <definition>бодол, сэтгэж буй зүйл;санаа нэгт&lt;хорш&gt;; миний санаа бол: урьдаар барилгын нэг хэсгийг барья; санаагаа хэлэх;санаа муу бол заяа муу, самсаа муу бол хамар муу&lt;зүйр&gt;сайн хүн санаагаараа, сайвар морь жороогоороо&lt;зүйр&gt;.</definition>
+      <page>467</page>
+    </entry_item>
+  </entries>
+</entry>

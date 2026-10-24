@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q3305">
+  <head>
+    <unicode>ᠬᠠᠷᠠᠮᠯᠠᠬᠣ</unicode>
+    <transcript>qaramlaqu</transcript>
+    <transcript2>garamlago</transcript2>
+    <cyrillic>харамлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q3306</ref>
+    <ref>Q3307</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠷᠠᠮᠯᠠᠬᠣ</unicode>
+      <uighur>qaramlaqu</uighur>
+      <cyrillic>харамлах</cyrillic>
+      <transcript>XARAMLA-</transcript>
+      <definition>[= xaramna-] v.t. To be possessive or jealous about something</definition>
+      <page>934</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠤᠳᠤᠷ ᠢ ᠬᠠᠷᠠᠮᠯᠠᠬᠣ</unicode>
+          <transcript>sudur [i] --xu</transcript>
+          <definition> To be stingy with books, be unwilling to lend or share books.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠷᠠᠮᠯᠠᠬᠤ ~ ᠬᠠᠷᠠᠮᠨᠠᠬᠤ</unicode>
+      <definition>être avare, être mesquin, être intéressé; porter envie</definition>
+      <page>835</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠤᠳᠤᠷ ᠬᠠᠷᠠᠮᠯᠠᠬᠤ</unicode>
+          <definition>être avare pour les livres, prêter à contre coeur les livres</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠷᠠᠮᠯᠠᠬᠤ</unicode>
+      <cyrillic>харамлах</cyrillic>
+      <definition>〔动〕吝啬，吝惜，悭吝，小气，贪心：би чамд угүй 我对你是不吝嗇的.</definition>
+      <page>1310</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠷᠠᠮᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХАРАМЛАХ</cyrillic>
+      <definition>1. жалеть, скупиться, жадничать, скряжничать; чамд харамлахгүй для тебя не жалко; юу ч харамлахгүй ничуть не скупиться; сайн хүнээс бүү харамла, муу хүнд бүү хадгал зүйр., үгчил. для хорошего человека не скупись, для плохого не приберегай (не сберегай); харамласан юм хар нохойн аманд цэцэн., үгчил. что пожалеешь, то чёрная собака съест; ~ ни себе ни людям; 2. харамлахуй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠷᠠᠮᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХАРАМЛАХУЙ</cyrillic>
+      <definition>скупость. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>харамлах</cyrillic>
+      <definition>geizen, knausern (mit etw. -ыг); knauserig od kleinlich sein; би тугнд ~ ч үгүй ihm gegenüber werde ich nicht kleinlich sein</definition>
+      <page>294</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠷᠠᠮᠯᠠᠬᠤ</unicode>
+      <cyrillic>харамлах</cyrillic>
+      <definition>харам зан гаргах, юмандаа нэн шунах; ялимгүй юмыг харамлаад өгсөнгүй; би чамд харамлах ч үгүй; харамлавал, хар нохойн хоол болно.</definition>
+      <page>663</page>
+    </entry_item>
+  </entries>
+</entry>

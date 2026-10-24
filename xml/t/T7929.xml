@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T7929">
+  <head>
+    <transcript>tord</transcript>
+    <transcript2>dord</transcript2>
+    <cyrillic>торд</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠷᠳ</unicode>
+      <uighur>tord</uighur>
+      <transcript>TORD</transcript>
+      <page>825</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠣᠷᠳ ᠺᠢᠺᠦ = ᠲᠣᠷᠳ ᠭᠡᠺᠦ</unicode>
+          <transcript>-- kiky = -- geky</transcript>
+          <definition> Onomat. expression denoting a sound made by a hard object when hiting some other object; to crack</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠷᠳ ᠺᠢᠺᠦ</unicode>
+      <definition>siffler (une flèche).</definition>
+      <page>1895</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠷᠳ᠋</unicode>
+      <cyrillic>торд</cyrillic>
+      <definition>见 ~ ~ 嗒嗒嘚嘚地.</definition>
+      <page>1081</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ТОРД</cyrillic>
+      <definition>авиа.дуур. трд! (выражение звука от треска, лёгкого удара, бега, стремительного прыжка, вспышки огня и т.д.); торд гэх треснуть; шмыгнуть. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

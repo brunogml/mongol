@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3559">
+  <head>
+    <unicode>ᠵᠢᠷᠪᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>ǰirbaγanaqu</transcript>
+    <transcript2>yirbaganago</transcript2>
+    <cyrillic>жарваганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y3560</ref>
+    <ref>Y3564</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠷᠪᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>жарваганах</cyrillic>
+      <definition>〔动〕见 жаравганах.</definition>
+      <page>502</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠷᠪᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЖАРВАГАНАХ</cyrillic>
+      <definition>кривляться; кокетничать, строить глазки. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠷᠪᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>жаравганах</cyrillic>
+      <definition>1. жаравгар юмны үргэлжлэх хөдлөх;2. сэртэндэн аалигүйтэх.</definition>
+      <page>242</page>
+    </entry_item>
+  </entries>
+</entry>

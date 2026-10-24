@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B2143">
+  <head>
+    <unicode>ᠪᠢᠰᠢᠯᠭᠠᠰᠢ</unicode>
+    <transcript>bisilγasi</transcript>
+    <transcript2>bisilgasi</transcript2>
+    <cyrillic>бясалгаш</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠢᠰᠢᠯᠭᠠᠰᠢ</unicode>
+      <uighur>bisilγasi</uighur>
+      <cyrillic>бясалгаш</cyrillic>
+      <transcript>BISILΓASI</transcript>
+      <page>106</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠢᠰᠢᠯᠭᠠᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition>Unimaginable, unthinkable.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠢᠰᠢᠯᠭᠠᠰᠢ ᠦᠭᠡᠢ</unicode>
+      <definition>inimaginable,</definition>
+      <page>1135</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠢᠰᠢᠯᠭᠠᠰᠢ</unicode>
+      <cyrillic>БЯСАЛГАШГҮЙ</cyrillic>
+      <definition>невообразимый.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бясалгашгүй</cyrillic>
+      <definition>unausdenkbar, unvorstellbar</definition>
+      <page>70</page>
+    </entry_item>
+  </entries>
+</entry>

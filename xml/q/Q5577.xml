@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q5577">
+  <head>
+    <unicode>ᠬᠣᠯᠣᠨᠴᠠ</unicode>
+    <transcript>qulunča</transcript>
+    <transcript2>golonca</transcript2>
+    <cyrillic>хуланц</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠯᠣᠨᠴᠠ</unicode>
+      <uighur>qulonča</uighur>
+      <cyrillic>хуланц</cyrillic>
+      <transcript>XULUNCA</transcript>
+      <definition>n. Great-great-grandfather.</definition>
+      <page>985</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠯᠣᠨᠴᠠ ᠡᠪᠦᠭᠡ</unicode>
+          <transcript>-- ebyge</transcript>
+          <definition> Great-great-grandfather.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠯᠣᠨᠴᠠ ᠡᠮᠡᠭᠡ</unicode>
+          <transcript>-- emege</transcript>
+          <definition> Great-great-grandmother.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠯᠣᠨᠴᠠ ᠡᠪᠦᠺᠡᠨ</unicode>
+      <definition>bisayeul</definition>
+      <page>927</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠣᠯᠣᠨᠴᠠ</unicode>
+      <page>659</page>
+      <examples>
+        <example>
+          <uighur>qulunča ebüge</uighur>
+          <definition>n. Great-great grandfather</definition>
+        </example>
+        <example>
+          <uighur>qulunča emeke</uighur>
+          <definition>n. Great-great grandmother.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠯᠤᠨᠴᠠ</unicode>
+      <cyrillic>хуланц</cyrillic>
+      <definition>〔名〕高祖，高祖辈：~ өвөг 高祖父；~ эмэг 高祖母.</definition>
+      <page>1427</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠯᠣᠨᠴᠠ</unicode>
+      <cyrillic>ХУЛАНЦ</cyrillic>
+      <definition>прапрародитель; элэнц хуланц хорш. прапрародители; хуланц эх прапрабабушка; хуланц эцэг прапрадед. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хуланц</cyrillic>
+      <definition>Vorfahre m eines Grades; ~ өвгөн Ururgroßvater m; ~ эмгэн Ururgroßmutter f</definition>
+      <page>327</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠯᠤᠨᠴᠠ</unicode>
+      <cyrillic>хуланц</cyrillic>
+      <definition>элэнц өвөг эмгийн эцэг эх;элэнц хуланц&lt;хорш&gt;; хуланц өвөө; хуланц эмэг; хуланц эцэг; хуланц эх.</definition>
+      <page>726</page>
+    </entry_item>
+  </entries>
+</entry>

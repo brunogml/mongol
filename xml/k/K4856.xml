@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4856">
+  <head>
+    <unicode>ᠺᠥᠺᠵᠢᠮᠲᠥ</unicode>
+    <transcript>kögǰimtü</transcript>
+    <transcript2>gögcimdö</transcript2>
+    <cyrillic>хөгжимт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠭᠵᠢᠮᠲᠦ</unicode>
+      <cyrillic>хөгжимт</cyrillic>
+      <definition>〔形〕音乐的，乐曲的：улсын ~ театр 国家音乐剧院.</definition>
+      <page>1388</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠺᠵᠢᠮᠲᠥ</unicode>
+      <cyrillic>ХӨГЖИМТ</cyrillic>
+      <definition>имеющий музыку, музыкальный; улсын хөгжимт театр государственный музыкальный театр. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хөгжимт</cyrillic>
+      <definition>mit Musik; Musik-; ~ яруу ушилага Melodierezitation f</definition>
+      <page>316</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠭᠵᠢᠮᠲᠦ</unicode>
+      <cyrillic>хөгжимт</cyrillic>
+      <definition>хөгжим бүхий; улсын хөгжимт театр.</definition>
+      <page>704</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>K4847</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6458">
+  <head>
+    <unicode>ᠲᠣᠰᠢᠩᠲᠣᠬᠣ</unicode>
+    <transcript>tosingtuqu</transcript>
+    <transcript2>dosingdogo</transcript2>
+    <cyrillic>тошинтох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T6459</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠰᠢᠩᠲᠣᠬᠤ</unicode>
+      <cyrillic>тошинтох</cyrillic>
+      <definition>〔动〕出现淹凌水，产生淹凌水.</definition>
+      <page>1089</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠰᠢᠩᠲᠣᠬᠣ</unicode>
+      <cyrillic>ТОШИНТОХ</cyrillic>
+      <definition>тошигнох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠰᠢᠩᠲᠣᠬᠤ</unicode>
+      <cyrillic>тошинтох</cyrillic>
+      <definition>тошин гарах, тошин болох, тошинтой болох.</definition>
+      <page>548</page>
+    </entry_item>
+  </entries>
+</entry>

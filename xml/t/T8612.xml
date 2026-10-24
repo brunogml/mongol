@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8612">
+  <head>
+    <unicode>ᠳᠥᠲᠠᠴᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>dötečilegülkü</transcript>
+    <transcript2>dödecilegölgö</transcript2>
+    <cyrillic>дөтчилүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T8611</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠥᠲᠡᠴᠢᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дөтчилүүлэх</cyrillic>
+      <definition>〔动〕дөтчилөх 的使动态.</definition>
+      <page>432</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠥᠲᠠᠴᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ДӨТЧИЛҮҮЛЭХ</cyrillic>
+      <definition>дөтчилөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠥᠲᠡᠴᠢᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дөтчилүүлэх</cyrillic>
+      <definition>дөтчилөхийн үйлдүүлэх хэв.</definition>
+      <page>207</page>
+    </entry_item>
+  </entries>
+</entry>

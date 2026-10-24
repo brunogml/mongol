@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S1401">
+  <head>
+    <unicode>ᠰᠠᠮᠳᠠᠨ</unicode>
+    <transcript>samdan</transcript>
+    <transcript2>samdan</transcript2>
+    <cyrillic>самдан</cyrillic>
+  </head><see_also>
+    <ref>S1400</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠮᠳᠠᠨ</unicode>
+      <uighur>samdan</uighur>
+      <transcript>SAMDAN</transcript>
+      <page>667</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠮᠳᠠᠨ ᠥᠭᠡᠰᠢ</unicode>
+          <transcript>-- øgesi</transcript>
+          <definition> [Ko.], Floating net, drift-net.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠠᠮᠳᠠᠨ ᠦᠺᠡᠰᠢ</unicode>
+      <definition>filet avec des flottes,</definition>
+      <page>1319</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠮᠳᠠᠨ</unicode>
+      <cyrillic>САМДАН</cyrillic>
+      <definition>тө. созерцание. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

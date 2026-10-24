@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5389">
+  <head>
+    <unicode>ᠱᠣᠬᠰᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šoγsiγulqu</transcript>
+    <transcript2>sogsigolgo</transcript2>
+    <cyrillic>шогшуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S5388</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠱᠣᠬᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <definition>faire courir vite, de côté et d'autre</definition>
+      <page>1541</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠬᠰᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШОГШУУЛАХ</cyrillic>
+      <definition>шогших I-ийн үйлдүүл., пускать коня тихой рысью, трусить. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шогшуулах</cyrillic>
+      <definition>Kaus von шогших</definition>
+      <page>388</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠣᠭᠱᠣᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шогшуулах</cyrillic>
+      <definition>шогшихын үйлдүүлэх хэв, шогшиход хүрүүлэх.</definition>
+      <page>853</page>
+    </entry_item>
+  </entries>
+</entry>

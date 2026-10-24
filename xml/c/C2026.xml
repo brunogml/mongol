@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2026">
+  <head>
+    <unicode>ᠴᠢᠮᠺᠢᠢᠺᠥ</unicode>
+    <transcript>čimkiikü</transcript>
+    <transcript2>cimgiigö</transcript2>
+    <cyrillic>чимхийх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C2025</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠮᠬᠢᠬᠦ</unicode>
+      <cyrillic>чимхийх</cyrillic>
+      <definition>〔动〕一阵阵地刺痛.</definition>
+      <page>1588</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠮᠺᠢᠢᠺᠥ</unicode>
+      <cyrillic>ЧИМХИЙХ</cyrillic>
+      <definition>отдаваться болью, болеть, стрелять (при ощущении боли); хурууны өндөг чимхийв стрелять, отдавать в подушечки пальца. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чимхийх</cyrillic>
+      <definition>зwicken, zwacken, jucken, kribbeln; хурүүны өндөг чимхийв in den Fingerkuppen kribbelte es</definition>
+      <page>371</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠮᠬᠢᠺᠦᠴᠢᠮᠬᠢᠬᠦ</unicode>
+      <cyrillic>чимхийх</cyrillic>
+      <definition>хүний бие махбодын энд тэнд гэнт час час хийж өвдөх; хурууны өндөг чимхийв.</definition>
+      <page>818</page>
+    </entry_item>
+  </entries>
+</entry>

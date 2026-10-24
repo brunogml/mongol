@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="E1340">
+  <head>
+    <unicode>ᠡᠴᠡᠭᠡᠨ</unicode>
+    <transcript>ečegen</transcript>
+    <transcript2>ecegen</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠴᠠᠺᠠᠨ</unicode>
+      <uighur>ečegen</uighur>
+      <transcript>ECEGEN</transcript>
+      <definition>Suffix of the reflexive-possessive-ablative case.</definition>
+      <page>291</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠡᠷ ᠡᠴᠠᠺᠠᠨ</unicode>
+          <transcript>ger --</transcript>
+          <definition> From his own house.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠴᠡᠺᠡᠨ</unicode>
+      <definition>postposition possessive: de, depuis etc.</definition>
+      <page>222</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠭᠤᠷᠢᠨ᠎ᠠᠴᠠᠭᠠᠨ ᠪᠤᠰᠤᠭᠠᠳ</unicode>
+          <definition>se levant de son trône</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠠᠬᠰᠢ᠎ᠡᠴᠡᠺᠡᠨ ᠳᠠᠰᠠᠭᠤᠪᠠᠢ</unicode>
+          <definition>il demanda à son maître.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠪᠳᠠᠷᠬᠠᠨ᠎ᠡᠴᠡᠺᠡᠨ ᠰᠢᠺᠢᠷ ᠠᠪᠬᠤ</unicode>
+          <definition>prendre du sucre de son sac.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

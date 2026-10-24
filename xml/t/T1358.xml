@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1358">
+  <head>
+    <unicode>ᠲᠠᠰᠢᠯᠠᠬᠣ</unicode>
+    <transcript>tasilaqu</transcript>
+    <transcript2>dasilago</transcript2>
+    <cyrillic>ташлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1360</ref>
+    <ref>T1361a</ref>
+  </derivatives>
+  <see_also>
+    <ref>T1359</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠰᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>ташлах</cyrillic>
+      <definition>〔动〕排顺序，列名次.</definition>
+      <page>1044</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠰᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ТАШЛАХ</cyrillic>
+      <definition>хуучир. дагалдах-ыг үз., ташлан айлтгах бичиг копия с доклада государю, оставляемая в придворной канцелярии. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠰᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>ташлах</cyrillic>
+      <definition>цохолсон юмны дэс дэдэд орох, цохолсон тэр; ташилсан тэр.</definition>
+      <page>529</page>
+    </entry_item>
+  </entries>
+</entry>

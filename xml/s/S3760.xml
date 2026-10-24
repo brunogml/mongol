@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3760">
+  <head>
+    <unicode>ᠰᠢᠳᠢᠲᠠᠨ</unicode>
+    <transcript>siditen</transcript>
+    <transcript2>sididen</transcript2>
+    <cyrillic>шидтэн</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠳᠢᠲᠡᠨ</unicode>
+      <cyrillic>шидтэн</cyrillic>
+      <definition>〔名〕〈宗〉方士.</definition>
+      <page>1630</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠳᠢᠲᠠᠨ</unicode>
+      <cyrillic>ШИДТЭН</cyrillic>
+      <definition>волшебник, чародей, маг; волхв. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шидтэн</cyrillic>
+      <definition>Magier m, Zauberer m</definition>
+      <page>384</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠳᠢᠲᠡᠨ</unicode>
+      <cyrillic>шидтэн</cyrillic>
+      <definition>шид бүхий этгээд.</definition>
+      <page>844</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S3757</ref>
+  </related_to>
+</entry>

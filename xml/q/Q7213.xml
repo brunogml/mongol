@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q7213">
+  <head>
+    <unicode>ᠬᠣᠷᠳᠣᠪᠴᠢᠯᠠᠬᠣ</unicode>
+    <transcript>qurdubčilaqu</transcript>
+    <transcript2>gordobcilago</transcript2>
+    <cyrillic>хурдавчлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q7214</ref>
+    <ref>Q7217</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠷᠳᠣᠪᠴᠢᠯᠠᠬᠣ</unicode>
+      <uighur>qurdobčilaqu</uighur>
+      <cyrillic>хурдавчлах</cyrillic>
+      <transcript>XURDUBCILA-</transcript>
+      <definition>v. i. To hurry, hasten; to do something quickly.</definition>
+      <page>988</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠷᠳᠣᠪᠴᠢᠯᠠᠨ</unicode>
+          <transcript>--n </transcript>
+          <definition>Quickly, rapidly, hurriedly</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠷᠳᠣᠪᠴᠢᠯᠠᠨ ᠭᠦᠶᠢᠴᠡᠳᠺᠡᠺᠦ</unicode>
+          <transcript>--n gyicedkeky </transcript>
+          <definition>To perform or fulfill quickly or speedily</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠷᠳᠣᠪᠴᠢᠯᠠᠬᠤ</unicode>
+      <definition>faire qc. vite, se hâter, s'empresser</definition>
+      <page>970</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠷᠳᠤᠪᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>хурдавчлах</cyrillic>
+      <definition>〔动〕加快，加速；急忙，赶忙：хурдавчилсан алхам 加快的脚步；хурдавчилсан галт тэрэг 加快列车；хурдавчилсан марш 急行军，强行军；хурдавчилсан цэнэглэл 加急充电.</definition>
+      <page>1435</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠷᠳᠣᠪᠴᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХУРДАВЧЛАХ</cyrillic>
+      <definition>ускорять, форсировать, делать спешно, быстро идти, спешить; ажлаа хурдавчлах ускорить работу. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠷᠳᠣᠪᠴᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХУРДАВЧЛАН</cyrillic>
+      <definition>хурдавчлах-ын хамж., быстро, спешно; хурдавчлан гүйцэтгэх спешно выполнять. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠷᠳᠣᠪᠴᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХУРДАВЧИЛСАН</cyrillic>
+      <definition>скоростной; ускоренный; хурдавчилсан алхам ускоренный шаг; хурдавчилсан арга скоростной, ускоренный метод. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хурдавчлах</cyrillic>
+      <definition>beschleunigen, forcieren, schneller machen</definition>
+      <page>329</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠷᠳᠤᠪᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>хурдавчлах</cyrillic>
+      <definition>яаравчлах, түргэвчлэх; наад ажлаа хурдавчлах хэрэгтэй!</definition>
+      <page>732</page>
+    </entry_item>
+  </entries>
+</entry>

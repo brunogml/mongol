@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T4292">
+  <head>
+    <transcript>deget</transcript>
+    <transcript2>deged</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠡᠭᠡᠳ</unicode>
+      <uighur>teked</uighur>
+      <transcript>TEGED</transcript>
+      <definition>See tegeged.</definition>
+      <page>792</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠡᠺᠡᠳ ~ ᠳᠡᠺᠡᠳ</unicode>
+      <definition>beaucoup trop, plus qu&apos;il ne fait, outre cela</definition>
+      <page>1737</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <uighur>deked</uighur>
+      <definition>zu sehr, zu viel, über Mass und Ziel</definition>
+      <page>275</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <uighur>deked</uighur>
+      <definition>Too much, too many. Above the limit or bound. Above.</definition>
+      <page>1096</page>
+      <examples>
+        <example>
+          <uighur>deked üy-e</uighur>
+          <definition>n. Fore-fathers.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

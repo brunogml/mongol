@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T4883">
+  <head>
+    <unicode>ᠲᠠᠷᠪᠣᠮ</unicode>
+    <transcript>terbum</transcript>
+    <transcript2>derbom</transcript2>
+    <cyrillic>тэрбум</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠡᠷᠪᠤᠮ ~ ᠳᠢᠷ ᠪᠤᠮ</unicode>
+      <definition>un millier de millions.</definition>
+      <page>1773</page>
+      <examples>
+        <example>
+          <unicode>ᠶᠡᠺᠡ ᠳᠡᠷᠪᠤᠮ</unicode>
+          <definition>dix mille millions</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠷᠪᠣᠮ</unicode>
+      <uighur>derbüm</uighur>
+      <definition>tausend Millionen</definition>
+      <page>244</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠡᠷᠪᠤᠮ</unicode>
+      <cyrillic>тэрбум</cyrillic>
+      <definition>〔数〕十亿.</definition>
+      <page>1162</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠷᠪᠣᠮ</unicode>
+      <cyrillic>ТЭРБУМ</cyrillic>
+      <definition>миллиард, биллион. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тэрбум</cyrillic>
+      <definition>alt Milliarde f</definition>
+      <page>250</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠷᠪᠤᠮ</unicode>
+      <cyrillic>тэрбум</cyrillic>
+      <definition>арван оронтой тооны нэр.</definition>
+      <page>578</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3756">
+  <head>
+    <unicode>ᠴᠥᠺᠥᠴᠠᠯᠠᠺᠥ</unicode>
+    <transcript>čögüčelekü</transcript>
+    <transcript2>cögöcelegö</transcript2>
+    <cyrillic>цөгцлөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C3757</ref>
+    <ref>C3755</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠥᠺᠥᠴᠠᠯᠠᠺᠥ</unicode>
+      <cyrillic>ЦӨГЦЛӨХ</cyrillic>
+      <definition>I шашин. наливать в чашку масло, воду, класть жертвенные зёрна и т.п. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠥᠺᠥᠴᠠᠯᠠᠺᠥ</unicode>
+      <cyrillic>ЦӨГЦЛӨХ</cyrillic>
+      <definition>II появление, возникновение углубления на передних зубах лошади. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цөгцлөх</cyrillic>
+      <definition>Rel in einen Opferkelch od eine Opferschale legen</definition>
+      <page>358</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠥᠭᠥᠴᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>цөгцлөх /1</cyrillic>
+      <definition>юмыг цөгцөнд хийх.</definition>
+      <page>794</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠥᠭᠥᠴᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>цөгцлөх /2</cyrillic>
+      <definition>адууны шүдэнд цөгц бий болон тогтох.</definition>
+      <page>794</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>C3754</ref>
+  </related_to>
+</entry>

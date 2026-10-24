@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5006">
+  <head>
+    <unicode>ᠰᠣᠨᠳᠣᠣᠲᠠᠢ</unicode>
+    <transcript>sundoutai</transcript>
+    <transcript2>sondoodai</transcript2>
+    <cyrillic>сундуутай</cyrillic>
+  </head>
+  <see_also>
+    <ref>S5005</ref>
+    <ref>S5008</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠨᠳᠤᠤᠲᠠᠢ</unicode>
+      <cyrillic>сундуутай</cyrillic>
+      <definition>〔形〕有剌的，长剌的，有针的.</definition>
+      <page>962</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠨᠳᠣᠣᠲᠠᠢ</unicode>
+      <cyrillic>СУНДУУТАЙ</cyrillic>
+      <definition>имеющий шипы, с иглами, с шипами, колючий; сондуутай-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠨᠳᠤᠤᠲᠠᠢ</unicode>
+      <cyrillic>сундуутай</cyrillic>
+      <definition>сундуу бүхий.</definition>
+      <page>490</page>
+    </entry_item>
+  </entries>
+</entry>

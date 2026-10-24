@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A4101">
+  <head>
+    <unicode>ᠠᠷᠭᠠᠣᠰᠬᠠᠬᠣ</unicode>
+    <transcript>arγausqaqu</transcript>
+    <transcript2>argaosgago</transcript2>
+    <cyrillic>аргуусгах</cyrillic>
+  </head>
+  <see_also>
+    <ref>A4122</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠷᠭᠠᠣᠰᠬᠠᠬᠣ</unicode>
+      <cyrillic>АРГУУСГАХ</cyrillic>
+      <definition>аргуусах–ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠷᠭᠠᠤᠰᠬᠠᠬᠤ</unicode>
+      <cyrillic>аргуусгах</cyrillic>
+      <definition>аргуусгахын үйлдүүлэх хэв; аргуун болох.</definition>
+      <page>50</page>
+    </entry_item>
+  </entries>
+</entry>

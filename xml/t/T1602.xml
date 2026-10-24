@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1602">
+  <head>
+    <unicode>ᠲᠠᠲᠠᠷᠠᠬᠣ</unicode>
+    <transcript>tataraqu</transcript>
+    <transcript2>dadarago</transcript2>
+    <cyrillic>татрах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1603</ref>
+    <ref>T1604</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠲᠠᠷᠠᠬᠣ</unicode>
+      <uighur>tadaraqu</uighur>
+      <cyrillic>татрах</cyrillic>
+      <transcript>TATARA-</transcript>
+      <definition>v.i. To diminish, go down, subside (of water); to become thin, sparse, or shallow (cf. tataγura-)</definition>
+      <page>788</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠰᠤ ᠲᠠᠲᠠᠷᠠᠬᠣ</unicode>
+          <transcript>usu --xu</transcript>
+          <definition> Water recedes or subsides.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠳᠠᠷᠠᠬᠤ</unicode>
+      <definition>diminuer (l'eau, pendant le reflux).</definition>
+      <page>1628</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠲᠠᠷᠠᠬᠣ</unicode>
+      <uighur>dadaraqu</uighur>
+      <definition>das Zurücktreten des Wassers bei der Ebbe</definition>
+      <page>236</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠲᠠᠷᠠᠬᠣ</unicode>
+      <uighur>tadaraqu</uighur>
+      <definition>The falling or subsiding of water at ebb-tide.</definition>
+      <page>929</page>
+      <examples>
+        <example>
+          <uighur>tadaran Doeesiraqu</uighur>
+          <definition>To rage with madness. To behave oneself in an unruly way.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠲᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>татрах</cyrillic>
+      <definition>〔动〕减少，减退：гол татарч байна 河水正在减退；бороо ~ 雨量减少；хөл хөдөлгөөн ~ 行人减少；ус ~ 水减退；~гүй бөөлжилт 难制性呕吐；~даг булаг 间歇泉.</definition>
+      <page>1040</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠲᠠᠷᠠᠬᠣ</unicode>
+      <cyrillic>ТАТРАХ</cyrillic>
+      <definition>1) мелеть; гол татарч байна река мелеет; 2) убывать, спадать (о воде); 3) становљться немощным, слабеть, худеть. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>татрах</cyrillic>
+      <definition>Wasser verebben, weniger werden; sich senken, fallen; замын хɵдɵлгɵɵн татрав übertr der Verkehr ebbte ab</definition>
+      <page>223</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠲᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>татрах</cyrillic>
+      <definition>бага болох, ховор болох, багасах, хорогдох; сааль татрах; бороо татрах; хөл хөдөлгөөн татрах.</definition>
+      <page>527</page>
+    </entry_item>
+  </entries>
+</entry>

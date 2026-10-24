@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T8721">
+  <head>
+    <unicode>ᠲᠥᠯᠢᠶᠠ</unicode>
+    <transcript>tüliy-e</transcript>
+    <transcript2>döliy-e</transcript2>
+    <cyrillic>түлээ</cyrillic>
+  </head><see_also>
+    <ref>T8686</ref>
+  
+    <ref>T8722</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠦᠯᠢᠶ᠎ᠡ ~ ᠲᠦᠯᠢᠶᠡᠨ</unicode>
+      <uighur>tüliy-e - tüliyen</uighur>
+      <cyrillic>түлээ</cyrillic>
+      <definition>TYLIJ-E(N) [= tylege(n), tylige(n)] n. Firewood, kindling.</definition>
+      <page>852</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠦᠯᠢᠶ᠎ᠡ ᠲᠡᠭᠦᠭᠴᠢ</unicode>
+          <transcript>-- tegygci</transcript>
+          <definition> Firewood gatherer.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠦᠯᠢᠶ᠎ᠡ ᠬᠠᠭᠠᠯᠬᠤ</unicode>
+          <transcript>-- xaγalxu</transcript>
+          <definition> To split firewood or kindling.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠦᠯᠢᠶᠡᠨ ~ ᠳᠦᠯᠢᠶ᠎ᠡ</unicode>
+      <definition>bois et tout le combustible</definition>
+      <page>1918</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠦᠯᠢᠶ᠎ᠡ ᠬᠠᠭᠠᠯᠬᠤ</unicode>
+          <definition>couper le bois</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠦᠯᠢᠶ᠎ᠡ ᠳᠡᠭᠦᠭᠴᠢ</unicode>
+          <definition>celui qui rassemble le bois</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠦᠯᠢᠶ᠎ᠡ ᠳᠦᠯᠢᠺᠦ</unicode>
+          <definition>brûler le bois</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠦᠯᠢᠶ᠎ᠡ ᠴᠠᠪᠴᠢᠬᠤ</unicode>
+          <definition>couper le bois</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠢᠬᠠ ᠴᠢᠨᠠᠬᠤ ᠳᠦᠯᠢᠶᠡᠨ ᠢ ᠪᠡᠯᠡᠳᠪᠡᠢ</unicode>
+          <definition>il prépara le bois pour faire cuire la viande</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠥᠯᠢᠶᠠ</unicode>
+      <uighur>düliyen</uighur>
+      <definition>Brennholz und jedes andere Brennmaterial überhaupt</definition>
+      <page>260</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠥᠯᠢᠶᠠ</unicode>
+      <uighur>tüliyen</uighur>
+      <definition>n. Fuel, fire-wood</definition>
+      <page>1032</page>
+    </entry_item>
+  </entries>
+</entry>

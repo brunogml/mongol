@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2088">
+  <head>
+    <unicode>ᠪᠢᠨᠳᠥ</unicode>
+    <transcript>bindü</transcript>
+    <transcript2>bindö</transcript2>
+    <cyrillic>бинд</cyrillic>
+  </head>
+  <see_also>
+    <ref>B2088a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠢᠨᠳᠥ</unicode>
+      <uighur>bindü</uighur>
+      <transcript>BINDY</transcript>
+      <definition>See binty</definition>
+      <page>105</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠢᠨᠳᠤ</unicode>
+      <definition>rond, petit cercle à droite de lettres; anousvâra (dans. la langue sanskr.] : 2 zéro.</definition>
+      <page>1131</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠷᠤᠢ ᠎ᠶᠢᠨ ᠪᠢᠨᠳᠤ</unicode>
+          <definition>rond au dessus des lettres</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠢᠨᠳᠤ ᠲᠠᠯᠪᠢᠬᠤ</unicode>
+          <definition>mettre un rond au dessus des lettres, mettre un zéro</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠪᠢᠨᠳᠥ</unicode>
+      <uighur>bindu</uighur>
+      <definition>ein diakritisches Schriftzeichen, eine Null einem Buchstaben angehängt.</definition>
+      <page>107</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠢᠨᠳᠥ</unicode>
+      <cyrillic>БИНД</cyrillic>
+      <definition>хи. бинт I-ийг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бинд</cyrillic>
+      <definition>oval</definition>
+      <page>52</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠢᠨᠳᠦ</unicode>
+      <cyrillic>бинт /1</cyrillic>
+      <definition>"0" тэмдэг;1. тооны орныг эзлүүлэх хэмжигдэхүүн байхгүй гэсэн тэмдэг;2. бичигт балласан зүйлийг тойруулан олон бинт тавивал дахин тэнхрүүл гэсэн болно;3. хуучин бичигт олон юмыг дэс дараагаар тоочиход нэг бүрийн эхэнд ийм тэмдэг тавьдаг.</definition>
+      <page>84</page>
+    </entry_item>
+  </entries>
+</entry>

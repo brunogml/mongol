@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E0639">
+  <head>
+    <unicode>ᠡᠳᠡᠭᠡᠰᠢ</unicode>
+    <transcript>edegesi</transcript>
+    <transcript2>edegesi</transcript2>
+    <cyrillic>эдгэш</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠳᠠᠺᠠᠰᠢ</unicode>
+      <uighur>edegesi</uighur>
+      <cyrillic>эдгэш</cyrillic>
+      <transcript>EDEGESI</transcript>
+      <page>293</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠳᠠᠺᠠᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>--yget, </transcript>
+          <definition>Incurable, irremediable</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠳᠡᠺᠡᠰᠢ ᠦᠭᠡᠢ</unicode>
+      <definition>incurable, inguérissable, irrémédiable</definition>
+      <page>199</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠳᠠᠺᠠᠰᠢ</unicode>
+      <cyrillic>ЭДГЭШ</cyrillic>
+      <definition>эдгэрш-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠳᠠᠺᠠᠰᠢ</unicode>
+      <cyrillic>ЭДГЭШГҮЙ</cyrillic>
+      <definition>неизлечимый, безнадёжно больной; эдгэршгүй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠳᠡᠭᠡᠰᠢ</unicode>
+      <cyrillic>эдгэш</cyrillic>
+      <definition>эдгэрш.</definition>
+      <page>870</page>
+    </entry_item>
+  </entries>
+</entry>

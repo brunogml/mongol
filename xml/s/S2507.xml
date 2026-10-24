@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2507">
+  <head>
+    <unicode>ᠰᠠᠺᠥᠲᠠᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>segütegenegülkü</transcript>
+    <transcript2>segödegenegölgö</transcript2>
+    <cyrillic>сүүтгэнүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S2505</ref>
+  </related_to>
+  <see_also>
+    <ref>S2508</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠺᠥᠲᠠᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>СҮҮТГЭНҮҮЛЭХ</cyrillic>
+      <definition>сүүтгэнэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠭᠦᠲᠡᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сүүтэгнүүлэх</cyrillic>
+      <definition>сүүтэгнэхийн үйлдүүлэх хэв.</definition>
+      <page>498</page>
+    </entry_item>
+  </entries>
+</entry>

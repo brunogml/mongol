@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3819">
+  <head>
+    <unicode>ᠲᠠᠯᠠᠥᠯᠺᠥ</unicode>
+    <transcript>teleülkü</transcript>
+    <transcript2>deleölgö</transcript2>
+    <cyrillic>тэлүүлэх</cyrillic>
+  </head>
+  <see_also>
+    <ref>T3818</ref>
+    <ref>T3881</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠯᠠᠥᠯᠺᠥ</unicode>
+      <uighur>teleülkü - teleülekü</uighur>
+      <cyrillic>тэлүүлэх</cyrillic>
+      <transcript>TELEYL[E]-</transcript>
+      <definition>[cf. telegyl-, temegyl-] v.i. To try to pull or tear away, struggle oneself free; to strain or pull at a leash, chain, or reins; to strive hard towards a goal.</definition>
+      <page>798</page>
+      <examples>
+        <example>
+          <unicode>ᠶᠠᠪᠤᠬᠤ ᠭᠡᠵᠦ ᠲᠠᠯᠠᠥᠯᠳᠡᠭ ᠮᠣᠷᠢ</unicode>
+          <transcript>jabuxu gezy --deg mori</transcript>
+          <definition> A horse that always tries to break loose.</definition>
+        </example>
+        <example>
+          <unicode>ᠤᠶᠠᠭᠠᠲᠠᠢ ᠨᠣᠬᠠᠢ ᠲᠠᠯᠠᠥᠯᠵᠦ ᠪᠠᠶᠢᠨ᠎ᠠ</unicode>
+          <transcript>ujaγatai noxai --zy bain-a</transcript>
+          <definition> The leashed dog is trying to break loose.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠯᠡᠦᠯᠬᠦ</unicode>
+      <cyrillic>тэлүүлэх /1</cyrillic>
+      <definition>аливаа амьтны хорьсон барьсан, уясан зэргээс гарч явахыг завдалхийлан тэмүүлэх, зүтгэх.</definition>
+      <page>574</page>
+    </entry_item>
+  </entries>
+</entry>

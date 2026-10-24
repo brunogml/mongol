@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="E0865">
+  <head>
+    <unicode>ᠡᠯᠦᠨ</unicode>
+    <transcript>elün</transcript>
+    <transcript2>elön</transcript2>
+    <cyrillic>элэн</cyrillic>
+  </head><see_also>
+    <ref>E0753</ref>
+  
+    <ref>E0868</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠯᠥᠨ</unicode>
+      <uighur>elün</uighur>
+      <cyrillic>элэн</cyrillic>
+      <transcript>ELYN</transcript>
+      <page>310</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠯᠦᠨ ᠬᠤᠯᠤᠨ ᠪᠣᠯᠬᠤ</unicode>
+          <transcript>-- xulun bolxu</transcript>
+          <definition> To become deserted, empty, or qulet.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

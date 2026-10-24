@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7176">
+  <head>
+    <transcript>tomutqaqu</transcript>
+    <transcript2>domodgago</transcript2>
+    <cyrillic>томтгох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T7177</ref>
+    <ref>T7180</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠮᠣᠳᠬᠠᠬᠤ</unicode>
+      <cyrillic>томтгох</cyrillic>
+      <definition>〔动〕томтох 的使动态.</definition>
+      <page>1070</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ТОМТГОХ</cyrillic>
+      <definition>томтох-ын үйлдүүл., укрупнять, увелљчивать, делать крупным, большљм. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠮᠣᠳᠬᠠᠬᠤ</unicode>
+      <cyrillic>томтгох</cyrillic>
+      <definition>томтохын үйлдүүлэх хэв, улмаар том болгох, томсгох.</definition>
+      <page>539</page>
+    </entry_item>
+  </entries>
+</entry>

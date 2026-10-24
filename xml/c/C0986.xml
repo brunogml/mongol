@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C0986">
+  <head>
+    <unicode>ᠴᠠᠯᠪᠠᠩ</unicode>
+    <transcript>čelbeng</transcript>
+    <transcript2>celbeng</transcript2>
+    <cyrillic>цэлбэн</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠯᠪᠠᠩ</unicode>
+      <uighur>čelbeng</uighur>
+      <cyrillic>цэлбэн</cyrillic>
+      <transcript>CELBENG</transcript>
+      <page>171</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠠᠯᠪᠠᠩ ᠴᠠᠭᠠᠨ</unicode>
+          <transcript>-- caγan</transcript>
+          <definition> White as snow.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠡᠯᠪᠡᠩ</unicode>
+      <definition>blanc comme la neige.</definition>
+      <page>2120</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠯᠪᠡᠩ</unicode>
+      <cyrillic>цэлбэн</cyrillic>
+      <definition>见 ~ цагаан 雪白的，白皑皑的.</definition>
+      <page>1562</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠯᠪᠠᠩ</unicode>
+      <cyrillic>ЦЭЛБЭН(Г)</cyrillic>
+      <definition>: цэлбэн цагаан белоснежный. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

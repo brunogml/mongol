@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7123">
+  <head>
+    <unicode>ᠲᠣᠮᠢᠶᠠᠯᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>tomiyalaγdaqu</transcript>
+    <transcript2>domiyalagdago</transcript2>
+    <cyrillic>томъёологдох</cyrillic>
+  </head>
+  <related_to>
+    <ref>T7121</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠮᠢᠶᠠᠯᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТОМЪЁОЛОГДОХ</cyrillic>
+      <definition>томъёлох-ын үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠮᠢᠶᠠᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>томьёологдох</cyrillic>
+      <definition>томьёолохын үйлдэгдэх хэв.</definition>
+      <page>540</page>
+    </entry_item>
+  </entries>
+</entry>

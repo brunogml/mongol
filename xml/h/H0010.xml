@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="H0010">
+  <head>
+    <transcript>hlortu</transcript>
+    <transcript2>hlordo</transcript2>
+    <cyrillic>хлорт</cyrillic>
+  </head>
+  <see_also>
+    <ref>H0008</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠯᠣᠷᠲᠤ</unicode>
+      <cyrillic>хлорт</cyrillic>
+      <definition>〔形〕〈化〉氯的，氯化的，氯气的：~ кальц 氯化钙.</definition>
+      <page>1344</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ХЛОРТ</cyrillic>
+      <definition>хлористый; хлорт кальци хлористый кальций. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хлорт,</cyrillic>
+      <definition>хлортой Chlor-; chlorhaltig; ~ кальц Chem Kalziumchlorid n</definition>
+      <page>304</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠾᠯᠣᠷᠲᠤ</unicode>
+      <cyrillic>хлорт</cyrillic>
+      <definition>хлор бүхий, хлортой; хлорт кальц.</definition>
+      <page>680</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6020">
+  <head>
+    <unicode>ᠱᠣᠮᠪᠣᠶᠢᠬᠣ</unicode>
+    <transcript>šombuyiqu</transcript>
+    <transcript2>somboyigo</transcript2>
+    <cyrillic>шомбойх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6022</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠣᠮᠪᠣᠢᠬᠤ</unicode>
+      <cyrillic>шомбойх</cyrillic>
+      <definition>〔动〕变细高.</definition>
+      <page>1647</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠮᠪᠣᠶᠢᠬᠣ</unicode>
+      <cyrillic>ШОМБОЙХ</cyrillic>
+      <definition>вытягиваться, становиться продолговатым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шомбойх</cyrillic>
+      <definition>kegelförmig werden, sich nach oben verjüngen</definition>
+      <page>389</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠣᠮᠪᠣᠢᠬᠤ</unicode>
+      <cyrillic>шомбойх</cyrillic>
+      <definition>шомбогор байдалтай болох.</definition>
+      <page>853</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T4781">
+  <head>
+    <unicode>ᠲᠠᠶᠢᠴᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>teyičilegülkü</transcript>
+    <transcript2>deyicilegölgö</transcript2>
+    <cyrillic>тийчлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T4780</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠡᠢᠴᠢᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>тийчлүүлэх</cyrillic>
+      <definition>〔动〕тийчлэх 的使动态.</definition>
+      <page>1049</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠶᠢᠴᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ТИЙЧЛҮҮЛЭХ</cyrillic>
+      <definition>тийчлэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠢᠴᠢᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>тийчлүүлэх</cyrillic>
+      <definition>тийчлэхийн үйлдүүлэх хэв.</definition>
+      <page>531</page>
+    </entry_item>
+  </entries>
+</entry>

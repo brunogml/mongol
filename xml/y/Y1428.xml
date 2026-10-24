@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1428">
+  <head>
+    <unicode>ᠵᠠᠮᠪᠢᠯᠵᠠᠬᠣ</unicode>
+    <transcript>ǰambilǰaqu</transcript>
+    <transcript2>yambilcago</transcript2>
+    <cyrillic>жамбилзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1429</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠮᠪᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>жамбилзах</cyrillic>
+      <definition>〔动〕参见 жамбиганах.</definition>
+      <page>501</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠮᠪᠢᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ЖАМБИЛЗАХ</cyrillic>
+      <definition>поджимать губы; кокетничать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠮᠪᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>жамбилзах</cyrillic>
+      <definition>жамбигар юмны байн байн хөдлөх.</definition>
+      <page>241</page>
+    </entry_item>
+  </entries>
+</entry>

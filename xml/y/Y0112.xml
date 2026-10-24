@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0112">
+  <head>
+    <unicode>ᠵᠠᠩᠬᠠᠭᠠᠷᠳᠠᠬᠣ</unicode>
+    <transcript>ǰangqaγardaqu</transcript>
+    <transcript2>yanggagardago</transcript2>
+    <cyrillic>занхгардах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y0114</ref>
+    <ref>Y0115</ref>
+  </derivatives>
+  <see_also>
+    <ref>Y0113</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠩᠬᠠᠭᠠᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>занхгардах</cyrillic>
+      <definition>〔动〕脑袋显得特大.</definition>
+      <page>545</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠩᠬᠠᠭᠠᠷᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЗАНХГАРДАХ</cyrillic>
+      <definition>быть слишком большеголовым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠩᠬᠠᠭᠠᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>занхгардах</cyrillic>
+      <definition>хэтэрхий занхгар болох.</definition>
+      <page>267</page>
+    </entry_item>
+  </entries>
+</entry>

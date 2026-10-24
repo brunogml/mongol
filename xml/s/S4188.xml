@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4188">
+  <head>
+    <unicode>ᠰᠢᠵᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>siǰaγanaγulqu</transcript>
+    <transcript2>sicaganagolgo</transcript2>
+    <cyrillic>шазгануулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S4187</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠵᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шазгануулах</cyrillic>
+      <definition>〔动〕шазганах 的使动态.</definition>
+      <page>1609</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠵᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАЗГАНУУЛАХ</cyrillic>
+      <definition>шазганах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠵᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шазгануулах</cyrillic>
+      <definition>шазганахын үйлдүүлэх хэв.</definition>
+      <page>831</page>
+    </entry_item>
+  </entries>
+</entry>

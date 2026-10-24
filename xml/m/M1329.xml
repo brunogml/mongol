@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1329">
+  <head>
+    <unicode>ᠮᠢᠨᠴᠢᠷᠠᠺᠥ</unicode>
+    <transcript>minčirekü</transcript>
+    <transcript2>minciregö</transcript2>
+    <cyrillic>минчрэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M1330</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠢᠨᠴᠦᠷᠡᠬᠦ</unicode>
+      <cyrillic>минчрэх</cyrillic>
+      <definition>〔动〕麻木，胀麻：гар хөл ~ эд байна 手脚都麻木了.</definition>
+      <page>674</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠢᠨᠴᠢᠷᠠᠺᠥ</unicode>
+      <cyrillic>МИНЧРЭХ</cyrillic>
+      <definition>минчийх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠢᠨᠴᠦᠷᠡᠬᠦ</unicode>
+      <cyrillic>минчрэх</cyrillic>
+      <definition>мэнэрэх, чилэх; гар хөл минчрээд байна.</definition>
+      <page>337</page>
+    </entry_item>
+  </entries>
+</entry>

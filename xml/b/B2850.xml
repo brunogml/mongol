@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2850">
+  <head>
+    <unicode>ᠪᠣᠬᠳᠣᠭᠣᠷ</unicode>
+    <transcript>buγduγur</transcript>
+    <transcript2>bogdogor</transcript2>
+    <cyrillic>бугдгар</cyrillic>
+  </head>
+  <see_also>
+    <ref>B2849</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠤᠭᠳᠤᠭᠠᠷ</unicode>
+      <cyrillic>бугдгар</cyrillic>
+      <definition>〔形〕四肢蜷缩的，收缩的，龟缩的.</definition>
+      <page>195</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠬᠳᠣᠭᠣᠷ</unicode>
+      <cyrillic>БУГДГАР</cyrillic>
+      <definition>сгорбившийся, горбатый.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠭᠳᠠᠭᠠᠷ</unicode>
+      <cyrillic>бугдгар</cyrillic>
+      <definition>бугдайсан юм.</definition>
+      <page>102</page>
+    </entry_item>
+  </entries>
+</entry>

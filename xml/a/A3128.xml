@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A3128">
+  <head>
+    <unicode>ᠠᠮᠳᠣᠭᠣ</unicode>
+    <transcript>amduγu</transcript>
+    <transcript2>amdogo</transcript2>
+    <cyrillic>амдуу</cyrillic>
+  </head>
+  <see_also>
+    <ref>A2783</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠮᠳᠣᠭᠤ</unicode>
+      <definition>à peine, avec grand effort, avec contrainte</definition>
+      <page>116</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠮᠳᠤᠭᠤ ᠠᠮᠳᠢᠭᠤ ᠪᠣᠯᠪᠠ</unicode>
+          <definition>peu s'en fallut qu'il n'y eut assez</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠮᠳᠤᠭᠤ</unicode>
+      <cyrillic>амдуу</cyrillic>
+      <definition>〔形〕轻率卤莽的，粗心大意的.</definition>
+      <page>50</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠮᠳᠤᠭᠤ</unicode>
+      <cyrillic>амдуу</cyrillic>
+      <definition>хуумгай мөчид.</definition>
+      <page>38</page>
+    </entry_item>
+  </entries>
+</entry>

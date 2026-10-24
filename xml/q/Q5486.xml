@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q5486">
+  <head>
+    <unicode>ᠭᠣᠯᠠᠳᠬᠣ</unicode>
+    <transcript>γuladqu</transcript>
+    <transcript2>goladgo</transcript2>
+    <cyrillic>гулдах</cyrillic>
+  </head>
+  <see_also>
+    <ref>Q5526</ref>
+    <ref>Q5485</ref>
+    <ref>Q5487</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠣᠯᠠᠳᠬᠣ</unicode>
+      <uighur>γuladqu</uighur>
+      <cyrillic>гулдах</cyrillic>
+      <transcript>ΓULAD-</transcript>
+      <definition>[= γulid-, γulud-] v.i. To roll or tumble down, fall down a precipice, precipitate.</definition>
+      <page>366</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠣᠯᠠᠳᠴᠤ ᠦᠺᠦᠺᠦ</unicode>
+          <transcript>--cu ykyky</transcript>
+          <definition> To roll into an abyss and die.</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠣᠯᠠᠳᠤᠨ ᠤᠨᠠᠬᠤ</unicode>
+          <transcript>--un unaxu</transcript>
+          <definition> To fall into an abyss.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠤᠯᠠᠳᠬᠤ ~ ᠭᠤᠯᠢᠳᠬᠤ</unicode>
+      <definition>rouler de haut en bas , se précipiter, tomber du sommet de la montagne dans le précipice , dégringoler.</definition>
+      <page>1031</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠤᠯᠠᠳᠤᠨ ᠤᠨᠠᠨ ᠢᠷᠡᠪᠡ</unicode>
+          <definition>il est tombé du sommet de la montagne dans le précipice</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠤᠯᠠᠳᠬᠤ</unicode>
+      <cyrillic>гултах</cyrillic>
+      <definition>халил буюу халтираа газар, гулсах, гултарих, тэшин унах.</definition>
+      <page>158</page>
+    </entry_item>
+  </entries>
+</entry>

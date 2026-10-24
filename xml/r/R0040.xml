@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="R0040">
+  <head>
+    <transcript>redaktorlaγulqu</transcript>
+    <transcript2>redagdorlagolgo</transcript2>
+    <cyrillic>редакторлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>R0039</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠷᠧᠳᠠᠺᠲ᠋ᠣᠷᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>редакторлуулах</cyrillic>
+      <definition>〔动〕редакторлох 的使动态.</definition>
+      <page>885</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>РЕДАКТОРЛУУЛАХ</cyrillic>
+      <definition>редакторлах-ын үйлдүүл., отдать на редактљрование. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠷᠧᠳᠠᠺᠲ᠋ᠣᠷᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>редакторлуулах</cyrillic>
+      <definition>редакторлохын үйлдүүлэх хэв.</definition>
+      <page>455</page>
+    </entry_item>
+  </entries>
+</entry>

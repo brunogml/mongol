@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0658">
+  <head>
+    <unicode>ᠳᠠᠬᠣ</unicode>
+    <transcript>daqu</transcript>
+    <transcript2>dago</transcript2>
+    <cyrillic>дах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T0755</ref>
+  </derivatives>
+  <see_also>
+    <ref>T0657</ref>
+    <ref>T0659</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠠᠬᠣ</unicode>
+      <uighur>daqu</uighur>
+      <cyrillic>дах</cyrillic>
+      <transcript>DAXU</transcript>
+      <definition>n. Coat with fur outside.</definition>
+      <page>237</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠬᠤ</unicode>
+      <definition>fourrure retournée à l'envers.</definition>
+      <page>1570</page>
+      <examples>
+        <example>
+          <unicode>ᠢᠮᠠᠭᠠᠨ ᠳᠠᠬᠤ</unicode>
+          <definition>fourrure de chèvre</definition>
+        </example>
+        <example>
+          <unicode>ᠦᠨᠡᠭᠡᠨ ᠳᠠᠬᠤ</unicode>
+          <definition>fourrure de renard</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠨᠢᠨ ᠳᠠᠬᠤ</unicode>
+          <definition>fourrure de mouton</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠢᠨᠤ᠎ᠠ ᠳᠠᠬᠤ</unicode>
+          <definition>fourrure de loup</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠳᠠᠬᠣ</unicode>
+      <uighur>daqu</uighur>
+      <definition>ein umgekehrter Pelz mit auswendiger Haarseite</definition>
+      <page>266</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠳᠠᠬᠣ</unicode>
+      <uighur>daqu</uighur>
+      <definition>A goat-skin-coat turned inside out</definition>
+      <page>1058</page>
+      <examples>
+        <example>
+          <uighur>daqu üsü</uighur>
+          <definition>Smooth well-combed hair.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠬᠤ</unicode>
+      <cyrillic>дах</cyrillic>
+      <definition>〔名〕①翻毛光板皮衣；②皮外套.</definition>
+      <page>401</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠬᠣ</unicode>
+      <cyrillic>ДАХ</cyrillic>
+      <definition>доха; меховая шуба; дааган дах доха из жеребячьей шкуры, жеребка; чонон дах доха из волчьей шкуры; ямаан дах козья доха, шуба из козьих шкур. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дах[ан]</cyrillic>
+      <definition>Pelzmantel m</definition>
+      <page>93</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠬᠤ᠊ᠨ</unicode>
+      <cyrillic>дах</cyrillic>
+      <definition>хүйтний цагт хувцасны дээрээс үсий нь гадагш нь харуулан өмсөх хувцас; ямаан дах; чонон дах; даарахад дах эрдэнэ.</definition>
+      <page>192</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1855">
+  <head>
+    <unicode>ᠨᠢᠶᠠᠨ</unicode>
+    <transcript>niyan</transcript>
+    <transcript2>niyan</transcript2>
+    <cyrillic>нян</cyrillic>
+  </head>
+  <see_also>
+    <ref>N1332</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠨᠢᠶᠠᠨ</unicode>
+      <uighur>niyan</uighur>
+      <cyrillic>нян</cyrillic>
+      <transcript>NIJAN</transcript>
+      <definition>n. Infection; epidemic.</definition>
+      <page>583</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠢᠶᠠᠨ ᠡᠪᠡᠳᠴᠢᠨ</unicode>
+          <transcript>-- [ebedcin] </transcript>
+          <definition> Epidemic, pestilence.</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠢᠶᠠᠨ ᠬᠣᠷᠤᠬᠠᠢ</unicode>
+          <transcript>-- xoruxai</transcript>
+          <definition> Bacteria</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠨᠢᠶᠠᠨ ᠡᠪᠡᠳᠴᠢᠨ</unicode>
+      <definition>peste, épidémie</definition>
+      <page>666</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠢᠶᠠᠨ</unicode>
+      <cyrillic>нян</cyrillic>
+      <definition>〔名〕〈生〉细菌；霉菌.</definition>
+      <page>783</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠢᠶᠠᠨ</unicode>
+      <cyrillic>нян</cyrillic>
+      <definition>анх төрмөл бичил махбод, гагцхүү бичил дуранд үзэгдэнэ.</definition>
+      <page>403</page>
+    </entry_item>
+  </entries>
+</entry>

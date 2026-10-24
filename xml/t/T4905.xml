@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T4905">
+  <head>
+    <unicode>ᠳᠠᠷᠳᠠᠯᠵᠠᠺᠥ</unicode>
+    <transcript>derdelǰekü</transcript>
+    <transcript2>derdelcegö</transcript2>
+    <cyrillic>дэрдэлзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T4906</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠡᠷᠳᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>дэрдэлзэх</cyrillic>
+      <definition>〔动〕参见 дэрдэгнэх.</definition>
+      <page>476</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠷᠳᠠᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>ДЭРДЭЛЗЭХ</cyrillic>
+      <definition>дэрдгэнэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠷᠳᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>дэрдэлзэх</cyrillic>
+      <definition>дэрдгэр юмны дэрдэс дэрдэс хөдлөх.</definition>
+      <page>229</page>
+    </entry_item>
+  </entries>
+</entry>

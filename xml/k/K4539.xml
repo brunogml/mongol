@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4539">
+  <head>
+    <unicode>ᠺᠥᠺᠡᠪᠥᠷᠯᠡᠺᠥ</unicode>
+    <transcript>kögebürlekü</transcript>
+    <transcript2>gögebörlegö</transcript2>
+    <cyrillic>хөөвөрлөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K4540</ref>
+    <ref>K4538</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠭᠡᠪᠦᠷᠯᠡᠬᠦ</unicode>
+      <cyrillic>хөөвөрлөх</cyrillic>
+      <definition>〔动〕收（牲畜脱下的）毛绒，剪毛绒.</definition>
+      <page>1403</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠺᠡᠪᠥᠷᠯᠡᠺᠥ</unicode>
+      <cyrillic>ХӨӨВӨРЛӨХ</cyrillic>
+      <definition>снимать отросшую шерсть (у коров). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠭᠡᠪᠦᠷᠯᠡᠬᠦ</unicode>
+      <cyrillic>хөөвөрлөх</cyrillic>
+      <definition>хөөврийг авах; адуу хөөвөрлөх; ямаа хөөвөрлөх.</definition>
+      <page>713</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4586">
+  <head>
+    <unicode>ᠪᠥᠮᠪᠥᠷᠳᠠᠺᠥ</unicode>
+    <transcript>bömbürdekü</transcript>
+    <transcript2>bömbördegö</transcript2>
+    <cyrillic>бөмбөрдөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>X0381</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠮᠪᠥᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>бөмбөрдөх</cyrillic>
+      <definition>〔动〕击鼓，敲鼓.</definition>
+      <page>187</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠮᠪᠥᠷᠳᠠᠺᠥ</unicode>
+      <cyrillic>БӨМБӨРДӨХ</cyrillic>
+      <definition>барабанить, бить в барабан.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бөмбөрдөх</cyrillic>
+      <definition>trommeln</definition>
+      <page>58</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠥᠮᠪᠥᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>бөмбөрдөх</cyrillic>
+      <definition>бөмбөр хөгжим цохих.</definition>
+      <page>98</page>
+    </entry_item>
+  </entries>
+</entry>

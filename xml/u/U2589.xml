@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2589">
+  <head>
+    <unicode>ᠣᠷᠢᠲᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>uritaγulqu</transcript>
+    <transcript2>oridagolgo</transcript2>
+    <cyrillic>урьтуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U2587</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠷᠢᠲᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>урьтуулах</cyrillic>
+      <definition>〔动〕урьтах /1 的使动态.</definition>
+      <page>1206</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠷᠢᠲᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>УРЬТУУЛАХ</cyrillic>
+      <definition>урьтах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠷᠢᠲᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>урьтуулах</cyrillic>
+      <definition>урьтахын үйлдүүлэх хэв.</definition>
+      <page>601</page>
+    </entry_item>
+  </entries>
+</entry>

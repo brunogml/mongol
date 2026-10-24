@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1801">
+  <head>
+    <unicode>ᠥᠶᠥᠺᠠᠳᠠᠺᠥ</unicode>
+    <transcript>öyögedekü</transcript>
+    <transcript2>öyögedegö</transcript2>
+    <cyrillic>өеөдөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>O1803</ref>
+    <ref>O1800</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠶᠥᠭᠡᠳᠡᠬᠦ</unicode>
+      <cyrillic>өеөдөх</cyrillic>
+      <definition>〔动〕①倾斜度过大，变得太徒斜；②倾倒：орон дээрээсээ ~жунав 从床上倒下来；（动物瘦弱走不动而）跌倒，瘫倒，倾倒：хурга өеөдөөд уначихав 小羊羔跌倒在地上.</definition>
+      <page>838</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠶᠥᠺᠠᠳᠠᠺᠥ</unicode>
+      <cyrillic>ӨЕӨДӨХ</cyrillic>
+      <definition>быть не в состоянии встать; быть слабым; залеживаться; падать, свалиться (о скотине). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠶᠥᠭᠡᠳᠡᠬᠦ</unicode>
+      <cyrillic>өеөдөх /1</cyrillic>
+      <definition>хэтэрхий өеө болох.</definition>
+      <page>433</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠶᠥᠭᠡᠳᠡᠬᠦ</unicode>
+      <cyrillic>өеөдөх /2</cyrillic>
+      <definition>1. хэелэн ойчих, хазгай газар хэелэн ойчод авд босч чадахгүй байх; би орон дээрээсээ өеөдөж унав;2. амьтны туранхайлан ядрах зэргээр хөдөлж ядах, байн байн унах болох; хурга өеөдөөд уначихав.</definition>
+      <page>433</page>
+    </entry_item>
+  </entries>
+</entry>

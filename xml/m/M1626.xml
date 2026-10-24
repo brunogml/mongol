@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1626">
+  <head>
+    <unicode>ᠮᠣᠩᠬᠠᠬᠲᠣᠬᠣ</unicode>
+    <transcript>mungqaγtuqu</transcript>
+    <transcript2>monggagdogo</transcript2>
+    <cyrillic>мунхагтах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M1627</ref>
+    <ref>M1628</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠤᠩᠬᠠᠭᠲᠤᠬᠤ</unicode>
+      <cyrillic>мунхагтах</cyrillic>
+      <definition>〔动〕参见 мунхаглах.</definition>
+      <page>695</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠩᠬᠠᠬᠲᠣᠬᠣ</unicode>
+      <cyrillic>МУНХАГТАХ</cyrillic>
+      <definition>проявлять глупость, невежество. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠤᠩᠬᠠᠭᠲᠤᠬᠤ</unicode>
+      <cyrillic>мунхагтах</cyrillic>
+      <definition>мунхаг байдал гаргах.</definition>
+      <page>350</page>
+    </entry_item>
+  </entries>
+</entry>

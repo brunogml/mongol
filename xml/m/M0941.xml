@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0941">
+  <head>
+    <unicode>ᠮᠠᠩᠺᠠᠷᠰᠢᠺᠥ</unicode>
+    <transcript>menggersikü</transcript>
+    <transcript2>menggersigö</transcript2>
+    <cyrillic>мэнгэрших</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠡᠩᠭᠡᠷᠰᠢᠬᠦ</unicode>
+      <cyrillic>мэнгэрших</cyrillic>
+      <definition>〔动〕〈医〉渐染慢性支气管炎.</definition>
+      <page>705</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠩᠺᠠᠷᠰᠢᠺᠥ</unicode>
+      <cyrillic>МЭНГЭРШИХ</cyrillic>
+      <definition>становиться бронхиальным больным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠡᠩᠭᠡᠷᠰᠢᠬᠦ</unicode>
+      <cyrillic>мэнгэрших</cyrillic>
+      <definition>мэнгэр тогтох шинжтэй болох.</definition>
+      <page>355</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>M0940</ref>
+  </related_to>
+</entry>

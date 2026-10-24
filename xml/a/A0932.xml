@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A0932">
+  <head>
+    <unicode>ᠠᠭᠣᠵᠢᠮᠰᠢᠬ</unicode>
+    <transcript>aγuǰimsiq</transcript>
+    <transcript2>agocimsig</transcript2>
+    <cyrillic>уужимшиг</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠭᠣᠵᠢᠮᠰᠢᠬ</unicode>
+      <cyrillic>уужимшиг</cyrillic>
+      <definition>〔形〕参见 уужимхан.</definition>
+      <page>1212</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠣᠵᠢᠮᠰᠢᠬ</unicode>
+      <cyrillic>УУЖИМШИГ</cyrillic>
+      <definition>широчайший, просторнейший. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠭᠤᠵᠢᠮᠰᠢᠭ</unicode>
+      <cyrillic>уужимшиг</cyrillic>
+      <definition>арай уужим, уужим мэт.</definition>
+      <page>605</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>A0928</ref>
+  </related_to>
+</entry>

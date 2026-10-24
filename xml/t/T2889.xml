@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2889">
+  <head>
+    <unicode>ᠳᠠᠷᠪᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>darbiγulqu</transcript>
+    <transcript2>darbigolgo</transcript2>
+    <cyrillic>дарвиулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T2888</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠷᠪᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дарвиулах</cyrillic>
+      <definition>〔动〕дарвих 的使动态.</definition>
+      <page>395</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠷᠪᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДАРВИУЛАХ</cyrillic>
+      <definition>дарвих-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дарвиулах</cyrillic>
+      <definition>Kaus von дарвих</definition>
+      <page>92</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠷᠪᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дарвиулах</cyrillic>
+      <definition>дарвихын үйлдүүлэх хэв.</definition>
+      <page>190</page>
+    </entry_item>
+  </entries>
+</entry>

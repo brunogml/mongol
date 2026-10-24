@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y4178">
+  <head>
+    <unicode>ᠵᠣᠰᠣᠲᠣ</unicode>
+    <transcript>ǰosutu</transcript>
+    <transcript2>yosodo</transcript2>
+    <cyrillic>зост</cyrillic>
+  </head>
+  <see_also>
+    <ref>Y4179</ref>
+    <ref>Y4174</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠣᠰᠣᠳᠤ</unicode>
+      <definition>avec une doublure, doublé</definition>
+      <page>2383</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠣᠰᠣᠳᠤ ᠬᠤᠪᠴᠠᠰᠤᠨ</unicode>
+          <definition>un habit doublé</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠣᠰᠣᠲᠤ</unicode>
+      <cyrillic>зост</cyrillic>
+      <definition>〔形〕含赭石的：~ улаан гүр 赫石色铁矿；~ пхороо 褐铁华.</definition>
+      <page>562</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠰᠣᠲᠣ</unicode>
+      <cyrillic>ЗОСТ</cyrillic>
+      <definition>зостой-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

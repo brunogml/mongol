@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3214">
+  <head>
+    <unicode>ᠴᠣᠵᠣᠯᠵᠠᠬᠣ</unicode>
+    <transcript>čoǰulǰaqu</transcript>
+    <transcript2>cocolcago</transcript2>
+    <cyrillic>цозолзох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C3215</ref>
+    <ref>C3216</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠣᠵᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>цозолзох</cyrillic>
+      <definition>〔动〕参见 цозгонох.</definition>
+      <page>1530</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠵᠣᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ЦОЗОЛЗОХ</cyrillic>
+      <definition>цозгонох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цозолзох</cyrillic>
+      <definition>etw. Bauchigers od Krugförmiges sich bewegen</definition>
+      <page>355</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠣᠵᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>цозолзох</cyrillic>
+      <definition>цозгор юмны байн байн хөдлөх.</definition>
+      <page>788</page>
+    </entry_item>
+  </entries>
+</entry>

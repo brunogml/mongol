@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1557">
+  <head>
+    <unicode>ᠵᠠᠶᠠᠭᠠᠳᠠᠬᠣ</unicode>
+    <transcript>ǰayaγadaqu</transcript>
+    <transcript2>yayagadago</transcript2>
+    <cyrillic>заяадах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1558</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠶᠠᠭᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>заяадах</cyrillic>
+      <definition>〔动〕受不了；（因无能为力而）木安.</definition>
+      <page>553</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠶᠠᠭᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЗАЯАДАХ</cyrillic>
+      <definition>самгардах, тэвдэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠶᠠᠭᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>заяадах</cyrillic>
+      <definition>юмыг хүлээж чадахгүй буюу хүчин хүрэлцэхгүй самгардан тэвдөх.</definition>
+      <page>271</page>
+    </entry_item>
+  </entries>
+</entry>

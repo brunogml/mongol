@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K0893">
+  <head>
+    <unicode>ᠺᠠᠯᠺᠢᠯᠳᠥᠺᠥ</unicode>
+    <transcript>kelkildükü</transcript>
+    <transcript2>gelgildögö</transcript2>
+    <cyrillic>хэлхэлдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K0894</ref>
+    <ref>K0892</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠯᠬᠢᠯᠳᠦᠬᠦ</unicode>
+      <cyrillic>хэлхэлдэх</cyrillic>
+      <definition>〔动〕хэлхэх 的互动态.</definition>
+      <page>1480</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠯᠺᠢᠯᠳᠥᠺᠥ</unicode>
+      <cyrillic>ХЭЛХЭЛДЭХ</cyrillic>
+      <definition>хэлхэх-ийн үйлдэлд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хэлхэлдэх</cyrillic>
+      <definition>(Rez von хэлхэх) sich [miteinander] verbinden, sich [ineinander] einhaken; хэлхэлдэж явах eingehakt gehen</definition>
+      <page>342</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠯᠬᠢᠯᠳᠦᠬᠦ</unicode>
+      <cyrillic>хэлхэлдэх</cyrillic>
+      <definition>хэлхэхийн үйлдэлдэх хэв; архи уугаад гудамжинд хэлхэлдэж явдаг хүмүүс байх юм.</definition>
+      <page>759</page>
+    </entry_item>
+  </entries>
+</entry>

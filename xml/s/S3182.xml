@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3182">
+  <head>
+    <unicode>ᠰᠢᠩᠰᠢᠯᠠᠺᠥ</unicode>
+    <transcript>singsilekü</transcript>
+    <transcript2>singsilegö</transcript2>
+    <cyrillic>шиншлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3183</ref>
+    <ref>S3181</ref>
+  </derivatives>
+  <see_also>
+    <ref>S3183a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠩᠰᠢᠯᠡᠺᠦ ~ ᠰᠢᠨᠵᠢᠯᠡᠺᠦ</unicode>
+      <definition>voir avec attention , regarder scrupuleusement , examiner soigneusement, rechercher , discuter.</definition>
+      <page>1463</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠩᠰᠢᠯᠠᠺᠥ</unicode>
+      <cyrillic>ШИНШЛЭХ</cyrillic>
+      <definition>шинших-ийн олонтаа., обнюхивать (напр. о собаке). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠩᠰᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>шиншлэх</cyrillic>
+      <definition>байн байн шиншлэх; нохой шиншлэн явав.</definition>
+      <page>849</page>
+    </entry_item>
+  </entries>
+</entry>

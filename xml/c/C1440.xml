@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1440">
+  <head>
+    <unicode>ᠴᠢᠨᠥᠷᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>činüregülkü</transcript>
+    <transcript2>cinöregölgö</transcript2>
+    <cyrillic>чинэрүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>C1439</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠨᠦᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>чинэрүүлэх</cyrillic>
+      <definition>〔动〕чинэрэх 的使动态.</definition>
+      <page>1591</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠨᠥᠷᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЧИНЭРҮҮЛЭХ</cyrillic>
+      <definition>чинэрэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чинэрүүлэх</cyrillic>
+      <definition>Kaus von чинэрэх</definition>
+      <page>372</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠨᠦᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>чинэрүүлэх</cyrillic>
+      <definition>чинэрэхийн үйлдүүлэх хэв.</definition>
+      <page>820</page>
+    </entry_item>
+  </entries>
+</entry>

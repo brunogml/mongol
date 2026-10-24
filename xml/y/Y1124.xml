@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1124">
+  <head>
+    <unicode>ᠶᠠᠯᠠᠲᠠᠶᠢᠬᠣ</unicode>
+    <transcript>yalatayiqu</transcript>
+    <transcript2>yaladayigo</transcript2>
+    <cyrillic>ялтайх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1125</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠯᠲᠠᠢᠬᠤ</unicode>
+      <cyrillic>ялтайх</cyrillic>
+      <definition>〔动〕（容器，器皿）变成浅底，呈浅底状.</definition>
+      <page>1749</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠠᠯᠠᠲᠠᠶᠢᠬᠣ</unicode>
+      <cyrillic>ЯЛТАЙХ</cyrillic>
+      <definition>быть неглубоким, плоским (о посуде). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠯᠲᠠᠢᠬᠤ</unicode>
+      <cyrillic>ялтайх</cyrillic>
+      <definition>ялтгар болох.</definition>
+      <page>905</page>
+    </entry_item>
+  </entries>
+</entry>

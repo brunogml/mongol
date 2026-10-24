@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1493">
+  <head>
+    <unicode>ᠬᠠᠲᠠᠩᠺᠢᠷᠰᠢᠬᠣ</unicode>
+    <transcript>qatanggirsiqu</transcript>
+    <transcript2>gadanggirsigo</transcript2>
+    <cyrillic>хатангирших</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠲᠠᠩᠭᠢᠷᠰᠢᠬᠤ</unicode>
+      <cyrillic>хатангирших</cyrillic>
+      <definition>〔动〕①干枯起来，呈干燥状，枯萎起来；②呈干瘦状，呈枯瘦状，呈干瘪状.</definition>
+      <page>1324</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠲᠠᠩᠺᠢᠷᠰᠢᠬᠣ</unicode>
+      <cyrillic>ХАТАНГИРШИХ</cyrillic>
+      <definition>становиться тощим, чахлым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠲᠠᠩᠭᠢᠷᠰᠢᠬᠤ</unicode>
+      <cyrillic>хатангирших</cyrillic>
+      <definition>хатангир шинжтэй болох.</definition>
+      <page>670</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q1488</ref>
+  </related_to>
+  <derivatives>
+    <ref>Q1493a</ref>
+  </derivatives>
+</entry>

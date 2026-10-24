@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E2242">
+  <head>
+    <unicode>ᠡᠷᠲᠡᠯᠡᠺᠦ</unicode>
+    <transcript>ertelekü</transcript>
+    <transcript2>erdelegö</transcript2>
+    <cyrillic>эртлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>E2243</ref>
+    <ref>E2241</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠷᠲᠠᠯᠠᠺᠥ</unicode>
+      <uighur>erdelekü</uighur>
+      <cyrillic>эртлэх</cyrillic>
+      <transcript>ERTELE-</transcript>
+      <definition>v, i. To be or arrive early, rise, start early; to hurry, be prompt or quick; to do something early.</definition>
+      <page>332</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠷᠲᠠᠯᠠᠨ</unicode>
+          <transcript>--n </transcript>
+          <definition>Early in the morning</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠷᠲᠠᠯᠠᠨ ᠪᠣᠰᠬᠤ</unicode>
+          <transcript>--n bosxu</transcript>
+          <definition> To rise early in the morning.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠷᠲᠠᠯᠠᠺᠥ</unicode>
+      <cyrillic>эртлэх</cyrillic>
+      <definition>〔动〕提前，赶早，提早，趁早，抢先.</definition>
+      <page>1709</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠡᠷᠲᠠᠯᠠᠺᠥ</unicode>
+      <cyrillic>ЭРТЛЭХ</cyrillic>
+      <definition>собираться куда-л. спозаранку, пораньше. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠡᠷᠲᠠᠯᠠᠺᠥ</unicode>
+      <cyrillic>ЭРТЛЭЖ</cyrillic>
+      <definition>эртлэх-ийн зэрэгцэх., немного раньше, яриа. спозаранку, пораньше; эртлэж мордох хэрэгтэй надо отправиться пораньше. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠡᠷᠲᠠᠯᠠᠺᠥ</unicode>
+      <cyrillic>ЭРТЛЭН</cyrillic>
+      <definition>эрт I-ийн хамж., рано утром, с раннего утра; эртлэн босох вставать рано утром, яриа. вставать спозаранку. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>эртлэх</cyrillic>
+      <definition>[früh]zeitig geschehen; эртлэн босох zeitig aufstehen</definition>
+      <page>404</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠷᠲᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>эртлэх</cyrillic>
+      <definition>үйл ажилд санаатайгаар эрт хөдлөх; энэ өглөө эртлэж босов.</definition>
+      <page>885</page>
+    </entry_item>
+  </entries>
+</entry>

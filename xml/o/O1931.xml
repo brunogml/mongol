@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1931">
+  <head>
+    <unicode>ᠥᠷᠥᠪᠲᠥᠯᠳᠥᠺᠥ</unicode>
+    <transcript>örübtüldükü</transcript>
+    <transcript2>öröbdöldögö</transcript2>
+    <cyrillic>өрөвтөлдөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>O1932</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <cyrillic>өрөвтөлдөх</cyrillic>
+      <definition>〔动〕用大锉锉.</definition>
+      <page>860</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠷᠥᠪᠲᠥᠯᠳᠥᠺᠥ</unicode>
+      <cyrillic>ӨРӨВТӨЛДӨХ</cyrillic>
+      <definition>обтачивать рашпилем. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠷᠥᠪᠲᠥᠯᠳᠡᠬᠦ</unicode>
+      <cyrillic>өрөвтөлдөх</cyrillic>
+      <definition>өрөвтлөөр үрэх.</definition>
+      <page>445</page>
+    </entry_item>
+  </entries>
+</entry>

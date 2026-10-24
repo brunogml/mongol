@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B3529">
+  <head>
+    <unicode>ᠪᠣᠯᠵᠠᠬᠴᠢ</unicode>
+    <transcript>bulǰaγči</transcript>
+    <transcript2>bolcagci</transcript2>
+    <cyrillic>булзагч</cyrillic>
+  </head>
+  <related_to>
+    <ref>B3527</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠤᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <definition>fixer le terme. assigner le terme; faire faire le contrat.</definition>
+      <page>1200</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠤᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>булзуулах</cyrillic>
+      <definition>〔动〕булзах /1、/2 的使动态.</definition>
+      <page>203</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БУЛЗУУЛАХ</cyrillic>
+      <definition>булзах-ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>булжуулах</cyrillic>
+      <definition>1. булжихын үйлдүүлэх хэв;2. булжигдах.</definition>
+      <page>106</page>
+    </entry_item>
+  </entries>
+</entry>

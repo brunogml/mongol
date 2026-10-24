@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1998">
+  <head>
+    <unicode>ᠣᠮᠣᠶᠢᠬᠣ</unicode>
+    <transcript>omoyiqu</transcript>
+    <transcript2>omoyigo</transcript2>
+    <cyrillic>омойх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U2000</ref>
+  </derivatives>
+  <see_also>
+    <ref>U1997</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠮᠣᠢᠬᠤ</unicode>
+      <cyrillic>омойх</cyrillic>
+      <definition>〔动〕紧缩，收缩，起皱：амнь ~ 紧闭着嘴.</definition>
+      <page>803</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠮᠣᠶᠢᠬᠣ</unicode>
+      <cyrillic>ОМОЙХ</cyrillic>
+      <definition>стягиваться, собираться в складки (напр. о коже от ожога). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠮᠣᠶᠢᠬᠣ</unicode>
+      <cyrillic>ОМОЙСОН</cyrillic>
+      <definition>семнадцатилетний конь. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>омойх</cyrillic>
+      <definition>sich zusammenziehen, schrumpfen; шир хатаад омойжэж die Haut trocknete aus und schrumpfte zusammen</definition>
+      <page>171</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠮᠣᠢᠬᠤ</unicode>
+      <cyrillic>омойх</cyrillic>
+      <definition>омгор болох, атирч, хомойж үрчийх; түлэгдсэн хөдөс шиг омойж орхив; шир хатаад омойж орхив; ам нь омойх.</definition>
+      <page>414</page>
+    </entry_item>
+  </entries>
+</entry>

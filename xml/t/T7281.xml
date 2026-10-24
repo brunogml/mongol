@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7281">
+  <head>
+    <unicode>ᠳᠣᠮᠳᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>dumdadaγulqu</transcript>
+    <transcript2>domdadagolgo</transcript2>
+    <cyrillic>дунддуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T7280</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠤᠨᠳᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дунддуулах</cyrillic>
+      <definition>〔动〕дунддах /2的使动态.</definition>
+      <page>439</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠮᠳᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДУНДДУУЛАХ</cyrillic>
+      <definition>дунддах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠤᠨᠳᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дунддуулах</cyrillic>
+      <definition>дунддахын үйлдүүлэх хэв.</definition>
+      <page>210</page>
+    </entry_item>
+  </entries>
+</entry>

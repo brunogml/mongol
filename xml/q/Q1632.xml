@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q1632">
+  <head>
+    <unicode>ᠬᠠᠳᠠᠰᠣ</unicode>
+    <transcript>qadasu</transcript>
+    <transcript2>gadaso</transcript2>
+  </head><derivatives>
+    <ref>Q0719</ref>
+  </derivatives><see_also>
+    <ref>Q1633</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠳᠠᠰᠣ</unicode>
+      <uighur>qadasu</uighur>
+      <transcript>XADASU(N)</transcript>
+      <definition>See xadaγasu(n).</definition>
+      <page>903</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠳᠠᠰᠤ ~ ᠬᠠᠳᠠᠰᠤᠨ ~ ᠬᠠᠳᠠᠭᠠᠰᠤᠨ</unicode>
+      <definition>clou</definition>
+      <page>779</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠳᠠᠰᠤᠨ ᠢ ᠰᠠᠭᠤᠯᠬᠤ</unicode>
+          <definition>arracher un clou</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠳᠠᠰᠤ ᠢᠶᠠᠷ ᠰᠢᠭᠠᠬᠤ</unicode>
+          <definition>clouer, enfoncer un clou</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠳᠠᠰᠤ ᠵᠢᠭᠠᠰᠤᠨ</unicode>
+          <definition>petits saumons</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

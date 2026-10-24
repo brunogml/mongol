@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A1256">
+  <head>
+    <unicode>ᠠᠬᠵᠠᠮ</unicode>
+    <transcript>aqǰam</transcript>
+    <transcript2>agcam</transcript2>
+    <cyrillic>агзам</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠬᠵᠠᠮ</unicode>
+      <uighur>aqǰam</uighur>
+      <transcript>AГZAM</transcript>
+      <definition>n Blunt wooden arrow tip.</definition>
+      <page>19</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠭᠵᠠᠮ ᠰᠤᠮᠤ</unicode>
+          <transcript>-- sumu</transcript>
+          <definition> Arrow with a blunt wooden tip.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠬᠵᠠᠮ</unicode>
+      <uighur>aqǰam</uighur>
+      <definition>pommeau émoussé d'une fléche dont la pointe est en cône.</definition>
+      <page>139</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠬᠵᠠᠮ ᠰᠤᠮᠤ</unicode>
+          <definition>une ﬂêche avec un pommeau en bois.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠭᠵᠠᠮ</unicode>
+      <cyrillic>агзам</cyrillic>
+      <definition>〔名〕墩子箭.</definition>
+      <page>17</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠬᠵᠠᠮ</unicode>
+      <cyrillic>АГЗАМ</cyrillic>
+      <definition>^ 1) деревянный набалдашник стрелы (в виде утиного носа); агзам сум стрела с круглой деревянной головкой; тупая, без железка стрела с деревянным набалдашником; 2) метательное орудие.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠭᠵᠠᠮ</unicode>
+      <cyrillic>агзам</cyrillic>
+      <definition>төмөр тавихгүй үүсгэрийн үзүүрийг бонхгор болгон хийсэн харвах зэвсэг.</definition>
+      <page>19</page>
+    </entry_item>
+  </entries>
+</entry>

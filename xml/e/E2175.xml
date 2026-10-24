@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E2175">
+  <head>
+    <unicode>ᠡᠷᠦᠺᠦ</unicode>
+    <transcript>erükü</transcript>
+    <transcript2>erögö</transcript2>
+    <cyrillic>эрэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>E2179</ref>
+    <ref>E2180</ref>
+  </derivatives>
+  <see_also>
+    <ref>E2116</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠷᠥᠺᠥ</unicode>
+      <uighur>erükü</uighur>
+      <transcript>ERY-</transcript>
+      <definition>v, t. To dig, cut, hack.</definition>
+      <page>332</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠦᠺᠡ ᠡᠷᠥᠺᠥ</unicode>
+          <transcript>nyke --ky </transcript>
+          <definition>To dig a pit</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠤᠳᠳᠤᠭ ᠡᠷᠥᠺᠥ</unicode>
+          <transcript>xudduγ --ky </transcript>
+          <definition>To dig a well</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠷᠥᠺᠥ</unicode>
+      <uighur>erükü</uighur>
+      <definition>creuser, bêcher (la terre).</definition>
+      <page>257</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠥᠺᠡ ᠡᠷᠦᠺᠦ</unicode>
+          <definition>creuser un trou.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠤᠳᠳᠤᠬ ᠡᠷᠦᠺᠦ</unicode>
+          <definition>creuser un puits.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠡᠷᠥᠺᠥ</unicode>
+      <uighur>erükü</uighur>
+      <definition>graben, hacken (Erde.)</definition>
+      <page>31</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠡᠷᠥᠺᠥ</unicode>
+      <uighur>erükü</uighur>
+      <definition>To dig. To trench. To build an embankment.</definition>
+      <page>119</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠡᠷᠥᠺᠥ</unicode>
+      <cyrillic>ЭРЭХ</cyrillic>
+      <definition>IV рыть землю. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠷᠦᠬᠦ</unicode>
+      <cyrillic>эрэх /3</cyrillic>
+      <definition>газрыг нүхлэн ухах; газар эрэх; эрж малтах.</definition>
+      <page>889</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5679">
+  <head>
+    <unicode>ᠱᠣᠳᠠᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šudaγlaγulqu</transcript>
+    <transcript2>sodaglagolgo</transcript2>
+    <cyrillic>шуудаглуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S5678</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠤᠳᠠᠭᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шуудаглуулах</cyrillic>
+      <definition>〔动〕шуудаглах 的使动态.</definition>
+      <page>1662</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠳᠠᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШУУДАГЛУУЛАХ</cyrillic>
+      <definition>шуудаглах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠤᠳᠠᠭᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шуудаглуулах</cyrillic>
+      <definition>шуудаглахын үйлдүүлэх хэв.</definition>
+      <page>861</page>
+    </entry_item>
+  </entries>
+</entry>

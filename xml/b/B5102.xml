@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B5102">
+  <head>
+    <unicode>ᠪᠯᠠᠮᠠᠲᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>blamatuγulqu</transcript>
+    <transcript2>blamadogolgo</transcript2>
+    <cyrillic>ламтуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B5101</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠯᠠᠮᠠᠲᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ламтуулах</cyrillic>
+      <definition>〔动〕ламтах 的使动态.</definition>
+      <page>642</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠯᠠᠮᠠᠲᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЛАМТУУЛАХ</cyrillic>
+      <definition>ламтах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠯᠠᠮᠠᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ламтуулах</cyrillic>
+      <definition>ламтахын үйлдүүлэх хэв.</definition>
+      <page>320</page>
+    </entry_item>
+  </entries>
+</entry>

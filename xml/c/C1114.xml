@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1114">
+  <head>
+    <unicode>ᠴᠠᠴᠠᠷᠯᠢᠺᠴᠢ</unicode>
+    <transcript>čečerligči</transcript>
+    <transcript2>cecerligci</transcript2>
+    <cyrillic>цэцэрлэгч</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠴᠡᠷᠯᠢᠭᠴᠢ</unicode>
+      <cyrillic>цэцэрлэгч</cyrillic>
+      <definition>〔名〕园工，园丁，花匠；园艺家.</definition>
+      <page>1569</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠴᠠᠷᠯᠢᠺᠴᠢ</unicode>
+      <cyrillic>ЦЭЦЭРЛЭГЧ</cyrillic>
+      <definition>садовник. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цэцэрлэгч</cyrillic>
+      <definition>Gärtner m</definition>
+      <page>366</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠴᠡᠷᠯᠢᠭᠴᠢ</unicode>
+      <cyrillic>цэцэрлэгч</cyrillic>
+      <definition>цэцэрлэгийн ургамал, цэцгийг арчилан хамгаалах хүн.</definition>
+      <page>809</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>C1111</ref>
+  </related_to>
+</entry>

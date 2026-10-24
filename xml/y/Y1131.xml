@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1131">
+  <head>
+    <unicode>ᠶᠠᠯᠠᠯᠠᠬᠴᠢ</unicode>
+    <transcript>yalalaγči</transcript>
+    <transcript2>yalalagci</transcript2>
+    <cyrillic>яллагч</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1130</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠶᠠᠯᠠᠯᠠᠬᠴᠢ</unicode>
+      <uighur>yalalaqči</uighur>
+      <cyrillic>яллагч</cyrillic>
+      <transcript>JALALAΓCI</transcript>
+      <definition>n. Prosecutor.</definition>
+      <page>425</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠯᠤᠰ ᠤᠨ ᠶᠠᠯᠠᠯᠠᠬᠴᠢ</unicode>
+          <transcript>ulus un --</transcript>
+          <definition> State attorney.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠠᠯᠠᠯᠠᠭᠴᠢ</unicode>
+      <cyrillic>яллагч</cyrillic>
+      <definition>〔名〕①审判官；②治罪者；③起诉人，控告人.</definition>
+      <page>1749</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠠᠯᠠᠯᠠᠬᠴᠢ</unicode>
+      <cyrillic>ЯЛЛАГЧ</cyrillic>
+      <definition>обвинитель; олон нийтийн яллагч общественный обвинитель; улсын яллагч государственный обвинитель. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>яллагч</cyrillic>
+      <definition>Ankläger m, Kläger m</definition>
+      <page>414</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠠᠯᠠᠯᠠᠭᠴᠢ</unicode>
+      <cyrillic>яллагч</cyrillic>
+      <definition>ялт хүнд түүний уг хийсэн хэргийн учир холбогдлыг уудлан гаргаж ногдвол зохих ялыг зааж тулгах хүн: улсын яллагч, олон нийтийн яллагч.</definition>
+      <page>905</page>
+    </entry_item>
+  </entries>
+</entry>

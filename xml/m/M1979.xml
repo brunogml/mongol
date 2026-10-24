@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1979">
+  <head>
+    <unicode>ᠮᠣᠶᠢᠬᠣᠷᠯᠠᠬᠣ</unicode>
+    <transcript>moyiqurlaqu</transcript>
+    <transcript2>moyigorlago</transcript2>
+    <cyrillic>муйхарлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M1980</ref>
+    <ref>M1981</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠤᠢᠬᠤᠷᠯᠠᠬᠤ</unicode>
+      <cyrillic>муйхарлах</cyrillic>
+      <definition>〔动〕蛮干，蛮不讲理，犯倔，欺负人.</definition>
+      <page>693</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠶᠢᠬᠣᠷᠯᠠᠬᠣ</unicode>
+      <cyrillic>МУЙХАРЛАХ</cyrillic>
+      <definition>1) делать силой, а не умением; 2) упрямиться; өөрийнхөөрөө муйхарлах настаивать на своём. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>муйхарлах</cyrillic>
+      <definition>gewalttätig sein</definition>
+      <page>147</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠤᠢᠬᠤᠷᠯᠠᠬᠤ</unicode>
+      <cyrillic>муйхарлах</cyrillic>
+      <definition>тэнэг муйхраар аашлах.</definition>
+      <page>349</page>
+    </entry_item>
+  </entries>
+</entry>

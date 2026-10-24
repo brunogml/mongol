@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A0838">
+  <head>
+    <unicode>ᠠᠭᠣᠯ</unicode>
+    <transcript>aγul</transcript>
+    <transcript2>agol</transcript2>
+  </head><related_to>
+    <ref>A0001</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠭᠣᠯ</unicode>
+      <uighur>aγul</uighur>
+      <transcript>AГUL</transcript>
+      <page>16</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠭᠤᠯ ᠠᠴᠢ</unicode>
+          <transcript>-- aci</transcript>
+          <definition> n. One's own grandson or descentant</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠭᠤᠯ ᠠᠴᠢ</unicode>
+      <uighur>aγul ači</uighur>
+      <definition>arrière-petit-fils</definition>
+      <page>32</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠠᠭᠣᠯ</unicode>
+      <uighur>aγul ači</uighur>
+      <definition>Great grandchildren.</definition>
+      <page>25</page>
+    </entry_item>
+  </entries>
+</entry>

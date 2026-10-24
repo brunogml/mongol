@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O0331">
+  <head>
+    <unicode>ᠥᠨᠳᠥᠷᠲᠣᠺᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>öndürtügegülkü</transcript>
+    <transcript2>öndördogegölgö</transcript2>
+    <cyrillic>өндөртгүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>O0330</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠨᠳᠥᠷᠡᠲᠦᠭᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өндөртгүүлэх</cyrillic>
+      <definition>〔动〕өндөртгөх 的使动态.</definition>
+      <page>850</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠨᠳᠥᠷᠲᠣᠺᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ӨНДӨРТГҮҮЛЭХ</cyrillic>
+      <definition>өндөртгөх-ийн үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠨᠳᠥᠷᠲᠥᠭᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өндөртгүүлэх</cyrillic>
+      <definition>өндөртгөхийн үйлдүүлэх хэв.</definition>
+      <page>440</page>
+    </entry_item>
+  </entries>
+</entry>

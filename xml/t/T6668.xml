@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6668">
+  <head>
+    <unicode>ᠳᠣᠲᠣᠭᠣᠷᠳᠠᠬᠣ</unicode>
+    <transcript>dotuγurdaqu</transcript>
+    <transcript2>dodogordago</transcript2>
+    <cyrillic>дотуурдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T6670</ref>
+    <ref>T6671</ref>
+  </derivatives>
+  <see_also>
+    <ref>T6669</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠣᠲᠣᠭᠤᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>дотуурдах</cyrillic>
+      <definition>〔动〕变往里，变靠内.</definition>
+      <page>425</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠲᠣᠭᠣᠷᠳᠠᠬᠣ</unicode>
+      <cyrillic>ДОТУУРДАХ</cyrillic>
+      <definition>оказаться местами более стянутым внутри, чем это полагается (напр. при подшивании подкладки). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠣᠲᠣᠭᠤᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>дотуурдах</cyrillic>
+      <definition>хэтэрхий дотуур болох.</definition>
+      <page>203</page>
+    </entry_item>
+  </entries>
+</entry>

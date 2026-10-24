@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3915">
+  <head>
+    <unicode>ᠰᠢᠯᠥᠰᠳᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>silüsdegülkü</transcript>
+    <transcript2>silösdegölgö</transcript2>
+    <cyrillic>шүлсдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S3913</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠯᠦᠰᠦᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>шүлсдүүлэх</cyrillic>
+      <definition>〔动〕шүлсдэх 的使动态.</definition>
+      <page>1666</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠯᠥᠰᠳᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ШҮЛСДҮҮЛЭХ</cyrillic>
+      <definition>шүлсдэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шүлсдүүлэх</cyrillic>
+      <definition>Kaus von шүлсдэх</definition>
+      <page>393</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠯᠦᠰᠦᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>шүлсдүүлэх</cyrillic>
+      <definition>шүлсдэхийн үйлдүүлэх хэв.</definition>
+      <page>862</page>
+    </entry_item>
+  </entries>
+</entry>

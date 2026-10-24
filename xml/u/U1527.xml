@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1527">
+  <head>
+    <unicode>ᠣᠯᠠᠩᠺᠢᠷᠲᠣᠬᠣ</unicode>
+    <transcript>ulanggirtuqu</transcript>
+    <transcript2>olanggirdogo</transcript2>
+    <cyrillic>улангиртах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠯᠠᠩᠭᠢᠷᠲᠤᠬᠤ</unicode>
+      <cyrillic>улангиртах</cyrillic>
+      <definition>〔动〕〈医〉生角膜炎，生结膜炎.</definition>
+      <page>1184</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠯᠠᠩᠺᠢᠷᠲᠣᠬᠣ</unicode>
+      <cyrillic>УЛАНГИРТАХ</cyrillic>
+      <definition>улайх I-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠯᠠᠩᠭᠢᠷᠲᠤᠬᠤ</unicode>
+      <cyrillic>улангиртах</cyrillic>
+      <definition>улангир өвчин тохиолдох.</definition>
+      <page>590</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>U1526</ref>
+  </related_to>
+</entry>

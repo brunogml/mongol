@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9245">
+  <head>
+    <unicode>ᠲᠥᠷᠠᠶᠢᠯᠠᠺᠥ</unicode>
+    <transcript>türeyilekü</transcript>
+    <transcript2>döreyilegö</transcript2>
+    <cyrillic>түрийлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T9246</ref>
+    <ref>T9244</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠦᠷᠡᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>түрийлэх</cyrillic>
+      <definition>〔动〕塞进靴筒内：гансаа түрийлээд босов 把烟袋往靴筒里一塞，站起来了.</definition>
+      <page>1138</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠷᠠᠶᠢᠯᠠᠺᠥ</unicode>
+      <cyrillic>ТҮРИЙЛЭХ</cyrillic>
+      <definition>засовывать что-л. за голенљще; сунуть за голенљще. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠦᠷᠡᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>түрийлэх</cyrillic>
+      <definition>юмыг гутлын түрийд хийх; гансаа түрийлээд босов.</definition>
+      <page>568</page>
+    </entry_item>
+  </entries>
+</entry>

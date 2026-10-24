@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1406">
+  <head>
+    <unicode>ᠨᠢᠬᠲᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>niγtadaγulqu</transcript>
+    <transcript2>nigdadagolgo</transcript2>
+    <cyrillic>нягтдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>N1405</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠢᠭᠲᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нягтдуулах</cyrillic>
+      <definition>〔动〕нягтдах 的使动态.</definition>
+      <page>780</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠢᠬᠲᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>НЯГТДУУЛАХ</cyrillic>
+      <definition>нягтдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠢᠭᠲᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нягтдуулах</cyrillic>
+      <definition>нягтдахын үйлдүүлэх хэв.</definition>
+      <page>401</page>
+    </entry_item>
+  </entries>
+</entry>

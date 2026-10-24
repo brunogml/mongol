@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9060">
+  <head>
+    <unicode>ᠲᠥᠺᠥᠺᠡᠶᠢᠳᠡᠺᠥ</unicode>
+    <transcript>tügükeyidekü</transcript>
+    <transcript2>dögögeyidegö</transcript2>
+    <cyrillic>түүхийдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T9061</ref>
+    <ref>T9059</ref>
+  </derivatives>
+  <see_also>
+    <ref>T9062</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠺᠥᠺᠡᠶᠢᠳᠡᠺᠥ</unicode>
+      <cyrillic>ТҮҮХИЙДЭХ</cyrillic>
+      <definition>1) оказываться совсем незрелым, неспелым; 2) оказываться совсем сырым, недоваренным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠦᠭᠦᠬᠡᠢᠳᠡᠬᠦ</unicode>
+      <cyrillic>түүхийдэх</cyrillic>
+      <definition>хэтэрхий түүхий болох; мах түүхийдээд идэж болсонгүй.</definition>
+      <page>570</page>
+    </entry_item>
+  </entries>
+</entry>

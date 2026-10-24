@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6579">
+  <head>
+    <unicode>ᠱᠥᠪᠺᠠᠺᠠᠷᠺᠠᠨ</unicode>
+    <transcript>šöbkegerken</transcript>
+    <transcript2>söbgegergen</transcript2>
+    <cyrillic>шөвхгөрхөн</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠥᠪᠬᠡᠭᠡᠷᠬᠡᠨ</unicode>
+      <cyrillic>шөвхгөрхөн</cyrillic>
+      <definition>〔形〕шөвхгөр 的小称.</definition>
+      <page>1653</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠥᠪᠺᠠᠺᠠᠷᠺᠠᠨ</unicode>
+      <cyrillic>ШӨВХГӨРХӨН</cyrillic>
+      <definition>шөвхгөр-ийн багас. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠥᠪᠬᠡᠭᠡᠷᠬᠡᠨ</unicode>
+      <cyrillic>шөвхгөрхөн</cyrillic>
+      <definition>баахан шөвхгөр, арай шөвхгөр.</definition>
+      <page>856</page>
+    </entry_item>
+  </entries>
+</entry>

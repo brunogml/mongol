@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U0202">
+  <head>
+    <unicode>ᠣᠨᠣᠬᠳᠠᠬᠣ</unicode>
+    <transcript>onuγdaqu</transcript>
+    <transcript2>onogdago</transcript2>
+    <cyrillic>оногдох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U0204</ref>
+  </derivatives>
+  <see_also>
+    <ref>U0203</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠨᠣᠬᠳᠠᠬᠣ</unicode>
+      <uighur>onoqdaqu</uighur>
+      <cyrillic>оногдох</cyrillic>
+      <transcript>ONUΓDA-</transcript>
+      <definition>[= noγda-, v. pass. of onu-] To be hit; to be imposed or inflicted on, allotted to, fall to one's lot or share; to be due; to fall in with; to be subject to.</definition>
+      <page>615</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠨᠣᠬᠳᠠᠭᠰᠠᠨ ᠠᠯᠪᠠᠨ ᠲᠠᠲᠠᠪᠤᠷᠢ</unicode>
+          <transcript>--γsan alban tataburi</transcript>
+          <definition> Assessed tax or contribution</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠠᠳᠤᠷ ᠣᠨᠣᠬᠳᠠᠭᠰᠠᠨ ᠦᠭᠡᠢ</unicode>
+          <transcript>nadur --γsan ygei</transcript>
+          <definition> Was not alloted to me, I did not get or obtain</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠤᠮᠤᠨ ᠎ᠳᠤ ᠣᠨᠣᠬᠳᠠᠬᠤ</unicode>
+          <transcript>sumun du --xu</transcript>
+          <definition>To be hit by an arrow or bullet</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠨᠣᠬᠳᠠᠬᠤ</unicode>
+      <definition>être compris, conçu, attrapé</definition>
+      <page>346</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠣᠨᠣᠬᠳᠠᠬᠣ</unicode>
+      <uighur>unuqdaqu</uighur>
+      <definition>egriffen werden , getroffen werden;</definition>
+      <page>45</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠣᠨᠣᠬᠳᠠᠬᠣ</unicode>
+      <uighur>onugdaqu</uighur>
+      <definition>(o)v.p.To be comprehended or understood. To be hit by a bullet. To be ridden.</definition>
+      <page>173</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠨᠣᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>оногдох</cyrillic>
+      <definition>〔动〕①онох 的被动态；②被撞着，被碰着；③分摊到，分派到.</definition>
+      <page>807</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠨᠣᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ОНОГДОХ</cyrillic>
+      <definition>онох-ын үйлдэгд., попадать под что-л., подвергаться чему-л.; приходиться; доставаться; хүн нэг бүрд нэг төгрөг оногдов на каждого пришлось по тугрику; хариуцлага түүнд оногдоно ответственность лежит на нём; арван хувь оногдоно приходится десять процентов; мөндөрт оногдсон побитый, повреждённый градом; оногдсон үүргээ шударгаар гүйцэтгэж байх добросовестно относиться к своим обязанностям. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>оногдох</cyrillic>
+      <definition>1. Pass von онох; суманд ~ von einer Kugel getroffen werden
+2. entfallen (auf -д); үүрэг надад оногдов die Aufgabe fiel mir zu</definition>
+      <page>172</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠨᠣᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>оногдох</cyrillic>
+      <definition>1. онохын үйлдэгдэх хэв;2. юманд дайрагдах, өртөгдөх; давхиж явсан зээр суманд оногдсонгүй дүүлж цойлсоор бараа туруугүй алга болов;3. дайралдах, тохиох; үүнийг гүйцэтгэх үүрэг над оногдов; албан татвар оногдох.</definition>
+      <page>417</page>
+    </entry_item>
+  </entries>
+</entry>

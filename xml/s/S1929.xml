@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1929">
+  <head>
+    <unicode>ᠱᠠᠷᠺᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šarkiraγulqu</transcript>
+    <transcript2>sargiragolgo</transcript2>
+    <cyrillic>шархируулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S1926</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠷᠬᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шархируулах</cyrillic>
+      <definition>〔动〕шархирах 的使动态.</definition>
+      <page>1623</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠷᠺᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАРХИРУУЛАХ</cyrillic>
+      <definition>шархирах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шархируулах</cyrillic>
+      <definition>Kaus von шархирах</definition>
+      <page>382</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠷᠬᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шархируулах</cyrillic>
+      <definition>шархирахын үйлдүүлэх хэв.</definition>
+      <page>840</page>
+    </entry_item>
+  </entries>
+</entry>

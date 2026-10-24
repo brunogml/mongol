@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1250">
+  <head>
+    <unicode>ᠴᠠᠺᠴᠠᠷᠠᠺᠥ</unicode>
+    <transcript>čegčerekü</transcript>
+    <transcript2>cegceregö</transcript2>
+    <cyrillic>цэгцрэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1251</ref>
+    <ref>C1249</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠺᠴᠠᠷᠠᠺᠥ</unicode>
+      <uighur>čegčerekü</uighur>
+      <cyrillic>цэгцрэх</cyrillic>
+      <transcript>CEGCERE-</transcript>
+      <definition>Same as cegced-,</definition>
+      <page>169</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠭᠴᠡᠷᠡᠬᠦ</unicode>
+      <cyrillic>цэгцрэх</cyrillic>
+      <definition>〔动〕变得有秩序、秩序井然，变条理，变整齐.</definition>
+      <page>1561</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠺᠴᠠᠷᠠᠺᠥ</unicode>
+      <cyrillic>ЦЭГЦРЭХ</cyrillic>
+      <definition>упорядочиваться; располагаться систематически в определённом плане; налаживаться; хэрэг цэгцрэв дело наладилось. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цэгцрэх</cyrillic>
+      <definition>in Ordnung kommen, geregelt werden, systematisiert werden</definition>
+      <page>364</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠭᠴᠡᠷᠡᠬᠦ</unicode>
+      <cyrillic>цэгцрэх</cyrillic>
+      <definition>цэгц болох, журамтай болох, эмхтэй болох.</definition>
+      <page>805</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2505">
+  <head>
+    <unicode>ᠰᠠᠺᠥᠲᠠᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>segütegenekü</transcript>
+    <transcript2>segödegenegö</transcript2>
+    <cyrillic>сүүтгэнэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S2507</ref>
+    <ref>S2504</ref>
+  </derivatives>
+  <see_also>
+    <ref>S2506</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠭᠦᠲᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>сүүтгэнэх</cyrillic>
+      <definition>〔动〕参见 сүүмэгнэх.</definition>
+      <page>979</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠺᠥᠲᠠᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>СҮҮТГЭНЭХ</cyrillic>
+      <definition>мелькать, мерцать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠭᠦᠲᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>сүүтэгнэх</cyrillic>
+      <definition>юмны бараа нь бүрэг бараг, сүүдрийн төдий хөдлөн үзэгдэх.</definition>
+      <page>498</page>
+    </entry_item>
+  </entries>
+</entry>

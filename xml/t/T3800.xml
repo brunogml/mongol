@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3800">
+  <head>
+    <unicode>ᠲᠡᠳᠭᠦᠯᠲᠡ</unicode>
+    <transcript>tetgülte</transcript>
+    <transcript2>dedgölde</transcript2>
+    <cyrillic>тэтгэлт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ТЭТГЭЛТ</cyrillic>
+      <definition>I тэтгэлэг-ийг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ТЭТГЭЛТ</cyrillic>
+      <definition>II датљрование; датировка.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тэтгэлт</cyrillic>
+      <definition>1. Fürsorge f, Hilfe f, Zuwendung f
+
+2. alt Datierung f</definition>
+      <page>251</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠳᠬᠦᠯᠲᠡ</unicode>
+      <cyrillic>тэтгэлт /1</cyrillic>
+      <definition>тэтгэлгэ, тэтгэмж, тэтгэвэр.</definition>
+      <page>580</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠳᠬᠦᠯᠲᠡ</unicode>
+      <cyrillic>тэтгэлт /2</cyrillic>
+      <definition>бичигт он сар өдрийг тавих; тэтгэлт нь зөв болсон биз?</definition>
+      <page>580</page>
+    </entry_item>
+  </entries>
+</entry>

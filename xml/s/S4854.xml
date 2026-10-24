@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4854">
+  <head>
+    <unicode>ᠱᠣᠣᠺᠢᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šoukinaγulqu</transcript>
+    <transcript2>sooginagolgo</transcript2>
+    <cyrillic>шуухинуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S4852</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠤᠤᠬᠢᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шуухинуулах</cyrillic>
+      <definition>〔动〕шуухинах 的使动态.</definition>
+      <page>1664</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠣᠺᠢᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШУУХИНУУЛАХ</cyrillic>
+      <definition>шуухинах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шуухинуулах</cyrillic>
+      <definition>Kaus von шуухинах</definition>
+      <page>393</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠤᠤᠬᠢᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шуухинуулах</cyrillic>
+      <definition>шуухинахын үйлдүүлэх хэв.</definition>
+      <page>861</page>
+    </entry_item>
+  </entries>
+</entry>

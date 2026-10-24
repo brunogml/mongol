@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y0001">
+  <head>
+    <transcript>ǰ-a</transcript>
+    <transcript2>y-a</transcript2>
+    <cyrillic>заа</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵ᠎ᠠ</unicode>
+      <uighur>ǰ-a</uighur>
+      <transcript>Z-A</transcript>
+      <definition> A particle which after the narrative present in -mui / -myi and the verb bui expresses presumption, probability, or hope.</definition>
+      <page>1018</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠮᠤᠭᠤᠯᠠᠩ ᠰᠠᠭᠠᠲᠠᠵᠤ ᠠᠮᠤᠢ ᠎ᠵᠠ</unicode>
+          <transcript>amuγulang saγatazu amui -- </transcript>
+          <definition> [I] presume that [you] are in good health (epist. ).</definition>
+        </example>
+        <example>
+          <unicode>... ᠪᠤᠢ ᠎ᠵᠠ ᠪᠢᠵ᠎ᠠ</unicode>
+          <transcript>.. bui -- = ... biz-a. </transcript>
+          <definition>Most probably.</definition>
+        </example>
+        <example>
+          <unicode>ᠢᠷᠡᠮᠦᠢ ᠎ᠵᠠ</unicode>
+          <transcript>iremyi -- </transcript>
+          <definition> Will probably come.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠷᠡ ᠶᠠᠪᠤᠭᠰᠠᠨ ᠪᠤᠢ ᠎ᠵᠠ</unicode>
+          <transcript>tere jabuγsan bui -- </transcript>
+          <definition> [I] presume that he must have gone.</definition>
+        </example>
+        <example>
+          <unicode>ᠤᠴᠢᠷᠠᠯᠳᠤᠬᠤ ᠦᠯᠦ ᠪᠣᠯᠣᠮᠤᠢ ᠎ᠵᠠ</unicode>
+          <transcript>uciralduxu yly bolumui -- </transcript>
+          <definition> Perhaps we shall not meet again.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵ᠎ᠠ</unicode>
+      <definition>il parait, il semble, peut - être.</definition>
+      <page>2232</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠ</unicode>
+      <cyrillic>заа</cyrillic>
+      <definition>〔感〕①（答应声）好吧！好，可以，对，是；唆：~, болно 好，可以；~ мэдлээ 好，我知道了；~ ~ тэгэе 好，好，就那样吧；②（制止别人）够了! 行了！~ боль! 够了，停住吧！③就这样，好吧：~ би явлаа 好吧，我走了；④真的吗？后来呢？那么…：~ тэгээд яагаа вэ? 那么后来如何呢？</definition>
+      <page>521</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4758">
+  <head>
+    <unicode>ᠵᠣᠺᠢᠶᠠᠯᠴᠢ</unicode>
+    <transcript>ǰokiyalči</transcript>
+    <transcript2>yogiyalci</transcript2>
+    <cyrillic>зохиолч</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠣᠺᠢᠶᠠᠯᠴᠢ</unicode>
+      <uighur>ǰokiyalči</uighur>
+      <cyrillic>зохиолч</cyrillic>
+      <transcript>ZOKIJALCI</transcript>
+      <definition>n. Writer, author.</definition>
+      <page>1069</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠷᠠᠨ ᠵᠣᠺᠢᠶᠠᠯᠴᠢ</unicode>
+          <transcript>uran -- </transcript>
+          <definition> Poet, writer, author.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠺᠢᠶᠠᠯᠴᠢ</unicode>
+      <cyrillic>ЗОХИОЛЧ</cyrillic>
+      <definition>писатель, автор, составитель; уран зохиолч писатель; хөгжмийн зохиолч композитр. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠺᠢᠶᠠᠯᠴᠢ</unicode>
+      <cyrillic>ЗОХИОЛЧИД</cyrillic>
+      <definition>зохиолч-ийн олон., писатели; Монголын зохиолчдын эвлэл Союз монгольских писателей. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зохиолч</cyrillic>
+      <definition>Schriftsteller m; жүжгийн ~ Dramatiker m; Монголын ÷дын Эвлэл Mongolischer Schriftstellerverband</definition>
+      <page>122</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠣᠬᠢᠶᠠᠯᠴᠢ</unicode>
+      <cyrillic>зохиолч</cyrillic>
+      <definition>ном бичиг зохиодог хүн; уран зохиолч; түүхийн зохиолч; хүүхдийн зохиолч; кино зохиолч; зохиолчдын холбоо; зохиолчдын хороо; зохиолчдын их хурал.</definition>
+      <page>276</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Y4754</ref>
+  </related_to>
+</entry>

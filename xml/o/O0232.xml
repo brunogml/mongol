@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="O0232">
+  <head>
+    <unicode>ᠥᠨᠥᠴᠢᠷᠠᠺᠥ</unicode>
+    <transcript>önüčirekü</transcript>
+    <transcript2>önöciregö</transcript2>
+    <cyrillic>өнөчрөх</cyrillic>
+  </head><derivatives>
+    <ref>O0233</ref>
+  
+    <ref>O0231</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠥᠨᠥᠴᠢᠷᠠᠺᠥ</unicode>
+      <uighur>önüčirekü</uighur>
+      <cyrillic>өнөчрөх</cyrillic>
+      <transcript>ØNYCIRE-</transcript>
+      <definition>[= ønycid-] v. i. To become an orphan.</definition>
+      <page>639</page>
+      <examples>
+        <example>
+          <unicode>ᠥᠨᠥᠴᠢᠷᠠᠭᠰᠡᠨ</unicode>
+          <transcript>--gsen</transcript>
+          <definition> Survivor (orphan, widow).</definition>
+        </example>
+        <example>
+          <unicode>ᠥᠨᠥᠴᠢᠷᠠᠨ ᠬᠣᠴᠤᠷᠠᠬᠤ</unicode>
+          <transcript>--n xocuraxu</transcript>
+          <definition> To be left an orphan</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠦᠨᠦᠴᠢᠷᠡᠺᠦ</unicode>
+      <definition>devenir orphelin, être privé de son père ou de sa mère.</definition>
+      <page>486</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠥᠨᠥᠴᠢᠷᠠᠺᠥ</unicode>
+      <uighur>ünüčirekü</uighur>
+      <definition>verwaisen.</definition>
+      <page>64</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠥᠨᠥᠴᠢᠷᠠᠺᠥ</unicode>
+      <uighur>ünüčirekü</uighur>
+      <definition>(ö) To become an orphan. To become fatherless</definition>
+      <page>252</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠨᠥᠴᠢᠷᠠᠺᠥ</unicode>
+      <cyrillic>ӨНЧРӨХ</cyrillic>
+      <definition>1. 1) осиротеть; хүүхдүүд өнчирчээ дети осиротели; 2) шилж. чувствовать одиночество, лишаться заботы кого-л.; найзыгаа явсанаас хойш өнчирсөн юм шиг болчихжээ во время отсутствия друга чувствовал себя одиноким; 2. өнчрөхүй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠨᠥᠴᠢᠷᠠᠺᠥ</unicode>
+      <cyrillic>ӨНЧРӨХҮЙ</cyrillic>
+      <definition>сиротство, одиночество. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠨᠥᠴᠢᠷᠠᠺᠥ</unicode>
+      <cyrillic>ӨНЧИРСӨН</cyrillic>
+      <definition>үйлт нэрийн өнгөрсөн цаг., осиротевший, осиротелый; багадаа өнчирсөн осиротевший в детстве; өнчирсөн унага осиротелый жеребёнок. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

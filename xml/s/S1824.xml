@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S1824">
+  <head>
+    <unicode>ᠱᠠᠷᠳᠠ</unicode>
+    <transcript>šarda</transcript>
+    <transcript2>sarda</transcript2>
+    <cyrillic>шард</cyrillic>
+  </head><see_also>
+    <ref>S1822</ref>
+  
+    <ref>S1823</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠱᠠᠷᠳᠠ</unicode>
+      <uighur>šarda</uighur>
+      <cyrillic>шaрд</cyrillic>
+      <transcript>ŠARDA</transcript>
+      <definition>[= šard]</definition>
+      <page>753</page>
+      <examples>
+        <example>
+          <unicode>ᠱᠠᠷᠳᠠ ᠺᠢᠺᠦ</unicode>
+          <transcript>--kiky</transcript>
+          <definition> To rustle (as leaves); to crack, crackle</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠷᠳ᠋</unicode>
+      <cyrillic>шард</cyrillic>
+      <definition>见 ~ хийх, ~ гэх 发飒飒声，沙沙作响（指树叶），发喀嚓声，破裂作响（由于崩塌或断裂）.</definition>
+      <page>1622</page>
+    </entry_item>
+  </entries>
+</entry>

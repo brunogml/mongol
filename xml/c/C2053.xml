@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2053">
+  <head>
+    <unicode>ᠴᠢᠴᠠᠣᠰᠬᠣ</unicode>
+    <transcript>čičausqu</transcript>
+    <transcript2>cicaosgo</transcript2>
+    <cyrillic>чацуусах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C2052</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <cyrillic>чацуусах</cyrillic>
+      <definition>〔动〕变相等，愈加相同，愈加一样.</definition>
+      <page>1583</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠴᠠᠣᠰᠬᠣ</unicode>
+      <cyrillic>ЧАЦУУСАХ</cyrillic>
+      <definition>почти сравняться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠴᠠᠤᠰᠬᠤ</unicode>
+      <cyrillic>чацуусах</cyrillic>
+      <definition>улам чацуу болох.</definition>
+      <page>816</page>
+    </entry_item>
+  </entries>
+</entry>

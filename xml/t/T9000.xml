@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T9000">
+  <head>
+    <unicode>ᠲᠥᠺᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>tügegülkü</transcript>
+    <transcript2>dögegölgö</transcript2>
+  </head><related_to>
+    <ref>T8999</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠦᠺᠡᠭᠦᠯᠺᠦ</unicode>
+      <definition>faire donner ou faire partager, distribuer également; 2 faire répandre.</definition>
+      <page>1929</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠡᠷᠡᠯ ᠢᠶᠡᠷ ᠬᠠᠮᠤᠭ ᠤᠷᠤᠳ ᠢ ᠳᠦᠺᠡᠭᠦᠯᠦᠨ ᠦᠢᠯᠡᠳᠺᠦ</unicode>
+          <definition>éclairer également toutes les contrées</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠥᠺᠡᠺᠥᠯᠺᠥ</unicode>
+      <uighur>dükegülkü</uighur>
+      <definition>siehe tügegekü</definition>
+      <page>258</page>
+    </entry_item>
+  </entries>
+</entry>

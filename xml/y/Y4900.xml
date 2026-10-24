@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4900">
+  <head>
+    <unicode>ᠵᠣᠷᠰᠢᠬᠣ</unicode>
+    <transcript>ǰursiqu</transcript>
+    <transcript2>yorsigo</transcript2>
+    <cyrillic>зурших</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y4901</ref>
+    <ref>Y4904</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠤᠷᠰᠢᠬᠤ</unicode>
+      <cyrillic>зурших</cyrillic>
+      <definition>〔动〕①形成习惯，形成常规；②下决心；大胆起来，勇气增加.</definition>
+      <page>579</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠷᠰᠢᠬᠣ</unicode>
+      <cyrillic>ЗУРШИХ</cyrillic>
+      <definition>становиться привычкой. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зурших</cyrillic>
+      <definition>sich einbürgern, zur Gewohnheit werden</definition>
+      <page>126</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠤᠷᠰᠢᠬᠤ</unicode>
+      <cyrillic>зурших</cyrillic>
+      <definition>1. журам болон заншиж хэвших;2. зор нь сайжран үүсэх тогтох.</definition>
+      <page>286</page>
+    </entry_item>
+  </entries>
+</entry>

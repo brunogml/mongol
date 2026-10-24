@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I0032">
+  <head>
+    <unicode>ᠢᠨᠠᠬᠰᠢᠳᠠ</unicode>
+    <transcript>inaγsida</transcript>
+    <transcript2>inagsida</transcript2>
+    <cyrillic>янагшид</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠢᠨᠠᠬᠰᠢᠳᠠ</unicode>
+      <uighur>inaqsida</uighur>
+      <cyrillic>янагшид</cyrillic>
+      <transcript>INAΓSIDA</transcript>
+      <definition>adv. Here, hither, on this side, nearer, closer; up to here; as far as this.</definition>
+      <page>410</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠡᠷᠦᠭᠰᠡᠨ ᠡᠴᠡ ᠢᠨᠠᠬᠰᠢᠳᠠ</unicode>
+          <transcript>terygsen ece --</transcript>
+          <definition> From the time of birth.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠢᠨᠠᠬᠰᠢᠳᠠ</unicode>
+      <definition>ici, (approchez-vous) plus près, jusque jusque là; dès, depuis,. d'ici, de là.</definition>
+      <page>277</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠥᠷᠥᠺᠰᠡᠨ᠎ᠡᠴᠡ ᠢᠨᠠᠬᠰᠢᠳᠠ</unicode>
+          <definition>depuis la naissance même.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠨᠠᠭᠰᠢᠳᠠ</unicode>
+      <cyrillic>янагшид</cyrillic>
+      <definition>〔副〕〈书〉意同 наашид.</definition>
+      <page>1752</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠨᠠᠬᠰᠢᠳᠠ</unicode>
+      <cyrillic>ЯНАГШИД</cyrillic>
+      <definition>монг.бичг. наашид-ийг үз., 1) сюда, ближе; 2) до, до сих пор, начиная с... </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠨᠠᠭᠰᠢᠳᠠ</unicode>
+      <cyrillic>янагшид</cyrillic>
+      <definition>&lt;бичиг&gt;наашид.</definition>
+      <page>907</page>
+    </entry_item>
+  </entries>
+</entry>

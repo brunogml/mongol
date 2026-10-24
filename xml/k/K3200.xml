@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K3200">
+  <head>
+    <unicode>ᠺᠥᠩᠺᠡᠳᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>könggedegülkü</transcript>
+    <transcript2>gönggedegölgö</transcript2>
+    <cyrillic>хөнгөдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K3199</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠩᠭᠡᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хөнгөдүүлэх</cyrillic>
+      <definition>〔动〕хөнгөдөх 的使动态.</definition>
+      <page>1399</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠩᠺᠡᠳᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ХӨНГӨДҮҮЛЭХ</cyrillic>
+      <definition>хөнгөдөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хөнгөдүүлэх</cyrillic>
+      <definition>1. Kaus von хөнгөдөх
+2. zu leicht machen; zu sehr erleichtern od mildern</definition>
+      <page>319</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠩᠭᠡᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хөнгөдүүлэх</cyrillic>
+      <definition>хөнгөдөхийн үйлдүүлэх хэв, хөнгөн болгох.</definition>
+      <page>711</page>
+    </entry_item>
+  </entries>
+</entry>

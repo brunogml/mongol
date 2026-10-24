@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N0290">
+  <head>
+    <unicode>ᠨᠠᠳᠠ</unicode>
+    <transcript>nada</transcript>
+    <transcript2>nada</transcript2>
+    <cyrillic>над</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠨᠠᠳᠠ</unicode>
+      <uighur>nada</uighur>
+      <cyrillic>над</cyrillic>
+      <transcript>NADA</transcript>
+      <definition>Allomorphic stem of bi, I; dat. -loc.of bi, I</definition>
+      <page>556</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠠᠳᠠ ᠳ᠋‍‍ᠤ‍ᠷ</unicode>
+          <transcript>-- dur</transcript>
+          <definition> Dative-locative of bi,I.</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠠᠳᠠ ᠡᠴᠡ = ᠨᠠᠳᠠᠴᠠ</unicode>
+          <transcript>-- ece = nadaca</transcript>
+          <definition> Ablative of bi, I.</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠠᠳᠠ ᠎ᠯᠤᠭ᠎ᠠ</unicode>
+          <transcript>-- luγ-a </transcript>
+          <definition>Comitative of bi, I</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠨᠠᠳᠠ ~ ᠨᠠᠳᠣᠷ</unicode>
+      <definition>à moi, moi, en moi, sur moi, chez moi.</definition>
+      <page>612</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠠᠳᠠ ᠡᠴᠡ ~ ᠨᠠᠳᠠᠴᠠ</unicode>
+          <definition>de chez moi, plus que moi</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠠᠳᠠ ᠪᠡᠷ</unicode>
+          <definition>par moi</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠠᠳᠠ ᠎ᠯᠤᠭ᠎ᠠ</unicode>
+          <definition>avec moi</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠨᠠᠳᠠ</unicode>
+      <uighur>nada</uighur>
+      <definition>siehe nadur</definition>
+      <page>83</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠨᠠᠳᠠ</unicode>
+      <uighur>nada</uighur>
+      <definition>To me</definition>
+      <page>330</page>
+      <examples>
+        <example>
+          <uighur>nada-ača</uighur>
+          <definition>From me</definition>
+        </example>
+        <example>
+          <uighur>nada ber</uighur>
+          <definition>Through me</definition>
+        </example>
+        <example>
+          <uighur>nada-luγ-a</uighur>
+          <definition>With me</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠠᠳᠠ</unicode>
+      <cyrillic>над</cyrillic>
+      <definition>〔代〕①（ би 的给在格）对我，向我，在我这儿，为我：~ хэрэгтэй ном 对我有用的书，我需用的书；~ руу ир 到我这边来；~ өгөөч ! 给我吧！ ~ алга 我没有；②би 变给在格，由从格，用让格、共同格的词干：~аар юм явуулсан 让我送去了东西，让我捎去了东西；~аас гарсан хэрэг биш 不是由我做的事，不是我作的案；~ад хэлэх юм алга 我没有要说的；~тай хамт яваарай 请和我一起走.</definition>
+      <page>717</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠳᠠ</unicode>
+      <cyrillic>НАД</cyrillic>
+      <definition>би-ийн ө.о., мне; у меня; ко мне; для меня; над байхгүй у меня нет; над зав алга у меня нет свободного времени; над өгөөч дайте, пожалуйста, мне; над тустай мне полезно; над хэрэгтэй мне нужно, мне надо; над шиг как я, подобно мне; тэр над сайн он относится ко мне хорошо; над сайн байна для меня хорошо; над руу ир иди ко мне; над шөл нэмнэ үү добавьте мне супу; над лугаа со мной. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠳᠠ</unicode>
+      <cyrillic>НАДААР</cyrillic>
+      <definition>би-ийн үйлдэх., от меня, у меня; через меня, мной, мною; при моём участии; надаар дамжуулан өгөв передали через меня; надаар уламжлан мэдэгдэв сообщили через меня; чи надаар юу хийнэ? зачем я тебе нужен? </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠳᠠ</unicode>
+      <cyrillic>НАДААС</cyrillic>
+      <definition>би-ийн гарах., от меня, у меня; из меня; надаас аваарай возьми у меня; надаас авав взял у меня; надаас дээр лучше меня; энэ бүхэн надаас боллоо всё это из-за меня. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠳᠠ</unicode>
+      <cyrillic>НАДАД</cyrillic>
+      <definition>над-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>над</cyrillic>
+      <definition>(Dat von би) Pers Pron mir; ~ зав алга ich habe keine Zeit; ~ өгөөч gib mir; ~ шиг залуу jung wie ich</definition>
+      <page>151</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠠᠳᠠ</unicode>
+      <cyrillic>над</cyrillic>
+      <definition>миний биед; над хэрэгтэй ном; над өгөөч; над алга; тэгвэл ч над сайн шүү; надаар юм явуулсан; чи надаар яах гэсэн юм бэ?; надаас авлаа; надаас гарсан хэрэг биш; надад хэлэх юм алга байна; надтай хамт яваарай; надтай ярьсны хэрэггүй.</definition>
+      <page>362</page>
+    </entry_item>
+  </entries>
+</entry>

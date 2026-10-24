@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3820">
+  <head>
+    <unicode>ᠶᠣᠨᠳᠣᠶᠢᠬᠣ</unicode>
+    <transcript>yonduyiqu</transcript>
+    <transcript2>yondoyigo</transcript2>
+    <cyrillic>ёндойх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y3827</ref>
+  </derivatives>
+  <see_also>
+    <ref>Y3819</ref>
+    <ref>Y3821</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠣᠨᠳᠣᠢᠬᠤ</unicode>
+      <cyrillic>ёндойх</cyrillic>
+      <definition>〔动〕参见 ёмбойх.</definition>
+      <page>491</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠣᠨᠳᠣᠶᠢᠬᠣ</unicode>
+      <cyrillic>ЁНДОЙХ</cyrillic>
+      <definition>1) выступать, выдаваться; торчать; 2) становиться долговязым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠣᠨᠳᠣᠢᠬᠤ</unicode>
+      <cyrillic>ёндойх</cyrillic>
+      <definition>ёндгор байдалтай болох, ёндгор сандал, ёндгор бөгстэй морь.</definition>
+      <page>236</page>
+    </entry_item>
+  </entries>
+</entry>

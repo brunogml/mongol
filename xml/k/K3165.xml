@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K3165">
+  <head>
+    <unicode>ᠭᠦᠩ</unicode>
+    <transcript>güng</transcript>
+    <transcript2>göng</transcript2>
+    <cyrillic>гүн</cyrillic>
+  </head>
+  <see_also>
+    <ref>K2970</ref>
+    <ref>K3164</ref>
+    <ref>K3166</ref>
+  </see_also>
+  <derivatives>
+    <ref>K3272a</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠥᠩ</unicode>
+      <uighur>güng</uighur>
+      <cyrillic>гүн(г)</cyrillic>
+      <transcript>GYNG</transcript>
+      <definition>[Ch. kung] n. A feudal title roughly equivalent to duke or count.</definition>
+      <page>391</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠯᠤᠰ ᠎ᠲᠤᠷ ᠲᠤᠰᠠᠯᠠᠬᠤ ᠭᠥᠩ</unicode>
+          <transcript>ulus tur tusalaxu - -</transcript>
+          <definition>Imperial Duke of the second degree (Ch. fu-kuo-kung).</definition>
+        </example>
+        <example>
+          <unicode>ᠤᠯᠤᠰ ᠤᠨ ᠲᠦᠰᠢᠶ᠎ᠡ ᠭᠥᠩ</unicode>
+          <transcript>ulus un tysij -e - -</transcript>
+          <definition>Imperial Duke of the first degree (Ch. chen-kuo-kung)</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠦᠩ</unicode>
+      <definition>1 mines d'or, d'argent, etc. 
+
+2 mérite: 
+
+3 nom d'une dignité [comte?], prince de la 4ème et de la 3ème classe</definition>
+      <page>2571</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠦᠩ ᠢᠯᠭᠠᠬᠤ</unicode>
+          <definition>recueillir des informations sur le merites des offcíciers civils, constater la conduite, et donner des marques pour reconnaître le mérite</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠺᠥᠩ</unicode>
+      <uighur>küng</uighur>
+      <definition>die Erzgrube, Mine</definition>
+      <page>207</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠺᠥᠩ</unicode>
+      <uighur>küng</uighur>
+      <definition>n. A pit. A mine. A duke. Title of nobility</definition>
+      <page>814</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠩ</unicode>
+      <cyrillic>ГҮН(Г)</cyrillic>
+      <definition>V түүх. граф (четвёртая степень княжеского достоинства); ван гүн хорш. князья; феодалы.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠦᠩ</unicode>
+      <cyrillic>гүн /1</cyrillic>
+      <definition>Манж чин улсын хэтэрхий дөрвөн хэргэмийн дөрөвдүгээр; дотроо: улсын түшээ гүн, улсад туслагч гүн, гүнгийн зэрэг засаг тэргүүн зэрэг тайж гэж гурван зэрэг байжээ.</definition>
+      <page>165</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠦᠩ</unicode>
+      <cyrillic>гүн /2</cyrillic>
+      <definition>&lt;хуучирсан&gt;гавьяа шагнал гэсэнтэй адил утгатай; гүн байгуулав; гүн бий.</definition>
+      <page>165</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠦᠩ</unicode>
+      <cyrillic>гүн /3</cyrillic>
+      <definition>ашигт малтмалын уурхай; алтны гүн; нүүрсний гүн.</definition>
+      <page>165</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠦᠩ</unicode>
+      <cyrillic>гүн /4</cyrillic>
+      <definition>цэцэг өвчний туурлын уг авд арилахгүй яртсан нь; цэцгийн гүн тогтох.</definition>
+      <page>165</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠦᠩ</unicode>
+      <cyrillic>гүн /8</cyrillic>
+      <definition>маш нарийн сайн хийцтэй; гүн хийцтэй хэт хутга; гүн урлал.</definition>
+      <page>165</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠦᠩ</unicode>
+      <cyrillic>гүн /9</cyrillic>
+      <definition>хурцлаг сайн амт; гүн амттай хоол; гүн шөл.</definition>
+      <page>165</page>
+    </entry_item>
+  </entries>
+</entry>

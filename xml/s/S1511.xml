@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1511">
+  <head>
+    <unicode>ᠱᠠᠺᠢᠨᠠᠬᠣ</unicode>
+    <transcript>šakinaqu</transcript>
+    <transcript2>saginago</transcript2>
+    <cyrillic>шахинах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1512</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠬᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>шахинах</cyrillic>
+      <definition>〔动〕作辗轧声，发出吱吱咯咯声.</definition>
+      <page>1626</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠺᠢᠨᠠᠬᠣ</unicode>
+      <cyrillic>ШАХИНАХ</cyrillic>
+      <definition>скрипеть. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шахинах</cyrillic>
+      <definition>= цахрах</definition>
+      <page>382</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠬᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>шахинах</cyrillic>
+      <definition>чахран дуугарах, чахрах.</definition>
+      <page>841</page>
+    </entry_item>
+  </entries>
+</entry>

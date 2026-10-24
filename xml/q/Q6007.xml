@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q6007">
+  <head>
+    <unicode>ᠬᠣᠮᠣᠭᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>qomuγalǰaγulqu</transcript>
+    <transcript2>gomogalcagolgo</transcript2>
+    <cyrillic>хомголзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q6006</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠣᠮᠣᠭᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хомголзуулах</cyrillic>
+      <definition>〔动〕хомголзох 的使动态.</definition>
+      <page>1359</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠮᠣᠭᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХОМГОЛЗУУЛАХ</cyrillic>
+      <definition>хомголзох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хомголзуулах</cyrillic>
+      <definition>Kaus von хомголзох</definition>
+      <page>309</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠮᠣᠬᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хомголзуулах</cyrillic>
+      <definition>хомголзохын үйлдүүлэх хэв.</definition>
+      <page>688</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A0718">
+  <head>
+    <unicode>ᠠᠭᠠᠷᠵᠢᠬᠤ</unicode>
+    <transcript>aγarǰiqu</transcript>
+    <transcript2>agarcigo</transcript2>
+    <cyrillic>агааржих</cyrillic>
+  </head><derivatives>
+    <ref>A0723</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠭᠠᠷᠵᠢᠬᠤ</unicode>
+      <cyrillic>агааржих</cyrillic>
+      <definition>〔动〕通气，空气流动，通风.</definition>
+      <page>16</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠠᠷᠵᠢᠬᠤ</unicode>
+      <cyrillic>АГААРЖИХ</cyrillic>
+      <definition>тусг. аэрация; барилга агааржих аэрация зданий; ус агааржих аэрация воды; хөрс агааржих аэрация почвы.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠠᠷᠵᠢᠭᠰᠠᠨ</unicode>
+      <cyrillic>АГААРЖСАН</cyrillic>
+      <definition>тусг. аэрационный.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Bawden</dico>
+      <cyrillic>агааржих</cyrillic>
+      <definition>to be ventilated, to be aerated</definition>
+      <page>4</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3016">
+  <head>
+    <unicode>ᠴᠣᠯᠴᠣᠩᠲᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čolčungtuγulqu</transcript>
+    <transcript2>colcongdogolgo</transcript2>
+    <cyrillic>цолцонтуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C3015</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠣᠯᠴᠣᠩᠲᠣᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цолцонтуулах</cyrillic>
+      <definition>〔动〕цолцонтох 的使动态.</definition>
+      <page>1532</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠯᠴᠣᠩᠲᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦОЛЦОНТУУЛАХ</cyrillic>
+      <definition>цолцонтох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цолцонтуулах</cyrillic>
+      <definition>Kaus von цолцонтох</definition>
+      <page>356</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠣᠯᠴᠣᠩᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цолцонтуулах</cyrillic>
+      <definition>цолцонтохын үйлдүүлэх хэв.</definition>
+      <page>789</page>
+    </entry_item>
+  </entries>
+</entry>

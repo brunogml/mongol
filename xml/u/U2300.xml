@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2300">
+  <head>
+    <unicode>ᠣᠶᠢᠰᠢᠶᠠᠯᠲᠠᠢ</unicode>
+    <transcript>oyisiyaltai</transcript>
+    <transcript2>oyisiyaldai</transcript2>
+    <cyrillic>ойшоолтой</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠢᠰᠢᠶᠠᠯᠲᠠᠢ</unicode>
+      <cyrillic>ойшоолтой</cyrillic>
+      <definition>〔形〕①应予理会的，值得关注的；②应予赞同的，值得赞赏的.</definition>
+      <page>797</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠶᠢᠰᠢᠶᠠᠯᠲᠠᠢ</unicode>
+      <cyrillic>ОЙШООЛТОЙ</cyrillic>
+      <definition>достойный внимания. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>ойшоолтой</cyrillic>
+      <definition>anerkennenswert, beachtlich</definition>
+      <page>169</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠢᠰᠢᠶᠠᠯᠲᠠᠢ</unicode>
+      <cyrillic>ойшоолтой</cyrillic>
+      <definition>ойшоовол зохих, ойшоомоор.</definition>
+      <page>411</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>U2298a</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S2037">
+  <head>
+    <unicode>ᠰᠠᠪᠠᠺᠢ</unicode>
+    <transcript>sebeki</transcript>
+    <transcript2>sebegi</transcript2>
+    <cyrillic>сэвхь</cyrillic>
+  </head><see_also>
+    <ref>S2055</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠪᠠᠺᠢ</unicode>
+      <uighur>sebeki</uighur>
+      <cyrillic>сэвхь</cyrillic>
+      <transcript>SEBEKI</transcript>
+      <definition>[=sebiki] n. and adj. Trifle, absurdity, non-sense; a thing of litte importance; insignificant, irrelevant, trifling.</definition>
+      <page>678</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠪᠠᠺᠢ ᠴᠠᠭᠠᠨ ᠬᠠᠨᠢᠶᠠᠳᠤ</unicode>
+          <transcript>-- caγan xanijadu</transcript>
+          <definition> Little cough.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠪᠠᠺᠢ ᠬᠤᠳᠠᠯ ᠢᠶᠠᠷ ᠴᠠᠯᠴᠢᠬᠤ</unicode>
+          <transcript>-- xudal ijer calcixu</transcript>
+          <definition> To tell tall tales, speak nonsense</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠡᠪᠡᠺᠢ ~ ᠰᠡᠪᠢᠺᠢ</unicode>
+      <definition>bagatelle, minutie. absurdités, balivernes, fadaises; 2 de peu d'importance. futile, rien. nul.</definition>
+      <page>1343</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠦᠪᠡᠺᠢ ᠰᠡᠪᠡᠺᠢ</unicode>
+          <definition>bagatelles, minuties, fadaises, absurdités</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠡᠪᠡᠺᠢ ᠬᠤᠳᠠᠯ ᠢᠶᠠᠷ ᠴᠠᠯᠴᠢᠬᠤ</unicode>
+          <definition>radoter, dire des balivernes</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠡᠪᠡᠺᠢ ᠴᠠᠭᠠᠨ ᠬᠠᠨᠢᠶᠠᠳᠤᠨ</unicode>
+          <definition>petitte toux</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

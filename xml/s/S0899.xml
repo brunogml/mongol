@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0899">
+  <head>
+    <unicode>ᠱᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šalaγulqu</transcript>
+    <transcript2>salagolgo</transcript2>
+    <cyrillic>шалуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S0898</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАЛУУЛАХ</cyrillic>
+      <definition>1) шалах I-ын үйлдүүл.; 2) быть упрашиваемым; 3) быть шахованным (конём, слоном или ферзём). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠯᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шалуулах /1</cyrillic>
+      <definition>шалахын үйлдүүлэх хэв.</definition>
+      <page>834</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠯᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шалуулах /2</cyrillic>
+      <definition>шатарцахад эсэргүүцэл этгээдийн ноёныг морь, тэрэг, бэрсийн аль нэгээр хөллөн хэрэлдүүлэх.</definition>
+      <page>834</page>
+    </entry_item>
+  </entries>
+</entry>

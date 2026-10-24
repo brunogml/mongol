@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T4281">
+  <head>
+    <unicode>ᠳᠠᠺᠠᠰᠥᠷᠠᠺᠥ</unicode>
+    <transcript>degesürekü</transcript>
+    <transcript2>degesöregö</transcript2>
+    <cyrillic>дээсрэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T4282</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠡᠭᠡᠰᠦᠷᠡᠬᠦ</unicode>
+      <cyrillic>дээсрэх</cyrillic>
+      <definition>〔动〕①成带子，成绳子；搓绳子；②扭结起来.</definition>
+      <page>481</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠺᠠᠰᠥᠷᠠᠺᠥ</unicode>
+      <cyrillic>ДЭЭСЛЭХ</cyrillic>
+      <definition>1) измерять верёвкой (в землемерной работе); 2) связывать верёвкой. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠺᠠᠰᠥᠷᠠᠺᠥ</unicode>
+      <cyrillic>ДЭЭСРЭХ</cyrillic>
+      <definition>заплетаться, скручиваться верёвкой, как верёвка. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠭᠡᠰᠦᠷᠡᠬᠦ</unicode>
+      <cyrillic>дээсрэх</cyrillic>
+      <definition>дээс болох, эрчлэгдэн мушгирах.</definition>
+      <page>232</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T4273</ref>
+  </related_to>
+</entry>

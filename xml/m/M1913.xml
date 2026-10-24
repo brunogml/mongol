@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1913">
+  <head>
+    <unicode>ᠮᠣᠯᠲᠣᠴᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>multučiγulqu</transcript>
+    <transcript2>moldocigolgo</transcript2>
+    <cyrillic>мултчуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>M1912</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠤᠯᠲᠤᠴᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>мултчуулах</cyrillic>
+      <definition>〔动〕мултчих 的使动态.</definition>
+      <page>694</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠯᠲᠣᠴᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>МУЛТЧУУЛАХ</cyrillic>
+      <definition>мултчих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠤᠯᠲᠤᠴᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>мултчуулах</cyrillic>
+      <definition>мултчихын үйлдүүлэх хэв.</definition>
+      <page>349</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1545">
+  <head>
+    <unicode>ᠪᠠᠷᠰᠠᠭᠠᠷᠳᠠᠬᠣ</unicode>
+    <transcript>barsaγardaqu</transcript>
+    <transcript2>barsagardago</transcript2>
+    <cyrillic>барсгардах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B1547</ref>
+  </derivatives>
+  <see_also>
+    <ref>B1546</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠷᠰᠠᠭᠠᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>барсгардах</cyrillic>
+      <definition>〔动〕变得太粗糙不平.</definition>
+      <page>138</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠷᠰᠠᠭᠠᠷᠳᠠᠬᠣ</unicode>
+      <cyrillic>БАРСГАРДАХ</cyrillic>
+      <definition>быть торчащим.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠷᠰᠠᠭᠠᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>барсгардах</cyrillic>
+      <definition>хэтэрхий барсгар болох.</definition>
+      <page>78</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S3082">
+  <head>
+    <unicode>ᠰᠢᠨᠣᠬᠯᠠᠬᠣ</unicode>
+    <transcript>sinuγlaqu</transcript>
+    <transcript2>sinoglago</transcript2>
+    <cyrillic>шунаглах</cyrillic>
+  </head><derivatives>
+    <ref>S3083</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠨᠤᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>шунаглах</cyrillic>
+      <definition>〔动〕贪求，贪图，贪得，贪婪.</definition>
+      <page>1659</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠨᠣᠬᠯᠠᠬᠣ</unicode>
+      <cyrillic>ШУНАГЛАХ</cyrillic>
+      <definition>шунахайрах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>шунаглах</cyrillic>
+    <definition>gieren (nach -д), begehren (Akk -д)</definition>
+    <page>392</page>
+  </entry_item>
+  </entries>
+</entry>

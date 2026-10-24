@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C0080">
+  <head>
+    <unicode>ᠴᠠᠬ ᠠ</unicode>
+    <transcript>čaq-a</transcript>
+    <transcript2>caga</transcript2>
+    <cyrillic>цах</cyrillic>
+  </head>
+  <see_also>
+    <ref>C0191</ref>
+    <ref>C0081</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠬᠠ</unicode>
+      <uighur>čaqa</uighur>
+      <cyrillic>цах</cyrillic>
+      <transcript>CAXA</transcript>
+      <definition>1 n. Small child, infant.</definition>
+      <page>166</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠯᠠᠭᠠᠨ ᠴᠠᠬᠠ</unicode>
+          <transcript>ulaγan --</transcript>
+          <definition>Newborn baby.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠬᠠ</unicode>
+      <uighur>čaqa</uighur>
+      <cyrillic>цах</cyrillic>
+      <transcript>CAXA</transcript>
+      <definition>2S ee caxu</definition>
+      <page>166</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠠᠬᠠ</unicode>
+      <definition>petit enfant: 2 i, q. tsakhou, un étai, un étançon</definition>
+      <page>2080</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠬᠠ</unicode>
+      <cyrillic>ЦАХ</cyrillic>
+      <definition>I младенец; улаан цах только что родившийся ребёнок, новорождённый.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

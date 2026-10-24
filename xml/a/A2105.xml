@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A2105">
+  <head>
+    <unicode>ᠠᠳᠢᠰᠲᠣ</unicode>
+    <transcript>adistu</transcript>
+    <transcript2>adisdo</transcript2>
+    <cyrillic>адист</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠳᠢᠰᠲᠣ</unicode>
+      <uighur>adistu</uighur>
+      <cyrillic>адист</cyrillic>
+      <transcript>ADISTU</transcript>
+      <definition>See adistai</definition>
+      <page>11</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠳᠢᠰᠳᠤ</unicode>
+      <definition>béni, bienheureux, comblé de bénédictions</definition>
+      <page>70</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠳᠢᠰᠳᠤ ᠰᠢᠲᠦᠭᠡᠨ</unicode>
+          <definition>reliques des saints, chasse où reposent les reliques des saints.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠳᠢᠰᠲᠣ</unicode>
+      <cyrillic>АДИСТ</cyrillic>
+      <definition>благословенный, благодатный; адист шүтээн шашин. а) благословенная реликвия; б) бренные останки, кости святоши.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Mostaert</dico>
+      <unicode>ᠠᠳᠢᠰᠲᠣ</unicode>
+      <definition>qui confère des bénédictions (s'entend dans les chansons)</definition>
+      <page>4</page>
+    </entry_item>
+  </entries>
+<related_to><ref>A2090</ref></related_to><see_also><ref>A2092</ref></see_also></entry>

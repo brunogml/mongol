@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1822">
+  <head>
+    <unicode>ᠣᠯᠪᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ulbaraγulqu</transcript>
+    <transcript2>olbaragolgo</transcript2>
+    <cyrillic>улбаруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U1821</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠯᠪᠤᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>улбаруулах</cyrillic>
+      <definition>〔动〕улбарах 的使动态.</definition>
+      <page>1185</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠯᠪᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>УЛБАРУУЛАХ</cyrillic>
+      <definition>улбарах-ын үйлдүүл., переменять, изменять. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>улбаруулах</cyrillic>
+      <definition>Kaus von улбарах</definition>
+      <page>255</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠯᠪᠤᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>улбаруулах</cyrillic>
+      <definition>улбарахын үйлдүүлэх хэв.</definition>
+      <page>590</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3002">
+  <head>
+    <unicode>ᠲᠠᠷᠴᠢᠺᠢᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tarčiginaγulqu</transcript>
+    <transcript2>darciginagolgo</transcript2>
+    <cyrillic>тарчигнуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T2999</ref>
+  </related_to>
+  <see_also>
+    <ref>T3003</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠷᠴᠢᠭᠢᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тарчигнуулах</cyrillic>
+      <definition>〔动〕тарчигнах 使动态.</definition>
+      <page>1033</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠷᠴᠢᠺᠢᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАРЧИГНУУЛАХ</cyrillic>
+      <definition>тарчигнах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тарчигнуулах</cyrillic>
+      <definition>Kaus von тарчигнах</definition>
+      <page>221</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠷᠴᠢᠭᠢᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тарчигнуулах</cyrillic>
+      <definition>тарчигнахын үйлдүүлэх хэв.</definition>
+      <page>524</page>
+    </entry_item>
+  </entries>
+</entry>

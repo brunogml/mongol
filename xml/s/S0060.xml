@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S0060">
+  <head>
+    <unicode>ᠰᠠᠨᠠᠰᠢ</unicode>
+    <transcript>sanasi</transcript>
+    <transcript2>sanasi</transcript2>
+    <cyrillic>санаш</cyrillic>
+  </head><derivatives>
+    <ref>S0058</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠠᠨᠠᠰᠢ ᠦᠭᠡᠢ</unicode>
+      <definition>inimaginable.</definition>
+      <page>1284</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠨᠠᠰᠢ</unicode>
+      <cyrillic>САНАШГҮЙ</cyrillic>
+      <definition>невообразимый, немыслимый, невозможный. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

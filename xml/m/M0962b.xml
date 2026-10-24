@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0962b">
+  <head>
+    <transcript>metal</transcript>
+    <transcript2>medal</transcript2>
+    <cyrillic>метал</cyrillic>
+  </head>
+  <see_also>
+    <ref>M0962a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠮᠧᢐᠠᠯ</unicode>
+      <uighur>mETal</uighur>
+      <cyrillic>метал</cyrillic>
+      <transcript>METAL</transcript>
+      <definition>[R. метал] n. Metal.</definition>
+      <page>538</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠧᠲᠠᠯ</unicode>
+      <cyrillic>металл</cyrillic>
+      <definition>төмөрлөг.</definition>
+      <page>336</page>
+    </entry_item>
+  </entries>
+</entry>

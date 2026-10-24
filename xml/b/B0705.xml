@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0705">
+  <head>
+    <unicode>ᠪᠠᠳᠭᠠᠨᠠᠲᠣᠬᠣ</unicode>
+    <transcript>badγanatuqu</transcript>
+    <transcript2>badganadogo</transcript2>
+    <cyrillic>бадганатах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>X0553</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠳᠭᠠᠨᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>бадганатах</cyrillic>
+      <definition>〔动〕〈植〉患胃癌.</definition>
+      <page>111</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠳᠭᠠᠨᠠᠲᠣᠬᠣ</unicode>
+      <cyrillic>БАДГАНАТАХ</cyrillic>
+      <definition>болеть раком желудка.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бадганатах</cyrillic>
+      <definition>an Magenkrebs erkranken</definition>
+      <page>42</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠳᠭᠠᠨᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>бадганатах</cyrillic>
+      <definition>бадгана өвчин хүртэх.</definition>
+      <page>66</page>
+    </entry_item>
+  </entries>
+</entry>

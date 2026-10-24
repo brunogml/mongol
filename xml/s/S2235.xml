@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2235">
+  <head>
+    <unicode>ᠰᠠᠯᠢᠺᠥᠯᠺᠥ</unicode>
+    <transcript>seligülkü</transcript>
+    <transcript2>seligölgö</transcript2>
+    <cyrillic>сэлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S2234</ref>
+  </related_to>
+  <see_also>
+    <ref>S2213</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠯᠢᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>СЭЛҮҮЛЭХ</cyrillic>
+      <definition>сэлэх I-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠯᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сэлүүлэх</cyrillic>
+      <definition>сэлэхийн үйлдүүлэх хэв.</definition>
+      <page>502</page>
+    </entry_item>
+  </entries>
+</entry>

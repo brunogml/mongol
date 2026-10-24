@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C2121">
+  <head>
+    <unicode>ᠴᠢᠴᠢᠺᠢᠨᠠᠺᠥ</unicode>
+    <transcript>čičiginekü</transcript>
+    <transcript2>ciciginegö</transcript2>
+    <cyrillic>чичигнэх</cyrillic>
+  </head><see_also>
+    <ref>C2116</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠢᠴᠢᠺᠢᠨᠡᠺᠦ</unicode>
+      <definition>rendre un son perçant.</definition>
+      <page>2173</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠴᠢᠺᠢᠨᠠᠺᠥᠢ ᠳᠠᠭᠤᠨ</unicode>
+          <definition>un son qui ébranle, agite</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠴᠢᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>чичигнэх</cyrillic>
+      <definition>〔动〕颤动，发抖，战栗：хоолой ~ 声音颤抖.</definition>
+      <page>1594</page>
+    </entry_item>
+  </entries>
+</entry>

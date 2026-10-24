@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4714">
+  <head>
+    <unicode>ᠪᠥᠺᠠᠵᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>bögeǰilegülkü</transcript>
+    <transcript2>bögecilegölgö</transcript2>
+    <cyrillic>бөгжлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>B4712</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠭᠡᠵᠢᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бөгжлүүлэх</cyrillic>
+      <definition>〔动〕бөгжлөх 的使动态.</definition>
+      <page>183</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠺᠠᠵᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>БӨГЖЛҮҮЛЭХ</cyrillic>
+      <definition>бөгжлөх-ийн үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠥᠭᠡᠵᠢᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бөгжлүүлэх</cyrillic>
+      <definition>бөгжлөхийн үйлдүүлэх хэв.</definition>
+      <page>96</page>
+    </entry_item>
+  </entries>
+</entry>

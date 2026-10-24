@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1925">
+  <head>
+    <unicode>ᠨᠣᠣᠰᠣᠷᠠᠬᠣ</unicode>
+    <transcript>nousuraqu</transcript>
+    <transcript2>noosorago</transcript2>
+    <cyrillic>ноосрох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>N1926</ref>
+    <ref>N1927</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠣᠣᠰᠣᠷᠠᠬᠤ</unicode>
+      <cyrillic>ноосрох</cyrillic>
+      <definition>〔动〕起毛（如布等）.</definition>
+      <page>749</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠣᠣᠰᠣᠷᠠᠬᠣ</unicode>
+      <cyrillic>НООСРОХ</cyrillic>
+      <definition>комкаться в шерсть. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠣᠣᠰᠣᠷᠠᠬᠤ</unicode>
+      <cyrillic>ноосрох</cyrillic>
+      <definition>эд бөс элэгдэж ноос мэт зөөлөн унгарил болох.</definition>
+      <page>382</page>
+    </entry_item>
+  </entries>
+</entry>

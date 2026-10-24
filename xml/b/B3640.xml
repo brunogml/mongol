@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B3640">
+  <head>
+    <unicode>ᠪᠣᠮᠪᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>bumbalǰaqu</transcript>
+    <transcript2>bombalcago</transcript2>
+    <cyrillic>бумбалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B3641</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠤᠮᠪᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>бумбалзах</cyrillic>
+      <definition>〔动〕参见 бумбаганах.</definition>
+      <page>207</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠮᠪᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>БУМБАЛЗАХ</cyrillic>
+      <definition>бумбасхийх-ийг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бумбалзах</cyrillic>
+      <definition>= бумбаганах</definition>
+      <page>62</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠮᠪᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>бумбалзах</cyrillic>
+      <definition>бумбагар юмны байн байн хөдлөх байдал; бумбас бумбас хийх.</definition>
+      <page>108</page>
+    </entry_item>
+  </entries>
+</entry>

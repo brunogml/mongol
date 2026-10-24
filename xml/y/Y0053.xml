@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0053">
+  <head>
+    <unicode>ᠶᠠᠨᠳᠠᠬᠣ</unicode>
+    <transcript>yandaqu</transcript>
+    <transcript2>yandago</transcript2>
+    <cyrillic>яндах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y0054</ref>
+    <ref>Y0061</ref>
+  </derivatives>
+  <see_also>
+    <ref>Y0052</ref>
+    <ref>Y0053a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠠᠨᠳᠠᠬᠤ</unicode>
+      <cyrillic>яндах</cyrillic>
+      <definition>〔动〕①以容器计量，用量杯量，衡量；②装满，盛满，灌满：ус савандаа ~ 往水桶里灌满水.</definition>
+      <page>1753</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠠᠨᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЯНДАХ</cyrillic>
+      <definition>1) мерить яндой; 2) черпать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>яндах</cyrillic>
+      <definition>1. Flüssigkeit mit dem Meßgerät abmessen
+2. schöpfen</definition>
+      <page>415</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠠᠨᠳᠠᠬᠤ</unicode>
+      <cyrillic>яндах</cyrillic>
+      <definition>1. юмыг яндаа саваар хэмжих; айраг яндах;2. саванд юм дүүрэн болох; ус савандаа яндах; хонь хурга хотондоо яндах.</definition>
+      <page>908</page>
+    </entry_item>
+  </entries>
+</entry>

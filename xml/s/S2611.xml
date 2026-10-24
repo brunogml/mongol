@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2611">
+  <head>
+    <unicode>ᠰᠠᠺᠯᠠᠺᠥ</unicode>
+    <transcript>seglekü</transcript>
+    <transcript2>seglegö</transcript2>
+    <cyrillic>сэглэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S2612</ref>
+    <ref>S2613</ref>
+    <ref>S2609</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠺᠯᠠᠺᠥ</unicode>
+      <cyrillic>СЭГЛЭХ</cyrillic>
+      <definition>I кромсать; недоделать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠺᠯᠠᠺᠥ</unicode>
+      <cyrillic>СЭГЛЭХ</cyrillic>
+      <definition>II остановка, роздых; кратковременная остановка. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠭᠯᠡᠬᠦ</unicode>
+      <cyrillic>сэглэх /1</cyrillic>
+      <definition>сэг, зэмдэг, тамтаг болгох; ажил сэглэж орхих; номоо сэглэх; мах эвдэх гэж сэглэчжээ.</definition>
+      <page>500</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠭᠯᠡᠬᠦ</unicode>
+      <cyrillic>сэглэх /2</cyrillic>
+      <definition>сэгхийх, зогсголзох, амсхийх.</definition>
+      <page>500</page>
+    </entry_item>
+  </entries>
+</entry>

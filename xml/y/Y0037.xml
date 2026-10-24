@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0037">
+  <head>
+    <transcript>ǰandan</transcript>
+    <transcript2>yandan</transcript2>
+    <cyrillic>зандан</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠠᠨᠳᠠᠨ</unicode>
+      <uighur>ǰandan</uighur>
+      <transcript>ZANDAN</transcript>
+      <definition>See zandan.</definition>
+      <page>1034</page>
+    </entry_item>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᡜᠠᠨᠳᠠᠨ</unicode>
+      <uighur>Candan</uighur>
+      <cyrillic>зандан</cyrillic>
+      <transcript>ZANDAN</transcript>
+      <definition>[= zandan, S. candana]n. Sandalwood, sandal tree</definition>
+      <page>1034</page>
+      <examples>
+        <example>
+          <unicode>ᡜᠠᠨᠳᠠᠨ ᠮᠣᠳᠤ</unicode>
+          <transcript>-- modu</transcript>
+          <definition> Sandalwood.</definition>
+        </example>
+        <example>
+          <unicode>ᠤᠯᠠᠭᠠᠨ ᡜᠠᠨᠳᠠᠨ</unicode>
+          <transcript>ulaγan -- </transcript>
+          <definition> Sandalwood.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <cyrillic>зандан</cyrillic>
+      <definition>〈植〉檀香，檀木：~ ширээ 檀木桌；~ мод 檀香木；улаан ~ 〈植〉紫檀.</definition>
+      <page>544</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ЗАНДАН</cyrillic>
+      <definition>са., ург. 1. сандал, сандаловое дерево; улаан зандан ург. красный сандал; цагаан зандан ург. белый сандал; занданы сүрчил а) капелька дождя на сандаловом листе; б) шилж., ном. утоляющий жажду напиток; 2. сандаловый; зандан ширээ стол из сандалового дерева. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зандан[г]</cyrillic>
+      <definition>1. Sandelholz n; Sandelholzbaum m; улаан ~ Rotholz n, Mahagoni n
+2. aus Sandelholz; ~ ширзэ[н] ein Tisch aus Sandelholz</definition>
+      <page>118</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠽᠠᠨᠳᠠᠨ</unicode>
+      <cyrillic>зандан</cyrillic>
+      <definition>&lt;ургамал&gt;халуун оронд ургадаг, анхилам үнэрт мод; цагаан зандан, улаан зандан; хүрэн зандан; зандан шатар; зандан ширээ.</definition>
+      <page>266</page>
+    </entry_item>
+  </entries>
+</entry>

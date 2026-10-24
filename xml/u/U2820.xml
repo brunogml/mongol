@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2820">
+  <head>
+    <unicode>ᠣᠷᠣᠯᠠᠬᠣ</unicode>
+    <transcript>orolaqu</transcript>
+    <transcript2>orolago</transcript2>
+    <cyrillic>орлох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U2822</ref>
+    <ref>U2828</ref>
+  </derivatives>
+  <see_also>
+    <ref>U2838</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠷᠣᠯᠠᠬᠣ</unicode>
+      <uighur>orolaqu</uighur>
+      <cyrillic>орлох</cyrillic>
+      <transcript>ORULA-</transcript>
+      <definition>v. t. To take the place of; to replace, substitute.</definition>
+      <page>622</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠷᠣᠯᠠᠭᠴᠢ</unicode>
+          <transcript>--γci</transcript>
+          <definition> See orulaγci</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠷᠣᠯᠠᠭᠰᠠᠨ</unicode>
+          <transcript>--γsan</transcript>
+          <definition> Acting, deputy</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠷᠣᠯᠠᠭᠰᠠᠨ ᠬᠣᠰᠢᠭᠤᠨ ᠤ ᠳᠠᠷᠤᠭ᠎ᠠ</unicode>
+          <transcript>--γsan xosiγun u daruγ-a</transcript>
+          <definition> Acting chief of a xosiγun (banner).</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠷᠣᠯᠠᠮ ᠺᠥᠭᠡᠭᠴᠢ</unicode>
+          <transcript>--n køgegci</transcript>
+          <definition> Lieutenant (Manchu system, junior officer in the banner).</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠷᠣᠯᠠᠨ ᠰᠢᠢᠳᠺᠡᠭᠴᠢ</unicode>
+          <transcript>--n siidkegci</transcript>
+          <definition> Acting chief, head, etc.</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠥᠺᠦᠷ ᠢ ᠣᠷᠣᠯᠠᠬᠤ</unicode>
+          <transcript>nøkyr i --xu</transcript>
+          <definition> To substitute for a friend.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠣᠷᠣᠯᠠᠬᠣ</unicode>
+      <uighur>urulaqu</uighur>
+      <definition>v.i. To fill a vacancy, to make up for another.</definition>
+      <page>220</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠷᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ОРЛОХ</cyrillic>
+      <definition>1) замещать; даргыг орлох замещать начальника; орлон тоглогч дублёр; запасной игрок; орлон үйлдэгч делающий что-л. вместо другого, заместитель; орлон хөөгч түүх. младший офицер, помощник ротного командира (в знаменных войсках); 2) представлять собою, принимать на себя. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠷᠣᠯᠠᠬᠤ</unicode>
+      <cyrillic>орлох</cyrillic>
+      <definition>1. оронд нь байх; миний өрөөсөн хөлийг суга таяг орлох болов;2. хамаарах, төлөөлөх, төлөөнөө байх; даргыг орлох.</definition>
+      <page>421</page>
+    </entry_item>
+  </entries>
+</entry>

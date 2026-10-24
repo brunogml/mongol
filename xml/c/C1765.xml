@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1765">
+  <head>
+    <unicode>ᠴᠢᠳᠠᠯᠠᠷᠬᠠᠬ</unicode>
+    <transcript>čidalarqaγ</transcript>
+    <transcript2>cidalargag</transcript2>
+    <cyrillic>чадлархаг</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠳᠠᠯᠠᠷᠬᠠᠭ</unicode>
+      <cyrillic>чадлархаг</cyrillic>
+      <definition>〔形〕能力很强的，很能干的，很内行的.</definition>
+      <page>1575</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠳᠠᠯᠠᠷᠬᠠᠬ</unicode>
+      <cyrillic>ЧАДЛАРХАГ</cyrillic>
+      <definition>сильный, мощный, умелый, способный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чадлархаг</cyrillic>
+      <definition>kraftvoll</definition>
+      <page>367</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠳᠠᠯᠠᠷᠬᠠᠭ</unicode>
+      <cyrillic>чадлархаг</cyrillic>
+      <definition>чадал чадвар сайтай.</definition>
+      <page>812</page>
+    </entry_item>
+  </entries>
+  <see_also>
+    <ref>C1764</ref>
+  </see_also>
+  <related_to>
+    <ref>C1763</ref>
+  </related_to>
+</entry>

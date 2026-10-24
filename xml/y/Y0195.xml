@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0195">
+  <head>
+    <unicode>ᠶᠠᠩᠰᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>yangsiγulqu</transcript>
+    <transcript2>yangsigolgo</transcript2>
+    <cyrillic>яншуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y0193</ref>
+  </related_to>
+  <see_also>
+    <ref>Y0194</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠠᠩᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>яншуулах</cyrillic>
+      <definition>〔动〕янших 的使动态.</definition>
+      <page>1755</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠠᠩᠰᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЯНШУУЛАХ</cyrillic>
+      <definition>янших-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>яншуулах</cyrillic>
+      <definition>Kaus von янших</definition>
+      <page>415</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠠᠩᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>яншуулах</cyrillic>
+      <definition>яншихын үйлдүүлэх хэв.</definition>
+      <page>908</page>
+    </entry_item>
+  </entries>
+</entry>

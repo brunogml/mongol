@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="O2167">
+  <head>
+    <unicode>ᠥᠷᠺᠠᠰᠠᠨ</unicode>
+    <transcript>ürgesen</transcript>
+    <transcript2>örgesen</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠥᠷᠺᠠᠰᠠᠨ</unicode>
+      <uighur>ürkesen</uighur>
+      <transcript>YRGESEN</transcript>
+      <definition>n. Doze, slumber (obs.).</definition>
+      <page>1012</page>
+      <examples>
+        <example>
+          <unicode>ᠥᠷᠺᠠᠰᠠᠨ ᠺᠦᠷᠺᠦ</unicode>
+          <transcript>-- kyrky</transcript>
+          <definition> To become sleepy</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠦᠷᠺᠡᠰᠡᠨ</unicode>
+      <definition>sommeil, envie de dormir.</definition>
+      <page>590</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠥᠷᠺᠠᠰᠠᠨ</unicode>
+      <uighur>ürkesen</uighur>
+      <definition>der Schlaf, Schlummer</definition>
+      <page>74</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠥᠷᠺᠠᠰᠠᠨ</unicode>
+      <uighur>ürgesen</uighur>
+      <definition>(u)n. Slumber, sleep.</definition>
+      <page>293</page>
+      <examples>
+        <example>
+          <uighur>ürgesen kürkü</uighur>
+          <definition>(u) To become sleepy.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

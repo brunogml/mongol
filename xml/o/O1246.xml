@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="O1246">
+  <head>
+    <unicode>ᠥᠮᠺᠥ</unicode>
+    <transcript>ümkü</transcript>
+    <transcript2>ömgö</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠥᠮᠺᠥ</unicode>
+      <uighur>ümkü</uighur>
+      <transcript>YMKY</transcript>
+      <definition>See emky.</definition>
+      <page>1007</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠦᠮᠺᠦ ~ ᠡᠮᠺᠦ</unicode>
+      <definition>morceau, petit morceau.</definition>
+      <page>540</page>
+      <examples>
+        <example>
+          <unicode>ᠦᠮᠺᠦ ᠦᠮᠺᠦ ᠪᠡᠷ</unicode>
+          <definition>en morceaux, en parties, en portions</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

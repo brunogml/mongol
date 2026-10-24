@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1541">
+  <head>
+    <unicode>ᠮᠣᠨᠳᠠᠬᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>mundaγdaγulqu</transcript>
+    <transcript2>mondagdagolgo</transcript2>
+    <cyrillic>мундагдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>M1540</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠤᠨᠳᠠᠭᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>мундагдуулах</cyrillic>
+      <definition>〔动〕мундагдах 的使动态.</definition>
+      <page>695</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠨᠳᠠᠬᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>МУНДАГДУУЛАХ</cyrillic>
+      <definition>мундагдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠤᠨᠳᠠᠭᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>мундагдуулах</cyrillic>
+      <definition>мундагдахын үйлдүүлэх хэв.</definition>
+      <page>350</page>
+    </entry_item>
+  </entries>
+</entry>

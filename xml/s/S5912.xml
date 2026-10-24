@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5912">
+  <head>
+    <unicode>ᠰᠣᠯᠪᠢᠴᠠᠬᠣ</unicode>
+    <transcript>solbičaqu</transcript>
+    <transcript2>solbicago</transcript2>
+    <cyrillic>солбицох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5913</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠣᠯᠪᠢᠴᠠᠬᠣ</unicode>
+      <uighur>solbičaqu</uighur>
+      <cyrillic>солбицох</cyrillic>
+      <transcript>SOLBICA-</transcript>
+      <definition>v.t. To place crosswise; to cross.</definition>
+      <page>725</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠦᠮᠦᠨ ᠢᠨᠠᠭᠰᠢ ᠴᠢᠨᠠᠭᠰᠢ ᠰᠣᠯᠪᠢᠴᠠᠭᠠᠳ ᠶᠠᠪᠤᠵᠤ ᠪᠠᠶᠢᠨ᠎ᠠ</unicode>
+          <transcript>kymyn inaγsi cinaγsi --γad jabuzu bain-a</transcript>
+          <definition> People are walking in both directions.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠤᠯᠪᠢᠴᠠᠬᠤ</unicode>
+      <definition>mettre en croix, croiser; 2 unir, lier.</definition>
+      <page>1402</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠤᠯᠪᠢᠴᠠᠭᠰᠠᠨ ᠵᠠᠭᠠᠨ ᠤ ᠲᠠᠪᠴᠠᠩ</unicode>
+          <definition>trône sur les lions</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠰᠣᠯᠪᠢᠴᠠᠬᠣ</unicode>
+      <uighur>sulbičaqu</uighur>
+      <definition>To play ball (of several).</definition>
+      <page>1481</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠯᠪᠢᠴᠠᠬᠤ</unicode>
+      <cyrillic>солбицох</cyrillic>
+      <definition>〔动〕参见 солбих ：~сон галын хүч 〈军〉交叉火力.</definition>
+      <page>933</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠯᠪᠢᠴᠠᠬᠣ</unicode>
+      <cyrillic>СОЛБИЦОХ</cyrillic>
+      <definition>скрещивать, ставить крест-накрест; спутаться, перепутаться; солбих-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠯᠪᠢᠴᠠᠬᠣ</unicode>
+      <cyrillic>СОЛБИЦСОН</cyrillic>
+      <definition>перекрёстный; солбицсон байцаалт перекрёстный допрос. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>солбицох</cyrillic>
+      <definition>= солбих</definition>
+      <page>199</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠯᠪᠢᠴᠠᠬᠤ</unicode>
+      <cyrillic>солбицох</cyrillic>
+      <definition>харилцан солбих.</definition>
+      <page>477</page>
+    </entry_item>
+  </entries>
+</entry>

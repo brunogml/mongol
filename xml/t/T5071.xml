@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5071">
+  <head>
+    <unicode>ᠳᠢᠶᠠᠨᠴᠢᠯᠠᠬᠣ</unicode>
+    <transcript>diyančilaqu</transcript>
+    <transcript2>diyancilago</transcript2>
+    <cyrillic>дияанчлах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳ᠋ᠢᠶᠠᠨᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>дияанчлах</cyrillic>
+      <definition>〔动〕见 даяанчлах.</definition>
+      <page>406</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠢᠶᠠᠨᠴᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ДИЯАНЧЛАХ</cyrillic>
+      <definition>даяанчлах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳ᠋ᠢᠶᠠᠨᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>дияанчлах</cyrillic>
+      <definition>даяанчлах.</definition>
+      <page>195</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T5070</ref>
+  </related_to>
+</entry>

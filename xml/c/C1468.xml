@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1468">
+  <head>
+    <unicode>ᠴᠢᠩᠨᠠᠬᠣ</unicode>
+    <transcript>čingnaqu</transcript>
+    <transcript2>cingnago</transcript2>
+    <cyrillic>чагнах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1470</ref>
+    <ref>C1473</ref>
+    <ref>C1477</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠢᠩᠨᠠᠬᠣ</unicode>
+      <uighur>čingnaqu</uighur>
+      <cyrillic>чагнах</cyrillic>
+      <transcript>CINGNA-</transcript>
+      <definition>[=cingla-] v.t. To listen; to eavesdrop.</definition>
+      <page>190</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠢᠩᠨᠠᠬᠤ</unicode>
+      <definition>1 écouter, prêter l'oreille; 
+2 observer, remarquer, avoir l'oeil sur; être aux écoutes.</definition>
+      <page>2138</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠪᠡᠭᠴᠢᠨ ᠴᠢᠩᠨᠠᠬᠤ ᠎ᠶᠢᠨ ᠳᠤᠯᠠᠳᠠ ᠭᠠᠷᠬᠤᠢ</unicode>
+          <definition>une servante vint pour écouter</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠴᠢᠩᠨᠠᠬᠣ</unicode>
+      <uighur>čingnaqu</uighur>
+      <definition>horchen</definition>
+      <page>324</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠴᠢᠩᠨᠠᠬᠣ</unicode>
+      <uighur>čingnaqu</uighur>
+      <definition>v.i. To listen attentively.</definition>
+      <page>1304</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠩᠨᠠᠬᠤ</unicode>
+      <cyrillic>чагнах</cyrillic>
+      <definition>〔动〕①听，细听，收听，守听：~ж тогшиж үзэх 〈医〉听叩诊；②侦听，偷听，窃听.</definition>
+      <page>1573</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠩᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЧАГНАХ</cyrillic>
+      <definition>1. слушать; прислушиваться; подслушивать; превратиться в слух; бахдан чагнах заслушиваться; хөгжим бахдан чагнах заслушаться музыкой; гүйцэд чагнах прослушивать; үг чагнах слушать чьи-л. разговоры; прислушиваться к чьему-л. разговору; лекц шунамгай чагнах жадно слушать лекцию; чагнаж ханах наслушаться; хөгжим чагнаж цэнгэх насладиться музыкой; чагнахад бөөдий юм слушать противно; 2. чагнахуй-г үз., чагнан ашиглах использовать для подслушивания; 3. слуховой; биеэ чагнагч мнительный; биеэ чагнагч өвчтөн мнительный больной.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠩᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЧАГНАХУЙ</cyrillic>
+      <definition>слушание; подслушивание; выслушивание.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чагнах</cyrillic>
+      <definition>[ab-, zu]hören; belauschen, horchen; хүмүүсийн яриаг ~ das Gespräch der Leute belauschen; чимзэ ~ auf Geräusche horchen</definition>
+      <page>367</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠩᠨᠠᠬᠤ</unicode>
+      <cyrillic>чагнах</cyrillic>
+      <definition>1. сонсох; өвгөн аавынхаа үгийг чагнаж суу; алсаас гарах машины дууг чих тавин чагнав;2. хүмүүсийн үг яриа зэргийг нууцгай чих тавин сонсох; хүмүүсийн ярьж байгааг хаалганы завсраар чагнаж байв.</definition>
+      <page>811</page>
+    </entry_item>
+  </entries>
+</entry>

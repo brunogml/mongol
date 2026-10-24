@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1396">
+  <head>
+    <unicode>ᠰᠠᠮᠰᠢᠶᠠᠬᠣ</unicode>
+    <transcript>samsiyaqu</transcript>
+    <transcript2>samsiyago</transcript2>
+    <cyrillic>самшаах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1397</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠠᠮᠰᠢᠶᠠᠬᠤ</unicode>
+      <definition>prodigner, dépenser. épuiser, diminuer: 2 perdre, détruire , anéantir, exterminer</definition>
+      <page>1319</page>
+      <examples>
+        <example>
+          <unicode>ᠢᠳᠡᠭᠡᠨ ᠢ ᠰᠠᠮᠰᠢᠶᠠᠬᠤ</unicode>
+          <definition>manger les comestibles</definition>
+        </example>
+        <example>
+          <unicode>ᠤᠯᠤᠰ ᠢᠷᠭᠡᠨ ᠢ ᠳᠠᠶᠢᠰᠤᠨ ᠰᠠᠮᠰᠢᠶᠠᠪᠠᠭᠤ</unicode>
+          <definition>l'ennemi n'a-t-il pas exterminé les hommes?</definition>
+        </example>
+        <example>
+          <unicode>ᠤᠯᠤᠰ ᠡᠴᠡ ᠰᠠᠮᠰᠢᠶᠠᠵᠤ ᠭᠠᠷᠭᠠᠬᠤ</unicode>
+          <definition>exclure du nombre des hommes, excommunier</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠮᠰᠢᠶᠠᠬᠤ ᠦᠢᠯᠡ</unicode>
+          <definition>action de dépenser, dépenses, perte</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠮᠰᠢᠶᠠᠬᠤ</unicode>
+      <cyrillic>самшаах</cyrillic>
+      <definition>〔动〕самших 的使动态.</definition>
+      <page>908</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠮᠰᠢᠶᠠᠬᠣ</unicode>
+      <cyrillic>САМШААХ</cyrillic>
+      <definition>мотать, тратить, расстрачивать; истреблять, уничтожать, губить. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠮᠰᠢᠭᠠᠬᠤ</unicode>
+      <cyrillic>самшаах</cyrillic>
+      <definition>самшихад хүрүүлэх, самшуулах.</definition>
+      <page>466</page>
+    </entry_item>
+  </entries>
+</entry>

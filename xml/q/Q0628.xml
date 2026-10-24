@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0628">
+  <head>
+    <unicode>ᠭᠠᠬᠠᠶᠢᠴᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>γaqayičilaγulqu</transcript>
+    <transcript2>gagayicilagolgo</transcript2>
+    <cyrillic>гахайчлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q0627</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠠᠬᠠᠢᠴᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гахайчлуулах</cyrillic>
+      <definition>〔动〕гахайчлах 的使动态.</definition>
+      <page>289</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠬᠠᠶᠢᠴᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ГАХАЙЧЛУУЛАХ</cyrillic>
+      <definition>гахайчлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠠᠬᠠᠢᠴᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гахайчлуулах</cyrillic>
+      <definition>гахайчлахын үйлдүүлэх хэв.</definition>
+      <page>142</page>
+    </entry_item>
+  </entries>
+</entry>

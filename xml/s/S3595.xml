@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3595">
+  <head>
+    <unicode>ᠰᠢᠪᠬᠠᠲᠣᠬᠣ</unicode>
+    <transcript>sibqatuqu</transcript>
+    <transcript2>sibgadogo</transcript2>
+    <cyrillic>шавхтах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3596</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠪᠬᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>шавхтах</cyrillic>
+      <definition>〔动〕参见 шавхайтах.</definition>
+      <page>1606</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠪᠬᠠᠲᠣᠬᠣ</unicode>
+      <cyrillic>ШАВХТАХ</cyrillic>
+      <definition>загрязниться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шавхтах</cyrillic>
+      <definition>= шавартах</definition>
+      <page>376</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠪᠬᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>шавхтах</cyrillic>
+      <definition>шавхтай болох, шавар тогтох, шавхайтах ч гэнэ.</definition>
+      <page>828</page>
+    </entry_item>
+  </entries>
+</entry>

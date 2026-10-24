@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S2269">
+  <head>
+    <unicode>ᠰᠠᠯᠪᠢᠺᠥᠷᠲᠥ</unicode>
+    <transcript>selbigürtü</transcript>
+    <transcript2>selbigördö</transcript2>
+    <cyrillic>сэлбүүрт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠯᠪᠢᠺᠥᠷᠲᠥ</unicode>
+      <uighur>selbigürdu</uighur>
+      <cyrillic>сэлбүүрт</cyrillic>
+      <transcript>SELBIGYRTY</transcript>
+      <page>686</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠯᠪᠢᠺᠥᠷᠲᠥ ᠣᠩᠭᠤᠴᠠ</unicode>
+          <transcript>-- ongγuca </transcript>
+          <definition>Rowboat</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠡᠯᠪᠢᠭᠦᠷᠳᠦ ᠣᠩᠭᠤᠴᠠ</unicode>
+      <definition>bateau avec des rames</definition>
+      <page>1355</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠰᠠᠯᠪᠢᠺᠥᠷᠲᠥ</unicode>
+      <uighur>selbigürdü ongγuča</uighur>
+      <definition>n. A rowing boat</definition>
+      <page>1404</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠯᠪᠢᠭᠦᠷᠲᠦ</unicode>
+      <cyrillic>сэлбүүрт</cyrillic>
+      <definition>〔形〕有桨的.</definition>
+      <page>985</page>
+    </entry_item>
+  </entries>
+</entry>

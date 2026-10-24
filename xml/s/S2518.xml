@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2518">
+  <head>
+    <unicode>ᠰᠠᠺᠥᠳᠠᠷᠲᠠᠢ</unicode>
+    <transcript>següdertei</transcript>
+    <transcript2>segöderdei</transcript2>
+    <cyrillic>сүүдэртэй</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠺᠥᠳᠠᠷᠲᠠᠢ</unicode>
+      <uighur>següderdei</uighur>
+      <cyrillic>сүүдэртэй</cyrillic>
+      <transcript>SEGYDERTEI</transcript>
+      <definition>adj. Shadowy, shady; aged (hon.).</definition>
+      <page>683</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠠᠶᠠᠨ ᠳᠥᠷᠪᠡᠨ ᠰᠠᠺᠥᠳᠠᠷᠲᠠᠢ</unicode>
+          <transcript>najan dørben -- </transcript>
+          <definition> Eighty four years old.</definition>
+        </example>
+        <example>
+          <unicode>ᠥᠨᠳᠦᠷ ᠰᠠᠺᠥᠳᠠᠷᠲᠠᠢ ᠺᠦᠮᠦᠨ</unicode>
+          <transcript>øndyr -- kymyn</transcript>
+          <definition> Aged person (hon.).</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠡᠭᠦᠳᠡᠷᠳᠡᠢ ~ ᠰᠡᠭᠦᠳᠡᠷᠳᠦ</unicode>
+      <definition>ombreux , couvert d'ombre.</definition>
+      <page>1363</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠰᠠᠺᠥᠳᠠᠷᠲᠠᠢ</unicode>
+      <uighur>següdertei</uighur>
+      <definition>schattig, beschattet.</definition>
+      <page>348</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠰᠠᠺᠥᠳᠠᠷᠲᠠᠢ</unicode>
+      <uighur>següderdei</uighur>
+      <definition>adj. Shady, shadowy</definition>
+      <page>1400</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠭᠦᠳᠡᠷᠲᠡᠢ</unicode>
+      <cyrillic>сүүдэртэй</cyrillic>
+      <definition>〔形〕有阴影的，阴影较大的.</definition>
+      <page>977</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠺᠥᠳᠠᠷᠲᠠᠢ</unicode>
+      <cyrillic>СҮҮДЭРТЭЙ</cyrillic>
+      <definition>тенистый. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сүүдэртэй</cyrillic>
+      <definition>schattig</definition>
+      <page>208</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠭᠦᠳᠡᠷᠲᠡᠢ</unicode>
+      <cyrillic>сүүдэртэй</cyrillic>
+      <definition>сүүдэр сайтай, сүүдэр ихтэй.</definition>
+      <page>497</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S2516</ref>
+  </related_to>
+</entry>

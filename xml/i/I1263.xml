@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I1263">
+  <head>
+    <unicode>ᠢᠷᠮᠠᠺᠥ</unicode>
+    <transcript>irmekü</transcript>
+    <transcript2>irmegö</transcript2>
+    <cyrillic>ирмэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>I1267</ref>
+    <ref>I1270</ref>
+    <ref>I1261</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠢᠷᠮᠠᠺᠥ</unicode>
+      <uighur>irmekü</uighur>
+      <cyrillic>ирмэх</cyrillic>
+      <transcript>IRME-</transcript>
+      <definition>v.L To blink, wink.</definition>
+      <page>414</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠢᠳᠦ ᠢᠷᠮᠠᠺᠥ ᠎ᠶᠢᠨ ᠵᠠᠭᠤᠷ᠎ᠠ</unicode>
+          <transcript>nidy --ky jin zaγur-a</transcript>
+          <definition> An instant, moment, instantly.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠢᠷᠮᠡᠺᠦ</unicode>
+      <definition>clignoter, cligner les yeux</definition>
+      <page>325</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠢᠳᠦᠨ ᠢᠷᠮᠡᠺᠦ ᠎ᠶᠢᠨ ᠵᠠᠭᠤᠷᠠ</unicode>
+          <definition>en un clin d'oeil.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠷᠮᠡᠬᠦ</unicode>
+      <cyrillic>ирмэх</cyrillic>
+      <definition>〔动〕眨眼：нуд ~ зуур 一瞬间， 一刹那；нүдээр ~я дохих 以目示意，使眼色.</definition>
+      <page>621</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠷᠮᠠᠺᠥ</unicode>
+      <cyrillic>ИРМЭХ</cyrillic>
+      <definition>1. мигать, моргать; подмигивать; нүд ирмэх зуур мгновенно, вмиг, в мгновение ока; нүдээрээ ирмэх а) моргать глазами; подмигивать; б) строить глазки, кокетничать, играя глазами; би түүнд гадагшаа гар гэж ирмэв я мигнул ему, чтобы он вышел; би түүнд ирмэсэн, тэр ойлгосонгүй я мигнул ему, но он не понял; 2. ирмэхүй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠷᠮᠠᠺᠥ</unicode>
+      <cyrillic>ИРМЭХҮЙ</cyrillic>
+      <definition>мигание, моргание; подмигивание. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>ирмэх</cyrillic>
+      <definition>blinzeln, zwinkern; нүдзэрзэ ~ mit den Augen zwinkern</definition>
+      <page>135</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠷᠮᠡᠬᠦ</unicode>
+      <cyrillic>ирмэх</cyrillic>
+      <definition>нүд цавчисхийх; нүдээр ирмэн дохих.</definition>
+      <page>308</page>
+    </entry_item>
+  </entries>
+</entry>

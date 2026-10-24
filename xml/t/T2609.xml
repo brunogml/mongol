@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2609">
+  <head>
+    <unicode>ᠳᠠᠷᠠᠰᠣᠴᠢ</unicode>
+    <transcript>darasuči</transcript>
+    <transcript2>darasoci</transcript2>
+    <cyrillic>дарсч</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠷᠠᠰᠤᠴᠢ</unicode>
+      <cyrillic>дарсч</cyrillic>
+      <definition>〔名〕酿酒师.</definition>
+      <page>398</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠷᠠᠰᠣᠴᠢ</unicode>
+      <cyrillic>ДАРСЧ(ИН)</cyrillic>
+      <definition>винодел. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дарсч[ин]</cyrillic>
+      <definition>Fachmann für Weinbereitung</definition>
+      <page>93</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠷᠠᠰᠤᠴᠢ</unicode>
+      <cyrillic>дарсч</cyrillic>
+      <definition>дарс хийх мэргэжилтэй хүн.</definition>
+      <page>191</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T2607</ref>
+  </related_to>
+</entry>

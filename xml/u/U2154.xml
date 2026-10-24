@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2154">
+  <head>
+    <unicode>ᠣᠴᠣᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>očulǰaγulqu</transcript>
+    <transcript2>ocolcagolgo</transcript2>
+    <cyrillic>оцолзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U2153</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠴᠣᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>оцолзуулах</cyrillic>
+      <definition>〔动〕оцолзох 的使动态.</definition>
+      <page>828</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠴᠣᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ОЦОЛЗУУЛАХ</cyrillic>
+      <definition>оцолзох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠴᠣᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>оцолзуулах</cyrillic>
+      <definition>оцолзохын үйлдүүлэх хэв.</definition>
+      <page>428</page>
+    </entry_item>
+  </entries>
+</entry>

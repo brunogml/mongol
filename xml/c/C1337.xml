@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1337">
+  <head>
+    <unicode>ᠴᠢᠢᠯᠠᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>čiilegenekü</transcript>
+    <transcript2>ciilegenegö</transcript2>
+    <cyrillic>цийлэгнэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1338</ref>
+    <ref>C1336</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠢᠯᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>цийлэгнэх</cyrillic>
+      <definition>〔动〕眼睛一翻一翻，频频翻白眼；频频发呆.</definition>
+      <page>1528</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠢᠯᠠᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>ЦИЙЛЭГНЭХ</cyrillic>
+      <definition>цийлэлзэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠢᠯᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>цийлэгнэх</cyrillic>
+      <definition>цийлгэр юмны цийлэн цийлэн хөдлөх.</definition>
+      <page>787</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3668">
+  <head>
+    <unicode>ᠴᠥᠴᠢᠯᠵᠠᠺᠥ</unicode>
+    <transcript>čöčilǰekü</transcript>
+    <transcript2>cöcilcegö</transcript2>
+    <cyrillic>чөчилзөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C3670</ref>
+    <ref>C3671</ref>
+  </derivatives>
+  <see_also>
+    <ref>C3669</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠥᠴᠢᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>чөчилзөх</cyrillic>
+      <definition>〔动〕参见 чөчигнөх.</definition>
+      <page>1598</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠥᠴᠢᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>ЧӨЧИЛЗӨХ</cyrillic>
+      <definition>чөчигнөх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠥᠴᠢᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>чөчилзөх</cyrillic>
+      <definition>чөчгөр юмны чөчис чөчис хөдлөх.</definition>
+      <page>824</page>
+    </entry_item>
+  </entries>
+</entry>

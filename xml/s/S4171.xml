@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4171">
+  <head>
+    <unicode>ᠰᠢᠮᠲᠠ</unicode>
+    <transcript>simta</transcript>
+    <transcript2>simda</transcript2>
+    <cyrillic>шимт</cyrillic>
+  </head>
+  <see_also>
+    <ref>S4121</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠮᠲᠠ</unicode>
+      <uighur>simde</uighur>
+      <cyrillic>шимт</cyrillic>
+      <transcript>SIMTE</transcript>
+      <definition>n. Taste, flavor; nourishment.</definition>
+      <page>710</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠮᠲᠠ ᠰᠢᠮᠲᠠ</unicode>
+          <transcript>amta -- </transcript>
+          <definition> See under amta.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠮᠳᠠ</unicode>
+      <definition>goût,</definition>
+      <page>1506</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠮᠳᠠ ᠰᠢᠮᠳᠠ ᠦᠭᠡᠢ</unicode>
+          <definition>sans goût, fade</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠮᠲᠠ</unicode>
+      <cyrillic>шимт</cyrillic>
+      <definition>〔形〕见 амт ~ 味道，滋味；口味；амт ~гүй 乏味的，没有味道的，不好吃的，不可口的.</definition>
+      <page>1636</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠮᠲᠠ</unicode>
+      <cyrillic>шимт</cyrillic>
+      <definition>амт;амт шимт&lt;хорш&gt;.</definition>
+      <page>847</page>
+    </entry_item>
+  </entries>
+</entry>

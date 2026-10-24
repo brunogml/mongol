@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1641">
+  <head>
+    <unicode>ᠮᠣᠩᠬᠣᠭᠣᠨᠠᠬᠣ</unicode>
+    <transcript>mongquγunaqu</transcript>
+    <transcript2>monggogonago</transcript2>
+    <cyrillic>монхгонох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M1642</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠣᠩᠬᠣᠭᠣᠨᠠᠬᠤ</unicode>
+      <cyrillic>монхгонох</cyrillic>
+      <definition>〔動〕参见 монхолзох.</definition>
+      <page>679</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠩᠬᠣᠭᠣᠨᠠᠬᠣ</unicode>
+      <cyrillic>МОНХГОНОХ</cyrillic>
+      <definition>монхолзох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠣᠩᠬᠣᠭᠣᠨᠠᠬᠤ</unicode>
+      <cyrillic>монхгонох</cyrillic>
+      <definition>монхгор юмны монхгор монхго хөдлөх.</definition>
+      <page>340</page>
+    </entry_item>
+  </entries>
+</entry>

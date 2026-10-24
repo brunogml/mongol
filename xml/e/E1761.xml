@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="E1761">
+  <head>
+    <unicode>ᠡᠭᠦᠷᠢ</unicode>
+    <transcript>egüri</transcript>
+    <transcript2>egöri</transcript2>
+    <cyrillic>үүр</cyrillic>
+  </head><see_also>
+    <ref>E1758</ref>
+  
+    <ref>O0121</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠺᠥᠷᠢ</unicode>
+      <uighur>egüri</uighur>
+      <cyrillic>үүр</cyrillic>
+      <transcript>EGYRI</transcript>
+      <definition>adv. and adj. Long time, long ago; old, ancient.</definition>
+      <page>302</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠺᠥᠷᠢ ᠤᠳᠠᠯ ᠦᠭᠡᠢ</unicode>
+          <transcript>- - udal ygei</transcript>
+          <definition> Soon after that, not long after.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠺᠥᠷᠢ ᠦᠯᠦ ᠤᠳᠠᠨ</unicode>
+          <transcript>-- yly udan</transcript>
+          <definition> Soon after that, not iong after.</definition>
+        </example>
+        <example>
+          <unicode>ᠥᠨᠢ ᠡᠺᠥᠷᠢ</unicode>
+          <transcript>øni -- </transcript>
+          <definition>For a long time</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠭᠦᠷᠢ</unicode>
+      <definition>longtemps. depuis longtemps</definition>
+      <page>245</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠭᠦᠷᠢ ᠦᠯᠦ ᠤᠲᠠᠨ</unicode>
+          <definition>bientot après.</definition>
+        </example>
+        <example>
+          <unicode>ᠦᠨᠢ ᠡᠭᠦᠷᠢ</unicode>
+          <definition>longtemps, depuis longtemps.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠭᠦᠷᠢ ᠵᠣᠰᠤᠨ</unicode>
+          <definition>ancien usage vieille coutume</definition>
+        </example>
+        <example>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠠᠺᠥᠷᠢ</unicode>
+      <uighur>egüri</uighur>
+      <definition>lange.</definition>
+      <page>26</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠡᠺᠥᠷᠢ</unicode>
+      <uighur>egüri</uighur>
+      <definition>adv. Long. A long time.</definition>
+      <page>100</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠡᠺᠥᠷᠢ ᠶᠣᠰᠤ</unicode>
+      <uighur>egüri yosu</uighur>
+      <definition>Old customs or usages, old practices.</definition>
+      <page>100</page>
+    </entry_item>
+  </entries>
+</entry>

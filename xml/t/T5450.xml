@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5450">
+  <head>
+    <unicode>ᠲᠣᠩᠭᠣᠭᠣᠨᠠᠬᠣ</unicode>
+    <transcript>tongγuγunaqu</transcript>
+    <transcript2>donggogonago</transcript2>
+    <cyrillic>тонгогонох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T5451</ref>
+    <ref>T5452</ref>
+  </derivatives>
+  <see_also>
+    <ref>T5450a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠩᠭᠣᠭᠣᠨᠠᠬᠤ</unicode>
+      <cyrillic>тонгогонох</cyrillic>
+      <definition>〔动〕参见 тонголзох.</definition>
+      <page>1071</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠩᠭᠣᠭᠣᠨᠠᠬᠣ</unicode>
+      <cyrillic>ТОНГОГОНОХ</cyrillic>
+      <definition>тонголзох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тонгогонох</cyrillic>
+      <definition>= тонголзох</definition>
+      <page>229</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠩᠭᠣᠭᠨᠠᠬᠤ</unicode>
+      <cyrillic>тонгогонох</cyrillic>
+      <definition>юмны тонгого тонгого хөдлөх.</definition>
+      <page>540</page>
+    </entry_item>
+  </entries>
+</entry>

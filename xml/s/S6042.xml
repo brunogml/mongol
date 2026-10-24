@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6042">
+  <head>
+    <unicode>ᠰᠣᠴᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sočiγulqu</transcript>
+    <transcript2>socigolgo</transcript2>
+    <cyrillic>сочуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S6041</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠴᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сочуулах</cyrillic>
+      <definition>〔动〕сочих 的使动态.</definition>
+      <page>945</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠴᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>СОЧУУЛАХ</cyrillic>
+      <definition>цочуулах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠴᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сочуулах</cyrillic>
+      <definition>сочихийн үйлдүүлэх хэв.</definition>
+      <page>482</page>
+    </entry_item>
+  </entries>
+</entry>

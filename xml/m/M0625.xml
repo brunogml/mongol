@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0625">
+  <head>
+    <unicode>ᠮᠠᠴᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>mačuγulqu</transcript>
+    <transcript2>macogolgo</transcript2>
+    <cyrillic>мацуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>M0624</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠴᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>мацуулах</cyrillic>
+      <definition>〔动〕мацах 的使动态.</definition>
+      <page>669</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠴᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>МАЦУУЛАХ</cyrillic>
+      <definition>мацах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>мацуулах</cyrillic>
+      <definition>Kaus von мацах</definition>
+      <page>143</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠴᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>мацуулах</cyrillic>
+      <definition>мацахын үйлдүүлэх хэв, мацаах.</definition>
+      <page>335</page>
+    </entry_item>
+  </entries>
+</entry>

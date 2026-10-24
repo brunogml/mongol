@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3155">
+  <head>
+    <unicode>ᠳᠠᠨᠳᠠᠶᠢᠯᠺᠠᠺᠥ</unicode>
+    <transcript>dendeyilgekü</transcript>
+    <transcript2>dendeyilgegö</transcript2>
+    <cyrillic>дэндийлгэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T3156</ref>
+  </derivatives>
+  <see_also>
+    <ref>T3154</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠡᠨᠳᠡᠢᠯᠭᠡᠬᠦ</unicode>
+      <cyrillic>дэндийлгэх</cyrillic>
+      <definition>〔动〕дэндийх 的使动态.</definition>
+      <page>473</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠨᠳᠠᠶᠢᠯᠺᠠᠺᠥ</unicode>
+      <cyrillic>ДЭНДИЙЛГЭХ</cyrillic>
+      <definition>дэндийх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠨᠳᠡᠢᠯᠭᠡᠬᠦ</unicode>
+      <cyrillic>дэндийлгэх</cyrillic>
+      <definition>дэндийхийн үйлдүүлэх хэв, дэндгэр болгох, өрхөө дэндийлгээрэй.</definition>
+      <page>227</page>
+    </entry_item>
+  </entries>
+</entry>

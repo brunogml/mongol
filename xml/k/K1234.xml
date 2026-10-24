@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1234">
+  <head>
+    <unicode>ᠺᠠᠺᠠᠷᠠᠺᠥ</unicode>
+    <transcript>kekerekü</transcript>
+    <transcript2>gegeregö</transcript2>
+    <cyrillic>хэхрэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K1237</ref>
+    <ref>K1232</ref>
+  </derivatives>
+  <see_also>
+    <ref>K1239</ref>
+    <ref>K1233</ref>
+    <ref>K1235</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠠᠺᠠᠷᠠᠺᠥ</unicode>
+      <uighur>kekerekü</uighur>
+      <cyrillic>хэхрэх</cyrillic>
+      <transcript>KEKERE-</transcript>
+      <definition>v. i To belch, eruct.</definition>
+      <page>446</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠠᠺᠠᠷᠠᠺᠥ ᠡᠪᠡᠳᠴᠢᠨ</unicode>
+          <transcript>--ky ebedcin</transcript>
+          <definition> Belching, eructation.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠡᠺᠡᠷᠡᠺᠦ</unicode>
+      <definition>roter, faire des rots.</definition>
+      <page>2498</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠺᠠᠷᠠᠺᠥ</unicode>
+      <cyrillic>ХЭХРЭХ</cyrillic>
+      <definition>1. отрыгивать; 2. хэхрэхүй-г үз., хэхрэх өвчин анаг. отрыжка (болезненная). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠺᠠᠷᠠᠺᠥ</unicode>
+      <cyrillic>ХЭХРЭХҮЙ</cyrillic>
+      <definition>отрыгивание, отрыжка. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠬᠡᠷᠡᠬᠦ</unicode>
+      <cyrillic>хэхрэх</cyrillic>
+      <definition>ходоодноос хий огшин амаар гарах; хоол идээд хэхрэх нь боловсон ёс бус!</definition>
+      <page>768</page>
+    </entry_item>
+  </entries>
+</entry>

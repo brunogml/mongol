@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q2308">
+  <head>
+    <unicode>ᠬᠠᠯᠴᠢᠯᠵᠠᠬᠣ</unicode>
+    <transcript>qalčilǰaqu</transcript>
+    <transcript2>galcilcago</transcript2>
+    <cyrillic>халчилзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q2309</ref>
+    <ref>Q2310</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠯᠴᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>халчилзах</cyrillic>
+      <definition>〔动〕参见 халчганах.</definition>
+      <page>1294</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠯᠴᠢᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ХАЛЧИЛЗАХ</cyrillic>
+      <definition>слегка развеваться по ветру (о лёгкой ткани). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠯᠴᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>халчилзах</cyrillic>
+      <definition>халчгар юмны байн байн хөдлөх.</definition>
+      <page>653</page>
+    </entry_item>
+  </entries>
+</entry>

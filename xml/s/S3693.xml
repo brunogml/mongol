@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3693">
+  <head>
+    <unicode> ᠰᠢᠰᠲ᠋ᠧᠮᠯᠡᠭᠥ</unicode>
+    <transcript>sistemlekü</transcript>
+    <transcript2>sisdemlegö</transcript2>
+    <cyrillic>системлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3694</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠰᠲ᠋ᠧᠮᠯᠡᠬᠦ</unicode>
+      <cyrillic>системлэх</cyrillic>
+      <definition>〔动〕使成系统，使成体系；使成制度，确立体制，确立秩序；按一定型式.</definition>
+      <page>928</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode> ᠰᠢᠰᠲ᠋ᠧᠮᠯᠡᠭᠥ</unicode>
+      <cyrillic>СИСТЕМЛЭХ</cyrillic>
+      <definition>систематизировать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>системлэх</cyrillic>
+      <definition>systematisieren</definition>
+      <page>198</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠰᠲ᠋ᠧᠮᠯᠡᠬᠦ</unicode>
+      <cyrillic>системлэх</cyrillic>
+      <definition>системтэй болгох.</definition>
+      <page>475</page>
+    </entry_item>
+  </entries>
+</entry>

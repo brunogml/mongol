@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5664">
+  <head>
+    <unicode>ᠲᠣᠭᠠᠷ</unicode>
+    <transcript>tuγar</transcript>
+    <transcript2>dogar</transcript2>
+    <cyrillic>тугаар</cyrillic>
+  </head>
+  <see_also>
+    <ref>T5665</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠭᠠᠷ</unicode>
+      <uighur>tuγar</uighur>
+      <cyrillic>тугаар</cyrillic>
+      <transcript>TUΓAR</transcript>
+      <definition>adv. Before, earlier, just now (within one day)</definition>
+      <page>838</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠣᠭᠠᠷ ᠤᠨ</unicode>
+          <transcript>-- un</transcript>
+          <definition> Recent.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠣᠭᠠᠷ ᠤᠨ ᠭᠠᠵᠠᠷ</unicode>
+          <transcript>-- un γazar</transcript>
+          <definition> The place just visited.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠭᠠᠷ</unicode>
+      <definition>avant, auparavant, tout récemment</definition>
+      <page>1803</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠤᠭᠠᠷ ᠤᠨ</unicode>
+          <definition>de tantôt</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠤᠭᠠᠷ ᠤᠨ ᠭᠠᠵᠠᠷ ᠎ᠲᠤᠷ</unicode>
+          <definition>sur la place que nous avons visitée récemment</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠣᠭᠠᠷ</unicode>
+      <uighur>duγar</uighur>
+      <definition>vorhin, vor Kurzem</definition>
+      <page>249</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠭᠠᠷ</unicode>
+      <cyrillic>тугаар</cyrillic>
+      <definition>〔副〕刚才，刚刚：~ын хүн 刚才的那个人.</definition>
+      <page>1106</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠭᠠᠷ</unicode>
+      <cyrillic>ТУГААР</cyrillic>
+      <definition>монг.бичг. недавно, только что (в пределах 1-4 часов). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тугаар</cyrillic>
+      <definition>gerade, soeben</definition>
+      <page>237</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠭᠠᠷ</unicode>
+      <cyrillic>тугаар</cyrillic>
+      <definition>сая, саяхан.</definition>
+      <page>553</page>
+    </entry_item>
+  </entries>
+</entry>

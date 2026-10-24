@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B4531a">
+  <head>
+    <unicode>ᠪᠥᠮ</unicode>
+    <transcript>büm</transcript>
+    <transcript2>böm</transcript2>
+  </head><see_also>
+    <ref>B4531</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠥᠮ</unicode>
+      <uighur>büm</uighur>
+      <transcript>BYM</transcript>
+      <definition>See bum</definition>
+      <page>147</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠦᠮ</unicode>
+      <definition>cent milles.</definition>
+      <page>1238</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠦᠮ ᠲᠠᠭᠤᠯᠠᠯ</unicode>
+          <definition>recueil des chants sacrés: c'est le titre d'un ouvrage</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

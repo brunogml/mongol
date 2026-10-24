@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7300">
+  <head>
+    <unicode>ᠲᠣᠮᠯᠠᠶᠢᠳᠬᠣ</unicode>
+    <transcript>tumlayidqu</transcript>
+    <transcript2>domlayidgo</transcript2>
+    <cyrillic>тумлайдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T7301</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠮᠠᠯᠠᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>тумлайдах</cyrillic>
+      <definition>〔动〕封裹，罩，覆盖，围裹.</definition>
+      <page>1112</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠮᠯᠠᠶᠢᠳᠬᠣ</unicode>
+      <cyrillic>ТУМЛАЙДАХ</cyrillic>
+      <definition>покрывать однљм концом чего-л. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тумлайдах</cyrillic>
+      <definition>ein-, umhüllen (mit etw. -аар)</definition>
+      <page>239</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠮᠯᠠᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>тумлайдах</cyrillic>
+      <definition>юмны нэг этгээдийг юмны доогуур шургуулж, нөгөө этгээдийг босгох бөгтрөх зэргээр хучих, тогтоох; гэрийн хаяаг эсгийгээр тумлайдах; дээлээр хөлөө тумлайдаж хучих.</definition>
+      <page>556</page>
+    </entry_item>
+  </entries>
+</entry>

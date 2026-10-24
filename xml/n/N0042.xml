@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="N0042">
+  <head>
+    <unicode>ᠨᠠᠬ</unicode>
+    <transcript>naγ</transcript>
+    <transcript2>nag</transcript2>
+    <cyrillic>наг</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠨᠠᠬ</unicode>
+      <uighur>naq</uighur>
+      <transcript>NAΓ</transcript>
+      <page>556</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠠᠬ ᠮᠡᠯᠡᠺᠡᠢ = ᠯᠠᠭ ᠮᠡᠯᠡᠺᠡᠢ</unicode>
+          <transcript>-- melekei = laγ melekei</transcript>
+          <definition> Tortoise</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠠᠭ</unicode>
+      <cyrillic>наг</cyrillic>
+      <definition>见 ~ ~ инээх, ~ ~ хөхрөх 哈哈大笑.</definition>
+      <page>716</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠬ</unicode>
+      <cyrillic>НАГ</cyrillic>
+      <definition>тёмный, чёрный. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

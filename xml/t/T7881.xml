@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7881">
+  <head>
+    <unicode>ᠳᠣᠷᠪᠣᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>dorbulǰaγulqu</transcript>
+    <transcript2>dorbolcagolgo</transcript2>
+    <cyrillic>дорволзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T7880</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠣᠷᠪᠣᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дорволзуулах</cyrillic>
+      <definition>〔动〕дорволзох 的使动态.</definition>
+      <page>420</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠷᠪᠣᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДОРВОЛЗУУЛАХ</cyrillic>
+      <definition>дорволзох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠣᠷᠪᠣᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дорволзуулах</cyrillic>
+      <definition>дорволзохын үйлдүүлэх хэв.</definition>
+      <page>201</page>
+    </entry_item>
+  </entries>
+</entry>

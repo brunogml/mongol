@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5590">
+  <head>
+    <unicode>ᠱᠣᠪᠬᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šobqulaγulqu</transcript>
+    <transcript2>sobgolagolgo</transcript2>
+    <cyrillic>шовхлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S5589</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠣᠪᠬᠣᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шовхлуулах</cyrillic>
+      <definition>〔动〕шовхлох 的使动态.</definition>
+      <page>1645</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠪᠬᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШОВХЛУУЛАХ</cyrillic>
+      <definition>шовхлох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шовхлуулах</cyrillic>
+      <definition>Kaus von шовхлох</definition>
+      <page>388</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠣᠪᠬᠣᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шовхлуулах</cyrillic>
+      <definition>шовхлохын үйлдүүлэх хэв.</definition>
+      <page>852</page>
+    </entry_item>
+  </entries>
+</entry>

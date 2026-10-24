@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0876">
+  <head>
+    <unicode>ᠪᠠᠯᠪᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>balbaγulqu</transcript>
+    <transcript2>balbagolgo</transcript2>
+    <cyrillic>балбуулах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0877</ref>
+  </derivatives>
+  <related_to>
+    <ref>B0875</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠯᠪᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>балбуулах</cyrillic>
+      <definition>〔动〕балбах 的使动态.</definition>
+      <page>122</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠯᠪᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БАЛБУУЛАХ</cyrillic>
+      <definition>1) балбах-ын үйлдүүл.; 2) подвергаться избиению; мөндөрт балбуулав был побит градом, попал под град.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠯᠪᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>балбуулах</cyrillic>
+      <definition>1. балбахын үйлдүүлэх хэв;2. балбагдах, цохигдох; мөндөрт балбуулав.</definition>
+      <page>70</page>
+    </entry_item>
+  </entries>
+</entry>

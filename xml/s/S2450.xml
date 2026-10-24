@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2450">
+  <head>
+    <unicode>ᠰᠠᠺᠠᠯᠳᠥᠷᠺᠠᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>segeldürgelegülkü</transcript>
+    <transcript2>segeldörgelegölgö</transcript2>
+    <cyrillic>сэгэлдрэглүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S2449</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠭᠡᠯᠳᠦᠷᠭᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сэгэлдрэглүүлэх</cyrillic>
+      <definition>〔动〕сэгэлдрэглэх 的使动态.</definition>
+      <page>983</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠺᠠᠯᠳᠥᠷᠺᠠᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>СЭГЭЛДРЭГЛҮҮЛЭХ</cyrillic>
+      <definition>сэгэлдрэглэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠭᠡᠯᠳᠦᠷᠭᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сэгэлдрэглүүлэх</cyrillic>
+      <definition>сэгэлдрэглэхийн үйлдүүлэх хэв.</definition>
+      <page>500</page>
+    </entry_item>
+  </entries>
+</entry>

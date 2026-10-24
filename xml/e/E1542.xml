@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E1542">
+  <head>
+    <unicode>ᠡᠭᠡᠮ</unicode>
+    <transcript>egem</transcript>
+    <transcript2>egem</transcript2>
+    <cyrillic>эгэм</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠺᠠᠮ</unicode>
+      <uighur>egem</uighur>
+      <cyrillic>эгэм</cyrillic>
+      <transcript>EGEM</transcript>
+      <definition>n. Clavicle, collarbone. [Gu.] Complete arm.</definition>
+      <page>298</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠺᠠᠮ ᠤᠨ ᠶᠠᠰᠤ</unicode>
+          <transcript>-- yn jasu</transcript>
+          <definition> Clavicle, collarbone.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠺᠡᠮ</unicode>
+      <definition>bras, avant-bras</definition>
+      <page>233</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠺᠡᠮ ᠤᠨ ᠵᠠᠰᠤ</unicode>
+          <definition>clavicule, os latéral du cou.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠭᠡᠮ</unicode>
+      <cyrillic>эгэм</cyrillic>
+      <definition>〔名〕〈解〉锁骨，锁子骨：~ мөрний шинж 肩峰症状；~ огтлох 锁骨切开术；~ хоорондын хонхор 锁骨间窝.</definition>
+      <page>1682</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠺᠠᠮ</unicode>
+      <cyrillic>ЭГЭМ</cyrillic>
+      <definition>бие.зүй. ключица; эгэм хугарах перелом ключицы. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠺᠠᠮ</unicode>
+      <cyrillic>ЭГЭМНИЙ</cyrillic>
+      <definition>эгэм(н)-ий харьяал., ключичный; эгэмний яс ключичная кость. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>эгэм</cyrillic>
+      <definition>Anat Schlüsselbein n</definition>
+      <page>396</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠭᠡᠮ</unicode>
+      <cyrillic>эгэм</cyrillic>
+      <definition>хүн амьтны өнгөлүүрийн хоёр хажуугийн хөндлөн яс; эгэм нь хугарах.</definition>
+      <page>869</page>
+    </entry_item>
+  </entries>
+</entry>

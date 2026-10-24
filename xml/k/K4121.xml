@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4121">
+  <head>
+    <unicode>ᠺᠥᠯᠳᠡᠺᠥᠳᠡᠺᠥ</unicode>
+    <transcript>köldegüdekü</transcript>
+    <transcript2>göldegödegö</transcript2>
+    <cyrillic>хөлдүүдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K4122</ref>
+    <ref>K4120</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠯᠳᠡᠭᠦᠳᠡᠬᠦ</unicode>
+      <cyrillic>хөлдүүдэх</cyrillic>
+      <definition>〔动〕冻得过分，冻僵，冻得绷绷硬，冻得结结实实.</definition>
+      <page>1394</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠯᠳᠡᠺᠥᠳᠡᠺᠥ</unicode>
+      <cyrillic>ХӨЛДҮҮДЭХ</cyrillic>
+      <definition>быть слишком мёрзлым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хөлдүүдэх</cyrillic>
+      <definition>zu sehr gefroren sein</definition>
+      <page>318</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠯᠳᠡᠭᠦᠳᠡᠬᠦ</unicode>
+      <cyrillic>хөлдүүдэх</cyrillic>
+      <definition>хэтэрхий хөлдүү болох.</definition>
+      <page>708</page>
+    </entry_item>
+  </entries>
+</entry>

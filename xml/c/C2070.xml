@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2070">
+  <head>
+    <unicode>ᠴᠢᠴᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>čičaγanaqu</transcript>
+    <transcript2>cicaganago</transcript2>
+    <cyrillic>чацганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C2071</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠴᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>чацганах</cyrillic>
+      <definition>〔动〕参见 чадавганах.</definition>
+      <page>1583</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠴᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЧАЦГАНАХ</cyrillic>
+      <definition>чацвалзах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠴᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>чацганах</cyrillic>
+      <definition>чацавганах.</definition>
+      <page>816</page>
+    </entry_item>
+  </entries>
+</entry>

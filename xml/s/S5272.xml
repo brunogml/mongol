@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5272">
+  <head>
+    <unicode>ᠰᠣᠭᠣᠲᠣᠯᠵᠠᠬᠣ</unicode>
+    <transcript>soγutulǰaqu</transcript>
+    <transcript2>sogodolcago</transcript2>
+    <cyrillic>соотолзох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5273</ref>
+    <ref>S5275</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠭᠣᠲᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>соотолзох</cyrillic>
+      <definition>〔动〕参见 соотгонох.</definition>
+      <page>941</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠭᠣᠲᠣᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>СООТОЛЗОХ</cyrillic>
+      <definition>соотгонох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>соотолзох</cyrillic>
+      <definition>= соотгонох</definition>
+      <page>201</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠭᠣᠲᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>соотолзох</cyrillic>
+      <definition>соотгор юмны байн байн хөдлөх.</definition>
+      <page>480</page>
+    </entry_item>
+  </entries>
+</entry>

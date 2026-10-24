@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1326">
+  <head>
+    <unicode>ᠵᠠᠯᠺᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰalgilaγulqu</transcript>
+    <transcript2>yalgilagolgo</transcript2>
+    <cyrillic>залгилуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y1325</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠯᠭᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>залгилуулах</cyrillic>
+      <definition>〔动〕залгилах 的使动态.</definition>
+      <page>536</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠯᠺᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗАЛГИЛУУЛАХ</cyrillic>
+      <definition>залгилах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠯᠭᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>залгилуулах</cyrillic>
+      <definition>залгилахын үйлдүүлэх хэв.</definition>
+      <page>262</page>
+    </entry_item>
+  </entries>
+</entry>

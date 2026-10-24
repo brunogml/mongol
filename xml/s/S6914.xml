@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6914">
+  <head>
+    <unicode>ᠰᠥᠺᠥᠺᠥᠯᠺᠥ</unicode>
+    <transcript>sökügülkü</transcript>
+    <transcript2>sögögölgö</transcript2>
+    <cyrillic>сөхүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S6912</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠬᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сөхүүлэх</cyrillic>
+      <definition>〔动〕сөхөх 的使动态.</definition>
+      <page>950</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠥᠺᠥᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>СӨХҮҮЛЭХ</cyrillic>
+      <definition>сөхөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠬᠥᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сөхүүлэх</cyrillic>
+      <definition>сөхөхийн үйлдүүлэх хэв.</definition>
+      <page>485</page>
+    </entry_item>
+  </entries>
+</entry>

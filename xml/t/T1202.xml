@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1202">
+  <head>
+    <unicode>ᠲᠠᠪᠰᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tabsalǰaγulqu</transcript>
+    <transcript2>dabsalcagolgo</transcript2>
+    <cyrillic>тавсалзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T1201</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠪᠰᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тавсалзуулах</cyrillic>
+      <definition>〔动〕тавсалзах 的使动态.</definition>
+      <page>1007</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠪᠰᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАВСАЛЗУУЛАХ</cyrillic>
+      <definition>тавсалзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠪᠰᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тавсалзуулах</cyrillic>
+      <definition>тавсалзахын үйлдүүлэх хэв.</definition>
+      <page>512</page>
+    </entry_item>
+  </entries>
+</entry>

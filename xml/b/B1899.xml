@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1899">
+  <head>
+    <unicode>ᠪᠠᠺᠠᠷᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>begeregülkü</transcript>
+    <transcript2>begeregölgö</transcript2>
+    <cyrillic>бээрүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>B1898</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠡᠭᠡᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бээрүүлэх</cyrillic>
+      <definition>〔动〕бээрэх 的使动态.</definition>
+      <page>250</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠺᠠᠷᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>БЭЭРҮҮЛЭХ</cyrillic>
+      <definition>бээрэх-ийн үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠡᠭᠡᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бээрүүлэх</cyrillic>
+      <definition>бээрэхийн үйлдүүлэх хэв.</definition>
+      <page>124</page>
+    </entry_item>
+  </entries>
+</entry>

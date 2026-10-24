@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T3168">
+  <head>
+    <unicode>ᠳᠠᠨᠴᠢᠨ</unicode>
+    <transcript>denčin</transcript>
+    <transcript2>dencin</transcript2>
+    <cyrillic>дэнчин</cyrillic>
+  </head><see_also>
+    <ref>T3170</ref>
+  
+    <ref>T3169</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠠᠨᠴᠢᠨ</unicode>
+      <uighur>deečin</uighur>
+      <cyrillic>дэнчин</cyrillic>
+      <transcript>DENCIN</transcript>
+      <definition>[Ch. tien-ch'ien] n. Pledge, pawn, lien, bond, deposit, mortgage.</definition>
+      <page>251</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠨᠴᠢᠨ ᠎ᠳᠦ ᠪᠠᠶᠢᠭ᠎ᠠ ᠎ᠶᠢ ᠲᠥᠯᠦᠨ ᠠᠪᠬᠤ</unicode>
+          <transcript>-- dy baiγ-a ji tølyn abxu</transcript>
+          <definition> To redeem a pawn</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠠᠨᠴᠢᠨ ᠲᠠᠯᠪᠢᠬᠤ</unicode>
+          <transcript>-- talbixu</transcript>
+          <definition> To pawn, give security, mortgage, hypothecate,</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

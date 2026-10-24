@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q2410">
+  <head>
+    <unicode>ᠬᠠᠮᠣᠯᠴᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>qamulčaγulqu</transcript>
+    <transcript2>gamolcagolgo</transcript2>
+    <cyrillic>хамалцуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q2409</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠮᠤᠯᠴᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хамалцуулах</cyrillic>
+      <definition>〔动〕хамалцах 的使动态.</definition>
+      <page>1296</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠮᠣᠯᠴᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХАМАЛЦУУЛАХ</cyrillic>
+      <definition>хамалцах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠮᠤᠯᠴᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хамалцуулах</cyrillic>
+      <definition>хамалцахын үйлдүүлэх хэв.</definition>
+      <page>654</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A2800">
+  <head>
+    <unicode>ᠠᠮᠠᠯᠠᠯᠭ᠎ᠠ</unicode>
+    <transcript>amalalγ-a</transcript>
+    <transcript2>amalalga</transcript2>
+    <cyrillic>амлалга</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠮᠠᠯᠠᠯᠭ᠎ᠠ</unicode>
+      <uighur>amalalγ-a</uighur>
+      <cyrillic>амлалга</cyrillic>
+      <transcript>AMALALГ-A</transcript>
+      <definition>Promise, oath, vow.</definition>
+      <page>36</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠮᠠᠯᠠᠯᠭ᠎ᠠ ᠠᠮᠠᠯᠠᠬᠤ</unicode>
+          <transcript>amalaxu</transcript>
+          <definition> To malte a promise.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠮᠠᠯᠠᠯᠭ᠎ᠠ</unicode>
+      <cyrillic>амлалга</cyrillic>
+      <definition>〔名〕〈陈〉摊派.</definition>
+      <page>52</page>
+    </entry_item>
+    <entry_item>
+      <dico>Mostaert</dico>
+      <unicode>ᠠᠮᠠᠯᠠᠯᠭ᠎ᠠ</unicode>
+      <definition>action de promettre</definition>
+      <page>19</page>
+    </entry_item>
+  </entries>
+</entry>

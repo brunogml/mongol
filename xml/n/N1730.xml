@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1730">
+  <head>
+    <unicode>ᠨᠢᠵᠢᠺᠢᠨᠠᠺᠥ</unicode>
+    <transcript>niǰiginekü</transcript>
+    <transcript2>niciginegö</transcript2>
+    <cyrillic>нижигнэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>N1731</ref>
+    <ref>N1728</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠨᠢᠵᠢᠺᠢᠨᠠᠺᠥ</unicode>
+      <uighur>niǰikinekü</uighur>
+      <cyrillic>нэжигнэх - нижигнэх</cyrillic>
+      <transcript>NIZIGINE-</transcript>
+      <definition>v.i. To thunder.</definition>
+      <page>587</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠢᠵᠢᠺᠢᠨᠠᠲᠡᠯ᠎ᠡ</unicode>
+          <transcript>--tel-e</transcript>
+          <definition> Thunderously.</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠢᠵᠢᠺᠢᠨᠠᠲᠡᠯ᠎ᠡ ᠠᠯᠠᠭ᠎ᠠ ᠲᠠᠰᠢᠬᠤ</unicode>
+          <transcript>--tel e alarγ-a tasixu</transcript>
+          <definition> To give thunderous applause.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠤᠤ ᠨᠢᠵᠢᠺᠢᠨᠠᠮᠦᠢ</unicode>
+          <transcript>buu --myi</transcript>
+          <definition> The guns roar</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠢᠵᠢᠭᠢᠨᠡᠬᠦ</unicode>
+      <cyrillic>нижигнэх</cyrillic>
+      <definition>〔动〕轰响，轰隆，轰鸣，雷鸣打霹雳：тэнгэр ~ж байна 天打雷，雷声轰隆；алга ~тэл ташцгаав 雷鸣般地鼓掌，掌声雷动.</definition>
+      <page>736</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠢᠵᠢᠺᠢᠨᠠᠺᠥ</unicode>
+      <cyrillic>НИЖГЭНЭХ</cyrillic>
+      <definition>1. 1) греметь, грохотать; буун дуу нижгэнэв гремели выстрелы; тэнгэр нижгэнэж байна гром гремит, гром грохочет; 2) трещать; распространяться, усиливаться; пылать (об огне); нижгэнэн аж төрөх жить зажиточно; нижгэнэж шатах гореть с треском, пылать, разгораться (об огне); 2. нижгэнэхүй-г үз., их буу нижгэнэх грохот пушек; тэнгэр нижгэнэх раскаты грома; 3. бурный; раскатистый; аянга нижгэнэх раскатистый удар грома; нижгэнэтэл алга таших бурные аплодисменты. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠢᠵᠢᠺᠢᠨᠠᠺᠥ</unicode>
+      <cyrillic>НИЖГЭНЭХҮЙ</cyrillic>
+      <definition>грохот, раскаты. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠢᠵᠢᠭᠢᠨᠡᠬᠦ</unicode>
+      <cyrillic>нижигнэх</cyrillic>
+      <definition>түчигнэн, хүрчигнэн хүчтэй дуугарах; тэнгэр нижигнэн дуугарч ширүүн бороо орлоо; гал нижигнэтэл асч байна; алга нижигнэтэл ташцагаав.</definition>
+      <page>374</page>
+    </entry_item>
+  </entries>
+</entry>

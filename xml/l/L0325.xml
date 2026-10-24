@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="L0325">
+  <head>
+    <unicode>ᠯᠣᠣᠬᠠᠲᠣᠬᠣ</unicode>
+    <transcript>louqatuqu</transcript>
+    <transcript2>loogadogo</transcript2>
+    <cyrillic>луухтах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠯᠤᠤᠬᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>луухтах</cyrillic>
+      <definition>〔动〕出眼眵.</definition>
+      <page>648</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠯᠣᠣᠬᠠᠲᠣᠬᠣ</unicode>
+      <cyrillic>ЛУУХТАХ</cyrillic>
+      <definition>нуухтах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠯᠤᠤᠬᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>луухтах</cyrillic>
+      <definition>нуухтах.</definition>
+      <page>323</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>L0321</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T7999">
+  <head>
+    <unicode>ᠳᠣᠷᠵᠢᠺᠢᠨᠠᠬᠣ</unicode>
+    <transcript>durǰiginaqu</transcript>
+    <transcript2>dorciginago</transcript2>
+    <cyrillic>дуржигнах</cyrillic>
+  </head><derivatives>
+    <ref>T8001</ref>
+  
+    <ref>T8006</ref>
+  </derivatives><see_also>
+    <ref>T7998</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠤᠷᠵᠢᠭᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>дуржигнах</cyrillic>
+      <definition>〔动〕见 дуржганах.</definition>
+      <page>443</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠷᠵᠢᠺᠢᠨᠠᠬᠣ</unicode>
+      <cyrillic>ДУРЖИГНАХ</cyrillic>
+      <definition>стрекотать, трещать. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

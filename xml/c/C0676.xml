@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0676">
+  <head>
+    <unicode>ᠴᠠᠶᠢᠷᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čayirlaγulqu</transcript>
+    <transcript2>cayirlagolgo</transcript2>
+    <cyrillic>цайрлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C0675</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠢᠷᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цайрлуулах</cyrillic>
+      <definition>〔动〕цайрлах 的使动态.</definition>
+      <page>1515</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠶᠢᠷᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦАЙРЛУУЛАХ</cyrillic>
+      <definition>цайрлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠢᠷᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цайрлуулах</cyrillic>
+      <definition>цайрлахын үйлдүүлэх хэв.</definition>
+      <page>781</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2832">
+  <head>
+    <unicode>ᠲᠠᠷᠪᠠᠭ᠎ᠠ</unicode>
+    <transcript>tarbaγ-a</transcript>
+    <transcript2>darbaga</transcript2>
+    <cyrillic>тарвага</cyrillic>
+  </head>
+  <see_also>
+    <ref>T2833</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠷᠪᠠᠭ᠎ᠠ ~ ᠲᠠᠷᠪᠠᠭᠠᠨ</unicode>
+      <uighur>tarbaγ-a - tarbaγan</uighur>
+      <cyrillic>тарвага(н)</cyrillic>
+      <transcript>TARBAΓ-A(N)</transcript>
+      <definition>n. Marmot, Arctomys, "tarbagan."</definition>
+      <page>780</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠷᠪᠠᠭᠠᠨ ᠺᠦᠮᠦᠨ</unicode>
+          <transcript>--n kymyn</transcript>
+          <definition>Dwarf, pigmy, midget.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠷᠪᠠᠭᠠᠨ ᠰᠢᠭᠢᠷ᠎ᠡ</unicode>
+          <transcript>--n sigir-e</transcript>
+          <definition>[Gr.] Thermopsis lanceolata (plant)</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠷᠪᠠᠭᠠᠨ ᠤ ᠲᠠᠬᠤᠯ</unicode>
+          <transcript>--n [u] taxul</transcript>
+          <definition>Tarbagan plague, pneumonic plague</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠷᠪᠠᠭ᠎ᠠ</unicode>
+      <definition>marmotte (marmotta alpina, dipus gerboa).</definition>
+      <page>1679</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠷᠪᠠᠭ᠎ᠠ ᠎ᠶᠢᠨ ᠢᠴᠢᠭᠡ</unicode>
+          <definition>trou d'une marmotte</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠠᠷᠪᠠᠭ᠎ᠠ ᠎ᠶᠢᠨ ᠨᠥᠺᠡ</unicode>
+          <definition>trou d'une marmotte</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠷᠪᠠᠭ᠎ᠠ</unicode>
+      <uighur>darbaγa</uighur>
+      <definition>das Asiatische Murnmelthier, der Bebak</definition>
+      <page>235</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠷᠪᠠᠭ᠎ᠠ</unicode>
+      <uighur>tarbaγ-a</uighur>
+      <definition>n. The Asiatic marmot, the Marmota bobak. An otter.</definition>
+      <page>923</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠷᠪᠠᠭ᠎ᠠ</unicode>
+      <cyrillic>ТАРВАГА(Н)</cyrillic>
+      <definition>1. амьт. тарбаган (степной сурок); тарвага утах а) выкурить тарбагана из норы; б) түүх. название преступления; 2. 1) тарбаганий; тарваган тахал анаг. тарбаганья чума; тарваган тахал эсэргүүцэх тарилга противочумная привљвка; 2) карликовый; карлик; тарваган хүн карлик; лилипут; † тарваган ноорсгоно ург. пухонос карликовый; тарваган хайлаас ург. вяз приземистый; тарваган шийр ург. термопсис ланцетнолљстный.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠷᠪᠠᠭ᠎ᠠ</unicode>
+      <cyrillic>ТАРВАГАНЫ</cyrillic>
+      <definition>тарвага(н)-ы харьяал., тарбаганий; тарваганы ичээ тарбаганья нора; тарваганы тос тарбаганий жир.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тарвага[н]</cyrillic>
+      <definition>1. Zool Murmeltier n, Tarbagan m
+2.: ~н шийр Bot Hexenzwirn m</definition>
+      <page>220</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠷᠪᠠᠭ᠎ᠠ</unicode>
+      <cyrillic>тарвага(ан)</cyrillic>
+      <definition>&lt;амьтан&gt;өвөл ичдэг, нэг зүйл мэрэгч амьтан, тарвага агнах, тарваганы арьс.</definition>
+      <page>522</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>T2838</ref>
+    <ref>T2839</ref>
+    <ref>T2842</ref>
+    <ref>T2846</ref>
+    <ref>T2847</ref>
+  </derivatives>
+</entry>

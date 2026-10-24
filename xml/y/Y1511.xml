@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1511">
+  <head>
+    <unicode>ᠵᠠᠺᠢᠶᠠᠯᠠᠬᠣ</unicode>
+    <transcript>ǰakiyalaqu</transcript>
+    <transcript2>yagiyalago</transcript2>
+    <cyrillic>захиалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1512</ref>
+    <ref>Y1516</ref>
+    <ref>Y1513</ref>
+    <ref>Y1514</ref>
+    <ref>Y1515</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠠᠺᠢᠶᠠᠯᠠᠬᠣ</unicode>
+      <uighur>ǰakiyalaqu</uighur>
+      <cyrillic>захиалах</cyrillic>
+      <transcript>ZAKIJALA-</transcript>
+      <definition>v. t. To order, charge; to subscribe to ( as to a newspaper).</definition>
+      <page>1028</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠠᠺᠢᠶᠠᠯᠠᠬᠣ ᠦᠨ᠎ᠡ</unicode>
+          <transcript>--xu yn-e</transcript>
+          <definition> Subscription fee.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠠᠭᠠᠵᠢ ᠤᠳ ᠢ ᠵᠠᠺᠢᠶᠠᠯᠠᠬᠣ</unicode>
+          <transcript>baγazi ud i --xu</transcript>
+          <definition> To order equipment.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠠᠺᠢᠶᠠᠯᠠᠬᠤ</unicode>
+      <definition>ordonner, commander; commission</definition>
+      <page>2298</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠵᠠᠺᠢᠶᠠᠯᠠᠬᠣ</unicode>
+      <uighur>ǰakiyalaqu</uighur>
+      <definition>bestellen, auftragen</definition>
+      <page>294</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠵᠠᠺᠢᠶᠠᠯᠠᠬᠣ</unicode>
+      <uighur>ǰakiyalaqu</uighur>
+      <definition>v.t. To command, to give orders. To commission. To ask for leave.</definition>
+      <page>1181</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠬᠢᠶᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>захиалах</cyrillic>
+      <definition>〔动〕①订购，订制，订阅；订货：сонин ~ 订阅报纸；②（托人）捎信，捎带东西：хувцас ~ 捎衣服.</definition>
+      <page>551</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠺᠢᠶᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЗАХИАЛАХ</cyrillic>
+      <definition>заказывать, затребовать; выписывать; абонировать; подписываться на газету; сонин захиалах выписывать газету; подписываться на газету; захиалах үнэ подписная цена. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>захиалах</cyrillic>
+      <definition>bestellen; anfordern; сонин ~ eine Zeitung abonnieren; хоол ~ Essen bestellen</definition>
+      <page>119</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠬᠢᠶᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>захиалах</cyrillic>
+      <definition>1. захиа захидал илгээх;2. бусдад үг захих буюу юм хум захих;3. ямар нэгэн юмыг захиж бэлтгүүлэх; хувцас захиалах; хоол захиалах.</definition>
+      <page>271</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Y1507</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S6000">
+  <head>
+    <unicode>ᠰᠣᠮᠣᠴᠢ</unicode>
+    <transcript>sumuči</transcript>
+    <transcript2>somoci</transcript2>
+    <cyrillic>сумч</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠣᠮᠣᠴᠢ</unicode>
+      <uighur>sumoči</uighur>
+      <cyrillic>сумч</cyrillic>
+      <transcript>SUMUCI</transcript>
+      <definition>n. Fletcher; maker of bullets.</definition>
+      <page>737</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠣᠮᠣᠴᠢ ᠎ᠶᠢᠨ ᠺᠢᠲᠤᠭ᠎ᠠ</unicode>
+          <transcript>-- jin kituγ-a </transcript>
+          <definition>Fletcher&apos;s knife</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠤᠮᠣᠴᠢ ᠳᠠᠷᠬᠠᠨ</unicode>
+      <definition>faiseur de flèches, fléchier.</definition>
+      <page>1405</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠮᠤᠴᠢ</unicode>
+      <cyrillic>сумч</cyrillic>
+      <definition>〔名〕①箭手；②扳道工.</definition>
+      <page>961</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠮᠣᠴᠢ</unicode>
+      <cyrillic>СУМЧ</cyrillic>
+      <definition>острый, небольшой нож; сумч дархан мастер по выделке стрел; сумч хутга нож для отделки стрел. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠮᠣᠴᠢ</unicode>
+      <cyrillic>СУМЧИН</cyrillic>
+      <definition>стрелочник, стрелочница. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

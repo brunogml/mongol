@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9297">
+  <head>
+    <unicode>ᠳᠥᠷᠢᠮᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>dürimlegülkü</transcript>
+    <transcript2>dörimlegölgö</transcript2>
+    <cyrillic>дүрэмлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T9296</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠦᠷᠢᠮᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дүрэмлүүлэх</cyrillic>
+      <definition>〔动〕дүрэмлэх 的使动态.</definition>
+      <page>458</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠥᠷᠢᠮᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ДҮРЭМЛҮҮЛЭХ</cyrillic>
+      <definition>дүрэмлэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠦᠷᠢᠮᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дүрэмлүүлэх</cyrillic>
+      <definition>дүрэмлэхийн үйлдүүлэх хэв.</definition>
+      <page>218</page>
+    </entry_item>
+  </entries>
+</entry>

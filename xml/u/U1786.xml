@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1786">
+  <head>
+    <unicode>ᠣᠯᠬᠣᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>ulquγanaqu</transcript>
+    <transcript2>olgoganago</transcript2>
+    <cyrillic>улхагнах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U1787</ref>
+    <ref>U1788</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠯᠬᠤᠭᠨᠠᠬᠤ</unicode>
+      <cyrillic>улхагнах</cyrillic>
+      <definition>〔动〕参见 улхалзах.</definition>
+      <page>1188</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠯᠬᠣᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>УЛХАГНАХ</cyrillic>
+      <definition>улбаганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠯᠬᠤᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>улхганах</cyrillic>
+      <definition>улхгар юмны улхга улхга хөдлөх.</definition>
+      <page>591</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0302">
+  <head>
+    <unicode>ᠳᠠᠩᠺᠢᠭᠠᠷᠳᠠᠬᠣ</unicode>
+    <transcript>dangkiγardaqu</transcript>
+    <transcript2>danggigardago</transcript2>
+    <cyrillic>данхигардах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T0303</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠩᠬᠢᠭᠠᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>данхигардах</cyrillic>
+      <definition>〔动〕变得瘦高，变得细长，变得细高.</definition>
+      <page>391</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠩᠺᠢᠭᠠᠷᠳᠠᠬᠣ</unicode>
+      <cyrillic>ДАНХИГАРДАХ</cyrillic>
+      <definition>1) быть, становиться чрезмерно долговязым; 2) быть грузным, неуклюжим; 3) данхгардах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠩᠬᠢᠭᠠᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>данхгардах</cyrillic>
+      <definition>дэндүү данхгар болох.</definition>
+      <page>188</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠩᠬᠢᠭᠠᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>данхигардах</cyrillic>
+      <definition>дэндүү данхигар болох.</definition>
+      <page>188</page>
+    </entry_item>
+  </entries>
+</entry>

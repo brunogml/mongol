@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1175">
+  <head>
+    <unicode>ᠴᠠᠺᠠᠵᠢᠯᠠᠺᠥ</unicode>
+    <transcript>čegeǰilekü</transcript>
+    <transcript2>cegecilegö</transcript2>
+    <cyrillic>цээжлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1176</ref>
+    <ref>C1177</ref>
+    <ref>C1174</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠺᠠᠵᠢᠯᠠᠺᠥ</unicode>
+      <uighur>čegeǰilekü</uighur>
+      <cyrillic>цээжлэх</cyrillic>
+      <transcript>CEGEZILE-</transcript>
+      <definition>v.t. To learn by rote, memorize.</definition>
+      <page>170</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠠᠺᠠᠵᠢᠯᠠᠨ ᠠᠪᠬᠤ</unicode>
+          <transcript>--n abxu</transcript>
+          <definition>To memorize.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠠᠺᠠᠵᠢᠯᠠᠨ ᠰᠤᠷᠬᠤ</unicode>
+          <transcript>--n surxu</transcript>
+          <definition>To memorize, learn by heart.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠠᠺᠠᠵᠢᠯᠠᠨ ᠲᠣᠭᠲᠠᠭᠠᠬᠤ</unicode>
+          <transcript>--n toγtaγaxu</transcript>
+          <definition>To fix or retain in one's memory, learn by heart.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠡᠺᠡᠵᠢᠯᠡᠺᠦ</unicode>
+      <definition>apprendre par coeur, repasser dans sa mémoire.</definition>
+      <page>2126</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠳᠦᠷ ᠪᠦᠷᠢ ᠨᠢᠭᠡᠨ ᠦᠭᠡ ᠴᠡᠭᠡᠵᠢᠯᠡᠨ ᠳᠤᠭᠲᠠᠭ᠎ᠠ</unicode>
+          <definition>apprends tous les jours un mot par coeur</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠴᠠᠺᠠᠵᠢᠯᠠᠺᠥ</unicode>
+      <uighur>čekeǰilekü</uighur>
+      <definition>lernen, auswendig lernen, memoriren</definition>
+      <page>321</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠴᠠᠺᠠᠵᠢᠯᠠᠺᠥ</unicode>
+      <uighur>čekeǰilekü</uighur>
+      <definition>v.t. To learn by heart, to remember, to memorize.</definition>
+      <page>1297</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠭᠡᠵᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>цээжлэх</cyrillic>
+      <definition>〔动〕记，背：цээжилж бичих 默写，背写；~н тогтоох 记住.</definition>
+      <page>1570</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠺᠠᠵᠢᠯᠠᠺᠥ</unicode>
+      <cyrillic>ЦЭЭЖЛЭХ</cyrillic>
+      <definition>1. запоминать, заучивать, выучивать наизусть; выдалбливать; твердить; вытвердить; дахин цээжлэх переучивать; сайн цээжлэх твёрдо запомнить; хичээлээ цээжлэх выучить уроки; хоосон цээжлэх зазубрить; шүлэг цээжлэх заучить стихотворение; выучивать наизусть стихи; цээжлэх дасгал хийх , цээжлэн дасгах тренировать память; 2. цээжлэхүй-г үз., үг үсгийг баримтлан цээжлэх талмудизм; хоосон цээжлэх начётничество; 3. мнемонический.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠺᠠᠵᠢᠯᠠᠺᠥ</unicode>
+      <cyrillic>ЦЭЭЖЛЭХҮЙ</cyrillic>
+      <definition>запоминание, заучивание; мнемоника; начётничество.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠭᠡᠵᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>цээжлэх</cyrillic>
+      <definition>ном бичгийг цээждээ тогтоож хадаашруулах; ном цээжлэх; үг цээжлэх; шүлэг цээжлэх.</definition>
+      <page>809</page>
+    </entry_item>
+  </entries>
+</entry>

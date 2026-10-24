@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q2018">
+  <head>
+    <unicode>ᠬᠠᠯᠣᠷᠢᠯ</unicode>
+    <transcript>qaluril</transcript>
+    <transcript2>galoril</transcript2>
+    <cyrillic>халрил</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠯᠣᠷᠢᠯ</unicode>
+      <uighur>qaloril</uighur>
+      <cyrillic>халрил</cyrillic>
+      <transcript>XALURIL</transcript>
+      <definition>n, Evasiveness,</definition>
+      <page>922</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠯᠤᠷᠢᠯ</unicode>
+      <definition>terreur, crainte, peur, épouvante.</definition>
+      <page>795</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠯᠤᠷᠢᠯ ᠦᠭᠡᠢ</unicode>
+          <definition>sans peur, courageux, intrépide; calme</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠯᠢᠷᠢᠯ</unicode>
+      <cyrillic>халрил</cyrillic>
+      <definition>〔名〕逃避，托辞，推诿.</definition>
+      <page>1290</page>
+    </entry_item>
+  </entries>
+</entry>

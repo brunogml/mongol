@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="L0045">
+  <head>
+    <unicode>ᠯᠠᠬᠠᠶᠢᠳᠠᠬᠣ</unicode>
+    <transcript>laqayidaqu</transcript>
+    <transcript2>lagayidago</transcript2>
+    <cyrillic>лаахайдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>L0046</ref>
+    <ref>L0047</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠯᠠᠬᠠᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>лаахайдах</cyrillic>
+      <definition>〔动〕(хэнд)恳切嘱办，迫切地托办，嘱托.</definition>
+      <page>638</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠯᠠᠬᠠᠶᠢᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЛААХАЙДАХ</cyrillic>
+      <definition>навязывать; поручать; над лаахайдахын хэрэггүй мне не навязывай. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠯᠠᠬᠠᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>лаахайдах</cyrillic>
+      <definition>юмыг хэтэрхий тулган найдах; над лаахайдахын хэрэггүй.</definition>
+      <page>317</page>
+    </entry_item>
+  </entries>
+</entry>

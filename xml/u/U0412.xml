@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U0412">
+  <head>
+    <unicode>ᠣᠨᠴᠣᠭᠣᠶᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ončuγuyidaγulqu</transcript>
+    <transcript2>oncogoyidagolgo</transcript2>
+    <cyrillic>онцгойдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U0409</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠨᠴᠣᠭᠣᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>онцгойдуулах</cyrillic>
+      <definition>〔动〕онцгойдох 的使动态.</definition>
+      <page>810</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠨᠴᠣᠭᠣᠶᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ОНЦГОЙДУУЛАХ</cyrillic>
+      <definition>онцгойдох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠨᠴᠣᠭᠣᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>онцгойдуулах</cyrillic>
+      <definition>онцгойдохын үйлдүүлэх хэв.</definition>
+      <page>418</page>
+    </entry_item>
+  </entries>
+</entry>

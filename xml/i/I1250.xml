@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I1250">
+  <head>
+    <unicode>ᠢᠷᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>irlegülkü</transcript>
+    <transcript2>irlegölgö</transcript2>
+    <cyrillic>ирлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>I1249</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠷᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>ирлүүлэх</cyrillic>
+      <definition>〔动〕ирлэх 的使动态.</definition>
+      <page>620</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠷᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ИРЛҮҮЛЭХ</cyrillic>
+      <definition>ирлэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>ирлүүлэх</cyrillic>
+      <definition>Kaus von ирлэх</definition>
+      <page>135</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠷᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>ирлүүлэх</cyrillic>
+      <definition>ирлэхийн үйлдүүлэх хэв, ирлэхэд хүрүүлэх.</definition>
+      <page>307</page>
+    </entry_item>
+  </entries>
+</entry>

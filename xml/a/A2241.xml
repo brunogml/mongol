@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A2241">
+  <head>
+    <unicode>ᠠᠲᠷᠧᠰᠯᠠᠬᠣ</unicode>
+    <transcript>adreslaqu</transcript>
+    <transcript2>adreslago</transcript2>
+    <cyrillic>адреслах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>X0018</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠲᠷᠢᠰᠯᠠᠬᠣ</unicode>
+      <uighur>adrislaqu</uighur>
+      <cyrillic>адреслах</cyrillic>
+      <transcript>ADRISLA-</transcript>
+      <definition>[R. адрес] v. To address (as a letter).</definition>
+      <page>11</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠳ᠋ᠷᠧᠰᠯᠠᠬᠤ</unicode>
+      <cyrillic>адреслах</cyrillic>
+      <definition>〔动〕写通讯地址.</definition>
+      <page>24</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>адреслах</cyrillic>
+      <definition>adressieren</definition>
+      <page>24</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠳ᠋ᠷᠧᠰᠯᠠᠬᠤ</unicode>
+      <cyrillic>адреслах</cyrillic>
+      <definition>хаяглах, адрестай болгох.</definition>
+      <page>23</page>
+    </entry_item>
+  </entries>
+</entry>

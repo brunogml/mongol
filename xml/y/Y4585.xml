@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4585">
+  <head>
+    <unicode>ᠵᠣᠮᠪᠣᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰombulǰaγulqu</transcript>
+    <transcript2>yombolcagolgo</transcript2>
+    <cyrillic>жомболзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y4583</ref>
+  </related_to>
+  <see_also>
+    <ref>Y4584</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠣᠮᠪᠣᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>жомболзуулах</cyrillic>
+      <definition>〔动〕жомболзох 的使动态.</definition>
+      <page>516</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠮᠪᠣᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЖОМБОЛЗУУЛАХ</cyrillic>
+      <definition>жомболзох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠣᠮᠪᠣᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>жомболзуулах</cyrillic>
+      <definition>жомболзохын үйлдүүдэх хэв.</definition>
+      <page>250</page>
+    </entry_item>
+  </entries>
+</entry>

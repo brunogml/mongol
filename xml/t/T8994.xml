@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8994">
+  <head>
+    <unicode>ᠲᠥᠺᠡᠺᠡᠯᠺᠡᠺᠥ</unicode>
+    <transcript>tügegelgekü</transcript>
+    <transcript2>dögegelgegö</transcript2>
+    <cyrillic>түгээлгэх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠦᠭᠡᠭᠡᠯᠭᠡᠬᠦ</unicode>
+      <cyrillic>түгээлгэх</cyrillic>
+      <definition>〔动〕түгээх 的使动态.</definition>
+      <page>1130</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠺᠡᠺᠡᠯᠺᠡᠺᠥ</unicode>
+      <cyrillic>ТҮГЭЭЛГЭХ</cyrillic>
+      <definition>түгээх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠦᠭᠡᠭᠡᠯᠭᠡᠬᠦ</unicode>
+      <cyrillic>түгээлгэх</cyrillic>
+      <definition>түгээхийн үйлдүүлэх хэв, түгээхэд хүрүүлэх.</definition>
+      <page>564</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T8993</ref>
+  </related_to>
+</entry>

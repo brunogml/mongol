@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y2882">
+  <head>
+    <unicode>ᠵᠢᠰᠥᠮᠡᠯ</unicode>
+    <transcript>ǰisümel</transcript>
+    <transcript2>yisömel</transcript2>
+    <cyrillic>зүсмэл</cyrillic>
+  </head>
+  <see_also>
+    <ref>Y5139</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠢᠰᠥᠮᠡᠯ</unicode>
+      <uighur>ǰisümel</uighur>
+      <cyrillic>зүсмэл</cyrillic>
+      <transcript>ZISYMEL</transcript>
+      <definition>[n. d. of zisy-] adj. Cut lengthwise, sliced; slice.</definition>
+      <page>1064</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠢᠰᠥᠮᠡᠯ ᠠᠷᠢᠰᠤ</unicode>
+          <transcript>-- arisu</transcript>
+          <definition>Leather cut in strips; leather strap or band</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠢᠰᠥᠮᠡᠯ ᠮᠣᠳᠤ</unicode>
+          <transcript>-- modu</transcript>
+          <definition>Board, plank.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠷᠢᠶᠠᠯᠠᠩ ᠤᠨ ᠵᠢᠰᠥᠮᠡᠯ</unicode>
+          <transcript>tarijalang un --</transcript>
+          <definition>strip of arable land.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠢᠰᠦᠮᠡᠯ</unicode>
+      <definition>1 coupé en petits morceaux: &#13;
+2 partie, portion, enclos</definition>
+      <page>2339</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠷᠢᠶᠠᠯᠠᠩ ᠤᠨ ᠵᠢᠰᠦᠮᠡᠯ</unicode>
+          <definition>une portion de terrain labourable</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠢᠰᠦᠮᠡᠯ ᠠᠷᠠᠰᠤᠨ</unicode>
+          <definition>la peau coupée; courroie</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

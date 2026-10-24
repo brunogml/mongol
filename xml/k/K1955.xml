@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1955">
+  <head>
+    <unicode>ᠺᠢᠲᠠᠳᠴᠢᠯᠠᠬᠣ</unicode>
+    <transcript>kitadčilaqu</transcript>
+    <transcript2>gidadcilago</transcript2>
+    <cyrillic>хятадчилах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K1956</ref>
+    <ref>K1957</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠢᠲᠠᠳᠴᠢᠯᠠᠬᠣ</unicode>
+      <uighur>kitadčilaqu</uighur>
+      <cyrillic>хятадчлах</cyrillic>
+      <transcript>KITADCILA-</transcript>
+      <definition>v.t. To sinicize; to translate into Chinese.</definition>
+      <page>474</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠺᠢᠲᠠᠳᠴᠢᠯᠠᠬᠣ</unicode>
+      <uighur>kidadčilaqu</uighur>
+      <definition>Behaving in Chinese manners.</definition>
+      <page>620</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠲᠠᠳᠴᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХЯТАДЧИЛАХ</cyrillic>
+      <definition>1) переводить на китайский язык; поступать подражая китайцам; 2) китаизировать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хятадчилах</cyrillic>
+      <definition>1. sinisieren
+2. ins Chinesische übersetzen</definition>
+      <page>349</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠢᠲᠠᠳᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>хятадчилах</cyrillic>
+      <definition>1. хятад дүрэм гаргаж аашлах;2. өөр бичгийг хятад хэл дээр орчуулах.</definition>
+      <page>774</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>K1952</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0856">
+  <head>
+    <unicode>ᠫᠠᠯᠬᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>palqalǰaγulqu</transcript>
+    <transcript2>palgalcagolgo</transcript2>
+    <cyrillic>палхалзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B0854</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠫᠠᠯᠬᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>палхалзуулах</cyrillic>
+      <definition>〔动〕палхалзах 的使动态.</definition>
+      <page>871</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠫᠠᠯᠬᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ПАЛХАЛЗУУЛАХ</cyrillic>
+      <definition>палхалзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠫᠠᠯᠬᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>палхалзуулах</cyrillic>
+      <definition>палхалзахын үйлдүүлэх хэв.</definition>
+      <page>450</page>
+    </entry_item>
+  </entries>
+</entry>

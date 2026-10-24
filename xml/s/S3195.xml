@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3195">
+  <head>
+    <unicode>ᠰᠢᠩᠺᠠᠪᠲᠥᠷ</unicode>
+    <transcript>singgebtür</transcript>
+    <transcript2>singgebdör</transcript2>
+    <cyrillic>шингэвтэр</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠩᠺᠠᠪᠲᠥᠷ</unicode>
+      <uighur>singkebdür</uighur>
+      <cyrillic>шингэвтэр</cyrillic>
+      <transcript>SINGGEBTYR</transcript>
+      <definition>adj. Somewhat thin (in density or consistency), sparse</definition>
+      <page>712</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠩᠺᠠᠪᠲᠥᠷ ᠳᠠᠭᠤᠨ</unicode>
+          <transcript>-- daγun</transcript>
+          <definition> Somewhat thin voice.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠩᠭᠡᠪᠲᠦᠷ</unicode>
+      <cyrillic>шингэвтэр</cyrillic>
+      <definition>〔形〕шингэн 的小称.</definition>
+      <page>1637</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠩᠺᠠᠪᠲᠥᠷ</unicode>
+      <cyrillic>ШИНГЭВТЭР</cyrillic>
+      <definition>довольно жидкий (или редкий); шингэвтэр сахал жиденькая бородка. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шингэвтэр</cyrillic>
+      <definition>(Dim von шингэн) recht flüssig; ziemlich dünn; Vegetation etwas spärlich</definition>
+      <page>386</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠩᠭᠡᠪᠲᠦᠷ</unicode>
+      <cyrillic>шингэвтэр</cyrillic>
+      <definition>арай шингэн, баахан шингэн.</definition>
+      <page>848</page>
+    </entry_item>
+  </entries>
+</entry>

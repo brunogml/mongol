@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I0779">
+  <head>
+    <unicode>ᠢᠯᠮᠠᠲᠣᠬᠣ</unicode>
+    <transcript>ilmatuqu</transcript>
+    <transcript2>ilmadogo</transcript2>
+    <cyrillic>ялматах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>I0780</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠯᠠᠮᠲᠤᠬᠤ</unicode>
+      <cyrillic>ялматах</cyrillic>
+      <definition>〔动〕〈医〉患丹毒.</definition>
+      <page>1749</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠯᠮᠠᠲᠣᠬᠣ</unicode>
+      <cyrillic>ЯЛМАТАХ</cyrillic>
+      <definition>заболеть рожей. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠯᠮᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>ялматах</cyrillic>
+      <definition>ялма өвчин тусах.</definition>
+      <page>905</page>
+    </entry_item>
+  </entries>
+</entry>

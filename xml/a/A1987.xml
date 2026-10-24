@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A1987">
+  <head>
+    <unicode>ᠠᠳᠠᠯᠢᠰᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>adalisiγulqu</transcript>
+    <transcript2>adalisigolgo</transcript2>
+    <cyrillic>адилшуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>A1985</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠳᠠᠯᠢᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>адилшуулах</cyrillic>
+      <definition>〔动〕адилших 的使动态.</definition>
+      <page>24</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠳᠠᠯᠢᠰᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>АДИЛШУУЛАХ</cyrillic>
+      <definition>приравнивать.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠳᠠᠯᠢᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>адилшуулах</cyrillic>
+      <definition>адилшихын үйлдүүлэх хэв.</definition>
+      <page>23</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1312">
+  <head>
+    <unicode>ᠣᠳᠠᠭᠠᠳᠬᠣ</unicode>
+    <transcript>udaγatqu</transcript>
+    <transcript2>odagadgo</transcript2>
+    <cyrillic>удаатах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U1313</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠳᠠᠭᠠᠳᠬᠤ</unicode>
+      <cyrillic>удаатах</cyrillic>
+      <definition>〔动〕参见 удаасах.</definition>
+      <page>1175</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠳᠠᠭᠠᠳᠬᠣ</unicode>
+      <cyrillic>УДААТАХ</cyrillic>
+      <definition>удаасах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>удаатах</cyrillic>
+      <definition>= удаасах</definition>
+      <page>253</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠳᠠᠭᠠᠳᠬᠤ</unicode>
+      <cyrillic>удаатах</cyrillic>
+      <definition>улмаар удаан болох.</definition>
+      <page>584</page>
+    </entry_item>
+  </entries>
+</entry>

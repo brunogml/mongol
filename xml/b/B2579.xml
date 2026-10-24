@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B2579">
+  <head>
+    <unicode>ᠪᠣᠨ</unicode>
+    <transcript>bon</transcript>
+    <transcript2>bon</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠣᠨ</unicode>
+      <uighur>bon</uighur>
+      <transcript>BON</transcript>
+      <definition>See bom</definition>
+      <page>120</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠤᠨ</unicode>
+      <definition>adhérent de l&apos;ancienne secte Bon</definition>
+      <page>1158</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠤᠨ ᠤ ᠴᠢᠨᠠᠷᠲᠤ</unicode>
+          <definition>adhérent de l&apos;ancienne secte Bon</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K3808">
+  <head>
+    <unicode>ᠺᠥᠳᠡᠺᠡᠰᠢᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ködegesigülkü</transcript>
+    <transcript2>gödegesigölgö</transcript2>
+    <cyrillic>хөдөөшүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K3807</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠳᠡᠭᠡᠰᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хөдөөшүүлэх</cyrillic>
+      <definition>〔动〕хөдөөших 的使动态.</definition>
+      <page>1393</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠳᠡᠺᠡᠰᠢᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ХӨДӨӨШҮҮЛЭХ</cyrillic>
+      <definition>хөдөөших-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠳᠡᠭᠡᠰᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хөдөөшүүлэх</cyrillic>
+      <definition>хөдөөшихийн үйлдүүлэх хэв.</definition>
+      <page>707</page>
+    </entry_item>
+  </entries>
+</entry>

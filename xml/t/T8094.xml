@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8094">
+  <head>
+    <unicode>ᠲᠥᠢᠪᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>tüibegülkü</transcript>
+    <transcript2>döibegölgö</transcript2>
+    <cyrillic>түйвүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T8090</ref>
+  </related_to>
+  <see_also>
+    <ref>T8095</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠦᠢᠪᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>түйвүүлэх</cyrillic>
+      <definition>〔动〕түйвэх 的使动态；参见 түйвээх.</definition>
+      <page>1131</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠢᠪᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ТҮЙВҮҮЛЭХ</cyrillic>
+      <definition>түйвээх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠦᠢᠪᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>түйвүүлэх</cyrillic>
+      <definition>түйвэхийн үйлдүүлэх хэв, самуурах алмайдахад хүрүүлэх, үймүүлэх.</definition>
+      <page>565</page>
+    </entry_item>
+  </entries>
+</entry>

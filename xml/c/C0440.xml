@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C0440">
+  <head>
+    <unicode>ᠴᠠᠯᠢᠩᠲᠣ</unicode>
+    <transcript>čalingtu</transcript>
+    <transcript2>calingdo</transcript2>
+    <cyrillic>цалинт</cyrillic>
+  </head>
+  <see_also>
+    <ref>C0439</ref>
+  </see_also>
+  <related_to>
+    <ref>C0438</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠯᠢᠩᠲᠣ</unicode>
+      <uighur>čalingtu</uighur>
+      <cyrillic>цалинт</cyrillic>
+      <transcript>CALINGTU</transcript>
+      <definition>See calingtai</definition>
+      <page>163</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠠᠯᠢᠩᠲᠠᠢ ~ ᠴᠠᠯᠢᠩᠳᠤ</unicode>
+      <definition>celui qui reçoit les, gages</definition>
+      <page>2099</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠠᠯᠢᠩᠲᠤ ᠤᠶᠤᠲᠠᠨ</unicode>
+          <definition>élève qui est élevé qux frais de la couronne</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠯᠢᠩᠲᠤ</unicode>
+      <cyrillic>цалинт</cyrillic>
+      <definition>〔形〕①工资的，薪水的；②拿薪水的，拿工资的；有工资的，有薪水的.</definition>
+      <page>1517</page>
+    </entry_item>
+  </entries>
+</entry>

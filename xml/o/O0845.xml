@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="O0845">
+  <head>
+    <unicode>ᠥᠯᠠ</unicode>
+    <transcript>üle</transcript>
+    <transcript2>öle</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠥᠯᠠ</unicode>
+      <uighur>üle</uighur>
+      <transcript>YLE</transcript>
+      <definition>Same as yly.</definition>
+      <page>1004</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠦᠯᠡ</unicode>
+      <definition>assez, suffisamment, autant qu&apos;il faut, c&apos;est assez</definition>
+      <page>522</page>
+      <examples>
+        <example>
+          <unicode>ᠥᠯᠡ ᠺᠡᠮᠡᠪᠡᠰᠦ ᠪᠣᠯᠬᠤ ᠦᠭᠡᠢ</unicode>
+          <definition>a. l. cela ne peutt être autrement, inévitablement, infailliblement</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

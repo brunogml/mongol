@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3519">
+  <head>
+    <unicode>ᠳᠠᠪᠰᠠᠯᠠᠺᠥ</unicode>
+    <transcript>debselekü</transcript>
+    <transcript2>debselegö</transcript2>
+    <cyrillic>дэвслэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T3520</ref>
+  </derivatives>
+  <see_also>
+    <ref>T3521</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠠᠪᠰᠠᠯᠠᠺᠥ</unicode>
+      <uighur>debselekü</uighur>
+      <cyrillic>дэвслэх</cyrillic>
+      <transcript>DEBSELE-</transcript>
+      <definition>v.t. To cover with or put on a debse (q.v. ).</definition>
+      <page>239</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠡᠪᠰᠡᠯᠡᠺᠦ</unicode>
+      <definition>couvrir, recouvrir , mettre sur qc.</definition>
+      <page>1703</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠮᠡᠭᠡᠨ ᠠᠷᠠᠰᠤ ᠪᠡᠷ ᠳᠡᠪᠰᠡᠯᠡᠺᠦ</unicode>
+          <definition>couvrir la selle d'une peau</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠪᠰᠠᠯᠠᠺᠥ</unicode>
+      <cyrillic>ДЭВСЛЭХ</cyrillic>
+      <definition>дэвсэх II-ийн олонтаа., всё время топтать, растаптывать, притаптывать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠪᠰᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>дэвслэх</cyrillic>
+      <definition>дэвсчих.</definition>
+      <page>221</page>
+    </entry_item>
+  </entries>
+</entry>

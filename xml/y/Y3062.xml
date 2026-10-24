@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3062">
+  <head>
+    <unicode>ᠵᠢᠯᠪᠢᠩᠲᠥᠺᠥ</unicode>
+    <transcript>ǰilbingtükü</transcript>
+    <transcript2>yilbingdögö</transcript2>
+    <cyrillic>жилбэнтэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y3063</ref>
+    <ref>Y3061</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠯᠪᠢᠩᠲᠦᠬᠦ</unicode>
+      <cyrillic>жилбэнтэх</cyrillic>
+      <definition>〔动〕（马）患寒妬.</definition>
+      <page>509</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠯᠪᠢᠩᠲᠥᠺᠥ</unicode>
+      <cyrillic>ЖИЛБЭНТЭХ</cyrillic>
+      <definition>болеть джилбэнгом, чесоткой (о лошади, верблюде). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠯᠪᠢᠩᠲᠦᠬᠦ</unicode>
+      <cyrillic>жилбэнтэх</cyrillic>
+      <definition>малд жилбэн өвчин тохиох.</definition>
+      <page>246</page>
+    </entry_item>
+  </entries>
+</entry>

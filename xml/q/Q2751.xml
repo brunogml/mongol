@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q2751">
+  <head>
+    <unicode>ᠬᠠᠴᠢᠬᠲᠣᠬᠣ</unicode>
+    <transcript>qačiγtuqu</transcript>
+    <transcript2>gacigdogo</transcript2>
+    <cyrillic>хачигтах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q2752</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠴᠢᠭᠲᠤᠬᠤ</unicode>
+      <cyrillic>хачигтах</cyrillic>
+      <definition>〔动〕参见 хачигдах.</definition>
+      <page>1329</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠴᠢᠬᠲᠣᠬᠣ</unicode>
+      <cyrillic>ХАЧИГТАХ</cyrillic>
+      <definition>тусг. акариоз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хачигтах</cyrillic>
+      <definition>Milben bekommen</definition>
+      <page>299</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠴᠢᠭᠲᠤᠬᠤ</unicode>
+      <cyrillic>хачигтах</cyrillic>
+      <definition>хачигтай болох.</definition>
+      <page>672</page>
+    </entry_item>
+  </entries>
+</entry>

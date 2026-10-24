@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T2239">
+  <head>
+    <unicode>ᠲᠠᠵᠢᠷᠬᠠᠢ</unicode>
+    <transcript>taǰirqai</transcript>
+    <transcript2>dacirgai</transcript2>
+    <cyrillic>тажирхай</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠵᠢᠷᠬᠠᠢ</unicode>
+      <uighur>taǰirqai</uighur>
+      <transcript>TAZIRXAI</transcript>
+      <page>789</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠵᠢᠷᠬᠠᠢ ᠭᠠᠵᠠᠷ</unicode>
+          <transcript>-- γazar</transcript>
+          <definition> Arid land, unproductive soil.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠵᠢᠷᠬᠠᠢ ᠭᠠᠵᠠᠷ</unicode>
+      <definition>terre aride, stérile.</definition>
+      <page>1654</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠵᠢᠷᠬᠠᠢ</unicode>
+      <cyrillic>ТАЖИРХАЙ</cyrillic>
+      <definition>бесплодный, голый, лишённый растљтельности; плешљвый, лысый, с реденькой шерстью. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

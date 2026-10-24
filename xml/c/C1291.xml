@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1291">
+  <head>
+    <unicode>ᠴᠠᠷᠪᠠᠺᠳᠠᠺᠥ</unicode>
+    <transcript>čerbegdekü</transcript>
+    <transcript2>cerbegdegö</transcript2>
+    <cyrillic>цэрвэгдэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>C1284</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠷᠪᠡᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>цэрвэгдэх</cyrillic>
+      <definition>〔动〕变远，相距变远.</definition>
+      <page>1566</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠷᠪᠠᠺᠳᠠᠺᠥ</unicode>
+      <cyrillic>ЦЭРВЭГДЭХ</cyrillic>
+      <definition>быть удалённым, отстоять, находиться на расстоянии; цэрвүүдэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цэрвэгдэх</cyrillic>
+      <definition>= цэрвүүдэх</definition>
+      <page>365</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠷᠪᠡᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>цэрвэгдэх</cyrillic>
+      <definition>хэтэрхий цэрвэг болох, цэрвүүдэх.</definition>
+      <page>807</page>
+    </entry_item>
+  </entries>
+</entry>

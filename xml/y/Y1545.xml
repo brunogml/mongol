@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1545">
+  <head>
+    <unicode>ᠶᠠᠺᠢᠷᠯᠠᠬᠣ</unicode>
+    <transcript>yakirlaqu</transcript>
+    <transcript2>yagirlago</transcript2>
+    <cyrillic>яхирлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1546</ref>
+    <ref>Y1547</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠠᠬᠢᠷᠯᠠᠬᠤ</unicode>
+      <cyrillic>яхирлах</cyrillic>
+      <definition>〔动〕表现得好挑剔，吹毛求疵，刁难，刁钻.</definition>
+      <page>1762</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠠᠺᠢᠷᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЯХИРЛАХ</cyrillic>
+      <definition>показывать свою бывалость, осторожность; обдумывать, взвешивать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>яхирлах</cyrillic>
+      <definition>vorsichtig handeln, kleinlich od pingelig werden</definition>
+      <page>417</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠠᠬᠢᠷᠯᠠᠬᠤ</unicode>
+      <cyrillic>яхирлах</cyrillic>
+      <definition>яхир зан байдал гаргах.</definition>
+      <page>911</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U0098">
+  <head>
+    <unicode>ᠣᠨᠠᠭᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>unaγaγulqu</transcript>
+    <transcript2>onagagolgo</transcript2>
+    <cyrillic>унагуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U0097</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠨᠠᠭᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>унагуулах</cyrillic>
+      <definition>〔动〕унагах 的使动态.</definition>
+      <page>1190</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠨᠠᠭᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>УНАГУУЛАХ</cyrillic>
+      <definition>унагах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠨᠠᠭᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>унагуулах</cyrillic>
+      <definition>унагахын үйлдүүлэх хэв.</definition>
+      <page>593</page>
+    </entry_item>
+  </entries>
+</entry>

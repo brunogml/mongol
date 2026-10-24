@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q7262">
+  <head>
+    <unicode>ᠭᠣᠷᠮᠣᠰᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>γurmusulaγulqu</transcript>
+    <transcript2>gormosolagolgo</transcript2>
+    <cyrillic>гурмаслуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q7261</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠤᠷᠮᠤᠰᠤᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гурмаслуулах</cyrillic>
+      <definition>〔动〕гурмаслах 的使动态.</definition>
+      <page>332</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠷᠮᠣᠰᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ГУРМАСЛУУЛАХ</cyrillic>
+      <definition>гурамслах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠤᠷᠮᠤᠰᠤᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гурамслуулах</cyrillic>
+      <definition>гурамслахын үйлдүүлэх хэв.</definition>
+      <page>160</page>
+    </entry_item>
+  </entries>
+</entry>

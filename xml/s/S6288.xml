@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6288">
+  <head>
+    <unicode>ᠱᠣᠷᠪᠣᠭᠣᠷ</unicode>
+    <transcript>šorbuγur</transcript>
+    <transcript2>sorbogor</transcript2>
+    <cyrillic>шоровгор</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠱᠣᠷᠪᠣᠭᠣᠷ</unicode>
+      <uighur>šorboγur</uighur>
+      <cyrillic>шоровгор</cyrillic>
+      <transcript>ŠORBUΓUR</transcript>
+      <definition>adj. Pointed, cone-shaped.</definition>
+      <page>756</page>
+      <examples>
+        <example>
+          <unicode>ᠱᠣᠷᠪᠣᠭᠣᠷ ᠲᠣᠯᠤᠭᠠᠰᠢᠲᠠᠢ ᠺᠦᠮᠦᠨ</unicode>
+          <transcript>-- toluγaitai kymyn</transcript>
+          <definition> Man with a pointed head.</definition>
+        </example>
+        <example>
+          <unicode>ᠱᠣᠷᠪᠣᠭᠣᠷ ᠰᠠᠬᠠᠶᠢᠲᠠᠢ</unicode>
+          <transcript>-- saxaitai</transcript>
+          <definition> Having a pointed beard.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠣᠷᠪᠣᠭᠣᠷ</unicode>
+      <cyrillic>шоровгор</cyrillic>
+      <definition>〔形〕参见 шорвигор.</definition>
+      <page>1651</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠷᠪᠣᠭᠣᠷ</unicode>
+      <cyrillic>ШОРВОГОР</cyrillic>
+      <definition>шорвигор-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шоровгор</cyrillic>
+      <definition>= шорвигор</definition>
+      <page>389</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠣᠷᠪᠣᠭᠣᠷ</unicode>
+      <cyrillic>шоровгор</cyrillic>
+      <definition>шорвигор.</definition>
+      <page>855</page>
+    </entry_item>
+  </entries>
+</entry>

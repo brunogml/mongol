@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="E1388">
+  <head>
+    <unicode>ᠡᠴᠢᠨᠡᠺᠢ</unicode>
+    <transcript>ečineki</transcript>
+    <transcript2>ecinegi</transcript2>
+    <cyrillic>эчнээхь</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠴᠢᠨᠠᠺᠢ</unicode>
+      <uighur>ečineki</uighur>
+      <cyrillic>эчнээхь</cyrillic>
+      <transcript>ECINEKI</transcript>
+      <definition>adj. Secret, confidential, hidden, unexplored.</definition>
+      <page>292</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠴᠢᠨᠠᠺᠢ ᠦᠢᠯᠡ</unicode>
+          <transcript>-- yile</transcript>
+          <definition> Secret, secret matter.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠴᠢᠨᠡᠺᠢ</unicode>
+      <definition>secret, caché</definition>
+      <page>222</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠴᠢᠨᠡᠺᠢ ᠦᠢᠯᠡ</unicode>
+          <definition>secret, mystère</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠴᠢᠨᠡᠬᠢ</unicode>
+      <cyrillic>эчнээхь</cyrillic>
+      <definition>〔形〕在背后的，在暗中的.</definition>
+      <page>1725</page>
+    </entry_item>
+  </entries>
+</entry>

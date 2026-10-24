@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1900">
+  <head>
+    <unicode>ᠴᠢᠯᠥᠺᠠᠴᠢᠯᠠᠺᠥ</unicode>
+    <transcript>čilügečilekü</transcript>
+    <transcript2>cilögecilegö</transcript2>
+    <cyrillic>чөлөөчлөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1899</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠯᠥᠭᠡᠴᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>чөлөөчлөх</cyrillic>
+      <definition>〔动〕①利用闲空，抽空；②趁机，伺机.</definition>
+      <page>1596</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠯᠥᠺᠠᠴᠢᠯᠠᠺᠥ</unicode>
+      <cyrillic>ЧӨЛӨӨЧЛӨХ</cyrillic>
+      <definition>1) воспользоваться чьим-н. отсутствием; эзгүйчлэх-ийг үз.; 2) делать в свободное время, делать между делами. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠯᠥᠭᠡᠴᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>чөлөөчлөх</cyrillic>
+      <definition>1. зав чөлөөг олж үйл ажлыг хийх үйлдэх;2. эзгүйчлэх.</definition>
+      <page>823</page>
+    </entry_item>
+  </entries>
+</entry>

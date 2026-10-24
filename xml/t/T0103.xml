@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0103">
+  <head>
+    <unicode>ᠳᠠᠨᠳᠠᠶᠢᠯᠠᠬᠣ</unicode>
+    <transcript>dandayilaqu</transcript>
+    <transcript2>dandayilago</transcript2>
+    <cyrillic>дандайлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T0104</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠩᠳᠠᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>дандайлах</cyrillic>
+      <definition>〔动〕（下棋中）连续将（对方的）军：шатрын ноёныг ~ 连续将军.</definition>
+      <page>389</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠨᠳᠠᠶᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ДАНДАЙЛАХ</cyrillic>
+      <definition>1) делать повторный ход (напр. в шахматах); 2) ставить короля в безвыходное положение (в шахматах). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дандайлах</cyrillic>
+      <definition>Dauerschach bieten</definition>
+      <page>91</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠨᠳᠠᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>дандайлах</cyrillic>
+      <definition>дандай хийх; шатрын ноёныг дандайлах.</definition>
+      <page>187</page>
+    </entry_item>
+  </entries>
+</entry>

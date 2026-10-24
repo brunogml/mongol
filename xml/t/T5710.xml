@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5710">
+  <head>
+    <unicode>ᠳᠣᠭᠣᠨᠴᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>doγunčaγulqu</transcript>
+    <transcript2>dogoncagolgo</transcript2>
+    <cyrillic>догонцуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T5709</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠣᠭᠣᠨᠴᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>догонцуулах</cyrillic>
+      <definition>〔动〕догонцох 的使动态.</definition>
+      <page>409</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠭᠣᠨᠴᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДОГОНЦУУЛАХ</cyrillic>
+      <definition>догонцох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠣᠭᠣᠨᠴᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>догонцуулах</cyrillic>
+      <definition>догоцохын үйлдүүлэх хэв, догонцоох.</definition>
+      <page>196</page>
+    </entry_item>
+  </entries>
+</entry>

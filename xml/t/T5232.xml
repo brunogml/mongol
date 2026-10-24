@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5232">
+  <head>
+    <unicode>ᠳᠣᠨᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>dunalǰaqu</transcript>
+    <transcript2>donalcago</transcript2>
+    <cyrillic>дуналзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T5233</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠤᠨᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>дуналзах</cyrillic>
+      <definition>〔动〕妖艳，妖媚.</definition>
+      <page>438</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠨᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ДУНАЛЗАХ</cyrillic>
+      <definition>даналзах / дунхалзах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠤᠨᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>дуналзах</cyrillic>
+      <definition>дунагар юмны хөдлөх, дунхалзах.</definition>
+      <page>210</page>
+    </entry_item>
+  </entries>
+</entry>

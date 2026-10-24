@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4911">
+  <head>
+    <unicode>ᠬᠣᠪᠴᠠᠰᠣᠯᠠᠬᠣ</unicode>
+    <transcript>qubčasulaqu</transcript>
+    <transcript2>gobcasolago</transcript2>
+    <cyrillic>хувцаслах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q4912</ref>
+    <ref>Q4914</ref>
+    <ref>Q4913</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠪᠴᠠᠰᠣᠯᠠᠬᠣ</unicode>
+      <uighur>qubčasolaqu</uighur>
+      <cyrillic>хувцаслах</cyrillic>
+      <transcript>XUBCASULA-</transcript>
+      <definition>v.t. and i To dress, put on garments.</definition>
+      <page>976</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠡᠪᠡᠷ ᠢᠶᠡᠷ ᠬᠣᠪᠴᠠᠰᠣᠯᠠᠬᠣ</unicode>
+          <transcript>ceber ijer --xu</transcript>
+          <definition> To dress neatly.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠪᠴᠠᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>хувцаслах</cyrillic>
+      <definition>〔动〕①穿衣服，着装；②有衣服.</definition>
+      <page>1420</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠪᠴᠠᠰᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХУВЦАСЛАХ</cyrillic>
+      <definition>1) одеваться, одевать, надевать одежду, платье; аятайхан хувцаслах одеваться со вкусом; сайхан хувцаслах одеваться хорошо; түргэн хувцаслах быстро одеваться; хувцаслах өрөө уборная; хувцаслах толь туалетное зеркало; хувцаслаж чадах уметь одеваться; 2) одевать кого-л. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хувцаслах</cyrillic>
+      <definition>1. sich ankleiden od anziehen
+2. an-, einkleiden (jmdm. -д; mit etw. -аар), anziehen (jmdm. -д)</definition>
+      <page>325</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠪᠴᠠᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>хувцаслах</cyrillic>
+      <definition>1. хувцсаа өмсөх; түргэн хувцаслах;2. хувцастай болох; энэ хэдэн хүүхдийг хөдөө гэрийхэн хувцаслах байгаа юм.</definition>
+      <page>722</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q4910</ref>
+  </related_to>
+</entry>

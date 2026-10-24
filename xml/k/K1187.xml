@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1187">
+  <head>
+    <unicode>ᠺᠠᠺᠠᠯᠲᠥᠺᠥ</unicode>
+    <transcript>kegeltükü</transcript>
+    <transcript2>gegeldögö</transcript2>
+    <cyrillic>хээлтэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K1190</ref>
+    <ref>K1186</ref>
+  </derivatives>
+  <see_also>
+    <ref>K1180</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠭᠡᠯᠲᠦᠬᠦ</unicode>
+      <cyrillic>хээлтэх</cyrillic>
+      <definition>〔动〕（动物）怀胎，受孕，受胎.</definition>
+      <page>1497</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠺᠠᠯᠲᠥᠺᠥ</unicode>
+      <cyrillic>ХЭЭЛТЭХ</cyrillic>
+      <definition>беременеть (о животных). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠭᠡᠯᠲᠦᠬᠦ</unicode>
+      <cyrillic>хээлтэх</cyrillic>
+      <definition>эм амьтанд хээл бий болох.</definition>
+      <page>769</page>
+    </entry_item>
+  </entries>
+</entry>

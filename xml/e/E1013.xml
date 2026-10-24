@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E1013">
+  <head>
+    <unicode>ᠡᠯᠺᠡᠭᠳᠡᠺᠦ</unicode>
+    <transcript>elkegdekü</transcript>
+    <transcript2>elgegdegö</transcript2>
+    <cyrillic>элхэгдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>E1014</ref>
+  </derivatives>
+  <see_also>
+    <ref>E1012</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠯᠬᠡᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>элхэгдэх</cyrillic>
+      <definition>〔动〕筛，过箩.</definition>
+      <page>1692</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠯᠺᠠᠺᠳᠠᠺᠥ</unicode>
+      <cyrillic>ЭЛХЭГДЭХ</cyrillic>
+      <definition>просеивать, сеять; просеивать сквозь сито; делать мелким, размельчать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>элхэгдэх</cyrillic>
+      <definition>[durch]sieben</definition>
+      <page>398</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠯᠬᠡᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>элхэгдэх</cyrillic>
+      <definition>элхэг шиг шүүрээр юмыг нарийлан шигших.</definition>
+      <page>874</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="O1217">
+  <head>
+    <unicode>ᠥᠮᠳᠠᠺᠠᠨ</unicode>
+    <transcript>ömdegen</transcript>
+    <transcript2>ömdegen</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠥᠮᠳᠠᠺᠠᠨ</unicode>
+      <uighur>ömdeke</uighur>
+      <transcript>ØMDEGE(N)</transcript>
+      <definition>See øndege(n).</definition>
+      <page>635</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠦᠮᠳᠡᠺᠡᠨ ~ ᠦᠮᠳᠦᠺᠷᠨ</unicode>
+      <definition>oeuf</definition>
+      <page>539</page>
+      <examples>
+        <example>
+          <unicode>ᠦᠮᠳᠡᠺᠡᠨ ᠡᠴᠡ ᠲᠥᠷᠦᠺᠦ</unicode>
+          <definition>la naissance d&apos;un oeuf</definition>
+        </example>
+        <example>
+          <unicode>ᠦᠮᠳᠡᠺᠡᠨ ᠡᠴᠡ ᠲᠥᠷᠥᠭᠰᠡᠨ</unicode>
+          <definition>né d&apos;un oeuf; 2 poisson; 3 oiseau</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

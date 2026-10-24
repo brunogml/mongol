@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0803">
+  <head>
+    <unicode>ᠪᠠᠯᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>balaraγulqu</transcript>
+    <transcript2>balaragolgo</transcript2>
+    <cyrillic>балруулах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0806</ref>
+  </derivatives>
+  <related_to>
+    <ref>B0801</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠯᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>балруулах</cyrillic>
+      <definition>〔动〕①балрах 的使动态；②意同 баллах.</definition>
+      <page>123</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠯᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БАЛРУУЛАХ</cyrillic>
+      <definition>балрах-ын үйлдүүл., 1) стирать, зачёркивать, затушёвывать, замазывать; 2) шилж. уничтожать, испепелять.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠯᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>балруулах</cyrillic>
+      <definition>1. балрахын үйлдүүлэх хэв;2. баллах.</definition>
+      <page>71</page>
+    </entry_item>
+  </entries>
+</entry>

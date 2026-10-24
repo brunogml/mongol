@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5680">
+  <head>
+    <unicode>ᠲᠣᠭᠣᠢ</unicode>
+    <transcript>tuγui</transcript>
+    <transcript2>dogoi</transcript2>
+    <cyrillic>тугуй</cyrillic>
+  </head>
+  <see_also>
+    <ref>T5679</ref>
+    <ref>T5677</ref>
+    <ref>T5677a</ref>
+    <ref>T5678</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠭᠤᠢ</unicode>
+      <cyrillic>тугуй</cyrillic>
+      <definition>〔名〕独木桥：~н орчим 独木桥附近.</definition>
+      <page>1107</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠭᠣᠢ</unicode>
+      <cyrillic>ТУГУЙ</cyrillic>
+      <definition>мостик, бревно. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠭᠤᠢ</unicode>
+      <cyrillic>тугуй</cyrillic>
+      <definition>ганц модоор тавьсан гүүр.</definition>
+      <page>554</page>
+    </entry_item>
+  </entries>
+</entry>

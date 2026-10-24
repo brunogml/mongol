@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1029">
+  <head>
+    <unicode>ᠥᠯᠪᠠᠷᠺᠥ</unicode>
+    <transcript>ölberkü</transcript>
+    <transcript2>ölbergö</transcript2>
+    <cyrillic>өлөврөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>O1027</ref>
+  </derivatives>
+  <see_also>
+    <ref>O1024</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠥᠯᠪᠠᠷᠺᠥ</unicode>
+      <uighur>ölberkü</uighur>
+      <cyrillic>өлөврөх - өлбөрөх</cyrillic>
+      <transcript>ØLBER-</transcript>
+      <definition>[= ølmer-, ølmyr-] v. i. To suffer extreme hunger, starve</definition>
+      <page>633</page>
+      <examples>
+        <example>
+          <unicode>ᠥᠯᠪᠠᠷᠦᠨ ᠦᠺᠦᠺᠦ</unicode>
+          <transcript>--yn ykyky</transcript>
+          <definition> To starve to death</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠦᠯᠪᠡᠷᠡᠺᠦ ~ ᠦᠯᠪᠡᠷᠺᠦ</unicode>
+      <definition>avoir faim, souffrir de épuisé par la faim.</definition>
+      <page>532</page>
+      <examples>
+        <example>
+          <unicode>ᠦᠯᠪᠡᠷᠵᠦ ᠦᠺᠦᠺᠦ</unicode>
+          <definition>mourir de faim</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠯᠪᠡᠷᠬᠦ</unicode>
+      <cyrillic>өлөврөх</cyrillic>
+      <definition>〔动〕饥饿，饿死.</definition>
+      <page>841</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠯᠪᠠᠷᠺᠥ</unicode>
+      <cyrillic>ӨЛБӨРӨХ</cyrillic>
+      <definition>1. изголодаться, изнуряться от голода; истощаться от голода; зам зуур өлбөрөх изголодаться в пути; өлбөрч үхэв умер от голода; умер голодной смертью; бид өлбөрч үхэхгүй мы не умрём с голоду; 2. өлбөрөхүй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠯᠪᠠᠷᠺᠥ</unicode>
+      <cyrillic>ӨЛБӨРӨХҮЙ</cyrillic>
+      <definition>голод. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠯᠪᠡᠷᠬᠦ</unicode>
+      <cyrillic>өлбөрөх</cyrillic>
+      <definition>өлсөхийн туйлд хүрэх. өлбөрч үхэх.</definition>
+      <page>434</page>
+    </entry_item>
+  </entries>
+</entry>

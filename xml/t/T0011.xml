@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T0011">
+  <head>
+    <unicode>ᠲᠠᠣᠯᠢᠬᠣ</unicode>
+    <transcript>tauliqu</transcript>
+    <transcript2>daoligo</transcript2>
+  </head><see_also>
+    <ref>T0011a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠣᠯᠢᠬᠣ</unicode>
+      <uighur>tauliqu</uighur>
+      <transcript>TAULI-</transcript>
+      <definition>See taγuli-.</definition>
+      <page>788</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠣᠯᠢᠬᠤ ~ ᠳᠠᠭᠣᠯᠢᠬᠤ</unicode>
+      <definition>chasse, poursuivre , courre.</definition>
+      <page>1558</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠣᠯᠢᠵᠤ ᠠᠪᠬᠤ</unicode>
+          <definition>emmener, enlever, courre (la bête)</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

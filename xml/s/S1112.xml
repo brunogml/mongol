@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1112">
+  <head>
+    <unicode>ᠱᠠᠯᠪᠢᠯᠵᠠᠬᠣ</unicode>
+    <transcript>šalbilǰaqu</transcript>
+    <transcript2>salbilcago</transcript2>
+    <cyrillic>шалбилзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1113</ref>
+    <ref>S1114</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠯᠪᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>шалбилзах</cyrillic>
+      <definition>〔动〕参见 шалбиганах.</definition>
+      <page>1611</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠯᠪᠢᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ШАЛБИЛЗАХ</cyrillic>
+      <definition>шалбиганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шалбилзах</cyrillic>
+      <definition>etw. Schlaffes, eingefallenes sich bewegen</definition>
+      <page>378</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠯᠪᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>шалбилзах</cyrillic>
+      <definition>шалбигар юмны шалбис шалбис хөдлөх.</definition>
+      <page>832</page>
+    </entry_item>
+  </entries>
+</entry>

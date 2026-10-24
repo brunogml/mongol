@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E1822">
+  <head>
+    <unicode>ᠡᠺᠰᠫᠣᠷᠲᠯᠠᠬᠤ</unicode>
+    <transcript>eksportlaqu</transcript>
+    <transcript2>egspordlago</transcript2>
+    <cyrillic>экспортлох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>E1823</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠺᠰᠫᠣᠷᠲ᠋ᠯᠠᠬᠤ</unicode>
+      <cyrillic>экспортлох</cyrillic>
+      <definition>〔动〕输出，出口.</definition>
+      <page>1688</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠡᠺᠰᠫᠥᠷᠲᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЭКСПОРТЛОХ</cyrillic>
+      <definition>экспортировать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>экспортлох</cyrillic>
+      <definition>exportieren (nach -д)</definition>
+      <page>397</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠺᠰᠫᠣᠷᠲ᠋ᠯᠠᠬᠤ</unicode>
+      <cyrillic>экспортлох</cyrillic>
+      <definition>экспортод гаргах.</definition>
+      <page>872</page>
+    </entry_item>
+  </entries>
+</entry>

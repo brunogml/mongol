@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0828">
+  <head>
+    <unicode>ᠲᠠᠬᠳᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>taγdaγanaγulqu</transcript>
+    <transcript2>dagdaganagolgo</transcript2>
+    <cyrillic>тагдгануулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T0826</ref>
+  </related_to>
+  <see_also>
+    <ref>T0827</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠭᠳᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тагдгануулах</cyrillic>
+      <definition>〔动〕тагдганах 的使动态.</definition>
+      <page>1009</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠬᠳᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАГДГАНУУЛАХ</cyrillic>
+      <definition>тагдганах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠭᠳᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тагдгануулах</cyrillic>
+      <definition>тагдганахын үйлдүүлэх хэв.</definition>
+      <page>513</page>
+    </entry_item>
+  </entries>
+</entry>

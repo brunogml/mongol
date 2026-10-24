@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B1687">
+  <head>
+    <unicode> ᠪᠡᠳ᠋</unicode>
+    <transcript>bed</transcript>
+    <transcript2>bed</transcript2>
+  </head><see_also>
+    <ref>B1688</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠠᢐ</unicode>
+      <definition>véda, la sainte écriture des Indiens.</definition>
+      <page>1112</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠠᢐ ᠤᠨ ᠡᠷᠺᠡᠲᠦ</unicode>
+          <definition>Brahma</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠠᢐ ᠢ ᠣᠩᠰᠢᠭᠴᠢ</unicode>
+          <definition>lecteur des védas, richi</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

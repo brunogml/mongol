@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4203">
+  <head>
+    <unicode>ᠰᠢᠵᠠᠷᠠᠬᠣ</unicode>
+    <transcript>siǰaraqu</transcript>
+    <transcript2>sicarago</transcript2>
+    <cyrillic>шазрах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S4206</ref>
+    <ref>S4207</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠵᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>шазрах</cyrillic>
+      <definition>〔动〕①烂，腐烂；②破，扯破，破开，脱皮；③被烧，被烫痛.</definition>
+      <page>1609</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠵᠠᠷᠠᠬᠣ</unicode>
+      <cyrillic>ШАЗРАХ</cyrillic>
+      <definition>1) ошпариваться, развариваться; 2) взъерепениться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шазрах</cyrillic>
+      <definition>= шалзрах</definition>
+      <page>377</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠵᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>шазрах</cyrillic>
+      <definition>1. ялзрах, шаз болох;2. язрах, хэгзрэх, нялтрах;3. түлэгдэх.</definition>
+      <page>831</page>
+    </entry_item>
+  </entries>
+</entry>

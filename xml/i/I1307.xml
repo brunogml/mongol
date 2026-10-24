@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I1307">
+  <head>
+    <unicode>ᠢᠷᠵᠢᠺᠢᠨᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>irǰiginegülkü</transcript>
+    <transcript2>irciginegölgö</transcript2>
+    <cyrillic>иржгэнүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>I1305</ref>
+  </related_to>
+  <see_also>
+    <ref>I1306</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠷᠵᠢᠭᠢᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>иржгэнүүлэх</cyrillic>
+      <definition>〔动〕иржигнэх 的使动态.</definition>
+      <page>620</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠷᠵᠢᠺᠢᠨᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ИРЖГЭНҮҮЛЭХ</cyrillic>
+      <definition>иржгэнэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠷᠵᠢᠭᠢᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>иржигнүүлэх</cyrillic>
+      <definition>иржигнэхийн үйлдүүлэх хэв.</definition>
+      <page>307</page>
+    </entry_item>
+  </entries>
+</entry>

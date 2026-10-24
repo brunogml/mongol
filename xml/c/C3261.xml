@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3261">
+  <head>
+    <unicode>ᠴᠣᠶᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čoyilaγulqu</transcript>
+    <transcript2>coyilagolgo</transcript2>
+    <cyrillic>цойлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C3260</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠣᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цойлуулах</cyrillic>
+      <definition>〔动〕цойлох 的使动态.</definition>
+      <page>1530</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠶᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦОЙЛУУЛАХ</cyrillic>
+      <definition>цойлох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цойлуулах</cyrillic>
+      <definition>Kaus von цойлох</definition>
+      <page>355</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠣᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цойлуулах</cyrillic>
+      <definition>цойлохын үйлдүүлэх хэв.</definition>
+      <page>788</page>
+    </entry_item>
+  </entries>
+</entry>

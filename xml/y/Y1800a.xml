@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y1800a">
+  <head>
+    <unicode>ᠵᠠᠷᠣᠪᠳᠠᠯ</unicode>
+    <transcript>ǰarubdal</transcript>
+    <transcript2>yarobdal</transcript2>
+    <cyrillic>заравдал</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠠᠷᠣᠪᠳᠠᠯ</unicode>
+      <uighur>ǰarobdal</uighur>
+      <cyrillic>заравдал</cyrillic>
+      <transcript>ZARUBDAL</transcript>
+      <definition>n. Expense[s]; expenditure.</definition>
+      <page>1039</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠠᠷᠣᠪᠳᠠᠯ ᠰᠦᠢᠳᠺᠡᠯ</unicode>
+          <transcript>-- syidkel</transcript>
+          <definition> Budget; expenditure.</definition>
+        </example>
+        <example>
+          <unicode>ᠤᠯᠤᠰ ᠤᠨ ᠵᠠᠷᠣᠪᠳᠠᠯ</unicode>
+          <transcript>ulus un -- </transcript>
+          <definition> Government expenditure.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠷᠤᠪᠳᠤᠯ</unicode>
+      <cyrillic>заравдал</cyrillic>
+      <definition>〔名〕开支，支出，费用，经费.</definition>
+      <page>546</page>
+    </entry_item>
+  </entries>
+</entry>

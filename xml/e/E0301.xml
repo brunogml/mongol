@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E0301">
+  <head>
+    <unicode>ᠡᠪᠥᠳᠥᠭᠯᠡᠭᠦᠯᠺᠦ</unicode>
+    <transcript>ebödöglegülkü</transcript>
+    <transcript2>ebödöglegölgö</transcript2>
+    <cyrillic>өвдөглүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>E0300</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠪᠦᠳᠦᠭᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өвдөглүүлэх</cyrillic>
+      <definition>〔动〕①өвдөглөх 的使动态；②意同 өвдөглөгдөх.</definition>
+      <page>830</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠪᠥᠳᠥᠺᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ӨВДӨГЛҮҮЛЭХ</cyrillic>
+      <definition>өвдөглөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠪᠦᠳᠦᠭᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өвдөглүүлэх</cyrillic>
+      <definition>1. өвдөглөхийн үйлдүүлэх хэв;2. өвдөглөгдөх.</definition>
+      <page>429</page>
+    </entry_item>
+  </entries>
+</entry>

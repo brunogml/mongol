@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="V0099b">
+  <head>
+    <transcript>volta</transcript>
+    <transcript2>volda</transcript2>
+    <cyrillic>вольт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠸᠣᠯᠢᠲ᠋</unicode>
+      <cyrillic>вольт</cyrillic>
+      <definition>〔量〕〈电〉伏特：~ хэмжүүр 电压表.</definition>
+      <page>259</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>вольт</cyrillic>
+      <definition>El Volt n</definition>
+      <page>70</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠸᠣᠯᠢᠲ᠋</unicode>
+      <cyrillic>вольт</cyrillic>
+      <definition>цахилгаан хүчдэлийг хэмжих нэгж.</definition>
+      <page>128</page>
+    </entry_item>
+  </entries>
+</entry>

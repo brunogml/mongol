@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S2119">
+  <head>
+    <unicode>ᠰᠡᠰᠢᠭ</unicode>
+    <transcript>sesig</transcript>
+    <transcript2>sesig</transcript2>
+  </head>
+  <derivatives>
+    <ref>S2120</ref>
+    <ref>S2123</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠡᠰᠢᠭ</unicode>
+      <uighur>sesik</uighur>
+      <transcript>SESIG</transcript>
+      <definition>See sezig, etc.</definition>
+      <page>691</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠡᠰᠢᠭ ~ ᠰᠡᠵᠢᠭ</unicode>
+      <definition>doute, scrupule, irrésolution, incertitude; soupçon; incrédulité</definition>
+      <page>1345</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠵᠢᠬ ᠰᠡᠰᠢᠭ ᠦᠭᠡᠢ</unicode>
+          <definition>sans la moindre attention, avec inadvertance, sans scrupule</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠡᠰᠢᠭ ᠠᠷᠢᠯᠭᠠᠬᠤ</unicode>
+          <definition>résoudre le doute, faire cesser le doute, lever un scrupule, détruire le sourpçon; s'assurer, se persuader, ajouter foi</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠡᠰᠢᠭ ᠦᠭᠡᠢ</unicode>
+          <definition>sans doute, indubitablement, certainement, assurément</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠡᠰᠢᠭ ᠲᠠᠰᠤᠯᠬᠤ</unicode>
+          <definition>résoudre le doute, faire cesser le doute, détruire le sourpçon; s'assurer, se persuader</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠡᠰᠢᠭ ᠲᠥᠷᠥᠺᠦ</unicode>
+          <definition>mettre en doute, douter, soupçonner</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠡᠰᠢᠭ ᠲᠥᠷᠥᠯᠭᠦᠯᠺᠦ</unicode>
+          <definition>faire naître le doute,, exciter le doute</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

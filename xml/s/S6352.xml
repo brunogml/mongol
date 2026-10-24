@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6352">
+  <head>
+    <unicode>ᠰᠣᠷᠲᠣᠯᠵᠠᠬᠣ</unicode>
+    <transcript>sortulǰaqu</transcript>
+    <transcript2>sordolcago</transcript2>
+    <cyrillic>сортолзох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6353</ref>
+    <ref>S6354</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠷᠲᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>сортолзох</cyrillic>
+      <definition>〔动〕参见 сортгонох.</definition>
+      <page>943</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠷᠲᠣᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>СОРТОЛЗОХ</cyrillic>
+      <definition>двигать оcтрыми ушами, настораживаться (о животных). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сортолзох</cyrillic>
+      <definition>= сортгонох</definition>
+      <page>201</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠷᠲᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>сортолзох</cyrillic>
+      <definition>сортгор юмны байн байн хөдлөх, сэртэлзэх.</definition>
+      <page>481</page>
+    </entry_item>
+  </entries>
+</entry>

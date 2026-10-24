@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6142">
+  <head>
+    <unicode>ᠱᠣᠷᠠᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šuraγlaγulqu</transcript>
+    <transcript2>soraglagolgo</transcript2>
+    <cyrillic>шураглуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S6140</ref>
+  </related_to>
+  <see_also>
+    <ref>S6141</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠷᠤᠭᠯᠠᠭᠤᠯᠬᠤ(ᠱᠤᠷᠤᠭᠯᠠᠭᠤᠯᠬᠤ)</unicode>
+      <cyrillic>шураглуулах</cyrillic>
+      <definition>〔动〕шураглах 的使动态.</definition>
+      <page>1661</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠷᠠᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШУРАГЛУУЛАХ</cyrillic>
+      <definition>шураглах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠤᠷᠠᠭᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шураглуулах</cyrillic>
+      <definition>шураглахын үйлдүүлэх хэв.</definition>
+      <page>860</page>
+    </entry_item>
+  </entries>
+</entry>

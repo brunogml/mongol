@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1888">
+  <head>
+    <unicode>ᠵᠠᠷᠴᠢᠮᠲᠣ</unicode>
+    <transcript>ǰarčimtu</transcript>
+    <transcript2>yarcimdo</transcript2>
+    <cyrillic>зарчимт</cyrillic>
+  </head>
+  <see_also>
+    <ref>Y1887</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠷᠴᠢᠮᠲᠤ</unicode>
+      <cyrillic>зарчимт</cyrillic>
+      <definition>〔形〕原则上的，原则性的；原理的；要则的：~ шүүмжлэл 原则性的批评；~ бодлого 原则性的政策.</definition>
+      <page>549</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠷᠴᠢᠮᠲᠣ</unicode>
+      <cyrillic>ЗАРЧИМТ</cyrillic>
+      <definition>принципиальный; зарчимт шүүмжлэл принципиальная критика. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зарчимт</cyrillic>
+      <definition>prinzipiell; ~ асуудал prinzipielle Frage; ~ шүүмжлэл prinzipielle Kritik</definition>
+      <page>119</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠷᠴᠢᠮᠲᠤ</unicode>
+      <cyrillic>зарчимт</cyrillic>
+      <definition>зарчим журам бүхий; зарчимт шүүмжлэл; зарчимт явдал; зарчимт санал.</definition>
+      <page>269</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Y1886</ref>
+  </related_to>
+</entry>

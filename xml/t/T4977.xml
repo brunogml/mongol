@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T4977">
+  <head>
+    <unicode>ᠳᠠᠷᠺᠠᠲᠥ</unicode>
+    <transcript>dergetü</transcript>
+    <transcript2>dergedö</transcript2>
+    <cyrillic>тэрэгт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠡᠷᠺᠡᠳᠦ ~ ᠳᠡᠷᠺᠡᠲᠡᠢ</unicode>
+      <definition>celui qui a un char, ou un chariot.</definition>
+      <page>1777</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠷᠪᠠᠨ ᠳᠡᠷᠺᠡᠳᠦ</unicode>
+          <definition>qui a dix chars: nom d&apos;un roi de Magadha</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠷᠺᠠᠲᠥ</unicode>
+      <cyrillic>ТЭРЭГТ</cyrillic>
+      <definition>имеющий телегу; запряжённый в телегу. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K3108">
+  <head>
+    <unicode>ᠺᠥᠨᠲᠥᠺᠡᠷ</unicode>
+    <transcript>köntüger</transcript>
+    <transcript2>göndöger</transcript2>
+    <cyrillic>хөнтгөр</cyrillic>
+  </head>
+  <see_also>
+    <ref>K3107</ref>
+    <ref>K3109</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠨᠲᠥᠭᠡᠷ</unicode>
+      <cyrillic>хөнтгөр</cyrillic>
+      <definition>〔名〕印堂.</definition>
+      <page>1402</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠨᠲᠥᠺᠡᠷ</unicode>
+      <cyrillic>ХӨНТГӨР</cyrillic>
+      <definition>междубровье. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хөнтгөр</cyrillic>
+      <definition>der Raum zwischen den Augenbrauen</definition>
+      <page>320</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠨᠲᠥᠭᠡᠷ</unicode>
+      <cyrillic>хөнтгөр</cyrillic>
+      <definition>хоёр хөмсөгний хоорондох зай.</definition>
+      <page>712</page>
+    </entry_item>
+  </entries>
+</entry>

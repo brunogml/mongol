@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1800">
+  <head>
+    <unicode>ᠴᠢᠳᠥᠷᠲᠠᠢ</unicode>
+    <transcript>čidürtei</transcript>
+    <transcript2>cidördei</transcript2>
+    <cyrillic>чөдөртэй</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠳᠥᠷᠲᠡᠢ</unicode>
+      <cyrillic>чөдөртэй</cyrillic>
+      <definition>〔形〕①上了马绊的，带绊子的；带脚镣的；②（转）受阻碍的，有羁绊的，有桎梏的.</definition>
+      <page>1596</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠳᠥᠷᠲᠠᠢ</unicode>
+      <cyrillic>ЧӨДӨРТЭЙ</cyrillic>
+      <definition>стреноженный; чөдөртэй морь стреноженный конь. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чөдөртэй</cyrillic>
+      <definition>Pferd gefesselt, mit Fußfessel</definition>
+      <page>373</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠳᠥᠷᠲᠡᠢ</unicode>
+      <cyrillic>чөдөртэй</cyrillic>
+      <definition>чөдөр бүхий; чөдөртэй морь.</definition>
+      <page>823</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>C1799</ref>
+  </related_to>
+</entry>

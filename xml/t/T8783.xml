@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8783">
+  <head>
+    <unicode>ᠲᠥᠯᠥᠺᠠᠯᠠᠺᠥ</unicode>
+    <transcript>tölügelekü</transcript>
+    <transcript2>dölögelegö</transcript2>
+    <cyrillic>төлөөлөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T8785</ref>
+    <ref>T8782</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠥᠯᠥᠺᠠᠯᠠᠺᠥ</unicode>
+      <uighur>tölükelekü</uighur>
+      <cyrillic>төлөөлөх</cyrillic>
+      <transcript>TØLYGELE-</transcript>
+      <definition>v.t. To represent, be a representative or delegate; to substitute for or replace someone, take someone's place.</definition>
+      <page>834</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠥᠯᠥᠺᠠᠯᠠᠨ ᠶᠠᠪᠤᠬᠤ</unicode>
+          <transcript>--n jabuxu</transcript>
+          <definition> To go in place of another.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠥᠯᠥᠺᠠᠯᠠᠨ ᠦᠢᠯᠡᠳᠺᠦ</unicode>
+          <transcript>--n yiledky</transcript>
+          <definition> To do something in the place of another; to substitute.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠦᠯᠦᠺᠡᠯᠡᠺᠦ</unicode>
+      <definition>remplacer qn., prendre la place</definition>
+      <page>1921</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠦᠯᠦᠺᠡᠯᠡᠨ ᠦᠢᠯᠡᠳᠺᠦ</unicode>
+          <definition>faire qc. à la place d'un autre; travailler à la place d'un autre</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠦᠯᠦᠺᠡᠯᠡᠨ ᠶᠠᠪᠤᠬᠤ</unicode>
+          <definition>aller à la place d'un autre</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠥᠯᠥᠺᠠᠯᠠᠺᠥ</unicode>
+      <uighur>dülükelekü</uighur>
+      <definition>verantworten, an Jemands Stelle treten,</definition>
+      <page>260</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠥᠯᠥᠺᠠᠯᠠᠺᠥ</unicode>
+      <uighur>tülükelen</uighur>
+      <definition>Acting instead of.</definition>
+      <page>1033</page>
+      <examples>
+        <example>
+          <uighur>tülükelen üiledkü</uighur>
+          <definition>To substitute for. To do something instead of another.</definition>
+        </example>
+        <example>
+          <uighur>tülükelen ǰüblekü ǰasaq</uighur>
+          <definition>Representative or Parliamentary Government</definition>
+        </example>
+        <example>
+          <uighur>tülükelekü</uighur>
+          <definition>To take the place of another. To repreeent, to substitute for.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠥᠯᠥᠭᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>төлөөлөх</cyrillic>
+      <definition>〔动〕代表，代替，代理：улсыг ~ 代表国家；эцгээ ~ 代表父亲，代替父亲；~ тэмдэг 〈语〉代码；~н хэрэглэх эм 补偿作用药物；~сөн нот 略式照会，口头照会；~ ургамал 建群植物，建群种.</definition>
+      <page>1097</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠯᠥᠺᠠᠯᠠᠺᠥ</unicode>
+      <cyrillic>ТӨЛӨӨЛӨХ</cyrillic>
+      <definition>1) представљтельствовать, представлять кого-л. в качестве делегата, уполномоченного, быть делегатом, представљтелем; бусдыг төлөөлөх представлять другљх, быть представљтелем другљх; улсаа төлөөлөх представлять свою страну (напр. о дипломатах); төлөөлөх этгээд представљтель; засгийн газрыг төлөөлөх этгээд представљтель прављтельства, власти; төлөөлөн зарагдах быть посланным в качестве представљтеля, быть делегљрованным; 2) замещать кого-л. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠥᠯᠥᠭᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>төлөөлөх</cyrillic>
+      <definition>орлох, үйл явдлыг төлөөнөө гүйцэтгэх; улсыг төлөөлөх; ахыгаа төлөөлөх.</definition>
+      <page>550</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S7130">
+  <head>
+    <unicode>ᠰᠲ᠋ᠠᠨᠳᠠᠷᠲᠴᠢᠯᠠᠯ</unicode>
+    <transcript>standartčilal</transcript>
+    <transcript2>sdandardcilal</transcript2>
+    <cyrillic>стандартчилал</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠲ᠋ᠠᠨᠳᠠᠷᠲᠴᠢᠯᠠᠯ</unicode>
+      <cyrillic>СТАНДАРТЧИЛАЛ</cyrillic>
+      <definition>стандартизация. </definition>
+      <page>0</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>стандартчилал</cyrillic>
+    <definition>Standardisierung f</definition>
+    <page>203</page>
+  </entry_item>
+  </entries>
+</entry>

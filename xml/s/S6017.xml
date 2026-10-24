@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6017">
+  <head>
+    <unicode>ᠱᠣᠮᠪᠣᠯᠵᠠᠬᠣ</unicode>
+    <transcript>šombulǰaqu</transcript>
+    <transcript2>sombolcago</transcript2>
+    <cyrillic>шомболзох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6018</ref>
+    <ref>S6019</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠣᠮᠪᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>шомболзох</cyrillic>
+      <definition>〔动〕（细而高之物）频频晃动.</definition>
+      <page>1647</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠮᠪᠣᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ШОМБОЛЗОХ</cyrillic>
+      <definition>шомбогонох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шомболзох</cyrillic>
+      <definition>= шомбогонох</definition>
+      <page>389</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠣᠮᠪᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>шомболзох</cyrillic>
+      <definition>шомбогор юмны шомбос шомбос хөдлөх.</definition>
+      <page>853</page>
+    </entry_item>
+  </entries>
+</entry>

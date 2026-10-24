@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0416">
+  <head>
+    <unicode>ᠭᠠᠩᠳᠠᠬᠣ</unicode>
+    <transcript>γangdaqu</transcript>
+    <transcript2>gangdago</transcript2>
+    <cyrillic>гандах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q0419</ref>
+    <ref>Q0420</ref>
+    <ref>Q0426</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q0417</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠠᠩᠳᠠᠬᠣ</unicode>
+      <uighur>γangdaqu</uighur>
+      <cyrillic>гандах</cyrillic>
+      <transcript>ΓANGDA-</transcript>
+      <definition>v.i. To dry up from heat or the sun; to fade, wither, droop; to become sun-tanned.</definition>
+      <page>348</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠠᠩᠳᠠᠭᠰᠠᠨ</unicode>
+          <transcript>--γsan</transcript>
+          <definition> Withered, faded.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠩᠷᠢ ᠭᠠᠩᠳᠠᠵᠤ ᠪᠠᠶᠢᠨ᠎ᠠ</unicode>
+          <transcript>tngri --zu bain-a</transcript>
+          <definition> The weather has been dry, there is a drought.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠠᠩᠳᠠᠬᠤ</unicode>
+      <definition>se dessécher (une plante).</definition>
+      <page>982</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠭᠠᠩᠳᠠᠬᠣ</unicode>
+      <uighur>γangdaqu</uighur>
+      <definition>von der Hitze ausdorren (Gras oder Getreide).</definition>
+      <page>191</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠭᠠᠩᠳᠠᠬᠣ</unicode>
+      <uighur>γangdaqu</uighur>
+      <definition>The continuing of dry weather in summer. The drying up in rainless seasons.</definition>
+      <page>748</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠩᠳᠠᠬᠣ</unicode>
+      <cyrillic>ГАНДАХ</cyrillic>
+      <definition>I 1. 1) увядать от отсутствия влаги; засыхать (от зноя), вянуть, сохнуть, блекнуть, жухнуть; хатаж гандах хорш. засыхать, увядать; алимын мод гандав яблоня засохла, яблоня зачахла; навч гандаж байна листья вянут; цэцэг гандав цветы завяли, засохли, высохли, увяли; цэцэг намар ганддаг цветы осенью увядают; 2) выцветать, выгорать на солнце, линять (о тканях); погореть, рыжеть; выленять, слинять; тариа гандав хлеба погорели; эрээн даавуу наранд гандав ситец выгорел на солнце; дотоож гандав бельё пересохло; даавуу ганддаг ткань линяет; байшингийн хана ганджээ стены дома облиняли; 3) высыхать, обесцвечиваться; обесцветиться; 4) чахнуть; хиреть, хилеть; загорать (о лице), завядать; пересыхать; выветривать; наранд гандах загорать на солнце; гадаа гандаж, хөдөө хөхрөх хэлц. вести бродячий образ жизни; жить на колёсах; мод гандаж байна дерево становится чахлым, хилым; 2. гандахуй-г үз.; 3. 1) засушливый; легколиняющий, линјчий; ганддаг газар засушливая местность; ганддаг газрын сухолюбивый; ганддаг нутгийг усжуулах а) обводнить засушливые районы; б) обводнение засушливых районов; 2) высохший, увядший, порыжелый, полинялый, завядший, завялый, засохший; выцветший; гандаж шарласан рыжий, порыжевший; гандсан дарцаг выцветший флаг; гандсан бүрх малгай порыжелая, рыжая шляпа; гандсан цэцэг поблёклые, увядшие, завядшие цветы. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠩᠳᠠᠬᠣ</unicode>
+      <cyrillic>ГАНДАХ</cyrillic>
+      <definition>II 1. дубить; 2. дубление шкур; арьс гандах дубление шкур. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠩᠳᠠᠬᠣ</unicode>
+      <cyrillic>ГАНДАХУЙ</cyrillic>
+      <definition>1) засуха, сушь; 2) увядание, линяние; выветривание. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гандах</cyrillic>
+      <definition>austrocknen; verdorren, welken; ausbleichen; газар дэлхий гандаж байна der Boden trocknet aus; гандсан хуучин дээл ein ausgeblichener Deel</definition>
+      <page>74</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠠᠩᠳᠠᠬᠤ</unicode>
+      <cyrillic>гандах /1</cyrillic>
+      <definition>1. зуны цагт хур ховордож, ургамал хатах, ургахгүй болох; газар дэлхий гандаж байна;2. намаршиж ургамлын өнгө шарлаж хувирах; өвс ногоо гандаж эхлэв;3. нар салхинд юмны өнгө хувирч өгөр болох; дээл гандах;4. хүний явдал хувирч гутах; ажлаа алдаж гандаж яваа хүн;гантах гундах&lt;хорш&gt;.</definition>
+      <page>137</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠠᠩᠳᠠᠬᠤ</unicode>
+      <cyrillic>гандах /2</cyrillic>
+      <definition>элдэж боловсруулах арьс ширийг ганд дүрж идээлэх; арьс гандах.</definition>
+      <page>137</page>
+    </entry_item>
+  </entries>
+</entry>

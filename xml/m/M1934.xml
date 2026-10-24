@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1934">
+  <head>
+    <unicode>ᠮᠣᠯᠴᠣᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>molčuγlaγulqu</transcript>
+    <transcript2>molcoglagolgo</transcript2>
+    <cyrillic>молцоглуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>M1933</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠣᠯᠴᠣᠭᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>молцоглуулах</cyrillic>
+      <definition>〔动〕молцоглох 的使动态.</definition>
+      <page>677</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠯᠴᠣᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>МОЛЦОГЛУУЛАХ</cyrillic>
+      <definition>молцоглох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠣᠯᠴᠣᠭᠲᠣᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>молцоглуулах</cyrillic>
+      <definition>молцоглохын үйлдүүлэх хэв.</definition>
+      <page>339</page>
+    </entry_item>
+  </entries>
+</entry>

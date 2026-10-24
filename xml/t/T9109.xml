@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9109">
+  <head>
+    <unicode>ᠲᠥᠺᠥᠷᠡᠺᠳᠡᠺᠥ</unicode>
+    <transcript>tügüregdekü</transcript>
+    <transcript2>dögöregdegö</transcript2>
+    <cyrillic>түүрэгдэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T9106</ref>
+  </related_to>
+  <derivatives>
+    <ref>T9110</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠦᠭᠦᠷᠡᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>түүрэгдэх</cyrillic>
+      <definition>〔动〕түүрэх 的被动态.</definition>
+      <page>1143</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠺᠥᠷᠡᠺᠳᠡᠺᠥ</unicode>
+      <cyrillic>ТҮҮРЭГДЭХ</cyrillic>
+      <definition>становљться хрупким, ломким, непрочным; раздробляться, ломаться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠦᠭᠦᠷᠡᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>түүрэгдэх</cyrillic>
+      <definition>түүрэхийн үйлдэгдэх хэв.</definition>
+      <page>570</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1757">
+  <head>
+    <unicode>ᠰᠠᠷᠨᠢᠭᠣᠯ</unicode>
+    <transcript>sarniγul</transcript>
+    <transcript2>sarnigol</transcript2>
+    <cyrillic>сарниул</cyrillic>
+  </head>
+  <related_to>
+    <ref>S1748</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠷᠨᠢᠭᠤᠯ</unicode>
+      <cyrillic>сарниул</cyrillic>
+      <definition>〔名〕扩散器，分散器：аянгын ~ 避雷针.</definition>
+      <page>919</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠷᠨᠢᠭᠣᠯ</unicode>
+      <cyrillic>САРНИУЛ</cyrillic>
+      <definition>рассеиватель; диффузор; аянгын сарниул громоотвод. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠷᠨᠢᠭᠤᠯ</unicode>
+      <cyrillic>сарниул</cyrillic>
+      <definition>сарниулах зүйл.</definition>
+      <page>471</page>
+    </entry_item>
+  </entries>
+</entry>

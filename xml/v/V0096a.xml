@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="V0096a">
+  <head>
+    <unicode>ᠸᠢᠷᠣᠰ</unicode>
+    <transcript>virus</transcript>
+    <transcript2>viros</transcript2>
+    <cyrillic>вирус</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠸᠢᠷᠦ᠋ᠰ</unicode>
+      <cyrillic>вирус</cyrillic>
+      <definition>〔名〕病毒，滤体；滤毒：~ийн тарилга 病毒疫苗；~_т томуу 病毒性感冒，流行性感冒.</definition>
+      <page>258</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>вирус</cyrillic>
+      <definition>Virus n, m</definition>
+      <page>70</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠸᠢᠷᠦ᠋ᠰ</unicode>
+      <cyrillic>вирус</cyrillic>
+      <definition>халдварт өвчнийг үүсгэгч нян хорхой, ерийн микроскопоор үл үзэгдэх туйлын жижиг нян.</definition>
+      <page>128</page>
+    </entry_item>
+  </entries>
+</entry>

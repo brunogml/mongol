@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S3006">
+  <head>
+    <unicode>ᠰᠢᠨᠠᠳᠠᠬᠣ</unicode>
+    <transcript>sinadaqu</transcript>
+    <transcript2>sinadago</transcript2>
+    <cyrillic>шанаадах</cyrillic>
+  </head><derivatives>
+    <ref>S3007</ref>
+  
+    <ref>S3008</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠨᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>шанаадах</cyrillic>
+      <definition>〔动〕加楔形贴布；留田埂.</definition>
+      <page>1618</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠨᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>ШАНААДАХ</cyrillic>
+      <definition>бить по скуле, ударить по лицу, по скуле. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

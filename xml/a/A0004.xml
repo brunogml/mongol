@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A0004">
+  <head>
+    <unicode>ᠠᠣᠬᠠᠨ</unicode>
+    <transcript>auqan</transcript>
+    <transcript2>aogan</transcript2>
+    <cyrillic>аухан</cyrillic>
+  </head>
+  <see_also>
+    <ref>A0005</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠣᠬᠠᠨ</unicode>
+      <definition>Aokhan, une des plus méridionales provinces ou aymaks mongols</definition>
+      <page>9</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠣᠬᠠᠨ</unicode>
+      <cyrillic>АУХАН</cyrillic>
+      <definition>ухань (название аймака во Внутренной Монголии).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠤᠬᠠᠨ</unicode>
+      <cyrillic>уухан</cyrillic>
+      <definition>баахан уу; уухан цагаан тархиндаа, ардын хувьсгалыг шингээе, бэлхнээ &lt;пионерийн дуу&gt;.</definition>
+      <page>607</page>
+    </entry_item>
+  </entries>
+</entry>

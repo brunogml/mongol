@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2858">
+  <head>
+    <unicode>ᠪᠣᠬᠳᠣᠯᠵᠠᠬᠣ</unicode>
+    <transcript>boγdulǰaqu</transcript>
+    <transcript2>bogdolcago</transcript2>
+    <cyrillic>богдолзох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B2860</ref>
+  </derivatives>
+  <see_also>
+    <ref>B2859</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠣᠭᠳᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>богдолзох</cyrillic>
+      <definition>〔动〕参见 богдогнох.</definition>
+      <page>160</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠬᠳᠣᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>БОГДОЛЗОХ</cyrillic>
+      <definition>богдгонох-ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠣᠭᠳᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>богдолзох</cyrillic>
+      <definition>богдгор юмны богтос богтос хөдлөх байдал.</definition>
+      <page>86</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4511">
+  <head>
+    <unicode>ᠰᠢᠷᠠᠺᠠᠯᠠᠺᠥ</unicode>
+    <transcript>siregelekü</transcript>
+    <transcript2>siregelegö</transcript2>
+    <cyrillic>ширээлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S4512</ref>
+    <ref>S4510</ref>
+  </derivatives>
+  <see_also>
+    <ref>S4553</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠷᠠᠺᠠᠯᠠᠺᠥ</unicode>
+      <uighur>sirekelekü</uighur>
+      <cyrillic>ширээлэх</cyrillic>
+      <transcript>SIREGELE-</transcript>
+      <definition>v. t. To put on the table; to arrange a feast; to stand firmly on four legs.</definition>
+      <page>716</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠤᠬ᠎ᠠ ᠰᠢᠷᠠᠺᠠᠯᠠᠵᠦ ᠪᠠᠶᠢᠨ᠎ᠠ</unicode>
+          <transcript>bux-a --zy bain-a</transcript>
+          <definition> The bull has stiffened, stands squarely (for a charge).</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠷᠡᠺᠡᠯᠡᠺᠦ</unicode>
+      <definition>mettre sur la table</definition>
+      <page>1523</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠰᠢᠷᠠᠺᠠᠯᠠᠺᠥ</unicode>
+      <uighur>siregelekü</uighur>
+      <definition>auf den Tisch legen</definition>
+      <page>360</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠰᠢᠷᠠᠺᠠᠯᠠᠺᠥ</unicode>
+      <uighur>sirekelekü</uighur>
+      <definition>To place on the table.</definition>
+      <page>1451</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠷᠠᠺᠠᠯᠠᠺᠥ</unicode>
+      <cyrillic>ШИРЭЭЛЭХ</cyrillic>
+      <definition>I становиться прямым (о горбе у верблюда). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠷᠠᠺᠠᠯᠠᠺᠥ</unicode>
+      <cyrillic>ШИРЭЭЛЭХ</cyrillic>
+      <definition>II 1) класть на стол (умершего); 2) садиться на престол. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠷᠡᠭᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>ширээлэх /1</cyrillic>
+      <definition>тэмээний бөх ширээ болох.</definition>
+      <page>852</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠷᠡᠭᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>ширээлэх /2</cyrillic>
+      <definition>хүүрийг ширээ дээр тавих.</definition>
+      <page>852</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S4507</ref>
+  </related_to>
+</entry>

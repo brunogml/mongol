@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1808">
+  <head>
+    <unicode>ᠥᠶᠥᠺᠰᠢᠺᠥ</unicode>
+    <transcript>öyögsikü</transcript>
+    <transcript2>öyögsigö</transcript2>
+    <cyrillic>өегших</cyrillic>
+  </head>
+  <derivatives>
+    <ref>O1809</ref>
+    <ref>O1807</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠶᠥᠭᠰᠢᠬᠦ</unicode>
+      <cyrillic>өегших</cyrillic>
+      <definition>〔动〕吃饱.</definition>
+      <page>838</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠶᠥᠺᠰᠢᠺᠥ</unicode>
+      <cyrillic>ӨЕГШИХ</cyrillic>
+      <definition>1) становиться сытым; 2) становиться нежадным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠶᠥᠭᠰᠢᠬᠦ</unicode>
+      <cyrillic>өегших</cyrillic>
+      <definition>өегийн шинжтэй болох.</definition>
+      <page>433</page>
+    </entry_item>
+  </entries>
+</entry>

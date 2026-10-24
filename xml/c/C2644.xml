@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2644">
+  <head>
+    <unicode>ᠴᠣᠬᠣᠮᠯᠠᠬᠣ</unicode>
+    <transcript>čuqumlaqu</transcript>
+    <transcript2>cogomlago</transcript2>
+    <cyrillic>чухамлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C2645</ref>
+    <ref>C2643</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠣᠬᠣᠮᠯᠠᠬᠣ</unicode>
+      <uighur>čuqumlaqu</uighur>
+      <cyrillic>чухамлах</cyrillic>
+      <transcript>CUXUMLA-</transcript>
+      <definition>v.t. and i. To do or act precisely or exactly; to be real or actual.</definition>
+      <page>208</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠣᠬᠣᠮᠯᠠᠨ ᠦᠭᠦᠯᠡᠺᠦ</unicode>
+          <transcript>--n ygyleky</transcript>
+          <definition> To speak precisely, exactly.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠤᠬᠤᠮᠯᠠᠬᠤ</unicode>
+      <cyrillic>чухамлах</cyrillic>
+      <definition>〔动〕①成为正式的，成为真正的，成为实在的；②确定，明确；③说真心话，真诚地说.</definition>
+      <page>1600</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠬᠣᠮᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЧУХАМЛАХ</cyrillic>
+      <definition>1) жинхлэх-ийг үз.; 2) уточнять. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чухамлах</cyrillic>
+      <definition>exakt od präzise werden; präzisieren</definition>
+      <page>374</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠤᠬᠤᠮᠯᠠᠬᠤ</unicode>
+      <cyrillic>чухамлах</cyrillic>
+      <definition>1. жинхэлэх;2. магадыг олох;3. чин үнэнээ хэлэх.</definition>
+      <page>825</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>C2641</ref>
+  </related_to>
+</entry>

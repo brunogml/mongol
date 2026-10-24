@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q3001">
+  <head>
+    <unicode>ᠬᠠᠶᠢᠳᠠᠬᠰᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>qayidaγsiγulqu</transcript>
+    <transcript2>gayidagsigolgo</transcript2>
+    <cyrillic>хайдагшуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q3000</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠢᠳᠠᠭᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хайдагшуулах</cyrillic>
+      <definition>〔动〕хайдагших 的使动态.</definition>
+      <page>1278</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠶᠢᠳᠠᠬᠰᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХАЙДАГШУУЛАХ</cyrillic>
+      <definition>хайдагших-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хайдагшуулах</cyrillic>
+      <definition>Kaus von хайдагших</definition>
+      <page>284</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠢᠳᠠᠭᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хайдагшуулах</cyrillic>
+      <definition>хайдагшихын үйлдүүлэх хэв; үнээ хайдагшуулах.</definition>
+      <page>644</page>
+    </entry_item>
+  </entries>
+</entry>

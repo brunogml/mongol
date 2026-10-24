@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K2172">
+  <head>
+    <unicode>ᠺᠢᠯᠪᠠᠷᠵᠢᠬᠣ</unicode>
+    <transcript>kilbarǰiqu</transcript>
+    <transcript2>gilbarcigo</transcript2>
+    <cyrillic>хялбаржих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K2173</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠢᠯᠪᠠᠷᠵᠢᠬᠤ</unicode>
+      <cyrillic>хялбаржих</cyrillic>
+      <definition>〔动〕参见 хялбарших.</definition>
+      <page>1500</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠯᠪᠠᠷᠵᠢᠬᠣ</unicode>
+      <cyrillic>ХЯЛБАРЖИХ</cyrillic>
+      <definition>хялбарших-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠢᠯᠪᠠᠷᠵᠢᠬᠤ</unicode>
+      <cyrillic>хялбаржих</cyrillic>
+      <definition>хялбар болох, хялбарших.</definition>
+      <page>770</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B5019">
+  <head>
+    <unicode>ᠪᠥᠷᠲᠠ</unicode>
+    <transcript>börte</transcript>
+    <transcript2>börde</transcript2>
+    <cyrillic>бөрт</cyrillic>
+  </head><see_also>
+    <ref>B5021</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠥᠷᠲᠠ</unicode>
+      <uighur>börte</uighur>
+      <transcript>BØRTE</transcript>
+      <definition>See børty</definition>
+      <page>128</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠦᠷᠳᠡ ~ ᠪᠦᠷᠳᠦ</unicode>
+      <definition>bigarré, bariolé, tacheté, tigré</definition>
+      <page>1260</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠦᠷᠳᠡ ᠴᠢᠨᠤ᠎ᠠ</unicode>
+          <definition>loup bigarré, gris; 2 burté-tchino, l'un des ancêtres de Tchinguis-khan</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0025">
+  <head>
+    <unicode>ᠮᠠᠨᠠᠬᠣ</unicode>
+    <transcript>manaqu</transcript>
+    <transcript2>manago</transcript2>
+    <cyrillic>манах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M0027</ref>
+    <ref>M0029</ref>
+    <ref>M0037</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠮᠠᠨᠠᠬᠣ</unicode>
+      <uighur>manaqu</uighur>
+      <cyrillic>манах</cyrillic>
+      <transcript>MANA-</transcript>
+      <definition>v t To keep vigil, hold night watch, safeguard, stand guard over; to make the rounds as guard during the night</definition>
+      <page>525</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠳᠠᠭᠤ ᠮᠠᠨᠠᠬᠣ</unicode>
+          <transcript>adaγu --xu</transcript>
+          <definition> To guard a horse herd at night.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠪᠡᠳᠴᠢᠲᠡᠢ ᠺᠦᠮᠦᠨ ᠢ ᠮᠠᠨᠠᠬᠣ</unicode>
+          <transcript>ebedcitei kymyn i --xu</transcript>
+          <definition> To watch a patient.</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠠᠯ ᠮᠠᠨᠠᠬᠣ</unicode>
+          <transcript>γal --xu</transcript>
+          <definition> To cover up the fire for the night, cover coals with ashes to keep them glowing over night.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠷᠢᠶ᠎ᠠ ᠪᠡᠨ ᠮᠠᠨᠠᠬᠣ</unicode>
+          <transcript>tarij-a ben -- </transcript>
+          <definition> To watch one's crops against loss from thieves or animals.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠭᠠᠯᠭ᠎ᠠ ᠮᠠᠨᠠᠬᠣ</unicode>
+          <transcript>xaγalγ-a --xu</transcript>
+          <definition> To guard the gate.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠮᠠᠨᠠᠬᠤ</unicode>
+      <definition>faire sa ronde pendant la nuit, garder.</definition>
+      <page>1971</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠭᠠᠯᠭ᠎ᠠ ᠮᠠᠨᠠᠬᠤ</unicode>
+          <definition>garder la porte</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠮᠠᠨᠠᠬᠣ</unicode>
+      <uighur>manaqu</uighur>
+      <definition>hüten, wachen, bewachen</definition>
+      <page>209</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠮᠠᠨᠠᠬᠣ</unicode>
+      <uighur>manaqu</uighur>
+      <definition>To keep watch. To watch at night. To stand sentry. To patrol. To guard.</definition>
+      <page>823</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>МАНАХ</cyrillic>
+      <definition>1) стеречь, караулить, охранять, сторожить; агуулах манах сторожить склад; адуу манах пасти табун ночью, быть в ночном; адуу манахаар явах отправиться в ночное; мал манах пасти скот; сахин манах хорш. караулить, быть на страже; сэргийлэн манах хорш. охранять; манаж хамгаалах газар цэрэг. объект охраны; манаж цагдах хорш. охранять, обходить дозором; 2) окучивать; төмс манах окучивать картофель; хаяа манах засыпать землёй снаружи нижние края стены; хаяагаа манах шилж. остерегаться; 3) сохранять, поддерживать огонь; гал манах засыпать угли золой для сохранения огня до утра. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>манах</cyrillic>
+      <definition>1. bewachen, aufpassen (auf -ыг); адуу ~ Pferde bewachen
+2. [an]häufeln; гал ~ die Glut od das Feuer erhalten</definition>
+      <page>141</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>манах /1</cyrillic>
+      <definition>дарж хучих, битүүлэх; гэрийн хаяа манах шороо.</definition>
+      <page>330</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>манах /2</cyrillic>
+      <definition>1. манаанд гарах; манаа манах; адуу манах; хот манах;2. цагдах, хянаж сэргийлэх;манах цагдах&lt;хорш&gt;.</definition>
+      <page>330</page>
+    </entry_item>
+  </entries>
+</entry>

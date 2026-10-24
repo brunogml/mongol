@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0648">
+  <head>
+    <unicode>ᠲᠠᠭᠠᠷᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>taγarlaγulqu</transcript>
+    <transcript2>dagarlagolgo</transcript2>
+    <cyrillic>таарлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T0647</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠭᠠᠷᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>таарлуулах</cyrillic>
+      <definition>〔动〕①таарлах 的使动态；②〈电〉校准，调整，调节，协调.</definition>
+      <page>1002</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠭᠠᠷᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТААРЛУУЛАХ</cyrillic>
+      <definition>таарлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠭᠠᠷᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>таарлуулах</cyrillic>
+      <definition>таарлахын үйлдүүлэх хэв.</definition>
+      <page>509</page>
+    </entry_item>
+  </entries>
+</entry>

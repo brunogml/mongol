@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1572">
+  <head>
+    <unicode>ᠴᠢᠬᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čiqaraγulqu</transcript>
+    <transcript2>cigaragolgo</transcript2>
+    <cyrillic>чахруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C1569</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠬᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>чахруулах</cyrillic>
+      <definition>〔动〕чахрах 的使动态.</definition>
+      <page>1582</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠬᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЧАХРУУЛАХ</cyrillic>
+      <definition>чахрах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чахруулах</cyrillic>
+      <definition>Kaus von чахрах</definition>
+      <page>369</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠬᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>чахруулах</cyrillic>
+      <definition>чахрахын үйлдүүлэх хэв.</definition>
+      <page>815</page>
+    </entry_item>
+  </entries>
+</entry>

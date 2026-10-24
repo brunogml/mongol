@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q4392">
+  <head>
+    <unicode>ᠬᠣᠩᠺᠢᠷ</unicode>
+    <transcript>qonggir</transcript>
+    <transcript2>gonggir</transcript2>
+    <cyrillic>хонгир</cyrillic>
+  </head><see_also>
+    <ref>Q4391</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠩᠺᠢᠷ</unicode>
+      <uighur>qongkir</uighur>
+      <transcript>XONGGIR</transcript>
+      <page>962</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠩᠺᠢᠷ ᠬᠠᠩᠭᠢᠷ</unicode>
+          <transcript>-- xanggir</transcript>
+          <definition> Onomat. expressive of the sound of many little bells.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠩᠺᠢᠷ ~ ᠬᠠᠩᠺᠢᠷ</unicode>
+      <definition>son des grelots</definition>
+      <page>875</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠩᠺᠢᠷ</unicode>
+      <cyrillic>ХОНГИР</cyrillic>
+      <definition>: хангир хонгир хорш. выражение звука бубенчиков. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

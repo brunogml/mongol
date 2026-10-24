@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2960">
+  <head>
+    <unicode>ᠴᠣᠯᠭᠣᠶᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čulγuyidaγulqu</transcript>
+    <transcript2>colgoyidagolgo</transcript2>
+    <cyrillic>цулгуйдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C2958</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠤᠯᠭᠤᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цулгуйдуулах</cyrillic>
+      <definition>〔动〕цулгуйдах 的使动态.</definition>
+      <page>1549</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠯᠭᠣᠶᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦУЛГУЙДУУЛАХ</cyrillic>
+      <definition>цулгуйдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠤᠯᠭᠤᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цулгуйдуулах</cyrillic>
+      <definition>цулгуйдахын үйлдүүлэх хэв.</definition>
+      <page>797</page>
+    </entry_item>
+  </entries>
+</entry>

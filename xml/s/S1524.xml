@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S1524">
+  <head>
+    <unicode>ᠱᠠᠺᠢᠲᠣᠨᠠᠬᠣ</unicode>
+    <transcript>šakitunaqu</transcript>
+    <transcript2>sagidonago</transcript2>
+    <cyrillic>шаахитнах</cyrillic>
+  </head><derivatives>
+    <ref>S1525</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠬᠢᠲᠤᠨᠠᠬᠤ</unicode>
+      <cyrillic>шаахитнах</cyrillic>
+      <definition>〔动〕喧哗，嘈杂；呼啸，咆哮；哗哗作响.</definition>
+      <page>1602</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠺᠢᠲᠣᠨᠠᠬᠣ</unicode>
+      <cyrillic>ШААХИТНАХ</cyrillic>
+      <definition>шуметь, свистеть (о ветре), журчать (о воде); сопеть (о носе). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠺᠢᠲᠣᠨᠠᠬᠣ</unicode>
+      <cyrillic>ШАХТНАХ</cyrillic>
+      <definition>сопеть; фыркать носом. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

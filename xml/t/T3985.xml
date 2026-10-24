@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T3985">
+  <head>
+    <unicode>ᠳᠠᠯᠲᠠᠢ</unicode>
+    <transcript>deltei</transcript>
+    <transcript2>deldei</transcript2>
+    <cyrillic>дэлтэй</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <uighur>deltei</uighur>
+      <cyrillic>дэлтэй</cyrillic>
+      <transcript>DELTEI</transcript>
+      <definition>adj. Having a mane.</definition>
+      <page>250</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠯᠲᠠᠢ ᠴᠢᠨᠤ᠎ᠠ</unicode>
+          <transcript>-- cinu-a</transcript>
+          <definition> Large wolf with very long hair on the nape of the neck.</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠠᠯᠲᠠᠢ ᠮᠣᠳᠤ</unicode>
+          <transcript>-- modu</transcript>
+          <definition> Elm tree.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠡᠯᠲᠡᠢ</unicode>
+      <cyrillic>дэлтэй</cyrillic>
+      <definition>〔形〕有鬃毛的.</definition>
+      <page>471</page>
+    </entry_item>
+  </entries>
+</entry>

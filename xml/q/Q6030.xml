@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q6030">
+  <head>
+    <unicode>ᠬᠣᠮᠣᠭᠣᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>qomuγurdaγulqu</transcript>
+    <transcript2>gomogordagolgo</transcript2>
+    <cyrillic>хомгордуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q6029</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠣᠮᠣᠭᠣᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хомгордуулах</cyrillic>
+      <definition>〔动〕хомгордох 的使动态.</definition>
+      <page>1359</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠮᠣᠭᠣᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХОМГОРДУУЛАХ</cyrillic>
+      <definition>хомгордох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠮᠣᠭᠣᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хомгордуулах</cyrillic>
+      <definition>хомгордохын үйлдүүлэх хэв.</definition>
+      <page>688</page>
+    </entry_item>
+  </entries>
+</entry>

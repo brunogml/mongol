@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B0026">
+  <head>
+    <unicode>ᠪᠠᠨᠳᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>bandaγanaγulqu</transcript>
+    <transcript2>bandaganagolgo</transcript2>
+    <cyrillic>бандгануулах</cyrillic>
+  </head><related_to>
+    <ref>B0024</ref>
+  </related_to>
+  <variants>
+    <variant type="cyrillic">бандагануулах</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠨᠳᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бандгануулах</cyrillic>
+      <definition>〔动〕бандганах 的使动态.</definition>
+      <page>127</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠨᠳᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БАНДГАНУУЛАХ</cyrillic>
+      <definition>бандганах-ын үйл­дүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠨᠳᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бандагануулах</cyrillic>
+      <definition>〔动〕бандганах 的使动态.</definition>
+      <page>127</page>
+    </entry_item>
+  </entries>
+</entry>

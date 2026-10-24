@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2392">
+  <head>
+    <unicode>ᠳᠠᠶᠢᠪᠢᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>dayibiγanaqu</transcript>
+    <transcript2>dayibiganago</transcript2>
+    <cyrillic>дайвганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T2393</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠢᠪᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>дайвганах</cyrillic>
+      <definition>〔动〕参见 дайвалзах.</definition>
+      <page>377</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠶᠢᠪᠢᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ДАЙВГАНАХ</cyrillic>
+      <definition>дайвах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠢᠪᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>дайвганах</cyrillic>
+      <definition>гуйвганах, хайвганах, туйвганах.</definition>
+      <page>180</page>
+    </entry_item>
+  </entries>
+</entry>

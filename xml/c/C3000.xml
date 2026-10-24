@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3000">
+  <head>
+    <unicode>ᠴᠣᠯᠴᠠᠶᠢᠯᠭᠠᠬᠣ</unicode>
+    <transcript>čulčayilγaqu</transcript>
+    <transcript2>colcayilgago</transcript2>
+    <cyrillic>цулцайлгах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠤᠯᠴᠠᠢᠯᠭᠠᠬᠤ</unicode>
+      <cyrillic>цулцайлгах</cyrillic>
+      <definition>〔动〕цулцайх 的使动态.</definition>
+      <page>1549</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠯᠴᠠᠶᠢᠯᠭᠠᠬᠣ</unicode>
+      <cyrillic>ЦУЛЦАЙЛГАХ</cyrillic>
+      <definition>цулцайх-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цулцайлгах</cyrillic>
+      <definition>1. Kaus von цулцайх
+2. dick od pumelig machen</definition>
+      <page>360</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠤᠯᠴᠠᠢᠯᠭᠠᠬᠤ</unicode>
+      <cyrillic>цулцайлгах</cyrillic>
+      <definition>цулцайхын үйлдүүлэх хэв.</definition>
+      <page>798</page>
+    </entry_item>
+  </entries>
+</entry>

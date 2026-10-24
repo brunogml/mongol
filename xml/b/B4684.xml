@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4684">
+  <head>
+    <unicode>ᠪᠥᠺᠠᠮᠨᠠᠷᠠᠯ</unicode>
+    <transcript>bögemnerel</transcript>
+    <transcript2>bögemnerel</transcript2>
+    <cyrillic>бөөмнөрөл</cyrillic>
+  </head>
+  <variants>
+    <variant type="unicode">бөөгнөрөл</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠭᠡᠮᠨᠡᠷᠡᠯ</unicode>
+      <cyrillic>бөөгнөрөл</cyrillic>
+      <definition>〔名〕积累，聚集，集中，集结，密集，堆集；团聚体，团状物；浓度.</definition>
+      <page>189</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠺᠠᠮᠨᠠᠷᠠᠯ</unicode>
+      <cyrillic>БӨӨГНӨРӨЛ</cyrillic>
+      <definition>скопление, сосредоточение; концентрация; аж үйлдвэрийн бөөгнөрөл концентрация промышленности.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠺᠠᠮᠨᠠᠷᠠᠯ</unicode>
+      <cyrillic>БӨӨМНӨРӨЛ</cyrillic>
+      <definition>бөөгнөрөл-ийг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠭᠡᠮᠨᠡᠷᠡᠯ</unicode>
+      <cyrillic>бөөмнөрөл</cyrillic>
+      <definition>〔名〕见 бөөгнөрөл.</definition>
+      <page>189</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠥᠭᠡᠮᠨᠡᠷᠡᠯ</unicode>
+      <cyrillic>бөөгнөрөл</cyrillic>
+      <definition>бөөгнөрөх үйлийн нэр, цугларал.</definition>
+      <page>99</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>B4686</ref>
+  </related_to>
+</entry>

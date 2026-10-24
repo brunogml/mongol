@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1206">
+  <head>
+    <unicode>ᠱᠠᠯᠴᠢᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šalčilǰaγulqu</transcript>
+    <transcript2>salcilcagolgo</transcript2>
+    <cyrillic>шалчилзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S1205</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠯᠴᠢᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шалчилзуулах</cyrillic>
+      <definition>〔动〕шалчилзах 的使动态.</definition>
+      <page>1616</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠯᠴᠢᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАЛЧИЛЗУУЛАХ</cyrillic>
+      <definition>шалчилзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠯᠴᠢᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шалчилзуулах</cyrillic>
+      <definition>шалчилзахын үйлдүүлэх хэв.</definition>
+      <page>835</page>
+    </entry_item>
+  </entries>
+</entry>

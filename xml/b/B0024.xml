@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0024">
+  <head>
+    <unicode>ᠪᠠᠨᠳᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>bandaγanaqu</transcript>
+    <transcript2>bandaganago</transcript2>
+    <cyrillic>бандганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0026</ref>
+  </derivatives>
+  <variants>
+    <variant type="cyrillic">бандаганах</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠨᠳᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>бандганах</cyrillic>
+      <definition>〔动〕（肥厚、暄软物）频频动弹，微微颤动：тарган хонины сүүл ~н явна 肥羊摇着尾巴走.</definition>
+      <page>127</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠨᠳᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>БАНДГАНАХ</cyrillic>
+      <definition>бандалзах-ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠨᠳᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>бандаганах</cyrillic>
+      <definition>〔动〕参见 бандалзах.</definition>
+      <page>126</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠨᠳᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>бандганах</cyrillic>
+      <definition>бандгар юмны бандга бандга хийх; тарган хонины сүүл бандганаж явна.</definition>
+      <page>73</page>
+    </entry_item>
+  </entries>
+</entry>

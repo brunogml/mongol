@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0417">
+  <head>
+    <unicode>ᠮᠠᠬᠲᠠᠭᠠᠯᠴᠢ</unicode>
+    <transcript>maγtaγalči</transcript>
+    <transcript2>magdagalci</transcript2>
+    <cyrillic>магтаалч</cyrillic>
+  </head>
+  <related_to>
+    <ref>M0416</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠭᠲᠠᠭᠠᠯᠴᠢ</unicode>
+      <cyrillic>магтаалч</cyrillic>
+      <definition>〔名〕诵颂诗者，唱赞歌者，说颂词者.</definition>
+      <page>653</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠬᠲᠠᠭᠠᠯᠴᠢ</unicode>
+      <cyrillic>МАГТААЛЧ</cyrillic>
+      <definition>лицо, произносящий хвалу, хвалитель; панегирист; ерөөлч магтаалч хорщ. еролчи; панегирист.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠭᠲᠠᠭᠠᠯᠴᠢ</unicode>
+      <cyrillic>магтаалч</cyrillic>
+      <definition>магтаал хэлдэг хүн;ерөөлч магтаалч&lt;хорш&gt;.</definition>
+      <page>326</page>
+    </entry_item>
+  </entries>
+</entry>

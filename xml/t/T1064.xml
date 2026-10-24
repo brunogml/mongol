@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1064">
+  <head>
+    <unicode>ᠲᠠᠪᠢᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tabiγlaγulqu</transcript>
+    <transcript2>dabiglagolgo</transcript2>
+    <cyrillic>тавиглуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T1063</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠪᠢᠭᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тавиглуулах</cyrillic>
+      <definition>〔动〕тавиглах 的使动态.</definition>
+      <page>1005</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠪᠢᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАВИГЛУУЛАХ</cyrillic>
+      <definition>тавиглах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тавиглуулах</cyrillic>
+      <definition>Kaus von тавиглах</definition>
+      <page>215</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠪᠢᠭᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тавиглуулах</cyrillic>
+      <definition>тавиглахын үйлдүүлэх хэв.</definition>
+      <page>511</page>
+    </entry_item>
+  </entries>
+</entry>

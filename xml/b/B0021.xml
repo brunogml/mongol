@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0021">
+  <head>
+    <unicode>ᠪᠠᠨᠲᠠᠩᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>bantangnaγulqu</transcript>
+    <transcript2>bandangnagolgo</transcript2>
+    <cyrillic>бантагнуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B0020</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠨᠲᠠᠩᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бантагнуулах</cyrillic>
+      <definition>〔动〕бантагнах 的使动态.</definition>
+      <page>128</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠨᠲᠠᠩᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БАНТАГНУУЛАХ</cyrillic>
+      <definition>бантагнах-ын үйл­дүүл., путать.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠨᠲᠠᠩᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бантагнуулах</cyrillic>
+      <definition>бантагнахын үйлдүүлэх хэв.</definition>
+      <page>73</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1466">
+  <head>
+    <unicode>ᠪᠠᠷᠢᠮᠵᠢᠶᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>barimǰiyalaγulqu</transcript>
+    <transcript2>barimciyalagolgo</transcript2>
+    <cyrillic>баримжаалуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B1465</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠷᠢᠮᠵᠢᠶᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>баримжаалуулах</cyrillic>
+      <definition>〔动〕баримжаалах 的使动态.</definition>
+      <page>135</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠷᠢᠮᠵᠢᠶᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БАРИМЖААЛУУЛАХ</cyrillic>
+      <definition>баримжаалах-ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠷᠢᠮᠵᠢᠶᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>баримжаалуулах</cyrillic>
+      <definition>баримжаалахын үйлдүүлэх хэв.</definition>
+      <page>76</page>
+    </entry_item>
+  </entries>
+</entry>

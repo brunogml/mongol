@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4630">
+  <head>
+    <unicode>ᠺᠥᠺᠡᠶᠢᠲᠥᠺᠥᠯᠺᠥ</unicode>
+    <transcript>gögeyitügülkü</transcript>
+    <transcript2>gögeyidögölgö</transcript2>
+    <cyrillic>гөгийтүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K4629</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠥᠭᠡᠢᠲᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>гөгийтүүлэх</cyrillic>
+      <definition>〔动〕гөгийтөх 的使动态.</definition>
+      <page>314</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠺᠡᠶᠢᠲᠥᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ГӨГИЙТҮҮЛЭХ</cyrillic>
+      <definition>гөгийтөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠥᠭᠡᠢᠲᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>гөгийтүүлэх</cyrillic>
+      <definition>гөгийтэхийн үйлдүүлэх хэв.</definition>
+      <page>153</page>
+    </entry_item>
+  </entries>
+</entry>

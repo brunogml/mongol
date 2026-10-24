@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3436">
+  <head>
+    <unicode>ᠰᠢᠪᠠᠭᠠᠷᠠᠯᠳᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sibaγaralduγulqu</transcript>
+    <transcript2>sibagaraldogolgo</transcript2>
+    <cyrillic>шавааралдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S3435</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠪᠠᠭᠠᠷᠠᠯᠳᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шавааралдуулах</cyrillic>
+      <definition>〔动〕шавааралдах 的使动态.</definition>
+      <page>1603</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠪᠠᠭᠠᠷᠠᠯᠳᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАВААРАЛДУУЛАХ</cyrillic>
+      <definition>шавааралдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠪᠠᠭᠠᠷᠠᠯᠳᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шавааралдуулах</cyrillic>
+      <definition>шавааралдахын үйлдүүлэх хэв.</definition>
+      <page>827</page>
+    </entry_item>
+  </entries>
+</entry>

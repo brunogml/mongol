@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A0003">
+  <head>
+    <unicode>ᠠᠣᠭ᠎ᠠ</unicode>
+    <transcript>auγ-a</transcript>
+    <transcript2>aoga</transcript2>
+    <cyrillic>аугаа</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠤᠭ᠎ᠠ</unicode>
+      <uighur>auγ-a</uighur>
+      <cyrillic>аугаа</cyrillic>
+      <transcript>AUГ-A</transcript>
+      <definition>n. and ad], Power, strength; powerful; mighty; gigantic.</definition>
+      <page>59</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠤᠭ᠎ᠠ ᠴᠢᠳᠠᠯ</unicode>
+          <transcript>-- cidal</transcript>
+          <definition>Power, might.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠤᠭ᠎ᠠ ᠺᠦᠴᠦᠨ</unicode>
+          <transcript>-- kycyn</transcript>
+          <definition>Power, great strength.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠤᠭ᠎ᠠ ᠲᠡᠮᠡᠴᠡᠯ</unicode>
+          <transcript>-- temecel</transcript>
+          <definition>Mighty struggle</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠣᠭ᠎ᠠ</unicode>
+      <definition>force, puissance, vigueur</definition>
+      <page>9</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠤᠭ᠎ᠠ ᠡᠵᠡᠨ</unicode>
+          <uighur>aoγa eǰen</uighur>
+          <definition>un souverain puissant</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠤᠭ᠎ᠠ ᠬᠦᠴᠦᠨ ᠦ ᠡᠵᠡᠨ</unicode>
+          <uighur>aoγa küčün-ü eǰen</uighur>
+          <definition>maître des forces, tout-puissant (épithète de Vajrapani)</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠦᠴᠦᠨ ᠠᠤᠭ᠎ᠠ ᠢᠨᠤ ᠲᠩᠷᠢ ᠳᠡ ᠠᠯᠳᠠᠷᠰᠢᠵᠤᠬᠤᠢ</unicode>
+          <uighur>küčün aoγa inu tngri-ta aldarsiǰuqui</uighur>
+          <definition>la gloire de sa force et de sa puissance s'éleva jusqu'aux tégris</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠠᠤᠭ᠎ᠠ ᠺᠦᠴᠦᠨ</unicode>
+      <uighur>auγ-a küčün</uighur>
+      <definition>n. Supernatural power. Miraculous power.</definition>
+      <page>5</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠤᠭ᠎ᠠ</unicode>
+      <cyrillic>аугаа</cyrillic>
+      <definition>〔形〕巨大的，强大的，有威力的；伟大的，杰出的：~ чадал 强力，威力；~ их эх орон 伟大的祖国.</definition>
+      <page>89</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠣᠭ᠎ᠠ</unicode>
+      <cyrillic>АУГАА</cyrillic>
+      <definition>1. 1) великий, величавый, монументальный; величественный, грандиозный; аугаа их великий, грандиозный; аугаа их том а) монументальность; б) монументальный; аугаа их том амьтан великан, гигант; аугаа их аварга том исполин, колосс; аугаа их том бүтээл монументальный труд; 2) могущественный, гигантский, сильный; аугаа хүчирхэг а) могущество; б) могущественный; аугаа хүчирхэг гүрэн великая могущественная держава; 2. сила, могущество, мощь; аугаа чадал мощь, могущество, мощность; 3. агуу– г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠣᠭ᠎ᠠ</unicode>
+      <cyrillic>УУГАА</cyrillic>
+      <definition>аугаа-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>аугаа</cyrillic>
+      <definition>= агуу</definition>
+      <page>37</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠤᠭ᠎ᠠ</unicode>
+      <cyrillic>аугаа</cyrillic>
+      <definition>маш их, онц гарамгай, хүчин чадал төгс; Октябрийн аугаа их нийгэм журамт хувьсгал.</definition>
+      <page>57</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠤᠭ᠎ᠠ</unicode>
+      <cyrillic>уугаа</cyrillic>
+      <definition>аугаа.</definition>
+      <page>604</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>A0007</ref>
+    <ref>A0008</ref>
+  </derivatives>
+</entry>

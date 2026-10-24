@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2299">
+  <head>
+    <unicode>ᠣᠶᠢᠰᠢᠶᠠᠯᠭᠠᠬᠣ</unicode>
+    <transcript>oyisiyalγaqu</transcript>
+    <transcript2>oyisiyalgago</transcript2>
+    <cyrillic>ойшоолгох</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠢᠰᠢᠶᠠᠯᠭᠠᠬᠤ</unicode>
+      <cyrillic>ойшоолгох</cyrillic>
+      <definition>〔动〕ойшоох 的使动态.</definition>
+      <page>797</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠶᠢᠰᠢᠶᠠᠯᠭᠠᠬᠣ</unicode>
+      <cyrillic>ОЙШООЛГОХ</cyrillic>
+      <definition>ойшоох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠢᠰᠢᠶᠠᠯᠭᠠᠬᠤ</unicode>
+      <cyrillic>ойшоолгох</cyrillic>
+      <definition>ойшоохын үйлдүүлэх хэв, ойшооход хүрүүлэх.</definition>
+      <page>411</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>U2298a</ref>
+  </related_to>
+</entry>

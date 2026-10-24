@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K1000">
+  <head>
+    <unicode>ᠺᠠᠮᠯᠠᠺᠥ</unicode>
+    <transcript>kemlekü</transcript>
+    <transcript2>gemlegö</transcript2>
+    <cyrillic>хэмлэх</cyrillic>
+  </head><derivatives>
+    <ref>K0999</ref>
+  </derivatives><see_also>
+    <ref>K0923</ref>
+  
+    <ref>K1001</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠠᠮᠯᠠᠺᠥ</unicode>
+      <uighur>kemlekü</uighur>
+      <transcript>KEMLE-</transcript>
+      <definition>Same as kemne-, etc.</definition>
+      <page>452</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠮᠡᠯᠢᠬᠦ</unicode>
+      <cyrillic>хэмлэх</cyrillic>
+      <definition>〔动〕①啃，啄，嚼：яс ~ 啃骨头；②量，计量，测量，衡量，测定.</definition>
+      <page>1484</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠮᠯᠠᠺᠥ</unicode>
+      <cyrillic>ХЭМЛЭХ</cyrillic>
+      <definition>I измерять, мерить. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

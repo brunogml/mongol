@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A0101">
+  <head>
+    <unicode>ᠠᠨᠢᠭᠠᠨᠠᠬᠤ</unicode>
+    <transcript>aniγanaqu</transcript>
+    <transcript2>aniganago</transcript2>
+    <cyrillic>аниганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>A0102</ref>
+    <ref>A0103</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠨᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>аниганах</cyrillic>
+      <definition>〔动〕小眼睛不断眯眼，眨眼.</definition>
+      <page>64</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠨᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>АНИГАНАХ</cyrillic>
+      <definition>постоянное движение узкими глазами.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠨᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>аниганах</cyrillic>
+      <definition>анигар хүний анига анига хийх.</definition>
+      <page>45</page>
+    </entry_item>
+  </entries>
+</entry>

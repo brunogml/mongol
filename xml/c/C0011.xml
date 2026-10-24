@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C0011">
+  <head>
+    <unicode>ᠴᠠᠨᠢᠳ</unicode>
+    <transcript>čanid</transcript>
+    <transcript2>canid</transcript2>
+    <cyrillic>цанид</cyrillic>
+  </head><see_also>
+    <ref>C0010</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᡜᠠᠨᠢᠳ</unicode>
+      <definition>dispute, controverse</definition>
+      <page>2077</page>
+      <examples>
+        <example>
+          <unicode>ᡜᠠᠨᠢᠳ ᠎ᠶᠢᠨ ᠠᠶᠠᠯᠭᠤ</unicode>
+          <definition>terminologie de dispute</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

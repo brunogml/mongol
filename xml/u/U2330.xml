@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2330">
+  <head>
+    <unicode>ᠣᠶᠢ᠍ᠳᠬᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>uyitqaγulqu</transcript>
+    <transcript2>oyidgagolgo</transcript2>
+    <cyrillic>уйтгуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U2329</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠢᠲᠠᠬᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>уйтгуулах</cyrillic>
+      <definition>〔动〕уйтгах 的使动态.</definition>
+      <page>1180</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠶᠢ᠍ᠳᠬᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>УЙТГУУЛАХ</cyrillic>
+      <definition>уйтгах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠢᠳᠬᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>уйтгуулах</cyrillic>
+      <definition>уйтгахын үйлдүүлэх хэв, уйтан болгуулах.</definition>
+      <page>587</page>
+    </entry_item>
+  </entries>
+</entry>

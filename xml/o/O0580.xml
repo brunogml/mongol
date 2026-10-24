@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O0580">
+  <head>
+    <unicode>ᠥᠰᠢᠶᠠᠷᠺᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ösiyerkegülkü</transcript>
+    <transcript2>ösiyergegölgö</transcript2>
+    <cyrillic>өшөөрхүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>O0579</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠰᠢᠶᠡᠷᠬᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өшөөрхүүлэх</cyrillic>
+      <definition>〔动〕өшөөрхөх 的使动态.</definition>
+      <page>868</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠰᠢᠶᠠᠷᠺᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ӨШӨӨРХҮҮЛЭХ</cyrillic>
+      <definition>өшөөрхөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠰᠢᠶᠡᠷᠬᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өшөөрхүүлэх</cyrillic>
+      <definition>өшөөрхөхийн үйлдүүлэх хэв.</definition>
+      <page>449</page>
+    </entry_item>
+  </entries>
+</entry>

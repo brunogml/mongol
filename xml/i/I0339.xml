@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I0339">
+  <head>
+    <unicode>ᠢᠳᠠᠪᠺᠢᠰᠢᠺᠥᠯᠺᠥ</unicode>
+    <transcript>idebkisigülkü</transcript>
+    <transcript2>idebgisigölgö</transcript2>
+    <cyrillic>идэвхшүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>I0338</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠳᠡᠪᠬᠢᠰᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>идэвхшүүлэх</cyrillic>
+      <definition>〔动〕идэвхших 的使动态.</definition>
+      <page>604</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠳᠠᠪᠺᠢᠰᠢᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ИДЭВХШҮҮЛЭХ</cyrillic>
+      <definition>идэвхших-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠳᠡᠪᠬᠢᠰᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>идэвхшүүлэх</cyrillic>
+      <definition>идэвхшихийн үйлдүүлэх хэв, идэвхий нь сайжруулах.</definition>
+      <page>300</page>
+    </entry_item>
+  </entries>
+</entry>

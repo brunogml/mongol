@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1959">
+  <head>
+    <unicode>ᠳᠠᠯᠵᠢᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>dalǰilǰaγulqu</transcript>
+    <transcript2>dalcilcagolgo</transcript2>
+    <cyrillic>далжилзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T1958</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠯᠵᠢᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>далжилзуулах</cyrillic>
+      <definition>〔动〕далжилзах 的使动态.</definition>
+      <page>385</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠯᠵᠢᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДАЛЖИЛЗУУЛАХ</cyrillic>
+      <definition>далжилзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠯᠵᠢᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>далжилзуулах</cyrillic>
+      <definition>далжилзахын үйлдүүлэх хэв.</definition>
+      <page>185</page>
+    </entry_item>
+  </entries>
+</entry>

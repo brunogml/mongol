@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2916">
+  <head>
+    <unicode>ᠴᠣᠳᠯᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>čodlaγdaqu</transcript>
+    <transcript2>codlagdago</transcript2>
+    <cyrillic>цодлогдох</cyrillic>
+  </head>
+  <related_to>
+    <ref>C2914</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠣᠳᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>цодлогдох</cyrillic>
+      <definition>〔动〕цодлох 的被动态.</definition>
+      <page>1530</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠳᠯᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЦОДЛОГДОХ</cyrillic>
+      <definition>цодлох-ын үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠣᠳᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>цодлогдох</cyrillic>
+      <definition>цодлохын үйлдэгдэх хэв.</definition>
+      <page>788</page>
+    </entry_item>
+  </entries>
+</entry>

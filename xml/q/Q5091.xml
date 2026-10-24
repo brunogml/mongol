@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q5091">
+  <head>
+    <unicode>ᠬᠣᠰᠣᠮᠲᠣᠬᠣ</unicode>
+    <transcript>qusumtuqu</transcript>
+    <transcript2>gosomdogo</transcript2>
+    <cyrillic>хусамтах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q5092</ref>
+    <ref>Q5093</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠰᠣᠮᠲᠣᠬᠣ</unicode>
+      <uighur>qusomdoqu</uighur>
+      <cyrillic>хусамтах</cyrillic>
+      <transcript>XUSUMTU-</transcript>
+      <definition>v.i. For xusum to form</definition>
+      <page>992</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠰᠤᠮᠲᠤᠬᠤ</unicode>
+      <cyrillic>хусамтах</cyrillic>
+      <definition>〔动〕①形成锅巴，结锅巴；②变得一无所有.</definition>
+      <page>1439</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠰᠣᠮᠲᠣᠬᠣ</unicode>
+      <cyrillic>ХУСАМТАХ</cyrillic>
+      <definition>1. образовываться (о пригорелой корке, накипи); 2. хусамтахуй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠰᠣᠮᠲᠣᠬᠣ</unicode>
+      <cyrillic>ХУСАМТАХУЙ</cyrillic>
+      <definition>образование накипи, пригорелой корки на дне сосуда при кипячении молока. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хусамтах</cyrillic>
+      <definition>einen Ansatz bilden im Topf nach dem Kochen von Milch</definition>
+      <page>330</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠰᠤᠮᠲᠤᠬᠤ</unicode>
+      <cyrillic>хусамтах</cyrillic>
+      <definition>1. хусам тогтох;2. юу ч үгүй мэт байдалтай болох; тэднийх ч бүр хусамтаж орхижээ.</definition>
+      <page>735</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q5089</ref>
+  </related_to>
+</entry>

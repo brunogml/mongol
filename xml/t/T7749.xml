@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7749">
+  <head>
+    <unicode>ᠳᠣᠷᠣᠰᠣᠯᠠᠬᠣ</unicode>
+    <transcript>durusulaqu</transcript>
+    <transcript2>dorosolago</transcript2>
+    <cyrillic>дурслах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T7750</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠤᠷᠤᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>дурслах</cyrillic>
+      <definition>〔动〕①剥下栓内层；②用栓内层擦.</definition>
+      <page>444</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠷᠣᠰᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ДУРСЛАХ</cyrillic>
+      <definition>снимать, сдирать кору дерева, шелуху; дурсалсан мод поплавок. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дурслах</cyrillic>
+      <definition>Baum entrinden, schälen</definition>
+      <page>99</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠤᠷᠤᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>дурслах</cyrillic>
+      <definition>модны хальсыг хуулж арилгах.</definition>
+      <page>212</page>
+    </entry_item>
+  </entries>
+</entry>

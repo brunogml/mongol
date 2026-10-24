@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1307">
+  <head>
+    <unicode>ᠨᠠᠷᠪᠠᠺᠥ</unicode>
+    <transcript>nerbekü</transcript>
+    <transcript2>nerbegö</transcript2>
+    <cyrillic>нэрвэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>N1308</ref>
+    <ref>N1311</ref>
+    <ref>N1306</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠨᠠᠷᠪᠠᠺᠥ</unicode>
+      <uighur>nerbekü</uighur>
+      <cyrillic>нэрвэх</cyrillic>
+      <transcript>NERBE-</transcript>
+      <definition>[= nerme-] v. t. To torment, to depress, dispirit, aggravate (harm, evil ); to irritate (a wound).</definition>
+      <page>575</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠠᠷᠪᠠᠨ ᠬᠠᠪᠴᠢᠬᠤ</unicode>
+          <transcript>--n xabcixu</transcript>
+          <definition> To oppress.</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠡᠮ ᠨᠠᠷᠪᠠᠺᠺᠦ</unicode>
+          <transcript>gem --ky</transcript>
+          <definition> To aggravate an evil.</definition>
+        </example>
+        <example>
+          <unicode>ᠶᠠᠷ᠎ᠠ ᠨᠠᠷᠪᠠᠺᠺᠦ</unicode>
+          <transcript>jar-a --ky</transcript>
+          <definition> To irritate a wound.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠨᠡᠷᠪᠡᠺᠦ ~ ᠨᠡᠷᠮᠡᠺᠦ ~ ᠵᠣᠪᠠᠭᠠᠬᠤ</unicode>
+      <definition>causer de mal. faire du mal, tourmenter, opprimer.</definition>
+      <page>645</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠨᠠᠷᠪᠠᠺᠥ</unicode>
+      <uighur>nerbekü</uighur>
+      <definition>siehe nermekü</definition>
+      <page>86</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠡᠷᠪᠡᠬᠦ</unicode>
+      <cyrillic>нэрвэх</cyrillic>
+      <definition>〔动〕参见 нэрмэх.</definition>
+      <page>776</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠷᠪᠠᠺᠥ</unicode>
+      <cyrillic>НЭРВЭХ</cyrillic>
+      <definition>удручать, притеснять; усугублять (причинённое зло); нэрвэн хавчих притеснять, зажимать; нэрмэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>нэрвэх</cyrillic>
+      <definition>verschlimmern, erschweren</definition>
+      <page>165</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠡᠷᠪᠡᠬᠦ</unicode>
+      <cyrillic>нэрвэх</cyrillic>
+      <definition>нэрмэх, нэмээслэх.</definition>
+      <page>399</page>
+    </entry_item>
+  </entries>
+</entry>

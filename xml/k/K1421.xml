@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1421">
+  <head>
+    <unicode>ᠺᠠᠶᠢᠴᠢᠷᠺᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>geyičirkegülkü</transcript>
+    <transcript2>geyicirgegölgö</transcript2>
+    <cyrillic>гийчирхүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K1420</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠡᠢᠴᠢᠷᠬᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>гийчирхүүлэх</cyrillic>
+      <definition>〔动〕гичирхэх 的使动态.</definition>
+      <page>294</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠶᠢᠴᠢᠷᠺᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ГИЙЧИРХҮҮЛЭХ</cyrillic>
+      <definition>гийчирхэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠡᠢᠴᠢᠷᠬᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>гийчирхүүлэх</cyrillic>
+      <definition>гийчирхэхийн үйлдүүлэх хэв.</definition>
+      <page>144</page>
+    </entry_item>
+  </entries>
+</entry>

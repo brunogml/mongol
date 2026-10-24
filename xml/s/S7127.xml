@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S7127">
+  <head>
+    <unicode> ᠰᠲ᠋ᠠᠨᠳᠠᠷᠲ</unicode>
+    <transcript>standart</transcript>
+    <transcript2>sdandard</transcript2>
+    <cyrillic>стандарт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode> ᠰᠲ᠋ᠠᠨᠳᠠᠷᠲ</unicode>
+      <cyrillic>СТАНДАРТ</cyrillic>
+      <definition>1. стандарт; 2. стандартный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>стандарт</cyrillic>
+      <definition>Standard m</definition>
+      <page>203</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠲ᠋ᠠᠨᠳᠠᠷᠲ᠋</unicode>
+      <cyrillic>стандарт</cyrillic>
+      <definition>тогтмол янз, нэгэн хэв.</definition>
+      <page>485</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3607">
+  <head>
+    <unicode>ᠰᠢᠪᠬᠠᠶᠢᠲᠣ</unicode>
+    <transcript>sibqayitu</transcript>
+    <transcript2>sibgayido</transcript2>
+    <cyrillic>шавхайт</cyrillic>
+  </head>
+  <see_also>
+    <ref>S3603</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠪᠬᠠᠢᠲᠤ</unicode>
+      <cyrillic>шавхайт</cyrillic>
+      <definition>〔形〕参见 шавхайтай.</definition>
+      <page>1605</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠪᠬᠠᠶᠢᠲᠣ</unicode>
+      <cyrillic>ШАВХАЙТ</cyrillic>
+      <definition>шавхайтай-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠪᠬᠠᠢᠲᠤ</unicode>
+      <cyrillic>шавхайт</cyrillic>
+      <definition>шавхай бий.</definition>
+      <page>828</page>
+    </entry_item>
+  </entries>
+</entry>

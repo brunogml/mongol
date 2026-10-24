@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1493">
+  <head>
+    <unicode>ᠪᠠᠷᠢᠶᠠᠴᠢᠯᠠᠬᠣ</unicode>
+    <transcript>bariyačilaqu</transcript>
+    <transcript2>bariyacilago</transcript2>
+    <cyrillic>бариачлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B1494</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠷᠢᠶᠠᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>бариачлах</cyrillic>
+      <definition>〔动〕〈医〉接骨，正骨，推拿.</definition>
+      <page>133</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠷᠢᠶᠠᠴᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>БАРИАЧЛАХ</cyrillic>
+      <definition>быть костоправом.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бариачлах</cyrillic>
+      <definition>einrenken</definition>
+      <page>47</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠷᠢᠶᠠᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>бариачлах</cyrillic>
+      <definition>яс бэртсэн зэргийг барилан засах.</definition>
+      <page>76</page>
+    </entry_item>
+  </entries>
+</entry>

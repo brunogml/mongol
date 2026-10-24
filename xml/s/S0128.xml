@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S0128">
+  <head>
+    <unicode>ᠰᠠᠨᠳᠣᠷᠠᠬᠣ</unicode>
+    <transcript>sanduraqu</transcript>
+    <transcript2>sandorago</transcript2>
+    <cyrillic>сандрах</cyrillic>
+  </head><derivatives>
+    <ref>S0130</ref>
+  </derivatives><see_also>
+    <ref>S0147</ref>
+  
+    <ref>S0129</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠨᠳᠣᠷᠠᠬᠣ</unicode>
+      <uighur>sandoraqu</uighur>
+      <cyrillic>сандрах</cyrillic>
+      <transcript>SANDURA-</transcript>
+      <definition>[= sandara-] v. i. To be in disorder, confusion, disarray; to be in a hurry; to bustle, be excited; to be embarrased; to be panicky.</definition>
+      <page>671</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠨᠳᠣᠷᠠᠬᠤ ᠦᠭᠡᠢ</unicode>
+          <transcript>--xu ygei</transcript>
+          <definition> Without confusion, calm[ly],</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠢ ᠮᠠᠭᠤᠬᠠᠢ ᠰᠠᠨᠳᠣᠷᠠᠯ᠎ᠠ</unicode>
+          <transcript>bi maγuxai --l-a</transcript>
+          <definition> I was so embarrassed</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠢ ᠰᠠᠨᠳᠣᠷᠠᠵᠤ ᠭᠠᠷᠵᠤ ᠢᠷᠡᠭᠡᠳ ᠲᠦᠯᠺᠢᠭᠦᠷ ᠢᠶᠡᠨ ᠭᠡᠷ ᠎ᠲᠡᠭᠡᠨ ᠤᠮᠠᠷᠲᠠᠴᠢᠪᠠ</unicode>
+          <transcript>bi --zu γarzu ireged tylkigyr ijen ger tegen umartaciba</transcript>
+          <definition> I left in such a hurry that I left my key at home,</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠠᠭ ᠡᠷᠲᠡ ᠪᠠᠶᠢᠨ᠎ᠠ ᠪᠢᠲᠡᠭᠡᠢ ᠰᠠᠨᠳᠣᠷᠠ</unicode>
+          <transcript>caγ erte bain-a, bitegei -- l </transcript>
+          <definition>It is (too) early yet, don't hurry or don't get excited!</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠠᠨᠳᠣᠷᠠᠬᠤ ~ ᠰᠠᠨᠳᠠᠷᠠᠬᠤ</unicode>
+      <definition>se confondre. se troubler; s'inquiéter, s'alarmer</definition>
+      <page>1288</page>
+    </entry_item>
+  </entries>
+</entry>

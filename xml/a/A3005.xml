@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A3005">
+  <head>
+    <unicode>ᠠᠮᠣᠰᠣ</unicode>
+    <transcript>amusu</transcript>
+    <transcript2>amoso</transcript2>
+    <cyrillic>амс</cyrillic>
+  </head>
+  <variants>
+    <variant type="cyrillic">амас</variant>
+    <variant type="cyrillic">амуус(ан)</variant>
+    <variant type="transcription">amusun</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠮᠣᠰᠣ</unicode>
+      <uighur>amusu - amusun</uighur>
+      <cyrillic>амас</cyrillic>
+      <transcript>AMUSU(N)</transcript>
+      <definition>n. Cooked cereal, porridge; food offering made to spirits.</definition>
+      <page>41</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠮᠤᠰᠤ ᠪᠠᠷᠢᠬᠤ</unicode>
+          <transcript>-- barixu</transcript>
+          <definition> To make a food offering to spirits.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠮᠤᠰᠤᠨ ᠤ ᠮᠢᠬ᠎ᠠ</unicode>
+          <transcript>--n u mix-a</transcript>
+          <definition> Meat used in offerings.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠮᠣᠰᠣᠨ ~ ᠠᠮᠤᠰᠤ</unicode>
+      <definition>bouillie claire de millet: 2 une partie des offrandes faites aux esprits</definition>
+      <page>109</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠣᠳᠣᠷᠭᠠᠨ ᠤ ᠠᠮᠣᠰᠤ</unicode>
+          <definition>riz bouillie</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠮᠣᠰᠤ ᠪᠠᠷᠢᠬᠤ</unicode>
+          <definition>offrir aux esprits le vin et un peu de riz bouillie avec du beurre</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠮᠣᠰᠣᠨ ᠤ ᠮᠢᠬ᠎ᠠ</unicode>
+          <definition>viandes qu'on offre à l'esprit; viandes du sacrifice</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠠᠮᠣᠰᠣ</unicode>
+      <uighur>amusu</uighur>
+      <definition>der Imbiss; das Speiseopfer, ein Theil der Speise der den Göttern oder Geistern vorgesetzt wird.</definition>
+      <page>10</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠠᠮᠣᠰᠣ</unicode>
+      <uighur>amusun</uighur>
+      <definition>n. A light meal, a luncheon. A meal offering, of which one part is placed before the gods or idols.</definition>
+      <page>39</page>
+      <examples>
+        <example>
+          <uighur>amusun miq-a</uighur>
+          <definition>n. Meat that has been offered in sacrifice.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠮᠤᠰᠤ</unicode>
+      <cyrillic>амс</cyrillic>
+      <definition>〔名〕见 амас.</definition>
+      <page>53</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠮᠣᠰᠣ</unicode>
+      <cyrillic>АМАС</cyrillic>
+      <definition>1) каша, кашица; сагагийн амас гречневая каша; тутаргын амас рисовая каша; амас чанах варить кашу; амас шиг кашеобразный; 2) варево, стряпня; 3) жертвенная пища; жертва; жертвенное приношение; амас барих приготовлять жертву духам; жертвовать, подносить жертвенную пищу; амасын мах жертвенное мясо; мясо, предназначенное в жертву духам.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠮᠤᠰᠤ</unicode>
+      <cyrillic>амас</cyrillic>
+      <definition>〔名〕黄油粥；黄米饭.</definition>
+      <page>49</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠮᠤᠰᠤ</unicode>
+      <cyrillic>амуус(ан)</cyrillic>
+      <definition>〔名〕黄油稠粥.</definition>
+      <page>55</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>амс[ан]</cyrillic>
+      <definition>Grütze f</definition>
+      <page>30</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠮᠤᠰᠤ᠊ᠨ</unicode>
+      <cyrillic>амс</cyrillic>
+      <definition>бүрхээрт жигнэсэн буюу тогоонд агшаасан будаа.</definition>
+      <page>39</page>
+    </entry_item>
+  </entries>
+</entry>

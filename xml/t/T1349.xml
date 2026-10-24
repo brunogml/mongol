@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1349">
+  <head>
+    <unicode>ᠲᠠᠰᠢᠭᠣᠷᠳᠠᠬᠣ</unicode>
+    <transcript>tasiγurdaqu</transcript>
+    <transcript2>dasigordago</transcript2>
+    <cyrillic>ташуурдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1350</ref>
+    <ref>T1351</ref>
+    <ref>T1353</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠰᠢᠭᠣᠷᠳᠠᠬᠣ</unicode>
+      <uighur>tasiγurdaqu</uighur>
+      <cyrillic>ташуурдах</cyrillic>
+      <transcript>TASIΓURDA-</transcript>
+      <definition>v.t. To whip, flog, lash.</definition>
+      <page>783</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠣᠷᠢ ᠪᠡᠨ ᠲᠠᠰᠢᠭᠣᠷᠳᠠᠬᠣ</unicode>
+          <transcript>mori ben --xu</transcript>
+          <definition> To urge on one's horse with a whip</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠰᠢᠭᠣᠷᠳᠠᠬᠤ</unicode>
+      <definition>donner le fouet</definition>
+      <page>1619</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠰᠢᠭᠣᠷᠳᠠᠬᠣ</unicode>
+      <uighur>dasiγordaqu</uighur>
+      <definition>mit der Peitsche schlagen</definition>
+      <page>237</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠰᠢᠭᠣᠷᠳᠠᠬᠣ</unicode>
+      <uighur>tasiγurdaqu</uighur>
+      <definition>v.t. To whip. To flog with a whip.</definition>
+      <page>933</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠰᠢᠭᠤᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>ташуурдах</cyrillic>
+      <definition>〔动〕用鞭子抽打.</definition>
+      <page>1045</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠰᠢᠭᠣᠷᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТАШУУРДАХ</cyrillic>
+      <definition>бить плетью, кнутом, бичом; ташуурдан жанчих бить кнутом. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>ташуурдах</cyrillic>
+      <definition>[aus]peitschen</definition>
+      <page>224</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠰᠢᠭᠤᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>ташуурдах</cyrillic>
+      <definition>ташуураар жанчих.</definition>
+      <page>529</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B4316">
+  <head>
+    <unicode>ᠪᠥᠲᠥᠮᠠ</unicode>
+    <transcript>bütüm-e</transcript>
+    <transcript2>bödöm-e</transcript2>
+    <cyrillic>бүтэм</cyrillic>
+  </head>
+  <see_also>
+    <ref>B4287</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠥᠲᠥᠮ᠎ᠡ</unicode>
+      <uighur>bütüm-e</uighur>
+      <cyrillic>бүтэм</cyrillic>
+      <transcript>BYTYM-E</transcript>
+      <definition>adj. Realizable, practicable.</definition>
+      <page>152</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠦᠳᠦᠮ᠎ᠡ ~ ᠪᠦᠳᠡᠮ᠎ᠡ</unicode>
+      <definition>épais, touffu; obscur, sombre; impénétrable.</definition>
+      <page>1230</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠦᠳᠦᠮ᠎ᠡ ᠬᠠᠷᠠᠩᠭᠤᠢ</unicode>
+          <definition>obscurité impénétrable</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠦᠲᠦᠮ᠎ᠡ</unicode>
+      <cyrillic>бүтэм</cyrillic>
+      <definition>〔形〕可为的，可行的，可办到的，可成功的，可奏效的.</definition>
+      <page>236</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠲᠥᠮᠠ</unicode>
+      <cyrillic>БҮТЭМ</cyrillic>
+      <definition>I исполнимый.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠲᠥᠮᠠ</unicode>
+      <cyrillic>БҮТЭМГҮЙ</cyrillic>
+      <definition>неисполнимый.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бүтэм</cyrillic>
+      <definition>machbar, realisierbar</definition>
+      <page>67</page>
+    </entry_item>
+  </entries>
+</entry>

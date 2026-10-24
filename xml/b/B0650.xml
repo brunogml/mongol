@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B0650">
+  <head>
+    <unicode>ᠪᠠᠳᠣᠣ</unicode>
+    <transcript>badou</transcript>
+    <transcript2>badoo</transcript2>
+    <cyrillic>баадуу</cyrillic>
+  </head><see_also>
+    <ref>B0585</ref>
+  </see_also>
+  <variants>
+    <variant type="cyrillic">бадуу</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠳᠣᠣ</unicode>
+      <cyrillic>БААДУУ</cyrillic>
+      <definition>I ург. масличное дерево; баадууны тос масло из дерева б®ду.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠳᠤᠤ</unicode>
+      <cyrillic>бадуу</cyrillic>
+      <definition>〔名〕参见 баадуу.</definition>
+      <page>112</page>
+    </entry_item>
+  </entries>
+</entry>

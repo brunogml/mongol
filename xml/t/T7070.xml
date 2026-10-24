@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7070">
+  <head>
+    <unicode>ᠲᠣᠯᠺᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tolkiγulqu</transcript>
+    <transcript2>dolgigolgo</transcript2>
+    <cyrillic>толхиулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T7068</ref>
+  </related_to>
+  <see_also>
+    <ref>T7071</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠯᠬᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>толхиулах</cyrillic>
+      <definition>〔动〕толхих 的使动态.</definition>
+      <page>1066</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠯᠺᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТОЛХИУЛАХ</cyrillic>
+      <definition>толхих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>толхиулах</cyrillic>
+      <definition>Kaus von толхих</definition>
+      <page>228</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠯᠬᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>толхиулах</cyrillic>
+      <definition>толхихын үйлдүүлэх хэв, талхиулах.</definition>
+      <page>538</page>
+    </entry_item>
+  </entries>
+</entry>

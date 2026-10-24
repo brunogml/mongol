@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C2241">
+  <head>
+    <unicode>ᠴᠢᠭᠢᠷᠮᠠᠬ</unicode>
+    <transcript>čigirmaγ</transcript>
+    <transcript2>cigirmag</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠢᠭᠢᠷᠮᠠᠬ</unicode>
+      <uighur>čigirmaq</uighur>
+      <transcript>CIGIRMAΓ</transcript>
+      <definition>Same as cigiraγ,</definition>
+      <page>179</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠢᠭᠢᠷᠮᠠᠬ</unicode>
+      <definition>dur, fort, robuste, solide.</definition>
+      <page>2181</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠭᠢᠷᠮᠠᠬ ᠪᠦᠰᠡᠯᠡᠺᠦ</unicode>
+          <definition>serrer fortement la ceinture</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1242">
+  <head>
+    <unicode>ᠥᠮᠴᠢᠷᠺᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ömčirkegülkü</transcript>
+    <transcript2>ömcirgegölgö</transcript2>
+    <cyrillic>өмчирхүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>O1241</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠮᠴᠢᠷᠬᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өмчирхүүлэх</cyrillic>
+      <definition>〔动〕өмчирхөх 的使动态.</definition>
+      <page>845</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠮᠴᠢᠷᠺᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ӨМЧИРХҮҮЛЭХ</cyrillic>
+      <definition>өмчирхөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠮᠴᠢᠷᠬᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өмчирхүүлэх</cyrillic>
+      <definition>өмчирхөхийн үйлдүүлэх хэв.</definition>
+      <page>437</page>
+    </entry_item>
+  </entries>
+</entry>

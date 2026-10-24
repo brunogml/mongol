@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2714">
+  <head>
+    <unicode>ᠪᠣᠭᠣᠰᠷᠠᠬᠣ</unicode>
+    <transcript>boγusraqu</transcript>
+    <transcript2>bogosrago</transcript2>
+    <cyrillic>боосрох</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠣᠭᠣᠰᠷᠠᠬᠤ</unicode>
+      <cyrillic>боосрох</cyrillic>
+      <definition>〔动〕参见 боосох.</definition>
+      <page>174</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠭᠣᠰᠷᠠᠬᠣ</unicode>
+      <cyrillic>БООСРОХ</cyrillic>
+      <definition>боосох-ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠣᠭᠣᠰᠷᠠᠬᠤ</unicode>
+      <cyrillic>боосрох</cyrillic>
+      <definition>боос болох.</definition>
+      <page>92</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>B2708</ref>
+  </related_to>
+</entry>

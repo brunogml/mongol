@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1251">
+  <head>
+    <unicode>ᠴᠠᠺᠴᠠᠷᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>čegčeregülkü</transcript>
+    <transcript2>cegceregölgö</transcript2>
+    <cyrillic>цэгцрүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>C1250</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠭᠴᠡᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>цэгцрүүлэх</cyrillic>
+      <definition>〔动〕цэгцрэх 的使动态.</definition>
+      <page>1561</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠺᠴᠠᠷᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЦЭГЦРҮҮЛЭХ</cyrillic>
+      <definition>цэгцрэх-ийн үйлдүүл., упорядочивать, приводить в порядок что-л. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цэгцрүүлэх</cyrillic>
+      <definition>1. Kaus von цэгцрэх
+2. ordnen, regeln, in Ordnung bringen</definition>
+      <page>363</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠭᠴᠡᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>цэгцрүүлэх</cyrillic>
+      <definition>цэгцрэхийн үйлдүүлэх хэв.</definition>
+      <page>805</page>
+    </entry_item>
+  </entries>
+</entry>

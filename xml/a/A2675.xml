@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A2675">
+  <head>
+    <unicode>ᠠᠯᠴᠠᠬ</unicode>
+    <transcript>alčaγ</transcript>
+    <transcript2>alcag</transcript2>
+    <cyrillic>алцаг</cyrillic>
+  </head>
+  <variants>
+    <variant type="cyrillic">алцага</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠯᠴᠠᠬ</unicode>
+      <cyrillic>АЛЦАГ</cyrillic>
+      <definition>шалаш, хижина, лачуга, балаган.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠯᠴᠠᠭ</unicode>
+      <cyrillic>алцага</cyrillic>
+      <definition>见 ~ ~ хийх 罗圈腿动物不断动弹，一拽一拽地走.</definition>
+      <page>46</page>
+    </entry_item>
+  </entries>
+</entry>

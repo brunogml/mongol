@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4145">
+  <head>
+    <unicode>ᠬᠣᠨᠵᠢᠯᠭ᠎ᠠ</unicode>
+    <transcript>qonǰilγ-a</transcript>
+    <transcript2>goncilga</transcript2>
+    <cyrillic>хонжлого</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠨᠵᠢᠯᠭ᠎ᠠ</unicode>
+      <uighur>qonǰilγ-a</uighur>
+      <cyrillic>хонжлого - хонжилго</cyrillic>
+      <transcript>XONZILΓ-A</transcript>
+      <definition>n. Gain profit advantage, winning</definition>
+      <page>965</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠤᠳᠠᠯᠳᠤᠭᠠᠨ ᠤ ᠬᠣᠨᠵᠢᠯᠭ᠎ᠠ</unicode>
+          <transcript>xudalduγan u --</transcript>
+          <definition>Business, profit.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠨᠵᠢᠯᠭ᠎ᠠ</unicode>
+      <definition>1 gain, profit, avantage: 
+2 tromperie, fourberie: 
+3 dommage causé par fourberie, perte: 
+4 temps perdu</definition>
+      <page>869</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠤᠳᠠᠯᠳᠤᠭᠠᠨ ᠤ ᠬᠣᠨᠵᠢᠯᠭ᠎ᠠ</unicode>
+          <definition>profit du commerce</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠣᠨᠵᠢᠯᠭ᠎ᠠ</unicode>
+      <uighur>qunǰilγa</uighur>
+      <definition>Schaden durch Betrug; unnütz verwandte od. vergeudete Zeit</definition>
+      <page>162</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠣᠨᠵᠢᠯᠭ᠎ᠠ</unicode>
+      <uighur>qunǰilγ-a</uighur>
+      <definition>n. Gain, profit. Usury.</definition>
+      <page>637</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠨᠵᠢᠯᠭ᠎ᠠ</unicode>
+      <cyrillic>ХОНЖЛОГО</cyrillic>
+      <definition>нажива, барышничество, спекуляция.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠨᠵᠢᠯᠭ᠎ᠠ᠊ᠨ</unicode>
+      <cyrillic>хонжлого</cyrillic>
+      <definition>хонжсон ашиг нь, хонжил, хожил.</definition>
+      <page>690</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>Q4146</ref>
+    <ref>Q4147</ref>
+  </derivatives>
+</entry>

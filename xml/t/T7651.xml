@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7651">
+  <head>
+    <unicode>ᠳᠣᠷᠠᠨᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>durandaγulqu</transcript>
+    <transcript2>dorandagolgo</transcript2>
+    <cyrillic>дурандуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T7650</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠤᠷᠠᠨᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дурандуулах</cyrillic>
+      <definition>〔动〕дурандах 的使动态.</definition>
+      <page>442</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠷᠠᠨᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДУРАНДУУЛАХ</cyrillic>
+      <definition>дурандах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дурандуулах</cyrillic>
+      <definition>Kaus von дурандах</definition>
+      <page>99</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠤᠷᠠᠨᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дурандуулах</cyrillic>
+      <definition>дурандахын үйлдүүлэх хэв.</definition>
+      <page>212</page>
+    </entry_item>
+  </entries>
+</entry>

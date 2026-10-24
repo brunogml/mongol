@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T0811">
+  <head>
+    <unicode>ᠲᠠᠬᠰᠢ</unicode>
+    <transcript>taγsi</transcript>
+    <transcript2>dagsi</transcript2>
+    <cyrillic>тагш</cyrillic>
+  </head><see_also>
+    <ref>T0808</ref>
+  
+    <ref>T2328</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠬᠰᠢ</unicode>
+      <uighur>taqsi</uighur>
+      <cyrillic>тагш</cyrillic>
+      <transcript>TAΓSI</transcript>
+      <definition>n. Small cup.</definition>
+      <page>766</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠢᠭᠡᠨ ᠲᠠᠬᠰᠢ ᠴᠠᠢ</unicode>
+          <transcript>nige -- cai</transcript>
+          <definition> A cup of tea.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

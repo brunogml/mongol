@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C1453">
+  <head>
+    <unicode>ᠴᠢᠨᠳᠠᠷᠯᠠᠬᠣ</unicode>
+    <transcript>čindarlaqu</transcript>
+    <transcript2>cindarlago</transcript2>
+    <cyrillic>чандарлах</cyrillic>
+  </head><derivatives>
+    <ref>C1454</ref>
+  
+    <ref>C1455</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠨᠳᠠᠷᠯᠠᠬᠤ</unicode>
+      <cyrillic>чандарлах</cyrillic>
+      <definition>〔动〕〈医〉得天花病.</definition>
+      <page>1580</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠨᠳᠠᠷᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЧАНДАРЛАХ</cyrillic>
+      <definition>1. кремировать; 2. чандарлахуй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠨᠳᠠᠷᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЧАНДАРЛАХУЙ</cyrillic>
+      <definition>кремация. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

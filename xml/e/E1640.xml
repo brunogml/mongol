@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E1640">
+  <head>
+    <unicode>ᠡᠭᠡᠷᠮ᠎ᠡ</unicode>
+    <transcript>egerm-e</transcript>
+    <transcript2>egerm-e</transcript2>
+    <cyrillic>ээрэм</cyrillic>
+  </head>
+  <see_also>
+    <ref>E1620</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠭᠡᠷᠮ᠎ᠡ</unicode>
+      <uighur>egerm-e</uighur>
+      <cyrillic>ээрэм</cyrillic>
+      <transcript>EGERM-E</transcript>
+      <definition>n. Open plain, desert, steppe.</definition>
+      <page>299</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠭᠡᠷᠮ᠎ᠡ ᠺᠥᠳᠡᠭᠡ</unicode>
+          <transcript>-- kødege</transcript>
+          <definition>Desert, steppe.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠭᠡᠷᠮ᠎ᠡ ᠲᠠᠯ᠎ᠠ</unicode>
+          <transcript>-- tal-a</transcript>
+          <definition>Desert, steppe.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠺᠡᠷᠮ᠎ᠡ</unicode>
+      <definition>bégue</definition>
+      <page>236</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠠᠺᠠᠷᠮᠠ</unicode>
+      <uighur>ekerm-e</uighur>
+      <definition>stotternd</definition>
+      <page>25</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠡᠺᠠᠷᠮᠠ</unicode>
+      <uighur>ekerm-e</uighur>
+      <definition>adj. Tongue-tied, stammering</definition>
+      <page>97</page>
+      <examples>
+        <example>
+          <uighur>ekerm-e tala</uighur>
+          <definition>n. A desert, a barren plain</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>ээрэм</cyrillic>
+      <definition>kahl, öde, verlassen</definition>
+      <page>408</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠭᠡᠷᠮ᠎ᠡ</unicode>
+      <cyrillic>ээрэм /2</cyrillic>
+      <definition>ёжтой, дэгээтэй ярьдаг хүн.</definition>
+      <page>895</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠭᠡᠷᠮ᠎ᠡ</unicode>
+      <cyrillic>ээрэм /3</cyrillic>
+      <definition>эзгүй тал газар; ээрэм цагаан тал.</definition>
+      <page>895</page>
+    </entry_item>
+  </entries>
+</entry>

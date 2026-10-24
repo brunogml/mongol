@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K3758">
+  <head>
+    <unicode>ᠺᠥᠳᠡᠯᠥᠰᠢ</unicode>
+    <transcript>ködelüsi</transcript>
+    <transcript2>gödelösi</transcript2>
+    <cyrillic>хөдлөш</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠥᠳᠡᠯᠥᠰᠢ</unicode>
+      <uighur>ködelüsi</uighur>
+      <cyrillic>хөдлөш</cyrillic>
+      <transcript>KØDELYSI</transcript>
+      <page>478</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠥᠳᠡᠯᠥᠰᠢ ᠦᠭᠡᠢ ᠵᠥᠭᠡᠷᠢ</unicode>
+          <transcript>-- ygei zøgeri,</transcript>
+          <definition>Immovable property, real estate</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠢᠩ ᠪᠢᠰᠢᠷᠡᠯ ᠡᠴᠡ ᠺᠥᠳᠡᠯᠥᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>cing bisirel ece -- ygei</transcript>
+          <definition>Unshakable [of] faith</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠦᠳᠡᠯᠦᠰᠢ ᠦᠭᠡᠢ</unicode>
+      <definition>inébranlable, dur, solide, ferme, constant,</definition>
+      <page>2590</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠩ ᠪᠢᠰᠢᠷᠡᠯ ᠡᠴᠡ ᠭᠦᠳᠡᠯᠦᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <definition>de la foi inébranlable</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠳᠡᠯᠥᠰᠢ</unicode>
+      <cyrillic>ХӨДЛӨШГҮЙ</cyrillic>
+      <definition>хөдөлбөргүй-г үз., хөдлөшгүй бат непоколебимый, прочный; хөдлөшгүй суурь незыблемая основа.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠳᠡᠯᠥᠰᠢ</unicode>
+      <cyrillic>ХӨДӨЛШГҮЙ</cyrillic>
+      <definition>хөдлөшгүй-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2595">
+  <head>
+    <unicode>ᠴᠣᠭᠣᠳᠠᠰᠣᠯᠠᠬᠣ</unicode>
+    <transcript>čuγudasulaqu</transcript>
+    <transcript2>cogodasolago</transcript2>
+    <cyrillic>цуудаслах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C2596</ref>
+    <ref>C2597</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠤᠭᠤᠳᠠᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>цуудаслах</cyrillic>
+      <definition>〔动〕分成片，分成块，截开，分开，剪开.</definition>
+      <page>1553</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠭᠣᠳᠠᠰᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЦУУДАСЛАХ</cyrillic>
+      <definition>разрывать, разделять, расщеплять на части. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠤᠭᠤᠳᠠᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>цуудаслах</cyrillic>
+      <definition>цуудас болгох.</definition>
+      <page>800</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q2539">
+  <head>
+    <unicode>ᠬᠠᠮᠵᠢᠬᠣ</unicode>
+    <transcript>qamǰiqu</transcript>
+    <transcript2>gamcigo</transcript2>
+    <cyrillic>хамжих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q2540</ref>
+    <ref>Q2541</ref>
+    <ref>Q2550</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠮᠵᠢᠬᠣ</unicode>
+      <uighur>qamǰiqu</uighur>
+      <cyrillic>хамжих</cyrillic>
+      <transcript>XAMZI-</transcript>
+      <definition>v. t. To do something together; to aid, help.</definition>
+      <page>926</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠮᠵᠢᠵᠤ ᠺᠢᠺᠦ</unicode>
+          <transcript>--zu kiky</transcript>
+          <definition> To do something together; to assist in doing something.</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠦᠴᠦᠨ ᠬᠠᠮᠵᠢᠬᠣ</unicode>
+          <transcript>kycyn --xu</transcript>
+          <definition> To give help.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠮᠵᠢᠬᠤ</unicode>
+      <definition>appartenir à, se rapporter à; être mis au nombre. être réuni, faire partie de, être joint à.</definition>
+      <page>812</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠠᠮᠵᠢᠬᠣ</unicode>
+      <uighur>qamǰiqu</uighur>
+      <definition>zu etwas gehören oder gerechnet seyn.</definition>
+      <page>134</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠠᠮᠵᠢᠬᠣ</unicode>
+      <uighur>qamǰiqu</uighur>
+      <definition>To belong to. To be counted among.</definition>
+      <page>533</page>
+      <examples>
+        <example>
+          <uighur>qamǰin negedgekü</uighur>
+          <definition>To unite together. To gather into one.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠮᠵᠢᠬᠤ</unicode>
+      <cyrillic>хамжих</cyrillic>
+      <definition>〔动〕①协力，共同，合伙，合作，搭帮，搭伙，搭档：~ж барьсан байшин 合伙建造的房屋；хамжсан үг 〈语〉同位语；хамжсан харьцаа 〈语〉同位关系；хамжсан хэлхэц 〈语〉同位短语；②帮助，帮忙，支持，支援：алив, хамжаач ! 来，帮一下忙！③〈语〉闭塞：~н шүргэх гийгүүлэгч 塞擦音；~ хориглол 闭塞；~ авиа 闭塞音；~ гийгүүлэгч 闭塞辅音.</definition>
+      <page>1298</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠮᠵᠢᠬᠣ</unicode>
+      <cyrillic>ХАМЖИХ</cyrillic>
+      <definition>делать что-л. совместно; приходить на помощь, на подмогу кому-л.; алив хамжаач! а ну-ка, помоги! </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хамжих</cyrillic>
+      <definition>gemeinsam machen; helfen; хамжиж барих gemeinsam od kollektiv [er]bauen; ~ авиа[н] Ling Verschlußlaut m</definition>
+      <page>290</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠮᠵᠢᠬᠤ</unicode>
+      <cyrillic>хамжих</cyrillic>
+      <definition>элбэх, хавсрах, хамтран хийх, хамсах; хэд хэдэн хүн хамжиж барьсан байшин; хамжииж авсан хашаа.</definition>
+      <page>655</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5920">
+  <head>
+    <unicode>ᠳᠣᠬᠣᠶᠢᠬᠣ</unicode>
+    <transcript>duquyiqu</transcript>
+    <transcript2>dogoyigo</transcript2>
+    <cyrillic>духайх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T5948</ref>
+    <ref>T5939</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠤᠬᠤᠢᠬᠤ</unicode>
+      <cyrillic>духайх</cyrillic>
+      <definition>〔动〕上部向前突击，上顶部前倾.</definition>
+      <page>451</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠬᠣᠶᠢᠬᠣ</unicode>
+      <cyrillic>ДУХАЙХ</cyrillic>
+      <definition>выступать верхней частью вперёд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>духайх</cyrillic>
+      <definition>nach vorn sinken od kippen</definition>
+      <page>101</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠤᠬᠤᠢᠬᠤ</unicode>
+      <cyrillic>духайх</cyrillic>
+      <definition>духгар болох.</definition>
+      <page>215</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T5677a</ref>
+  </related_to>
+</entry>

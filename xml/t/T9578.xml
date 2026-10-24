@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9578">
+  <head>
+    <unicode>ᠲᠥᠷᠺᠢᠺᠥ</unicode>
+    <transcript>türkikü</transcript>
+    <transcript2>dörgigö</transcript2>
+    <cyrillic>түрхэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T9575</ref>
+  </derivatives>
+  <see_also>
+    <ref>T9579</ref>
+    <ref>T9579a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠥᠷᠺᠢᠺᠥ</unicode>
+      <uighur>türkikü</uighur>
+      <cyrillic>түрхэх</cyrillic>
+      <transcript>TYRKI-</transcript>
+      <definition>v.t. To smear, annoint, put on, apply ( as cosmetics); to rub on.</definition>
+      <page>855</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠥᠷᠺᠢᠺᠥ ᠡᠮ</unicode>
+          <transcript>--ky em</transcript>
+          <definition> Ointment, unguent, liniment, salve.</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠤ᠎ᠠ ᠲᠥᠷᠺᠢᠺᠥ</unicode>
+          <transcript>ou-a --ky</transcript>
+          <definition> To apply facial powder.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠣᠰᠤ ᠲᠥᠷᠺᠢᠺᠥ</unicode>
+          <transcript>tosu --ky</transcript>
+          <definition> To apply oil or cream; to put butter on.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠦᠷᠺᠢᠺᠦ</unicode>
+      <definition>enduire, oindre, frotter de, mettre (les couleurs), peindre, mettre du (rouge): 2 s'ébrouer (du cheval).</definition>
+      <page>1954</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠥᠯ ᠳ᠋‍‍ᠤ‍ᠷ ᠲᠤᠰᠤᠨ ᠳᠦᠷᠺᠢᠺᠦ</unicode>
+          <definition>frotter le pied d'huile</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠥᠷᠺᠢᠺᠥ</unicode>
+      <uighur>dürkikü</uighur>
+      <definition>aufstreichen, anstreichen, auflegen (z. B. Farbe, Schminke u, s. w.),</definition>
+      <page>262</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠥᠷᠺᠢᠺᠥ</unicode>
+      <uighur>türkikü</uighur>
+      <definition>v.t. To smear, to daub, to paste, to apply (ointment, paint etc.). To rub.</definition>
+      <page>1042</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠦᠷᠬᠢᠬᠦ</unicode>
+      <cyrillic>түрхэх</cyrillic>
+      <definition>〔动〕涂，抹，镀；擦，搽：будаг ~ 抹颜料，上色；цавуу ~ 抹胶水；~ тос 涂油，润滑油；тос ~ 擦油，上油，抹油；эм ~ 抹药，上药；алт ~ 镀金；~ж барилах 〈医〉反击触诊；~н мэдээ алдуулах 涂油麻醉.</definition>
+      <page>1139</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠷᠺᠢᠺᠥ</unicode>
+      <cyrillic>ТҮРХЭХ</cyrillic>
+      <definition>смазывать, намазывать; натирать; тос түрхэх помазать маслом; энгэсэг түрхэх натереть лицо румянами; түрхэх тос смазка (үгчил. смазочное масло). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠦᠷᠬᠢᠬᠦ</unicode>
+      <cyrillic>түрхэх</cyrillic>
+      <definition>наалдуулах, нялах; будаг түрхэх; цавуу түрхэх; алт түрхэх; тос түрхэх; давс түрхэх; ус түрхэх.</definition>
+      <page>568</page>
+    </entry_item>
+  </entries>
+</entry>

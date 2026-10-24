@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2996">
+  <head>
+    <unicode>ᠳᠠᠷᠵᠢᠯᠵᠠᠬᠣ</unicode>
+    <transcript>darǰilǰaqu</transcript>
+    <transcript2>darcilcago</transcript2>
+    <cyrillic>даржилзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T2997</ref>
+  </derivatives>
+  <see_also>
+    <ref>T2995</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠷᠵᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>даржилзах</cyrillic>
+      <definition>〔动〕参见 даржигнах.</definition>
+      <page>396</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠷᠵᠢᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ДАРЖИЛЗАХ</cyrillic>
+      <definition>даржигнах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠷᠵᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>даржилзах</cyrillic>
+      <definition>даржгар юмны даржис даржис хийх.</definition>
+      <page>190</page>
+    </entry_item>
+  </entries>
+</entry>

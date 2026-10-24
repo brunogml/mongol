@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1086">
+  <head>
+    <unicode>ᠴᠠᠴᠠᠺᠲᠥ</unicode>
+    <transcript>čečegtü</transcript>
+    <transcript2>cecegdö</transcript2>
+    <cyrillic>цэцэгт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠴᠠᠺᠲᠥ</unicode>
+      <uighur>čečegtü</uighur>
+      <cyrillic>цэцэгт</cyrillic>
+      <transcript>CECEGTY</transcript>
+      <definition>See cecegtei.</definition>
+      <page>168</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠠᠴᠠᠺᠲᠥ ᠤᠷᠭᠤᠮᠠᠯ</unicode>
+          <transcript>-- urγumal</transcript>
+          <definition>Flowering plants.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠡᠴᠡᠺᠳᠡᠢ ~ ᠴᠡᠴᠡᠺᠳᠦ</unicode>
+      <definition>de fleur, couvert de fleurs, parsemé de fleurs</definition>
+      <page>2122</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠡᠴᠡᠭᠲᠦ ᠰᠠᠷᠠ</unicode>
+          <definition>mois des fleurs: quatrième mois indien (vâiçakha), avril et mai</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠡᠴᠡᠭᠲᠦ ᠲᠡᠷᠳᠡ</unicode>
+          <definition>damas parsemé de fleurs</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠴᠡᠭᠲᠦ</unicode>
+      <cyrillic>цэцэгт</cyrillic>
+      <definition>〔形〕有花的，带花的；开花的：~ ургамал 开花的植物；~ авдар 画有花儿的箱子；~ хайлслаг 〈植〉小冠花（属）.</definition>
+      <page>1569</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠴᠠᠺᠲᠥ</unicode>
+      <cyrillic>ЦЭЦЭГТ</cyrillic>
+      <definition>I имеющий цветы; цветущий; цветковый; с цветным узором; цэцэгт авдар сундук с рисунками цветов; цэцэгт байцаа ург. цветная капуста; цэцэгт байцааны шөл суп из цветной капусты; цэцэгт сар хуучир. древнеиндийский четвертый месяц (апрель-май); цэцэгт ургамал цветущие растения; баг цэцэгт ург.суд. сложноцветные; цэцэгт гоо шувуу. рогатые жаворонки; цэцэгт хайлслаг ург. вязель разноцветный.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠴᠠᠺᠲᠥ</unicode>
+      <cyrillic>ЦЭЦЭГТ</cyrillic>
+      <definition>II хуучир. больной оспой.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цэцэгт</cyrillic>
+      <definition>geblümt</definition>
+      <page>366</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠴᠡᠭᠲᠦᠳᠡᠷᠲᠡ</unicode>
+      <cyrillic>цэцэгт</cyrillic>
+      <definition>цэцэг бүхий; цэцэгт ургамал.</definition>
+      <page>808</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>C1076</ref>
+  </related_to>
+  <see_also>
+    <ref>C1083</ref>
+  </see_also>
+</entry>

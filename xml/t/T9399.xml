@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9399">
+  <head>
+    <unicode>ᠳᠥᠷᠪᠠᠯ</unicode>
+    <transcript>dörbel</transcript>
+    <transcript2>dörbel</transcript2>
+    <cyrillic>дөрвөл</cyrillic>
+  </head>
+  <see_also>
+    <ref>T9398</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠥᠷᠪᠡᠯ</unicode>
+      <cyrillic>дөрвөл</cyrillic>
+      <definition>〔名〕〈乐〉四部，四重（唱或奏）.</definition>
+      <page>429</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠥᠷᠪᠠᠯ</unicode>
+      <cyrillic>ДӨРВӨЛ</cyrillic>
+      <definition>хөгжим. квартет. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠥᠷᠪᠡᠯ</unicode>
+      <cyrillic>дөрвөл</cyrillic>
+      <definition>дөрвөөр дуулах буюу хөгжимдөхөд тохируулсан хөгжмийн зохиол; дөрвөл хөгжим; дөрвөл дуу.</definition>
+      <page>206</page>
+    </entry_item>
+  </entries>
+</entry>

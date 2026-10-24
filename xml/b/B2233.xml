@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B2233">
+  <head>
+    <unicode>ᠪᠢᠳᠠᠷᠲᠥ</unicode>
+    <transcript>bidertü</transcript>
+    <transcript2>biderdö</transcript2>
+    <cyrillic>бидэрт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠢᠳᠡᠷᠳᠡᠢ ~ ᠪᠢᠳᠡᠷᠳᠦ</unicode>
+      <definition>marqueté, tacheté, onduleux, ondoyant, couvert de figures,</definition>
+      <page>1139</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠳᠬᠤᠮᠠᠯ ᠪᠢᠳᠡᠷᠳᠦ ᠢᠰᠠᠷᠢ</unicode>
+          <definition>shall à ramage</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠢᠳᠠᠷᠲᠥ</unicode>
+      <cyrillic>БИДЭРТ</cyrillic>
+      <definition>крапчатый, пятнистый, с полосами (у животных); бидэрт шатан сүүлт амьт. сверчок пятнистый.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

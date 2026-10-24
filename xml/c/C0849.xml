@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C0849">
+  <head>
+    <unicode>ᠴᠠᠩᠯᠠᠺᠥ</unicode>
+    <transcript>čenglekü</transcript>
+    <transcript2>cenglegö</transcript2>
+    <cyrillic>чинлэх</cyrillic>
+  </head><derivatives>
+    <ref>C0850</ref>
+  
+    <ref>C0852</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠩᠯᠠᠺᠥ</unicode>
+      <uighur>čenglekü</uighur>
+      <transcript>CENGLE-</transcript>
+      <definition>Same as cengne-</definition>
+      <page>172</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠡᠩᠯᠡᠺᠦ ~ ᠴᠢᠩᠯᠡᠺᠦ</unicode>
+      <definition>peser, se servir de la balance pour savoir le poids de qc.</definition>
+      <page>2117</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠡᠩᠯᠡᠭᠦᠷ ᠢᠶᠡᠷ ᠴᠡᠩᠯᠡᠺᠦ</unicode>
+          <definition>peser, se servir de la balance</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠴᠠᠩᠯᠠᠺᠥ</unicode>
+      <uighur>čenglekü</uighur>
+      <definition>wägen, abwägen</definition>
+      <page>321</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠴᠠᠩᠯᠠᠺᠥ</unicode>
+      <uighur>čenglekü</uighur>
+      <definition>v.t. To weigh</definition>
+      <page>1294</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠩᠯᠡᠬᠦ</unicode>
+      <cyrillic>чинлэх</cyrillic>
+      <definition>〔动〕参见 чигнэх.</definition>
+      <page>1590</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠩᠯᠠᠺᠥ</unicode>
+      <cyrillic>ЦЭНЛЭХ</cyrillic>
+      <definition>весить на весах, взвешивать.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

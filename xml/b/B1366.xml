@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B1366">
+  <head>
+    <unicode>ᠪᠠᠷᠠᠯ</unicode>
+    <transcript>baral</transcript>
+    <transcript2>baral</transcript2>
+    <cyrillic>барал</cyrillic>
+  </head><derivatives>
+    <ref>B1360</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠠᠷᠠᠯ</unicode>
+      <definition>achèvement, action de finir,</definition>
+      <page>1097</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠷᠠᠯ</unicode>
+      <cyrillic>БАРАЛ</cyrillic>
+      <definition>окончание, завершение.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠷᠠᠯ</unicode>
+      <cyrillic>БАРАЛГҮЙ</cyrillic>
+      <definition>не кончая, не кончаясь.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E0866">
+  <head>
+    <unicode>ᠡᠯᠦᠨᠴᠡ</unicode>
+    <transcript>elünče</transcript>
+    <transcript2>elönce</transcript2>
+    <cyrillic>элэнц</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠯᠥᠨᠴᠠ</unicode>
+      <uighur>elünče</uighur>
+      <cyrillic>элэнц</cyrillic>
+      <transcript>ELYNCE</transcript>
+      <definition>n. Great-grandfather; great-grandmother.</definition>
+      <page>311</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠯᠥᠨᠴᠠ ᠡᠪᠦᠭᠡ</unicode>
+          <transcript>-- ebyge</transcript>
+          <definition> Great-grandfather.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠯᠥᠨᠴᠠ ᠡᠴᠢᠭᠡ</unicode>
+          <transcript>-- ecige</transcript>
+          <definition> Great-grandfather.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠯᠥᠨᠴᠠ ᠡᠺᠡ</unicode>
+          <transcript>-- eke</transcript>
+          <definition> Great-grandmother.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠯᠥᠨᠴᠠ ᠡᠮᠡᠭᠡ</unicode>
+          <transcript>-- emege</transcript>
+          <definition> Great-grandmother.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠠᠯᠥᠨᠴᠠ</unicode>
+      <uighur>elünče ebüge</uighur>
+      <definition>der Urgrossvater</definition>
+      <page>29</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠠᠯᠥᠨᠴᠠ</unicode>
+      <uighur>elünče emege</uighur>
+      <definition>die Urgrossmutter</definition>
+      <page>29</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠡᠯᠥᠨᠴᠠ</unicode>
+      <page>109</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠯᠦᠨᠴᠡ ᠡᠪᠦᠭᠡ</unicode>
+          <definition>n. Great grandfather. Ancestors.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠯᠦᠨᠴᠡ ᠡᠮᠡᠺᠡ</unicode>
+          <definition>n. Great grandmother. Ancestors.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠯᠦᠨᠴᠡ</unicode>
+      <cyrillic>элэнц</cyrillic>
+      <definition>〔名〕曾祖：~ эх, ~ эмэг 曾袓母；外曾祖母；~ эцэг, ~ өвөг 曾祖父；外曾祖父.</definition>
+      <page>1694</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠯᠥᠨᠴᠠ</unicode>
+      <cyrillic>ЭЛЭНЦ</cyrillic>
+      <definition>: элэнц эх / элэнц эмэг прабабушка; элэнц эцэг / элэнц өвөг прадед. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>элэнц[эг]</cyrillic>
+      <definition>Vorfahrm m; ~ эмэг od эх Urgroßmutter f; ~ эцэг od өвөг Urgroßvater m</definition>
+      <page>398</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠯᠦᠨᠴᠡ</unicode>
+      <cyrillic>элэнц</cyrillic>
+      <definition>өвгийн эцэг эх.</definition>
+      <page>875</page>
+    </entry_item>
+  </entries>
+</entry>

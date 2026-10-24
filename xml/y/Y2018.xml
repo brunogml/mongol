@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y2018">
+  <head>
+    <unicode>ᠶᠡᠲᠥᠺᠡᠷᠳᠡᠺᠥ</unicode>
+    <transcript>yetügerdekü</transcript>
+    <transcript2>yedögerdegö</transcript2>
+    <cyrillic>еэтгэрдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y2021</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠡᠲᠦᠭᠡᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>еэтгэрдэх</cyrillic>
+      <definition>〔动〕变得过弯，成弧线形.</definition>
+      <page>486</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠡᠲᠥᠺᠡᠷᠳᠡᠺᠥ</unicode>
+      <cyrillic>ЕЭТГЭРДЭХ</cyrillic>
+      <definition>становиться изогнутым, гнуться, изгибаться; ээтгэрдэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠡᠲᠡᠭᠡᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>еэтгэрдэх</cyrillic>
+      <definition>хэтэрхий еэтгэр болох.</definition>
+      <page>234</page>
+    </entry_item>
+  </entries>
+</entry>

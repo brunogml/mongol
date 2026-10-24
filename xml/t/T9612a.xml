@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9612a">
+  <head>
+    <transcript>trapeč</transcript>
+    <transcript2>drapec</transcript2>
+    <cyrillic>трапец</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲ᠋ᠷᠠᠫᠧᠼ</unicode>
+      <cyrillic>трапец</cyrillic>
+      <definition>〔形〕〈数〉梯形.</definition>
+      <page>1105</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>трапец</cyrillic>
+      <definition>Trapez n</definition>
+      <page>237</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠷᠠᠫᠧᠼ</unicode>
+      <cyrillic>трапец</cyrillic>
+      <definition>хоёр тал нь зэргэд, хоёр тал нь зэргэд биш дөрвөн өнцөгт.</definition>
+      <page>553</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N2184">
+  <head>
+    <unicode>ᠨᠣᠲ᠋ᠠᠷᠢᠥᠰ</unicode>
+    <transcript>notarius</transcript>
+    <transcript2>nodarios</transcript2>
+    <cyrillic>нотариус</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠣᠲ᠋ᠠᠷᠢᠦ᠋ᠰ</unicode>
+      <cyrillic>нотариус</cyrillic>
+      <definition>〔名〕公证人，公证员.</definition>
+      <page>750</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠣᠲ᠋ᠠᠷᠢᠥᠰ</unicode>
+      <cyrillic>НОТАРИУС</cyrillic>
+      <definition>хууль. нотариус; нотариусын баталгаатай хуулбар нотариальная копия. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>нотариус</cyrillic>
+      <definition>Notar m</definition>
+      <page>158</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠣᠲ᠋ᠠᠷᠢᠤᠰ</unicode>
+      <cyrillic>нотариус</cyrillic>
+      <definition>аливаа гэрээ хэлэлцээг албан ёсоор гэрчлэгч тушаалтан.</definition>
+      <page>382</page>
+    </entry_item>
+  </entries>
+</entry>

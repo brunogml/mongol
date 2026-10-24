@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0011">
+  <head>
+    <unicode>ᠬᠠᠣᠯᠢ</unicode>
+    <transcript>qauli</transcript>
+    <transcript2>gaoli</transcript2>
+    <cyrillic>хууль</cyrillic>
+  </head>
+  <see_also>
+    <ref>Q0012</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠣᠯᠢ</unicode>
+      <uighur>qauli</uighur>
+      <cyrillic>хууль</cyrillic>
+      <transcript>XAULI</transcript>
+      <definition>n. Usage, custom; law, rule, regulation, statute, decree; codex; punishment.</definition>
+      <page>946</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠣᠯᠢ ᠪᠠᠶᠢᠭᠤᠯᠬᠤ</unicode>
+          <transcript>-- baiγulxu</transcript>
+          <definition> To introduce a custom or a law.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠣᠯᠢ ᠪᠠᠷᠢᠭᠴᠢ</unicode>
+          <transcript>-- bariγci</transcript>
+          <definition> Enforcer of the law, official.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠣᠯᠢ ᠪᠡᠷ</unicode>
+          <transcript>-- ber</transcript>
+          <definition> According to law.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠣᠯᠢ ᠪᠡᠷ ᠬᠠᠮᠠᠭᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+          <transcript>-- ber xamaγalaγulxu</transcript>
+          <definition> To place under the protection of the law.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠣᠯᠢ ᠪᠤᠰᠤ</unicode>
+          <transcript>-- busu</transcript>
+          <definition> Illegal.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠣᠯᠢ ᠪᠤᠰᠤ ᠪᠡᠷ</unicode>
+          <transcript>-- busu ber</transcript>
+          <definition> Unlawfully, illegally.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠣᠯᠢ ᠴᠠᠭᠠᠵᠠ</unicode>
+          <transcript>-- caγaza</transcript>
+          <definition> Law.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠣᠯᠢ ᠴᠠᠭᠠᠵᠠ ᠎ᠶᠢ ᠰᠢᠨᠵᠢᠯᠡᠺᠦ ᠤᠬᠠᠭᠠᠨ</unicode>
+          <transcript>-- caγaza ji sinzileky uxaγan</transcript>
+          <definition> Jurisprudence, science of law.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠣᠯᠢ ᠳᠦᠷᠢᠮ</unicode>
+          <transcript>-- dyrim</transcript>
+          <definition> Laws, statutes, legislation; rules.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠣᠯᠢ ᠭᠠᠷᠭᠠᠬᠤ</unicode>
+          <transcript>-- γarγaxu</transcript>
+          <definition> To introduce or originate a law.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠣᠯᠢ ᠎ᠶᠢᠨ</unicode>
+          <transcript>-- jin </transcript>
+          <definition>Legal</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠣᠯᠢ ᠎ᠶᠢᠨ ᠡᠲᠡᠭᠡᠳ</unicode>
+          <transcript>-- jin eteged</transcript>
+          <definition> Legal body.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠣᠯᠢ ᠎ᠶᠢᠨ ᠶᠣᠰᠤᠭᠠᠷ</unicode>
+          <transcript>-- jin josuγar</transcript>
+          <definition> Legally, according to law.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠣᠯᠢ ᠶᠣᠰᠤ</unicode>
+          <transcript>-- josu</transcript>
+          <definition> Law; rule and custom.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠣᠯᠢ ᠶᠣᠰᠤᠨ ᠪᠤᠰᠤ ᠎ᠶᠢᠨ</unicode>
+          <transcript>-- josun busu jin </transcript>
+          <definition>Illegal, unlawful</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠣᠯᠢ ᠶᠣᠰᠤᠨ ᠢᠶᠠᠷ</unicode>
+          <transcript>-- josun ijer</transcript>
+          <definition> Legally, according to law.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠣᠯᠢ ᠲᠣᠭᠲᠠᠭᠠᠬᠤ</unicode>
+          <transcript>-- toγtaγaxu</transcript>
+          <definition> To make a law, establish rules, establish a usage</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠣᠯᠢ ᠲᠣᠭᠲᠠᠭᠠᠬᠤ ᠡᠺᠡ</unicode>
+          <transcript>-- toγtaγaxu erke</transcript>
+          <definition> Legislative power</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠣᠯᠢ ᠲᠣᠭᠲᠠᠭᠠᠬᠤ ᠬᠤᠷᠠᠯ</unicode>
+          <transcript>-- toγtaγaxu xural</transcript>
+          <definition> Legislative assembly.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠣᠯᠢ ᠬᠠᠮᠠᠭᠠᠯᠠᠭᠴᠢ</unicode>
+          <transcript>-- xamaγalaγci</transcript>
+          <definition> Defender of the law; public prosecutor</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠣᠯᠢ ᠵᠠᠷᠯᠠᠯ</unicode>
+          <transcript>-- zarlal</transcript>
+          <definition> Law, ordinance.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠣᠯᠢ ᠵᠠᠷᠯᠠᠬᠤ</unicode>
+          <transcript>--zarlaxu</transcript>
+          <definition> To decree, make a law.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠣᠯᠢ ᠵᠣᠺᠢᠶᠠᠬᠤ</unicode>
+          <transcript>--zokijaxu</transcript>
+          <definition> To compile laws, give laws; to legislate.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠣᠯᠢ ᠵᠥᠷᠴᠢᠺᠦ ᠡᠲᠡᠭᠡᠳ</unicode>
+          <transcript>-- zørciky eteged</transcript>
+          <definition> Law-breakers, criminal elements.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠠᠶᠢᠭᠠᠯᠢ ᠎ᠶᠢᠨ ᠬᠠᠣᠯᠢ</unicode>
+          <transcript>baiγali jin -- </transcript>
+          <definition> Law of nature.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠷᠡᠭᠦᠦ ᠎ᠶᠢᠨ ᠬᠠᠣᠯᠢ</unicode>
+          <transcript>eregyy jin -- </transcript>
+          <definition> Criminal law.</definition>
+        </example>
+        <example>
+          <unicode>ᠢᠷᠭᠡᠨ ᠤ ᠬᠠᠣᠯᠢ ᠵᠦᠢᠯ</unicode>
+          <transcript>irgen y -- [zyil] </transcript>
+          <definition> Civil law.</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠡᠪ ᠬᠠᠣᠯᠢ</unicode>
+          <transcript>keb --</transcript>
+          <definition> Customary law.</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠣᠮ ᠤᠨ ᠬᠠᠣᠯᠢ</unicode>
+          <transcript>nom un --</transcript>
+          <definition> Religious law.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠤᠪᠢᠰᠬᠠᠯᠲᠤ ᠬᠠᠣᠯᠢ</unicode>
+          <transcript>xubisxaltu -- </transcript>
+          <definition> Revolutionary law.</definition>
+        </example>
+        <example>
+          <unicode>ᠦᠨᠳᠦᠰᠦᠨ ᠬᠠᠣᠯᠢ</unicode>
+          <transcript>yndysyn -- </transcript>
+          <definition> Fundamental law, constitution, basic law.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠤᠯᠢ</unicode>
+      <definition>usage, coutume. moeurs, usage reçu , tradition, régle , réglement: 2 évenement; conte, vieille histoire: 3 chez l. Bour. prix.</definition>
+      <page>716</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠷᠢᠳᠠᠺᠢ ᠬᠠᠤᠯᠢ ᠎ᠶᠢ ᠲᠤᠷᠠᠳᠬᠤ</unicode>
+          <definition>se rappeler une ancienne tradition, une vieille anecdote</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠣᠮ ᠤᠨ ᠬᠠᠤᠯᠢ</unicode>
+          <definition>usages religieux, cérémonies religieuses</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠤᠯᠢ ᠦᠭᠡᠢ</unicode>
+          <definition>peu ordinaire, inaccoutumé, inconvenant, mal fondé; 2 ne convient pas</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠤᠯᠢ ᠡᠴᠦᠳᠺᠦ</unicode>
+          <definition>abolir un usage</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠤᠯᠢ ᠭᠠᠷᠭᠠᠬᠤ</unicode>
+          <definition>introduire un usage, publier une loi</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠤᠯᠢ ᠪᠠᠶᠢᠭᠤᠯᠬᠤ</unicode>
+          <definition>introduire un usage, régler, établir la loi</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠤᠯᠢ ᠪᠠᠷᠢᠭᠴᠢ</unicode>
+          <definition>exécuteur de la loi, fonctionnaire</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠤᠯᠢ ᠪᠣᠯᠬᠤ</unicode>
+          <definition>être en usage</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠤᠯᠢ ᠲᠣᠭᠲᠠᠭᠠᠬᠤ</unicode>
+          <definition>mettre en usage, établir l'usage, régler, dicter une règle</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠤᠯᠢ ᠳᠦᠷᠢᠮ</unicode>
+          <definition>usage légal, règle, loi</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠤᠯᠢ ᠵᠣᠰᠤᠨ</unicode>
+          <definition>usage, usage reçu, loi, règle</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠤᠯᠢ ᠶᠣᠰᠤᠭᠠᠷ ᠺᠢᠺᠦ</unicode>
+          <definition>agir selon les lois</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠣᠨᠣᠰᠤᠭᠰᠠᠨ ᠬᠠᠤᠯᠢ ᠎ᠶᠢ ᠥᠭᠦᠯᠡᠺᠦ</unicode>
+          <definition>raconter une tradition, une vieille histoire</definition>
+        </example>
+        <example>
+          <unicode>ᠱᠠᠰᠢᠨ ᠤ ᠬᠠᠤᠯᠢ ᠎ᠶᠢ ᠪᠠᠶᠢᠭᠤᠯᠬᠤ</unicode>
+          <definition>établir ou rétablir la loi de la religion</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠠᠭᠠᠵᠠ ᠬᠠᠤᠯᠢ</unicode>
+          <definition>usage reçu, règlement</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠡᠪ ᠬᠠᠤᠯᠢ</unicode>
+          <definition>ancien usage, usage ordiniare, coutume</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠠᠣᠯᠢ</unicode>
+      <uighur>qaoli - qouli</uighur>
+      <definition>das Recht, die rechtliche oder geselzliche Sitte</definition>
+      <page>126</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠠᠣᠯᠢ</unicode>
+      <uighur>qauli</uighur>
+      <definition>n. Law. Laws. Statutes. Legitimate customs.</definition>
+      <page>500</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠤᠯᠢ ᠎ᠶᠢᠨ ᠪᠠᠬᠰᠢ</unicode>
+          <definition>n. An attorney,</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠤᠯᠢ ᠳᠤᠬᠳᠠᠭᠠᠬᠤ</unicode>
+          <definition>v.t. To ordain or set up laws. To confirm as law.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠤᠯᠢ ᠳᠤᠬᠳᠠᠭᠠᠬᠤ ᠡᠷᠺᠡ</unicode>
+          <definition>Judiciary power of the Government.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠤᠯᠢ ᠲᠦᠷᠦᠮ</unicode>
+          <definition>n. Custorn, usage.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠤᠯᠢ ᠵᠠᠺᠢᠷᠠᠬᠤ ᠡᠷᠺᠡ</unicode>
+          <definition>n. Legislative power of the Government</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠤᠯᠢ</unicode>
+      <cyrillic>хууль</cyrillic>
+      <definition>〔名〕〈法〉①法，法令，法律；法典：үндсэн ~ 宪法；根本法；~ биелүүлэх, ~ гүйцэтгэх 执行法律，执法；~ цаазны бичиг 法典；эрүүгийн ~ 刑法；иргэний ~ 民法；хөдөлмөрийн ~ 劳动法；гэр бүлийн ~ 家庭法；ургийн ~ 婚姻法；хуулийн нас 成年；法定年龄；хуулийн төлөвлөгөө 法案；хуулийн этгээд 法人；~ тогтоомж 法令；~ тогтоол 法规；~ тогтоох 立法；~ гаргах 颁布法律；~ сахих 守法；~ сахигч, ~ хамгаалагч 检察员；хуулийн байгууллага 司法机关；хуулийн суртал нэвтрүүлэг 法律宣传，法纪宣传；~ болих 法律废止，法律废除；~ бус 不合法的，非法的；~ бус ажиллагаа, ~ бус явдал, ~ бус үйлдэл 非法行为，不法行为；~ бус хэвлэл 非法出版物；伪版；~ бусаар 非法地，违法地；~ ёсны үүрэг 应尽的义务，法定的责任；~ бусаар арилжаалах 非法交易，走私；~ ёсны 合法的，法定的；~ ёсны асрагч 监护人；~ ёсны байр суурь 法定地位，合法地位；~ ёсны болгох 使合法化；~ ёсны журам 法定程序；~ цаазат улс 法制国家；~ ёсны засгийн газар 合法政府；~ ёсны хугацаа 法定期限；~ ёсны эрх 合法权力，法定权力；~ ёсоор 依法；~ ёсоор шийтгэх 依法判决，依法惩处；~ журам 法规；~ зөрчих, ~ гажих 违法；~д үл нийцэх 不合法；~ цааз 法律，法规，法制，合法性；~ цаазны зөвлөх 法律顾问；~ цаазны товчоо 法律事务所；~ цаазны ухаан 法律学；~ цаазны эмч 法医；~ цаазны дээд сургууль 法学院；~ цаазач 法律家；律师；◊ ~ цааз, ~ ёс 法律；②规律，定律，法则：нийгмийн хөгжлийн ~ 社会发展规律；байгалийн ~ 自然规律；сэтгэхүйн ~ 思维规律；③法规，规则，章程，制度：~ дүрэм (1)法律，法规；(2)规则，章程，制度；~ дүрэм ёсоор шийтгэх 依法制裁；хэв ~ 常规.</definition>
+      <page>1443</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠣᠯᠢ</unicode>
+      <cyrillic>ХУУЛИЙН</cyrillic>
+      <definition>хууль-ийн харьяал., законный; юридический, судебный; хуулийн байгууллага / хуулийн газар законодательное учреждение, судебный орган, суд; хуулийн ёсоор согласно закону, по закону; хуулийн ёсоор (цаазаар) аваачих казнить, предавать казни; хуулийн зүйл статья закона; кодекс законов; иргэний хуулийн зүйл кодекс гражданских законов; хуулийн нас совершеннолетие (үгчил. законный возраст); хуулийн төлөвлөгөө законопроект; хуулийн төсөл законопроект; хуулийн хамгийн хатуугаар шийтгэгдэх караться по всей строгости законов; хуулийн хариуцлага ответственность перед законом; хуулийн хүч сила закона; хуулийн эмхтгэл свод законов; хуулийн этгээд юридическое лицо. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хууль</cyrillic>
+      <definition>Gesetz n, Dekret n; ~ болгох gesetzlich verankern; ~ бус gesetzlos, illegal; ~ дурэм Gesetzesbestimmung f, Rechtsvorschrift f; ~ ёс[он] Gesetzlichkeit f, Legitimität f; ~ ёсны gesetzlich, legitim, rechtmäßig, legal; ~ ёсны эзэн rechtmäßiger Eigentümer; ~ зөрчигч Gesetzesbrecher m; ~ зөрчих ein Gesetz verletzen, gegen die Gesetze verstoßen; ~ зүй Justiz f, Rechtspflege f; ~ сахих die Gesetze einhalten; ~ тогтоогч Gesetzgeber m; ~ тогтоох байгуулага gesetzgebendes Organ; ~ хамгаалагч od сахигч Staatsanwalt m; ~ цааз[ан] Jura Pl, Rechtspflege f; ~ цаазач Jurist m; ~ цаазны ухаан Jurisprudenz f, Rechtswissenschaft f; ~д харш gesetzwidrig, widerrechtlich; гэр булийн ~ Familienrecht n; иргэний ~ Zivilrecht n</definition>
+      <page>331</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠤᠯᠢ</unicode>
+      <cyrillic>хууль</cyrillic>
+      <definition>1. тогтмол зүйн дотор илэрч гарах жинхэнэ үнэн байдлын аливаа үзэгдлүүдийн хоорондын холбоо ба харьцах зүй тогтоол; байгалийн хууль; нийгмийн хөгжлийн хууль; сэтгэхүйн хууль;2. засгийн дээд эрхийг барих газраас заавал дагаж шийтгүүлэхээр баталсан тогтоол;хууль цааз&lt;хорш&gt;;хууль дүрэм&lt;хорш&gt;;3. нийтээр заавал дагаж журамлах ёстой гэж үзсэн зүйл;хэв хууль&lt;хорш&gt;; улсын төлөвлөгөө бол хууль.</definition>
+      <page>737</page>
+    </entry_item>
+  </entries>
+</entry>

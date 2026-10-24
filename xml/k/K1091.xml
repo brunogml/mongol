@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1091">
+  <head>
+    <transcript>kečegütgekü</transcript>
+    <transcript2>gecegödgegö</transcript2>
+    <cyrillic>хэцүүтгэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K1092</ref>
+    <ref>K1090</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠴᠡᠭᠦᠳᠬᠡᠬᠦ</unicode>
+      <cyrillic>хэцүүтгэх</cyrillic>
+      <definition>〔动〕хэцүүтэх 的使动态.</definition>
+      <page>1496</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ХЭЦҮҮТГЭХ</cyrillic>
+      <definition>хэцүүтэх-ийн үйлдүүл., затруднять. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠴᠡᠭᠦᠳᠬᠡᠬᠦ</unicode>
+      <cyrillic>хэцүүтгэх</cyrillic>
+      <definition>хэцүүтэхийн үйлдүүлэх хэв, улмаар хэцүү болгох.</definition>
+      <page>768</page>
+    </entry_item>
+  </entries>
+</entry>

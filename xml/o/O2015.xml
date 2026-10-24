@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O2015">
+  <head>
+    <unicode>ᠥᠷᠥᠺᠠᠯᠠᠺᠥ</unicode>
+    <transcript>örügelekü</transcript>
+    <transcript2>örögelegö</transcript2>
+    <cyrillic>өрөөлөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>O2016</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠷᠥᠭᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>өрөөлөх</cyrillic>
+      <definition>〔动〕①分开，隔开；使成房间；把房间隔开来；②使变为另外的样子.</definition>
+      <page>861</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠷᠥᠺᠠᠯᠠᠺᠥ</unicode>
+      <cyrillic>ӨРӨӨЛӨХ</cyrillic>
+      <definition>отгораживать (напр. комнату). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠷᠥᠭᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>өрөөлөх</cyrillic>
+      <definition>өрөө болгох.</definition>
+      <page>445</page>
+    </entry_item>
+  </entries>
+</entry>

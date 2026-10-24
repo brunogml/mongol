@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q2558">
+  <head>
+    <unicode>ᠬᠠᠮᠺᠢᠬᠳᠠᠬᠣ</unicode>
+    <transcript>qamkiγdaqu</transcript>
+    <transcript2>gamgigdago</transcript2>
+    <cyrillic>хамхигдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q2556</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠮᠬᠢᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>хамхигдах</cyrillic>
+      <definition>〔动〕хамхих 的被动态.</definition>
+      <page>1300</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠮᠺᠢᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ХАМХИГДАХ</cyrillic>
+      <definition>хамхих-ийн үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠮᠬᠢᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>хамхигдах</cyrillic>
+      <definition>хамхихын үйлдэгдэх хэв.</definition>
+      <page>656</page>
+    </entry_item>
+  </entries>
+</entry>

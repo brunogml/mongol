@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5932">
+  <head>
+    <unicode>ᠲᠣᠬᠣᠶᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>toquyilaγulqu</transcript>
+    <transcript2>dogoyilagolgo</transcript2>
+    <cyrillic>тохойлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T5930</ref>
+  </related_to>
+  <see_also>
+    <ref>T5933</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠬᠣᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тохойлуулах</cyrillic>
+      <definition>〔动〕тохойлох 的使动态.</definition>
+      <page>1088</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠬᠣᠶᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТОХОЙЛУУЛАХ</cyrillic>
+      <definition>тохойлох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тохойлуулах</cyrillic>
+      <definition>Kaus von тохойлох</definition>
+      <page>233</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠬᠣᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тохойлуулах</cyrillic>
+      <definition>тохойлохын үйлдүүлэх хэв.</definition>
+      <page>547</page>
+    </entry_item>
+  </entries>
+</entry>

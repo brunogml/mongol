@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0046">
+  <head>
+    <unicode>ᠶᠠᠨᠳᠠᠭᠠᠯᠠᠬᠣ</unicode>
+    <transcript>yandaγalaqu</transcript>
+    <transcript2>yandagalago</transcript2>
+    <cyrillic>яндаалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y0047</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠠᠨᠳᠠᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>яндаалах</cyrillic>
+      <definition>〔动〕以量筒或量杯量物.</definition>
+      <page>1753</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠠᠨᠳᠠᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЯНДААЛАХ</cyrillic>
+      <definition>яндах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>яндаалах</cyrillic>
+      <definition>mit dem Meßgerät abmessen</definition>
+      <page>415</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠠᠩᠳᠠᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>яндаалах</cyrillic>
+      <definition>яндаагаар хэмжих.</definition>
+      <page>907</page>
+    </entry_item>
+  </entries>
+</entry>

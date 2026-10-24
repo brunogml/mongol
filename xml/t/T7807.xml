@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7807">
+  <head>
+    <unicode>ᠲᠣᠷᠨᠢᠬᠣ</unicode>
+    <transcript>torniqu</transcript>
+    <transcript2>dornigo</transcript2>
+    <cyrillic>торних</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T7809</ref>
+    <ref>T7810</ref>
+  </derivatives>
+  <see_also>
+    <ref>T7808</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠷᠨᠢᠬᠣ</unicode>
+      <uighur>torniqu</uighur>
+      <cyrillic>торних</cyrillic>
+      <transcript>TORNI-</transcript>
+      <definition>[= tarni-] v.i. To grow, grow up (of children and young animals); to stand on one's feet; to improve (of health).</definition>
+      <page>827</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠡᠦᠺᠡᠳ ᠲᠣᠷᠨᠢᠬᠣ</unicode>
+          <transcript>keyked --xu</transcript>
+          <definition> For the children to grow.</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠢᠳᠦ ᠲᠣᠷᠨᠢᠬᠣ</unicode>
+          <transcript>nidy --xu</transcript>
+          <definition> To open the eyes wide; to stare.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠷᠨᠢᠬᠤ ~ ᠳᠠᠷᠨᠢᠬᠤ</unicode>
+      <definition>embellir (enfant qui va en embellissant chaque jour): 2 ouvrir.</definition>
+      <page>1890</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠢᠳᠦᠨ ᠳᠤᠷᠨᠢᠬᠤ</unicode>
+          <definition>ouvrir de grands yeux, badauder</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠣᠷᠨᠢᠬᠣ</unicode>
+      <uighur>durniqu</uighur>
+      <definition>siehe tarniqu</definition>
+      <page>253</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠷᠨᠢᠬᠤ</unicode>
+      <cyrillic>торних</cyrillic>
+      <definition>〔动〕成长，长大：хүүхэд ~ж байна 孩子在成长.</definition>
+      <page>1082</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠷᠨᠢᠬᠣ</unicode>
+      <cyrillic>ТОРНИХ</cyrillic>
+      <definition>1) растљ, подрастать, мужать; 2) становљться на ноги, поправляться; өсч торних мужать; торнин төлжих подрастать; 3) похорошеть, поправляться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>торних</cyrillic>
+      <definition>1. heranwachsen, sich entwickeln; reifen
+2. auf dem Weg der Genesung sein</definition>
+      <page>231</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠷᠨᠢᠬᠤ</unicode>
+      <cyrillic>торних</cyrillic>
+      <definition>амьтны багаасаа баахан бойжих; хүүхэд торниж байна; ишиг торних.</definition>
+      <page>545</page>
+    </entry_item>
+  </entries>
+</entry>

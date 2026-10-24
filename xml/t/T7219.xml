@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7219">
+  <head>
+    <unicode>ᠲᠣᠮᠪᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tumbaγanaγulqu</transcript>
+    <transcript2>dombaganagolgo</transcript2>
+    <cyrillic>тумбагануулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T7217</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠮᠪᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тумбагануулах</cyrillic>
+      <definition>〔动〕тумбаганах 的使动态.</definition>
+      <page>1112</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠮᠪᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТУМБАГАНУУЛАХ</cyrillic>
+      <definition>тумбаганах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тумбагануулах</cyrillic>
+      <definition>Kaus von тумбаганах</definition>
+      <page>238</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠮᠪᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тумбагануулах</cyrillic>
+      <definition>тумбаганахын үйлдүүлэх хэв.</definition>
+      <page>556</page>
+    </entry_item>
+  </entries>
+</entry>

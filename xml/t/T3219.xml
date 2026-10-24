@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T3219">
+  <head>
+    <unicode>ᠲᠠᠩᠰᠠ</unicode>
+    <transcript>tengse</transcript>
+    <transcript2>dengse</transcript2>
+    <cyrillic>тэнс</cyrillic>
+  </head><derivatives>
+    <ref>T3248</ref>
+  </derivatives><see_also>
+    <ref>T3220</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠩᠰᠠ</unicode>
+      <uighur>dengse</uighur>
+      <definition>ein Memorial; Notizenbuch</definition>
+      <page>239</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠩᠰᠠ</unicode>
+      <uighur>tengse</uighur>
+      <definition>n. A notebook. A memorandum book. An accoun book</definition>
+      <page>943</page>
+      <examples>
+        <example>
+          <uighur>tengse silγaqu erke</uighur>
+          <definition>Civil service. Examinations.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠩᠰᠠ</unicode>
+      <cyrillic>ТЭНС</cyrillic>
+      <definition>ург. камыш. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

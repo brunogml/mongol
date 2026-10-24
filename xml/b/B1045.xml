@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1045">
+  <head>
+    <unicode>ᠪᠠᠵᠢᠭᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>baǰiγadaγulqu</transcript>
+    <transcript2>bacigadagolgo</transcript2>
+    <cyrillic>бажгадуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B1043</ref>
+  </related_to>
+  <variants>
+    <variant type="cyrillic">бажигадуулах</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠵᠢᠭᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бажгадуулах</cyrillic>
+      <definition>〔动〕бажгадах 的使动态.</definition>
+      <page>112</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠵᠢᠭᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БАЖГАДУУЛАХ</cyrillic>
+      <definition>бажгадах-ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠵᠢᠭᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бажигадуулах</cyrillic>
+      <definition>〔动〕бажигадах 的使动态.</definition>
+      <page>112</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бажгадуулах</cyrillic>
+      <definition>1. Kaus von бажгадах
+2. verwirren, konfus machen, in Verlegenheit bringen</definition>
+      <page>42</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠵᠢᠭᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бажгадуулах</cyrillic>
+      <definition>бажгадахын үйлдүүлэх хэв.</definition>
+      <page>67</page>
+    </entry_item>
+  </entries>
+</entry>

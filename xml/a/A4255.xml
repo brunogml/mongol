@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A4255">
+  <head>
+    <unicode>ᠠᠷᠪᠠᠲᠣ</unicode>
+    <transcript>arbatu</transcript>
+    <transcript2>arbado</transcript2>
+    <cyrillic>аравт</cyrillic>
+  </head>
+  <see_also>
+    <ref>A4256</ref>
+    <ref>A4252</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠷᠪᠠᠲᠣ</unicode>
+      <uighur>arbatu</uighur>
+      <cyrillic>аравт</cyrillic>
+      <transcript>ARBATU</transcript>
+      <definition>adj. and n. Bearing the number ten; decimal.</definition>
+      <page>50</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠷᠪᠠᠲᠣ ᠎ᠶᠢᠨ ᠪᠤᠲᠠᠷᠬᠠᠢ</unicode>
+          <transcript>-- jin butarxai</transcript>
+          <definition>Decimal fraction.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠷᠪᠠᠲᠤ</unicode>
+      <cyrillic>аравт</cyrillic>
+      <definition>〔数〕以十为单位的，十进位的：~ын цаас 十元的纸币；~ын бутархай 〈数〉小数；~ын ангилал 十进分类法；~ын дэвсгэр 十元大票；~ын жин 十分称（感量1/100克）；~ын журам нарийвчлах 十进位制；~ын тогтолцоо 〈语〉十进法；十进位制.</definition>
+      <page>70</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠷᠪᠠᠲᠣ</unicode>
+      <cyrillic>АРАВТ</cyrillic>
+      <definition>1. 1) десятка, десятирублёвка; червонец; гривенник; бүхэл аравт купюра в десять тугриков; десятирублёвка; чамд задгай мөнгө байна уу? ганц аравт л байна у вас есть мелочь? у меня есть десятка (единственный гривенник); 2) түүх. десяток (отряд, низшее подразделение в монгольских войсках); Доржийн аравт десяток командира Доржа; 3) хөзөр. десятка (в картах); 2. десятитугриковый; десятирублёвый денежный знак; тусг. децимальный; десятичный; аравт суурь основание десятичное; аравт тогтолцоо система десятичная.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠷᠪᠠᠲᠣ</unicode>
+      <cyrillic>АРАВТЫН</cyrillic>
+      <definition>аравт–ын харьяал., десятичный, децимальный; десятирублёвый; десятеричный, десятериковый; аравтын ангилал десятичная классификация; аравтын бутархай тоо. десятичная дробь; аравтын дарга десятник; барилгын аравтын даамал / аравтын дарга строительный десятник; аравтын дэвсгэр десятка, десятитугриковая (десяти¬рублёвая) бумажка, червонец, десятирублёвка, десятизначная купюра; аравтын жинлүүр десятичные весы; аравтын логарифм тоо. десятичные логарифмы; аравтын мөнгө гривенник, десятичная монета.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>аравт</cyrillic>
+      <definition>Fin Zehner m, Groschen m; Kart Zehn f; ~ нь zehntens</definition>
+      <page>33</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>аравтын</cyrillic>
+      <definition>(Gen von аравт) Dezimal-; ~ бутархай Math Dezimalbruch m; ~ систем Math Dezimalsystem n; ~ тоолол Math Dezimalrechnung f</definition>
+      <page>33</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠷᠪᠠᠲᠤ</unicode>
+      <cyrillic>аравт</cyrillic>
+      <definition>арван юмаар бүрэлдсэн зүйлс; аравтын мөнгө; аравтын цаас.</definition>
+      <page>48</page>
+    </entry_item>
+  </entries>
+</entry>

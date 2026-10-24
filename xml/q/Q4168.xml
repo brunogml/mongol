@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4168">
+  <head>
+    <unicode>ᠭᠣᠨᠵᠣᠭᠣᠢ</unicode>
+    <transcript>γunǰuγui</transcript>
+    <transcript2>goncogoi</transcript2>
+    <cyrillic>гунзгай</cyrillic>
+  </head>
+  <see_also>
+    <ref>Q4167</ref>
+    <ref>Q4168a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠤᠨᠵᠣᠭᠣᠢ</unicode>
+      <definition>ovale: 2 hauteur, extension, longueur</definition>
+      <page>1021</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠤᠨᠵᠣᠭᠣᠢ ᠳᠣᠯᠤᠭᠠᠢ</unicode>
+          <definition>tête oblongue, ovale</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠤᠨᠵᠤᠭᠤᠢ</unicode>
+      <cyrillic>гунзгай</cyrillic>
+      <definition>〔形〕见 гонзгой.</definition>
+      <page>327</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠨᠵᠣᠭᠣᠢ</unicode>
+      <cyrillic>ГУНЗГАЙ</cyrillic>
+      <definition>яриа. продолговатый; гонзгой-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠨᠵᠣᠭᠣᠢ</unicode>
+      <cyrillic>ГУНЗГУЙ</cyrillic>
+      <definition>яриа. овальный, продолговатый; гонзгой-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠤᠨᠵᠤᠭᠠᠢ</unicode>
+      <cyrillic>гунзгай</cyrillic>
+      <definition>гонзгой.</definition>
+      <page>159</page>
+    </entry_item>
+  </entries>
+</entry>

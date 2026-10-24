@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0016">
+  <head>
+    <unicode>ᠪᠠᠨᠰᠢ</unicode>
+    <transcript>bansi</transcript>
+    <transcript2>bansi</transcript2>
+    <cyrillic>банш</cyrillic>
+  </head>
+  <see_also>
+    <ref>B0082</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠠᠨᠰᠢ</unicode>
+      <uighur>bansi</uighur>
+      <cyrillic>банш</cyrillic>
+      <transcript>BANSI</transcript>
+      <definition>Same as bijangsi.</definition>
+      <page>82</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠨᠰᠢ</unicode>
+      <cyrillic>банш</cyrillic>
+      <definition>татсан махыг гурилд боож усанд буцалган идэх нэг зүйл хоол.</definition>
+      <page>73</page>
+    </entry_item>
+  </entries>
+</entry>

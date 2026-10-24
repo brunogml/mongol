@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S5256">
+  <head>
+    <unicode>ᠰᠣᠭᠣᠳ</unicode>
+    <transcript>suγud</transcript>
+    <transcript2>sogod</transcript2>
+  </head><see_also>
+    <ref>S5255</ref>
+  
+    <ref>S5257</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠣᠭᠣᠳ</unicode>
+      <uighur>suγud</uighur>
+      <transcript>SUΓUD</transcript>
+      <definition>adv. foll. adj. Somewhat, quite; like, as, similar. Cf. siγ.</definition>
+      <page>735</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠠᠭ᠎ᠠ ᠰᠣᠭᠣᠳ</unicode>
+          <transcript>baγ-a -- </transcript>
+          <definition> Quite small.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠷᠡᠭᠦᠯ ᠰᠣᠭᠣᠳ</unicode>
+          <transcript>eregyl -- </transcript>
+          <definition> Quite healthy.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠤᠭᠤᠳ</unicode>
+      <definition>il peu - près, environ, comme si.</definition>
+      <page>1389</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠳᠠᠯᠢ ᠰᠤᠭᠤᠳ</unicode>
+          <definition>de même pareillement, ainsi</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠡᠭᠡᠭᠡᠨ ᠰᠤᠭᠤᠳ</unicode>
+          <definition>du nombre assez grand</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

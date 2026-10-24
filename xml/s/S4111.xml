@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4111">
+  <head>
+    <unicode>ᠰᠢᠮᠠᠷᠬᠣ</unicode>
+    <transcript>simarqu</transcript>
+    <transcript2>simargo</transcript2>
+    <cyrillic>шамрах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S4113</ref>
+  </derivatives>
+  <see_also>
+    <ref>S4103</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠮᠠᠷᠬᠣ</unicode>
+      <cyrillic>ШАМРАХ</cyrillic>
+      <definition>II бушевать (о метели). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠮᠠᠷᠬᠤ</unicode>
+      <cyrillic>шамрах /2</cyrillic>
+      <definition>шуургалан цас орох;шуурах шамрах&lt;хорш&gt;; цасаар шамрах.</definition>
+      <page>835</page>
+    </entry_item>
+  </entries>
+</entry>

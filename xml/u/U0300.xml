@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U0300">
+  <head>
+    <unicode>ᠣᠨᠳᠣᠭᠣᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>onduγunaγulqu</transcript>
+    <transcript2>ondogonagolgo</transcript2>
+    <cyrillic>ондгонуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U0299</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠨᠳᠣᠭᠣᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ондгонуулах</cyrillic>
+      <definition>〔动〕ондгонох 的使动态.</definition>
+      <page>805</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠨᠳᠣᠭᠣᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ОНДГОНУУЛАХ</cyrillic>
+      <definition>ондгонох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠨᠳᠣᠭᠣᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ондгонуулах</cyrillic>
+      <definition>ондгонохын үйлдүүлэх хэв.</definition>
+      <page>416</page>
+    </entry_item>
+  </entries>
+</entry>

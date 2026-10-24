@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5841">
+  <head>
+    <unicode>ᠳᠣᠭᠣᠯᠭᠠᠷ</unicode>
+    <transcript>duγulγar</transcript>
+    <transcript2>dogolgar</transcript2>
+    <cyrillic>дуулгар</cyrillic>
+  </head>
+  <related_to>
+    <ref>T5665</ref>
+  </related_to>
+  <see_also>
+    <ref>T5161</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠤᠭᠤᠯᠭᠠᠷ</unicode>
+      <cyrillic>дуулгар</cyrillic>
+      <definition>〔名〕听话，唯命是从；驯顺，乖：~ сайтай 很听话的，驯服的，很乖的.</definition>
+      <page>448</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠭᠣᠯᠭᠠᠷ</unicode>
+      <cyrillic>ДУУЛГАР</cyrillic>
+      <definition>яриа. дуулгавар-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠭᠣᠯᠭᠠᠷ</unicode>
+      <cyrillic>ДУУЛГАРГҮЙ</cyrillic>
+      <definition>яриа. дуулгаваргүй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠤᠭᠤᠯᠭᠠᠷ</unicode>
+      <cyrillic>дуулгар</cyrillic>
+      <definition>үг сургамж авдаг; дуулгар сайтай; дуулгар муутай.</definition>
+      <page>214</page>
+    </entry_item>
+  </entries>
+</entry>

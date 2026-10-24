@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4095">
+  <head>
+    <unicode>ᠵᠣᠪᠠᠯᠭᠠᠳᠠᠬᠣ</unicode>
+    <transcript>ǰobalγadaqu</transcript>
+    <transcript2>yobalgadago</transcript2>
+    <cyrillic>зовлогодох</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠣᠪᠠᠯᠭᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>зовлогодох</cyrillic>
+      <definition>〔动〕成为特别瘦的肉；成为腐肉.</definition>
+      <page>554</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠪᠠᠯᠭᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЗОВЛОГОДОХ</cyrillic>
+      <definition>быть нежирным, постным (о мясе). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠣᠪᠠᠯᠭᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>зовлогодох</cyrillic>
+      <definition>хэтэрхий зовлого болох.</definition>
+      <page>272</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Y4093</ref>
+  </related_to>
+</entry>

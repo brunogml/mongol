@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q2024">
+  <head>
+    <unicode>ᠬᠠᠯᠬᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>qalqaγanaγulqu</transcript>
+    <transcript2>galgaganagolgo</transcript2>
+    <cyrillic>халхагнуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q2023</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠯᠬᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХАЛХАГНУУЛАХ</cyrillic>
+      <definition>халхагнах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠯᠬᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХАЛХГАНУУЛАХ</cyrillic>
+      <definition>халхганах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠯᠬᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>халхгануулах</cyrillic>
+      <definition>халхганахын үйлдүүлэх хэв.</definition>
+      <page>652</page>
+    </entry_item>
+  </entries>
+</entry>

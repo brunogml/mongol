@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3152">
+  <head>
+    <unicode>ᠰᠢᠨᠵᠢᠺᠥᠯᠺᠥ</unicode>
+    <transcript>sinǰigülkü</transcript>
+    <transcript2>sincigölgö</transcript2>
+    <cyrillic>шинжүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S3151</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠨᠵᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>шинжүүлэх</cyrillic>
+      <definition>〔动〕шинжих 的使动态.</definition>
+      <page>1638</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠨᠵᠢᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ШИНЖҮҮЛЭХ</cyrillic>
+      <definition>шинжих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шинжүүлэх</cyrillic>
+      <definition>Kaus von шинжих</definition>
+      <page>386</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠨᠵᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>шинжүүлэх</cyrillic>
+      <definition>шинжихийн үйлдүүлэх хэв.</definition>
+      <page>849</page>
+    </entry_item>
+  </entries>
+</entry>

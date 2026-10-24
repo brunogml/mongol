@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2153">
+  <head>
+    <unicode>ᠣᠴᠣᠯᠵᠠᠬᠣ</unicode>
+    <transcript>očulǰaqu</transcript>
+    <transcript2>ocolcago</transcript2>
+    <cyrillic>оцолзох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U2154</ref>
+  </derivatives>
+  <see_also>
+    <ref>U2152</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠴᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>оцолзох</cyrillic>
+      <definition>〔动〕参见 оцгонох.</definition>
+      <page>828</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠴᠣᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ОЦОЛЗОХ</cyrillic>
+      <definition>оцгонох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠴᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>оцолзох</cyrillic>
+      <definition>оцгор юмны байн байн хөдлөх.</definition>
+      <page>428</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1155">
+  <head>
+    <unicode>ᠳᠠᠪᠬᠣᠴᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>dabqučaγulqu</transcript>
+    <transcript2>dabgocagolgo</transcript2>
+    <cyrillic>давхцуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T1153</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠪᠬᠣᠴᠠᠭᠤᠯᠬᠤ</unicode>
+      <definition>ordonner de mettre l'un sur l'autre, ou en deux rangs; faire doubler</definition>
+      <page>1605</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠪᠬᠣᠴᠠᠭᠤᠯᠤᠭᠰᠠᠨ ᠰᠢᠷᠭᠡᠭ</unicode>
+          <definition>soie écrue double</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠡᠷᠡᠭ ᠦᠭᠡᠢ ᠺᠡᠷᠡᠭ ᠢ ᠳᠠᠪᠬᠣᠴᠠᠭᠤᠯᠬᠤᠢ ᠳ᠋‍‍ᠤ‍ᠷ ᠺᠦᠷᠺᠡᠮᠦᠢ</unicode>
+          <definition>nous doublons, ou nous multiplions le nombre des affaires inutiles</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠪᠬᠤᠴᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>давхцуулах</cyrillic>
+      <definition>〔动〕①давхцах 的使动态；②叠起，层层摞起；③（一举）两得，获双：~н харвах 一下射两个.</definition>
+      <page>370</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠪᠬᠣᠴᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДАВХЦУУЛАХ</cyrillic>
+      <definition>давхцах-ын үйлдүүл., 1) удваивать, увеличивать вдвойне; давхцуулан үржүүлэх увеличивать вдвое; 2) скапливать, накапливать; † давхцуулах ширхэг хуучир. женская головная сетка из золотых, серебряных нитей. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠪᠬᠤᠴᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>давхцуулах</cyrillic>
+      <definition>давхцахын үйлдүүлэх хэв.</definition>
+      <page>178</page>
+    </entry_item>
+  </entries>
+</entry>

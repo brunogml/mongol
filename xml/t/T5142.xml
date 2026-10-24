@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T5142">
+  <head>
+    <unicode>ᠳᠣᠣᠯᠠᠬᠣ</unicode>
+    <transcript>doulaqu</transcript>
+    <transcript2>doolago</transcript2>
+  </head><derivatives>
+    <ref>T5143</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠣᠤᠯᠠᠬᠤ ~ ᠳᠠᠭᠣᠯᠠᠬᠤ</unicode>
+      <definition>chanter.</definition>
+      <page>1784</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠣᠤᠯᠠᠨ ᠳᠠᠭᠤᠳᠠᠬᠤ</unicode>
+          <definition>chanter à haute voix, chanter des chansons</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠳᠣᠣᠯᠠᠬᠣ</unicode>
+      <uighur>doulaqu</uighur>
+      <definition>v.i. To sing.</definition>
+      <page>1110</page>
+    </entry_item>
+  </entries>
+</entry>

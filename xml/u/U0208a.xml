@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U0208a">
+  <head>
+    <unicode>ᠣᠨᠣᠪᠣᠷᠢ</unicode>
+    <transcript>onuburi</transcript>
+    <transcript2>onobori</transcript2>
+    <cyrillic>оновор</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U0204a</ref>
+  </derivatives>
+  <see_also>
+    <ref>U0208b</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠨᠣᠪᠣᠷ</unicode>
+      <cyrillic>оновор</cyrillic>
+      <definition>〔名〕准确度，命中率，精确度；箭（弹）着点，落点.</definition>
+      <page>807</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠨᠣᠪᠣᠷᠢ</unicode>
+      <cyrillic>оновор</cyrillic>
+      <definition>онол, оноо; оновор сайтай.</definition>
+      <page>417</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q7005">
+  <head>
+    <unicode>ᠬᠣᠷᠣᠬᠣ</unicode>
+    <transcript>qoruqu</transcript>
+    <transcript2>gorogo</transcript2>
+    <cyrillic>хорох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q7020</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q7006</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠷᠣᠬᠣ</unicode>
+      <uighur>qoroqu</uighur>
+      <cyrillic>хорох</cyrillic>
+      <transcript>XORU-</transcript>
+      <definition>v.i./ To diminish, decrease; to become depleted; to wane, lessen; to die.</definition>
+      <page>968</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠷᠣᠭᠰᠠᠨ ᠺᠦᠮᠦᠨ</unicode>
+          <transcript>--γsan kymyn</transcript>
+          <definition> Dead person.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠷᠣᠨ ᠪᠠᠷᠠᠭᠳᠠᠬᠤ</unicode>
+          <transcript>--n baraγdaxu</transcript>
+          <definition> To gradually diminish or disappear</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠠᠯ ᠬᠣᠷᠣᠬᠣ</unicode>
+          <transcript>mal --xu</transcript>
+          <definition> [For the number of] cattle to decrease</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠷᠣᠬᠤ</unicode>
+      <definition>diminuer; avoir une perte: 2 tomber (des enflures): 3 être détruit, se perdre, pêrir, dépérir, mourir.</definition>
+      <page>963</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠷᠣᠨ ᠪᠠᠷᠠᠭᠳᠠᠬᠤ</unicode>
+          <definition>d'épuiser, se détruire peu à peu</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠷᠣᠭᠰᠠᠨ ᠺᠦᠮᠦᠨ</unicode>
+          <definition>homme tué, mort, défunt, cadavre</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠣᠷᠣᠬᠣ</unicode>
+      <uighur>quroqu</uighur>
+      <definition>sich verkleinern,sich vermindern, In Abnahme seyn; tödten, tödtlich seyn; schwinden (z. B. eine Geschwulst).</definition>
+      <page>170</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠣᠷᠣᠬᠣ</unicode>
+      <uighur>quruqu</uighur>
+      <definition>v.i. To get smaller. To reduce, to decrease, to be declini. Going down (of a swelling). Being vacant.</definition>
+      <page>669</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠷᠣᠬᠣ</unicode>
+      <cyrillic>ХОРОХ</cyrillic>
+      <definition>I 1. 1) убавляться, убывать, уменьшаться, сокращаться (количественно); падать (о ценах); аль хир хоров? на сколько уменьшилось?; зудад мал их хоров во время гололедицы значительно уменьшилось поголовье скота; 2) погибать, умирать; хорон барагдах истощаться, кончаться; 2. хорохуй-г үз., нас хорох укорачивание жизни. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠷᠣᠬᠣ</unicode>
+      <cyrillic>ХОРОХ</cyrillic>
+      <definition>II стоять плотно прижавшись друг к другу, опустив голову вниз (об овцах в жару). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠷᠣᠬᠣ</unicode>
+      <cyrillic>ХОРОХУЙ</cyrillic>
+      <definition>убавление, сокращение. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хорох</cyrillic>
+      <definition>1. abnehmen, sich vermindern od verringern, schwinden; мал их хоров der Viehbestand nahm stark ab; нас ~ die Lebensjahre nehmen ab
+2. dicht aneinandergedrängt stehen Tiere bei großer Hitze</definition>
+      <page>313</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠷᠣᠬᠤ</unicode>
+      <cyrillic>хорох /1</cyrillic>
+      <definition>цөөрөх, багасах, хасагдах; тоо нь хасагдаж хорох; хэмжээ нь багасч хорох; зудад мал хорох; нас хорох.</definition>
+      <page>696</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠷᠣᠬᠤ</unicode>
+      <cyrillic>хорох /2</cyrillic>
+      <definition>их халуунд зарим малын хурж бөөгнөрөх; энэ өдрийн халуунд хонь хороод олигтой идшилж чадсангүй; хорж хэвтэх.</definition>
+      <page>696</page>
+    </entry_item>
+  </entries>
+</entry>

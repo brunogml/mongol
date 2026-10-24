@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q3814">
+  <head>
+    <unicode>ᠭᠣᠣᠯᠠᠬᠣ</unicode>
+    <transcript>γoulaqu</transcript>
+    <transcript2>goolago</transcript2>
+    <cyrillic>гуулуулах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q3815</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠤᠤᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гуулуулах</cyrillic>
+      <definition>〔动〕гуулах /1、/2 的使动态.</definition>
+      <page>333</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ГУУЛУУЛАХ</cyrillic>
+      <definition>гуулах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гуулуулах</cyrillic>
+      <definition>Kaus von гуллах</definition>
+      <page>82</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠤᠤᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гуулуулах</cyrillic>
+      <definition>гуулахын үйлдүүлэх хэв.</definition>
+      <page>162</page>
+    </entry_item>
+  </entries>
+</entry>

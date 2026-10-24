@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0993">
+  <head>
+    <unicode>ᠪᠠᠮᠪᠠᠶᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>bambayilaγulqu</transcript>
+    <transcript2>bambayilagolgo</transcript2>
+    <cyrillic>бамбайлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B0992</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠮᠪᠠᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бамбайлуулах</cyrillic>
+      <definition>〔动〕бамбайлах й 使动态.</definition>
+      <page>126</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠮᠪᠠᠶᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БАМБАЙЛУУЛАХ</cyrillic>
+      <definition>бамбайлах-ын үйл­дүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠮᠪᠠᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бамбайлуулах</cyrillic>
+      <definition>бамбайлахын үйлдүүлэх хэв.</definition>
+      <page>72</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9155">
+  <head>
+    <unicode>ᠲᠥᠺᠰᠢᠺᠥᠯᠺᠥ</unicode>
+    <transcript>tügsigülkü</transcript>
+    <transcript2>dögsigölgö</transcript2>
+    <cyrillic>түгшүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T9154</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠥᠺᠰᠢᠺᠥᠯᠺᠥ</unicode>
+      <uighur>tüksigülkü</uighur>
+      <cyrillic>түгшүүлэх</cyrillic>
+      <transcript>TYGSIGYL-</transcript>
+      <definition>[v. caus. of tygsi-] To frighten.</definition>
+      <page>850</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠦᠮᠦᠨ ᠤ ᠰᠡᠳᠺᠢᠯ ᠢ ᠲᠥᠺᠰᠢᠺᠥᠯᠺᠥ</unicode>
+          <transcript>kymyn y secflcil i --ky</transcript>
+          <definition> To frighten somebody</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠺᠰᠢᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ТҮГШҮҮЛЭХ</cyrillic>
+      <definition>түгших I, II-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠦᠭᠰᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>түгшүүлэх</cyrillic>
+      <definition>түгшихийн үйлдүүлэх хэв.</definition>
+      <page>564</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K5302">
+  <head>
+    <transcript>kvas</transcript>
+    <transcript2>gvas</transcript2>
+    <cyrillic>квас</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠺᠸᠠᠰ</unicode>
+      <cyrillic>квас</cyrillic>
+      <definition>〔名〕克瓦斯，酸饮料.</definition>
+      <page>631</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>КВАС</cyrillic>
+      <definition>квас. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>квас</cyrillic>
+      <definition>Kwaß m</definition>
+      <page>136</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠺᠸᠠᠰ</unicode>
+      <cyrillic>квас</cyrillic>
+      <definition>жимс зэрэг юмаар хийх исгэлэн ундаан.</definition>
+      <page>314</page>
+    </entry_item>
+  </entries>
+</entry>

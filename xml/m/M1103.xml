@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1103">
+  <head>
+    <unicode>ᠮᠠᠯᠲᠠᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>meltegenegülkü</transcript>
+    <transcript2>meldegenegölgö</transcript2>
+    <cyrillic>мэлтгэнүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>M1102</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠡᠯᠲᠡᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>мэлтгэнүүлэх</cyrillic>
+      <definition>〔动〕мэлтгэнэх 的使动态.</definition>
+      <page>704</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠯᠲᠠᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>МЭЛТГЭНҮҮЛЭХ</cyrillic>
+      <definition>мэлтгэнэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠡᠯᠲᠡᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>мэлтэгнүүлэх</cyrillic>
+      <definition>мэлтгэнэхийн үйлдүүлэх хэв; хувинтай сүү мэлтэгнүүлэх.</definition>
+      <page>355</page>
+    </entry_item>
+  </entries>
+</entry>

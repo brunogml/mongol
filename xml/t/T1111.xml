@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1111">
+  <head>
+    <unicode>ᠳᠠᠪᠣᠰᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>dabusulaγulqu</transcript>
+    <transcript2>dabosolagolgo</transcript2>
+    <cyrillic>давслуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T1110</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠪᠤᠰᠣᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <definition>faire saler, ordonner d'assaisonner de sel.</definition>
+      <page>1604</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠳᠠᠪᠣᠰᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <uighur>dabusolaγulqu</uighur>
+      <definition>salzen lassen</definition>
+      <page>265</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠳᠠᠪᠣᠰᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <uighur>tabusolaγulqu</uighur>
+      <definition>To cause or permit seasoning with salt.</definition>
+      <page>1054</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠪᠤᠰᠤᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>давслуулах</cyrillic>
+      <definition>〔动〕давслх 的使动态.</definition>
+      <page>367</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠪᠣᠰᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДАВСЛУУЛАХ</cyrillic>
+      <definition>давслах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>давслуулах</cyrillic>
+      <definition>Kaus von давслах</definition>
+      <page>87</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠪᠤᠰᠤᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>давслуулах</cyrillic>
+      <definition>давслахын үйлдүүлэх хэв, давслахад хүрүүлэх.</definition>
+      <page>176</page>
+    </entry_item>
+  </entries>
+</entry>

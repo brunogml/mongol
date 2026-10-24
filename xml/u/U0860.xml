@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="U0860">
+  <head>
+    <unicode>ᠣᠬᠲᠣ</unicode>
+    <transcript>oγtu</transcript>
+    <transcript2>ogdo</transcript2>
+    <cyrillic>огт</cyrillic>
+  </head><derivatives>
+    <ref>U0920</ref>
+  </derivatives><see_also>
+    <ref>U0861</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠬᠲᠣ</unicode>
+      <uighur>oqdu</uighur>
+      <cyrillic>огт</cyrillic>
+      <transcript>OΓTU</transcript>
+      <definition>[= oγta] adv. Fully, completely, entirely, altogether (used only to emphasize negation).</definition>
+      <page>601</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠬᠲᠣ ᠠᠳᠠᠯᠢ ᠪᠤᠰᠤ</unicode>
+          <transcript>-- adali busu</transcript>
+          <definition> Not at all similar, quite different</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠬᠲᠣ ᠪᠠᠶᠢᠬᠤ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- baixu ygei</transcript>
+          <definition> Does not exist at all; does not have any.</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠬᠲᠣ ᠪᠣᠯᠬᠤ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- bolxu ygei</transcript>
+          <definition> Absolutely impossible</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠬᠲᠣ ᠴᠢᠳᠠᠬᠤ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- cidaxu ygei</transcript>
+          <definition> Absolutely cannot</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠬᠲᠣ ᠮᠡᠳᠡᠺᠦ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- medeky ygei</transcript>
+          <definition> Does not know at all.</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠬᠲᠣ ᠰᠡᠵᠢᠭᠯᠡᠺᠦ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- sezigleky ygei</transcript>
+          <definition> Not doubting in the least</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠬᠲᠣ ᠬᠠᠷᠢᠭᠤᠴᠠᠯᠭ᠎ᠠ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- xariγucalγ-a ygei</transcript>
+          <definition> Entirely irresponsible</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠤᠬᠲᠤ ~ ᠤᠬᠲᠠ</unicode>
+      <definition>tout-à-fait, entièrement, à jamais; avec la négat. point du tout, d'aucune manière.</definition>
+      <page>433</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠬᠲᠤ ᠪᠠᠶᠢᠬᠤ ᠦᠭᠡᠢ</unicode>
+          <definition>sans discontinuer, continuer.</definition>
+        </example>
+        <example>
+          <unicode>ᠤᠬᠲᠤ ᠪᠣᠯᠬᠤ ᠦᠭᠡᠢ</unicode>
+          <definition>de toute impossibililé , cela ne se peut autrement, il n'y a point de remède, etc.</definition>
+        </example>
+        <example>
+          <unicode>ᠤᠬᠲᠤ ᠰᠡᠵᠢᠺᠯᠡᠺᠦ ᠦᠭᠡᠢ</unicode>
+          <definition>nulement douter, ne point douter</definition>
+        </example>
+        <example>
+          <unicode>ᠤᠬᠲᠤ ᠮᠡᠳᠡᠺᠦ ᠦᠭᠡᠢ</unicode>
+          <definition>n'en savoir rien du tout.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠣᠬᠲᠣ</unicode>
+      <uighur>uqtu</uighur>
+      <definition>von jeher, durchaus</definition>
+      <page>50</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠣᠬᠲᠣ</unicode>
+      <uighur>uqtu</uighur>
+      <definition>(oo) Absolutely, positively .By all means. By no means. From time immemorinl.</definition>
+      <page>191</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠣᠬᠲᠣ</unicode>
+      <uighur>uqtu bolqu ügei</uighur>
+      <definition>(oo) Not by any means. Can not be permitted by any means.</definition>
+      <page>192</page>
+    </entry_item>
+  </entries>
+</entry>

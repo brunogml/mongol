@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1013">
+  <head>
+    <unicode>ᠺᠠᠮᠵᠢᠺᠥᠷ</unicode>
+    <transcript>kemǰigür</transcript>
+    <transcript2>gemcigör</transcript2>
+    <cyrillic>хэмжүүр</cyrillic>
+  </head>
+  <see_also>
+    <ref>K1014</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠠᠮᠵᠢᠺᠥᠷ</unicode>
+      <uighur>kemǰigür</uighur>
+      <cyrillic>хэмжүүр</cyrillic>
+      <transcript>KEMZIGYR</transcript>
+      <definition>[=kemzigyri, kemzijeri] n. Measuring devices: meter. gauge; balance, scales, ruler.</definition>
+      <page>453</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠠᠮᠵᠢᠺᠥᠷ ᠤᠨ ᠵᠡᠭᠦᠦ</unicode>
+          <transcript>-- yn zegyy</transcript>
+          <definition> Pointer or hand on scales.</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠦᠴᠦᠨ ᠤ ᠺᠠᠮᠵᠢᠺᠥᠷ</unicode>
+          <transcript>kycyn y -- </transcript>
+          <definition>Dynamometer</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠡᠮᠵᠢᠭᠦᠷ</unicode>
+      <definition>mesure.</definition>
+      <page>2487</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠮᠵᠢᠺᠥᠷ</unicode>
+      <cyrillic>ХЭМЖҮҮР</cyrillic>
+      <definition>1) измеритель, измерительный прибор; мерило; газар хөдлөлийн хэмжүүр сейсмограф; өндрийн хэмжүүр высотомер; өнцөг хэмжүүр теодолит; угломер; халуун хүйтний хэмжүүр шил термометр, градусник; хурд хэмжүүр спидометр; хүчний хэмжүүр динамометр; 2) критерий. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠮᠵᠢᠭᠦᠷ</unicode>
+      <cyrillic>хэмжүүр</cyrillic>
+      <definition>юмны үлэмж хомсыг хэмнэх зэвсэг багаж; хүнд хөнгөний хэмжүүр; урт охрын хэмжүүр; овор багтцын хэмжүүр.</definition>
+      <page>761</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>K1015</ref>
+    <ref>K1016</ref>
+  </derivatives>
+  <related_to>
+    <ref>K1011</ref>
+  </related_to>
+</entry>

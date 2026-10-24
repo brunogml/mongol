@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6465">
+  <head>
+    <unicode>ᠰᠥᠨᠢᠵᠢᠨ</unicode>
+    <transcript>söniǰin</transcript>
+    <transcript2>sönicin</transcript2>
+    <cyrillic>шөнөжин</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠥᠨᠢᠵᠢᠨ</unicode>
+      <cyrillic>шөнөжин</cyrillic>
+      <definition>〔副〕彻夜，通宵，整夜.</definition>
+      <page>1653</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠥᠨᠢᠵᠢᠨ</unicode>
+      <cyrillic>ШӨНӨЖИН</cyrillic>
+      <definition>всю ночь, в течение ночи; өдөржин шөнөжин днём и ночью; денно и нощно. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шөнөжин</cyrillic>
+      <definition>die Nacht über, die ganze Nacht hindurch</definition>
+      <page>390</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠥᠨᠢᠵᠢᠨ</unicode>
+      <cyrillic>шөнөжин</cyrillic>
+      <definition>шөнийн туршид; шөнөжингөө яваад өнөөдөр ирэв.</definition>
+      <page>856</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S6458</ref>
+  </related_to>
+</entry>

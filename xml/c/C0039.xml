@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0039">
+  <head>
+    <unicode>ᠴᠠᠩᠬᠠᠲᠣᠬᠣ</unicode>
+    <transcript>čangqatuqu</transcript>
+    <transcript2>canggadogo</transcript2>
+    <cyrillic>цанхтах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0040</ref>
+    <ref>C0041</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠩᠬᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>цанхтах</cyrillic>
+      <definition>〔动〕〈医〉胃部抽痛，胃痛.</definition>
+      <page>1519</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠩᠬᠠᠲᠣᠬᠣ</unicode>
+      <cyrillic>ЦАНХТАХ</cyrillic>
+      <definition>испытывать боли в брюшине, желудке; страдать гастритом. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цанхтах</cyrillic>
+      <definition>= цанхлах</definition>
+      <page>353</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠩᠬᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>цанхтах</cyrillic>
+      <definition>цанх өвчин хөдлөх, тусах.</definition>
+      <page>783</page>
+    </entry_item>
+  </entries>
+</entry>

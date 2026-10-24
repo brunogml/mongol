@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0671">
+  <head>
+    <unicode>ᠶᠠᠪᠠᠭᠠᠯᠠᠬᠣ</unicode>
+    <transcript>yabaγalaqu</transcript>
+    <transcript2>yabagalago</transcript2>
+    <cyrillic>явгалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y0672</ref>
+    <ref>Y0674</ref>
+  </derivatives>
+  <see_also>
+    <ref>Y0723</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠶᠠᠪᠠᠭᠠᠯᠠᠬᠣ</unicode>
+      <uighur>yabaγalaqu</uighur>
+      <transcript>JABAΓALA-</transcript>
+      <definition>See jabuγala-</definition>
+      <page>420</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠠᠪᠠᠭᠠᠯᠠᠬᠤ</unicode>
+      <definition>aller à pied, marcher à pied.</definition>
+      <page>2257</page>
+      <examples>
+        <example>
+          <unicode>ᠶᠠᠪᠠᠭᠠᠯᠠᠵᠤ ᠢᠷᠡᠺᠦ</unicode>
+          <definition>venir à pied</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠠᠪᠠᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЯВГАЛАХ</cyrillic>
+      <definition>1) идти, ходить пешком; 2) делать кого-л. пешим, лишить средств передвижения.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠠᠪᠠᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>явгалах</cyrillic>
+      <definition>1. хүн ба шувууны хөлөөрөө явах; явгалаад явбал хөл даарах нь бага байдаг; элээ явгалж явна;2. хүнийг уналга хөлөгнөөс нь салгах; уналга өгөхгүй явган болгох; элчийн унааг явгалах.</definition>
+      <page>899</page>
+    </entry_item>
+  </entries>
+</entry>

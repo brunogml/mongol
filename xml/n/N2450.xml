@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N2450">
+  <head>
+    <unicode>ᠨᠣᠶᠢᠲᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>noyitadaγulqu</transcript>
+    <transcript2>noyidadagolgo</transcript2>
+    <cyrillic>нойтдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>N2449</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠣᠢᠲᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нойтдуулах</cyrillic>
+      <definition>〔动〕нойтдох 的使动态.</definition>
+      <page>745</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠣᠶᠢᠲᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>НОЙТДУУЛАХ</cyrillic>
+      <definition>нойтдох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠣᠢᠲᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нойтдуулах</cyrillic>
+      <definition>нойтдохын үйлдүүлэх хэв.</definition>
+      <page>380</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1691">
+  <head>
+    <unicode>ᠰᠠᠷᠠᠴᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>saračiγulqu</transcript>
+    <transcript2>saracigolgo</transcript2>
+    <cyrillic>сараачуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S1690</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠷᠠᠴᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сараачуулах</cyrillic>
+      <definition>〔动〕сараачих 的使动态.</definition>
+      <page>916</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠷᠠᠴᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>САРААЧУУЛАХ</cyrillic>
+      <definition>сараачих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сараачуулах</cyrillic>
+      <definition>Kaus von сараачих</definition>
+      <page>195</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠷᠠᠴᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сараачуулах</cyrillic>
+      <definition>сараачихын үйлдүүлэх хэв.</definition>
+      <page>470</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E1197">
+  <head>
+    <unicode>ᠡᠮᠵᠢᠶᠡᠷᠢᠯᠡᠺᠦ</unicode>
+    <transcript>emǰiyerilekü</transcript>
+    <transcript2>emciyerilegö</transcript2>
+    <cyrillic>эмжээрлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>E1198</ref>
+    <ref>E1196</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠮᠵᠢᠶᠡᠷᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>эмжээрлэх</cyrillic>
+      <definition>〔动〕参见 эмжих.</definition>
+      <page>1695</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠮᠵᠢᠶᠠᠷᠢᠯᠠᠺᠥ</unicode>
+      <cyrillic>ЭМЖЭЭРЛЭХ</cyrillic>
+      <definition>эмжих-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠮᠵᠢᠶᠡᠷᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>эмжээрлэх</cyrillic>
+      <definition>эмжээртэй болгох, эмжих.</definition>
+      <page>876</page>
+    </entry_item>
+  </entries>
+</entry>

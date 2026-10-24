@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1988">
+  <head>
+    <unicode>ᠰᠠᠩᠰᠠᠷᠠᠺᠥ</unicode>
+    <transcript>sengserekü</transcript>
+    <transcript2>sengseregö</transcript2>
+    <cyrillic>сэнсрэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1989</ref>
+    <ref>S1987</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠩᠰᠠᠷᠠᠺᠥ</unicode>
+      <cyrillic>СЭНСРЭХ</cyrillic>
+      <definition>сэнслэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠩᠰᠡᠷᠡᠬᠦ</unicode>
+      <cyrillic>сэнсрэх</cyrillic>
+      <definition>сэнс болох, сэнстэй болох; дугуйны хэгээс сэнсрэх.</definition>
+      <page>504</page>
+    </entry_item>
+  </entries>
+</entry>

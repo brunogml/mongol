@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4019">
+  <head>
+    <unicode>ᠵᠣᠬᠰᠣᠬᠣ</unicode>
+    <transcript>ǰoγsuqu</transcript>
+    <transcript2>yogsogo</transcript2>
+    <cyrillic>зогсох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y4020</ref>
+    <ref>Y4033</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠣᠬᠰᠣᠬᠣ</unicode>
+      <uighur>ǰoqsoqu</uighur>
+      <cyrillic>зогсох</cyrillic>
+      <transcript>ZOΓSU-</transcript>
+      <definition>v.i. To stand up; to stand still; to stop, cease.</definition>
+      <page>1067</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠣᠬᠰᠣᠬᠣ ᠦᠭᠡᠢ ᠪᠡᠷ</unicode>
+          <transcript>--xu ygei ber</transcript>
+          <definition>Without stopping.</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠣᠬᠰᠣᠵᠤ ᠪᠤᠤᠳᠠᠬᠤ</unicode>
+          <transcript>--zu buudaxu</transcript>
+          <definition>Shooting while standing.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠣᠷᠤᠭ᠎ᠠ ᠵᠣᠬᠰᠣᠪᠠ</unicode>
+          <transcript>boruγ -a --ba</transcript>
+          <definition>The rain has stopped.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠣᠰᠤᠭᠠᠳ ᠵᠣᠬᠰᠣ</unicode>
+          <transcript>bosuγad --!</transcript>
+          <definition>Stand up!.</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠣᠷᠢ ᠵᠣᠬᠰᠣᠬᠣ</unicode>
+          <transcript>mori --xu</transcript>
+          <definition>For the horse to stop; for the horse to be unable to go any further because of fatigue.</definition>
+        </example>
+        <example>
+          <unicode>ᠦᠭᠡ ᠶᠬᠷᠢᠬᠤ ᠪᠡᠨ ᠵᠣᠬᠰᠣᠬᠣ</unicode>
+          <transcript>yge jarixu ben, --xu</transcript>
+          <definition>To stop speaking.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠣᠬᠰᠣᠬᠤ</unicode>
+      <definition>être debout, être droit, se tenir debout, s'arrêter. Stare, sistere, consistere, sistere gradum,</definition>
+      <page>2399</page>
+      <examples>
+        <example>
+          <unicode>ᠢᠷᠭᠡᠨ ᠢᠨᠤ ᠰᠦᠮᠡ ᠎ᠶᠢᠨ ᠭᠠᠳᠠᠨᠠ ᠵᠣᠬᠰᠤᠵᠤ ᠵᠠᠯᠪᠠᠷᠢᠨ ᠦᠢᠯᠡᠳᠪᠡᠢ</unicode>
+          <definition>le peuple qui entourait le temple, adressait ses prières au Ciel</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠣᠷᠤᠨᠠᠲᠤ ᠡᠳᠡᠭᠡᠳ ᠎ᠲᠤᠷ ᠵᠣᠬᠰᠤ</unicode>
+          <definition>vas et arrête-toi du côté de l'orient</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠢᠨᠤ ᠵᠣᠬᠰᠤᠭᠰᠠᠨ ᠭᠠᠵᠠᠷ</unicode>
+          <definition>la place où tu restes</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠣᠬᠰᠤᠬᠤ ᠪᠤᠷᠤᠭᠠᠨ</unicode>
+          <definition>la pluie qui tombe par intervalles</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠵᠣᠬᠰᠣᠬᠣ</unicode>
+      <uighur>ǰoqsoqu</uighur>
+      <definition>stehen, stehen bleiben</definition>
+      <page>309</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠵᠣᠬᠰᠣᠬᠣ</unicode>
+      <uighur>ǰoqsuqu</uighur>
+      <definition>v.i. To stand up, to stand still, to remain standing. To stop, to cease.</definition>
+      <page>1242</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠣᠭᠰᠣᠬᠤ</unicode>
+      <cyrillic>зогсох</cyrillic>
+      <definition>〔动〕①站立：харуулд ~ 站岗，站哨；босоо ~ 直立；морь ~ж байна 马站着；②停留，中断，停止：бороо зогслоо 雨停了；ажил зогссон 工作停止了，工作中断了；үйлдвэр ~в 工厂停工了；салхи ~в 风停了；машин гэмтээд ~в (1)汽车出故障抛锚了；(2)机器出毛病停住了；зогс! 停住！站住！</definition>
+      <page>556</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠬᠰᠣᠬᠣ</unicode>
+      <cyrillic>ЗОГСОХ</cyrillic>
+      <definition>1) стоять на ногах; торчать; харуулд зогсох стоять на посту; цэх зогсох стоять прямо; эмээлтэй морь зогсож байна стоит осёдланный конь; эсэргүүцэн зогсох стоять против кого-л.; 2) останавливаться, приостанавливаться; переставать; прекращаться; зогсох бороо прерывистый дождь; бороо зогслоо дождь прекратился; хөдлөхөө зогсох перестать двигаться; зогс! стой! (команда); зогсож буудаллах располагаться на стоянку; 3) шилж. уставать, утомляться; выбиваться из сил; морь зогсох переутомляться, выбиваться из сил, не в силах идти (о лошади); 4) ограничиваться; авсанаар зогсох ограничить тем, что взял, ограничиться взятием; ийм цөөхнөөр зогсохгүй на столь малом не остановится, столь малым не ограничится; тогтоол гаргах төдийгөөр зогссон бөлгөө ограничились только резолюциями; үзүүлэх төдийгөөр зогсох бус не ограничится только тем, что показал; энэ төдийгөөр зогсохгүй на этом не остановится, этим не ограничится.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зогсох</cyrillic>
+      <definition>1. stehen; манааанд ~ Posten stehen
+2. stehenbleiben; anhalten; галт тэрэг гурван минут зогсоно der Zug hält drei Minuten; зогс! halt!; миний цаг зогсжзэ meine Uhr ist stehengeblieben
+3. aufhören; бороо зогслоо der Regen hat aufgehört; es regnet nicht mehr; тамхи татахаа зогс! höre auf zu rauchen!</definition>
+      <page>120</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠣᠭᠰᠣᠬᠤ</unicode>
+      <cyrillic>зогсох</cyrillic>
+      <definition>ямар нэг хөдөлгөөнтэй юм хөдлөхгүй болох;1. амьтны хөл дээрээ хөдөлгөөнгүй байх; босоо зогсох; номхон зогсох;2. юмны хөдөлгөөн намжих, саарах, болих, тогтнох; салхи зогсох; зорчихыг зогсох; бороо зогсох;3. ажил үйл түр буюу бүрмөсөн төгсөх, болих; миний ажил зогссон;4. эцэх, цуцах; миний морь эцээд зогсчихов;5. эвдрэх, хэмхрэх; машина гэмтээд зогсов;6. нөхцөл бүрдэхгүйгээс ажил тасалдах; материал тасраад үйлдвэр зогсов.</definition>
+      <page>273</page>
+    </entry_item>
+  </entries>
+</entry>

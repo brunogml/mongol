@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K1576">
+  <head>
+    <unicode>ᠺᠠᠷᠥᠯᠠᠨ</unicode>
+    <transcript>kerülen</transcript>
+    <transcript2>gerölen</transcript2>
+    <cyrillic>хэрлэн</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠠᠷᠥᠯᠠᠨ</unicode>
+      <uighur>kerülen</uighur>
+      <cyrillic>хэрлэн</cyrillic>
+      <transcript>KERYLEN</transcript>
+      <page>459</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠠᠷᠥᠯᠠᠨ ᠮᠥᠷᠡᠨ</unicode>
+          <transcript>-- [møren] </transcript>
+          <definition>The Kerulen river (in northern Mongolia)</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠡᠷᠦᠯᠡᠨ ᠮᠥᠷᠡᠨ</unicode>
+      <definition>Kerulen, Keroulun, rivière dans la Mongolie septentrionale.</definition>
+      <page>2514</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>Хэрлэн</cyrillic>
+    <definition>[гол] Fluß Cherlen m</definition>
+    <page>344</page>
+  </entry_item>
+  </entries>
+</entry>

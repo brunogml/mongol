@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3331">
+  <head>
+    <unicode>ᠴᠣᠷᠪᠣᠳᠠᠬᠣ</unicode>
+    <transcript>čorbudaqu</transcript>
+    <transcript2>corbodago</transcript2>
+    <cyrillic>цоровдох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C3332</ref>
+    <ref>C3334</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠣᠷᠪᠣᠳᠠᠬᠤ</unicode>
+      <cyrillic>цоровдох</cyrillic>
+      <definition>〔动〕将马的嘴唇绑住，揪住马的嘴唇；上牲口嚼子.</definition>
+      <page>1538</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠷᠪᠣᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЦОРОВДОХ</cyrillic>
+      <definition>привязывать необученную лошадь за губу чем-л. (для усмирения). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠣᠷᠪᠣᠳᠠᠬᠤ</unicode>
+      <cyrillic>цоровдох</cyrillic>
+      <definition>морь малын ам уруулаас нь уях, барих, амдах ч гэдэг; морь цоровдох.</definition>
+      <page>792</page>
+    </entry_item>
+  </entries>
+</entry>

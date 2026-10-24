@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B0501">
+  <head>
+    <unicode>ᠪᠠᠪᠠᠬ</unicode>
+    <transcript>babaγ</transcript>
+    <transcript2>babag</transcript2>
+    <cyrillic>бавга</cyrillic>
+  </head>
+  <variants>
+    <variant type="cyrillic">баваг</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠪᠠᠭ᠎ᠠ</unicode>
+      <cyrillic>бавга</cyrillic>
+      <definition>见 ~ ~ хийх 参见 бавалзах.</definition>
+      <page>104</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠪᠠᠬ</unicode>
+      <cyrillic>БАВГА</cyrillic>
+      <definition>: бавга бавга хорш. бавганах-ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠪᠠᠭ</unicode>
+      <cyrillic>баваг</cyrillic>
+      <definition>见 ~ ~ 一鼓一鼓地.</definition>
+      <page>104</page>
+    </entry_item>
+  </entries>
+</entry>

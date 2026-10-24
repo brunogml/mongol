@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5660">
+  <head>
+    <unicode>ᠲᠣᠬᠠᠶᠢᠯᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>tuqayilaγdaqu</transcript>
+    <transcript2>dogayilagdago</transcript2>
+    <cyrillic>тухайлагдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T5658</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠬᠠᠢᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>тухайлагдах</cyrillic>
+      <definition>〔动〕тухайлах 的被动态.</definition>
+      <page>1124</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠬᠠᠶᠢᠯᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТУХАЙЛАГДАХ</cyrillic>
+      <definition>тухайлах-ын үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠬᠠᠢᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>тухайлагдах</cyrillic>
+      <definition>тухайлахын үйлдэгдэх хэв.</definition>
+      <page>561</page>
+    </entry_item>
+  </entries>
+</entry>

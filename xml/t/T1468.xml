@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T1468">
+  <head>
+    <unicode>ᠲᠠᠰᠣᠷᠠᠰᠢ</unicode>
+    <transcript>tasurasi</transcript>
+    <transcript2>dasorasi</transcript2>
+    <cyrillic>тасарш</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠰᠣᠷᠠᠰᠢ</unicode>
+      <uighur>tasorasi</uighur>
+      <cyrillic>тасраш</cyrillic>
+      <transcript>TASURASI</transcript>
+      <page>785</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠰᠣᠷᠠᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Unbreaking, unceasing; inexhaustible [-bly], everlasting[ly].</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠰᠣᠷᠠᠰᠢ ᠦᠭᠡᠢ</unicode>
+      <definition>intarissablement ,inséparablement , sans cesse, perpétuellement, toujours</definition>
+      <page>1616</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠣᠯᠠᠬ ᠤᠳ ᠳᠠᠰᠣᠷᠠᠰᠢ ᠦᠭᠡᠢ ᠣᠷᠤᠰᠤᠮᠤᠢ</unicode>
+          <definition>les sources intarissables découlent</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠠᠰᠣᠷᠠᠰᠢ ᠦᠭᠡᠢ ᠺᠢᠵᠢᠶᠡᠩᠺᠦᠢ</unicode>
+          <definition>zèle infatigable</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠰᠣᠷᠠᠰᠢ</unicode>
+      <cyrillic>ТАСАРШГҮЙ</cyrillic>
+      <definition>такой, что не оторвать, не разорвать; неотрываемый, неразрываемый; крепкий; необособляемый. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠰᠣᠷᠠᠰᠢ</unicode>
+      <cyrillic>ТАСРАШГҮЙ</cyrillic>
+      <definition>неразрывный, нерушљмый; неиссякаемый, нескончаемый, беспрерывный, перманентный; неразлучный. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

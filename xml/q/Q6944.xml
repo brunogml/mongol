@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q6944">
+  <head>
+    <unicode>ᠬᠣᠷᠢᠶᠠᠬᠳᠠᠯ</unicode>
+    <transcript>quriyaγdal</transcript>
+    <transcript2>goriyagdal</transcript2>
+    <cyrillic>хураагдал</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠷᠢᠶᠠᠬᠳᠠᠯ</unicode>
+      <uighur>quriyaqdal</uighur>
+      <cyrillic>хураагдал</cyrillic>
+      <transcript>XURIJAΓDAL</transcript>
+      <definition>n. and adj. Confiscation, expropriation; confiscated, taken away.</definition>
+      <page>989</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠷᠢᠶᠠᠬᠳᠠᠯ ᠺᠥᠷᠦᠩᠭᠡ</unicode>
+          <transcript>-- køryngge </transcript>
+          <definition> Confiscated property.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠷᠢᠶᠠᠭᠳᠠᠯ</unicode>
+      <cyrillic>хураагдал</cyrillic>
+      <definition>〔名〕被收集的东西，被征集的东西，被没收的东西.</definition>
+      <page>1433</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠷᠢᠶᠠᠬᠳᠠᠯ</unicode>
+      <cyrillic>ХУРААГДАЛ</cyrillic>
+      <definition>1. конфискация; 2. конфискованный; хураагдал хөрөнгө конфискованное имущество. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠷᠢᠶᠠᠭᠳᠠᠯ</unicode>
+      <cyrillic>хураагдал</cyrillic>
+      <definition>хураагдсан юм; хураагдал мал; хураагдлын юмнаас авах.</definition>
+      <page>730</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q6943</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q6385">
+  <head>
+    <unicode>ᠬᠣᠺᠢᠨᠠᠬᠣ</unicode>
+    <transcript>qokinaqu</transcript>
+    <transcript2>goginago</transcript2>
+    <cyrillic>хохинох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q6386</ref>
+    <ref>Q6388</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠣᠬᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>хохинох</cyrillic>
+      <definition>〔动〕（鹰、鹫等）鸣叫.</definition>
+      <page>1380</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠺᠢᠨᠠᠬᠣ</unicode>
+      <cyrillic>ХОХИНОХ</cyrillic>
+      <definition>клекотать, издавать клёкот. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хохинох</cyrillic>
+      <definition>röcheln, krächzen, knarren</definition>
+      <page>314</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠬᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>хохинох</cyrillic>
+      <definition>хоолойн орчин бачим бүгт дуу гарах, хохтнох ч гэнэ; хоолой хохинох.</definition>
+      <page>699</page>
+    </entry_item>
+  </entries>
+</entry>

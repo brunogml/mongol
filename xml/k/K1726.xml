@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1726">
+  <head>
+    <unicode>ᠺᠢᠨ</unicode>
+    <transcript>kin</transcript>
+    <transcript2>gin</transcript2>
+    <cyrillic>хин</cyrillic>
+  </head>
+  <see_also>
+    <ref>K1795</ref>
+    <ref>K1727</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠢᠨ</unicode>
+      <uighur>kin</uighur>
+      <transcript>KIN</transcript>
+      <definition>[Ch ch'in] n. Chinese musical instrument with seven strings.</definition>
+      <page>469</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠢᠨ</unicode>
+      <definition>instrument de musique, en chin. kin.</definition>
+      <page>2520</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠨ</unicode>
+      <cyrillic>ХИН</cyrillic>
+      <definition>I музыкальный инструмент рода лютни; ятга-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠢᠨ</unicode>
+      <cyrillic>хин</cyrillic>
+      <definition>ятга гэдэг хөгжим.</definition>
+      <page>678</page>
+    </entry_item>
+  </entries>
+</entry>

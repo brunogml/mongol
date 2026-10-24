@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T0214">
+  <head>
+    <unicode>ᠲᠠᠩᠭᠠᠷᠢᠬᠲᠣ</unicode>
+    <transcript>tangγariγtu</transcript>
+    <transcript2>danggarigdo</transcript2>
+    <cyrillic>тангарагт</cyrillic>
+  </head><see_also>
+    <ref>T0213</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠩᠭᠠᠷᠢᠬᠳᠤ</unicode>
+      <definition>de serment, lié par un serment ou par un voeu</definition>
+      <page>1566</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠩᠭᠠᠷᠢᠬ ᠳᠤ ᠡᠯᠢᠶ᠎ᠡ</unicode>
+          <definition>un démon terrible</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠩᠭᠠᠷᠢᠬᠲᠣ</unicode>
+      <cyrillic>ТАНГАРАГТ</cyrillic>
+      <definition>давший клятву, присягнувший; связанный клятвой; тангарагт оруулах приводљть к присяге; тангарагт төлөөлөгч присяжный заседатель. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+<related_to><ref>T0211</ref></related_to></entry>

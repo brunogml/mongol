@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3038">
+  <head>
+    <unicode>ᠴᠣᠮ</unicode>
+    <transcript>čom</transcript>
+    <transcript2>com</transcript2>
+    <cyrillic>цом</cyrillic>
+  </head>
+  <see_also>
+    <ref>C3041</ref>
+    <ref>C3037</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠮ</unicode>
+      <cyrillic>ЦОМ</cyrillic>
+      <definition>II собранный, упорядоченный, слаженный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠣᠮ</unicode>
+      <cyrillic>цом</cyrillic>
+      <definition>юмны эмх цэгцтэй, хураамжтай аятайгий нь; юмаа цом байлга.</definition>
+      <page>789</page>
+    </entry_item>
+  </entries>
+</entry>

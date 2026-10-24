@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q3209">
+  <head>
+    <unicode>ᠭᠠᠷᠠᠬᠠᠯᠠᠬᠣ</unicode>
+    <transcript>γaraqalaqu</transcript>
+    <transcript2>garagalago</transcript2>
+    <cyrillic>гархилах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q3212</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q3715</ref>
+    <ref>Q3208</ref>
+    <ref>Q3210</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠷᠠᠬᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ГАРХИЛАХ</cyrillic>
+      <definition>I гархитах I-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠠᠷᠠᠬᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>гархилах</cyrillic>
+      <definition>гархи мэт болох; нүд гархилах.</definition>
+      <page>141</page>
+    </entry_item>
+  </entries>
+</entry>

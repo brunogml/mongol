@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4425">
+  <head>
+    <unicode>ᠵᠣᠯᠭᠣᠶᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰulγuyidaγulqu</transcript>
+    <transcript2>yolgoyidagolgo</transcript2>
+    <cyrillic>зулгуйдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y4424</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠤᠯᠭᠤᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зулгуйдуулах</cyrillic>
+      <definition>〔动〕зулгуйдах 的使动态.</definition>
+      <page>576</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠯᠭᠣᠶᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗУЛГУЙДУУЛАХ</cyrillic>
+      <definition>зулгуйдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зулгуйдуулах</cyrillic>
+      <definition>Kaus von зулгуйдах</definition>
+      <page>126</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠤᠯᠭᠤᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зулгуйдуулах</cyrillic>
+      <definition>зулгуйдахын үйлдүүлэх хэв, зулгуйдахад хүрүүлэх.</definition>
+      <page>283</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2392">
+  <head>
+    <transcript>čirk</transcript>
+    <transcript2>cirg</transcript2>
+    <cyrillic>цирк</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠼᠢᠷᠺ</unicode>
+      <cyrillic>цирк</cyrillic>
+      <definition>〔名〕马戏，杂技；马戏团，杂技团：~ийн жүжигч 马戏演员，杂技演员.</definition>
+      <page>1528</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ЦИРК</cyrillic>
+      <definition>цирк. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ЦИРКИЙН</cyrillic>
+      <definition>цирк-ийн харьяал., цирковой; циркийн жүжигчин цирковой артист, циркач. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цирк</cyrillic>
+      <definition>Zirkus m</definition>
+      <page>355</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠼᠢᠷᠺ</unicode>
+      <cyrillic>цирк</cyrillic>
+      <definition>үзэгчдэд биеийн тамирийн болон сургуультай амьтад бас алиалагчийн тоглолтыг үзүүлэх газар; циркийн жүжигчид.</definition>
+      <page>787</page>
+    </entry_item>
+  </entries>
+</entry>

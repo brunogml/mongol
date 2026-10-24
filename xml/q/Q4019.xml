@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4019">
+  <head>
+    <unicode>ᠬᠣᠨᠢᠵᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>qoniǰiγulqu</transcript>
+    <transcript2>gonicigolgo</transcript2>
+    <cyrillic>хоньжуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q4018</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠣᠨᠢᠵᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хоньжуулах</cyrillic>
+      <definition>〔动〕хоньжих 的使动态.</definition>
+      <page>1365</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠨᠢᠵᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХОНЬЖУУЛАХ</cyrillic>
+      <definition>хоньжих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠨᠢᠵᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хоньжуулах</cyrillic>
+      <definition>хоньжихын үйлдүүлэх хэв.</definition>
+      <page>692</page>
+    </entry_item>
+  </entries>
+</entry>

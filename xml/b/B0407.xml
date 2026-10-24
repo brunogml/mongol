@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0407">
+  <head>
+    <unicode>ᠪᠠᠬᠰᠣᠷᠭᠠᠯᠠᠬᠣ</unicode>
+    <transcript>baγsurγalaqu</transcript>
+    <transcript2>bagsorgalago</transcript2>
+    <cyrillic>багсаргалах</cyrillic>
+  </head>
+  <variants>
+    <variant type="cyrillic">багсрагалах</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠠᠬᠰᠣᠷᠭᠠᠯᠠᠬᠤ</unicode>
+      <definition>teindre en noir avec des feuilles de thé sauvage</definition>
+      <page>1088</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠪᠠᠬᠰᠣᠷᠭᠠᠯᠠᠬᠣ</unicode>
+      <uighur>baqsorγalaqu</uighur>
+      <definition>auffärben, bläuen</definition>
+      <page>99</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠪᠠᠬᠰᠣᠷᠭᠠᠯᠠᠬᠣ</unicode>
+      <uighur>baqsurγalalqu</uighur>
+      <definition>v.t. To dye to dye blue (linen etc.) To mix.</definition>
+      <page>395</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠬᠰᠣᠷᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>БАГСАРГАЛАХ</cyrillic>
+      <definition>сдобить, прибавлять сдобы (в тесто, корм).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠭᠰᠤᠷᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>багсрагалах</cyrillic>
+      <definition>〔动〕①加调料；②加混合物，掺和，拌合.</definition>
+      <page>108</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠭᠰᠤᠷᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>багсрагалах</cyrillic>
+      <definition>багсрага хийх.</definition>
+      <page>65</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>B0404</ref>
+  </related_to>
+</entry>

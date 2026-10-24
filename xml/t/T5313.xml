@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5313">
+  <head>
+    <unicode>ᠲᠣᠨᠲᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>tuntaγanaqu</transcript>
+    <transcript2>dondaganago</transcript2>
+    <cyrillic>тунтганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T5315</ref>
+    <ref>T5316</ref>
+  </derivatives>
+  <see_also>
+    <ref>T5314</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠨᠲᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>тунтганах</cyrillic>
+      <definition>〔动〕参见 тумбаганах.</definition>
+      <page>1114</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠨᠲᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ТУНТГАНАХ</cyrillic>
+      <definition>дуться, вздуваться, сердљться, двљгаться (о ком-л. пухлом, круглом); тумбаганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠨᠲᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>тунтганах</cyrillic>
+      <definition>тунтгар юмны тумбага; тумбага хөдлөх.</definition>
+      <page>557</page>
+    </entry_item>
+  </entries>
+</entry>

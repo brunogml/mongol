@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K2591">
+  <head>
+    <unicode>ᠺᠢᠷᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>kiralaγulqu</transcript>
+    <transcript2>giralagolgo</transcript2>
+    <cyrillic>хярлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>K2590</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠢᠷᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хярлуулах</cyrillic>
+      <definition>〔动〕хярлах /1、/2 的使动态.</definition>
+      <page>1504</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠷᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХЯРЛУУЛАХ</cyrillic>
+      <definition>хярлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хярлуулах</cyrillic>
+      <definition>Kaus von хярлах</definition>
+      <page>348</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠢᠷᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хярлуулах</cyrillic>
+      <definition>хярлахын үйлдүүлэх хэв.</definition>
+      <page>773</page>
+    </entry_item>
+  </entries>
+</entry>

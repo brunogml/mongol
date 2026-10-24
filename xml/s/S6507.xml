@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6507">
+  <head>
+    <unicode>ᠰᠥᠩᠨᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>söngnegülkü</transcript>
+    <transcript2>söngnegölgö</transcript2>
+    <cyrillic>сөгнүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S6506</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠥᠩᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сөгнүүлэх</cyrillic>
+      <definition>〔动〕сөгнөх 的使动态.</definition>
+      <page>946</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠥᠩᠨᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>СӨГНҮҮЛЭХ</cyrillic>
+      <definition>сөгнөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠥᠩᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сөгнүүлэх</cyrillic>
+      <definition>сөгнөхийн үйлдүүлэх хэв.</definition>
+      <page>483</page>
+    </entry_item>
+  </entries>
+</entry>

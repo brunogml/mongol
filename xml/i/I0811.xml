@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I0811">
+  <head>
+    <unicode>ᠢᠯᠵᠢᠯᠠᠺᠥ</unicode>
+    <transcript>ilǰilekü</transcript>
+    <transcript2>ilcilegö</transcript2>
+    <cyrillic>илжлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>I0812</ref>
+    <ref>I0809</ref>
+  </derivatives>
+  <see_also>
+    <ref>I0810</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠯᠵᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>илжлэх</cyrillic>
+      <definition>〔动〕见 ялзлах.</definition>
+      <page>611</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠯᠵᠢᠯᠠᠺᠥ</unicode>
+      <cyrillic>ИЛЖЛЭХ</cyrillic>
+      <definition>гноить, сгноить; ялзлах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>илжлэх</cyrillic>
+      <definition>verfaulen</definition>
+      <page>133</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠯᠵᠢᠯᠬᠦ</unicode>
+      <cyrillic>илжлэх</cyrillic>
+      <definition>илжрэхэд хүрүүлэх.</definition>
+      <page>303</page>
+    </entry_item>
+  </entries>
+</entry>

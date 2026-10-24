@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2741">
+  <head>
+    <unicode>ᠴᠣᠬᠰᠢᠬᠣ</unicode>
+    <transcript>čoγsiqu</transcript>
+    <transcript2>cogsigo</transcript2>
+    <cyrillic>цогших</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C2742</ref>
+    <ref>C2743</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠣᠭᠰᠢᠬᠤ</unicode>
+      <cyrillic>цогших</cyrillic>
+      <definition>〔动〕无焰无烟地燃烧，火星燃烧.</definition>
+      <page>1530</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠬᠰᠢᠬᠣ</unicode>
+      <cyrillic>ЦОГШИХ</cyrillic>
+      <definition>тлеть, сгорать без пламени, обуглиться; гал цогших догорать (пламя уменьшается и дрова обращаются в жар, в раскаленные угольки). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цогших</cyrillic>
+      <definition>Feuer glimmen, glühen</definition>
+      <page>355</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠣᠭᠰᠢᠬᠤ</unicode>
+      <cyrillic>цогших</cyrillic>
+      <definition>галын дөл утаа барагдаж улаан цог нь үлдэх; гал цогших.</definition>
+      <page>788</page>
+    </entry_item>
+  </entries>
+</entry>

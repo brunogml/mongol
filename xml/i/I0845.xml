@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="I0845">
+  <head>
+    <unicode>ᠢᠮᠠᠭᠠᠴᠢ</unicode>
+    <transcript>imaγači</transcript>
+    <transcript2>imagaci</transcript2>
+    <cyrillic>ямаач</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠢᠮᠠᠭᠠᠴᠢ</unicode>
+      <definition>pasteur de chèvres</definition>
+      <page>310</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠮᠠᠭᠠᠴᠢ</unicode>
+      <cyrillic>ЯМААЧИН</cyrillic>
+      <definition>пастух коз, козевод.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>ямаачин</cyrillic>
+      <definition>Ziegenhirt m, Ziegenzüchter m</definition>
+      <page>414</page>
+    </entry_item>
+  </entries>
+<related_to><ref>I0837</ref></related_to></entry>

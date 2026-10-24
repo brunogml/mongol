@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1164">
+  <head>
+    <unicode>ᠺᠠᠺᠠᠰᠥᠷᠠᠺᠥ</unicode>
+    <transcript>kegesürekü</transcript>
+    <transcript2>gegesöregö</transcript2>
+    <cyrillic>хигээсрэх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠭᠡᠰᠦᠷᠡᠬᠦ</unicode>
+      <cyrillic>хигээсрэх</cyrillic>
+      <definition>〔动〕呈辐条状.</definition>
+      <page>1335</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠺᠠᠰᠥᠷᠠᠺᠥ</unicode>
+      <cyrillic>ХИГЭЭСРЭХ</cyrillic>
+      <definition>ослабляться (о колёсных спицах). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠬᠡᠰᠦᠷᠡᠬᠦ</unicode>
+      <cyrillic>хигээсрэх</cyrillic>
+      <definition>хигээс мэт болох.</definition>
+      <page>675</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>K1160</ref>
+  </related_to>
+</entry>

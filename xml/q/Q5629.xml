@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q5629">
+  <head>
+    <unicode>ᠬᠣᠯᠣᠰᠣᠲᠣ</unicode>
+    <transcript>qulusutu</transcript>
+    <transcript2>golosodo</transcript2>
+    <cyrillic>хулст</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠯᠣᠰᠣᠳᠤ</unicode>
+      <definition>de roseau, couvert ou rempli de roseau</definition>
+      <page>930</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠯᠣᠰᠣᠳᠤ ᠨᠠᠭᠤᠷ</unicode>
+          <definition>lac couvert de roseau</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠯᠤᠰᠤᠲᠤ</unicode>
+      <cyrillic>хулст</cyrillic>
+      <definition>〔形〕有竹子的；有芦華的：~ газар 长竹子的地方；长芦苇的地方；~ нуур 长着芦苇的湖.</definition>
+      <page>1429</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠯᠣᠰᠣᠲᠣ</unicode>
+      <cyrillic>ХУЛСТ</cyrillic>
+      <definition>поросший бамбуком, тростником, камышом; хулст нуур озеро, поросшее тростником. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хулст</cyrillic>
+      <definition>1. mit Bambus bewachsen od versehen
+2. schilfig, schilfbewachsen</definition>
+      <page>327</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠯᠤᠰᠤᠲᠤ</unicode>
+      <cyrillic>хулст</cyrillic>
+      <definition>хулс бүхий; хулст газар; хулст шугуй; хулст нуур.</definition>
+      <page>728</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q5628</ref>
+  </related_to>
+</entry>

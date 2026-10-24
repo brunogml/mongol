@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y2817">
+  <head>
+    <unicode>ᠵᠢᠰᠢᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ǰisigülkü</transcript>
+    <transcript2>yisigölgö</transcript2>
+    <cyrillic>жишүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y2811</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠱᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>жишүүлэх</cyrillic>
+      <definition>〔动〕жиших /1、/2 /3 的使动态.</definition>
+      <page>515</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠰᠢᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЖИШҮҮЛЭХ</cyrillic>
+      <definition>жиших-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠰᠢᠭᠦᠯᠡᠬᠦ</unicode>
+      <cyrillic>жишүүлэх</cyrillic>
+      <definition>жишихийн үйлдүүлэх хэв.</definition>
+      <page>248</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y5420">
+  <head>
+    <unicode>ᠵᠥᠺᠡᠷᠢ</unicode>
+    <transcript>ǰögeri</transcript>
+    <transcript2>yögeri</transcript2>
+    <cyrillic>зөөр</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠥᠺᠡᠷᠢ</unicode>
+      <uighur>ǰökeri</uighur>
+      <cyrillic>зөөр</cyrillic>
+      <transcript>ZØGERI</transcript>
+      <definition>n. Property, household goods, chattels; means of livelihood.</definition>
+      <page>1075</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠥᠺᠡᠷᠢ ᠣᠯᠬᠤ</unicode>
+          <transcript>-- olxu</transcript>
+          <definition> To acquire a fortune.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠳ ᠵᠥᠺᠡᠷᠢ</unicode>
+          <transcript>ed --</transcript>
+          <definition> Property, household goods .</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠥᠷᠦᠩᠭᠡ ᠵᠥᠺᠡᠷᠢ</unicode>
+          <transcript>køryngge --</transcript>
+          <definition> Property.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠥᠭᠡᠷᠢ</unicode>
+      <cyrillic>зөөр</cyrillic>
+      <definition>〔名〕财产，资产，财富；资料，资材；资金，资源；◊ хөрөнгө ~ 财产，资金.</definition>
+      <page>570</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠥᠺᠡᠷᠢ</unicode>
+      <cyrillic>ЗӨӨР</cyrillic>
+      <definition>имущество; достояние, состояние, средства, собственность, движимость; хөрөнгө зөөр хорш. имущество; состояние. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠥᠭᠡᠷᠢ</unicode>
+      <cyrillic>зөөр</cyrillic>
+      <definition>хурааж хуримтлуулсан хөрөнгө хогшил;хөрөнгө зөөр&lt;хорш&gt;.</definition>
+      <page>280</page>
+    </entry_item>
+  </entries>
+</entry>

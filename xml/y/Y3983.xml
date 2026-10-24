@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3983">
+  <head>
+    <unicode>ᠶᠣᠬᠣᠯᠠᠬᠣ</unicode>
+    <transcript>yoqulaqu</transcript>
+    <transcript2>yogolago</transcript2>
+    <cyrillic>ёхлох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y3984</ref>
+    <ref>Y3986</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠣᠬᠣᠯᠠᠬᠤ</unicode>
+      <cyrillic>ёхлох</cyrillic>
+      <definition>〔动〕哟嗬，哟嗬地哼叫，呻吟，叹息.</definition>
+      <page>496</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠣᠬᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЁХЛОХ</cyrillic>
+      <definition>охать, стонать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>ёхлох</cyrillic>
+      <definition>ächzen, jammern</definition>
+      <page>108</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠣᠬᠣᠯᠠᠬᠤ</unicode>
+      <cyrillic>ёхлох</cyrillic>
+      <definition>ёх ёх гэж байн байн үглэх.</definition>
+      <page>238</page>
+    </entry_item>
+  </entries>
+</entry>

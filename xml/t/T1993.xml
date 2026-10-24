@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1993">
+  <head>
+    <unicode>ᠲᠠᠮᠠᠭᠠᠯᠠᠬᠣ</unicode>
+    <transcript>tamaγalaqu</transcript>
+    <transcript2>damagalago</transcript2>
+    <cyrillic>тамгалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1994</ref>
+    <ref>T1995</ref>
+    <ref>T1997</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠮᠠᠭᠠᠯᠠᠬᠣ</unicode>
+      <uighur>tamaγalaqu</uighur>
+      <cyrillic>тамгалах</cyrillic>
+      <transcript>TAMAΓALA-</transcript>
+      <definition>v. t. To [affix a] eal; to stamp; to brand.</definition>
+      <page>774</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠮᠠᠭᠠᠯᠠᠬᠣ</unicode>
+      <uighur>damaγalaqu</uighur>
+      <definition>siegeln, versiegeln</definition>
+      <page>231</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠮᠠᠭᠠᠯᠠᠬᠣ</unicode>
+      <uighur>tamaγalaqu</uighur>
+      <definition>v.t. To attach a seal.</definition>
+      <page>912</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠮᠠᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>тамгалах</cyrillic>
+      <definition>〔动〕①盖章，盖印：бичиг ~ 在文件上盖章（印）；②打上烙印；打上标号，贴商标，作记号：адуу ~ 给马打上烙印.</definition>
+      <page>1021</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠮᠠᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ТАМГАЛАХ</cyrillic>
+      <definition>1) ставить печать; запечатать; штамповать; захиа тамгалах запечатать письмо печатью; тушаал тамгалах ставить печать на приказ; 2) ставить тавро, мету; клеймљть; унага тамгалах клеймљть жеребят; 3) опечатывать; пломбировать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠲᠠᠮᠠᠭᠠᠯᠠᠬᠤ</unicode>
+      <definition>sceller</definition>
+      <page>1644</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠢᠴᠢᠭ ᠢ ᠪᠢᠴᠢᠭᠡᠳ ᠪᠠᠳᠤᠲᠠ ᠳᠠᠮᠠᠭᠠᠯᠠᠵᠤ ᠥᠭᠴᠦ ᠢᠯᠡᠭᠡᠺᠦ</unicode>
+          <definition>expédier la lettre, la cacheter et l'expédier</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тамгалах</cyrillic>
+      <definition>siegeln, stempeln, markieren; Tier brandmarken, ein Zeichen einbrennen</definition>
+      <page>218</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠮᠠᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>тамгалах</cyrillic>
+      <definition>тамга дарах, бичиг тамгалах, адуу тамгалах.</definition>
+      <page>518</page>
+    </entry_item>
+  </entries>
+</entry>

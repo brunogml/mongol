@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y5129">
+  <head>
+    <unicode>ᠵᠥᠰᠡ</unicode>
+    <transcript>ǰüse</transcript>
+    <transcript2>yöse</transcript2>
+    <cyrillic>зүс</cyrillic>
+  </head>
+  <see_also>
+    <ref>Y2851</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠥᠰᠡ ~ ᠵᠥᠰᠡᠨ</unicode>
+      <uighur>ǰüse - ǰüsen</uighur>
+      <cyrillic>зүс</cyrillic>
+      <transcript>ZYSE(N)</transcript>
+      <definition>n. Inundation, continuous or intense rain.</definition>
+      <page>1085</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠥᠰᠡ ᠪᠣᠷᠤᠭ᠎ᠠ</unicode>
+          <transcript>-- boruγ-a</transcript>
+          <definition>Downpour</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠦᠰᠡ</unicode>
+      <definition>inondation, débordement, pluie.</definition>
+      <page>2412</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠤᠷᠠ ᠵᠦᠰᠡ ᠵᠤᠭᠰᠤᠪᠠ</unicode>
+          <definition>la pluie a cessé</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠦᠰᠡ ᠎ᠶᠢᠨ ᠪᠦᠭᠯᠦᠭᠡ</unicode>
+          <definition>le manque de pluie, la sécheresse, un temps sec</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠥᠰᠡ</unicode>
+      <cyrillic>ЗҮС</cyrillic>
+      <definition>II : зүс бороо продолжительный дождь.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

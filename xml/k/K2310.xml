@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K2310">
+  <head>
+    <unicode>ᠺᠢᠮᠠᠭᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>kimaγalaγulqu</transcript>
+    <transcript2>gimagalagolgo</transcript2>
+    <cyrillic>хямгалуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>K2309</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠢᠮᠠᠭᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хямгалуулах</cyrillic>
+      <definition>〔动〕хямгалах 的使动态.</definition>
+      <page>1501</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠮᠠᠭᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХЯМГАЛУУЛАХ</cyrillic>
+      <definition>хямгалах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠢᠮᠠᠭᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хямгалуулах</cyrillic>
+      <definition>хямгалахын үйлдүүлэх хэв.</definition>
+      <page>771</page>
+    </entry_item>
+  </entries>
+</entry>

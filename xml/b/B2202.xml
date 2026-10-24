@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2202">
+  <head>
+    <unicode>ᠪᠢᠲᠠᠺᠠᠢ</unicode>
+    <transcript>bitegei</transcript>
+    <transcript2>bidegei</transcript2>
+    <cyrillic>битгий</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠢᠲᠠᠺᠠᠢ</unicode>
+      <uighur>bitegei</uighur>
+      <cyrillic>битгий</cyrillic>
+      <transcript>BITEGEI</transcript>
+      <definition>[=betegei] Prohibitive particle used before imperative, optative, and dubitative. Cf. buu.</definition>
+      <page>107</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠢᠲᠠᠺᠠᠢ ᠶᠠᠪᠤ</unicode>
+          <transcript>-- jabu!</transcript>
+          <definition> Do not go!.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠢᠳᠡᠺᠡᠢ ~ ᠪᠡᠳᠡᠺᠡᠢ</unicode>
+      <definition>particule prohibitive ne devant l'impératif.</definition>
+      <page>1138</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠢᠳᠡᠺᠡᠢ ᠬᠤᠯᠠᠭᠤ</unicode>
+          <definition>ne vole pas!</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠢᠳᠡᠺᠡᠢ ᠲᠥᠷᠭᠡᠯᠡ</unicode>
+          <definition>ne te dépêche pas!</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠢᠲᠡᠭᠡᠢ</unicode>
+      <cyrillic>битгий</cyrillic>
+      <definition>〔小〕不要，不可，不能，别，勿，莫，甭：~ яв 别走，不要走；~ тэгээрэй 不要那样.</definition>
+      <page>155</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠢᠲᠠᠺᠠᠢ</unicode>
+      <cyrillic>БИТГИЙ</cyrillic>
+      <definition>үгүйсгэх сул үг; не; не надо; не сметь; битгий булзааруул, үнэнээ хэл не вертись, говори правду; битгий голоорой не побрезгайте; битгий гунихар не унывай; битгий жоолон жоолон гээд бай! брось трепаться; битгий зов будь спокоен; битгий маягла! не ломайся!; битгий мэдэмхийр, зааснаар хий не умничай, делай, как велят; битгий нуу, ярь не таись, говори; битгий нэрэлх не церемонься; битгий тогло / битгий даажигна полно шутить; битгий яв! не ходи!, не смей ходить!</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>битгий</cyrillic>
+      <definition>beim Imp nicht; ~ яв! gehe nicht!; та ~ хэлээрэй! sagen Sie das nicht!</definition>
+      <page>52</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠢᠲᠡᠭᠡᠢ</unicode>
+      <cyrillic>битгий</cyrillic>
+      <definition>битий.</definition>
+      <page>84</page>
+    </entry_item>
+  </entries>
+</entry>

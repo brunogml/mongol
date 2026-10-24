@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1814">
+  <head>
+    <unicode>ᠮᠣᠰᠢᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>musilǰaγulqu</transcript>
+    <transcript2>mosilcagolgo</transcript2>
+    <cyrillic>мушилзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>M1813</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠤᠰᠢᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>мушилзуулах</cyrillic>
+      <definition>〔动〕мушилзах 的使动态.</definition>
+      <page>700</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠰᠢᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>МУШИЛЗУУЛАХ</cyrillic>
+      <definition>мушилзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠤᠰᠢᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>мушилзуулах</cyrillic>
+      <definition>мушилзахын үйлдүүлэх хэв.</definition>
+      <page>353</page>
+    </entry_item>
+  </entries>
+</entry>

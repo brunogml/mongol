@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B2178">
+  <head>
+    <unicode>ᠪᠢᠰᠨᠣ</unicode>
+    <transcript>bisnu</transcript>
+    <transcript2>bisno</transcript2>
+    <cyrillic>бишнү</cyrillic>
+  </head><see_also>
+    <ref>B2178a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠢᠰᠨᠤ</unicode>
+      <definition>Viçnou.</definition>
+      <page>1133</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠢᠰᠨᠤ ᠡᠴᠡ ᠲᠥᠷᠥᠭᠰᠡᠨ</unicode>
+          <definition>santal (santalum album)</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠢᠰᠨᠤ ᠎ᠶᠢᠨ ᠺᠥᠯ</unicode>
+          <definition>nom du Gange</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠢᠰᠨᠤ ᠎ᠶᠢᠨ ᠺᠥᠯᠭᠡ</unicode>
+          <definition>nom de l'oiseau Garoudha</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

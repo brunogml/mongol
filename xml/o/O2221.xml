@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O2221">
+  <head>
+    <unicode>ᠥᠷᠺᠥᠯᠵᠢᠯᠠᠯ</unicode>
+    <transcript>ürgülǰilel</transcript>
+    <transcript2>örgölcilel</transcript2>
+    <cyrillic>үргэлжлэл</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠥᠷᠺᠥᠯᠵᠢᠯᠠᠯ</unicode>
+      <uighur>ürgülǰilel</uighur>
+      <cyrillic>үргэлжлэл</cyrillic>
+      <transcript>YRGYLZILEL</transcript>
+      <definition>n. Continuance, continuation, uninterruptedness, sequence, sequel.</definition>
+      <page>1013</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠮᠦᠨᠡᠺᠢ ᠎ᠶᠢᠨ ᠥᠷᠺᠥᠯᠵᠢᠯᠠᠯ</unicode>
+          <transcript>emyneki jin -- </transcript>
+          <definition> Continuation of the preceding.</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠥᠷᠦᠨ ᠤ ᠥᠷᠺᠥᠯᠵᠢᠯᠠᠯ</unicode>
+          <transcript>møryn y -- </transcript>
+          <definition> The uninterrupted flow of the river .</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠯ</unicode>
+      <definition>continuité, durée continue. étendue infinie, infinité: 2 cause efficiente, qui produit directement un certain effet.</definition>
+      <page>593</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠥᠷᠥᠺᠦ ᠎ᠶᠢᠨ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠯ ᠢ ᠲᠠᠰᠤᠯᠬᠤ</unicode>
+          <definition>rompre la chaîne des renaissances c-à-d. se délivrer de la nécessité de renaître</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠥᠷᠡᠨ ᠤ ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠯ</unicode>
+          <definition>le cournat non ninterrompu d'un fleuve</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠯ</unicode>
+      <cyrillic>үргэлжлэл</cyrillic>
+      <definition>〔名〕后续，继续，延续，后续部分.</definition>
+      <page>1244</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠷᠺᠥᠯᠵᠢᠯᠠᠯ</unicode>
+      <cyrillic>ҮРГЭЛЖЛЭЛ</cyrillic>
+      <definition>продолжение; непрерывность; туужийн үргэлжлэл продолжение повести; урьдын үргэлжлэл продолжение предыдущего; үргэлжлэл болох являться продолжением; үргэлжлэл нь дараа гарна продолжение следует; үргэлжлэл тасархай тоо. разрыв непрерывности. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>үргэлжлэл</cyrillic>
+      <definition>Fortsetzung f, Weiterführung f; огүүллэгийн ~ Fortsetzung der Erzählung</definition>
+      <page>274</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠦᠷᠭᠦᠯᠵᠢᠯᠡᠯ</unicode>
+      <cyrillic>үргэлжлэл</cyrillic>
+      <definition>үргэлж юмны хагас, зарим нь; түүхийн үргэлжлэл; үүний үргэлжлэл нь дараагийн дугаарт.</definition>
+      <page>624</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>O2222</ref>
+    <ref>O2223</ref>
+  </derivatives>
+</entry>

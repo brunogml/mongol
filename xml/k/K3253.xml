@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K3253">
+  <head>
+    <unicode>ᠺᠥᠩᠺᠡᠷᠲᠥᠺᠥ</unicode>
+    <transcript>könggertükü</transcript>
+    <transcript2>gönggerdögö</transcript2>
+    <cyrillic>хөнгөртөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K3252</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠩᠭᠡᠷᠲᠦᠬᠦ</unicode>
+      <cyrillic>хөнгөртөх</cyrillic>
+      <definition>〔动〕①发霉；②挂霜.</definition>
+      <page>1400</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠩᠺᠡᠷᠲᠥᠺᠥ</unicode>
+      <cyrillic>ХӨНГӨРТӨХ</cyrillic>
+      <definition>образоваться плесень. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хөнгөртөх</cyrillic>
+      <definition>sich mit einem Belag überziehen</definition>
+      <page>319</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠩᠭᠡᠷᠲᠦᠬᠦ</unicode>
+      <cyrillic>хөнгөртөх</cyrillic>
+      <definition>юманд хөнгөр тогтох.</definition>
+      <page>711</page>
+    </entry_item>
+  </entries>
+</entry>

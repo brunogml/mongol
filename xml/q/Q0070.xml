@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q0070">
+  <head>
+    <unicode>ᠬᠠᠨᠠᠯᠭ᠎ᠠ</unicode>
+    <transcript>qanalγ-a</transcript>
+    <transcript2>ganalga</transcript2>
+    <cyrillic>ханалга</cyrillic>
+  </head><see_also>
+    <ref>Q0143</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠨᠠᠯᠭ᠎ᠠ</unicode>
+      <uighur>qanalγ-a</uighur>
+      <cyrillic>ханалга</cyrillic>
+      <transcript>XANALΓ-A</transcript>
+      <definition>n. Phlebotomy.</definition>
+      <page>927</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠨᠠᠯᠭ᠎ᠠ ᠎ᠶᠢᠨ ᠵᠠᠰᠠᠯ</unicode>
+          <transcript>-- jin zasal</transcript>
+          <definition> Phlebotomy.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠨᠠᠯᠭ᠎ᠠ</unicode>
+      <definition>une saignée, pblêbotomie</definition>
+      <page>720</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠨᠠᠯᠭ᠎ᠠ ᠎ᠶᠢᠨ ᠵᠠᠰᠠᠯ</unicode>
+          <definition>traitement au moyen d'une saignée</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

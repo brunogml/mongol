@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1426">
+  <head>
+    <unicode>ᠣᠳᠣᠮᠰᠢᠬᠣ</unicode>
+    <transcript>udumsiqu</transcript>
+    <transcript2>odomsigo</transcript2>
+    <cyrillic>удамших</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U1427</ref>
+    <ref>U1428</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠳᠣᠮᠰᠢᠬᠣ</unicode>
+      <uighur>udumsiqu</uighur>
+      <cyrillic>удамших</cyrillic>
+      <transcript>UDUMSI-</transcript>
+      <definition>v. i. To inherit a characteristic, follow a family tradition</definition>
+      <page>861</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠳᠣᠮᠰᠢᠭᠰᠠᠨ</unicode>
+          <transcript>--γsan</transcript>
+          <definition> A family which became prominent by carrying on a family tradition</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠳᠣᠮᠰᠢᠭᠰᠠᠨ ᠵᠠᠩ</unicode>
+          <transcript>--γsan zang</transcript>
+          <definition> Inherited custom or behavior.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠳᠤᠮᠰᠢᠬᠤ</unicode>
+      <cyrillic>удамших</cyrillic>
+      <definition>〔动〕①承继，遗传，承袭；②成传统，形成遗传性：~ өвчин 遗传病；~ хууль 遗传规律；~ хэв 遗传型；~ чанар 遗传性；удамшсан ийлдэс 遗传反射；удамшсан салга 遗传性震颤.</definition>
+      <page>1176</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠳᠣᠮᠰᠢᠬᠣ</unicode>
+      <cyrillic>УДАМШИХ</cyrillic>
+      <definition>1. наследоваться; передаваться по наследству; 2. наследственный, преемственный; удамших чанар наследственность. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠳᠣᠮᠰᠢᠬᠣ</unicode>
+      <cyrillic>УДАМШСАН</cyrillic>
+      <definition>наследственный, передаваемый по наследству. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>удамших</cyrillic>
+      <definition>Biol, Med erben, sich vererben; ~ өвчин Erbkrankheit f; удамшсан хариу үйлдэл vererbter Reflex</definition>
+      <page>253</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠳᠤᠮᠰᠢᠬᠤ</unicode>
+      <cyrillic>удамших</cyrillic>
+      <definition>удамшил тогтох, удамшилтай болох.</definition>
+      <page>585</page>
+    </entry_item>
+  </entries>
+</entry>

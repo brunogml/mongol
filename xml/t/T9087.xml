@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9087">
+  <head>
+    <unicode>ᠳᠥᠺᠥᠺᠥ</unicode>
+    <transcript>dökükü</transcript>
+    <transcript2>dögögö</transcript2>
+    <cyrillic>дөхөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T9091</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠥᠺᠥᠺᠥ</unicode>
+      <uighur>dögükü</uighur>
+      <cyrillic>дөхөх</cyrillic>
+      <transcript>DØKY-</transcript>
+      <definition>v.i. To approach, move closer, be close to.</definition>
+      <page>266</page>
+      <examples>
+        <example>
+          <unicode>ᠦᠷ ᠴᠠᠶᠢᠬᠤ ᠳᠥᠺᠥᠮᠦᠢ</unicode>
+          <transcript>yr caixu --myi</transcript>
+          <definition> It is close to dawn</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠥᠬᠥᠬᠦ</unicode>
+      <cyrillic>дөхөх</cyrillic>
+      <definition>〔动〕靠近，接近，临近，快到：биднийг хотод ~ж очтол …当我们快到城市时…；шинэ жил гарах ~ж байна 临近新年了； хугацаа ~ 临近期限；гүйцэх ~ж байна 接近完成，快要结束；◊ ахих ~ 进展，临近.</definition>
+      <page>433</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠥᠺᠥᠺᠥ</unicode>
+      <cyrillic>ДӨХӨХ</cyrillic>
+      <definition>1) приближаться; близиться; пододвинуться; үүр цайх дөхөж байна приближается рассвет; явах өдөр дөхлөө приблизился день отъезда; дөхөж суух пододвигаться; 2) завершаться, заканчиваться; гүйцэх дөхөж байна приближается к концу; ажил дуусах дөхөж байна работа подходит к концу. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠥᠬᠥᠬᠦ</unicode>
+      <cyrillic>дөхөх</cyrillic>
+      <definition>1. ойртох, ойртож ирэх;ахих дөхөх&lt;хорш&gt;; биднийг хотод дөхөж очтол;2. өдөр сарын хоног хугацаа ойртох; шинэ жил гарах дөхөж байна; хугацаа дөхөх;3. ажил явдлын төгсгөл ойртох; унших дуусах дөхөж байна.</definition>
+      <page>207</page>
+    </entry_item>
+  </entries>
+</entry>

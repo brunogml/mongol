@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2631">
+  <head>
+    <unicode>ᠣᠷᠢᠴᠢᠯᠠᠬᠣ</unicode>
+    <transcript>uričilaqu</transcript>
+    <transcript2>oricilago</transcript2>
+    <cyrillic>урьчлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U2632</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠷᠢᠳᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>урьчлах</cyrillic>
+      <definition>〔动〕参见 урьдчилах.</definition>
+      <page>1207</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠷᠢᠴᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>УРЬЧЛАХ</cyrillic>
+      <definition>яриа. урьдчилах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠷᠢᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>урьчлах</cyrillic>
+      <definition>урьдчилах.</definition>
+      <page>601</page>
+    </entry_item>
+  </entries>
+</entry>

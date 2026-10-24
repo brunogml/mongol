@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A2345">
+  <head>
+    <unicode>ᠠᠯᠢᠪᠠ</unicode>
+    <transcript>aliba</transcript>
+    <transcript2>aliba</transcript2>
+    <cyrillic>аливаа</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠯᠢᠪᠠ</unicode>
+      <uighur>aliba</uighur>
+      <cyrillic>аливаа</cyrillic>
+      <transcript>ALIBA</transcript>
+      <definition>pron. and adj. Whoever, whatever, whichever; who, which., what; anything, anybody; every, all.</definition>
+      <page>32</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠯᠢᠪᠠ ᠶᠠᠭᠤᠮ᠎ᠠ</unicode>
+          <transcript>-- jaγum-a</transcript>
+          <definition> Anything, everything, all things.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠯᠢᠪᠠ ᠨᠢᠭᠡᠨ</unicode>
+          <transcript>-- nigen</transcript>
+          <definition> Anyone, everyone.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠯᠢᠪᠠ ᠨᠢᠭᠡᠨ ᠲᠠᠯᠠ ᠪᠡᠷ</unicode>
+          <transcript>-- nigen tal-a ber</transcript>
+          <definition> In any or every respect.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠯᠢᠪᠠ ᠵᠦᠢᠯ</unicode>
+          <transcript>-- zyil</transcript>
+          <definition> All kinds, every kind.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠯᠢᠪᠠ</unicode>
+      <definition>chaque, chacun, quiconque</definition>
+      <page>77</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠯᠢᠪᠠ ᠴᠤ</unicode>
+          <definition>quiconque, quelque chose, toute. sorte</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠯᠢᠪᠠ ᠶᠠᠭᠤᠮ᠎ᠠ</unicode>
+          <definition>quelconque, quelque chose</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠠᠯᠢᠪᠠ</unicode>
+      <uighur>aliba</uighur>
+      <definition>allerlei, irgend ein</definition>
+      <page>12</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠠᠯᠢᠪᠠ</unicode>
+      <uighur>aliba</uighur>
+      <definition>Any. Whichever. Every, each, all, divers, of all kinds.</definition>
+      <page>44</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠠᠯᠢᠪᠠ</unicode>
+      <uighur>aliba yaγum-a</uighur>
+      <definition>Everything, anything.</definition>
+      <page>45</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠯᠢᠪᠠ</unicode>
+      <cyrillic>аливаа</cyrillic>
+      <definition>〔代〕所有的，一切，各种各样的，任何的，无论什么样的：~ юм 所有的东西，万物；~ ажил 一切工作.</definition>
+      <page>42</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠯᠢᠪᠠ</unicode>
+      <cyrillic>АЛИВАА</cyrillic>
+      <definition>аль–ийн олон., 1. 1) всякий, каждый, любой, какой бы ни был; энный; аливаа арга хэрэглэх использовать, применять, употреблять любые средства; аливаа зүйл всякое; аливаа нэгэн өвчин гарваас в случае какого-л. заболевания; аливаа тохиолдолд во всяком случае; аливаа хүн любой человек; аливаа юм любой предмет, какая-нибудь вещь; аливаа юмыг бодож тунгааж бай! всякое дело трижды обдумай!; аливаа юм (өөрийн) цаг хугацаатай байдаг всему своё время; 2) никакой, ни один; разный, разнообразный; 2. все; все и вся; весь; аливаа бүгд все целиком.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Mostaert</dico>
+      <unicode>ᠠᠯᠢᠪᠠ</unicode>
+      <definition>n'importe quel</definition>
+      <page>17</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>аливаа</cyrillic>
+      <definition>jeder, jedes beliebige; ~ нэгэн jeder, wer auch immer; ~ зүйл od юм[ан] allerlei Sachen</definition>
+      <page>28</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠯᠢᠪᠠ</unicode>
+      <cyrillic>аливаа</cyrillic>
+      <definition>1. хамаг;2. энэ тэр, ямарваа; аливаа юм; аливаа хэрэг; аливаа ажил.</definition>
+      <page>32</page>
+    </entry_item>
+  </entries>
+</entry>

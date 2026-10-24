@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K0811">
+  <head>
+    <unicode>ᠺᠠᠯᠲᠠᠯᠺᠥ</unicode>
+    <transcript>keltelkü</transcript>
+    <transcript2>geldelgö</transcript2>
+    <cyrillic>хэлтлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K0810</ref>
+  </derivatives>
+  <see_also>
+    <ref>K0805</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠯᠲᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>хэлтлэх</cyrillic>
+      <definition>〔动〕掰，掰开，掰下.</definition>
+      <page>1479</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠯᠲᠠᠯᠺᠥ</unicode>
+      <cyrillic>ХЭЛТЛЭХ</cyrillic>
+      <definition>откалывать, отламывать; оторвать; цэрд хэлтлэн авав он отколол кусок мела. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠯᠲᠡᠯᠬᠦ</unicode>
+      <cyrillic>хэлтлэх</cyrillic>
+      <definition>хэлтлэхэд хүрүүлэх;хэлтлэх эмтлэх&lt;хорш&gt;; боов хэлтэлж идэв.</definition>
+      <page>759</page>
+    </entry_item>
+  </entries>
+</entry>

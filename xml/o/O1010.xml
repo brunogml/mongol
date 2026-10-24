@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1010">
+  <head>
+    <unicode>ᠥᠯᠪᠠᠯᠵᠠᠺᠥ</unicode>
+    <transcript>ülbelǰekü</transcript>
+    <transcript2>ölbelcegö</transcript2>
+    <cyrillic>үлбэлзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>O1012</ref>
+  </derivatives>
+  <see_also>
+    <ref>O1011</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠦᠯᠪᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>үлбэлзэх</cyrillic>
+      <definition>〔动〕参见 үлбэгнэх.</definition>
+      <page>1236</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠯᠪᠠᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>ҮЛБЭЛЗЭХ</cyrillic>
+      <definition>үлбэгнэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>үлбэлзэх</cyrillic>
+      <definition>= үлбэгнэх</definition>
+      <page>271</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠦᠯᠪᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>үлбэлзэх</cyrillic>
+      <definition>үлбэгэр юмны байн байн хөдлөх.</definition>
+      <page>619</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠦᠯᠪᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>үрвэлзэх</cyrillic>
+      <definition>1. галын дээш дүрэлзэн шатах; гал үрвэлзэх; үрвэлзэн асах;2. үрвэлзүүр байдал гаргах.</definition>
+      <page>624</page>
+    </entry_item>
+  </entries>
+</entry>

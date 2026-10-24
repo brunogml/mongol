@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y2995">
+  <head>
+    <unicode>ᠵᠢᠯᠠᠪᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰilabalǰaγulqu</transcript>
+    <transcript2>yilabalcagolgo</transcript2>
+    <cyrillic>жалбалзуулах</cyrillic>
+  </head><related_to>
+    <ref>Y2994</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠢᠯᠠᠪᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <definition>mouvoir, remuer, tourner.</definition>
+      <page>2345</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠡᠯᠡᠨ ᠢᠶᠡᠨ ᠵᠢᠯᠠᠪᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+          <definition>remuer la langue très vite</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠯᠪᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>жалбалзуулах</cyrillic>
+      <definition>〔动〕жалбалзах 的使动态.</definition>
+      <page>500</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠯᠠᠪᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЖАЛБАЛЗУУЛАХ</cyrillic>
+      <definition>жалбалзах-ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

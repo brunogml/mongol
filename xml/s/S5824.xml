@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5824">
+  <head>
+    <unicode>ᠰᠣᠯᠣᠩᠭᠠᠲᠣᠬᠣ</unicode>
+    <transcript>solungγatuqu</transcript>
+    <transcript2>solonggadogo</transcript2>
+    <cyrillic>солонготох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5825</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠯᠣᠩᠭᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>солонготох</cyrillic>
+      <definition>〔动〕参见 солонгорох.</definition>
+      <page>935</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠯᠣᠩᠭᠠᠲᠣᠬᠣ</unicode>
+      <cyrillic>СОЛОНГОТОХ</cyrillic>
+      <definition>1. виднеться в радужных цветах; 2. солонготохуй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠯᠣᠩᠭᠠᠲᠣᠬᠣ</unicode>
+      <cyrillic>СОЛОНГОТОХУЙ</cyrillic>
+      <definition>перелив. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠯᠣᠩᠭᠠᠲᠣᠬᠣ</unicode>
+      <cyrillic>СОЛОНГОТСОН</cyrillic>
+      <definition>с радужным отливом, переливчатый. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>солонготох</cyrillic>
+      <definition>= солонголох</definition>
+      <page>200</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠯᠣᠩᠭᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>солонготох</cyrillic>
+      <definition>солонго мэт өнгөтэй харагдах.</definition>
+      <page>478</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S5822</ref>
+  </related_to>
+</entry>

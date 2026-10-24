@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B0712">
+  <head>
+    <unicode>ᠪᠠᠳᠪᠠ</unicode>
+    <transcript>badba</transcript>
+    <transcript2>badba</transcript2>
+    <cyrillic>бадба</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠠᠳᠪᠠ</unicode>
+      <uighur>badba</uighur>
+      <transcript>BADBA</transcript>
+      <definition>[= badam. T. srin bu pad ma] n. Leech.</definition>
+      <page>66</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠠᠳᠪᠠ ᠬᠣᠷᠤᠬᠠᠢ</unicode>
+          <transcript>-- xoruxai</transcript>
+          <definition> Leech.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠠᠳᠪᠠ ᠬᠣᠷᠤᠬᠠᠢ</unicode>
+      <definition>nom d&apos;un ver.</definition>
+      <page>1072</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠳᠪᠠ</unicode>
+      <cyrillic>БАДБА</cyrillic>
+      <definition>: бадба хорхой шавж. пиявка.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

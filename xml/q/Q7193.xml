@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q7193">
+  <head>
+    <unicode> ᠬᠣᠷᠳ᠋</unicode>
+    <transcript>qurd</transcript>
+    <transcript2>gord</transcript2>
+    <cyrillic>хурд</cyrillic>
+  </head><see_also>
+    <ref>Q7202</ref>
+  
+    <ref>Q7192</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠷᠳ᠋</unicode>
+      <uighur>qurd</uighur>
+      <cyrillic>хурд</cyrillic>
+      <transcript>XURD</transcript>
+      <page>988</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠷᠳ᠋ ᠬᠠᠷᠳ᠋</unicode>
+          <transcript>-- xard</transcript>
+          <definition> Onomat. adverbial phrase used to express the noise of friction, sudden movement etc.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode> ᠬᠣᠷᠳ᠋</unicode>
+      <cyrillic>ХУРД</cyrillic>
+      <definition>II : хурд хард аялга. выражение звука нападения собаки. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

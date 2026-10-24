@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3206">
+  <head>
+    <unicode>ᠴᠣᠴᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čočuγulqu</transcript>
+    <transcript2>cocogolgo</transcript2>
+    <cyrillic>цоцуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C3203</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠣᠴᠣᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цоцуулах</cyrillic>
+      <definition>〔动〕цоцох 的使动态.</definition>
+      <page>1539</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠴᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦОЦУУЛАХ</cyrillic>
+      <definition>цоцох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цоцуулах</cyrillic>
+      <definition>Kaus von цоцох</definition>
+      <page>358</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠣᠴᠣᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цоцуулах</cyrillic>
+      <definition>цоцохын үйлдүүлэх хэв.</definition>
+      <page>793</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3957">
+  <head>
+    <unicode>ᠳᠠᠯᠪᠠᠺᠥ</unicode>
+    <transcript>delbekü</transcript>
+    <transcript2>delbegö</transcript2>
+    <cyrillic>дэлбэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T3958</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠯᠪᠠᠺᠥ</unicode>
+      <cyrillic>ДЭЛБЭХ</cyrillic>
+      <definition>I править лошадью (на телеге, санях). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠯᠪᠠᠺᠥ</unicode>
+      <cyrillic>ДЭЛБЭХ</cyrillic>
+      <definition>II: элбэх дэлбэх хорш. помогать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠯᠪᠡᠬᠦ</unicode>
+      <cyrillic>дэлбэх /1</cyrillic>
+      <definition>тэрэг жолоодох.</definition>
+      <page>225</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠯᠪᠡᠬᠦ</unicode>
+      <cyrillic>дэлбэх /2</cyrillic>
+      <definition>элбэх;элбэх дэлбэх&lt;хорш&gt;.</definition>
+      <page>225</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1941">
+  <head>
+    <unicode>ᠴᠢᠮᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čimalaγulqu</transcript>
+    <transcript2>cimalagolgo</transcript2>
+    <cyrillic>чамлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C1940</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠮᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>чамлуулах</cyrillic>
+      <definition>〔动〕чамлах 的使动态.</definition>
+      <page>1577</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠮᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЧАМЛУУЛАХ</cyrillic>
+      <definition>чамлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чамлуулах</cyrillic>
+      <definition>Kaus von чамлах</definition>
+      <page>368</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠮᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>чамлуулах</cyrillic>
+      <definition>чамлахын үйлдүүлэх хэв.</definition>
+      <page>813</page>
+    </entry_item>
+  </entries>
+</entry>

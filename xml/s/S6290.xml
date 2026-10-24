@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6290">
+  <head>
+    <unicode>ᠱᠣᠷᠪᠣᠬᠳᠠᠬᠣ</unicode>
+    <transcript>šorbuγdaqu</transcript>
+    <transcript2>sorbogdago</transcript2>
+    <cyrillic>шорвогдох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6292</ref>
+    <ref>S6293</ref>
+  </derivatives>
+  <see_also>
+    <ref>S6291</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠣᠷᠪᠣᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>шорвогдох</cyrillic>
+      <definition>〔动〕变得太咸、过咸.</definition>
+      <page>1650</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠷᠪᠣᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ШОРВОГДОХ</cyrillic>
+      <definition>пересаливаться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шорвогдох</cyrillic>
+      <definition>zu salzig sein</definition>
+      <page>389</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠣᠷᠪᠣᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>шорвогдох</cyrillic>
+      <definition>хэтэрхий шорвог болох.</definition>
+      <page>855</page>
+    </entry_item>
+  </entries>
+</entry>

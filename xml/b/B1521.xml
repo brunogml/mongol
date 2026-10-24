@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1521">
+  <head>
+    <unicode> ᠪᠠᠷᠥᠮᠧᠲᠧᠷ</unicode>
+    <transcript>barometer</transcript>
+    <transcript2>baromeder</transcript2>
+    <cyrillic>барометр</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠷᠣᠮᠧᠲ᠋ᠷ</unicode>
+      <cyrillic>барометр</cyrillic>
+      <definition>〔名〕风雨表，气压表，晴雨表.</definition>
+      <page>138</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode> ᠪᠠᠷᠥᠮᠧᠲᠧᠷ</unicode>
+      <cyrillic>БАРОМЕТР</cyrillic>
+      <definition>барометр; барометр бууж явна барометр падает; барометр өгсөж явна барометр поднимается.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>барометр</cyrillic>
+      <definition>Barometer n; ~ буужж явна das Barometer fällt; ~ өгсөж явна das Barometer steigt</definition>
+      <page>48</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠷᠣᠮᠧᠲ᠋ᠷ</unicode>
+      <cyrillic>барометр</cyrillic>
+      <definition>агаарын даралтыг хэмжих багаж; барометрийн хэмжээ.</definition>
+      <page>78</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q5571">
+  <head>
+    <unicode>ᠭᠣᠯᠢᠷᠯᠠᠬᠣ</unicode>
+    <transcript>γulirlaqu</transcript>
+    <transcript2>golirlago</transcript2>
+    <cyrillic>гуриллах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠣᠯᠢᠷᠯᠠᠬᠣ</unicode>
+      <uighur>γulirlaqu</uighur>
+      <cyrillic>гуриллах</cyrillic>
+      <transcript>ΓULIRLA-</transcript>
+      <definition>v.t. To grind, reduce to flour.</definition>
+      <page>367</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠤᠯᠢᠷᠯᠠᠬᠤ</unicode>
+      <definition>moudre, réduire en farine.</definition>
+      <page>1032</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠠᠰᠤᠨ ᠢ ᠰᠢᠯᠠᠭᠤᠨ ᠢᠶᠠᠷ ᠺᠡᠮᠭᠡᠯᠦᠨ ᠭᠤᠯᠢᠷᠯᠠᠬᠤ</unicode>
+          <definition>avec une pierre broyer les os</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠤᠯᠢᠷᠯᠠᠬᠤ</unicode>
+      <cyrillic>гуриллах</cyrillic>
+      <definition>〔动〕磨面，磨成粉，碾成粉.</definition>
+      <page>331</page>
+    </entry_item>
+  </entries>
+<related_to><ref>Q5564</ref></related_to></entry>

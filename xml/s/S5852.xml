@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5852">
+  <head>
+    <unicode>ᠱᠣᠯᠣᠬᠳᠠᠬᠣ</unicode>
+    <transcript>šuluγdaqu</transcript>
+    <transcript2>sologdago</transcript2>
+    <cyrillic>шулагдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S5850</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠤᠯᠤᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>шулагдах</cyrillic>
+      <definition>〔动〕шулах 的被动态.</definition>
+      <page>1658</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠯᠣᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ШУЛАГДАХ</cyrillic>
+      <definition>шулах-ын үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шулагдах</cyrillic>
+      <definition>Pass von шулах</definition>
+      <page>391</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠤᠯᠤᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>шулагдах</cyrillic>
+      <definition>шулахын үйлдэгдэх хэв.</definition>
+      <page>858</page>
+    </entry_item>
+  </entries>
+</entry>

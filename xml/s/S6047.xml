@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6047">
+  <head>
+    <unicode>ᠱᠣᠵᠢᠺᠢᠨᠠᠬᠣ</unicode>
+    <transcript>šoǰiginaqu</transcript>
+    <transcript2>sociginago</transcript2>
+    <cyrillic>шожигнох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6048</ref>
+    <ref>S6049</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠣᠵᠢᠭᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>шожигнох</cyrillic>
+      <definition>〔动〕潺潺作声，簌簌作响，发淙淙声（指小溪流水声），发出倾注声.</definition>
+      <page>1646</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠵᠢᠺᠢᠨᠠᠬᠣ</unicode>
+      <cyrillic>ШОЖИГНОХ</cyrillic>
+      <definition>журчать (о тонкой струе воды); течь, протекать, просачиваться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шожигнох</cyrillic>
+      <definition>Wasserstrahl rieseln</definition>
+      <page>389</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠣᠵᠢᠭᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>шожигнох</cyrillic>
+      <definition>шингэн юмны гоожих урсах зэрэгт шор шор чимээ гарах.</definition>
+      <page>853</page>
+    </entry_item>
+  </entries>
+</entry>

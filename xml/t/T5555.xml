@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5555">
+  <head>
+    <unicode>ᠳᠣᠩᠲᠣᠬᠣ</unicode>
+    <transcript>dongtuqu</transcript>
+    <transcript2>dongdogo</transcript2>
+    <cyrillic>донтох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T5556</ref>
+    <ref>T5557</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠣᠩᠲᠣᠬᠤ</unicode>
+      <cyrillic>донтох</cyrillic>
+      <definition>〔动〕疯言疯语，胡言乱语，说颠话.</definition>
+      <page>416</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠩᠲᠣᠬᠣ</unicode>
+      <cyrillic>ДОНТОХ</cyrillic>
+      <definition>испытывать сильное влечение к чему-л. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>донтох</cyrillic>
+      <definition>1. phantasieren
+2. erpicht sein (auf etw. -д)</definition>
+      <page>95</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠣᠩᠲᠣᠬᠤ</unicode>
+      <cyrillic>донтох</cyrillic>
+      <definition>дон нөхцөж дэмий ярих, дэмий донгосох.</definition>
+      <page>200</page>
+    </entry_item>
+  </entries>
+</entry>

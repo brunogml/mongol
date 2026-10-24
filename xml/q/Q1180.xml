@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1180">
+  <head>
+    <unicode>ᠬᠠᠪᠲᠠᠰᠣᠯᠠᠬᠴᠢ</unicode>
+    <transcript>qabtasulaγči</transcript>
+    <transcript2>gabdasolagci</transcript2>
+    <cyrillic>хавтаслагч</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠪᠲᠠᠰᠣᠯᠠᠬᠴᠢ</unicode>
+      <uighur>qabdasolaqči</uighur>
+      <cyrillic>хавтаслагч</cyrillic>
+      <transcript>XABTASULAΓCI</transcript>
+      <definition>n. Bookbinder</definition>
+      <page>900</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠪᠲᠠᠰᠤᠯᠠᠭᠴᠢ</unicode>
+      <cyrillic>хавтаслагч</cyrillic>
+      <definition>〔名〕书籍装订工，订书工人.</definition>
+      <page>1264</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠪᠲᠠᠰᠣᠯᠠᠬᠴᠢ</unicode>
+      <cyrillic>ХАВТАСЛАГЧ</cyrillic>
+      <definition>переплётчик. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хавтаслагч</cyrillic>
+      <definition>Buchbinder m</definition>
+      <page>280</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠪᠲᠠᠰᠤᠯᠠᠭᠴᠢ</unicode>
+      <cyrillic>хавтаслагч</cyrillic>
+      <definition>хавтаслах үйл гүйцэтгэгч; ном хавтаслагч.</definition>
+      <page>635</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q1177</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3034">
+  <head>
+    <unicode>ᠴᠣᠯᠺᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čolgilaγulqu</transcript>
+    <transcript2>colgilagolgo</transcript2>
+    <cyrillic>цолгилуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C3033</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠣᠯᠭᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цолгилуулах</cyrillic>
+      <definition>〔动〕цолгилох 的使动态.</definition>
+      <page>1531</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠯᠺᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦОЛГИЛУУЛАХ</cyrillic>
+      <definition>цолгилох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цолгилуулах</cyrillic>
+      <definition>Kaus von цолгилох</definition>
+      <page>355</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠣᠯᠭᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цолгилуулах</cyrillic>
+      <definition>цолгилохын үйлдүүлэх хэв.</definition>
+      <page>789</page>
+    </entry_item>
+  </entries>
+</entry>

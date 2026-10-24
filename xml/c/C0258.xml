@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0258">
+  <head>
+    <unicode>ᠴᠠᠪᠠᠣᠰᠢᠬᠣ</unicode>
+    <transcript>čabausiqu</transcript>
+    <transcript2>cabaosigo</transcript2>
+    <cyrillic>цавууших</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠪᠠᠤᠰᠢᠬᠤ</unicode>
+      <cyrillic>цавууших</cyrillic>
+      <definition>〔动〕发黏，成胶黏状，成胶状，成浆糊状.</definition>
+      <page>1509</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠪᠠᠣᠰᠢᠬᠣ</unicode>
+      <cyrillic>ЦАВУУШИХ</cyrillic>
+      <definition>цавуурах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠪᠠᠤᠰᠢᠬᠤ</unicode>
+      <cyrillic>цавууших</cyrillic>
+      <definition>цавуу мэт наалдангирах.</definition>
+      <page>776</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>C0257</ref>
+  </related_to>
+  <derivatives>
+    <ref>C0259</ref>
+  </derivatives>
+</entry>

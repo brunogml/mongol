@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B5006">
+  <head>
+    <unicode>ᠪᠥᠷᠥᠺᠠᠯᠵᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>bürügelǰegülkü</transcript>
+    <transcript2>börögelcegölgö</transcript2>
+    <cyrillic>бүргэлзүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>B5005</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠦᠷᠦᠭᠡᠯᠵᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бүргэлзүүлэх</cyrillic>
+      <definition>〔动〕бүргэлзэх 的使动态.</definition>
+      <page>229</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠷᠥᠺᠠᠯᠵᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>БҮРГЭЛЗҮҮЛЭХ</cyrillic>
+      <definition>бүргэлзэх-ийн үйл­дүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠦᠷᠦᠭᠡᠯᠵᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бүргэлзүүлэх</cyrillic>
+      <definition>бүртэлзэхийн үйлдүүлэх хэв.</definition>
+      <page>117</page>
+    </entry_item>
+  </entries>
+</entry>

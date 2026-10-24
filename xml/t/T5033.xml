@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5033">
+  <head>
+    <transcript>dil</transcript>
+    <transcript2>dil</transcript2>
+    <cyrillic>дэл</cyrillic>
+  </head>
+  <see_also>
+    <ref>T3816</ref>
+    <ref>T5034</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠢᠯ ~ ᠳᠢᠯᠠ</unicode>
+      <uighur>dil - dila</uighur>
+      <cyrillic>дэл</cyrillic>
+      <transcript>DIL[A]</transcript>
+      <definition>n. Sesame, Sesamum indicum.</definition>
+      <page>255</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᢐᠢᠯ ~ ᢐᠢᠯᠠ ~ ᠺᠦᠨᠵᠢᠳ</unicode>
+      <definition>sesamum orientale.</definition>
+      <page>1779</page>
+      <examples>
+        <example>
+          <unicode>ᢐᠢᠯ ᠤᠨ ᠦᠷ᠎ᠡ</unicode>
+          <definition>graine de sésame</definition>
+        </example>
+        <example>
+          <unicode>ᢐᠢᠯ ᠤᠨ ᠲᠤᠰᠤᠨ</unicode>
+          <definition>huile de sésame</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ДИЛ</cyrillic>
+      <definition>кунжут. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠢᠯ</unicode>
+      <cyrillic>дил</cyrillic>
+      <definition>маалинга, ургамлын үр; цагаан дил; хар дил; дилийн тос.</definition>
+      <page>194</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳ᠋ᠢᠯ</unicode>
+      <cyrillic>дэл /2</cyrillic>
+      <definition>&lt;ургамал&gt;дулаан орон ургадаг нэг зүйл ургамлын үр, маш тослог, хар цагаан хоёр зүйл бий, гүнжид ч гэдэг; дэлийн тос.</definition>
+      <page>224</page>
+    </entry_item>
+  </entries>
+</entry>

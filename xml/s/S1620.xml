@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1620">
+  <head>
+    <unicode>ᠰᠠᠶᠢᠴᠣᠳ</unicode>
+    <transcript>sayičud</transcript>
+    <transcript2>sayicod</transcript2>
+    <cyrillic>сайчууд</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠶᠢᠴᠣᠳ</unicode>
+      <uighur>sayičod</uighur>
+      <cyrillic>сайчууд</cyrillic>
+      <transcript>SAICUD</transcript>
+      <definition>n. Leading workers, foremost people, top-ranking men.</definition>
+      <page>660</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠡᠷᠢᠭᠦᠨ ᠰᠠᠶᠢᠴᠣᠳ</unicode>
+          <transcript>terigyn --</transcript>
+          <definition> The very first ones, top-ranking ones.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠢᠴᠤᠳ</unicode>
+      <cyrillic>сайчууд</cyrillic>
+      <definition>〔名〕优秀者们，先进者们，卓越者们：үйлдвэрийн ~ 先进生产者.</definition>
+      <page>899</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠶᠢᠴᠣᠳ</unicode>
+      <cyrillic>САЙЧУУД</cyrillic>
+      <definition>передовики, лучшие люди; знатные люди; үйлдвэрийн сайчууд передовики производства; хөдөө аж ахуйн тэргүүний сайчуудын анхдугаар зөвлөлгөөн первое совещание передовиков сельского хозяйства. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠢᠴᠤᠳ</unicode>
+      <cyrillic>сайчууд</cyrillic>
+      <definition>олон сайн, сайчуул; хөдөө аж ахуйн тэргүүний сайчуудын анхдугаар зөвлөлгөөн болов.</definition>
+      <page>461</page>
+    </entry_item>
+  </entries>
+</entry>

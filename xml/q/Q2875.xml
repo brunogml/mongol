@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q2875">
+  <head>
+    <unicode>ᠬᠠᠶᠠᠯ</unicode>
+    <transcript>qayal</transcript>
+    <transcript2>gayal</transcript2>
+    <cyrillic>хаял</cyrillic>
+  </head><derivatives>
+    <ref>Q2870</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠶᠠᠯ</unicode>
+      <uighur>qayal</uighur>
+      <transcript>XAJAL</transcript>
+      <page>915</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠶᠠᠯ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Not throwing away, without giving up.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠶᠠᠯ</unicode>
+      <definition>action de jeter, de lancer</definition>
+      <page>820</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠶᠠᠯ</unicode>
+      <cyrillic>ХАЯЛ</cyrillic>
+      <definition>бросание, отбрасывание. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠶᠠᠯ</unicode>
+      <cyrillic>ХАЯЛГҮЙ</cyrillic>
+      <definition>не бросая. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

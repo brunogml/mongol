@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7908">
+  <head>
+    <unicode>ᠳᠣᠷᠰᠣᠬᠣ</unicode>
+    <transcript>dorsuqu</transcript>
+    <transcript2>dorsogo</transcript2>
+    <cyrillic>дорсох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T7914</ref>
+  </derivatives>
+  <see_also>
+    <ref>T7909</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠣᠷᠣᠰᠬᠤ</unicode>
+      <cyrillic>дорсох</cyrillic>
+      <definition>〔动〕往下，往低去，变低；降下，减弱，削弱.</definition>
+      <page>423</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠷᠰᠣᠬᠣ</unicode>
+      <cyrillic>ДОРСОХ</cyrillic>
+      <definition>дортох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠣᠷᠣᠰᠬᠤ</unicode>
+      <cyrillic>дорсох</cyrillic>
+      <definition>дор болох, дортох.</definition>
+      <page>202</page>
+    </entry_item>
+  </entries>
+</entry>

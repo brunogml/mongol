@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3433">
+  <head>
+    <unicode>ᠰᠢᠪᠠᠭᠠᠷᠠᠬᠣ</unicode>
+    <transcript>sibaγaraqu</transcript>
+    <transcript2>sibagarago</transcript2>
+    <cyrillic>шаваарах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3434</ref>
+    <ref>S3439</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠪᠠᠭᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>шаваарах</cyrillic>
+      <definition>〔动〕群集，密集，麇集.</definition>
+      <page>1603</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠪᠠᠭᠠᠷᠠᠬᠣ</unicode>
+      <cyrillic>ШАВААРАХ</cyrillic>
+      <definition>собираться, скапливаться; шавах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шаваарах</cyrillic>
+      <definition>sich anhäufen; sich drängen</definition>
+      <page>376</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠪᠠᠭᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>шаваарах</cyrillic>
+      <definition>овоорох, цугларах, бөөгнөрөх; үхрийн баасан дээр ялаа шаваарах.</definition>
+      <page>827</page>
+    </entry_item>
+  </entries>
+</entry>

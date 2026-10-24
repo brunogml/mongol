@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T6600">
+  <head>
+    <unicode>ᠲᠣᠳᠠ</unicode>
+    <transcript>toda</transcript>
+    <transcript2>doda</transcript2>
+    <cyrillic>тод</cyrillic>
+  </head><see_also>
+    <ref>T6598</ref>
+  
+    <ref>T6636</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠳᠠ</unicode>
+      <uighur>toda</uighur>
+      <transcript>TODA</transcript>
+      <definition>See todu.</definition>
+      <page>812</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠳᠠ ~ ᠳᠤᠳᠤ</unicode>
+      <definition>clairement, évidemment,</definition>
+      <page>1836</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠤᠳᠠ ᠢᠯᠠᠭᠤᠭᠰᠠᠨ</unicode>
+          <definition>nom d'un prince Kôçsls qui était contemporain de Çâkyamouni. Cf. Foe-kone-ki, p. 178.187</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠤᠳᠠ ᠦᠭᠡᠢ ᠥᠭᠦᠯᠡᠺᠦ</unicode>
+          <definition>parler indistinctement, bredouiller</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠤᠳᠠ ᠵᠢᠭᠠᠪᠤᠷᠢ</unicode>
+          <definition>indication évidente, manuel</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

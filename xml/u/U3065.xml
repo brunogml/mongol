@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U3065">
+  <head>
+    <unicode>ᠣᠷᠳᠣᠬᠠᠨ</unicode>
+    <transcript>urduqan</transcript>
+    <transcript2>ordogan</transcript2>
+    <cyrillic>урдхан</cyrillic>
+  </head>
+  <see_also>
+    <ref>U3064</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠷᠳᠤᠬᠠᠨ</unicode>
+      <cyrillic>урдхан</cyrillic>
+      <definition>〔形〕урд 的小称；①稍南一些，较南一些；②稍前一些，较前一些.</definition>
+      <page>1200</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠷᠳᠣᠬᠠᠨ</unicode>
+      <cyrillic>УРДХАН</cyrillic>
+      <definition>урд-ын багас., чуть, немного впередљ, несколько раньше, почтљ накануне. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠷᠳᠤᠬᠠᠨ</unicode>
+      <cyrillic>урдхан</cyrillic>
+      <definition>арай урд, баахан урд.</definition>
+      <page>598</page>
+    </entry_item>
+  </entries>
+</entry>

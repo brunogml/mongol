@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6502">
+  <head>
+    <unicode>ᠱᠥᠨᠲᠥᠶᠢᠺᠥ</unicode>
+    <transcript>šöntüyikü</transcript>
+    <transcript2>söndöyigö</transcript2>
+    <cyrillic>шөнтийх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6501</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠥᠨᠲᠥᠢᠬᠦ</unicode>
+      <cyrillic>шөнтийх</cyrillic>
+      <definition>〔动〕变尖翘，头变尖.</definition>
+      <page>1654</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠥᠨᠲᠥᠶᠢᠺᠥ</unicode>
+      <cyrillic>ШӨНТИЙХ</cyrillic>
+      <definition>1) становиться остроконечным, заострённым; 2) выдаваться остриём, торчать (концом чего-л.). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шөнтийх</cyrillic>
+      <definition>spitz werden od zulaufen</definition>
+      <page>390</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠥᠨᠲᠥᠢᠬᠦ</unicode>
+      <cyrillic>шөнтийх</cyrillic>
+      <definition>шөнтгөр болох; хамар нь шөнтийх.</definition>
+      <page>856</page>
+    </entry_item>
+  </entries>
+</entry>

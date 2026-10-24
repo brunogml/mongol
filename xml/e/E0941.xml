@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E0941">
+  <head>
+    <unicode>ᠡᠯᠳᠡᠩᠰᠢᠺᠦ</unicode>
+    <transcript>eldengsikü</transcript>
+    <transcript2>eldengsigö</transcript2>
+    <cyrillic>элдэнших</cyrillic>
+  </head>
+  <derivatives>
+    <ref>E0943</ref>
+    <ref>E0940</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠯᠳᠡᠩᠰᠢᠬᠦ</unicode>
+      <cyrillic>элдэнших</cyrillic>
+      <definition>〔动〕被揉（鞣）得发软.</definition>
+      <page>1690</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠯᠳᠠᠩᠰᠢᠺᠥ</unicode>
+      <cyrillic>ЭЛДЭНШИХ</cyrillic>
+      <definition>1) привыкать к чему-л.; 2) быть мягким (напр. об овчине, коже). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠯᠳᠡᠩᠰᠢᠬᠦ</unicode>
+      <cyrillic>элдэнших</cyrillic>
+      <definition>элдэгдэж зөөлрөх; арьс элдэнших.</definition>
+      <page>873</page>
+    </entry_item>
+  </entries>
+</entry>

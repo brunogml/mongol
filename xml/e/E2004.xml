@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E2004">
+  <head>
+    <unicode>ᠡᠷᠡᠮᠡᠭᠡᠶᠢᠳᠡᠭᠦᠯᠺᠦ</unicode>
+    <transcript>eremegeyidegülkü</transcript>
+    <transcript2>eremegeyidegölgö</transcript2>
+    <cyrillic>эрэмгийдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>E2002</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠷᠠᠮᠠᠺᠠᠶᠢᠳᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>эрэмгийдүүлэх</cyrillic>
+      <definition>〔动〕эрэмгийдэх 的使动态.</definition>
+      <page>1717</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠡᠷᠠᠮᠠᠺᠠᠶᠢᠳᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЭРЭМГИЙДҮҮЛЭХ</cyrillic>
+      <definition>эрэмгийдэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>эрэмгийдүүлэх</cyrillic>
+      <definition>Kaus von эрэмгийдэх</definition>
+      <page>405</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠷᠡᠮᠡᠭᠡᠢᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>эрэмгийдүүлэх</cyrillic>
+      <definition>эрэмгийдэхийн үйлдүүлэх хэв.</definition>
+      <page>889</page>
+    </entry_item>
+  </entries>
+</entry>

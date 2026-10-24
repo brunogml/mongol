@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1831">
+  <head>
+    <unicode>ᠮᠣᠰᠺᠢᠯᠠᠬᠣ</unicode>
+    <transcript>musgilaqu</transcript>
+    <transcript2>mosgilago</transcript2>
+    <cyrillic>мушгилах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M1832</ref>
+    <ref>M1833</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠤᠰᠬᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>мушгилах</cyrillic>
+      <definition>〔动〕мушгих 的多次体：гэдэс ~ 肚子绞痛.</definition>
+      <page>699</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠰᠺᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>МУШГИЛАХ</cyrillic>
+      <definition>мушгих-ийн олонтаа., крутить; † гэдэс мушгилах резь в животе. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>мушгилах</cyrillic>
+      <definition>ständig drehen; гэдэс ~ Magenkrämpfe haben</definition>
+      <page>148</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠤᠰᠬᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>мушгилах</cyrillic>
+      <definition>байн байн мушгих.</definition>
+      <page>352</page>
+    </entry_item>
+  </entries>
+</entry>

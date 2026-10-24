@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4863">
+  <head>
+    <unicode>ᠱᠣᠣᠺᠢᠲᠣᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šoukitunaγulqu</transcript>
+    <transcript2>soogidonagolgo</transcript2>
+    <cyrillic>шуухитнуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S4862</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠤᠤᠬᠢᠲᠤᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шуухитнуулах</cyrillic>
+      <definition>〔动〕шуухитнах 的使动态.</definition>
+      <page>1664</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠣᠺᠢᠲᠣᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШУУХИТНУУЛАХ</cyrillic>
+      <definition>шуухитнах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠤᠤᠬᠢᠲᠤᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шуухитнуулах</cyrillic>
+      <definition>шуухитнахын үйлдүүлэх хэв.</definition>
+      <page>861</page>
+    </entry_item>
+  </entries>
+</entry>

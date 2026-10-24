@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2923">
+  <head>
+    <unicode>ᠲᠠᠷᠰᠢᠬᠣ</unicode>
+    <transcript>tarsiqu</transcript>
+    <transcript2>darsigo</transcript2>
+    <cyrillic>тарших</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T0854</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠷᠰᠢᠬᠣ</unicode>
+      <uighur>darsiqu</uighur>
+      <definition>siehe unter dar</definition>
+      <page>235</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠷᠰᠢᠬᠤ</unicode>
+      <cyrillic>тарших</cyrillic>
+      <definition>〔动〕说话跑调；走调，变调.</definition>
+      <page>1034</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠷᠰᠢᠬᠣ</unicode>
+      <cyrillic>ТАРШИХ</cyrillic>
+      <definition>дребезжать, “пустљть петуха” (о голосе); скрипеть. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠷᠰᠢᠬᠤ</unicode>
+      <cyrillic>тарших</cyrillic>
+      <definition>ярихад хоолой чарагдаж янз янз дуу гарах; хоолой тарших.</definition>
+      <page>524</page>
+    </entry_item>
+  </entries>
+</entry>

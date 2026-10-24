@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q4240">
+  <head>
+    <unicode>ᠬᠣᠩᠬᠣᠲᠠᠢ</unicode>
+    <transcript>qongqutai</transcript>
+    <transcript2>gonggodai</transcript2>
+    <cyrillic>хонхтой</cyrillic>
+  </head><see_also>
+    <ref>Q4247</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠩᠬᠣᠲᠠᠢ</unicode>
+      <uighur>qongqudai</uighur>
+      <cyrillic>хонхтой</cyrillic>
+      <transcript>XONGXUTAI</transcript>
+      <definition>[= xongxutu] adj. Having a bell or bells.</definition>
+      <page>963</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠩᠬᠤᠲᠤ ~ ᠬᠣᠩᠬᠤᠲᠠᠢ</unicode>
+      <definition>avec des clochettes ou des grelots</definition>
+      <page>872</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠩᠬᠤᠲᠤ ᠠᠯᠠᠬ</unicode>
+          <definition>lumme; le petit plongeon de la mer du nord (colymbus articus)</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠩᠬᠤᠲᠤ ᠤᠷᠠᠨ</unicode>
+          <definition>nom d'un oiseau</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠣᠩᠬᠣᠲᠠᠢ(ᠬᠣᠩᠬᠠᠲᠠᠢ)</unicode>
+      <cyrillic>хонхтой</cyrillic>
+      <definition>〔形〕有铃的，带铃的，有钟的，带钟的.</definition>
+      <page>1364</page>
+    </entry_item>
+  </entries>
+</entry>

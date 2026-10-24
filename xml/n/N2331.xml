@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N2331">
+  <head>
+    <unicode>ᠨᠣᠮᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>numulaγulqu</transcript>
+    <transcript2>nomolagolgo</transcript2>
+    <cyrillic>нумлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>N2330</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠤᠮᠤᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нумлуулах</cyrillic>
+      <definition>〔动〕нумлах 的使动态.</definition>
+      <page>759</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠣᠮᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>НУМЛУУЛАХ</cyrillic>
+      <definition>нумлах I-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠤᠮᠤᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нумлуулах</cyrillic>
+      <definition>нумлахын үйлдүүлэх хэв.</definition>
+      <page>388</page>
+    </entry_item>
+  </entries>
+</entry>

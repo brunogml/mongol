@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y5412">
+  <head>
+    <unicode>ᠵᠥᠺᠡᠺᠳᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ǰögegdegülkü</transcript>
+    <transcript2>yögegdegölgö</transcript2>
+    <cyrillic>зөөгдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y5408</ref>
+    <ref>Y5400</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠥᠭᠡᠭᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>зөөгдүүлэх</cyrillic>
+      <definition>〔动〕зөөгдөх /1 的使动态.</definition>
+      <page>569</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠥᠺᠡᠺᠳᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЗӨӨГДҮҮЛЭХ</cyrillic>
+      <definition>зөөгдөх I-ийн үйлдүүл., дать остыть. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠥᠭᠡᠭᠡᠭᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>зөөгдүүлэх</cyrillic>
+      <definition>зөөгдөхийн үйлдүүлэх хэв, зөөг болгох.</definition>
+      <page>279</page>
+    </entry_item>
+  </entries>
+</entry>

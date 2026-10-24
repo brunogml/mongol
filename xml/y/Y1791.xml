@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1791">
+  <head>
+    <unicode>ᠵᠠᠷᠢᠮᠳᠣᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰarimduγlaγulqu</transcript>
+    <transcript2>yarimdoglagolgo</transcript2>
+    <cyrillic>заримдаглуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y1790</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠷᠢᠮᠳᠤᠭᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>заримдаглуулах</cyrillic>
+      <definition>〔动〕заримдаглах 的使动态.</definition>
+      <page>547</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠷᠢᠮᠳᠣᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗАРИМДАГЛУУЛАХ</cyrillic>
+      <definition>заримдаглах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠷᠢᠮᠳᠤᠭᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>заримдаглуулах</cyrillic>
+      <definition>заримдаглахын үйлдүүлэх хэв.</definition>
+      <page>268</page>
+    </entry_item>
+  </entries>
+</entry>

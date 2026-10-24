@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2719">
+  <head>
+    <unicode>ᠴᠣᠭᠣᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čuγurdaγulqu</transcript>
+    <transcript2>cogordagolgo</transcript2>
+    <cyrillic>цуурдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C2715</ref>
+  </related_to>
+  <see_also>
+    <ref>C2718</ref>
+    <ref>C2720</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠤᠭᠤᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цуурдуулах</cyrillic>
+      <definition>〔动〕цуурдах 的使动态.</definition>
+      <page>1554</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠭᠣᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦУУРДУУЛАХ</cyrillic>
+      <definition>цуурдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠤᠭᠤᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цуурдуулах</cyrillic>
+      <definition>цуурдахын үйлдүүлэх хэв.</definition>
+      <page>800</page>
+    </entry_item>
+  </entries>
+</entry>

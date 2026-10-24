@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7149">
+  <head>
+    <unicode>ᠲᠣᠮᠣᠭᠣ</unicode>
+    <transcript>tomuγu</transcript>
+    <transcript2>domogo</transcript2>
+    <cyrillic>томуу</cyrillic>
+  </head>
+  <see_also>
+    <ref>T7148a</ref>
+    <ref>T7150</ref>
+    <ref>T7148</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠮᠣᠭᠤ ~ ᠲᠣᠮᠤᠭᠤᠨ</unicode>
+      <uighur>tomoγu - tomuγun</uighur>
+      <cyrillic>томуу</cyrillic>
+      <transcript>TOMUΓU(N)</transcript>
+      <definition>n. Cold, head cold; influenza; inflammation.</definition>
+      <page>823</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠭᠤᠺᠢᠨ ᠲᠣᠮᠣᠭᠤ</unicode>
+          <transcript>aγukin -- </transcript>
+          <definition> Pneumonia, inflammation of the lungs</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠢᠵᠢᠭ ᠲᠣᠮᠣᠭᠤ</unicode>
+          <transcript>kizig -- </transcript>
+          <definition> Contagious cold.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠪᠠᠷ ᠤᠨ ᠲᠣᠮᠣᠭᠤ</unicode>
+          <transcript>xabar un -- </transcript>
+          <definition> Head cold.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠭᠤᠯᠠᠢ ᠎ᠶᠢᠨ ᠲᠣᠮᠣᠭᠤ</unicode>
+          <transcript>xoyulai jin -- </transcript>
+          <definition> Sore throat, angina, etc.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠮᠣᠭᠤᠨ</unicode>
+      <definition>refroidissement, rhume de cerveau, toux, fluxion.</definition>
+      <page>1862</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠭᠤᠰᠺᠢᠨ ᠳᠤᠮᠣᠭᠤᠨ</unicode>
+          <definition>refroidissement des poumons</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠪᠠᠷ ᠤᠨ ᠳᠤᠮᠣᠭᠤᠨ</unicode>
+          <definition>rhume de cerveau</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠭᠤᠯᠠᠢ ᠎ᠶᠢᠨ ᠳᠤᠮᠣᠭᠤᠨ</unicode>
+          <definition>refroidissement de la gorge, catarrhe dans la gorge</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠢᠵᠢᠭ ᠳᠤᠮᠣᠭᠤᠨ</unicode>
+          <definition>toux contagieuse</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠣᠮᠣᠭᠣ</unicode>
+      <uighur>dumoγun</uighur>
+      <definition>der Schnupfen</definition>
+      <page>251</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠣᠮᠣᠭᠣ</unicode>
+      <uighur>tumuγu</uighur>
+      <definition>n. Cold in the head. Catarrh</definition>
+      <page>998</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠮᠣᠭᠤ</unicode>
+      <cyrillic>томуу</cyrillic>
+      <definition>〔名〕〈医〉感冒：~ хүрэх 患感冒；~гийн тархитас 流感性脑炎；~гийн хоруу 病毒群；◊ ~ цох 〈动〉芜菁；ханиад ~ 感冒；тахал ~ 流行性感冒.</definition>
+      <page>1070</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠮᠣᠭᠣ</unicode>
+      <cyrillic>ТОМУУ</cyrillic>
+      <definition>анаг. грипп; жижиг томуу грипп, инфлюенца; хамрын томуу насморк; ханиад томуу хорш. грипп; наcморк, простуда, катар верхних дыхательных путей; уушигны томуу воспаление лёгких. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>томуу[н]</cyrillic>
+      <definition>Med Grippe f, Erkältung f; ~ хүрэх sich eine Erkältung zuziehen</definition>
+      <page>229</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠮᠣᠭᠤ᠊ᠨ</unicode>
+      <cyrillic>томуу</cyrillic>
+      <definition>халдварт ханиад;тахал томуу&lt;хорш&gt;,ханиад томуу&lt;хорш&gt;.</definition>
+      <page>539</page>
+    </entry_item>
+  </entries>
+</entry>

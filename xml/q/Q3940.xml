@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q3940">
+  <head>
+    <unicode>ᠭᠣᠣᠷᠰᠣ</unicode>
+    <transcript>γoursu</transcript>
+    <transcript2>goorso</transcript2>
+    <cyrillic>гуурс</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠣᠣᠷᠰᠣ</unicode>
+      <uighur>γuursu</uighur>
+      <transcript>ΓUURSU</transcript>
+      <definition>See γuγursu(n).</definition>
+      <page>371</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠣᠤᠷᠰᠤ ~ ᠭᠤᠣᠷᠰᠣᠨ ~ ᠭᠠᠭᠣᠷᠰᠣᠨ</unicode>
+      <definition>plume. tuyau de plume; 2 paille, brin de paille; 3 tige</definition>
+      <page>1020</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠤᠭᠤᠳᠠᠢ ᠎ᠶᠢᠨ ᠭᠣᠤᠷᠰᠤ</unicode>
+          <definition>paille de froment</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠣᠳᠤᠨ ᠤ ᠭᠣᠤᠷᠰᠤ</unicode>
+          <definition>tige d'un arbre</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠣᠷᠰᠣ</unicode>
+      <cyrillic>ГУУРС(АН)</cyrillic>
+      <definition>1) перо (птичье); 2) cтвол, дудка птичьего пера, трубочки пера; өдний гуурс ствол птичьего пера; 3) трубочка; бамбуковая трубка (которую вставляют в сумку с хлебом для вентиляции); амьсгалын гуурс трубочка дыхательная; гурван хоолойтой гуурс цэрэг. патрубок-тройник (противогаза); 4) стебель, соломинка, соломка, комли соломы, срезанные стебли (оставшиеся на корню после жатвы); бийрийн гуурс черенок, тростниковая трубочка, в которой закрепляются волосы кисти (для писания); тарианы гуурс солома; 5) трубочка на шапке (для втыкания перьев, являвщихся знаком отличия); отгоны гуурс трубочка на шапке. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гуурс[ан]</cyrillic>
+      <definition>Röhre f; Bot Halm m, Stengel m; Feder Kiel m; Med Katheter m; Tech Nippel m; Röhre f; ~ан бишгүүр Mus Schalmei f</definition>
+      <page>82</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠤᠤᠷᠰᠤ᠊ᠨ</unicode>
+      <cyrillic>гуурс</cyrillic>
+      <definition>дотроо хөндийтэй нарийн урт юм; өвсний гуурс; хий гаргах гуурс.</definition>
+      <page>162</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>Q3941</ref>
+    <ref>Q3942</ref>
+    <ref>Q3942a</ref>
+  </derivatives>
+</entry>

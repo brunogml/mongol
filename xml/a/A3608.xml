@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A3608">
+  <head>
+    <unicode>ᠠᠶᠢᠰᠮᠠᠯᠢ</unicode>
+    <transcript>ayismali</transcript>
+    <transcript2>ayismali</transcript2>
+    <cyrillic>айсмалий</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <page>2</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠢᠰᠮᠠᠯᠢ ᠠᠭᠤᠯᠠ</unicode>
+          <uighur>ayismali aγula</uighur>
+          <definition>nom d'une montagne</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠢᠰᠮᠠᠯᠢ ᠮᠣᠳᠤᠨ</unicode>
+          <uighur>ayismali modun</uighur>
+          <definition>cotonnier (bombax heptaphyllum)</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠶᠢᠰᠮᠠᠯᠢ</unicode>
+      <cyrillic>АЙСМАЛИЙ</cyrillic>
+      <definition>: айсмалий мод ург. араукария (высокое колючее дерево).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠢᠰᠮᠠᠯᠢ</unicode>
+      <cyrillic>айсмалий</cyrillic>
+      <definition>&lt;ургамал&gt;өндөр гуалиг бөгөөд өргөслөг, улаан цэцэгтэй нэг зүйл модны нэр.</definition>
+      <page>27</page>
+    </entry_item>
+  </entries>
+</entry>

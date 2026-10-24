@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1074">
+  <head>
+    <unicode>ᠥᠯᠵᠠᠶᠢᠺᠥᠢ</unicode>
+    <transcript>ölǰeyigüi</transcript>
+    <transcript2>ölceyigöi</transcript2>
+    <cyrillic>өлзийгүй</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠯᠵᠡᠢ᠎ᠦᠭᠡᠢ</unicode>
+      <cyrillic>өлзийгүй</cyrillic>
+      <definition>〔形〕①不幸的，无福气的；不吉的；②没画寿字图样的，无吉祥图案的.</definition>
+      <page>840</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠯᠵᠠᠶᠢᠺᠥᠢ</unicode>
+      <cyrillic>ӨЛЗИЙГҮЙ</cyrillic>
+      <definition>1. неудачливый, несчастливый; неблагополучный; өлзийгүй өдөр тяжёлый день; несчастливый день; өлзийгүй хүн несчастливый человек; 2. несчастливое предзнаменование. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠯᠵᠡᠢᠦᠭᠡᠢ</unicode>
+      <cyrillic>өлзийгүй /1</cyrillic>
+      <definition>гай гамшигтай, сайны хувьгүй.</definition>
+      <page>435</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠯᠵᠡᠢᠦᠭᠡᠢ</unicode>
+      <cyrillic>өлзийгүй /2</cyrillic>
+      <definition>өлзий хээгүй.</definition>
+      <page>435</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>O1069</ref>
+  </related_to>
+  <derivatives>
+    <ref>O1076</ref>
+  </derivatives>
+</entry>

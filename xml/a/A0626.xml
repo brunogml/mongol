@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A0626">
+  <head>
+    <unicode>ᠠᠭᠠᠴᠢ</unicode>
+    <transcript>aγači</transcript>
+    <transcript2>agaci</transcript2>
+    <cyrillic>агач</cyrillic>
+  </head><derivatives>
+    <ref>A0868a</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠭᠠᠴᠢ</unicode>
+      <uighur>aγači</uighur>
+      <definition>ordinaire, commun</definition>
+      <page>28</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠭᠠᠴᠢ ᠳᠡᠺᠢᠶ᠎ᠡ</unicode>
+          <definition>poule ordinaire</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠭᠠᠴᠢ</unicode>
+      <cyrillic>агач</cyrillic>
+      <definition>见 ~ тахиа 〈动〉糠鸡，劣种鸡.</definition>
+      <page>17</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠠᠴᠢ</unicode>
+      <cyrillic>АГАЧ</cyrillic>
+      <definition>: агач тахиа шувуу. а) куры сорные; курица домашняя, обыкновенная; б) большеногие куры.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

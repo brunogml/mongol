@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T4402">
+  <head>
+    <unicode>ᠲᠠᠺᠠᠺᠯᠠᠳᠠᠺᠥ</unicode>
+    <transcript>tegegledekü</transcript>
+    <transcript2>degegledegö</transcript2>
+    <cyrillic>тээгэлдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T4403</ref>
+    <ref>T4401</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠡᠭᠡᠭᠯᠡᠳᠡᠬᠦ</unicode>
+      <cyrillic>тээгэлдэх</cyrillic>
+      <definition>〔动〕тээглэх 的互动态：~н унав 绊倒.</definition>
+      <page>1168</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠺᠠᠺᠯᠠᠳᠠᠺᠥ</unicode>
+      <cyrillic>ТЭЭГЭЛДЭХ</cyrillic>
+      <definition>тээглэх-ийн үйлдэлд., зацепляться; тээгэлдэн унах упасть, зацепљвшись за что-л. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠭᠡᠭᠡᠯᠳᠡᠬᠦ</unicode>
+      <cyrillic>тээгэлдэх</cyrillic>
+      <definition>тээглэхийн үйлдэгдэх хэв, тээглэж торох; босгонд тээгэлдэн унах; хоолой дээр юм тээгэлдэх.</definition>
+      <page>581</page>
+    </entry_item>
+  </entries>
+</entry>

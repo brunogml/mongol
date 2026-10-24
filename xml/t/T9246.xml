@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9246">
+  <head>
+    <unicode>ᠲᠥᠷᠠᠶᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>türeyilegülkü</transcript>
+    <transcript2>döreyilegölgö</transcript2>
+    <cyrillic>түрийлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T9245</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠦᠷᠡᠢᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>түрийлүүлэх</cyrillic>
+      <definition>〔动〕түрийлэх 的使动态.</definition>
+      <page>1138</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠷᠠᠶᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ТҮРИЙЛҮҮЛЭХ</cyrillic>
+      <definition>түрийлэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠦᠷᠡᠢᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>түрийлүүлэх</cyrillic>
+      <definition>түрийлэхийг үйдүүлэх хэв.</definition>
+      <page>568</page>
+    </entry_item>
+  </entries>
+</entry>

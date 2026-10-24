@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q6816">
+  <head>
+    <unicode>ᠭᠣᠷᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>γuralǰaγulqu</transcript>
+    <transcript2>goralcagolgo</transcript2>
+    <cyrillic>гуралзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q6815</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠤᠷᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гуралзуулах</cyrillic>
+      <definition>〔动〕гуралзах 的使动态.</definition>
+      <page>329</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠷᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ГУРАЛЗУУЛАХ</cyrillic>
+      <definition>гуралзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠤᠷᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гуралзуулах</cyrillic>
+      <definition>гуралзахын үйлдүүлэх хэв.</definition>
+      <page>160</page>
+    </entry_item>
+  </entries>
+</entry>

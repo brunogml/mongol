@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8868">
+  <head>
+    <unicode>ᠲᠥᠮᠥᠰᠥᠲᠠᠢ</unicode>
+    <transcript>tömüsütei</transcript>
+    <transcript2>dömösödei</transcript2>
+    <cyrillic>төмстэй</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠥᠮᠥᠰᠥᠲᠡᠢ</unicode>
+      <cyrillic>төмстэй</cyrillic>
+      <definition>〔形〕有土豆的，含土豆的.</definition>
+      <page>1099</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠮᠥᠰᠥᠲᠠᠢ</unicode>
+      <cyrillic>ТӨМСТЭЙ</cyrillic>
+      <definition>картофельный; төмстэй шөл картофельный суп. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>төмстэй</cyrillic>
+      <definition>(Kom von төмс[өн]
+1.) mit Kartoffeln, Kartoffel-; ~ шол[он] Kartoffelsuppe f</definition>
+      <page>235</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠥᠮᠥᠰᠥᠲᠡᠢ</unicode>
+      <cyrillic>төмстэй</cyrillic>
+      <definition>төмс бүхий; төмстэй хуурга; төмстэй хоол.</definition>
+      <page>551</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T8867</ref>
+  </related_to>
+</entry>

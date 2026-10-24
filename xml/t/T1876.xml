@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1876">
+  <head>
+    <unicode>ᠲᠠᠯᠪᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>talbiraγulqu</transcript>
+    <transcript2>dalbiragolgo</transcript2>
+    <cyrillic>тавируулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T1874</ref>
+  </related_to>
+  <see_also>
+    <ref>T1877</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠯᠪᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <definition>répandre, développer, ouvrir, déployer</definition>
+      <page>1639</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠯᠪᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАВИРУУЛАХ</cyrillic>
+      <definition>тавирах-ын үйлдүүл., 1) распространять, распускать, развёртывать; 2) успокаивать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠯᠪᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАЛБИРУУЛАХ</cyrillic>
+      <definition>талбирах-ын үйлдүүл., успокаивать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠯᠪᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>талбируулах</cyrillic>
+      <definition>талбирахын үйлдүүлэх хэв, талбиу болгох.</definition>
+      <page>517</page>
+    </entry_item>
+  </entries>
+</entry>

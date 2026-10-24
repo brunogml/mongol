@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1146">
+  <head>
+    <unicode>ᠣᠪᠬᠣᠭᠣᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>obquγunaγulqu</transcript>
+    <transcript2>obgogonagolgo</transcript2>
+    <cyrillic>овхгонуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U1145</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠪᠬᠣᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>овхгонуулах</cyrillic>
+      <definition>〔动〕овхгонох 的使动态.</definition>
+      <page>788</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠪᠬᠣᠭᠣᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ОВХГОНУУЛАХ</cyrillic>
+      <definition>овхгонох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠪᠬᠣᠭᠣᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>овхгонуулах</cyrillic>
+      <definition>овхгонохын үйлдүүлэх хэв.</definition>
+      <page>406</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7318">
+  <head>
+    <unicode>ᠳᠣᠵᠢᠩᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>duǰingnaγulqu</transcript>
+    <transcript2>docingnagolgo</transcript2>
+    <cyrillic>дужигнуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T7317</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠤᠵᠢᠭᠢᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дужигнуулах</cyrillic>
+      <definition>〔动〕дужигнах 的使动态.</definition>
+      <page>436</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠵᠢᠩᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДУЖИГНУУЛАХ</cyrillic>
+      <definition>дужигнах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠤᠵᠢᠭᠢᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дужигнуулах</cyrillic>
+      <definition>дужигнахын үйлдүүлэх хэв.</definition>
+      <page>209</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1307">
+  <head>
+    <unicode>ᠴᠠᠷᠴᠠᠯᠵᠠᠺᠥ</unicode>
+    <transcript>čerčelǰekü</transcript>
+    <transcript2>cercelcegö</transcript2>
+    <cyrillic>цэрцэлзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1308</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠷᠴᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>цэрцэлзэх</cyrillic>
+      <definition>〔动〕参见 цэрцэгнэх.</definition>
+      <page>1567</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠷᠴᠠᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>ЦЭРЦЭЛЗЭХ</cyrillic>
+      <definition>шевелиться, двигаться время от времени (о чём-л. тощем и худом). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠷᠴᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>цэрцэлзэх</cyrillic>
+      <definition>цэрцгэр юмны байн байн хөдлөх.</definition>
+      <page>807</page>
+    </entry_item>
+  </entries>
+</entry>

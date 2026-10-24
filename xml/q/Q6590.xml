@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q6590">
+  <head>
+    <unicode>ᠬᠣᠶᠢᠰᠢᠯᠠᠬᠣ</unicode>
+    <transcript>qoyisilaqu</transcript>
+    <transcript2>goyisilago</transcript2>
+    <cyrillic>хойшлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q6592</ref>
+    <ref>Q6593</ref>
+    <ref>Q6597</ref>
+    <ref>Q6594</ref>
+    <ref>Q6595</ref>
+    <ref>Q6596</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠶᠢᠰᠢᠯᠠᠬᠣ</unicode>
+      <uighur>qoyisilaqu</uighur>
+      <cyrillic>хойшлах</cyrillic>
+      <transcript>XOISILA-</transcript>
+      <definition>v.i. and t. To step back, withdraw; to draw back, move back; to postpone, put off.</definition>
+      <page>955</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠡᠷᠢᠭ ᠢᠶᠡᠨ ᠬᠣᠶᠢᠰᠢᠯᠠᠬᠣ</unicode>
+          <transcript>cerig ijen --xu</transcript>
+          <definition> To draw off one's troops.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠳᠦᠷ ᠢ ᠬᠣᠶᠢᠰᠢᠯᠠᠬᠣ</unicode>
+          <transcript>edyr i --xu</transcript>
+          <definition> To postpone the date.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠣᠶᠢᠰᠢᠯᠠᠬᠣ</unicode>
+      <uighur>qoyisilaqu</uighur>
+      <definition>To postpone. To delay.</definition>
+      <page>628</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠶᠢᠰᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХОЙШЛОХ</cyrillic>
+      <definition>1) направляться на север, к северу; 2) откладываться, отсрочиваться; хурал хойшилсон заседание отложено. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠢᠰᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>хойшлох</cyrillic>
+      <definition>1. хойт зүг явах, умар зуг очих; бид хойшилж явна;2. гэдрэг ухрах, ар тийшээ явах;3. дараа болох, хожим болох; хурал хойшилжээ; бороотой учир явахаа хойшлов;4. удаашрах; төлөвлөгөөт ажил хойшилсоор байв.</definition>
+      <page>684</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q6583</ref>
+  </related_to>
+</entry>

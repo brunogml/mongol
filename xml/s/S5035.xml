@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5035">
+  <head>
+    <unicode>ᠰᠣᠨᠳᠣᠶᠢᠬᠣ</unicode>
+    <transcript>sunduyiqu</transcript>
+    <transcript2>sondoyigo</transcript2>
+    <cyrillic>сондойх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5039</ref>
+  </derivatives>
+  <see_also>
+    <ref>S5036</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠨᠳᠣᠢᠬᠤ</unicode>
+      <cyrillic>сондойх</cyrillic>
+      <definition>〔动〕①成单，成奇数，不成双；②变孤独，分散，孤立，变孤单.</definition>
+      <page>937</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠨᠳᠣᠶᠢᠬᠣ</unicode>
+      <cyrillic>СОНДОЙХ</cyrillic>
+      <definition>остаться без пары, быть нечётным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠨᠳᠣᠢᠬᠤ</unicode>
+      <cyrillic>сондойх</cyrillic>
+      <definition>сондгой болох.</definition>
+      <page>479</page>
+    </entry_item>
+  </entries>
+</entry>

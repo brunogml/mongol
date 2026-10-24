@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3125">
+  <head>
+    <unicode>ᠲᠠᠨᠥᠺᠥᠴᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>tenügüčilegülkü</transcript>
+    <transcript2>denögöcilegölgö</transcript2>
+    <cyrillic>тэнүүчлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T3124</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠡᠨᠦᠭᠦᠴᠢᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>тэнүүчлүүлэх</cyrillic>
+      <definition>〔动〕тэнүүчлэх 的使动态.</definition>
+      <page>1158</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠨᠥᠺᠥᠴᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ТЭНҮҮЧЛҮҮЛЭХ</cyrillic>
+      <definition>тэнүүчлэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠨᠦᠴᠢᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>тэнүүчлүүлэх</cyrillic>
+      <definition>тэнүүчлэхийн үйлдүүлэх хэв.</definition>
+      <page>577</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2841">
+  <head>
+    <unicode>ᠲᠠᠷᠪᠠᠭᠠᠴᠠᠭᠠᠬᠣ</unicode>
+    <transcript>tarbaγačaγaqu</transcript>
+    <transcript2>darbagacagago</transcript2>
+    <cyrillic>тарвагацаах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠷᠪᠠᠭᠠᠴᠠᠭᠠᠬᠣ</unicode>
+      <cyrillic>ТАРВАГАЦААХ</cyrillic>
+      <definition>тарвагацах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠷᠪᠠᠭᠠᠴᠠᠭᠠᠬᠤ</unicode>
+      <cyrillic>тарвагацаах</cyrillic>
+      <definition>хүүхдийн тоглоом, нэг нь чоно, бусад нь тарвага болж наадна, тарвагацааж тоглох.</definition>
+      <page>522</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T2842</ref>
+  </related_to>
+</entry>

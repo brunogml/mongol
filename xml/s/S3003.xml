@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3003">
+  <head>
+    <unicode>ᠰᠢᠨᠠᠭᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sinaγalaγulqu</transcript>
+    <transcript2>sinagalagolgo</transcript2>
+    <cyrillic>шанагалуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S3002</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠨᠠᠭᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шанагалуулах</cyrillic>
+      <definition>〔动〕шанагалах 的使动态.</definition>
+      <page>1618</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠨᠠᠭᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАНАГАЛУУЛАХ</cyrillic>
+      <definition>шанагалах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шанагалуулах</cyrillic>
+      <definition>Kaus von шанагалах</definition>
+      <page>380</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠨᠠᠭᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шанагалуулах</cyrillic>
+      <definition>шанагалахын үйлдүүлэх хэв.</definition>
+      <page>836</page>
+    </entry_item>
+  </entries>
+</entry>

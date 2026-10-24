@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5623a">
+  <head>
+    <unicode>ᠱᠣᠪᠲᠣᠩᠳᠠᠬᠣ</unicode>
+    <transcript>šubtungdaqu</transcript>
+    <transcript2>sobdongdago</transcript2>
+    <cyrillic>шувтандах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5625</ref>
+  </derivatives>
+  <see_also>
+    <ref>S5624</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠤᠪᠲᠤᠩᠳᠠᠬᠤ</unicode>
+      <cyrillic>шувтандах</cyrillic>
+      <definition>〔动〕变得上宽下窄，变得上粗下细.</definition>
+      <page>1655</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠤᠪᠲᠤᠩᠳᠠᠬᠤ</unicode>
+      <cyrillic>шувтандах</cyrillic>
+      <definition>хэтэрхий шувтан болох.</definition>
+      <page>857</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C2874">
+  <head>
+    <unicode>ᠴᠣᠪᠬᠠ</unicode>
+    <transcript>čubqa</transcript>
+    <transcript2>cobga</transcript2>
+    <cyrillic>цувх</cyrillic>
+  </head><see_also>
+    <ref>C2875</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠣᠪᠬ᠎ᠠ</unicode>
+      <uighur>čubq-a</uighur>
+      <cyrillic>цувх</cyrillic>
+      <transcript>CUBX-A</transcript>
+      <definition>n. Leaves of trees.</definition>
+      <page>204</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠣᠪᠬ᠎ᠠ ᠵᠤᠯᠭᠠᠷᠠᠬᠤ</unicode>
+          <transcript>-- zulγaraxu</transcript>
+          <definition> Leaves are falling off.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠣᠪᠬᠠ ᠵᠣᠯᠭᠣᠷᠠᠬᠤ</unicode>
+      <definition>la chute des feuilles en automne</definition>
+      <page>2204</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠴᠣᠪᠬᠠ</unicode>
+      <uighur>čubq-a ǰolγuraqu</uighur>
+      <definition>v.i. Falling of leaves from the trees in autumn.</definition>
+      <page>1336</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠪᠬᠠ</unicode>
+      <cyrillic>ЦУВХ</cyrillic>
+      <definition>: цувх зулгарч эхлэв начался листопад. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

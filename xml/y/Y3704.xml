@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3704">
+  <head>
+    <unicode>ᠵᠣᠣᠪᠠᠭᠠᠷᠳᠠᠬᠣ</unicode>
+    <transcript>ǰoubaγardaqu</transcript>
+    <transcript2>yoobagardago</transcript2>
+    <cyrillic>зуувгардах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y3706</ref>
+    <ref>Y3707</ref>
+  </derivatives>
+  <see_also>
+    <ref>Y3705</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠤᠤᠪᠠᠭᠠᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>зуувгардах</cyrillic>
+      <definition>〔动〕①成椭圆形；②变得椭圆；（圆形）显得太扁.</definition>
+      <page>581</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠣᠪᠠᠭᠠᠷᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЗУУВГАРДАХ</cyrillic>
+      <definition>становиться слишком эллипсоидным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зуувгардах</cyrillic>
+      <definition>= зуувандах</definition>
+      <page>127</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠤᠤᠪᠠᠭᠠᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>зуувгардах</cyrillic>
+      <definition>хэтэрхий зуувгар болох.</definition>
+      <page>287</page>
+    </entry_item>
+  </entries>
+</entry>

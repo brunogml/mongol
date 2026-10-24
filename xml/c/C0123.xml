@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0123">
+  <head>
+    <unicode>ᠴᠠᠭᠠᠳᠠᠬᠣ</unicode>
+    <transcript>čaγadaqu</transcript>
+    <transcript2>cagadago</transcript2>
+    <cyrillic>цагаадах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0124</ref>
+    <ref>C0125</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠭᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЦАГААДАХ</cyrillic>
+      <definition>I оказываться белее чем нужно, быть чрезмерно белым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠭᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЦАГААДАХ</cyrillic>
+      <definition>II намазывать кипячёным тараком. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠭᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЦАГААДАХ</cyrillic>
+      <definition>III быть слишком прямым, добродушным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цагаадах</cyrillic>
+      <definition>1. zu weiß sein
+2. = цагаатах</definition>
+      <page>350</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠭᠠᠳᠬᠤ</unicode>
+      <cyrillic>цагаадах</cyrillic>
+      <definition>1. хэтэрхий цагаан болох;2. хүний хар хоргүй, нэндүү сайхан санаа гаргах;3. хүний гэм буруугаа засварлан чимэглэж ярих хэлэлцэх; цагаадаж хэлэлцэх.</definition>
+      <page>777</page>
+    </entry_item>
+  </entries>
+</entry>

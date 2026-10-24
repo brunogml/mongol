@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B0451">
+  <head>
+    <unicode>ᠪᠠᠬᠲᠠᠷᠠᠲᠠᠯᠠ</unicode>
+    <transcript>baγtaratala</transcript>
+    <transcript2>bagdaradala</transcript2>
+    <cyrillic>багтартал</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠠᠬᠳᠠᠷᠠᠳᠠᠯᠠ</unicode>
+      <definition>jusqu&apos;au fond, d&apos;outre en outre,</definition>
+      <page>1090</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠠᠬᠳᠠᠷᠠᠳᠠᠯᠠ ᠵᠢᠳᠠᠯᠠᠬᠤ</unicode>
+          <definition>percer d&apos;une lance d&apos;outre en outre</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠬᠲᠠᠷᠠᠲᠠᠯᠠ</unicode>
+      <cyrillic>БАГТАРТАЛ</cyrillic>
+      <definition>глубоко внутрь; багтартал жадлах глубоко вонзить копьё.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

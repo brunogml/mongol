@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S4945">
+  <head>
+    <unicode>ᠰᠣᠨᠣᠰᠣᠯᠭ᠎ᠠ</unicode>
+    <transcript>sonusulγ-a</transcript>
+    <transcript2>sonosolga</transcript2>
+    <cyrillic>сонслого</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠣᠨᠣᠰᠣᠯᠭ᠎ᠠ</unicode>
+      <uighur>sonosolγ-a</uighur>
+      <cyrillic>сонслого</cyrillic>
+      <transcript>SONUSULΓ-A</transcript>
+      <definition>n. The act of hearing.</definition>
+      <page>728</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠤᠨᠣᠰᠣᠯᠭ᠎ᠠ</unicode>
+      <definition>action d&apos;écouter.</definition>
+      <page>1379</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠣᠮ ᠤᠨ ᠰᠤᠨᠣᠰᠣᠯᠭ᠎ᠠ ᠎ᠶᠢ ᠳᠡᠭᠦᠰᠭᠡᠺᠦ</unicode>
+          <definition>entendre jusqu&apos;à la fin un sermon (la doctrine)</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9600">
+  <head>
+    <unicode>ᠲᠥᠷᠺᠥᠮᠰᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>törkümsegülkü</transcript>
+    <transcript2>dörgömsegölgö</transcript2>
+    <cyrillic>төрхөмсүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T9598</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠥᠷᠬᠥᠮᠰᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>төрхөмсүүлэх</cyrillic>
+      <definition>〔动〕төрхөмсөх 的使动态.</definition>
+      <page>1102</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠷᠺᠥᠮᠰᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ТӨРХӨМСҮҮЛЭХ</cyrillic>
+      <definition>төрхөмсөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠥᠷᠬᠥᠮᠰᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>төрхөмсүүлэх</cyrillic>
+      <definition>төрхөмсөхийн үйлдүүлэх хэв.</definition>
+      <page>552</page>
+    </entry_item>
+  </entries>
+</entry>

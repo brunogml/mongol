@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I1267">
+  <head>
+    <unicode>ᠢᠷᠮᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>irmegülkü</transcript>
+    <transcript2>irmegölgö</transcript2>
+    <cyrillic>ирмүүлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>I1271</ref>
+  </derivatives>
+  <related_to>
+    <ref>I1263</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠷᠮᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ИРМҮҮЛЭХ</cyrillic>
+      <definition>I ирмэх I-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠷᠮᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ИРМҮҮЛЭХ</cyrillic>
+      <definition>II делать энергичным, бурным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠷᠮᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>ирмүүлэх /1</cyrillic>
+      <definition>ирмүүн болгох, ирмүүн байдал гаргах.</definition>
+      <page>307</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠷᠮᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>ирмүүлэх /2</cyrillic>
+      <definition>ирмэхийн үйлдүүлэх хэв, ирмэхэд хүрүүлэх.</definition>
+      <page>307</page>
+    </entry_item>
+  </entries>
+</entry>

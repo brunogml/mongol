@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5993">
+  <head>
+    <unicode>ᠰᠣᠮᠣᠯᠠᠬᠣ</unicode>
+    <transcript>sumulaqu</transcript>
+    <transcript2>somolago</transcript2>
+    <cyrillic>сумлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5994</ref>
+    <ref>S5995</ref>
+    <ref>S5999</ref>
+    <ref>S5995a</ref>
+    <ref>S5997</ref>
+    <ref>S5998</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠣᠮᠣᠯᠠᠬᠣ</unicode>
+      <uighur>sumolaqu</uighur>
+      <cyrillic>сумлах</cyrillic>
+      <transcript>SUMULA-</transcript>
+      <definition>v.t. To load a firearm</definition>
+      <page>737</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠤᠤ ᠰᠣᠮᠣᠯᠠᠬᠣ</unicode>
+          <transcript>buu -- </transcript>
+          <definition> To load a firearm.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠮᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>сумлах</cyrillic>
+      <definition>〔动〕〈军〉上子弹，装上枪弹，装上炮弹：буу ~ 往枪里装子弹，装炮弹.</definition>
+      <page>961</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠮᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>СУМЛАХ</cyrillic>
+      <definition>I 1. 1) заряжать ружьё, вкладывать патроны; буу сумлах зарядить ружьё, винтовку; буу сумал! заряжай! (команда); үрлэн сумаар сумлах зарядить дробью; 2) накладывать (напр. стрелу на тетиву); 2. сумлахуй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠮᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>СУМЛАХ</cyrillic>
+      <definition>II хуучир. сдавать назад в сомон; сумлан тушаах хуучир. передавать назад в сомон исконных подданных. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠮᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>СУМЛАХУЙ</cyrillic>
+      <definition>заряжание, зарядка (ружья, орудия). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сумлах</cyrillic>
+      <definition>Mil laden; бүү ~ ein Gewehr laden</definition>
+      <page>205</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠮᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>сумлах</cyrillic>
+      <definition>бууд сум хийх; буу сумлах.</definition>
+      <page>489</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S5983</ref>
+  </related_to>
+</entry>

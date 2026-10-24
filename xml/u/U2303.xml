@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="U2303">
+  <head>
+    <unicode>ᠣᠶᠢᠰᠣ</unicode>
+    <transcript>uyisu</transcript>
+    <transcript2>oyiso</transcript2>
+  </head>
+  <see_also>
+    <ref>U2410a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠶᠢᠰᠣ ~ ᠤᠶᠢᠰᠤᠨ</unicode>
+      <uighur>uyisu - uyisun</uighur>
+      <transcript>UISU</transcript>
+      <definition>Same as yisy(n),</definition>
+      <page>867</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠶᠢᠰᠤᠨ ~ ᠣᠶᠢᠰᠤ</unicode>
+      <definition>écorce (de bouleau, de frêne etc. ).</definition>
+      <page>329</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠶᠢᠰᠤ ᠬᠣᠣᠴᠢᠬᠤ</unicode>
+          <definition>ôter par bandes l'écorce de bouleau</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠶᠢᠰᠤ ᠬᠣᠯᠳᠠᠬᠤ</unicode>
+          <definition>coller des bandes d'ecorce sur un arc</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠣᠶᠢᠰᠣ</unicode>
+      <uighur>uyisun</uighur>
+      <definition>die Sibirische Zwergrüster</definition>
+      <page>44</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠣᠶᠢᠰᠣ</unicode>
+      <uighur>oyisu</uighur>
+      <definition>(o) The Siberian dwarf elm. A kind of birch.</definition>
+      <page>169</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8539">
+  <head>
+    <unicode>ᠲᠥᠰᠢᠺᠺᠥᠢ</unicode>
+    <transcript>tüsiggüi</transcript>
+    <transcript2>dösiggöi</transcript2>
+    <cyrillic>түшиггүй</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠦᠰᠢᠭ᠎ᠦᠭᠡᠢ</unicode>
+      <cyrillic>түшиггүй</cyrillic>
+      <definition>〔形〕没有支柱的，无依无靠的，无支靠的，无凭靠的.</definition>
+      <page>1145</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠰᠢᠺᠺᠥᠢ</unicode>
+      <cyrillic>ТҮШИГГҮЙ</cyrillic>
+      <definition>не имеющий опоры. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠦᠰᠢᠭᠦᠭᠡᠢ</unicode>
+      <cyrillic>түшиггүй</cyrillic>
+      <definition>түших, тулах зүйлгүй.</definition>
+      <page>571</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T8523</ref>
+  </related_to>
+  <derivatives>
+    <ref>T8540</ref>
+  </derivatives>
+</entry>

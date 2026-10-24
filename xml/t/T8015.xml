@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8015">
+  <head>
+    <unicode>ᠲᠣᠷᠺᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>dorgiγulqu</transcript>
+    <transcript2>dorgigolgo</transcript2>
+    <cyrillic>доргиулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T8012</ref>
+  </related_to>
+  <see_also>
+    <ref>T8014</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠣᠷᠭᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>доргиулах</cyrillic>
+      <definition>〔动〕доргих 的使动态.</definition>
+      <page>420</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠷᠺᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДОРГИУЛАХ</cyrillic>
+      <definition>доргих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠣᠷᠭᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>доргиулах</cyrillic>
+      <definition>доргихын үйлдүүлэх хэв.</definition>
+      <page>201</page>
+    </entry_item>
+  </entries>
+</entry>

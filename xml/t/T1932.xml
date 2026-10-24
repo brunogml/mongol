@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1932">
+  <head>
+    <unicode>ᠲᠠᠯᠮᠢᠶᠠᠲᠣᠬᠣ</unicode>
+    <transcript>talmiyatuqu</transcript>
+    <transcript2>dalmiyadogo</transcript2>
+    <cyrillic>талимаатах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1933</ref>
+    <ref>T1934</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠯᠮᠢᠶᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>талимаатах</cyrillic>
+      <definition>〔动〕参见 талимаарах.</definition>
+      <page>1018</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠯᠮᠢᠶᠠᠲᠣᠬᠣ</unicode>
+      <cyrillic>ТАЛИМААТАХ</cyrillic>
+      <definition>смотреть влюблённо. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠯᠮᠢᠶᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>талмиатах</cyrillic>
+      <definition>нүдний харц зөөлөн тогтниун болох.</definition>
+      <page>517</page>
+    </entry_item>
+  </entries>
+</entry>

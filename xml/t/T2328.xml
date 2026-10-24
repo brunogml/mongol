@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2328">
+  <head>
+    <unicode> ᠳᠠᠺᠰᠢ</unicode>
+    <transcript>taksi</transcript>
+    <transcript2>dagsi</transcript2>
+    <cyrillic>такси</cyrillic>
+  </head>
+  <see_also>
+    <ref>T0811</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠺᠰᠢ</unicode>
+      <cyrillic>такси</cyrillic>
+      <definition>〔名〕出租汽车，小公共汽车：~ дуудах 租小汽车，〈口〉打的.</definition>
+      <page>1016</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode> ᠳᠠᠺᠰᠢ</unicode>
+      <cyrillic>ТАКСИ</cyrillic>
+      <definition>таксљ; таксийн жолооч таксљст, шофёр таксљ; таксины буудал стоянка таксљ. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>такси[н]</cyrillic>
+      <definition>Taxi n; ~ дуудах ~ ein Taxi rufen</definition>
+      <page>217</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠺᠰᠢ</unicode>
+      <cyrillic>такси</cyrillic>
+      <definition>хөлсний тэрэг, такси дуудах, таксины буудал.</definition>
+      <page>516</page>
+    </entry_item>
+  </entries>
+</entry>

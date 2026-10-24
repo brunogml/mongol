@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0509">
+  <head>
+    <unicode>ᠮᠠᠲᠢᠢᠬᠣ</unicode>
+    <transcript>matiiqu</transcript>
+    <transcript2>madiigo</transcript2>
+    <cyrillic>матийх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M0511</ref>
+  </derivatives>
+  <see_also>
+    <ref>M0486</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠲᠢᠢᠬᠤ</unicode>
+      <cyrillic>матийх</cyrillic>
+      <definition>〔动〕弯成弓形，弄弯曲.</definition>
+      <page>667</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠲᠢᠢᠬᠣ</unicode>
+      <cyrillic>МАТИЙХ</cyrillic>
+      <definition>1. изгибаться, гнуться дугой, искривляться; 2. матийхуй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠲᠢᠢᠬᠣ</unicode>
+      <cyrillic>МАТИЙХУЙ</cyrillic>
+      <definition>изгиб, дуга; искривление. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠲᠢᠢᠬᠤ</unicode>
+      <cyrillic>матийх</cyrillic>
+      <definition>матигар болох.</definition>
+      <page>334</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0861">
+  <head>
+    <unicode>ᠲᠠᠬᠲᠣ</unicode>
+    <transcript>taγtu</transcript>
+    <transcript2>dagdo</transcript2>
+    <cyrillic>тагт</cyrillic>
+  </head>
+  <see_also>
+    <ref>T0821a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠬᠲᠣ</unicode>
+      <uighur>taqdu</uighur>
+      <cyrillic>тагт</cyrillic>
+      <transcript>TAΓTU</transcript>
+      <definition>n. Attic, garret, mezzanine; tower; floor, story.</definition>
+      <page>766</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠬᠲᠣ ᠪᠠᠶᠢᠰᠢᠩ ~ ᠲᠠᠬᠲᠣ ᠭᠡᠷ</unicode>
+          <transcript>-- baising = -- ger</transcript>
+          <definition> House of more than one story</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠬᠳᠤ</unicode>
+      <definition>maison en saillie, entresol, lieu élevé sur la ehambre , mansarde. mezzanine, tourelle.</definition>
+      <page>1662</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠬᠳᠤ ᠎ᠶᠢᠨ ᠰᠠᠶᠢᠳ</unicode>
+          <definition>président du comité de construction</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠠᠬᠳᠤ ᠭᠡᠷ</unicode>
+          <definition>bâtiment à plusieurs étages</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠬᠲᠣ</unicode>
+      <uighur>daqdu</uighur>
+      <definition>der Boden, Söller; das obere Stockwerk</definition>
+      <page>231</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠬᠲᠣ</unicode>
+      <uighur>daqtu</uighur>
+      <definition>n. A turret. An upper storey. The guillotine.</definition>
+      <page>911</page>
+      <examples>
+        <example>
+          <uighur>daqtu ker</uighur>
+          <definition>A house with much woodwork</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠬᠲᠣ</unicode>
+      <cyrillic>ТАГТ</cyrillic>
+      <definition>1) мезонљн; чердак; тагттай байшин дом с мезонљном; тагтын хэрэм брандмауэрная стена; 2) балкон; 3) дом, здание из двух и более этажей; тагт гэр дом, здание из двух и более этажей. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тагт[ан]</cyrillic>
+      <definition>Balkon m; Überbau m; Arch Mezzanin n</definition>
+      <page>216</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠭᠲᠤ᠊ᠨ</unicode>
+      <cyrillic>тагт</cyrillic>
+      <definition>давхарлаг гэр, давхар байшин,асар тагт&lt;хорш&gt;,тай тагт&lt;хорш&gt;. тагт дээр гарч алсыг ширтэв.</definition>
+      <page>514</page>
+    </entry_item>
+  </entries>
+</entry>

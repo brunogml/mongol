@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E1835">
+  <head>
+    <unicode>ᠡᠭᠳᠡᠭᠦᠴᠡᠭᠦᠯᠺᠦ</unicode>
+    <transcript>egdegüčegülkü</transcript>
+    <transcript2>egdegöcegölgö</transcript2>
+    <cyrillic>эгдүүцүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>E1834</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠭᠳᠡᠭᠦᠴᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>эгдүүцүүлэх</cyrillic>
+      <definition>〔动〕эгдүүцэх 的使动态.</definition>
+      <page>1679</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠺᠳᠠᠺᠥᠴᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЭГДҮҮЦҮҮЛЭХ</cyrillic>
+      <definition>эгдүүцэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠭᠳᠡᠭᠦᠴᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>эгдүүцүүлэх</cyrillic>
+      <definition>эгдүүцэхийн үйлдүүлэхийн хэв.</definition>
+      <page>868</page>
+    </entry_item>
+  </entries>
+</entry>

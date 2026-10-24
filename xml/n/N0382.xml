@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N0382">
+  <head>
+    <unicode>ᠨᠠᠯᠮᠠᠷᠠᠬᠣ</unicode>
+    <transcript>nalmaraqu</transcript>
+    <transcript2>nalmarago</transcript2>
+    <cyrillic>налмарах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>N0383</ref>
+    <ref>N0384</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠠᠯᠮᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>налмарах</cyrillic>
+      <definition>〔动〕裂开成碎片；破烂，破碎，变褴褛.</definition>
+      <page>723</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠯᠮᠠᠷᠠᠬᠣ</unicode>
+      <cyrillic>НАЛМАРАХ</cyrillic>
+      <definition>разрываться на мелкие кусочки. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>налмарах</cyrillic>
+      <definition>auseinanderfallen, zerfallen, brüchig werden</definition>
+      <page>153</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠠᠯᠮᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>налмарах</cyrillic>
+      <definition>налмагар болох, урагдаж ноорох.</definition>
+      <page>365</page>
+    </entry_item>
+  </entries>
+</entry>

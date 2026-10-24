@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2682">
+  <head>
+    <unicode> ᠪᠣᠭᠣᠨᠢᠳᠬᠠᠬᠣ</unicode>
+    <transcript>boγunitqaqu</transcript>
+    <transcript2>bogonidgago</transcript2>
+    <cyrillic>богинотгох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B2683</ref>
+    <ref>B2684</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode> ᠪᠣᠭᠣᠨᠢᠳᠬᠠᠬᠣ</unicode>
+      <uighur>boγunidqaqu</uighur>
+      <cyrillic>богинотгох</cyrillic>
+      <transcript>BOΓUNIDXA-</transcript>
+      <definition>[v. caus, of boγunid-] To shorten, lower.</definition>
+      <page>113</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠤᠪᠴᠠᠰᠤᠨ ᠢ ᠪᠣᠭᠣᠨᠢᠳᠬᠠᠬᠣ</unicode>
+          <transcript>xubcasun i --xu, </transcript>
+          <definition>To shorten one's chess</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠤᠭᠣᠨᠢᠳᠬᠠᠬᠤ</unicode>
+      <definition>accourcir, raccourcir, baisser. abaisser.</definition>
+      <page>1161</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠤᠪᠴᠠᠰᠤᠨ ᠢ ᠪᠤᠭᠣᠨᠢᠳᠬᠠᠬᠤ</unicode>
+          <definition>accourcir un habit</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode> ᠪᠣᠭᠣᠨᠢᠳᠬᠠᠬᠣ</unicode>
+      <uighur>buγunidqaqu</uighur>
+      <definition>niedrig machen, erniedrigen.</definition>
+      <page>110</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode> ᠪᠣᠭᠣᠨᠢᠳᠬᠠᠬᠣ</unicode>
+      <uighur>buγunidqaqu</uighur>
+      <definition>v.t.To make low or short.</definition>
+      <page>439</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠣᠭᠣᠨᠢᠳᠬᠠᠬᠤ</unicode>
+      <cyrillic>богинотгох</cyrillic>
+      <definition>〔动〕богинотох 的使动态.</definition>
+      <page>161</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode> ᠪᠣᠭᠣᠨᠢᠳᠬᠠᠬᠣ</unicode>
+      <cyrillic>БОГИНОТГОХ</cyrillic>
+      <definition>богинотох-ын үйлдүүл., делать коротким, укорачивать, сокращать.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>богинотгох</cyrillic>
+      <definition>= богиносгох</definition>
+      <page>53</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠣᠭᠣᠨᠢᠳᠬᠠᠬᠤ</unicode>
+      <cyrillic>богинотгох</cyrillic>
+      <definition>богинотохын үйлдүүлэх хэв.</definition>
+      <page>86</page>
+    </entry_item>
+  </entries>
+</entry>

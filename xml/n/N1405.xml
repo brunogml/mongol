@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1405">
+  <head>
+    <unicode>ᠨᠢᠬᠲᠠᠳᠠᠬᠣ</unicode>
+    <transcript>niγtadaqu</transcript>
+    <transcript2>nigdadago</transcript2>
+    <cyrillic>нягтдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>N1406</ref>
+    <ref>N1407</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠢᠭᠲᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>нягтдах</cyrillic>
+      <definition>〔动〕变稠，变密.</definition>
+      <page>780</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠢᠬᠲᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>НЯГТДАХ</cyrillic>
+      <definition>нягтрах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠢᠭᠲᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>нягтдах</cyrillic>
+      <definition>хэтэрхий нягт болох.</definition>
+      <page>401</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q4408">
+  <head>
+    <unicode>ᠭᠣᠬᠠᠲᠣ</unicode>
+    <transcript>γoqatu</transcript>
+    <transcript2>gogado</transcript2>
+    <cyrillic>гохот</cyrillic>
+  </head><see_also>
+    <ref>Q4403</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠤᠬᠠᠳᠠᠢ ~ ᠭᠤᠬᠠᠳᠤ</unicode>
+      <definition>avec un crochet, muni d'un crochet.</definition>
+      <page>1023</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠤᠬᠠᠳᠤ ᠲᠤᠯᠭᠠᠭᠠᠷ</unicode>
+          <definition>suport d'un croisée avec un petit crochet</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠬᠠᠲᠣ</unicode>
+      <cyrillic>ГОХОТ</cyrillic>
+      <definition>крючковатый. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

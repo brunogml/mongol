@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B3335">
+  <head>
+    <unicode>ᠪᠣᠯᠣᠰᠢ</unicode>
+    <transcript>bolusi</transcript>
+    <transcript2>bolosi</transcript2>
+    <cyrillic>болш</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠣᠯᠣᠰᠢ</unicode>
+      <uighur>bolusi</uighur>
+      <cyrillic>болш</cyrillic>
+      <transcript>BOLUSI</transcript>
+      <page>119</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠣᠯᠣᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>ygei</transcript>
+          <definition>Impossible, unachievable</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠡᠷᠺᠢᠪᠡᠴᠦ ᠪᠡᠷ ᠪᠣᠯᠣᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>kerkibecy ber -- ygei</transcript>
+          <definition>By no means possible, impossible no matter what one does.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠤᠯᠣᠰᠢ ᠦᠭᠡᠢ</unicode>
+      <definition>impossible, qui n'a pas en lieu.</definition>
+      <page>1190</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠯᠠᠮ᠎ᠠ ᠡᠴᠡᠭᠡᠨ ᠺᠱᠠᠨ ᠵᠠᠭᠤᠷᠠ ᠰᠠᠯᠵᠤ ᠪᠤᠯᠣᠰᠢ ᠦᠭᠡᠢ ᠠᠮᠤ</unicode>
+          <definition>on ne doit pas se séparer pour un moment de son instituteur (lama)</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠡᠷᠭᠢᠪᠡᠴᠦ ᠪᠡᠷ ᠪᠤᠯᠣᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <definition>cela ne peut pas être autrement; inévitablement, immanquablement</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠪᠣᠯᠣᠰᠢ</unicode>
+      <uighur>bolusi ügei</uighur>
+      <definition>Impossible. Not allowable. Unserviceable. Useless.</definition>
+      <page>449</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠯᠣᠰᠢ</unicode>
+      <cyrillic>БОЛШГҮЙ</cyrillic>
+      <definition>1. непозволительный, немыслимый, невозможный, несбыточный; недопустимый, неприемлемый; ажилд хэрэглэж болшгүй не пригодный для практического употребления; 2. невозможно, недопустимо, неприемлемо.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>болшгүй</cyrillic>
+      <definition>unmöglich; санаж ~ unausdenkbar</definition>
+      <page>56</page>
+    </entry_item>
+  </entries>
+</entry>

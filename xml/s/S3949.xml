@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3949">
+  <head>
+    <unicode>ᠰᠢᠯᠭᠠᠬᠣ</unicode>
+    <transcript>silγaqu</transcript>
+    <transcript2>silgago</transcript2>
+    <cyrillic>шалгах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3951</ref>
+    <ref>S3954</ref>
+    <ref>S3966</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠯᠭᠠᠬᠣ</unicode>
+      <uighur>silγaqu</uighur>
+      <cyrillic>шалгах</cyrillic>
+      <transcript>SILΓA-</transcript>
+      <definition>v. t. To examine; to check, verify; to select.</definition>
+      <page>706</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠯᠭᠠᠨ ᠴᠡᠪᠡᠷᠯᠡᠺᠦ</unicode>
+          <transcript>--n ceberieky</transcript>
+          <definition> To sort out, select.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠢᠯᠭᠠᠨ ᠦᠵᠡᠺᠦ</unicode>
+          <transcript>--n yzeky</transcript>
+          <definition> To examine, check, test.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠣᠩᠭᠤᠨ ᠰᠢᠯᠭᠠᠬᠤ</unicode>
+          <transcript>songγun --xu</transcript>
+          <definition> To elect, choose, select, esp. by competitive examination.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠯᠭᠠᠬᠤ</unicode>
+      <definition>choisir: 2 discerner, distinguer: 3 examiner.</definition>
+      <page>1497</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠯᠭᠠᠬᠤ ᠺᠦᠷᠢᠶᠡᠨ ᠤ ᠺᠡᠷᠡᠭ ᠎ᠶᠢ ᠪᠦᠭᠦᠳᠡ ᠵᠠᠺᠢᠷᠤᠭᠴᠢ ᠲᠦᠰᠢᠮᠡᠯ</unicode>
+          <definition>le directeur du commité examinatoire</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠢᠯᠭᠠᠬᠤ ᠭᠡᠷ</unicode>
+          <definition>maison d'examen</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠢᠯᠭᠠᠵᠤ ᠤᠷᠤᠭᠰᠠᠨ ᠨᠡᠷ᠎ᠡ ᠎ᠶᠢᠨ ᠪᠢᠴᠢᠭ</unicode>
+          <definition>registre des étudiants qui ont subi leur examen</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠢᠯᠭᠠᠭᠴᠢ ᠲᠦᠰᠢᠮᠡᠯ</unicode>
+          <definition>examinateur</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠰᠢᠯᠭᠠᠬᠣ</unicode>
+      <uighur>silγaqu</uighur>
+      <definition>prüfen, exarniniren , das Beste heraussuchen</definition>
+      <page>359</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠰᠢᠯᠭᠠᠬᠣ</unicode>
+      <uighur>silγaqu</uighur>
+      <definition>v.t. To examine, to examine in school. To choose the best. To select. To elect</definition>
+      <page>1444</page>
+      <examples>
+        <example>
+          <uighur>silγaqu ebkemeldü</uighur>
+          <definition>n. Examination papers.</definition>
+        </example>
+        <example>
+          <uighur>silγaqu quriy-a</uighur>
+          <definition>n. Former provincial examination hall</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠯᠭᠠᠬᠤ</unicode>
+      <cyrillic>шалгах</cyrillic>
+      <definition>〔动〕①检查，考验：билет ~ 查票；~н байцаах 检查，审查；~н байцаах комисс 检查委员会，审查委员会；~н үзэх, ~ж үзэх 检查，审查；②试验，测试：мотор ~ 试验发动机；~ аппарат 测试仪；③考试，考核，考查，测验：амаар ~ 口试；бичгээр ~ 笔试.</definition>
+      <page>1612</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠯᠭᠠᠬᠣ</unicode>
+      <cyrillic>ШАЛГАХ</cyrillic>
+      <definition>1. 1) проверять; испытывать; ажлыг нь шалгах проверять чью-л. работу; гүйцэтгэлийг шалгах проверять исполнение; дэвтэр шалгах проверять тетради; мотор шалгах испытывать мотор; тасалбар шалгах проверять билеты; хүчээ шалгах испытывать свои силы; хянан шалгах контролировать; шалган байцаах проверять, ревизовать, контролировать; шалган байцаах комисс ревизионная комиcсия; шалган боловсруулах изучать, исследовать; шалган гаргах проверять, выявлять; шалган нэвтрүүлэх газар контрольно-пропускной пункт; шалган турших устраивать проверку, производить испытание; экзаменовать; шалган турших хугацаа испытательный срок; шалган үзэх рассматривать, проверять, производить испытание; устраивать проверку, экзаменовать; ажлыг шалган үзэх проверять или контролировать работу; сурагчдын сурлага боловсролыг шалган үзэх проверять успеваемость учащихся; шалган үзэгч досмотрщик; шалган хянах внимательно рассматривать, тщательно проверять, контролировать, обследовать, расследовать; шалган шинжлэх проверять, подвергать проверке, обследованию; ялган шалгаж шинжлэх анализировать; 2) экзаменовать; оюутан шалгах экзаменовать студента; 3) отбирать, выбирать, делать отбор; отличать, различать; амт шалгах а) дегустировать; б) дегустация; дэнсэлж шалгах вывесить; взвесить; шалган цэвэрлэх производить чистку; намын гишүүдийг шалган цэвэрлэх комисс комиссия по чистке членов партии; шалган шилэх отбирать, выбирать, делать отбор; 2. шалгахуй-г үз., дунд сургуулийн сурагчдыг шалгахад при испытании учеников средней школы; тэдний хийсэн ажлыг шалгахад при проверке проделанной ими работы; энэхүү тогтоолын гүйцэтгэлийг шалгахын тулд для проверки реализации этого решения; 3. 1) проверочный; испытательный; ревизионный; шалгах хэмжүүр эталон; 2) экзаменационный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠯᠭᠠᠬᠣ</unicode>
+      <cyrillic>ШАЛГАХУЙ</cyrillic>
+      <definition>1) ревизия, проверка, испытание; 2) экзамен; 3) чистка. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шалгах</cyrillic>
+      <definition>1. kontrollieren, nach-, überprüfen; ~ хэрэгсэл Prüfgerät n; билет ~ die Eintrittskarten kontrollieren; шалган байцаах inspizieren, eine Revision durchführen; шалган байцаах комисс Revisionskommission f
+2. prüfen, examinieren</definition>
+      <page>378</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠯᠭᠠᠬᠤ</unicode>
+      <cyrillic>шалгах</cyrillic>
+      <definition>1. үйл ажлын явц чанар, түүний зөв бурууг хянан магадлаж үзэх; ажлын биелэлтийг шалгах; данс тайланг шалгах; сурлага чадварыг шалгах; хянаж шалгах; харьцуулан шалгах;2. үзэж сурсан зүйлийн сайн мууг магадлах; амаар шалгах; бичгээр шалгах;3. шинэ зүйлийг туршиж сорин үзэх; машинын шинэ мотор шалгах; бууны тусгалыг шалгах.</definition>
+      <page>833</page>
+    </entry_item>
+  </entries>
+</entry>

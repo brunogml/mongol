@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T4080">
+  <head>
+    <unicode>ᠲᠠᠮᠠᠰᠥ</unicode>
+    <transcript>temesü</transcript>
+    <transcript2>demesö</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠮᠠᠰᠥ</unicode>
+      <uighur>temesü</uighur>
+      <transcript>TEMESY</transcript>
+      <definition>n. Edges of a net; border or hem of a mat.</definition>
+      <page>800</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠮᠠᠰᠥ ᠺᠢᠺᠦ</unicode>
+          <transcript>-- kiky</transcript>
+          <definition> To edge a net with rope; to border or hem a mat.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠡᠮᠡᠰᠦ</unicode>
+      <definition>les bords (d&apos;une natte, d&apos;un filet).</definition>
+      <page>1725</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠡᠮᠡᠰᠦ ᠺᠢᠺᠦ</unicode>
+          <definition>faire des cordes pour les filets</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠮᠠᠰᠥ</unicode>
+      <uighur>demesün</uighur>
+      <definition>Siehe tümüsün</definition>
+      <page>242</page>
+    </entry_item>
+  </entries>
+</entry>

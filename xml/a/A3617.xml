@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A3617">
+  <head>
+    <unicode>ᠠᠶᠢᠳᠠᠩᠭᠣᠷᠠᠬᠣ</unicode>
+    <transcript>ayidangγuraqu</transcript>
+    <transcript2>ayidanggorago</transcript2>
+    <cyrillic>айдангарах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠶᠢᠳᠠᠩᠭᠣᠷᠠᠬᠣ</unicode>
+      <uighur>ayidangγuraqu</uighur>
+      <cyrillic>айдангарах</cyrillic>
+      <transcript>AIDANGГURA-</transcript>
+      <definition>Same as aidangγuila-</definition>
+      <page>20</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠢᠳᠠᠩᠭᠤᠷᠠᠬᠤ</unicode>
+      <uighur>ayidangγuraqu</uighur>
+      <definition>voir ayidanguyilaqu</definition>
+      <page>3</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠢᠳᠠᠩᠭᠤᠷᠠᠨ ᠬᠡᠯᠡᠬᠦ</unicode>
+          <uighur>ayidangγuran kelekü</uighur>
+          <definition>bavarder, mentir, dire des fariboles</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠢᠳᠠᠩᠭᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>айдангарах</cyrillic>
+      <definition>〔动〕变得饶舌，乱说起来；变得贫嘴.</definition>
+      <page>31</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠢᠳᠠᠩᠭᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>айдангарах</cyrillic>
+      <definition>айданга болох.</definition>
+      <page>26</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0035">
+  <head>
+    <unicode>ᠬᠠᠣᠷᠠᠶᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>qaurayidaγulqu</transcript>
+    <transcript2>gaorayidagolgo</transcript2>
+    <cyrillic>хуурайдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q0034</ref>
+  </related_to>
+  <see_also>
+    <ref>Q0780</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠤᠷᠠᠶᠢᠳᠠᠭᠤᠯᠬᠤ ~ ᠬᠠᠭᠣᠷᠠᠶᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <definition>faire limer, faire polir avec la lime.</definition>
+      <page>717</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠠᠣᠷᠠᠶᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <uighur>qaurayidaγulqu</uighur>
+      <definition>v.t. To cause or permit filing (with a file).</definition>
+      <page>502</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠣᠷᠠᠶᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХУУРАЙДУУЛАХ</cyrillic>
+      <definition>I хуурайдах I-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠤᠷᠠᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хуурайдуулах</cyrillic>
+      <definition>хуурайдахын үйлдүүлэх хэв.</definition>
+      <page>738</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8523">
+  <head>
+    <unicode>ᠲᠥᠰᠢᠺ</unicode>
+    <transcript>tüsig</transcript>
+    <transcript2>dösig</transcript2>
+    <cyrillic>түшиг</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠥᠰᠢᠺ</unicode>
+      <uighur>tüsik</uighur>
+      <cyrillic>түшиг</cyrillic>
+      <transcript>TYSIG</transcript>
+      <definition>n. Rest, support, prop (also fig.).</definition>
+      <page>856</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠥᠰᠢᠺ ᠪᠣᠯᠬᠤ</unicode>
+          <transcript>-- bolxu</transcript>
+          <definition> To support, be a help.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠥᠰᠢᠺ ᠮᠠᠭᠤᠲᠠᠢ</unicode>
+          <transcript>-- maγutai </transcript>
+          <definition> Insecure, unsafe, having a weak or poor support.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠥᠰᠢᠺ ᠰᠠᠭᠤᠷᠢ</unicode>
+          <transcript>-- saγuri</transcript>
+          <definition> Basis, foundation.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠥᠰᠢᠺ ᠲᠠᠨᠢᠯ</unicode>
+          <transcript>-- tanil</transcript>
+          <definition> Supporter[s] and acquaintance[s] (friends and persons that can be relied upon)</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠥᠰᠢᠺ ᠲᠤᠯᠭᠠᠭᠤᠢ</unicode>
+          <transcript>-- tulγaγuri</transcript>
+          <definition> Support, pillar, cornerstone (fig.).</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠢᠭᠡᠨ ᠢᠨᠤ ᠨᠢᠭᠡᠨ ᠎ᠳᠡᠭᠡᠨ ᠲᠥᠰᠢᠺ ᠪᠣᠯᠬᠤ</unicode>
+          <transcript>migen inu nigen degen -- bolxu</transcript>
+          <definition> To be of help to each other</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠦᠰᠢᠭ</unicode>
+      <definition>appui, soutien, support</definition>
+      <page>1913</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠦᠰᠢᠭ ᠬᠠᠭᠠᠴᠠᠭᠰᠠᠨ</unicode>
+          <definition>sans appui, sans soutien; sans asyle, sans refuge</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠥᠯ ᠤᠨ ᠳᠦᠰᠢᠭ</unicode>
+          <definition>marche-pied</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠦᠰᠢᠭ</unicode>
+      <cyrillic>түшиг</cyrillic>
+      <definition>〔名〕支持，支持物，支柱，支座，支持力；依靠，靠山，凭靠，支靠，指靠；根据地：~ газар 据点；◊ ~ тулгуур 支持，支柱；根据地；依靠，支靠.</definition>
+      <page>1145</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠰᠢᠺ</unicode>
+      <cyrillic>ТҮШИГ</cyrillic>
+      <definition>1. опора; поддержка, оплот; подпорка, подставка; муу түшиг плохая, ненадёжная опора; сүр түшиг хорш. оплот, крепость; түшиг аврал хорш. спасение, убежище, оплот; түшиг муутай ненадёжный, слабый, не имеющий поддержки; түшиг тулгуур хорш. опора, оплот, поддержка; 2. опорный; надёжный; түшиг газар цэрэг. опорный пункт; түшиг сайн өрлөгүүд надёжные полководцы; түшиг хана опорные стены. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>түшиг,</cyrillic>
+      <definition>auch ~ тулгуур Stütze f, Pfeiler m, Halt m</definition>
+      <page>246</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠦᠰᠢᠭ</unicode>
+      <cyrillic>түшиг</cyrillic>
+      <definition>түшвэл болох газар, юм;түшиг тулгуур&lt;хорш&gt;; түшиг муутай; түшиг сайтай.</definition>
+      <page>571</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>T8532</ref>
+    <ref>T8536</ref>
+    <ref>T8539</ref>
+  </derivatives>
+</entry>

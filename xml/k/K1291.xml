@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K1291">
+  <head>
+    <unicode>ᠺᠡᠭᠦᠷᠡᠭ</unicode>
+    <transcript>kegüreg</transcript>
+    <transcript2>gegöreg</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠡᠭᠦᠷᠡᠭ</unicode>
+      <uighur>kegüreg</uighur>
+      <transcript>KEKYREG</transcript>
+      <definition>See kekydeg.</definition>
+      <page>446</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠡᠭᠦᠷᠡᠭ ~ ᠺᠡᠭᠦᠳᠡᠭ</unicode>
+      <definition>le quartier de devant (d'un animal).</definition>
+      <page>2501</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠨᠢᠨ ᠤ ᠺᠡᠭᠦᠷᠡᠭ</unicode>
+          <definition>le quartier de devant d'un mouton</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

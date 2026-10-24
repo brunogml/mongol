@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1783">
+  <head>
+    <unicode>ᠳᠠᠯᠣᠣᠳᠠᠬᠣ</unicode>
+    <transcript>daloudaqu</transcript>
+    <transcript2>daloodago</transcript2>
+    <cyrillic>даалуудах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1784</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠯᠤᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>даалуудах</cyrillic>
+      <definition>〔动〕推牌九，玩骨脾.</definition>
+      <page>361</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠯᠣᠣᠳᠠᠬᠣ</unicode>
+      <cyrillic>ДААЛУУДАХ</cyrillic>
+      <definition>играть в далу. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠯᠤᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>даалуудах</cyrillic>
+      <definition>даалуу тавьж наадах.</definition>
+      <page>174</page>
+    </entry_item>
+  </entries>
+</entry>

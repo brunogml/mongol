@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y5404">
+  <head>
+    <unicode>ᠵᠥᠺᠡᠺᠰᠢᠺᠥ</unicode>
+    <transcript>ǰögegsikü</transcript>
+    <transcript2>yögegsigö</transcript2>
+    <cyrillic>зөөгших</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y5405</ref>
+    <ref>Y5403</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠥᠭᠡᠭᠰᠢᠬᠦ</unicode>
+      <cyrillic>зөөгших</cyrillic>
+      <definition>〔动〕（由热）变温，变温和，变温凉：цай ~ж байна, уухгүй юү? 茶温了，你不喝吗？</definition>
+      <page>569</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠥᠺᠡᠺᠰᠢᠺᠥ</unicode>
+      <cyrillic>ЗӨӨГШИХ</cyrillic>
+      <definition>остывать, постепенно охлаждаться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠥᠭᠡᠭᠰᠢᠬᠦ</unicode>
+      <cyrillic>зөөгших</cyrillic>
+      <definition>юмны зөөг болох; цай зөөгшиж байна, уухгүй юү?</definition>
+      <page>279</page>
+    </entry_item>
+  </entries>
+</entry>

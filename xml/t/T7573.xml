@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7573">
+  <head>
+    <unicode>ᠳᠣᠶᠢᠯᠵᠠᠬᠣ</unicode>
+    <transcript>doyilǰaqu</transcript>
+    <transcript2>doyilcago</transcript2>
+    <cyrillic>доёлзох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T7574</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠣᠶ᠍ᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>доёлзох</cyrillic>
+      <definition>〔动〕参见 доёгонох.</definition>
+      <page>410</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠶᠢᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ДОЁЛЗОХ</cyrillic>
+      <definition>доёгонох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>доёлзох</cyrillic>
+      <definition>= доёгонох</definition>
+      <page>94</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠣᠶ᠍ᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>доёлзох</cyrillic>
+      <definition>доёгор юмны доёс доёс хийх.</definition>
+      <page>197</page>
+    </entry_item>
+  </entries>
+</entry>

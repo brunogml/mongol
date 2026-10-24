@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K2631">
+  <head>
+    <unicode>ᠺᠢᠷᠣᠮᠴᠠᠬᠯᠠᠬᠣ</unicode>
+    <transcript>kirumčaγlaqu</transcript>
+    <transcript2>giromcaglago</transcript2>
+    <cyrillic>хярамцаглах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K2632</ref>
+    <ref>K2633</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠢᠷᠤᠮᠴᠠᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>хярамцаглах</cyrillic>
+      <definition>〔动〕做血灌肚，做血灌肠.</definition>
+      <page>1503</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠷᠣᠮᠴᠠᠬᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХЯРАМЦАГЛАХ</cyrillic>
+      <definition>делать запасы хярамцаг; завернуть и замораживать внутренности в рубце, в брюшине. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠢᠷᠤᠮᠴᠠᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>хярамцаглах</cyrillic>
+      <definition>хярамцаг хийх.</definition>
+      <page>773</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2201">
+  <head>
+    <unicode>ᠴᠢᠺᠢᠺᠳᠠᠺᠥ</unicode>
+    <transcript>čikigdekü</transcript>
+    <transcript2>cigigdegö</transcript2>
+    <cyrillic>чихэгдэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>C2190</ref>
+  </related_to>
+  <see_also>
+    <ref>C2200</ref>
+    <ref>C2202</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠬᠢᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>чихэгдэх</cyrillic>
+      <definition>〔动〕①чихэх 的被动态；②受牵连，被陷入，被推入：хэрэгт ~ 在案件上受到牵连.</definition>
+      <page>1593</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠺᠢᠺᠳᠠᠺᠥ</unicode>
+      <cyrillic>ЧИХЭГДЭХ</cyrillic>
+      <definition>чихэх-ийн үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠬᠢᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>чихэгдэх</cyrillic>
+      <definition>1. чихэхийн үйлдэгдэх хэв;2. бусдын хийсэн үйл хэрэгт мушгиугаар тулгагдан холбогдох; хэрэгт чихэгдэх.</definition>
+      <page>821</page>
+    </entry_item>
+  </entries>
+</entry>

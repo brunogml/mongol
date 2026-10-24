@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0201">
+  <head>
+    <unicode>ᠵᠠᠩᠰᠢᠯᠠᠬᠣ</unicode>
+    <transcript>ǰangsilaqu</transcript>
+    <transcript2>yangsilago</transcript2>
+    <cyrillic>заншлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y0202</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠩᠰᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>заншлах</cyrillic>
+      <definition>〔动〕考察，探险：далайгаар ~ 到海洋里去考察.</definition>
+      <page>545</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠩᠰᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЗАНШЛАХ</cyrillic>
+      <definition>1. 1) скитаться в поисках чего-л.; 2) делать наблюдения над обычаями, свыкаться с обычаями; 3) рассматривать; 2. детективный; заншлах роман детективный роман; 3. цэрэг. рекогносцировка. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>заншлах</cyrillic>
+      <definition>rekognoszieren, erkunden</definition>
+      <page>118</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠩᠰᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>заншлах</cyrillic>
+      <definition>юм сонирхож сурвалжлан хэсүүчлэн явах; газар орон хэсч заншлах; далайгаар заншлах; заншлаар явах.</definition>
+      <page>267</page>
+    </entry_item>
+  </entries>
+</entry>

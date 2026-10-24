@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I0632">
+  <head>
+    <unicode>ᠢᠯᠢᠺᠥᠷᠳᠠᠺᠥ</unicode>
+    <transcript>iligürdekü</transcript>
+    <transcript2>iligördegö</transcript2>
+    <cyrillic>илүүрдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>I0633</ref>
+    <ref>I0631</ref>
+  </derivatives>
+  <see_also>
+    <ref>I0524</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠢᠯᠢᠺᠥᠷᠳᠠᠺᠥ</unicode>
+      <uighur>iligürdekü</uighur>
+      <cyrillic>илүүрдэх</cyrillic>
+      <transcript>ILIGYRDE-</transcript>
+      <definition>[= ilegyrde-] v. t. To iron (clothes).</definition>
+      <page>408</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠤᠪᠴᠠᠰᠤ ᠢᠯᠢᠺᠥᠷᠳᠠᠺᠥ</unicode>
+          <transcript>xubcasu --ky </transcript>
+          <definition>To iron clothes</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠢᠯᠢᠭᠦᠷᠳᠡᠺᠦ</unicode>
+      <definition>cimenter, crépir</definition>
+      <page>302</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠯᠢᠺᠥᠷᠳᠠᠺᠥ</unicode>
+      <cyrillic>ИЛҮҮРДЭХ</cyrillic>
+      <definition>II 1) штукатурить; 2) массажировать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠯᠢᠺᠥᠷᠳᠠᠺᠥ</unicode>
+      <cyrillic>ИЛҮҮРДЭХҮЙ</cyrillic>
+      <definition>II 1)штукатурка; 2) массажирование. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠯᠢᠭᠦᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>илүүрдэх</cyrillic>
+      <definition>1. халаасан илүүрээр дарж илэх; илүүрдэн нугалаасы нь гаргах;2. шаврын илүүрээр ажиллах; шаврыг сэвгүй болтол нь илүүрдэх хэрэгтэй.</definition>
+      <page>304</page>
+    </entry_item>
+  </entries>
+</entry>

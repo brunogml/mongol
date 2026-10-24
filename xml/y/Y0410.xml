@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0410">
+  <head>
+    <unicode>ᠵᠠᠬᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰaqalaγulqu</transcript>
+    <transcript2>yagalagolgo</transcript2>
+    <cyrillic>захлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y0406</ref>
+  </related_to>
+  <see_also>
+    <ref>Y0409</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠬᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>захлуулах</cyrillic>
+      <definition>〔动〕захлах 的使动态.</definition>
+      <page>553</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠬᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗАХЛУУЛАХ</cyrillic>
+      <definition>захлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠬᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>захлуулах</cyrillic>
+      <definition>захлахын үйлдүүлэх хэв.</definition>
+      <page>271</page>
+    </entry_item>
+  </entries>
+</entry>

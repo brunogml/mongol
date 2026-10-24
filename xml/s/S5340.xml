@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5340">
+  <head>
+    <unicode>ᠰᠣᠬᠣᠴᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>soqučiγulqu</transcript>
+    <transcript2>sogocigolgo</transcript2>
+    <cyrillic>сохчуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S5338</ref>
+  </related_to>
+  <see_also>
+    <ref>S5341</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠬᠣᠴᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сохчуулах</cyrillic>
+      <definition>〔动〕сохчих 的使动态.</definition>
+      <page>945</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠬᠣᠴᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>СОХЧУУЛАХ</cyrillic>
+      <definition>сохчих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠬᠣᠴᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сохчуулах</cyrillic>
+      <definition>сохчихын үйлдүүлэх хэв.</definition>
+      <page>482</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E1330">
+  <head>
+    <unicode>ᠡᠵᠡᠮᠰᠢᠭᠳᠡᠺᠦ</unicode>
+    <transcript>eǰemsigdekü</transcript>
+    <transcript2>ecemsigdegö</transcript2>
+    <cyrillic>эзэмшигдэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>E1327</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠵᠡᠮᠰᠢᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>эзэмшигдэх</cyrillic>
+      <definition>〔动〕эзэмших 的被动态.</definition>
+      <page>1686</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠵᠠᠮᠰᠢᠺᠳᠠᠺᠥ</unicode>
+      <cyrillic>ЭЗЭМШИГДСЭН</cyrillic>
+      <definition>оккупированный; эзэмшигдсэн нутаг оккупированная территория, оккупированный район. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠵᠡᠮᠰᠢᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>эзэмшигдэх</cyrillic>
+      <definition>эзэмшихнйн үйлдэгдэх хэв.</definition>
+      <page>871</page>
+    </entry_item>
+  </entries>
+</entry>

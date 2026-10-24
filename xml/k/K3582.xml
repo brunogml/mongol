@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K3582">
+  <head>
+    <unicode>ᠺᠥᠪᠴᠢᠷᠡᠺᠥ</unicode>
+    <transcript>köbčirekü</transcript>
+    <transcript2>göbciregö</transcript2>
+    <cyrillic>хөвчрөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K3583</ref>
+    <ref>K3581</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠪᠴᠢᠷᠡᠬᠦ</unicode>
+      <cyrillic>хөвчрөх</cyrillic>
+      <definition>〔动〕（像弓弦一样）绷紧.</definition>
+      <page>1387</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠪᠴᠢᠷᠡᠺᠥ</unicode>
+      <cyrillic>ХӨВЧРӨХ</cyrillic>
+      <definition>напрягаться, напруживаться, натуживаться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хөвчрөх</cyrillic>
+      <definition>spannen, ziehen; шөрмөс ~ Med einen Krampf bekommen</definition>
+      <page>316</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠪᠴᠢᠷᠡᠬᠦ</unicode>
+      <cyrillic>хөвчрөх</cyrillic>
+      <definition>хөвч мэт татах; шөрмөс хөвчрөх.</definition>
+      <page>704</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>K3570</ref>
+  </related_to>
+</entry>

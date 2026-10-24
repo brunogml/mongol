@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1967">
+  <head>
+    <unicode>ᠮᠣᠶᠢᠨᠣᠬᠣ</unicode>
+    <transcript>moyinuqu</transcript>
+    <transcript2>moyinogo</transcript2>
+    <cyrillic>мойнох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M1968</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠣᠢᠨᠣᠬᠤ</unicode>
+      <cyrillic>мойнох</cyrillic>
+      <definition>〔动〕参见 мойногрох.</definition>
+      <page>677</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠶᠢᠨᠣᠬᠣ</unicode>
+      <cyrillic>МОЙНОХ</cyrillic>
+      <definition>мойногрох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠣᠢᠨᠣᠬᠤ</unicode>
+      <cyrillic>мойнох</cyrillic>
+      <definition>мойногрох; хуруу мойногрох.</definition>
+      <page>339</page>
+    </entry_item>
+  </entries>
+</entry>

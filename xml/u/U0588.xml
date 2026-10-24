@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U0588">
+  <head>
+    <unicode>ᠣᠬᠠᠭᠠᠷᠬᠠᠬᠣ</unicode>
+    <transcript>uqaγarqaqu</transcript>
+    <transcript2>ogagargago</transcript2>
+    <cyrillic>ухаархах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U0589</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠬᠠᠭᠠᠷᠬᠠᠬᠤ</unicode>
+      <cyrillic>ухаархах</cyrillic>
+      <definition>〔动〕自作聪明，卖弄小聪明，故作渊博.</definition>
+      <page>1218</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠬᠠᠭᠠᠷᠬᠠᠬᠣ</unicode>
+      <cyrillic>УХААРХАХ</cyrillic>
+      <definition>кичљться свољм умом. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠬᠠᠭᠠᠷᠬᠠᠬᠤ</unicode>
+      <cyrillic>ухаархах</cyrillic>
+      <definition>ухаантайдаа бардам зан байдал гаргах.</definition>
+      <page>608</page>
+    </entry_item>
+  </entries>
+</entry>

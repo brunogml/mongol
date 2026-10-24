@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0236">
+  <head>
+    <unicode>ᠮᠠᠭᠠᠰᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>maγasaγanaγulqu</transcript>
+    <transcript2>magasaganagolgo</transcript2>
+    <cyrillic>маасгануулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>M0235</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠭᠠᠰᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>маасгануулах</cyrillic>
+      <definition>〔动〕маасганах 的使动态.</definition>
+      <page>652</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠭᠠᠰᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>МААСГАНУУЛАХ</cyrillic>
+      <definition>маасганах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠭᠠᠰᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>маасгануулах</cyrillic>
+      <definition>маасганахын үйлдүүлэх хэв.</definition>
+      <page>325</page>
+    </entry_item>
+  </entries>
+</entry>

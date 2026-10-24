@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0320">
+  <head>
+    <unicode>ᠰᠠᠬᠠᠳᠠᠬᠣ</unicode>
+    <transcript>saqadaqu</transcript>
+    <transcript2>sagadago</transcript2>
+    <cyrillic>сахдах</cyrillic>
+  </head>
+  <see_also>
+    <ref>S0321</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠬᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>сахдах</cyrillic>
+      <definition>〔动〕射骰子箭.</definition>
+      <page>922</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠬᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>САХДАХ</cyrillic>
+      <definition>быть тяжёлым, тянуть (о битке). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠬᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>сахдах</cyrillic>
+      <definition>сахаар харвах, сах нь хүнддэх.</definition>
+      <page>473</page>
+    </entry_item>
+  </entries>
+</entry>

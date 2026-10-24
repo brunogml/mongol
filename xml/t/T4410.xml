@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T4410">
+  <head>
+    <unicode>ᠲᠠᠺᠠᠷ</unicode>
+    <transcript>teger</transcript>
+    <transcript2>deger</transcript2>
+    <cyrillic>тээр</cyrillic>
+  </head><derivatives>
+    <ref>T4566</ref>
+  
+    <ref>T4684</ref>
+  </derivatives><see_also>
+    <ref>T4369</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠺᠠᠷ</unicode>
+      <uighur>teker</uighur>
+      <cyrillic>тээр</cyrillic>
+      <transcript>TEGER</transcript>
+      <definition>n. Burden, hindrance, impediment, obstruction</definition>
+      <page>793</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠺᠠᠷ ᠪᠣᠯᠬᠤ</unicode>
+          <transcript>-- bolxu</transcript>
+          <definition> To handicap, burden, hinder.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠺᠠᠷ ᠺᠢᠺᠦ</unicode>
+          <transcript>-- kiky</transcript>
+          <definition> To hinder.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠨᠡ ᠶᠠᠭᠤᠨ᠎ᠠ ᠨᠠᠳᠤᠷ ᠶᠡᠺᠡ ᠲᠠᠺᠠᠷ ᠪᠣᠯᠵᠤ ᠪᠠᠶᠢᠨ᠎ᠠ</unicode>
+          <transcript>ene jaγum-a nadur jeke -- bolzu bain-a </transcript>
+          <definition> This thing is becoming a terrible burden to me</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠡᠭᠡᠭᠡᠷ᠎ᠡ</unicode>
+      <cyrillic>тээр</cyrillic>
+      <definition>〔名〕累赘，包袱，负担，羁绊，麻烦：~ болох 成负担，成包袱；~ийн нэмэр 重累，包袱；~ үзэх 视为负担.</definition>
+      <page>1169</page>
+    </entry_item>
+  </entries>
+</entry>

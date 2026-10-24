@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S2771a">
+  <head>
+    <unicode>ᠰᠠᠷᠠᠺᠥᠯᠺᠠᠲᠠᠢ</unicode>
+    <transcript>seregülgetei</transcript>
+    <transcript2>seregölgedei</transcript2>
+    <cyrillic>сэрүүлэгтэй</cyrillic>
+  </head><related_to>
+    <ref>S2755</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠷᠠᠺᠥᠯᠺᠠᠲᠠᠢ</unicode>
+      <uighur>seregülkedei</uighur>
+      <cyrillic>сэрүүлэгтэй</cyrillic>
+      <transcript>SEREGYLGETEI</transcript>
+      <page>689</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠷᠠᠺᠥᠯᠺᠠᠲᠠᠢ ᠴᠠᠭ</unicode>
+          <transcript>-- caγ</transcript>
+          <definition> Alarm clock.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠷᠢᠭᠦᠯᠭᠡᠲᠡᠢ</unicode>
+      <cyrillic>сэрүүлэгтэй</cyrillic>
+      <definition>〔形〕（钟表）有闹铃的.</definition>
+      <page>994</page>
+    </entry_item>
+  </entries>
+</entry>

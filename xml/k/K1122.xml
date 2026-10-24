@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1122">
+  <head>
+    <unicode>ᠺᠠᠵᠢᠺᠥ</unicode>
+    <transcript>keǰikü</transcript>
+    <transcript2>gecigö</transcript2>
+    <cyrillic>хэжих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K1125</ref>
+    <ref>K1108</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠵᠢᠬᠦ</unicode>
+      <cyrillic>хэжих</cyrillic>
+      <definition>〔动〕沿陡坡行走，沿陡坡行驶：уулыг хэжиж авирах 沿陡坡爬山.</definition>
+      <page>1475</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠵᠢᠺᠥ</unicode>
+      <cyrillic>ХЭЖИХ</cyrillic>
+      <definition>ехать, проходить по крутому склону; идти по наклонной плоскости; уулыг хэжиж авирах карабкаться на гору. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хэжих</cyrillic>
+      <definition>sich serpentinenförmig bewegen; уулыг ~ авирах den Berg in Serpentinen besteigen</definition>
+      <page>340</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠵᠢᠬᠦ</unicode>
+      <cyrillic>хэжих</cyrillic>
+      <definition>хэжүү хэжирмэгтэй газраар явах; уулыг хэжиж авирах.</definition>
+      <page>756</page>
+    </entry_item>
+  </entries>
+</entry>

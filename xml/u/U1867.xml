@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1867">
+  <head>
+    <unicode>ᠣᠯᠴᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ulčaγanaγulqu</transcript>
+    <transcript2>olcaganagolgo</transcript2>
+    <cyrillic>улцгануулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U1866</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠯᠴᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>улцгануулах</cyrillic>
+      <definition>〔动〕улцганах 的使动态.</definition>
+      <page>1188</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠯᠴᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>УЛЦГАНУУЛАХ</cyrillic>
+      <definition>улцганах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>улцгануулах</cyrillic>
+      <definition>Kaus von улцганах</definition>
+      <page>256</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠯᠴᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>улцгануулах</cyrillic>
+      <definition>улцганахын үйлдүүлэх хэв.</definition>
+      <page>592</page>
+    </entry_item>
+  </entries>
+</entry>

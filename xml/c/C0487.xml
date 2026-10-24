@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0487">
+  <head>
+    <unicode>ᠴᠠᠯᠴᠢᠷᠠᠬᠣ</unicode>
+    <transcript>čalčiraqu</transcript>
+    <transcript2>calcirago</transcript2>
+    <cyrillic>чалчрах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0488</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠯᠴᠢᠷᠠᠬᠣ</unicode>
+      <uighur>čalčiraqu</uighur>
+      <cyrillic>чалчирах</cyrillic>
+      <transcript>CALCIRA-</transcript>
+      <definition>v.i. To mumble, mutter; to stammer; to be tongue -tied.</definition>
+      <page>163</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠡᠯᠡ ᠴᠠᠯᠴᠢᠷᠠᠬᠣ</unicode>
+          <transcript>kele --xu</transcript>
+          <definition> To stammer, stutter.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠯᠴᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>чалчрах</cyrillic>
+      <definition>〔动〕口吃地说，结结巴巴地说.</definition>
+      <page>1576</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠯᠴᠢᠷᠠᠬᠣ</unicode>
+      <cyrillic>ЧАЛЧРАХ</cyrillic>
+      <definition>говорить невнятно, косноязычно; хэл чалчрах говорить нечленораздельно, коснеть (о языке). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чалчрах</cyrillic>
+      <definition>stammeln, murmeln; чалчран хэлэх undeutlich od verworren reden</definition>
+      <page>368</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠯᠴᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>чалчрах</cyrillic>
+      <definition>ярихдаа хэл нь чулчрах; хэл чалчрах; чалчран хэлэх.</definition>
+      <page>812</page>
+    </entry_item>
+  </entries>
+</entry>

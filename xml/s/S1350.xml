@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1350">
+  <head>
+    <unicode>ᠱᠠᠮᠪᠢᠢᠬᠣ</unicode>
+    <transcript>šambiiqu</transcript>
+    <transcript2>sambiigo</transcript2>
+    <cyrillic>шамбийх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1352</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠮᠪᠢᠢᠬᠤ</unicode>
+      <cyrillic>шамбийх</cyrillic>
+      <definition>〔动〕（嘴或面颊）变薄，变瘦削.</definition>
+      <page>1616</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠮᠪᠢᠢᠬᠣ</unicode>
+      <cyrillic>ШАМБИЙХ</cyrillic>
+      <definition>быть слишком тонким. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шамбийх</cyrillic>
+      <definition>dünn od schmal werden</definition>
+      <page>380</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠮᠪᠢᠢᠬᠤ</unicode>
+      <cyrillic>шамбийх</cyrillic>
+      <definition>шамбигар болох.</definition>
+      <page>835</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S1761">
+  <head>
+    <unicode>ᠰᠠᠷᠨᠢᠭᠣᠷ</unicode>
+    <transcript>sarniγur</transcript>
+    <transcript2>sarnigor</transcript2>
+    <cyrillic>сарниур</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠷᠨᠢᠭᠤᠷ</unicode>
+      <cyrillic>сарниур</cyrillic>
+      <definition>〔名〕解调器：~ын шаталгаа 〈电〉解调级.</definition>
+      <page>919</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠷᠨᠢᠭᠣᠷ</unicode>
+      <cyrillic>САРНИУР</cyrillic>
+      <definition>холбоо. демодулятор; сарниурын шаталгаа холбоо. каскад демодуляции. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

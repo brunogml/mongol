@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y2048">
+  <head>
+    <unicode>ᠵᠡᠲᠺᠦᠺᠦ</unicode>
+    <transcript>ǰetkükü</transcript>
+    <transcript2>yedgögö</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠡᠳᠺᠦᠺᠦ</unicode>
+      <uighur>ǰedgükü</uighur>
+      <transcript>ZEDKY-</transcript>
+      <definition>v.t. To hinder, clog, interrupt.</definition>
+      <page>1043</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠥᠷ ᠢ ᠵᠡᠳᠺᠦᠺᠦ</unicode>
+          <transcript>mør i --ky</transcript>
+          <definition>To cut off the road.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠡᠳᠺᠦᠺᠦ ~ ᠬᠠᠭᠠᠬᠤ</unicode>
+      <definition>empêcher, entraver, interrompre</definition>
+      <page>2313</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠥᠷ ᠢ ᠵᠡᠲᠭᠡᠷᠯᠡᠺᠦ = ᠮᠥᠷ ᠢ ᠬᠠᠭᠠᠬᠤ</unicode>
+          <definition>couper le chemin</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

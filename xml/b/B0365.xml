@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B0365">
+  <head>
+    <unicode>ᠪᠠᠭᠣᠷᠴᠢ</unicode>
+    <transcript>baγurči</transcript>
+    <transcript2>bagorci</transcript2>
+    <cyrillic>буурч</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠠᠭᠣᠷᠴᠢ ~ ᠪᠠᠭᠤᠷᠴᠢᠨ</unicode>
+      <uighur>baγurči - baγurčin</uighur>
+      <transcript>BAГURCI(N)</transcript>
+      <definition>n. Cook</definition>
+      <page>72</page>
+      <examples>
+        <example>
+          <unicode> ᠤ ᠭᠡᠷ</unicode>
+          <transcript>--n u ger, </transcript>
+          <definition>Kitchen</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠪᠠᠭᠣᠷᠴᠢ</unicode>
+      <uighur>baγuči ger</uighur>
+      <definition>n. A hotel, an inn. A tavern.</definition>
+      <page>392</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠭᠤᠷᠴᠢ</unicode>
+      <cyrillic>буурч</cyrillic>
+      <definition>〔名〕旅宿者：~ийн гэр 客栈，客店.</definition>
+      <page>218</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠭᠣᠷᠴᠢ</unicode>
+      <cyrillic>БУУРЧ</cyrillic>
+      <definition>хуучир. повар.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠭᠣᠷᠴᠢ</unicode>
+      <cyrillic>БУУРЧИЙН</cyrillic>
+      <definition>буурч-ийн харьяал., постоялый; буурчийн газар / буурчийн гэр хуучир. гостиница, постоялый двор.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

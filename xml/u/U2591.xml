@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2591">
+  <head>
+    <unicode>ᠣᠷᠢᠲᠠᠯ</unicode>
+    <transcript>urital</transcript>
+    <transcript2>oridal</transcript2>
+    <cyrillic>урьтал</cyrillic>
+  </head>
+  <see_also>
+    <ref>U2592</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠷᠢᠲᠠᠯ</unicode>
+      <cyrillic>урьтал</cyrillic>
+      <definition>〔名〕见 урьдал.</definition>
+      <page>1206</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠷᠢᠲᠠᠯ</unicode>
+      <cyrillic>УРЬТАЛ</cyrillic>
+      <definition>опережение. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠷᠢᠲᠠᠯ</unicode>
+      <cyrillic>урьдал</cyrillic>
+      <definition>урьд, тэргүүнд оруулбал зохих зүйл; урьдал болгох чухал зүйл.</definition>
+      <page>600</page>
+    </entry_item>
+  </entries>
+</entry>

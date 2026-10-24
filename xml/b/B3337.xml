@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B3337">
+  <head>
+    <unicode>ᠪᠣᠯᠣᠳᠠᠬᠣ</unicode>
+    <transcript>buludaqu</transcript>
+    <transcript2>bolodago</transcript2>
+    <cyrillic>булдах</cyrillic>
+  </head>
+  <see_also>
+    <ref>B3470</ref>
+  </see_also>
+  <derivatives>
+    <ref>B3338</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠣᠯᠣᠳᠠᠬᠣ</unicode>
+      <uighur>buludaqu</uighur>
+      <cyrillic>булдах</cyrillic>
+      <transcript>BULUDA-</transcript>
+      <definition>v.t. To roll with a roller; to thrash wheat; to remove the hulls of grain with a stone roller.</definition>
+      <page>136</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠮᠤ ᠪᠣᠯᠣᠳᠠᠬᠣ</unicode>
+          <transcript>amu --xu</transcript>
+          <definition>To thrash grain.</definition>
+        </example>
+        <example>
+          <unicode>ᠢᠰᠡᠭᠡᠢ ᠎ᠶᠢ ᠪᠣᠯᠣᠳᠠᠬᠣ</unicode>
+          <transcript>isegei ji --xu</transcript>
+          <definition>To roll felt with a roller.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠮᠦᠷ ᠪᠤᠯᠤᠰ ᠢᠶᠠᠷ ᠲᠠᠷᠢᠶ᠎ᠠ ᠪᠣᠯᠣᠳᠠᠬᠣ</unicode>
+          <transcript>temyr bulus ijer tarij-a --xu</transcript>
+          <definition>To thrash grain by rolling iron cylinders over it.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠤᠯᠣᠳᠠᠬᠤ</unicode>
+      <definition>battre (le blé), passer la pierre sur les grains pour leur ôter la peau, ou les faire sortir de l'épi.</definition>
+      <page>1191</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠡᠮᠦᠷ ᠪᠣᠯᠤᠰ ᠢᠶᠠᠷ ᠲᠠᠷᠢᠶᠠᠨ ᠪᠤᠯᠣᠳᠠᠬᠤ</unicode>
+          <definition>battre le blé au moyen d'un cylindre de fer</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠪᠣᠯᠣᠳᠠᠬᠣ</unicode>
+      <uighur>buludaqu</uighur>
+      <definition>dreschen, ausstampfen, austreten</definition>
+      <page>113</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠪᠣᠯᠣᠳᠠᠬᠣ</unicode>
+      <uighur>boludaqu</uighur>
+      <definition>v.t. To thrash, to tread out (wheat etc.).</definition>
+      <page>449</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠯᠣᠳᠠᠬᠣ</unicode>
+      <cyrillic>БУЛДАХ</cyrillic>
+      <definition>I 1. 1) молотить, мять катком; тариа булдах молотить хлеб (при помощи катка); 2) вальцевать, прокатывать; булдаж толийлгох прокатывать; 2. булдахуй-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠯᠣᠳᠠᠬᠣ</unicode>
+      <cyrillic>БУЛДАХУЙ</cyrillic>
+      <definition>вальцовка, вальцевание; прокатывание.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠯᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>булдах /1</cyrillic>
+      <definition>1. булаар өнхрүүлэн няцлах, толийлгох; тариа булдах; торго булдах;2. бул газардах.</definition>
+      <page>105</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>булдах</cyrillic>
+      <definition>tr Tech rollen, walzen</definition>
+      <page>61</page>
+    </entry_item>
+  </entries>
+</entry>

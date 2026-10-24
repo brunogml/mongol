@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B4683">
+  <head>
+    <unicode>ᠪᠥᠺᠠᠮᠨᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>bögemnegülkü</transcript>
+    <transcript2>bögemnegölgö</transcript2>
+    <cyrillic>бөөмнүүлэх</cyrillic>
+  </head><derivatives>
+    <ref>B4682</ref>
+  </derivatives><related_to>
+    <ref>B4681</ref>
+  </related_to>
+  <variants>
+    <variant type="cyrillic">бөөгнүүлэх</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠥᠺᠠᠮᠨᠠᠺᠥᠯᠺᠥ</unicode>
+      <uighur>bögemnegülkü</uighur>
+      <cyrillic>бөөмнүүлэх</cyrillic>
+      <transcript>BØGEMNEGYL-</transcript>
+      <definition>[v, caus, of bøgemne-] v.t. To gather together; to make into a lump; to concentrate, group, collect, hoard.</definition>
+      <page>124</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠡᠪᠰᠡᠭᠲᠦ ᠺᠦᠴᠦᠨ ᠢᠶᠡᠨ ᠪᠥᠺᠠᠮᠨᠠᠺᠥᠯᠺᠥ</unicode>
+          <transcript>zebsegty kycyn ijen --ky </transcript>
+          <definition>To concentrate armed forces</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠦᠺᠡᠮᠨᠡᠭᠦᠯᠺᠦ ~ ᠻᠡᠺᠡᠮᠯᠡᠭᠦᠯᠺᠦ</unicode>
+      <definition>presser qc. en forme de boule; 2 entortiller, enrouler; 3 arrondir, rendre rond.</definition>
+      <page>1245</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠭᠡᠮᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бөөмнүүлэх</cyrillic>
+      <definition>〔动〕бөөмнөх 的使动态.</definition>
+      <page>190</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠺᠠᠮᠨᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>БӨӨГНҮҮЛЭХ</cyrillic>
+      <definition>бөөгнөх-ийн үйлдүүл., 1. 1) собирать, скапливать, концентрировать; 2) превращать в комки; 2. бөөгнөрүүлэхүй-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠭᠡᠮᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бөөгнүүлэх</cyrillic>
+      <definition>〔动〕бөөгнөх 的使动态；积累，收集，集合，汇集；浓缩.</definition>
+      <page>189</page>
+    </entry_item>
+  </entries>
+</entry>

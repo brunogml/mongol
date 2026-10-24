@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S1116">
+  <head>
+    <unicode>ᠰᠠᠯᠪᠢᠶᠠᠲᠣ</unicode>
+    <transcript>salbiyatu</transcript>
+    <transcript2>salbiyado</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠯᠪᠢᠶᠠᠲᠣ</unicode>
+      <uighur>salbiyadu</uighur>
+      <transcript>SALBIJATU</transcript>
+      <definition>adj. Having relationship, related.</definition>
+      <page>664</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠠᠯᠪᠢᠶᠠᠳᠤ</unicode>
+      <definition>lié avec.</definition>
+      <page>1311</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠷᠤᠭ ᠤᠨ ᠰᠠᠯᠪᠢᠶᠠᠳᠤ</unicode>
+          <definition>parent</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

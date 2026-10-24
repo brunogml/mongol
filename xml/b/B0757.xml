@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0757">
+  <head>
+    <unicode>ᠪᠠᠯᠠᠬᠲᠣᠬᠣ</unicode>
+    <transcript>balaγtuqu</transcript>
+    <transcript2>balagdogo</transcript2>
+    <cyrillic>балагтах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0758</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠯᠠᠭᠲᠤᠬᠤ</unicode>
+      <cyrillic>балагтах</cyrillic>
+      <definition>〔动〕遭受恶果，受不良影响，受连累，受害.</definition>
+      <page>120</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠯᠠᠬᠲᠣᠬᠣ</unicode>
+      <cyrillic>БАЛАГТАХ</cyrillic>
+      <definition>испытывать вред, претерпеть, почувствовать вред.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠯᠠᠭᠲᠤᠬᠤ</unicode>
+      <cyrillic>балагтах</cyrillic>
+      <definition>бусдын балгийг өөрт хүртэх.</definition>
+      <page>69</page>
+    </entry_item>
+  </entries>
+</entry>

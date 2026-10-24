@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0184">
+  <head>
+    <unicode>ᠰᠠᠨᠵᠢᠺᠢᠨᠠᠬᠣ</unicode>
+    <transcript>sanǰiginaqu</transcript>
+    <transcript2>sanciginago</transcript2>
+    <cyrillic>санжганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S0185</ref>
+    <ref>S0187</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠨᠵᠢᠭᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>санжганах</cyrillic>
+      <definition>〔动〕垂摆，悬摆，垂摇.</definition>
+      <page>913</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠨᠵᠢᠺᠢᠨᠠᠬᠣ</unicode>
+      <cyrillic>САНЖГАНАХ</cyrillic>
+      <definition>болтаться, качаться (о чёмл. висящем). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠨᠵᠢᠺᠢᠨᠠᠬᠣ</unicode>
+      <cyrillic>CАНЖГАНАСАН</cyrillic>
+      <definition>разболтанный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>санжганах</cyrillic>
+      <definition>etw. Hängendes baumeln; schlenkern</definition>
+      <page>195</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠨᠵᠢᠭᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>санжганах</cyrillic>
+      <definition>дүүжлэн ганхах, унжганах, сажилзан хөдлөх; санжганан хөдлөх.</definition>
+      <page>469</page>
+    </entry_item>
+  </entries>
+</entry>

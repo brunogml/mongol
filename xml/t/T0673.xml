@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0673">
+  <head>
+    <unicode>ᠲᠠᠭᠣᠪᠣᠷᠢᠰᠢᠬᠣ</unicode>
+    <transcript>taγuburisiqu</transcript>
+    <transcript2>dagoborisigo</transcript2>
+    <cyrillic>тууварших</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T0674</ref>
+    <ref>T0675</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠭᠤᠪᠤᠷᠢᠰᠢᠬᠤ</unicode>
+      <cyrillic>тууварших</cyrillic>
+      <definition>〔动〕参见 туувардах.</definition>
+      <page>1121</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠭᠣᠪᠣᠷᠢᠰᠢᠬᠣ</unicode>
+      <cyrillic>ТУУВАРШИХ</cyrillic>
+      <definition>уставать, утомляться при долгом перегоне (о скоте); туувардах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тууварших</cyrillic>
+      <definition>= туувардах</definition>
+      <page>241</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠭᠤᠪᠤᠷᠢᠰᠢᠬᠤ</unicode>
+      <cyrillic>тууварших</cyrillic>
+      <definition>туувардах, туувартаа ядрах.</definition>
+      <page>560</page>
+    </entry_item>
+  </entries>
+</entry>

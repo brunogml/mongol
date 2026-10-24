@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1994">
+  <head>
+    <unicode>ᠣᠮᠣᠯᠵᠠᠬᠣ</unicode>
+    <transcript>omulǰaqu</transcript>
+    <transcript2>omolcago</transcript2>
+    <cyrillic>омолзох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U1995</ref>
+    <ref>U1996</ref>
+  </derivatives>
+  <see_also>
+    <ref>U1993a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠮᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>омолзох</cyrillic>
+      <definition>〔动〕参见 омгонох /1、/2.</definition>
+      <page>803</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠮᠣᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ОМОЛЗОХ</cyrillic>
+      <definition>омгонох I, II-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>омолзох</cyrillic>
+      <definition>= омгонох</definition>
+      <page>171</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠮᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>омолзох</cyrillic>
+      <definition>омгор юмны омс омс хөдлөх байдал.</definition>
+      <page>414</page>
+    </entry_item>
+  </entries>
+</entry>

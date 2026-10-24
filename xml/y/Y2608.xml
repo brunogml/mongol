@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y2608">
+  <head>
+    <unicode>ᠵᠢᠭᠣᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰiγudaγulqu</transcript>
+    <transcript2>yigodagolgo</transcript2>
+    <cyrillic>зугадуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y2605</ref>
+  </related_to>
+  <see_also>
+    <ref>Y2607</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠭᠤᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зугадуулах</cyrillic>
+      <definition>〔动〕зугадах 的使动态.</definition>
+      <page>573</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠭᠣᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗУГАДУУЛАХ</cyrillic>
+      <definition>зугадах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠭᠤᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зугадуулах</cyrillic>
+      <definition>зугатуулах.</definition>
+      <page>281</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠭᠤᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зугтуулах</cyrillic>
+      <definition>зугтахын үйлдүүлэх хэв.</definition>
+      <page>281</page>
+    </entry_item>
+  </entries>
+</entry>

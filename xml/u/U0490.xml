@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="U0490">
+  <head>
+    <unicode>ᠣᠩᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ongγulqu</transcript>
+    <transcript2>onggolgo</transcript2>
+  </head><related_to>
+    <ref>U0458</ref>
+  </related_to><see_also>
+    <ref>U0491</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠩᠭᠤᠯᠬᠤ</unicode>
+      <definition>consacrer aux Ongons, génies tutélaires</definition>
+      <page>354</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠣᠷᠢ ᠣᠩᠭᠤᠯᠬᠤ</unicode>
+          <definition>consacrer un cheval aux Ongons</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠡᠭᠦᠷ ᠢ ᠣᠩᠭᠤᠯᠬᠤ</unicode>
+          <definition>enterrer un mort.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

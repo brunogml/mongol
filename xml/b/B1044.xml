@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1044">
+  <head>
+    <unicode>ᠪᠠᠵᠢᠭᠠᠳᠠᠭᠣ</unicode>
+    <transcript>baǰiγadaγu</transcript>
+    <transcript2>bacigadago</transcript2>
+    <cyrillic>бажгадуу</cyrillic>
+  </head>
+  <see_also>
+    <ref>B1043</ref>
+  </see_also>
+  <variants>
+    <variant type="cyrillic">бажигадуу</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠵᠢᠭᠠᠳᠠᠭᠤ</unicode>
+      <cyrillic>бажгадуу</cyrillic>
+      <definition>〔形〕慌张的，慌乱的.</definition>
+      <page>112</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠵᠢᠭᠠᠳᠠᠭᠣ</unicode>
+      <cyrillic>БАЖГАДУУ</cyrillic>
+      <definition>встревоженный, растерянный, панический, переполошённый.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠵᠢᠭᠠᠳᠠᠭᠤ</unicode>
+      <cyrillic>бажигадуу</cyrillic>
+      <definition>〔形〕见 бажгадуу.</definition>
+      <page>112</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бажгадуу</cyrillic>
+      <definition>verwirrt, konfus, aufgeregt</definition>
+      <page>42</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠵᠢᠭᠳᠠᠭᠤ</unicode>
+      <cyrillic>бажгадуу</cyrillic>
+      <definition>сандруу, тэвдүү, бачимдуу; бажгардуу хүн.</definition>
+      <page>67</page>
+    </entry_item>
+  </entries>
+</entry>

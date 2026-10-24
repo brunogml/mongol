@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A2648">
+  <head>
+    <unicode>ᠠᠯᠮᠠᠭᠠᠨ</unicode>
+    <transcript>almaγan</transcript>
+    <transcript2>almagan</transcript2>
+    <cyrillic>аламган</cyrillic>
+  </head>
+  <variants>
+    <variant type="cyrillic">алмаган</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠯᠮᠠᠭᠠᠨ</unicode>
+      <cyrillic>аламган</cyrillic>
+      <definition>〔形〕（未熟透而）味道淡的.</definition>
+      <page>37</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠯᠮᠠᠭᠠᠨ</unicode>
+      <cyrillic>АЛАМГАН</cyrillic>
+      <definition>жидкий, водянистый, безвкусный (о еде). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠯᠮᠠᠭᠠᠨ</unicode>
+      <cyrillic>АЛМАГАН</cyrillic>
+      <definition>водянистый, безвкусный, не имеющий запаха; алмаган шөл невкусная похлёбка.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠯᠮᠠᠭᠠᠨ</unicode>
+      <cyrillic>алмаган</cyrillic>
+      <definition>〔形〕（食物）淡的，寡味的，乏味难吃的.</definition>
+      <page>43</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠯᠮᠠᠭᠠᠨ</unicode>
+      <cyrillic>аламган</cyrillic>
+      <definition>аливаа идэх юм чандгүй буцалгаснаас улбагар усархаг болсон нь.</definition>
+      <page>29</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠯᠮᠠᠭᠠᠨ</unicode>
+      <cyrillic>алмаган</cyrillic>
+      <definition>идэх уух юмны амт үлбэгэр муу, идэхэд тааламжгүй.</definition>
+      <page>33</page>
+    </entry_item>
+  </entries>
+</entry>

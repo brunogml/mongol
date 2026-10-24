@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0144">
+  <head>
+    <unicode>ᠪᠠᠭᠠᠰᠣᠳᠠᠬᠣ</unicode>
+    <transcript>baγasudaqu</transcript>
+    <transcript2>bagasodago</transcript2>
+    <cyrillic>баасдах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠭᠠᠰᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>баасдах</cyrillic>
+      <definition>〔动〕抹粪便：хонь ~ 在绵羊身上抹羊粪便（以便识别）.</definition>
+      <page>103</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠭᠠᠰᠣᠳᠠᠬᠣ</unicode>
+      <cyrillic>БААСДАХ</cyrillic>
+      <definition>метить навозом; хонь баасдах метить овец помётом.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бааcдах</cyrillic>
+      <definition>mit Kot beschmieren</definition>
+      <page>40</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠭᠠᠰᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>баасдах</cyrillic>
+      <definition>юманд баас түрхэх.</definition>
+      <page>63</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>B0142</ref>
+  </related_to>
+</entry>

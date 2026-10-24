@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E1159">
+  <head>
+    <unicode>ᠡᠮᠯᠡᠺᠦ</unicode>
+    <transcript>emlekü</transcript>
+    <transcript2>emlegö</transcript2>
+    <cyrillic>эмлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>E1160</ref>
+  </derivatives>
+  <see_also>
+    <ref>E1049</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠮᠯᠠᠺᠥ</unicode>
+      <uighur>emlekü</uighur>
+      <cyrillic>эмлэх</cyrillic>
+      <transcript>EMLE-</transcript>
+      <definition>See emne-.</definition>
+      <page>314</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠮᠯᠡᠺᠦ</unicode>
+      <definition>prendre la médecine, se traiter, prendre des remèdes.</definition>
+      <page>219</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠮᠯᠡᠺᠦ ᠵᠠᠰᠠᠬᠤ ᠎ᠶᠢᠨ ᠤᠬᠠᠭᠠᠨ</unicode>
+          <definition>connaissance de la médecine</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠠᠮᠯᠠᠺᠥ</unicode>
+      <uighur>emlekü</uighur>
+      <definition>Arznei gebrauchen oder einnehmen,</definition>
+      <page>28</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠮᠯᠡᠬᠦ</unicode>
+      <cyrillic>эмлэх</cyrillic>
+      <definition>эмчлэх.</definition>
+      <page>876</page>
+    </entry_item>
+  </entries>
+</entry>

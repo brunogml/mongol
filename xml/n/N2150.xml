@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N2150">
+  <head>
+    <unicode>ᠨᠣᠪᠰᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>nobsiraγulqu</transcript>
+    <transcript2>nobsiragolgo</transcript2>
+    <cyrillic>новшруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>N2149</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠣᠪᠰᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>новшруулах</cyrillic>
+      <definition>〔动〕новшрох 的使动态.</definition>
+      <page>743</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠣᠪᠰᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>НОВШРУУЛАХ</cyrillic>
+      <definition>новшрох-ын үйлдүүл., сорить кругом, захламлять. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠣᠪᠰᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>новшруулах</cyrillic>
+      <definition>новшрохын үйлдүүлэх хэв, новш болгох.</definition>
+      <page>378</page>
+    </entry_item>
+  </entries>
+</entry>

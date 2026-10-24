@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4629">
+  <head>
+    <unicode>ᠺᠥᠺᠡᠶᠢᠲᠥᠺᠥ</unicode>
+    <transcript>gögeyitükü</transcript>
+    <transcript2>gögeyidögö</transcript2>
+    <cyrillic>гөгийтөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K4630</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠥᠭᠡᠢᠲᠦᠬᠦ</unicode>
+      <cyrillic>гөгийтөх</cyrillic>
+      <definition>〔动〕参见 гөгийрөх.</definition>
+      <page>314</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠺᠡᠶᠢᠲᠥᠺᠥ</unicode>
+      <cyrillic>ГӨГИЙТӨХ</cyrillic>
+      <definition>анаг. паронихия, болеть панарицием; ганц хуруутах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠥᠭᠡᠢᠲᠦᠬᠦ</unicode>
+      <cyrillic>гөгийтөх</cyrillic>
+      <definition>гөгийрөх, гөгий өвчин тохиолдох.</definition>
+      <page>153</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2660">
+  <head>
+    <unicode>ᠪᠣᠭᠣᠢ</unicode>
+    <transcript>buγui</transcript>
+    <transcript2>bogoi</transcript2>
+    <cyrillic>бугуй</cyrillic>
+  </head>
+  <see_also>
+    <ref>B0302</ref>
+    <ref>B2661</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠣᠭᠣᠢ</unicode>
+      <uighur>buγui</uighur>
+      <cyrillic>бугуй</cyrillic>
+      <transcript>BUΓUI</transcript>
+      <definition>See baγui</definition>
+      <page>131</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠭᠤᠢ</unicode>
+      <cyrillic>бугуй</cyrillic>
+      <definition>хүний богт чөмөгний нарийн үзүүрийн тус газар.</definition>
+      <page>102</page>
+    </entry_item>
+  </entries>
+</entry>

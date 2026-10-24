@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9044">
+  <head>
+    <unicode>ᠳᠥᠺᠥᠮᠵᠢ</unicode>
+    <transcript>dökümǰi</transcript>
+    <transcript2>dögömci</transcript2>
+    <cyrillic>дөхөмж</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠥᠺᠥᠮᠵᠢ</unicode>
+      <uighur>dögümǰi</uighur>
+      <cyrillic>дөхөмж</cyrillic>
+      <transcript>DØKYMZI</transcript>
+      <definition>n. Convenience, expediency, advisability; favorable circumstances.</definition>
+      <page>267</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠥᠬᠥᠮᠵᠢ</unicode>
+      <cyrillic>дөхөмж</cyrillic>
+      <definition>〔名〕①方便，便利，近便，顺利：②益处，好处.</definition>
+      <page>432</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠥᠺᠥᠮᠵᠢ</unicode>
+      <cyrillic>ДӨХӨМЖ</cyrillic>
+      <definition>удобство; благоприятное обстоятельство. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠥᠺᠥᠮᠵᠢ</unicode>
+      <cyrillic>ДӨХӨМЖГҮЙ</cyrillic>
+      <definition>неудобный, неблагоприятный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠥᠭᠥᠮᠵᠢ</unicode>
+      <cyrillic>дөхөмж</cyrillic>
+      <definition>дөхөм; дөхөмж сайтай; дөхөмж муутай.</definition>
+      <page>207</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T9041</ref>
+  </related_to>
+  <derivatives>
+    <ref>T9045</ref>
+  </derivatives>
+</entry>

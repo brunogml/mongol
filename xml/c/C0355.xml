@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0355">
+  <head>
+    <unicode>ᠴᠠᠰᠢᠳᠠᠬᠣ</unicode>
+    <transcript>časidaqu</transcript>
+    <transcript2>casidago</transcript2>
+    <cyrillic>цаашдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0356</ref>
+    <ref>C0357</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠨᠠᠭᠰᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>цаашдах</cyrillic>
+      <definition>〔动〕变得往那边；变得远.</definition>
+      <page>1508</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠰᠢᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЦААШДАХ</cyrillic>
+      <definition>быть слишком далеко, сильно удаляться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цаашдах</cyrillic>
+      <definition>zu weit entfernt sein (von -аас)</definition>
+      <page>349</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠰᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>цаашдах</cyrillic>
+      <definition>хэтэрхий цааш болох.</definition>
+      <page>775</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q3186">
+  <head>
+    <unicode>ᠬᠠᠷᠠᠩᠭᠣᠶᠢᠯᠠᠬᠣ</unicode>
+    <transcript>qarangγuyilaqu</transcript>
+    <transcript2>garanggoyilago</transcript2>
+  </head>
+  <derivatives>
+    <ref>Q3185</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q3184</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠷᠠᠩᠭᠤᠶᠢᠯᠠᠬᠤ</unicode>
+      <definition>devenir sombre, devenir obscur, s'obscurcir, 2 s'offusquer, s'éclipser</definition>
+      <page>830</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠷᠠᠩᠭᠤᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>харангуйлах</cyrillic>
+      <definition>харанхуйлах.</definition>
+      <page>663</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠷᠠᠩᠭᠤᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>харанхуйлах</cyrillic>
+      <definition>харанхуй болох, харанхуй болгох; тэнгэр бүрхэн харанхуйлах; гэрэл таглаж харанхуйлах.</definition>
+      <page>663</page>
+    </entry_item>
+  </entries>
+</entry>

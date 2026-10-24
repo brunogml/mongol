@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q5430">
+  <head>
+    <unicode>ᠬᠣᠯᠠᠭᠠᠶᠢᠯᠠᠬᠣ</unicode>
+    <transcript>qulaγayilaqu</transcript>
+    <transcript2>golagayilago</transcript2>
+    <cyrillic>хулгайлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q5431</ref>
+    <ref>Q5432</ref>
+    <ref>Q5435</ref>
+    <ref>Q5433</ref>
+    <ref>Q5434</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠯᠠᠭᠠᠶᠢᠯᠠᠬᠣ</unicode>
+      <uighur>qulaγayilaqu</uighur>
+      <cyrillic>хулгайлах</cyrillic>
+      <transcript>XULAΓAILA-</transcript>
+      <definition>v.t. To steal, rob.</definition>
+      <page>984</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠯᠠᠭᠠᠶᠢᠯᠠᠬᠣ ᠳᠡᠭᠡᠷᠡᠮᠴᠢ</unicode>
+          <transcript>-- degeremci</transcript>
+          <definition> Robbers, bandits.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠯᠠᠭᠠᠶᠢᠯᠠᠬᠣ ᠡᠪᠡᠳᠴᠢᠨ</unicode>
+          <transcript>--xu ebedcin</transcript>
+          <definition> Kleptomania</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠯᠠᠭᠠᠶᠢᠯᠠᠬᠣ ᠡᠪᠡᠳᠴᠢᠲᠡᠨ</unicode>
+          <transcript>--xu ebedciten</transcript>
+          <definition> Kleptomaniac.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠯᠠᠭᠠᠶᠢᠯᠠᠬᠤ</unicode>
+      <definition>voler, piller , saccager</definition>
+      <page>923</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠣᠯᠠᠭᠠᠶᠢᠯᠠᠬᠣ</unicode>
+      <uighur>qulaγayilaqu</uighur>
+      <definition>stehlen, entwenden</definition>
+      <page>167</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠣᠯᠠᠭᠠᠶᠢᠯᠠᠬᠣ</unicode>
+      <uighur>qulaγayilaqu</uighur>
+      <definition>v.t. To steal.</definition>
+      <page>656</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠯᠠᠭᠠᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>хулгайлах</cyrillic>
+      <definition>〔动〕盗窃，偷盗，行盗，做贼：жуулчны юмыг ~ 偷窃游客的东西；~н баривчлах 绑架.</definition>
+      <page>1427</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠯᠠᠭᠠᠶᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХУЛГАЙЛАХ</cyrillic>
+      <definition>воровать, красть, похищать; улсын хөрөнгө хулгайлах расхищать государственные средства; хулгайлан аваачих красть, украсть; хулгайлан авах воровать, красть; хулгайлан шамшигдуулах делать растрату. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хулгайлах</cyrillic>
+      <definition>rauben, stehlen; хулгайлсан юм[ан] gestohlene Sachen</definition>
+      <page>327</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠯᠠᠭᠠᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>хулгайлах</cyrillic>
+      <definition>амины болон улс нийгмийн өмч хөрөнгө, эд юмыг сэмээр нууж авах, хулуух, хулгай хийх.</definition>
+      <page>727</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q5427</ref>
+  </related_to>
+</entry>

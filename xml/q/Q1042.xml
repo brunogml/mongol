@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1042">
+  <head>
+    <unicode>ᠬᠠᠪᠣᠩᠨᠠᠬᠣ</unicode>
+    <transcript>qabungnaqu</transcript>
+    <transcript2>gabongnago</transcript2>
+    <cyrillic>хавагнах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q1043</ref>
+    <ref>Q1044</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q0917</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠪᠤᠩᠨᠠᠬᠤ</unicode>
+      <cyrillic>хавагнах</cyrillic>
+      <definition>〔动〕①肿胀，浮肿，发肿，长肿瘤：хөл ~жээ 脚发肿了；②（缝合物上）起皱褶.</definition>
+      <page>1261</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠪᠣᠩᠨᠠᠬᠣ</unicode>
+      <cyrillic>ХАВАГНАХ</cyrillic>
+      <definition>отекать, опухать; хөл хавагнажээ ноги опухли; хавагнасан нүүр опухлое лицо. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠪᠣᠩᠨᠠᠬᠣ</unicode>
+      <cyrillic>ХАВАННАХ</cyrillic>
+      <definition>хавагнах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠪᠤᠩᠨᠠᠬᠤ</unicode>
+      <cyrillic>хавагнах</cyrillic>
+      <definition>1. хавантай болох, хаван суух;2. хавж оёсон юм энд тэндээ үрчийх, тумбан болох; дээлийн дотор нь татаад өнгө нь хавагнаж орхижээ.</definition>
+      <page>633</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠪᠤᠩᠨᠠᠬᠤ</unicode>
+      <cyrillic>хаваннах</cyrillic>
+      <definition>хавагнах.</definition>
+      <page>634</page>
+    </entry_item>
+  </entries>
+</entry>

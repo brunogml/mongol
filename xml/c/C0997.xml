@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0997">
+  <head>
+    <unicode>ᠴᠠᠯᠮᠠᠺᠥ</unicode>
+    <transcript>čelmekü</transcript>
+    <transcript2>celmegö</transcript2>
+    <cyrillic>цэлмэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0999</ref>
+    <ref>C1001</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠯᠮᠠᠺᠥ</unicode>
+      <uighur>čelmekü</uighur>
+      <cyrillic>цэлмэх</cyrillic>
+      <transcript>CELME-</transcript>
+      <definition>v, i To clear (of sky); to be awake.</definition>
+      <page>171</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠯᠮᠡᠬᠦ</unicode>
+      <cyrillic>цэлмэх</cyrillic>
+      <definition>〔动〕（天）晴，晴朗，明朗，放晴：тэнгэр ~ 天晴.</definition>
+      <page>1563</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠯᠮᠠᠺᠥ</unicode>
+      <cyrillic>ЦЭЛМЭХ</cyrillic>
+      <definition>1. прояснять (о небе, погоде); посветлеть; делаться ясным, чистым; тэнгэр цэлмэв небо прояснилось; небо посветлело; тэнгэр цэлмэж байна небо проясняется; 2. цэлмэхүй-г үз., тэнгэр цэлмэх прояснение погоды. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠯᠮᠠᠺᠥ</unicode>
+      <cyrillic>ЦЭЛМЭХҮЙ</cyrillic>
+      <definition>прояснение. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цэлмэх</cyrillic>
+      <definition>Himmel, Wetter sich aufklären od aufheitern, klar werden</definition>
+      <page>364</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠯᠮᠡᠬᠦ</unicode>
+      <cyrillic>цэлмэх</cyrillic>
+      <definition>бүрхсэн тэнгэр гийж, үүл манангүй цэвэрхэн болох; тэнгэр цэлмэх.</definition>
+      <page>805</page>
+    </entry_item>
+  </entries>
+</entry>

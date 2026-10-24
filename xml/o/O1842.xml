@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="O1842">
+  <head>
+    <unicode>ᠥᠷᠠᠮᠠ</unicode>
+    <transcript>ürem-e</transcript>
+    <transcript2>örem-e</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠥᠷᠠᠮ᠎ᠡ</unicode>
+      <uighur>ürem-e</uighur>
+      <transcript>YREM-E</transcript>
+      <definition>See ygyrem-e.</definition>
+      <page>1012</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠦᠷᠡᠮ᠎ᠡ ~ ᠦᠭᠦᠷᠮ᠎ᠡ</unicode>
+      <definition>fragile, fréle, léger. qui s&apos;émie facilement; 2 la peau de la crème,</definition>
+      <page>579</page>
+      <examples>
+        <example>
+          <unicode>ᠦᠷᠡᠮ᠎ᠡ ᠰᠢᠷᠤᠢ</unicode>
+          <definition>terre meuble, terre friable</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

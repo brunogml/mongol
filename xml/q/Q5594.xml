@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q5594">
+  <head>
+    <unicode>ᠬᠣᠯᠣᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>quluγanaqu</transcript>
+    <transcript2>gologanago</transcript2>
+    <cyrillic>хулганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q5595</ref>
+    <ref>Q5597</ref>
+    <ref>Q5596</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠯᠤᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>хулганах</cyrillic>
+      <definition>〔动〕坐不住，来回动；躲躲闪闪.</definition>
+      <page>1428</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠯᠣᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ХУЛГАНАХ</cyrillic>
+      <definition>хулгах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠯᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>хулганах</cyrillic>
+      <definition>байн байн хулгах.</definition>
+      <page>727</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q5593</ref>
+  </related_to>
+</entry>

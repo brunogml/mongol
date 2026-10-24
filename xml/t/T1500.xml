@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T1500">
+  <head>
+    <unicode>ᠲᠠᠰᠺᠢᠺᠥ</unicode>
+    <transcript>taskikü</transcript>
+    <transcript2>dasgigö</transcript2>
+    <cyrillic>тасхийх</cyrillic>
+  </head><derivatives>
+    <ref>T1499</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠰᠬᠢᠬᠦ</unicode>
+      <cyrillic>тасхийх</cyrillic>
+      <definition>〔动〕参见 тас /3.</definition>
+      <page>1036</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠰᠺᠢᠺᠥ</unicode>
+      <cyrillic>ТАСХИЙХ</cyrillic>
+      <definition>1) раздаться (напр. о выстреле); 2) крепчать (о морозе). </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K0341">
+  <head>
+    <unicode>ᠺᠠᠪᠠᠷᠠᠺᠰᠢᠺᠥ</unicode>
+    <transcript>keberegsikü</transcript>
+    <transcript2>geberegsigö</transcript2>
+    <cyrillic>хэврэгших</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K0342</ref>
+    <ref>K0340</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠪᠡᠷᠡᠭᠰᠢᠬᠦ</unicode>
+      <cyrillic>хэврэгших</cyrillic>
+      <definition>〔动〕变脆，变得易碎，变脆弱.</definition>
+      <page>1471</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠪᠠᠷᠠᠺᠰᠢᠺᠥ</unicode>
+      <cyrillic>ХЭВРЭГШИХ</cyrillic>
+      <definition>становиться хрупким, ломким; становиться некрепким, непрочным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хэврэгших</cyrillic>
+      <definition>brüchig od spröde od zerbrechlich werden</definition>
+      <page>339</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠪᠡᠷᠡᠭᠰᠢᠬᠦ</unicode>
+      <cyrillic>хэврэгших</cyrillic>
+      <definition>улмаар хэврэг болох.</definition>
+      <page>754</page>
+    </entry_item>
+  </entries>
+</entry>

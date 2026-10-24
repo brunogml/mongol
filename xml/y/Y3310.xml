@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3310">
+  <head>
+    <unicode>ᠵᠢᠺᠢᠷᠢᠺᠯᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ǰigiriglegülkü</transcript>
+    <transcript2>yigiriglegölgö</transcript2>
+    <cyrillic>жийрэглүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y3309</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠭᠢᠷᠢᠭᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>жийрэглүүлэх</cyrillic>
+      <definition>〔动〕жийрэглэх 的使动态.</definition>
+      <page>508</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠺᠢᠷᠢᠺᠯᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЖИЙРЭГЛҮҮЛЭХ</cyrillic>
+      <definition>жийрэглэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠷᠢᠭᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>жийрэглүүлэх</cyrillic>
+      <definition>жийрэглэхийн үйлдүүлэх хэв.</definition>
+      <page>245</page>
+    </entry_item>
+  </entries>
+</entry>

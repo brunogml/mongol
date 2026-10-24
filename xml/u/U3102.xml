@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U3102">
+  <head>
+    <unicode>ᠣᠷᠳᠣᠳᠬᠠᠯ</unicode>
+    <transcript>urtutqal</transcript>
+    <transcript2>ordodgal</transcript2>
+    <cyrillic>уртатгал</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠷᠲᠤᠳᠬᠠᠯ</unicode>
+      <cyrillic>уртатгал</cyrillic>
+      <definition>〔名〕延长，加长，伸长：~ын тэмдэг (1)延长标志；(2)〈语〉长元音标志.</definition>
+      <page>1203</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠷᠳᠣᠳᠬᠠᠯ</unicode>
+      <cyrillic>УРТАТГАЛ</cyrillic>
+      <definition>1) удлинение; 2) долгота; ударение; үгийн уртатгал ударение слова; уртатгал тавих ставить ударение; уртатгалын тэмдэг хэл. шинж. апекс; знак долготы. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>уртатгал</cyrillic>
+      <definition>Verlängerung f</definition>
+      <page>260</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠷᠲᠤᠳᠬᠠᠯ</unicode>
+      <cyrillic>уртатгал</cyrillic>
+      <definition>уртатгах үйлийн нэр.</definition>
+      <page>599</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>U3099</ref>
+  </related_to>
+</entry>

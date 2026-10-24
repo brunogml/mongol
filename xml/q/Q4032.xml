@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4032">
+  <head>
+    <unicode>ᠬᠣᠨᠢᠶᠠᠰᠣᠯᠠᠬᠣ</unicode>
+    <transcript>quniyasulaqu</transcript>
+    <transcript2>goniyasolago</transcript2>
+    <cyrillic>хуниаслах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q4033</ref>
+    <ref>Q4034</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠨᠢᠶᠠᠰᠣᠯᠠᠬᠣ</unicode>
+      <uighur>quniyasolaqu</uighur>
+      <cyrillic>хуниаслах</cyrillic>
+      <transcript>XUNIJASULA-</transcript>
+      <definition>v.t. To make plaits or folds.</definition>
+      <page>986</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠭᠠᠷᠴᠤᠭ ᠬᠣᠨᠢᠶᠠᠰᠣᠯᠠᠬᠣ</unicode>
+          <transcript>taγarcuγ--xu</transcript>
+          <definition> To put a cord on a purse or pouch for drawing the opening together.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠨᠢᠶᠠᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>хуниаслах</cyrillic>
+      <definition>〔动〕折出皱褶，出现褶痕，出现皱纹.</definition>
+      <page>1432</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠨᠢᠶᠠᠰᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХУНИАСЛАХ</cyrillic>
+      <definition>делать морщины; складки, сборки. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хуниаслах</cyrillic>
+      <definition>falten, falzen, kniffen</definition>
+      <page>328</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠨᠢᠶᠠᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>хуниаслах</cyrillic>
+      <definition>хуниас гаргах.</definition>
+      <page>730</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q4025</ref>
+  </related_to>
+</entry>

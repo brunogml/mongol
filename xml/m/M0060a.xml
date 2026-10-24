@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="M0060a">
+  <head>
+    <unicode>ᠮᠠᠨᠢᠶᠠᠪᠷᠢ</unicode>
+    <transcript>maniyebri</transcript>
+    <transcript2>maniyebri</transcript2>
+    <cyrillic>маневр</cyrillic>
+  </head><see_also>
+    <ref>M0048</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠮᠠᠨᠢᠶᠠᠪᠷᠢ</unicode>
+      <uighur>maniyebri</uighur>
+      <cyrillic>маневр</cyrillic>
+      <transcript>MANIJEBRI</transcript>
+      <definition>[R. манёвр] n. Maneuvers</definition>
+      <page>528</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠠᠨᠢᠶᠠᠪᠷᠢ ᠎ᠳᠤ ᠭᠠᠷᠬᠤ</unicode>
+          <transcript>-- du γarxu</transcript>
+          <definition> To go out on maneuvers.</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠠᠨᠢᠶᠠᠪᠷᠢ ᠎ᠶᠢᠨ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ</unicode>
+          <transcript>-- jin surγaγuli Maneuver training, maneuvers</transcript>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

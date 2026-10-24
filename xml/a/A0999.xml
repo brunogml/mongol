@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A0999">
+  <head>
+    <unicode>ᠠᠭᠣᠷᠰᠠᠬᠣ</unicode>
+    <transcript>aγursaqu</transcript>
+    <transcript2>agorsago</transcript2>
+    <cyrillic>уурсах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>A1000</ref>
+    <ref>A1001</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠭᠣᠷᠰᠠᠬᠣ</unicode>
+      <uighur>aγursaqu</uighur>
+      <cyrillic>уурсах</cyrillic>
+      <transcript>AГURSA-</transcript>
+      <definition>v.i To change into steam; to be[come] angry.</definition>
+      <page>18</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠣᠷᠰᠠᠬᠣ</unicode>
+      <cyrillic>УУРСАХ</cyrillic>
+      <definition>I ном. сердљться; быть недовольным, гневаться; уурсах авир байдал гневный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠣᠷᠰᠠᠬᠣ</unicode>
+      <cyrillic>УУРСАХ</cyrillic>
+      <definition>II уурших-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>уурсах</cyrillic>
+      <definition>1. Lit zürnen, erbost sein
+2. intr verdampfen, verdunsten</definition>
+      <page>263</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠭᠤᠷᠰᠠᠬᠤ</unicode>
+      <cyrillic>уурсах /1</cyrillic>
+      <definition>уурлах байдал илрэн мэдэгдэх.</definition>
+      <page>606</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠭᠤᠷᠰᠠᠬᠤ</unicode>
+      <cyrillic>уурсах /2</cyrillic>
+      <definition>уур болох; ус уурсах.</definition>
+      <page>606</page>
+    </entry_item>
+  </entries>
+</entry>

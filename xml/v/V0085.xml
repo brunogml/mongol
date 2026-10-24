@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="V0085">
+  <head>
+    <unicode>ᠸᠡᠳ</unicode>
+    <transcript>ved</transcript>
+    <transcript2>ved</transcript2>
+    <cyrillic>вед</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠸᠡᠳ</unicode>
+      <uighur>ved</uighur>
+      <transcript>VED</transcript>
+      <definition>[S. veda] n. Veda, knowledge.</definition>
+      <page>894</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠸᠡᠳ</unicode>
+      <cyrillic>ВЕД</cyrillic>
+      <definition>са. 1. веды (памятники древнеиндийской литературы в стихах и прозе); вед шашдар индийская священная книга; вед шашдарч знаток вед; 2. ведизм; 3. ведический.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠸᠡᠳ</unicode>
+      <cyrillic>ВЕДИЙН</cyrillic>
+      <definition>вед-ийн харьяал., ведический; ведийн ном ведическая литература; ведийн шашин ведическая религия.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠸᠡᠳ</unicode>
+      <page>2667</page>
+      <examples>
+        <example>
+          <unicode>ᠸᠡᠳ ᠱᠠᠰᠲᠢᠷ</unicode>
+          <definition>connaissance; vêde ou vêda çastra, la sainte écriture des Indiens</definition>
+        </example>
+        <example>
+          <unicode>ᠸᠡᠳ ᠱᠠᠰᠲᠢᠷᠴᠢ</unicode>
+          <definition>connaisseur des védas</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

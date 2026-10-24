@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0105">
+  <head>
+    <unicode>ᠪᠠᠬᠠᠨ</unicode>
+    <transcript>baqan</transcript>
+    <transcript2>bagan</transcript2>
+    <cyrillic>баахан</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B1041</ref>
+  </derivatives>
+  <see_also>
+    <ref>B0116</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠠᠬᠠᠨ</unicode>
+      <uighur>baqan</uighur>
+      <cyrillic>баахан</cyrillic>
+      <transcript>BAXAN</transcript>
+      <definition>adv. Somewhat, rather; sufficiently, considerably; quite a lot, rather many or much; a little too...</definition>
+      <page>92</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠠᠬᠠᠨ ᠪᠠᠭ᠎ᠠ</unicode>
+          <transcript>-- baγ-a</transcript>
+          <definition> A little too small.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠠᠬᠠᠨ ᠢᠳᠡ</unicode>
+          <transcript>-- ide !</transcript>
+          <definition> Eat some more !.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠠᠬᠠᠨ ᠶᠡᠺᠡ</unicode>
+          <transcript>-- jeke , </transcript>
+          <definition>Somewhat large.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠠᠬᠠᠨ ᠺᠦᠯᠢᠰᠡᠵᠦ ᠪᠠᠢ</unicode>
+          <transcript>-- kylijezy bai!</transcript>
+          <definition> Wait a little !. Wait a moment!.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠠᠰᠠ ᠪᠠᠬᠠᠨ ᠺᠢ</unicode>
+          <transcript>basa -- ki !</transcript>
+          <definition> Pour some more (tea; etc.)!.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠠᠬᠠᠨ</unicode>
+      <definition>peu, guère, un peu, une petite partie, tant soit peu</definition>
+      <page>1054</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠪᠠᠬᠠᠨ</unicode>
+      <uighur>baqan</uighur>
+      <definition>ein wenig</definition>
+      <page>97</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠪᠠᠬᠠᠨ</unicode>
+      <uighur>baqan</uighur>
+      <definition>Slight. Slightly, a bit.</definition>
+      <page>385</page>
+      <examples>
+        <example>
+          <uighur>baqan baγ-a</uighur>
+          <definition>Too little. A little too small.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠬᠠᠨ</unicode>
+      <cyrillic>баахан</cyrillic>
+      <definition>нилээд, овоо, арай; баахан их; баахан хол; баахан мал; баахан зогсож байгаад явлаа; баахан тусгүй явдал боллоо.</definition>
+      <page>63</page>
+    </entry_item>
+  </entries>
+</entry>

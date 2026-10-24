@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5610">
+  <head>
+    <unicode>ᠱᠣᠪᠰᠢᠭᠣᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šobsiγurdaγulqu</transcript>
+    <transcript2>sobsigordagolgo</transcript2>
+    <cyrillic>шовшуурдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S5609</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠣᠪᠰᠢᠭᠤᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шовшуурдуулах</cyrillic>
+      <definition>〔动〕шовшуурдах 的使动态.</definition>
+      <page>1645</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠪᠰᠢᠭᠣᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШОВШУУРДУУЛАХ</cyrillic>
+      <definition>шовшуурдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шовшуурдуулах</cyrillic>
+      <definition>Kaus von шовшуурдах</definition>
+      <page>388</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠣᠪᠰᠢᠭᠤᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шовшуурдуулах</cyrillic>
+      <definition>шовшуурдахын үйлдүүлэх хэв.</definition>
+      <page>852</page>
+    </entry_item>
+  </entries>
+</entry>

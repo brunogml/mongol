@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I0432">
+  <head>
+    <unicode>ᠢᠳᠠᠺᠥᠰᠢᠲᠠᠢ</unicode>
+    <transcript>idegüsitei</transcript>
+    <transcript2>idegösidei</transcript2>
+    <cyrillic>идүүштэй</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠳᠡᠭᠦᠰᠢᠲᠡᠢ</unicode>
+      <cyrillic>идүүштэй</cyrillic>
+      <definition>〔形〕①可食的；好吃的，可口的；②有饲草的，有食物的，可供放牧的：~ билчээр 可供放牧的草场.</definition>
+      <page>602</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠳᠠᠺᠥᠰᠢᠲᠠᠢ</unicode>
+      <cyrillic>ИДҮҮШТЭЙ</cyrillic>
+      <definition>аппетитный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠳᠡᠭᠦᠰᠢᠲᠡᠢ</unicode>
+      <cyrillic>идүүштэй</cyrillic>
+      <definition>идүүш бүхий; идүүштэй билчээр; малын идүүштэй нутаг.</definition>
+      <page>300</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>I0431</ref>
+  </related_to>
+</entry>

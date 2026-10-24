@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0970">
+  <head>
+    <unicode>ᠵᠠᠳᠠᠭᠠᠶᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰadaγayidaγulqu</transcript>
+    <transcript2>yadagayidagolgo</transcript2>
+    <cyrillic>задгайдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y0968</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠳᠠᠭᠠᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>задгайдуулах</cyrillic>
+      <definition>〔动〕задгайдах 的使动态.</definition>
+      <page>530</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠳᠠᠭᠠᠶᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗАДГАЙДУУЛАХ</cyrillic>
+      <definition>задгайдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠳᠠᠭᠠᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>задгайдуулах</cyrillic>
+      <definition>задгайдахын үйлдүүлэх хэв.</definition>
+      <page>259</page>
+    </entry_item>
+  </entries>
+</entry>

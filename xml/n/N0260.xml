@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N0260">
+  <head>
+    <unicode>ᠨᠠᠰᠢᠳᠠᠬᠣ</unicode>
+    <transcript>nasidaqu</transcript>
+    <transcript2>nasidago</transcript2>
+    <cyrillic>наашдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>N0261</ref>
+    <ref>N0262</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠠᠰᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>наашдах</cyrillic>
+      <definition>〔动〕变近，靠这边，（时间）靠近.</definition>
+      <page>714</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠰᠢᠳᠠᠬᠣ</unicode>
+      <cyrillic>НААШДАХ</cyrillic>
+      <definition>становиться ближе чем надо, оказываться слишком близко. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>наашдах</cyrillic>
+      <definition>zu nah[e] sein</definition>
+      <page>151</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠠᠰᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>наашдах</cyrillic>
+      <definition>дэндүү нааш болох; тэр ор чинь наашдасан байна.</definition>
+      <page>360</page>
+    </entry_item>
+  </entries>
+</entry>

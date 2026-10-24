@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y3077">
+  <head>
+    <unicode>ᠵᠢᠯᠲᠠᠰᠣ</unicode>
+    <transcript>ǰiltasu</transcript>
+    <transcript2>yildaso</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠢᠯᠲᠠᠰᠣᠨ</unicode>
+      <uighur>ǰildasun</uighur>
+      <transcript>ZILTASUN</transcript>
+      <definition>n. Address, inscription, name card, label.</definition>
+      <page>1055</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠡᠷ᠎ᠡ ᠵᠢᠯᠲᠠᠰᠣᠨ</unicode>
+          <transcript>ner-e -- </transcript>
+          <definition> Inscription; title; address.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠢᠯᠳᠠᠰᠤᠨ</unicode>
+      <definition>inscription , titre, adresse.</definition>
+      <page>2347</page>
+    </entry_item>
+  </entries>
+</entry>

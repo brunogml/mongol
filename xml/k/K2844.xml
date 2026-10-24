@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K2844">
+  <head>
+    <unicode>ᠺᠥᠢᠲᠡᠨᠳᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>küitendegülkü</transcript>
+    <transcript2>göidendegölgö</transcript2>
+    <cyrillic>хүйтэндүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K2843</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠦᠢᠲᠡᠨᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хүйтэндүүлэх</cyrillic>
+      <definition>〔动〕хүйтэндэх 的使动态.</definition>
+      <page>1452</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠢᠲᠡᠨᠳᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ХҮЙТЭНДҮҮЛЭХ</cyrillic>
+      <definition>хүйтэндэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠦᠢᠲᠡᠨᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хүйтэндүүлэх</cyrillic>
+      <definition>хүйтэндэхийн үйлдүүлэх хэв.</definition>
+      <page>743</page>
+    </entry_item>
+  </entries>
+</entry>

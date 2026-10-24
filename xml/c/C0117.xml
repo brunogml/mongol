@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0117">
+  <head>
+    <unicode>ᠴᠠᠭᠠᠰᠣᠯᠠᠬᠣ</unicode>
+    <transcript>čaγasulaqu</transcript>
+    <transcript2>cagasolago</transcript2>
+    <cyrillic>цааслах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0118</ref>
+    <ref>C0121</ref>
+    <ref>C0119</ref>
+    <ref>C0120</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠭᠠᠰᠣᠯᠠᠬᠣ</unicode>
+      <uighur>čaγasulaqu</uighur>
+      <cyrillic>цааслах</cyrillic>
+      <transcript>CAΓASULA-</transcript>
+      <definition>v.t. To cover with paper.</definition>
+      <page>159</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠭᠠᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>цааслах</cyrillic>
+      <definition>〔动〕糊纸，贴纸：цонх ~ 用纸糊窗子.</definition>
+      <page>1507</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠭᠠᠰᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЦААСЛАХ</cyrillic>
+      <definition>заклеивать бумагой; хана цааслах наклеивать обои; цонх цааслах заклеивать окно бумагой. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цааслах</cyrillic>
+      <definition>mit Papier bedecken od bekleben</definition>
+      <page>349</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠭᠠᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>цааслах</cyrillic>
+      <definition>юманд цаас наах; байшин цааслах; цонх цааслах.</definition>
+      <page>775</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>C0114</ref>
+  </related_to>
+</entry>

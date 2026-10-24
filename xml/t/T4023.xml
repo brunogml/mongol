@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T4023">
+  <head>
+    <unicode>ᠲᠠᠯᠴᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>telčilegülkü</transcript>
+    <transcript2>delcilegölgö</transcript2>
+    <cyrillic>тэлчлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T4021</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠡᠯᠴᠢᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>тэлчлүүлэх</cyrillic>
+      <definition>〔动〕тэлчлэх 的使动态.</definition>
+      <page>1152</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠯᠴᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ТЭЛЧЛҮҮЛЭХ</cyrillic>
+      <definition>тэлчлэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠯᠴᠢᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>тэлчлүүлэх</cyrillic>
+      <definition>тэлчлэхийн үйлдүүлэх хэв.</definition>
+      <page>574</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1023">
+  <head>
+    <unicode>ᠴᠠᠯᠺᠠᠯᠵᠠᠺᠥ</unicode>
+    <transcript>čelkelǰekü</transcript>
+    <transcript2>celgelcegö</transcript2>
+    <cyrillic>цэлхэлзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1024</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠯᠬᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>цэлхэлзэх</cyrillic>
+      <definition>〔动〕参见 цэлцэгнэх.</definition>
+      <page>1563</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠯᠺᠠᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>ЦЭЛХЭЛЗЭХ</cyrillic>
+      <definition>цэлхэгнэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цэлхэлзэх</cyrillic>
+      <definition>= цэлцэлзэх</definition>
+      <page>364</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠯᠬᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>цэлхэлзэх</cyrillic>
+      <definition>цэлцэлзэх.</definition>
+      <page>805</page>
+    </entry_item>
+  </entries>
+</entry>

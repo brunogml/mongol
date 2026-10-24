@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4254">
+  <head>
+    <unicode>ᠰᠢᠺᠠᠺᠥ</unicode>
+    <transcript>sigekü</transcript>
+    <transcript2>sigegö</transcript2>
+    <cyrillic>шээх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S4357</ref>
+    <ref>S4250</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠺᠠᠺᠥ</unicode>
+      <uighur>sikekü</uighur>
+      <cyrillic>шээх</cyrillic>
+      <transcript>SIGE-</transcript>
+      <definition>v.i. To urinate</definition>
+      <page>701</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠺᠡᠺᠦ</unicode>
+      <definition>uriner, pisser.</definition>
+      <page>1510</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠺᠡᠨ ᠶᠠᠳᠠᠬᠤ</unicode>
+          <definition>rétention d'urine</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠰᠢᠺᠠᠺᠥ</unicode>
+      <uighur>sigekü</uighur>
+      <definition>Urin lassen, pissen</definition>
+      <page>355</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠰᠢᠺᠠᠺᠥ</unicode>
+      <uighur>sikekü</uighur>
+      <definition>v.i. To make water. To urinate.</definition>
+      <page>1430</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠭᠡᠬᠦ</unicode>
+      <cyrillic>шээх</cyrillic>
+      <definition>〔名〕小便，撒尿，排尿.</definition>
+      <page>1672</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠺᠠᠺᠥ</unicode>
+      <cyrillic>ШЭЭХ</cyrillic>
+      <definition>мочиться; шээж авах помочиться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠭᠡᠬᠦ</unicode>
+      <cyrillic>шээх</cyrillic>
+      <definition>шээс огоорч шингэн мөр үлдээх.</definition>
+      <page>864</page>
+    </entry_item>
+  </entries>
+</entry>

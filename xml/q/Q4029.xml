@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4029">
+  <head>
+    <unicode>ᠬᠣᠨᠢᠶᠠᠰᠣᠲᠣᠬᠣ</unicode>
+    <transcript>quniyasutuqu</transcript>
+    <transcript2>goniyasodogo</transcript2>
+    <cyrillic>хуниастах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q4030</ref>
+    <ref>Q4031</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠨᠢᠶᠠᠰᠤᠲᠤᠬᠤ</unicode>
+      <cyrillic>хуниастах</cyrillic>
+      <definition>〔动〕形成皱褶，出现褶痕，出现皱纹：дээл ~ 衣服出现褶纹.</definition>
+      <page>1432</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠨᠢᠶᠠᠰᠣᠲᠣᠬᠣ</unicode>
+      <cyrillic>ХУНИАСТАХ</cyrillic>
+      <definition>1. морщиться, морщиниться, покрываться складками; 2. хуниастахуй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠨᠢᠶᠠᠰᠣᠲᠣᠬᠣ</unicode>
+      <cyrillic>ХУНИАСТАХУЙ</cyrillic>
+      <definition>образование сборок, складок на чём-л. (вследствие стягивания). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хуниастах</cyrillic>
+      <definition>= хунираатах</definition>
+      <page>328</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠨᠢᠶᠠᠰᠤᠲᠤᠬᠤ</unicode>
+      <cyrillic>хуниастах</cyrillic>
+      <definition>юманд хуниас гарах, хуниастай болох; дээл хуниастах.</definition>
+      <page>730</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q4025</ref>
+  </related_to>
+</entry>

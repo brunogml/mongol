@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2091">
+  <head>
+    <unicode>ᠪᠢᠩ</unicode>
+    <transcript>bing</transcript>
+    <transcript2>bing</transcript2>
+    <cyrillic>бин</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠢᠩ</unicode>
+      <uighur>bing</uighur>
+      <cyrillic>бин</cyrillic>
+      <transcript>BING</transcript>
+      <definition>1</definition>
+      <page>105</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠢᠩ ᠪᠢᠲᠡᠭᠦᠦ</unicode>
+          <transcript>-- bitegyy</transcript>
+          <definition> Well closed, tightly, closed.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠢᠩ</unicode>
+      <uighur>bing</uighur>
+      <transcript>BING</transcript>
+      <definition>2</definition>
+      <page>105</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠢᠩ ᠯᠠᠩ</unicode>
+          <transcript>--lang</transcript>
+          <definition> Betel nut (Ch. pin-lang).</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠢᠩ</unicode>
+      <definition>petit gateau, petit pâté</definition>
+      <page>1131</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠢᠩ</unicode>
+      <cyrillic>БИН(Г)</cyrillic>
+      <definition>I 1) лепёшка, блин, блины; саран бин “лунный блин”; 2) еэвэн-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠢᠩ</unicode>
+      <cyrillic>БИН</cyrillic>
+      <definition>II хүч нэмэгдүүлэх сул үг.; бин битүү закрытый наглухо, герметический, закупоренный наглухо, герметически закрытый, непроницаемый для воздуха; сансрын хөлгийн бин битүү байдал герметичность космического корабля; бин битүү байдал алдагдах разгреметизироваться; разгерметизация.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бин[г]</cyrillic>
+      <definition>1. Fladen m
+2.: ~ битүү völlig dicht, hermetisch verschlossen</definition>
+      <page>52</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠢᠩ</unicode>
+      <cyrillic>бин</cyrillic>
+      <definition>нэгэн зүйл боов, зуурсан гурилаар хайрч хийнэ; далан давхар бин.</definition>
+      <page>84</page>
+    </entry_item>
+  </entries>
+</entry>

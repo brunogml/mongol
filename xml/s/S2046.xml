@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2046">
+  <head>
+    <unicode>ᠰᠠᠪᠠᠷᠠᠺᠥ</unicode>
+    <transcript>seberekü</transcript>
+    <transcript2>seberegö</transcript2>
+    <cyrillic>сэврэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S2043</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠪᠡᠷᠡᠬᠦ</unicode>
+      <cyrillic>сэврэх</cyrillic>
+      <definition>〔动〕（湿物）变干，干枯.</definition>
+      <page>980</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠪᠠᠷᠠᠺᠥ</unicode>
+      <cyrillic>СЭВРЭХ</cyrillic>
+      <definition>сохнуть, подсыхать, просушиваться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сэврэх</cyrillic>
+      <definition>intr ein wenig [ab]trocknen</definition>
+      <page>209</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠪᠡᠷᠡᠬᠦ</unicode>
+      <cyrillic>сэврэх</cyrillic>
+      <definition>нойтон чийгтэй юмны хатаж эгших, эврэх.</definition>
+      <page>499</page>
+    </entry_item>
+  </entries>
+</entry>

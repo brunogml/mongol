@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1221">
+  <head>
+    <unicode>ᠣᠰᠣᠯᠠᠬᠣ</unicode>
+    <transcript>usulaqu</transcript>
+    <transcript2>osolago</transcript2>
+    <cyrillic>услах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U1222</ref>
+    <ref>U1224</ref>
+    <ref>U1229</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠰᠣᠯᠠᠬᠣ</unicode>
+      <uighur>usolaqu</uighur>
+      <cyrillic>услах</cyrillic>
+      <transcript>USULA-</transcript>
+      <definition>v.t. To water animals; to irrigate, water.</definition>
+      <page>888</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠡᠴᠡᠭ ᠣᠰᠣᠯᠠᠬᠣ</unicode>
+          <transcript>ceceg --xu</transcript>
+          <definition> To water flowers.</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠠᠯ ᠣᠰᠣᠯᠠᠬᠣ</unicode>
+          <transcript>mal --xu </transcript>
+          <definition>To water animals</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠷᠢᠶᠠᠯᠠᠩ ᠢ ᠣᠰᠣᠯᠠᠬᠣ</unicode>
+          <transcript>tarijalang i --xu</transcript>
+          <definition> To irrigate a field.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠰᠣᠯᠠᠬᠤ</unicode>
+      <definition>abreuver (les chevaux): 2 arroser.</definition>
+      <page>378</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠰᠤᠨ ᠢᠶᠠᠷ ᠣᠰᠣᠯᠠᠬᠤ</unicode>
+          <definition>abreuver d'eau.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠷᠢᠶᠠᠯᠠᠩ ᠢ ᠣᠰᠣᠯᠠᠬᠤ</unicode>
+          <definition>arroser le champ</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠣᠰᠣᠯᠠᠬᠣ</unicode>
+      <uighur>usulaqu</uighur>
+      <definition>wässern, tränken</definition>
+      <page>62</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠣᠰᠣᠯᠠᠬᠣ</unicode>
+      <uighur>usulaqu</uighur>
+      <definition>v.t. To water, to give to drink (cattle). To irrigate.</definition>
+      <page>244</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>услах</cyrillic>
+      <definition>〔动〕灌溉，浇灌；饮牲口：газар ~ 灌溉土地；мал ~ 饮牲口；~ суваг 灌溉渠，灌溉运河；эсгий ~ 往毡子上浇水（使发软）；~ машин 洒水机；~ систем 灌溉系统?.</definition>
+      <page>1208</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠰᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>УСЛАХ</cyrillic>
+      <definition>1. 1) орошать, поливать водой; газар услах орошать землю, орошать поля; тариалан услах поливать посев; усаар услах пољть водой, орошать; шүршиж услах поливное орошение; эсгий шүршиж услах поливать войлок; 2) пољть водой; мал услах пољть скот водой; хонио худгаас усалж байв пољл овец из колодца; 2. оросљтельный; услах суваг оросљтельный канал; услах тарианы газар пашня поливная; услах төхөөрөмж оросљтельное сооружение; услах шуудуу оросљтельный канал, арык; услах ажил ирригация; 3. услахуй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠰᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>УСЛАХУЙ</cyrillic>
+      <definition>орошение; полљв. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>услах</cyrillic>
+      <definition>[be]gießen, [be]wässern; tränken; ~ төхөөрөмж Berieselungsanlage f; мал ~ Vieh tränken; цэцэг ~ Blumen gießen</definition>
+      <page>261</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>услах</cyrillic>
+      <definition>1. ус асгаж урсган чийглүүлэх; эсгий услах; тариалангийн газар услах; услах суваг;2. малд ус уулгах; хонио худгаас усалж байв.</definition>
+      <page>603</page>
+    </entry_item>
+  </entries>
+</entry>

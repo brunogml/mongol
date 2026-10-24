@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0286">
+  <head>
+    <unicode>ᠰᠠᠨᠸᠠᠷᠲᠠᠨ</unicode>
+    <transcript>sanvartan</transcript>
+    <transcript2>sanvardan</transcript2>
+    <cyrillic>санваартан</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠨᠸᠠᠷᠲᠠᠨ</unicode>
+      <cyrillic>САНВААРТАН</cyrillic>
+      <definition>сахилтан-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>санваартан</cyrillic>
+      <definition>Geistlichkeit f, Klerus m</definition>
+      <page>195</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠨᠸᠠᠷᠲᠠᠨ</unicode>
+      <cyrillic>санваартан</cyrillic>
+      <definition>шашны ёсны санваар бүхий хүмүүс, сахилтан.</definition>
+      <page>468</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S0284</ref>
+  </related_to>
+</entry>

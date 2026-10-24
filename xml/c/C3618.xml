@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C3618">
+  <head>
+    <unicode>ᠴᠥᠮᠥᠷᠢᠺᠥ</unicode>
+    <transcript>čömürikü</transcript>
+    <transcript2>cömörigö</transcript2>
+    <cyrillic>цөмрөх</cyrillic>
+  </head><derivatives>
+    <ref>C3619</ref>
+  </derivatives><see_also>
+    <ref>C3616</ref>
+  
+    <ref>C3621</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠥᠮᠥᠷᠢᠺᠥ</unicode>
+      <uighur>čömürikü</uighur>
+      <transcript>CØMYRI-</transcript>
+      <definition>See cømyre-</definition>
+      <page>203</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠦᠮᠦᠷᠡᠺᠦ ~ ᠴᠦᠮᠦᠷᠢᠺᠦ</unicode>
+      <definition>s'écrouler, tomber en ruines.</definition>
+      <page>2227</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠲᠠ ᠴᠥᠮᠦᠷᠢᠪᠡ</unicode>
+          <definition>un rocher s'écroula</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠠᠵᠠᠷ ᠴᠥᠮᠦᠷᠢᠮᠦᠢ</unicode>
+          <definition>la terre s'écroule</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠠᠶᠢᠰᠢᠩ ᠴᠥᠮᠦᠷᠢᠮᠦᠢ</unicode>
+          <definition>le bâtiment tombe en ruines</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠭᠡᠯᠪᠦᠷᠢ ᠴᠥᠮᠦᠷᠢᠮᠦᠢ</unicode>
+          <definition>le toit s'écroule</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

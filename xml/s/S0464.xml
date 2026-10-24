@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0464">
+  <head>
+    <unicode>ᠰᠠᠭᠠᠷᠮᠠᠬᠲᠣᠬᠣ</unicode>
+    <transcript>saγarmaγtuqu</transcript>
+    <transcript2>sagarmagdogo</transcript2>
+    <cyrillic>саармагтах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S0465</ref>
+    <ref>S0466</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠭᠠᠷᠮᠠᠭᠲᠤᠬᠤ</unicode>
+      <cyrillic>саармагтах</cyrillic>
+      <definition>〔动〕犹豫不决，动摇不定，踌躇，拿不定主意：~ хэрэг алга, шийдсэн дээр! 不要犹豫不决了，还是决定下来好！</definition>
+      <page>890</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠭᠠᠷᠮᠠᠬᠲᠣᠬᠣ</unicode>
+      <cyrillic>СААРМАГТАХ</cyrillic>
+      <definition>колебаться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>саармагтах</cyrillic>
+      <definition>= саармаглах</definition>
+      <page>190</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠭᠠᠷᠮᠠᠭᠲᠤᠬᠤ</unicode>
+      <cyrillic>саармагтах</cyrillic>
+      <definition>санаа хэлбэлзэн, шийдэж чадахгүй байх; хоёрын хооронд саамагтах хэрэг алга, шийдсэн дээр.</definition>
+      <page>456</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S0463</ref>
+  </related_to>
+</entry>

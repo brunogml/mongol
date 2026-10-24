@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1122">
+  <head>
+    <unicode>ᠣᠪᠣᠶᠢᠯᠭᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>obuyilγaγulqu</transcript>
+    <transcript2>oboyilgagolgo</transcript2>
+    <cyrillic>овойлгуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U1121</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠪᠣᠢᠯᠭᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>овойлгуулах</cyrillic>
+      <definition>〔动〕овойлгох 的使动态.</definition>
+      <page>787</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠪᠣᠶᠢᠯᠭᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ОВОЙЛГУУЛАХ</cyrillic>
+      <definition>овойлгох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠪᠣᠢᠯᠭᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>овойлгуулах</cyrillic>
+      <definition>овойлгохын үйлдүүлэх хэв, овгор болгуулах.</definition>
+      <page>405</page>
+    </entry_item>
+  </entries>
+</entry>

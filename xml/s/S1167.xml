@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S1167">
+  <head>
+    <unicode>ᠰᠠᠯᠮᠠ</unicode>
+    <transcript>salm-a</transcript>
+    <transcript2>salm-a</transcript2>
+    <cyrillic>салма</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠯᠮ᠎ᠠ</unicode>
+      <uighur>salm-a</uighur>
+      <transcript>SALM-A</transcript>
+      <definition>See calm-a.</definition>
+      <page>666</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠠᠯᠮ᠎ᠠ ~ ᠴᠠᠯᠮ᠎ᠠ</unicode>
+      <definition>noeud, noeud coulant, corde, lacet, câble, lien.</definition>
+      <page>1311</page>
+      <examples>
+        <example>
+          <unicode>ᠦᠺᠦᠯ ᠤᠨ ᠰᠠᠯᠮ᠎ᠠ</unicode>
+          <definition>lacet de la mort</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠯᠮ᠎ᠠ ᠣᠷᠺᠢᠬᠤ</unicode>
+          <definition>jeter un noeud coulant sur qn., attraper avec un lacet</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠯᠮ᠎ᠠ ᠪᠡᠷ ᠺᠦᠯᠢᠺᠦ</unicode>
+          <definition>lier avec une corde</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠯᠮᠠ</unicode>
+      <cyrillic>САЛМА</cyrillic>
+      <definition>1) петли для ловли оленей, лисиц, зайцев; аркан; цалма-ыг үз.; 2) цалмаа-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

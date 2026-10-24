@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6514">
+  <head>
+    <unicode>ᠲᠣᠰᠣᠲᠣᠬᠣ</unicode>
+    <transcript>tosutuqu</transcript>
+    <transcript2>dosodogo</transcript2>
+    <cyrillic>тостох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T6515</ref>
+    <ref>T6517</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠰᠣᠲᠣᠬᠤ</unicode>
+      <cyrillic>тостох</cyrillic>
+      <definition>〔动〕沾上油，弄上油，染上油污：~н хатуурах 〈医〉粥样硬化.</definition>
+      <page>1085</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠰᠣᠲᠣᠬᠣ</unicode>
+      <cyrillic>ТОСТОХ</cyrillic>
+      <definition>замасливаться, засаливаться, запачкаться маслом. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тостох</cyrillic>
+      <definition>einfetten, einölen, eincremen; fettig od ölig machen</definition>
+      <page>232</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠰᠣᠲᠣᠬᠤ</unicode>
+      <cyrillic>тостох</cyrillic>
+      <definition>тостой болгох.</definition>
+      <page>546</page>
+    </entry_item>
+  </entries>
+</entry>

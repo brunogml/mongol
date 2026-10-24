@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4816">
+  <head>
+    <unicode>ᠵᠣᠷᠢᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰoriγlaγulqu</transcript>
+    <transcript2>yoriglagolgo</transcript2>
+    <cyrillic>зориглуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y4815</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠣᠷᠢᠭᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зориглуулах</cyrillic>
+      <definition>〔动〕зориглох 的使动态.</definition>
+      <page>561</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠷᠢᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗОРИГЛУУЛАХ</cyrillic>
+      <definition>зориглох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠣᠷᠢᠭᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зориглуулах</cyrillic>
+      <definition>зориглохын үйлдүүлэх хэв, зориглоход хүрүүлэх.</definition>
+      <page>275</page>
+    </entry_item>
+  </entries>
+</entry>

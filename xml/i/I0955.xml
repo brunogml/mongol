@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I0955">
+  <head>
+    <unicode>ᠢᠴᠠᠺᠥᠷᠢᠲᠠᠢ</unicode>
+    <transcript>ičegüritei</transcript>
+    <transcript2>icegöridei</transcript2>
+    <cyrillic>ичүүртэй</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠢᠴᠠᠺᠥᠷᠢᠲᠠᠢ</unicode>
+      <uighur>ičegüridei</uighur>
+      <cyrillic>ичүүртэй</cyrillic>
+      <transcript>ICEGYRITEI</transcript>
+      <definition>adj. Shameful, disgraceful.</definition>
+      <page>397</page>
+      <examples>
+        <example>
+          <unicode>ᠢᠴᠠᠺᠥᠷᠢᠲᠠᠢ ᠪᠠᠶᠢᠳᠠᠯ</unicode>
+          <transcript>-- baidal</transcript>
+          <definition> Disgraceful condition.</definition>
+        </example>
+        <example>
+          <unicode>ᠢᠴᠠᠺᠥᠷᠢᠲᠠᠢ ᠺᠡᠷᠡᠭ</unicode>
+          <transcript>-- kereg</transcript>
+          <definition> A shameful affair, disgrace.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠢᠴᠡᠺᠦᠷᠢᠳᠡᠢ ~ ᠢᠴᠡᠺᠦᠷᠢᠳᠦ</unicode>
+      <definition>confus, confondu, qui a de la pudeur, qui sait rougir : 2 honteux, ignominieux, infâme</definition>
+      <page>313</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠴᠢᠭᠦᠷᠢᠲᠡᠢ</unicode>
+      <cyrillic>ичүүртэй</cyrillic>
+      <definition>〔形〕参见 ичгүүртэй.</definition>
+      <page>627</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠴᠢᠭᠦᠷᠢᠲᠡᠢ</unicode>
+      <cyrillic>ичүүртэй</cyrillic>
+      <definition>ичгүүртэй.</definition>
+      <page>312</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>I0954</ref>
+  </related_to>
+  <see_also>
+    <ref>I0956</ref>
+  </see_also>
+</entry>

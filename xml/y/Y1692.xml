@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1692">
+  <head>
+    <unicode>ᠵᠠᠶᠢᠴᠢᠯᠠᠬᠣ</unicode>
+    <transcript>ǰayičilaqu</transcript>
+    <transcript2>yayicilago</transcript2>
+    <cyrillic>зайчлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1693</ref>
+    <ref>Y1695</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠢᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>зайчлах</cyrillic>
+      <definition>〔动〕留出空隙，让出空地，腾出空间，挪出：агуулахын юмыг ~ 在仓库物品间腾出空地.</definition>
+      <page>534</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠶᠢᠴᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЗАЙЧЛАХ</cyrillic>
+      <definition>высвобождать место. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зайчлах</cyrillic>
+      <definition>Platz schaffen</definition>
+      <page>116</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠢᠴᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>зайчлах</cyrillic>
+      <definition>зай гаргах; агуулахын юмыг зайчлах.</definition>
+      <page>261</page>
+    </entry_item>
+  </entries>
+</entry>

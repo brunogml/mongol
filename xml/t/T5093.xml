@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5093">
+  <head>
+    <unicode>ᠲᠣᠢ</unicode>
+    <transcript>toi</transcript>
+    <transcript2>doi</transcript2>
+    <cyrillic>той</cyrillic>
+  </head>
+  <see_also>
+    <ref>T5092</ref>
+    <ref>ZT0156</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠢ</unicode>
+      <uighur>toi</uighur>
+      <cyrillic>той</cyrillic>
+      <transcript>TOI</transcript>
+      <definition>n. Wedding feast, banquet</definition>
+      <page>819</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠣᠢ ᠬᠤᠷᠢᠮ = ᠬᠤᠷᠢᠮ ᠲᠣᠢ</unicode>
+          <transcript>-- xurim = xurim -- </transcript>
+          <definition> Wedding feast, banquet.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠢ ᠬᠣᠷᠢᠮ</unicode>
+      <definition>le repas des noces</definition>
+      <page>1782</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠤᠢ ᠬᠣᠷᠢᠮ ᠺᠢᠺᠦ</unicode>
+          <definition>faire le repas des noces</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠣᠢ</unicode>
+      <uighur>tui qurim</uighur>
+      <definition>n A feast, a banquet. A wedding Festivity</definition>
+      <page>975</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠢ</unicode>
+      <cyrillic>той</cyrillic>
+      <definition>〔名〕（婚礼的）宴席；◊ хурим ~ （婚礼的）筵宴，宴席；结婚典礼.</definition>
+      <page>1061</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠢ</unicode>
+      <cyrillic>ТОЙ</cyrillic>
+      <definition>свадебный пир; той хурим хорш. свадебный пир. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>той</cyrillic>
+      <definition>Hochzeitsfest n</definition>
+      <page>227</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠢ</unicode>
+      <cyrillic>той</cyrillic>
+      <definition>гэрлэхийн хурим;хурим той&lt;хорш&gt;.</definition>
+      <page>536</page>
+    </entry_item>
+  </entries>
+</entry>

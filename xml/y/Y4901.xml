@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4901">
+  <head>
+    <unicode>ᠵᠣᠷᠰᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰursiγulqu</transcript>
+    <transcript2>yorsigolgo</transcript2>
+    <cyrillic>зуршуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y4900</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠤᠷᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зуршуулах</cyrillic>
+      <definition>〔动〕зурших 的使动态.</definition>
+      <page>580</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠷᠰᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗУРШУУЛАХ</cyrillic>
+      <definition>зурших-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зуршуулах</cyrillic>
+      <definition>Kaus von зурших</definition>
+      <page>126</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠤᠷᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зуршуулах</cyrillic>
+      <definition>зуршихын үйдүүлэх хэв.</definition>
+      <page>286</page>
+    </entry_item>
+  </entries>
+</entry>

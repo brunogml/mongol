@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="U0903">
+  <head>
+    <unicode>ᠣᠬᠲᠣᠯᠪᠣᠷᠢ</unicode>
+    <transcript>oγtulburi</transcript>
+    <transcript2>ogdolbori</transcript2>
+    <cyrillic>огтловор</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠬᠲᠣᠯᠪᠣᠷᠢ</unicode>
+      <uighur>oqdolburi</uighur>
+      <cyrillic>огтолбор</cyrillic>
+      <transcript>OΓTULBURI</transcript>
+      <definition>n. Cut-off piece, cut, cutting.</definition>
+      <page>602</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠬᠲᠣᠯᠪᠤᠷᠢ</unicode>
+      <definition>coupure, retranchement, action de couper,</definition>
+      <page>435</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠬᠲᠣᠯᠪᠤᠷᠢ ᠰᠤᠮᠤᠨ</unicode>
+          <definition>la flèche dont le fer ou le bout est uni à l&apos;extrémité</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠬᠲᠣᠯᠪᠣᠷᠢ</unicode>
+      <cyrillic>ОГТЛОВОР</cyrillic>
+      <definition>отсечение, усечение, отрубание, рубка; огтловор сум стрела с тупым наконечником. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠬᠲᠣᠯᠪᠣᠷᠢ</unicode>
+      <cyrillic>ОГТОЛБОР</cyrillic>
+      <definition>огтловор-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

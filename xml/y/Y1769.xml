@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1769">
+  <head>
+    <unicode>ᠶᠠᠷᠢᠬᠣ</unicode>
+    <transcript>yariqu</transcript>
+    <transcript2>yarigo</transcript2>
+    <cyrillic>ярих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1771</ref>
+    <ref>Y1772</ref>
+    <ref>Y1794</ref>
+  </derivatives>
+  <see_also>
+    <ref>Y1770</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠶᠠᠷᠢᠬᠣ</unicode>
+      <uighur>yariqu</uighur>
+      <cyrillic>ярих</cyrillic>
+      <transcript>JARI-</transcript>
+      <definition>v.L To speak, converse, talk, chat.</definition>
+      <page>429</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠣᠳᠤᠷᠬᠠᠢ ᠶᠠᠷᠢᠬᠣ</unicode>
+          <transcript>todurxai --xu</transcript>
+          <definition> To tell in detail.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠠᠷᠢᠬᠤ ~ ᠴᠠᠯᠴᠢᠬᠤ</unicode>
+      <definition>bavarder , dire des balivernes; gronder sans rime sans raison, grogner sans raison</definition>
+      <page>2301</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠠᠷᠢᠬᠤ</unicode>
+      <cyrillic>ярих</cyrillic>
+      <definition>〔动〕说，谈话，讲话，叙述：ярьж тохирох 谈妥；энэ тухай ах минь над ярьж өгөв 此事哥哥已给我说了.</definition>
+      <page>1759</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>ярих</cyrillic>
+      <definition>sprechen, reden, sich unterhalten (mit jmdm. -тай); sagen, erzählen; би тантай яриж болох уу? kann ich Sie sprechen?; утсаар ~ telefonieren; монголоор сайн ~ gut mongolisch sprechen; яриж өгөх mitteilen (jmdm. -д); яриж тохирох sich verständigen, einverkommen (mit -тай)</definition>
+      <page>416</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠠᠷᠢᠬᠤ</unicode>
+      <cyrillic>ярих</cyrillic>
+      <definition>хүний хоорондоо хэлэлцэх;ярих хэлэх&lt;хорш&gt;;ярих хөөрөх&lt;хорш&gt;; ярьж суух; ярьж тохирох; ярьж хэлэх хэрэгтэй.</definition>
+      <page>910</page>
+    </entry_item>
+  </entries>
+</entry>

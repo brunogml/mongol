@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4014">
+  <head>
+    <unicode>ᠰᠢᠯᠲᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>siltaγulqu</transcript>
+    <transcript2>sildagolgo</transcript2>
+    <cyrillic>шалтуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S4013</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠯᠲᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шалтуулах</cyrillic>
+      <definition>〔动〕шалтах 的使动态.</definition>
+      <page>1615</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠯᠲᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАЛТУУЛАХ</cyrillic>
+      <definition>шалтах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠯᠲᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шалтуулах</cyrillic>
+      <definition>шалтахын үйлдүүлэх хэв.</definition>
+      <page>834</page>
+    </entry_item>
+  </entries>
+</entry>

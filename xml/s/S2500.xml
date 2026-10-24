@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2500">
+  <head>
+    <unicode>ᠰᠠᠺᠥᠲᠠᠯᠵᠠᠺᠥ</unicode>
+    <transcript>segütelǰekü</transcript>
+    <transcript2>segödelcegö</transcript2>
+    <cyrillic>сүүтэлзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S2502</ref>
+    <ref>S2499</ref>
+  </derivatives>
+  <see_also>
+    <ref>S2501</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠭᠦᠲᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>сүүтэлзэх</cyrillic>
+      <definition>〔动〕参见 сүүмэгнэх.</definition>
+      <page>979</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠺᠥᠲᠠᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>СҮҮТЭЛЗЭХ</cyrillic>
+      <definition>сүүтгэнэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сүүтэлзэх</cyrillic>
+      <definition>= сүүдэгнэх</definition>
+      <page>209</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠭᠦᠲᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>сүүтэлзэх</cyrillic>
+      <definition>сүүтгэр юмны сүүтэс сүүтэс хийх.</definition>
+      <page>498</page>
+    </entry_item>
+  </entries>
+</entry>

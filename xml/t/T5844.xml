@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5844">
+  <head>
+    <unicode>ᠳᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>duγulqu</transcript>
+    <transcript2>dogolgo</transcript2>
+    <cyrillic>дуулах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T5867</ref>
+  </derivatives>
+  <related_to>
+    <ref>T5675</ref>
+  </related_to>
+  <see_also>
+    <ref>T0755</ref>
+    <ref>T5843</ref>
+    <ref>T5845</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠣᠭᠣᠯᠬᠣ</unicode>
+      <uighur>duγulqu</uighur>
+      <cyrillic>дуулах</cyrillic>
+      <transcript>DUΓUL-</transcript>
+      <definition>v.t. and i. To hear, listen.</definition>
+      <page>271</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠣᠳᠤᠷᠬᠠᠢ ᠳᠣᠭᠣᠯᠬᠣ</unicode>
+          <transcript>todurxai --xu</transcript>
+          <definition> To hear distinctly.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дуулах /2</cyrillic>
+      <definition>сонсох; дуулж бай!; тийм гэж би дуулсан; нэг чихээр дуулаад нөгөө чихээр гаргах.</definition>
+      <page>214</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1449">
+  <head>
+    <unicode>ᠲᠠᠰᠣᠯᠳᠠᠬᠣ</unicode>
+    <transcript>tasuldaqu</transcript>
+    <transcript2>dasoldago</transcript2>
+    <cyrillic>тасалдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1453</ref>
+    <ref>T1456</ref>
+  </derivatives>
+  <see_also>
+    <ref>T1450</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠰᠣᠯᠳᠠᠬᠣ</unicode>
+      <uighur>tasoldaqu</uighur>
+      <cyrillic>тасалдах</cyrillic>
+      <transcript>TASULDA-</transcript>
+      <definition>[v. pass. of tasul-] v. i. To be cut off, severed, finished, discontinued, interrupted; to stop; to be insufficient; to lack.</definition>
+      <page>785</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠰᠤᠨ ᠲᠠᠰᠣᠯᠳᠠᠬᠣ</unicode>
+          <transcript>usun --xu</transcript>
+          <definition> The water is cut off.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠰᠣᠯᠳᠠᠬᠤ</unicode>
+      <definition>être coupé, découpé; être discontinué, cesser; discontinuer par intervalles</definition>
+      <page>1614</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠮᠡ ᠪᠢᠴᠢᠭ ᠎ᠲᠤᠷ ᠤᠭᠤᠷᠤᠭᠳᠠᠭᠰᠠᠨ ᠳᠠᠰᠣᠯᠳᠠᠭᠰᠠᠨ ᠭᠠᠵᠠᠷ ᠪᠤᠢ ᠠᠮᠤᠢ</unicode>
+          <definition>dans cet ouvrage, il y a des lacunes</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠰᠣᠯᠳᠠᠬᠣ</unicode>
+      <uighur>dasoldaqu</uighur>
+      <definition>aufhören, ausgehen, unterbrochen werden, unterbrechen</definition>
+      <page>238</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠰᠣᠯᠳᠠᠬᠣ</unicode>
+      <uighur>tasuldaqu</uighur>
+      <definition>To fail to come to an end. To cease. To be interrupted. To miss or omit.</definition>
+      <page>937</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠰᠣᠯᠳᠠᠬᠣ</unicode>
+      <uighur>tasuldal-a</uighur>
+      <definition>Until out off</definition>
+      <page>937</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠰᠤᠯᠳᠠᠬᠤ</unicode>
+      <cyrillic>тасалдах</cyrillic>
+      <definition>〔动〕①中断，间断，被打断：мотрын дуу ~в 马达响声中断了；②供不上，断货，脱销：дэлгүүрт талх ~в 商店的面包脱销了；③停顿，停歇，中止，中辍：хичээл ~ 缺课，旷课；дугуйлан ~ 小组（活动）停顿，小组解散；④（计划等）完不成：төлөвлөгөө ~ 计划完不成.</definition>
+      <page>1034</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠰᠣᠯᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТАСАЛДАХ</cyrillic>
+      <definition>таслах-ын үйлдэгд., 1) быть прерванным, прекращённым, сорванным; прерываться; прекращаться; срываться; отрываться; давать перебои; хичээл тасалдах прерываться (о занятии); моторын дуу тасалдав звук мотора прервался; 2) не осуществляться; не выполняться; төлөвлөгөө тасалдах не выполняться (о плане). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тасалдах</cyrillic>
+      <definition>intr abreißen, aufhören; stocken, unterbrochen werden; тасалдсан холбоо[н] unterbrochene Verbindung; тɵлɵвлɵгɵɵний биелэлт тасалдав die Planerfüllung geriet ins Stocken; ус тасалджзэ das Wasser versiegte</definition>
+      <page>222</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠰᠤᠯᠳᠠᠬᠤ</unicode>
+      <cyrillic>тасалдах</cyrillic>
+      <definition>1. нийлүүлэх залгуулах зүйл хааяа зогсох, болих, тасрах; дэлгүүрт талх тасалдаж ирэх болов;2. тогтмол байнга хийх юмыг орхигдуулах; хичээл тасалдах; дугуйлан тасалдах;3. эс биелэх; төлөвлөгөө тасалдах;4. дундаа үе үе зогсох, тасрах; дуу тасалдах.</definition>
+      <page>524</page>
+    </entry_item>
+  </entries>
+</entry>

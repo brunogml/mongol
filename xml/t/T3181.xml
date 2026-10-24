@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3181">
+  <head>
+    <unicode>ᠳᠠᠨᠵᠢᠺᠠᠷᠳᠠᠺᠥ</unicode>
+    <transcript>denǰigerdekü</transcript>
+    <transcript2>dencigerdegö</transcript2>
+    <cyrillic>дэнжгэрдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T3182</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠡᠨᠵᠢᠭᠡᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>дэнжгэрдэх</cyrillic>
+      <definition>〔动〕变得不稳当的，变得虚悬，变得细高.</definition>
+      <page>474</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠨᠵᠢᠺᠠᠷᠳᠠᠺᠥ</unicode>
+      <cyrillic>ДЭНЖГЭРДЭХ</cyrillic>
+      <definition>становиться тряским, неустойчивым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠨᠵᠢᠭᠡᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>дэнжгэрдэх</cyrillic>
+      <definition>хэтэрхий дэнжгэр болох.</definition>
+      <page>227</page>
+    </entry_item>
+  </entries>
+</entry>

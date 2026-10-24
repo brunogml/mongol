@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N2615">
+  <head>
+    <unicode>ᠨᠥᠮᠥᠷᠢᠳᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>nömüridegülkü</transcript>
+    <transcript2>nömöridegölgö</transcript2>
+    <cyrillic>нөмөрдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>N2613</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠥᠮᠥᠷᠢᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>нөмөрдүүлэх</cyrillic>
+      <definition>〔动〕нөмөрдөх 的使动态.</definition>
+      <page>753</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠥᠮᠥᠷᠢᠳᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>НӨМӨРДҮҮЛЭХ</cyrillic>
+      <definition>нөмөрдөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠥᠮᠦᠷᠢᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>нөмөрдүүлэх</cyrillic>
+      <definition>нөмөрдөхийн үйлдүүлэх хэв.</definition>
+      <page>385</page>
+    </entry_item>
+  </entries>
+</entry>

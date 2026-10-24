@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5559">
+  <head>
+    <unicode>ᠰᠣᠪᠣᠳᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>subudlaγulqu</transcript>
+    <transcript2>sobodlagolgo</transcript2>
+    <cyrillic>сувдлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S5558</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠪᠤᠳᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сувдлуулах</cyrillic>
+      <definition>〔动〕сувдлах 的使动态.</definition>
+      <page>953</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠪᠣᠳᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>СУВДЛУУЛАХ</cyrillic>
+      <definition>сувдлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠪᠤᠳᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сувдлуулах</cyrillic>
+      <definition>сувдлахын үйлдүүлэх хэв.</definition>
+      <page>485</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0378">
+  <head>
+    <unicode>ᠱᠠᠭᠠᠯᠴᠠᠬᠣ</unicode>
+    <transcript>šaγalčaqu</transcript>
+    <transcript2>sagalcago</transcript2>
+    <cyrillic>шагалцах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S0379</ref>
+    <ref>S0381</ref>
+  </derivatives>
+  <see_also>
+    <ref>S0377</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠭᠠᠯᠴᠠᠬᠤ</unicode>
+      <cyrillic>шагалцах</cyrillic>
+      <definition>〔动〕掷骰子.</definition>
+      <page>1607</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠭᠠᠯᠴᠠᠬᠣ</unicode>
+      <cyrillic>ШАГАЛЦАХ</cyrillic>
+      <definition>играть в игральные кости. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шагалцах</cyrillic>
+      <definition>gemeinsam das Knöchelspiel spielen</definition>
+      <page>377</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠭᠠᠯᠴᠠᠬᠤ</unicode>
+      <cyrillic>шагалцах</cyrillic>
+      <definition>шагаа өлгөцөж наадах, шагаацах.</definition>
+      <page>830</page>
+    </entry_item>
+  </entries>
+</entry>

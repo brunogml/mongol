@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5943">
+  <head>
+    <unicode>ᠳᠣᠭᠣᠶᠢᠯᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>duγuyildaγulqu</transcript>
+    <transcript2>dogoyildagolgo</transcript2>
+    <cyrillic>дугуйлдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T5941</ref>
+  </related_to>
+  <see_also>
+    <ref>T5942</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠤᠭᠤᠢᠯᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дугуйлдуулах</cyrillic>
+      <definition>〔动〕дугуйлдах 的使动态.</definition>
+      <page>435</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠭᠣᠶᠢᠯᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДУГУЙЛДУУЛАХ</cyrillic>
+      <definition>дугуйлдах-ын үйлдүүл., катать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠤᠭᠤᠢᠯᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дугуйлдуулах</cyrillic>
+      <definition>дугуйлдахын үйлдүүлэх хэв.</definition>
+      <page>209</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A2144">
+  <head>
+    <unicode>ᠠᠲᠣᠰ</unicode>
+    <transcript>atus</transcript>
+    <transcript2>ados</transcript2>
+    <cyrillic>атас</cyrillic>
+  </head>
+  <variants>
+    <variant type="cyrillic">атис</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠲᠣᠰ</unicode>
+      <cyrillic>АТАС</cyrillic>
+      <definition>бөө. название пяти из девяноста девяти верховных божеств Неба.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠲᠣᠰ</unicode>
+      <cyrillic>АТИС</cyrillic>
+      <definition>: атис атис хийх извиваться, корчиться.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠲᠤᠰ</unicode>
+      <cyrillic>атис</cyrillic>
+      <definition>见 атиганах.</definition>
+      <page>88</page>
+    </entry_item>
+  </entries>
+</entry>

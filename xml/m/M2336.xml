@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M2336">
+  <head>
+    <unicode>ᠮᠥᠺᠥᠰᠳᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>möküsdegülkü</transcript>
+    <transcript2>mögösdegölgö</transcript2>
+    <cyrillic>мөхөсдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>M2335</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠡᠬᠦᠰᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>мөхөсдүүлэх</cyrillic>
+      <definition>〔动〕мөхөсдөх 的使动态.</definition>
+      <page>690</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠥᠺᠥᠰᠳᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>МӨХӨСДҮҮЛЭХ</cyrillic>
+      <definition>мөхөсдөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠡᠬᠦᠰᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>мөхөсдүүлэх</cyrillic>
+      <definition>мөхөсдөхийн үйлдүүлэх хэв, мөхөсдөхөд хүрүүлэх.</definition>
+      <page>347</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0548">
+  <head>
+    <unicode>ᠮᠠᠯᠢᠯᠵᠠᠬᠣ</unicode>
+    <transcript>malilǰaqu</transcript>
+    <transcript2>malilcago</transcript2>
+    <cyrillic>малилзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M0549</ref>
+    <ref>M0551</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠯᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>малилзах</cyrillic>
+      <definition>〔动〕参见 малиганах.</definition>
+      <page>657</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠯᠢᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>МАЛИЛЗАХ</cyrillic>
+      <definition>малиганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠯᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>малилзах</cyrillic>
+      <definition>малигар юмны мальс мальс хийх; баясан сайн ааш гаргаж малилзах.</definition>
+      <page>328</page>
+    </entry_item>
+  </entries>
+</entry>

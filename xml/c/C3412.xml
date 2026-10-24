@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3412">
+  <head>
+    <unicode>ᠴᠥᠥᠷᠠᠺᠠᠷᠳᠠᠺᠥ</unicode>
+    <transcript>čüüregerdekü</transcript>
+    <transcript2>cööregerdegö</transcript2>
+    <cyrillic>цүүргэрдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C3414</ref>
+    <ref>C3411</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠦᠦᠷᠡᠭᠡᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>цүүргэрдэх</cyrillic>
+      <definition>〔动〕变得过于细脆.</definition>
+      <page>1558</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠥᠥᠷᠠᠺᠠᠷᠳᠠᠺᠥ</unicode>
+      <cyrillic>ЦҮҮРГЭРДЭХ</cyrillic>
+      <definition>цүүцгэрдэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цүүргэрдэх</cyrillic>
+      <definition>= цүүцгэрдэх</definition>
+      <page>363</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠦᠦᠷᠡᠭᠡᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>цүүргэрдэх</cyrillic>
+      <definition>хэтэрхий цүүргэр болох.</definition>
+      <page>803</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1128">
+  <head>
+    <unicode>ᠣᠪᠣᠷᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>oburuγulqu</transcript>
+    <transcript2>oborogolgo</transcript2>
+    <cyrillic>овруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U1127</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠪᠣᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>овруулах</cyrillic>
+      <definition>〔动〕оврох 的使动态.</definition>
+      <page>788</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠪᠣᠷᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ОВРУУЛАХ</cyrillic>
+      <definition>оврох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>овруулах</cyrillic>
+      <definition>Kaus von оврох</definition>
+      <page>168</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠪᠣᠷᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>овруулах</cyrillic>
+      <definition>оврохын үйлдүүлэх хэв, ухааруулах.</definition>
+      <page>406</page>
+    </entry_item>
+  </entries>
+</entry>

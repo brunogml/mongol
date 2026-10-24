@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8888">
+  <head>
+    <unicode>ᠲᠥᠮᠫᠢᠨ</unicode>
+    <transcript>tömpin</transcript>
+    <transcript2>dömpin</transcript2>
+    <cyrillic>төмпөн</cyrillic>
+  </head>
+  <see_also>
+    <ref>T8887</ref>
+    <ref>T8889</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠦᠩᠫᠦᠩ</unicode>
+      <cyrillic>төмпөн</cyrillic>
+      <definition>〔名〕铜盆，盆，水盆，洗脸盆：гуулин ~ 黄铜盆；төмөр ~ 铁盆.</definition>
+      <page>1099</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠮᠫᠢᠨ</unicode>
+      <cyrillic>ТӨМПӨН</cyrillic>
+      <definition>таз; мљска; гуулин төмпөн таз из латуни; паалантай төмпөн эмалированный таз; цагаан төмпөн алюмљниевый таз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠦᠩᠫᠧᠩ</unicode>
+      <cyrillic>төмпөн</cyrillic>
+      <definition>юм хийх балдгар хэлбэртэй сав; гуулин төмпөн; сиян төмпөн; төмөр төмпөн.</definition>
+      <page>551</page>
+    </entry_item>
+  </entries>
+</entry>

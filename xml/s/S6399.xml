@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6399">
+  <head>
+    <unicode>ᠰᠣᠸᠠᠮᠫᠠᠨᠳᠠᠬᠣ</unicode>
+    <transcript>sovampendaqu</transcript>
+    <transcript2>sovampendago</transcript2>
+    <cyrillic>сампиндах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6400</ref>
+    <ref>S6401</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠸᠠᠮᠫᠠᠨᠳᠠᠬᠤ</unicode>
+      <cyrillic>сампиндах</cyrillic>
+      <definition>〔动〕打算盘.</definition>
+      <page>907</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠸᠠᠮᠫᠠᠨᠳᠠᠬᠣ</unicode>
+      <cyrillic>САМПИНДАХ</cyrillic>
+      <definition>считать на счётах. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сампиндах</cyrillic>
+      <definition>auf dem Rechenbrett rechnen</definition>
+      <page>193</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠸᠠᠮᠫᠠᠨᠳᠠᠬᠤ</unicode>
+      <cyrillic>сампиндах</cyrillic>
+      <definition>сампингаар тоо бодох.</definition>
+      <page>466</page>
+    </entry_item>
+  </entries>
+</entry>

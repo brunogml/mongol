@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T4433">
+  <head>
+    <transcript>degeretgegülkü</transcript>
+    <transcript2>degeredgegölgö</transcript2>
+    <cyrillic>дээртгүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T4432</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠡᠭᠡᠷᠡᠳᠬᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дээртгүүлэх</cyrillic>
+      <definition>〔动〕дээртгэх 的使动态.</definition>
+      <page>480</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ДЭЭРТГҮҮЛЭХ</cyrillic>
+      <definition>дээртгэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠭᠡᠷᠡᠳᠬᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дээртгүүлэх</cyrillic>
+      <definition>дээртгэхийн үйлдүүлэх хэв.</definition>
+      <page>231</page>
+    </entry_item>
+  </entries>
+</entry>

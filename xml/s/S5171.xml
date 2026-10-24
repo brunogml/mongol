@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S5171">
+  <head>
+    <unicode>ᠰᠣᠬ</unicode>
+    <transcript>soq</transcript>
+    <transcript2>sog</transcript2>
+    <cyrillic>сог</cyrillic>
+  </head><see_also>
+    <ref>S5170</ref>
+  
+    <ref>S5172</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠣᠬ</unicode>
+      <uighur>soq</uighur>
+      <transcript>SOΓ</transcript>
+      <page>723</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠣᠬ ᠵᠠᠶᠠᠭ᠎ᠠ</unicode>
+          <transcript>-- zajaγ-a, </transcript>
+          <definition>Porcupine</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠬ</unicode>
+      <cyrillic>СОГ</cyrillic>
+      <definition>: бог сог хорш. мусор, сор. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0188">
+  <head>
+    <unicode>ᠳᠠᠩᠭᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>dangγalǰaqu</transcript>
+    <transcript2>danggalcago</transcript2>
+    <cyrillic>данхалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T0189</ref>
+  </derivatives>
+  <see_also>
+    <ref>T0187</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠩᠬᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>данхалзах</cyrillic>
+      <definition>〔动〕（大头笨重物）摇晃，转动，移动，摇头晃脑：толгой нь ~ 大头摇晃，摇头晃脑；эвэр нь ~ 大犄角摇晃.</definition>
+      <page>391</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠩᠭᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ДАНХАЛЗАХ</cyrillic>
+      <definition>1) двигаться неуклюже (о чём-л. громоздком, большеголовом); 2) закидывать назад (голову). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>данхалзах</cyrillic>
+      <definition>sich plump od ungefüge bewegen</definition>
+      <page>91</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠩᠬᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>данхалзах</cyrillic>
+      <definition>данхар юмны данхас данхас хөдлөх; толгой нь данхалзах; эвэр нь данхалзах.</definition>
+      <page>188</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5757">
+  <head>
+    <unicode>ᠰᠣᠯᠠᠳᠠᠬᠣ</unicode>
+    <transcript>suladaqu</transcript>
+    <transcript2>soladago</transcript2>
+    <cyrillic>сулдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5758</ref>
+    <ref>S5759</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠯᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>сулдах</cyrillic>
+      <definition>〔动〕①变得空虚，变得空，变得空闲；②松；虚弱，差：тамир ~ 体力变得十分虚弱；уяа нь ~ 系绳太松；дуу чинь ~ж байна 你的声音太弱了；③变得过于价廉，过于随便，轻而易举；④味过淡，太乏味.</definition>
+      <page>959</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠯᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>СУЛДАХ</cyrillic>
+      <definition>быть слишком слабым, ослабеть, рыхлеть; дуу чинь сулдаж байна у тебя слишком слабый голос; нэлээд сулдах ослабевать (от опьянения); хоолны давс сулджээ недосол. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠤᠯᠠᠳᠬᠤ ~ ᠰᠤᠯᠠᠳᠠᠬᠤ</unicode>
+      <definition>s'affaiblir, devenir faible, devenir léger, s'élargir</definition>
+      <page>1398</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠮ ᠤᠨ ᠺᠦᠴᠦᠨ ᠰᠤᠯᠠᠳᠠᠬᠤ ᠪᠤᠶᠤ</unicode>
+          <definition>la médecine perdra son effet</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠡᠶ᠎ᠡ ᠮᠢᠨᠤ ᠰᠤᠯᠠᠳᠠᠮᠤᠢ</unicode>
+          <definition>le corps d'affaiblit; je sens une faibesse dans tout le corps</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сулдах</cyrillic>
+      <definition>zu lose od zu schwach sein</definition>
+      <page>204</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠯᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>сулдах</cyrillic>
+      <definition>хэтэрхий сул болох; уяа нь сулджээ; давс нь сулдах.</definition>
+      <page>488</page>
+    </entry_item>
+  </entries>
+</entry>

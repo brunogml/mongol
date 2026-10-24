@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7364">
+  <head>
+    <unicode>ᠳᠣᠺᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>dokiγulqu</transcript>
+    <transcript2>dogigolgo</transcript2>
+    <cyrillic>дохиулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T7363</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠣᠬᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дохиулах</cyrillic>
+      <definition>〔动〕дохих 的使动态.</definition>
+      <page>426</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠺᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДОХИУЛАХ</cyrillic>
+      <definition>дохих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дохиулах</cyrillic>
+      <definition>Kaus von дохих</definition>
+      <page>97</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠣᠬᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дохиулах</cyrillic>
+      <definition>дохихын үйлдүүлэх хэв.</definition>
+      <page>204</page>
+    </entry_item>
+  </entries>
+</entry>

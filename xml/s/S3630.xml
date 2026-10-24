@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3630">
+  <head>
+    <unicode>ᠰᠢᠪᠰᠢᠭᠣᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sibsiγurdaγulqu</transcript>
+    <transcript2>sibsigordagolgo</transcript2>
+    <cyrillic>шавшуурдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S3629</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠪᠰᠢᠭᠤᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шавшуурдуулах</cyrillic>
+      <definition>〔动〕шавшуурдах 的使动态.</definition>
+      <page>1606</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠪᠰᠢᠭᠣᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАВШУУРДУУЛАХ</cyrillic>
+      <definition>1) шавшуурдах-ын үйлдүүл.; 2) быть избитым (прутом). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠪᠰᠢᠭᠤᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шавшуурдуулах</cyrillic>
+      <definition>шавшуурдахын үйлдүүлэх хэв.</definition>
+      <page>829</page>
+    </entry_item>
+  </entries>
+</entry>

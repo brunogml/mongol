@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K0874">
+  <head>
+    <unicode>ᠺᠠᠯᠺᠠᠵᠠᠺᠥ</unicode>
+    <transcript>kelkeǰekü</transcript>
+    <transcript2>gelgecegö</transcript2>
+    <cyrillic>хэлхэлзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K0875</ref>
+    <ref>K0873</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠯᠬᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>хэлхэлзэх</cyrillic>
+      <definition>〔动〕参见 хэлхэгнэх.</definition>
+      <page>1481</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠯᠺᠠᠵᠠᠺᠥ</unicode>
+      <cyrillic>ХЭЛХЭЛЗЭХ</cyrillic>
+      <definition>хэлхэгнэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хэлхэлзэх</cyrillic>
+      <definition>= хэлхэгнэх</definition>
+      <page>342</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠯᠬᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>хэлхэлзэх</cyrillic>
+      <definition>хэлхгэр юмны хэлхэс хэлхэс хөдлөх.</definition>
+      <page>759</page>
+    </entry_item>
+  </entries>
+</entry>

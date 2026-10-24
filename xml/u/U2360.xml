@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2360">
+  <head>
+    <unicode>ᠣᠶᠢᠯᠠᠩᠬᠠᠶᠢᠲᠣᠬᠣ</unicode>
+    <transcript>uyilangqayituqu</transcript>
+    <transcript2>oyilanggayidogo</transcript2>
+    <cyrillic>уйланхайтах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U2361</ref>
+    <ref>U2362</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠶᠢᠯᠠᠩᠬᠠᠶᠢᠳᠣᠬᠤ</unicode>
+      <definition>s'enfler (enflure avec une pustule)</definition>
+      <page>332</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠶᠢᠯᠠᠩᠬᠠᠶᠢᠲᠣᠬᠣ</unicode>
+      <cyrillic>УЙЛАНХАЙТАХ</cyrillic>
+      <definition>I образовываться, появляться (о водянистых пузырьках в брюшной полости животных); вспухнуть пузырём, появляться (о пузырях). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠶᠢᠯᠠᠩᠬᠠᠶᠢᠲᠣᠬᠣ</unicode>
+      <cyrillic>УЙЛАНХАЙТАХ</cyrillic>
+      <definition>II говорљть сквозь слёзы. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠬᠢᠯᠠᠩᠬᠠᠢᠲᠤᠬᠤ</unicode>
+      <cyrillic>уйланхайтах /1</cyrillic>
+      <definition>уйлагнаж ярих.</definition>
+      <page>586</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠢᠯᠠᠩᠬᠠᠢᠲᠤᠬᠤ</unicode>
+      <cyrillic>уйланхайтах /2</cyrillic>
+      <definition>1. уйланхай бий болох;2. уйланхай мэт цөврүүтэх.</definition>
+      <page>586</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>U2358</ref>
+  </related_to>
+</entry>

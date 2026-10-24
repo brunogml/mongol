@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7230">
+  <head>
+    <unicode>ᠲᠣᠮᠪᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>tumbalǰaqu</transcript>
+    <transcript2>dombalcago</transcript2>
+    <cyrillic>тумбалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T7232</ref>
+    <ref>T7233</ref>
+  </derivatives>
+  <see_also>
+    <ref>T7231</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠮᠪᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>тумбалзах</cyrillic>
+      <definition>〔动〕参见 тумбаганах.</definition>
+      <page>1112</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠮᠪᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ТУМБАЛЗАХ</cyrillic>
+      <definition>тумбаганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тумбалзах</cyrillic>
+      <definition>= тумбаганах</definition>
+      <page>239</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠮᠪᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>тумбалзах</cyrillic>
+      <definition>тумбагар юмны байн байн хөдлөх.</definition>
+      <page>556</page>
+    </entry_item>
+  </entries>
+</entry>

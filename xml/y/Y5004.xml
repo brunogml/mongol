@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y5004">
+  <head>
+    <unicode>ᠶᠥᠥ</unicode>
+    <transcript>yüü</transcript>
+    <transcript2>yöö</transcript2>
+    <cyrillic>юү</cyrillic>
+  </head>
+  <see_also>
+    <ref>Y5005</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠶᠥᠥ</unicode>
+      <uighur>yüü</uighur>
+      <cyrillic>юү</cyrillic>
+      <transcript>JYY</transcript>
+      <definition>Interrogative particle (used instead of yy).</definition>
+      <page>437</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>юү</cyrillic>
+      <definition>Fragepartikel nach langen Vokalen und Diphthongen der vorderen Reihe: тэр ширээ ~? ist das ein Tisch?; энэ их үнэтэй ~? ist das sehr teuer?</definition>
+      <page>409</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠦᠦ</unicode>
+      <cyrillic>юү /2</cyrillic>
+      <definition>юу /2 эм эгшигт үгэнд бичнэ.</definition>
+      <page>896</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B5084">
+  <head>
+    <unicode>ᠪᠥᠷᠺᠥᠺᠥᠯ</unicode>
+    <transcript>bürkügül</transcript>
+    <transcript2>börgögöl</transcript2>
+    <cyrillic>бүрхүүл</cyrillic>
+  </head>
+  <related_to>
+    <ref>B5068</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠥᠷᠺᠥᠺᠥᠯ</unicode>
+      <uighur>bürkügül</uighur>
+      <cyrillic>бүрхүүл</cyrillic>
+      <transcript>BYRKYGYL</transcript>
+      <definition>[=byrkegyl, byrkyl] n, Cover, covering, lid; veil; case; awning on a boat or cart; mosquito netting.</definition>
+      <page>150</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠢᠭᠤᠷ ᠤᠨ ᠪᠥᠷᠺᠥᠺᠥᠯ</unicode>
+          <transcript>niγur un --</transcript>
+          <definition> Veil for the face.</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠩ ᠤᠨ ᠪᠥᠷᠺᠥᠺᠥᠯ</unicode>
+          <transcript>deng yn --</transcript>
+          <definition> Lamp shade.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠦᠷᠺᠦᠭᠦᠯ</unicode>
+      <definition>couverture, le dessus, couvercle, housse, chabraque; masque; tillac, etc.</definition>
+      <page>1264</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠷᠤ ᠎ᠶᠤᠨ ᠪᠦᠷᠺᠦᠭᠦᠯ</unicode>
+          <definition>rideau du lit</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠪᠥᠷᠺᠥᠺᠥᠯ</unicode>
+      <uighur>bürkügül</uighur>
+      <definition>die Verdeckung, das Verdeck eines Schiffes oder Wagens, eine Gesichtsmaske.</definition>
+      <page>123</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠪᠥᠷᠺᠥᠺᠥᠯ</unicode>
+      <uighur>bürkügül</uighur>
+      <definition>n. A cover. Cover, a hood (for a carriage or a boat). A mask for the face.</definition>
+      <page>489</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠦᠷᠬᠦᠭᠦᠯ</unicode>
+      <cyrillic>бүрхүүл</cyrillic>
+      <definition>〔名〕遮盖物，覆盖物；覆盖层；罩子，篷子；外壳；膜：дэнгийн ~ 灯罩，灯伞；моторын ~ 发动机外罩；~ сарьс 复膜，被复膜；~үс 覆盖毛发；~ хальс 盖膜；~ үрт ургамал 〈植〉被子植物；~ түртэн 〈植〉被子植物门；~т булчирхай 卵壳腺；~тэй тэрэг 篷车，轿车；~тэй амьтан 〈动〉表原动物；~ийн атираа 盖层褶皱；~ийн ялгал 膜鉴别.</definition>
+      <page>231</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠷᠺᠥᠺᠥᠯ</unicode>
+      <cyrillic>БҮРХҮҮЛ</cyrillic>
+      <definition>покров; покрывало, покрышка, покрытие, чехол (у седла); навес, тент; сетка на лицо и голову (для защиты от комаров); дэнгийн бүрхүүл абажур; моторын бүрхүүл капот; нүүрийн бүрхүүл покрывало на лицо, чадра.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠦᠷᠬᠦᠭᠦᠯ᠎ᠦᠭᠡᠢᠲᠡᠨ</unicode>
+      <cyrillic>бүрхүүлгүйтэн</cyrillic>
+      <definition>〔名〕〈生〉非衣原体.</definition>
+      <page>232</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бүрхүүл</cyrillic>
+      <definition>Bedeckung f, Hülle f; Kapsel f; Zahn Krone f; дэнгийн ~ Lampenschirm m</definition>
+      <page>66</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠦᠷᠬᠦᠭᠦᠯ</unicode>
+      <cyrillic>бүрхүүл</cyrillic>
+      <definition>бүтээж халхалх зүйл: моторын бүрхүүл: дэнгийн бүрхүүл: бүрхүүлтэй тэрэг.</definition>
+      <page>118</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>B5085</ref>
+    <ref>B5086</ref>
+    <ref>X0425</ref>
+    <ref>X0426</ref>
+    <ref>X0427</ref>
+  </derivatives>
+</entry>

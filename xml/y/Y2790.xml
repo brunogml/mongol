@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y2790">
+  <head>
+    <unicode>ᠵᠢᠪᠺᠥ</unicode>
+    <transcript>ǰibkü</transcript>
+    <transcript2>yibgö</transcript2>
+    <cyrillic>живэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y2778</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠢᠪᠺᠥ</unicode>
+      <uighur>ǰibkü</uighur>
+      <cyrillic>живэх</cyrillic>
+      <transcript>ZIB-</transcript>
+      <definition>v.i. To sink. Cf. cib-</definition>
+      <page>1047</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠢᠪᠵᠦ ᠦᠺᠦᠺᠦ</unicode>
+          <transcript>--zy ykyky</transcript>
+          <definition> To drown</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠩᠭᠤᠴᠠ ᠵᠢᠪᠺᠥ</unicode>
+          <transcript>ongγuca --ky</transcript>
+          <definition> For a boat to sink</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠪᠬᠦ</unicode>
+      <cyrillic>живэх</cyrillic>
+      <definition>〔动〕沉没，淹没；潜入，潜泳；溺死：мод усанд ~гүй 木头在水中不沉没；живж үхэх 俺死，溺死；онгоц ~ 船沉没.</definition>
+      <page>504</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠪᠺᠥ</unicode>
+      <cyrillic>ЖИВЭХ</cyrillic>
+      <definition>I 1. тонуть, утонуть, затонуть, утопиться, погружаться в воду; ёроолд живэх отправить на дно, пускать ко дну; хөл алдан живэх идти ко дну; галт онгоц живэв пароход затонул; нулимсандаа живэх вґплакать все глаза; сураггүй живэх идти ко дну как камень; живж үхэгч утопленник; живж үхэх утопиться, утонуть; мод усанд живэхгүй дерево не тонет в воде; 2. живэхүй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠪᠺᠥ</unicode>
+      <cyrillic>ЖИВЭХ</cyrillic>
+      <definition>II: живэх тоосон тоо. десять в тридцать девятой степени; их живэх тоосон тоо. десять в сороковой степени. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠪᠺᠥ</unicode>
+      <cyrillic>ЖИВЭХҮЙ</cyrillic>
+      <definition>утопление. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>живэх</cyrillic>
+      <definition>untergehen; sinken, versinken (in -д); живж үхэх ertrinken</definition>
+      <page>109</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠪᠬᠦ</unicode>
+      <cyrillic>живэх</cyrillic>
+      <definition>усанд хөвөхгүй доош далд орох; хүнд юм живэхээс биш, хөнгөн юм живэхгүй; онгоц живэх; чулуу живэх.</definition>
+      <page>243</page>
+    </entry_item>
+  </entries>
+</entry>

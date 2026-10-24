@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5322">
+  <head>
+    <unicode>ᠲᠣᠨᠲᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tuntalǰaγulqu</transcript>
+    <transcript2>dondalcagolgo</transcript2>
+    <cyrillic>тунталзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T5320</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠨᠲᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тунталзуулах</cyrillic>
+      <definition>〔动〕тунталзах 的使动态.</definition>
+      <page>1114</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠨᠲᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТУНТАЛЗУУЛАХ</cyrillic>
+      <definition>тунталзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠨᠲᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тунталзуулах</cyrillic>
+      <definition>тунталзахын үйлдүүлэх хэв.</definition>
+      <page>557</page>
+    </entry_item>
+  </entries>
+</entry>

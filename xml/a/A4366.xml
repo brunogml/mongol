@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A4366">
+  <head>
+    <unicode>ᠠᠷᠲᠣ</unicode>
+    <transcript>artu</transcript>
+    <transcript2>ardo</transcript2>
+    <cyrillic>арт</cyrillic>
+  </head><see_also>
+    <ref>A4351</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠷᠲᠣ</unicode>
+      <uighur>artu</uighur>
+      <cyrillic>арт</cyrillic>
+      <transcript>ARTU</transcript>
+      <definition>See artai</definition>
+      <page>54</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠷᠲᠠᠢ ~ ᠠᠷᠲᠤ</unicode>
+      <definition>rayé, façonné, tissu de fleurs, parsemé de fleurs, couvert de fleurs.</definition>
+      <page>161</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠠᠷ ᠠᠨᠤ ᠺᠦᠨ ᠠᠷᠳᠤ</unicode>
+          <definition>mains avec des traits marqués.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

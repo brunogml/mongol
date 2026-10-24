@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q6017">
+  <head>
+    <unicode>ᠬᠣᠮᠣᠬᠠᠶᠢᠷᠬᠠᠬᠣ</unicode>
+    <transcript>qomuqayirqaqu</transcript>
+    <transcript2>gomogayirgago</transcript2>
+    <cyrillic>хомхойрхох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q6018</ref>
+    <ref>Q6019</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠣᠮᠣᠬᠠᠢᠷᠬᠠᠬᠤ</unicode>
+      <cyrillic>хомхойрхох</cyrillic>
+      <definition>〔动〕贪得无厌，贪婪，贪欲，贪心，贪馋；吝啬.</definition>
+      <page>1360</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠮᠣᠬᠠᠶᠢᠷᠬᠠᠬᠣ</unicode>
+      <cyrillic>ХОМХОЙРХОХ</cyrillic>
+      <definition>хомхойрох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хомхойрхох</cyrillic>
+      <definition>= хомхойрох</definition>
+      <page>309</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠮᠣᠬᠠᠢᠷᠬᠠᠬᠤ</unicode>
+      <cyrillic>хомхойрхох</cyrillic>
+      <definition>хомхойрох.</definition>
+      <page>689</page>
+    </entry_item>
+  </entries>
+</entry>

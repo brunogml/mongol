@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5840">
+  <head>
+    <unicode>ᠱᠣᠯᠣᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>šuluγanaqu</transcript>
+    <transcript2>sologanago</transcript2>
+    <cyrillic>шулганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5841</ref>
+    <ref>S5846</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠤᠯᠤᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>шулганах</cyrillic>
+      <definition>〔动〕不清晰地说，含糊地说，口齿不清，（小儿）咿呀学语.</definition>
+      <page>1658</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠯᠣᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ШУЛГАНАХ</cyrillic>
+      <definition>1. 1) лепетать (о детях); 2) щебетать (о птицах); хүүхэд шулганана ребёнок лепечет; 3) страдать косноязычием, быть косноязычным; 2. шулганахуй-г үз., шувуу шулганах птичий гомон. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠯᠣᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ШУЛГАНАХУЙ</cyrillic>
+      <definition>лепет; щебет, щебетание; гомон. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шулганах</cyrillic>
+      <definition>lallen, plappern</definition>
+      <page>391</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠤᠯᠤᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>шулганах</cyrillic>
+      <definition>шулга байдлаар ярих; юү хэлж байгаа нь мэдэгдэхгүй шулганаж байв.</definition>
+      <page>858</page>
+    </entry_item>
+  </entries>
+</entry>

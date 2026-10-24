@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2310">
+  <head>
+    <unicode>ᠴᠢᠷᠠᠶᠢᠬᠣ</unicode>
+    <transcript>čirayiqu</transcript>
+    <transcript2>cirayigo</transcript2>
+    <cyrillic>чарайх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C2319</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠷᠠᠢᠬᠤ</unicode>
+      <cyrillic>чарайх</cyrillic>
+      <definition>〔动〕参见 чармайх.</definition>
+      <page>1580</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠷᠠᠶᠢᠬᠣ</unicode>
+      <cyrillic>ЧАРАЙХ</cyrillic>
+      <definition>напрягаться, стараться; чармайх-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чарайх</cyrillic>
+      <definition>= чармайх</definition>
+      <page>369</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠷᠠᠢᠬᠤ</unicode>
+      <cyrillic>чарайх</cyrillic>
+      <definition>мэрийх чармайх, улайх; ажилд чарайж ажиллах; уйлахгүй гэж чарайх; ноцолдох гэж чарайх.</definition>
+      <page>814</page>
+    </entry_item>
+  </entries>
+</entry>

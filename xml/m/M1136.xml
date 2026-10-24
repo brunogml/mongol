@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1136">
+  <head>
+    <unicode>ᠮᠠᠯᠵᠠᠶᠢᠺᠥ</unicode>
+    <transcript>melǰeyikü</transcript>
+    <transcript2>melceyigö</transcript2>
+    <cyrillic>мэлзийх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M1135</ref>
+  </derivatives>
+  <see_also>
+    <ref>M1136a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠡᠯᠵᠢᠢᠬᠦ</unicode>
+      <cyrillic>мэлзийх</cyrillic>
+      <definition>〔动〕前额变得很宽；变成秃顶.</definition>
+      <page>704</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠯᠵᠠᠶᠢᠺᠥ</unicode>
+      <cyrillic>МЭЛЗИЙХ</cyrillic>
+      <definition>лысеть, плешиветь. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠡᠯᠵᠡᠢᠬᠦ</unicode>
+      <cyrillic>мэлзийх</cyrillic>
+      <definition>мэлзэн болох, халзан болох.</definition>
+      <page>354</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0865">
+  <head>
+    <unicode>ᠪᠠᠯᠭᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>balγuγulqu</transcript>
+    <transcript2>balgogolgo</transcript2>
+    <cyrillic>балгуулах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0866</ref>
+  </derivatives>
+  <related_to>
+    <ref>B0864</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠯᠭᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>балгуулах</cyrillic>
+      <definition>〔动〕балгах 的使动态.</definition>
+      <page>122</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠯᠭᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БАЛГУУЛАХ</cyrillic>
+      <definition>балгах-ын үйлдүүл., дать глотать, позволять брать в рот глоток жидкости. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠯᠭᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>балгуулах</cyrillic>
+      <definition>балгахын үйлдүүлэх хэв; бага сага юм уулгах; цай балгуулах.</definition>
+      <page>71</page>
+    </entry_item>
+  </entries>
+</entry>

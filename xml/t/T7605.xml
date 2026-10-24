@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7605">
+  <head>
+    <unicode>ᠲᠣᠷᠠᠩᠬᠠᠶᠢᠳᠠᠬᠣ</unicode>
+    <transcript>turangqayidaqu</transcript>
+    <transcript2>doranggayidago</transcript2>
+    <cyrillic>туранхайдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T7607</ref>
+    <ref>T7608</ref>
+  </derivatives>
+  <see_also>
+    <ref>T7609</ref>
+    <ref>T7606</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠷᠠᠩᠬᠠᠶᠢᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТУРАНХАЙДАХ</cyrillic>
+      <definition>быть слљшком тощим, худым; турхандах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠷᠠᠩᠬᠠᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>туранхайдах</cyrillic>
+      <definition>хэтэрхий туранхай болох.</definition>
+      <page>558</page>
+    </entry_item>
+  </entries>
+</entry>

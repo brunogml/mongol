@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K3520">
+  <head>
+    <unicode>ᠺᠥᠪᠰᠥᠺᠡᠷᠳᠡᠺᠥ</unicode>
+    <transcript>köbsügerdekü</transcript>
+    <transcript2>göbsögerdegö</transcript2>
+    <cyrillic>хөвсгөрдөх</cyrillic>
+  </head><derivatives>
+    <ref>K3522</ref>
+  
+    <ref>K3519</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠪᠰᠥᠭᠡᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>хөвсгөрдөх</cyrillic>
+      <definition>〔动〕松软，变得暄软，变得疏松.</definition>
+      <page>1385</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠪᠰᠥᠺᠡᠷᠳᠡᠺᠥ</unicode>
+      <cyrillic>ХӨВСГӨРДӨХ</cyrillic>
+      <definition>быть слишком рыхлым, чем надо. </definition>
+      <page>0</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>хөвсгөрдөх</cyrillic>
+    <definition>zu bröcklig od zu locker sein</definition>
+    <page>316</page>
+  </entry_item>
+  </entries>
+</entry>

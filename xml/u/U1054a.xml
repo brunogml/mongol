@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="U1054a">
+  <head>
+    <unicode>ᠣᠪᠣᠨ</unicode>
+    <transcript>ubun</transcript>
+    <transcript2>obon</transcript2>
+  </head><see_also>
+    <ref>U1054</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠪᠣᠨ</unicode>
+      <uighur>ubun</uighur>
+      <cyrillic>уван</cyrillic>
+      <transcript>UBUN</transcript>
+      <page>859</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠪᠣᠨ ᠴᠤᠪᠤᠨ</unicode>
+          <transcript>-- cubun</transcript>
+          <definition> In separate groups; one after another; little by little.</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠪᠣᠨ ᠴᠤᠪᠤᠨ ᠶᠠᠪᠤᠬᠤ</unicode>
+          <transcript>-- cubun jabuxu</transcript>
+          <definition> To march in groups.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

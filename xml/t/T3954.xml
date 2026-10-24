@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3954">
+  <head>
+    <unicode>ᠳᠠᠯᠪᠠᠺᠠᠷᠳᠠᠺᠥ</unicode>
+    <transcript>delbegerdekü</transcript>
+    <transcript2>delbegerdegö</transcript2>
+    <cyrillic>дэлбэгэрдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T3955</ref>
+    <ref>T3953</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠡᠯᠪᠡᠭᠡᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>дэлбэгэрдэх</cyrillic>
+      <definition>〔动〕变得广阔，变得宽大，展开.</definition>
+      <page>468</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠯᠪᠠᠺᠠᠷᠳᠠᠺᠥ</unicode>
+      <cyrillic>ДЭЛБЭГЭРДЭХ</cyrillic>
+      <definition>быть слишком широким, растопыренным (об ушах), неуклюжим, мешковатым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠯᠪᠡᠭᠡᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>дэлбэгэрдэх</cyrillic>
+      <definition>хэтэрхий дэлбэгэр байх.</definition>
+      <page>225</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3990">
+  <head>
+    <unicode>ᠰᠢᠯᠪᠣᠯᠬᠣ</unicode>
+    <transcript>silbulqu</transcript>
+    <transcript2>silbolgo</transcript2>
+    <cyrillic>шалбалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3992</ref>
+  </derivatives>
+  <see_also>
+    <ref>S0901</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠯᠪᠤᠯᠬᠤ</unicode>
+      <cyrillic>шалбалах</cyrillic>
+      <definition>〔动〕（蹭、擦、磨、剐、抓、挠、划）破；抓伤，搔破；剥落，剥掉.</definition>
+      <page>1611</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠯᠪᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАЛБАЛАХ</cyrillic>
+      <definition>I шавхрах II 1)-ыг үз., оцарапать, содрать кожу. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠯᠪᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШУЛБАЛАХ</cyrillic>
+      <definition>оцарапать, сдирать (кожу). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠯᠪᠤᠯᠬᠤ</unicode>
+      <cyrillic>шалбалах</cyrillic>
+      <definition>шалбарахад хүрүүлэх, шалбаруулах.</definition>
+      <page>831</page>
+    </entry_item>
+  </entries>
+</entry>

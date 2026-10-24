@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T0561">
+  <head>
+    <unicode>ᠲᠠᠭᠠᠴᠢᠬᠣ</unicode>
+    <transcript>taγačiqu</transcript>
+    <transcript2>dagacigo</transcript2>
+    <cyrillic>таачих</cyrillic>
+  </head><derivatives>
+    <ref>T0562</ref>
+  
+    <ref>T0563</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠭᠠᠴᠢᠬᠣ</unicode>
+      <uighur>taγačiqu</uighur>
+      <cyrillic>таачих</cyrillic>
+      <transcript>TAΓACI-</transcript>
+      <definition>[= taγaca-] v.i. To conform, correspond; to agree</definition>
+      <page>763</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠣᠺᠢᠷᠠᠬᠤ ᠲᠠᠭᠠᠴᠢᠬᠣ</unicode>
+          <transcript>tokiraxu --xu</transcript>
+          <definition> To correspond to, fit in with.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠭᠠᠴᠢᠬᠤ</unicode>
+      <definition>savoir le prix des choses, apprécier les choses, évaluer, faire l'évaluation de quelque marchandise.</definition>
+      <page>1580</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠭᠠᠴᠢᠬᠣ</unicode>
+      <uighur>daγačiqu</uighur>
+      <definition>schätzen, abschätzen (eine Waare u, s, w.)</definition>
+      <page>231</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠭᠠᠴᠢᠬᠣ</unicode>
+      <uighur>daγačiqu</uighur>
+      <definition>To impose taxes on. To fix the price of</definition>
+      <page>909</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠭᠠᠴᠢᠬᠤ</unicode>
+      <cyrillic>таачих</cyrillic>
+      <definition>〔动〕таах 的多次体.</definition>
+      <page>1003</page>
+    </entry_item>
+  </entries>
+</entry>

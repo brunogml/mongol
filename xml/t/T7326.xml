@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7326">
+  <head>
+    <unicode>ᠲᠣᠵᠢᠯᠵᠠᠬᠣ</unicode>
+    <transcript>toǰilǰaqu</transcript>
+    <transcript2>docilcago</transcript2>
+    <cyrillic>тожилзох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T7327</ref>
+    <ref>T7328</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠵᠢᠯᠵᠠᠬᠣ</unicode>
+      <uighur>toǰilǰaqu</uighur>
+      <cyrillic>тожилзох</cyrillic>
+      <transcript>TOZILZA-</transcript>
+      <definition>Same as tozingna-.</definition>
+      <page>830</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠵᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>тожилзох</cyrillic>
+      <definition>〔动〕参见 тожгонох.</definition>
+      <page>1061</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠵᠢᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ТОЖИЛЗОХ</cyrillic>
+      <definition>тожгонох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тожилзох</cyrillic>
+      <definition>= тожигнох</definition>
+      <page>227</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠵᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>тожилзох</cyrillic>
+      <definition>тожгор юмны байн байн хөдлөх.</definition>
+      <page>535</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2361">
+  <head>
+    <unicode>ᠴᠢᠷᠳᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>čirdaγanaqu</transcript>
+    <transcript2>cirdaganago</transcript2>
+    <cyrillic>чардганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C2362</ref>
+    <ref>C2363</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠷᠳᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>чардганах</cyrillic>
+      <definition>〔动〕参见 чардалзах.</definition>
+      <page>1581</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠷᠳᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЧАРДГАНАХ</cyrillic>
+      <definition>чардалзах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠷᠳᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>чардганах</cyrillic>
+      <definition>чардгар юмны үргэлжлэн хөдлөх.</definition>
+      <page>815</page>
+    </entry_item>
+  </entries>
+</entry>

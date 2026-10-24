@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6411">
+  <head>
+    <unicode>ᠱᠥᠢ</unicode>
+    <transcript>šüi</transcript>
+    <transcript2>söi</transcript2>
+    <cyrillic>шүй</cyrillic>
+  </head>
+  <see_also>
+    <ref>S6410</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠱᠥᠢ</unicode>
+      <uighur>šöi</uighur>
+      <cyrillic>сүй</cyrillic>
+      <transcript>ŠYI</transcript>
+      <definition>[Ch. shui] n. Tax, duty</definition>
+      <page>759</page>
+      <examples>
+        <example>
+          <unicode>ᠱᠥᠢ ᠭᠠᠶᠢᠯᠢ</unicode>
+          <transcript>-- γaili </transcript>
+          <definition>Customs, duties</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠦᠢ</unicode>
+      <cyrillic>шүй</cyrillic>
+      <definition>〔名〕税，租债.</definition>
+      <page>1666</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠥᠢ</unicode>
+      <cyrillic>ШҮЙ</cyrillic>
+      <definition>гааль-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠦᠢ</unicode>
+      <cyrillic>шүй</cyrillic>
+      <definition>гааль. түрээс; шүй хураах.</definition>
+      <page>862</page>
+    </entry_item>
+  </entries>
+</entry>

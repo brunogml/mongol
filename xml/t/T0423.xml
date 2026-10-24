@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0423">
+  <head>
+    <unicode>ᠲᠠᠭᠠᠪᠣᠷᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>taγaburilaγulqu</transcript>
+    <transcript2>dagaborilagolgo</transcript2>
+    <cyrillic>тааварлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T0421</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠭᠠᠪᠤᠷᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тааварлуулах</cyrillic>
+      <definition>〔动〕тааварлах 的使动态.</definition>
+      <page>1000</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠭᠠᠪᠣᠷᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТААВАРЛУУЛАХ</cyrillic>
+      <definition>тааварлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тааварлуулах</cyrillic>
+      <definition>Kaus von тааварлах</definition>
+      <page>213</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠭᠠᠪᠤᠷᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тааварлуулах</cyrillic>
+      <definition>тааварлахын үйлдүүлэх хэв.</definition>
+      <page>508</page>
+    </entry_item>
+  </entries>
+</entry>

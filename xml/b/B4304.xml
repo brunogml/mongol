@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4304">
+  <head>
+    <unicode>ᠪᠥᠳᠠᠺᠢᠷᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>büdegiregülkü</transcript>
+    <transcript2>bödegiregölgö</transcript2>
+    <cyrillic>бүдгэрүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>B4302</ref>
+  </related_to>
+  <variants>
+    <variant type="cyrillic">бүдэгрүүлэх</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠦᠳᠡᠭᠢᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бүдгэрүүлэх</cyrillic>
+      <definition>〔动〕бүдгэрэх 的使动态.</definition>
+      <page>223</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠳᠠᠺᠢᠷᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>БҮДГЭРҮҮЛЭХ</cyrillic>
+      <definition>бүдгэрэх-ийн үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠳᠠᠺᠢᠷᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>БҮДЭГРҮҮЛЭХ</cyrillic>
+      <definition>бүдэгрэх-ийн үйлдүүл., делать неясным, неразборчивым; тускнеть, мутить; гэрэл бүдэгрүүлэх делать свет тусклым.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠦᠳᠡᠭᠢᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бүдэгрүүлэх</cyrillic>
+      <definition>〔动〕бүдэгрэх 的使动态.</definition>
+      <page>224</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠦᠳᠡᠭᠢᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бүдэгрүүлэх</cyrillic>
+      <definition>бүдэгрэхийн үйлдүүлэх хэв , тод бүгдийг бүдгэрүүлэх.</definition>
+      <page>115</page>
+    </entry_item>
+  </entries>
+</entry>

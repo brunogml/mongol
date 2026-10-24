@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q7198">
+  <head>
+    <unicode>гортигдох</unicode>
+    <transcript>γortiγdaqu</transcript>
+    <transcript2>gordigdago</transcript2>
+    <cyrillic>гортигдох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q7199</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠣᠷᠲᠢᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>гортигдох</cyrillic>
+      <definition>〔动〕用圆规画图.</definition>
+      <page>311</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>гортигдох</unicode>
+      <cyrillic>ГОРТИГДОХ</cyrillic>
+      <definition>гортиглох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠣᠷᠲᠢᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>гортигдох</cyrillic>
+      <definition>гортигоор зураг зурах.</definition>
+      <page>152</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1661">
+  <head>
+    <unicode>ᠬᠠᠲᠠᠮᠵᠢᠯᠠᠬᠣ</unicode>
+    <transcript>qatamǰilaqu</transcript>
+    <transcript2>gadamcilago</transcript2>
+    <cyrillic>хатамжлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q1662</ref>
+    <ref>Q1663</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q1660</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠲᠠᠮᠵᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>хатамжлах</cyrillic>
+      <definition>〔动〕参见 хатуужих.</definition>
+      <page>1323</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠲᠠᠮᠵᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХАТАМЖЛАХ</cyrillic>
+      <definition>хатуужих-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠲᠠᠮᠵᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>хатамжлах</cyrillic>
+      <definition>хатуужин чармайж тэсвэрлэх, хатамжлах.</definition>
+      <page>669</page>
+    </entry_item>
+  </entries>
+</entry>

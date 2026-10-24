@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1170">
+  <head>
+    <unicode>ᠴᠠᠺᠠᠵᠢᠲᠥᠺᠥ</unicode>
+    <transcript>čegeǰitükü</transcript>
+    <transcript2>cegecidögö</transcript2>
+    <cyrillic>цээжтэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1171</ref>
+    <ref>C1169</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠭᠡᠵᠢᠲᠦᠬᠦ</unicode>
+      <cyrillic>цээжтэх</cyrillic>
+      <definition>〔动〕〈医〉（小牲畜）患慢性支气管炎，患痰病.</definition>
+      <page>1570</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠺᠠᠵᠢᠲᠥᠺᠥ</unicode>
+      <cyrillic>ЦЭЭЖТЭХ</cyrillic>
+      <definition>заболеть катаром, бронхитом (о скоте). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠭᠡᠵᠢᠲᠦᠬᠦ</unicode>
+      <cyrillic>цээжтэх</cyrillic>
+      <definition>малд цээж өвчин тусах.</definition>
+      <page>809</page>
+    </entry_item>
+  </entries>
+</entry>

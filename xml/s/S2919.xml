@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2919">
+  <head>
+    <unicode>ᠰᠠᠷᠺᠠᠶᠢᠯᠠᠺᠴᠢ</unicode>
+    <transcript>sergeyilegči</transcript>
+    <transcript2>sergeyilegci</transcript2>
+    <cyrillic>сэргийлэгч</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠷᠭᠡᠢᠯᠡᠭᠴᠢ</unicode>
+      <cyrillic>сэргийлэгч</cyrillic>
+      <definition>〔名〕警卫，民警，警察.</definition>
+      <page>991</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠷᠺᠠᠶᠢᠯᠠᠺᠴᠢ</unicode>
+      <cyrillic>СЭРГИЙЛЭГЧ</cyrillic>
+      <definition>1) хуучир. дозорный (в караульной службе); 2) милиционер; полицейский; хэсгийн сэргийлэгч участковый милиционер. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠷᠺᠠᠶᠢᠯᠠᠺᠴᠢ</unicode>
+      <cyrillic>СЭРГИЙЛЭГЧИЙН</cyrillic>
+      <definition>сэргийлэгч-ийн харьяал., милицейский; сэргийлэгчийн шүгэл милицейский свисток. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сэргийлэгч,</cyrillic>
+      <definition>auch цагдан ~ Polizist m</definition>
+      <page>211</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠷᠭᠡᠢᠯᠡᠭᠴᠢ</unicode>
+      <cyrillic>сэргийлэгч</cyrillic>
+      <definition>сэргийлэх албан үүрэг гүйцэтгэгч; манай сэргийлэгчид.</definition>
+      <page>504</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S2917</ref>
+  </related_to>
+</entry>

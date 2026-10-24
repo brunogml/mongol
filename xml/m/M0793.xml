@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="M0793">
+  <head>
+    <unicode>ᠮᠠᠷᠭᠣᠰᠢ</unicode>
+    <transcript>marγusi</transcript>
+    <transcript2>margosi</transcript2>
+    <cyrillic>маргаш</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠮᠠᠷᠭᠣᠰᠢ</unicode>
+      <uighur>marγusi</uighur>
+      <cyrillic>маргаш</cyrillic>
+      <transcript>MARΓUSI</transcript>
+      <page>529</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠠᠷᠭᠣᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Indisputable; without doubt</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠷᠭᠣᠰᠢ</unicode>
+      <cyrillic>МАРГАШГҮЙ</cyrillic>
+      <definition>маргаангүй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6752">
+  <head>
+    <unicode>ᠲᠣᠲᠬᠠᠷᠳᠠᠬᠣ</unicode>
+    <transcript>totqardaqu</transcript>
+    <transcript2>dodgardago</transcript2>
+    <cyrillic>тотгордох</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠳᠬᠠᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>тотгордох</cyrillic>
+      <definition>〔动〕阻碍，设障碍，羁绊，放置障碍物.</definition>
+      <page>1085</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠲᠬᠠᠷᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТОТГОРДОХ</cyrillic>
+      <definition>служљть помехой, препятствовать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠳᠬᠠᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>тотгордох</cyrillic>
+      <definition>тотгор хийх, тотгор тавих.</definition>
+      <page>546</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T6749</ref>
+  </related_to>
+  <derivatives>
+    <ref>T6752a</ref>
+  </derivatives>
+</entry>

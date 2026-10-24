@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I1219">
+  <head>
+    <unicode>ᠢᠷᠪᠠᠶᠢᠯᠭᠠᠬᠣ</unicode>
+    <transcript>irbayilγaqu</transcript>
+    <transcript2>irbayilgago</transcript2>
+    <cyrillic>ярвайлгах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠷᠪᠠᠢᠯᠭᠠᠬᠤ</unicode>
+      <cyrillic>ярвайлгах</cyrillic>
+      <definition>〔动〕ярвайх 的使动态.</definition>
+      <page>1757</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠷᠪᠠᠶᠢᠯᠭᠠᠬᠣ</unicode>
+      <cyrillic>ЯРВАЙЛГАХ</cyrillic>
+      <definition>ярвайх-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>ярвайлгах</cyrillic>
+      <definition>1. Kaus von ярвайх
+2. Gesicht verziehen, in Falten legen</definition>
+      <page>415</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠷᠪᠠᠢᠯᠭᠠᠬᠤ</unicode>
+      <cyrillic>ярвайлгах</cyrillic>
+      <definition>ярвайхад хүрүүлэх.</definition>
+      <page>909</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>I1217</ref>
+  </related_to>
+</entry>

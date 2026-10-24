@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1806">
+  <head>
+    <unicode>ᠮᠣᠰᠢᠢᠬᠣ</unicode>
+    <transcript>musiiqu</transcript>
+    <transcript2>mosiigo</transcript2>
+    <cyrillic>мушийх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M1808</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠤᠰᠢᠢᠬᠤ</unicode>
+      <cyrillic>мушийх</cyrillic>
+      <definition>〔动〕变得很固执，变得十分执谬.</definition>
+      <page>700</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠰᠢᠢᠬᠣ</unicode>
+      <cyrillic>МУШИЙХ</cyrillic>
+      <definition>1) корчить гримасу, кривляться; морщиться; 2) усмехаться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>мушийх</cyrillic>
+      <definition>eigensinnig od engstirnig sein</definition>
+      <page>148</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠤᠰᠢᠢᠬᠤ</unicode>
+      <cyrillic>мушийх</cyrillic>
+      <definition>мушгар зан байдал гаргах.</definition>
+      <page>353</page>
+    </entry_item>
+  </entries>
+</entry>

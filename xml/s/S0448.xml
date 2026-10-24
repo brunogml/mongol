@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0448">
+  <head>
+    <unicode>ᠰᠠᠭᠠᠷᠢᠲᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>saγarituγulqu</transcript>
+    <transcript2>sagaridogolgo</transcript2>
+    <cyrillic>саарьтуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S0447</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠭᠠᠷᠢᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>саарьтуулах</cyrillic>
+      <definition>〔动〕саарьтах 的使动态.</definition>
+      <page>890</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠭᠠᠷᠢᠲᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>СААРЬТУУЛАХ</cyrillic>
+      <definition>саарьтах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠭᠠᠷᠢᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сайртуулах</cyrillic>
+      <definition>сайртахын үйлдүүлэх хэв.</definition>
+      <page>461</page>
+    </entry_item>
+  </entries>
+</entry>

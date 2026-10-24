@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1802">
+  <head>
+    <unicode>ᠬᠠᠳᠬᠣᠮᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>qatqumalaγulqu</transcript>
+    <transcript2>gadgomalagolgo</transcript2>
+    <cyrillic>хатгамлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q1801</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠳᠬᠤᠮᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хатгамлуулах</cyrillic>
+      <definition>〔动〕хатгамлах 的使动态.</definition>
+      <page>1325</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠳᠬᠣᠮᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХАТГАМЛУУЛАХ</cyrillic>
+      <definition>хатгамлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠳᠬᠤᠮᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хатгамлуулах</cyrillic>
+      <definition>хатгамлахын үйлдүүлэх хэв.</definition>
+      <page>670</page>
+    </entry_item>
+  </entries>
+</entry>

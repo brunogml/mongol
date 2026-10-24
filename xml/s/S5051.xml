@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5051">
+  <head>
+    <unicode>ᠰᠣᠨᠵᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sunǰiγulqu</transcript>
+    <transcript2>soncigolgo</transcript2>
+    <cyrillic>сунжуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S5047</ref>
+  </related_to>
+  <see_also>
+    <ref>S5052</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠨᠵᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сунжуулах</cyrillic>
+      <definition>〔动〕сунжих 的使动态.</definition>
+      <page>962</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠨᠵᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>СУНЖУУЛАХ</cyrillic>
+      <definition>сунжих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сунжуулах</cyrillic>
+      <definition>= сунжруулах</definition>
+      <page>205</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠨᠵᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сунжуулах</cyrillic>
+      <definition>сунжихын үйлдүүлэх хэв.</definition>
+      <page>490</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S6283">
+  <head>
+    <unicode> ᠰᠣᠷᠪᠢᠳᠬᠠᠯ</unicode>
+    <transcript>sorbitqal</transcript>
+    <transcript2>sorbidgal</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠤᠷᠪᠢᠳᠬᠠᠯ</unicode>
+      <definition>guérison d'une plaie.</definition>
+      <page>1416</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode> ᠰᠣᠷᠪᠢᠳᠬᠠᠯ</unicode>
+      <uighur>sorbitqal</uighur>
+      <definition>die Vernarbung</definition>
+      <page>370</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode> ᠰᠣᠷᠪᠢᠳᠬᠠᠯ</unicode>
+      <uighur>surbidqal</uighur>
+      <definition>The act of healing, leaving a scar.</definition>
+      <page>1484</page>
+    </entry_item>
+  </entries>
+<related_to><ref>S6284</ref></related_to></entry>

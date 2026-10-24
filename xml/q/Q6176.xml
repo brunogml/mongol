@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q6176">
+  <head>
+    <unicode>ᠬᠣᠮᠺᠢᠬᠣ</unicode>
+    <transcript>qumkiqu</transcript>
+    <transcript2>gomgigo</transcript2>
+    <cyrillic>хумхих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q6177</ref>
+    <ref>Q6178</ref>
+    <ref>Q6180</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠮᠬᠢᠬᠤ</unicode>
+      <cyrillic>хумхих</cyrillic>
+      <definition>〔动〕参见 хумих.</definition>
+      <page>1431</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠮᠺᠢᠬᠣ</unicode>
+      <cyrillic>ХУМХИХ</cyrillic>
+      <definition>хумих-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хумхих</cyrillic>
+      <definition>zusammenlegen; falten, knüllen; гар хумхин суух mit gefalteten Händen sitzen; übertr keinen Finger rühren</definition>
+      <page>328</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠮᠬᠢᠬᠤ</unicode>
+      <cyrillic>хумхих</cyrillic>
+      <definition>хумхих, хумбих, хураах, дэлгэсэн тэнийлгэсэн юмыг хурааж хумхих; гар хөлөө хумхих; амаа хумхих; явдлаа хумхих; алчуураа хумхиж өвөртлөв.</definition>
+      <page>729</page>
+    </entry_item>
+  </entries>
+</entry>

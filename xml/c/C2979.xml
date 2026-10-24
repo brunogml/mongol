@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C2979">
+  <head>
+    <unicode>ᠴᠣᠯᠪᠣᠯ</unicode>
+    <transcript>čolbul</transcript>
+    <transcript2>colbol</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠣᠯᠪᠤᠯ</unicode>
+      <definition>bavard, étourdi, sot, bête.</definition>
+      <page>2206</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠣᠯᠪᠤᠯ ᠺᠢᠵᠦ</unicode>
+          <definition>à l'étourdi, sottement, bêtement</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠴᠣᠯᠪᠣᠯ</unicode>
+      <uighur>čulbul</uighur>
+      <definition>Vulgar persons.</definition>
+      <page>1346</page>
+      <examples>
+        <example>
+          <uighur>čulbul kiǰü</uighur>
+          <definition>Stupid, with no ability. A simple person.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

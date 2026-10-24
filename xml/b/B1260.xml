@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1260">
+  <head>
+    <unicode>ᠪᠠᠶᠢᠴᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>bayičaγdaqu</transcript>
+    <transcript2>bayicagdago</transcript2>
+    <cyrillic>байцагдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B1259</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠢᠴᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>байцагдах</cyrillic>
+      <definition>〔动〕байцах 的被动态.</definition>
+      <page>119</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠶᠢᠴᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>БАЙЦАГДАХ</cyrillic>
+      <definition>яриа. байцаах 1. 1)-ын үйлдэгд.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠢᠴᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>байцагдах</cyrillic>
+      <definition>байцахын үйлдэгдэх хэв.</definition>
+      <page>69</page>
+    </entry_item>
+  </entries>
+</entry>

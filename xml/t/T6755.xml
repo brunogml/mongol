@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6755">
+  <head>
+    <unicode>ᠲᠣᠲᠬᠠᠷᠯᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>totqarlaγdaqu</transcript>
+    <transcript2>dodgarlagdago</transcript2>
+    <cyrillic>тотгорлогдох</cyrillic>
+  </head>
+  <related_to>
+    <ref>T6753</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠳᠬᠠᠷᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>тотгорлогдох</cyrillic>
+      <definition>〔动〕тотгорлох 的被动态.</definition>
+      <page>1085</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠲᠬᠠᠷᠯᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТОТГОРЛОГДОХ</cyrillic>
+      <definition>тотгорлох-ын үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠳᠬᠠᠷᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>тотгорлогдох</cyrillic>
+      <definition>тотгорлохын үйлдэгдэх хэв.</definition>
+      <page>546</page>
+    </entry_item>
+  </entries>
+</entry>

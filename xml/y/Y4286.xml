@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4286">
+  <head>
+    <unicode>ᠵᠣᠲᠣᠯᠵᠠᠬᠣ</unicode>
+    <transcript>ǰotulǰaqu</transcript>
+    <transcript2>yodolcago</transcript2>
+    <cyrillic>жоотолзох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y4288</ref>
+  </derivatives>
+  <see_also>
+    <ref>Y4285</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠣᠲᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>жоотолзох</cyrillic>
+      <definition>〔动〕参见 жоотгонох.</definition>
+      <page>517</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠲᠣᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ЖООТОЛЗОХ</cyrillic>
+      <definition>жоотгонох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠣᠣᠲᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>жоотолзох</cyrillic>
+      <definition>жоотгор юмны байн байн хөдлөх.</definition>
+      <page>250</page>
+    </entry_item>
+  </entries>
+</entry>

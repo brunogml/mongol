@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y2898">
+  <head>
+    <transcript>ǰid</transcript>
+    <transcript2>yid</transcript2>
+    <cyrillic>жид</cyrillic>
+  </head>
+  <see_also>
+    <ref>Y2897</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠢᠳ</unicode>
+      <uighur>ǰid</uighur>
+      <transcript>ZID</transcript>
+      <definition>1 Same as zud.</definition>
+      <page>1049</page>
+    </entry_item>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠢᠳ</unicode>
+      <uighur>ǰid</uighur>
+      <transcript>ZID</transcript>
+      <definition>2</definition>
+      <page>1049</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠢᠳ ᠵᠢᠳ</unicode>
+          <transcript>-- zid</transcript>
+          <definition> Onomat. adv. expressive of sound made by a small bird.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠢᠳ ᠵᠢᠳ</unicode>
+      <definition>cri d'un petit oiseau.</definition>
+      <page>2341</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ЖИД</cyrillic>
+      <definition>I шатар. пат; жидэд орох попасть в положение пата. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ЖИД</cyrillic>
+      <definition>II: жид жид авиа.дуур. выражение писка, крика птенцов. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>жид</cyrillic>
+      <definition>Schach patt</definition>
+      <page>110</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠳ</unicode>
+      <cyrillic>жид</cyrillic>
+      <definition>шатар наадахад эсэргүүцлийн талыг нүүдэлгүй болгох хориг; жид хийх; жидэд хорих.</definition>
+      <page>244</page>
+    </entry_item>
+  </entries>
+</entry>

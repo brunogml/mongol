@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1301">
+  <head>
+    <unicode>ᠵᠠᠯᠪᠢᠯᠵᠠᠬᠣ</unicode>
+    <transcript>ǰalbilǰaqu</transcript>
+    <transcript2>yalbilcago</transcript2>
+    <cyrillic>жалбилзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1302</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠯᠪᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>жалбилзах</cyrillic>
+      <definition>〔动〕参见 жалбалзах.</definition>
+      <page>500</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠯᠪᠢᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ЖАЛБИЛЗАХ</cyrillic>
+      <definition>кривляться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠯᠪᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>жалбилзах</cyrillic>
+      <definition>жалбигар юмны байн байн хөдлөх.</definition>
+      <page>240</page>
+    </entry_item>
+  </entries>
+</entry>

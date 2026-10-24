@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2160">
+  <head>
+    <unicode>ᠪᠢᠰᠢᠺᠥᠷᠺᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>bisigürkegülkü</transcript>
+    <transcript2>bisigörgegölgö</transcript2>
+    <cyrillic>бишүүрхүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>B2159</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠢᠰᠢᠭᠦᠷᠬᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бишүүрхүүлэх</cyrillic>
+      <definition>〔动〕бишүүрхэх 的使动态.</definition>
+      <page>159</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠢᠰᠢᠺᠥᠷᠺᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>БИШҮҮРХҮҮЛЭХ</cyrillic>
+      <definition>бишүүрхэх-ийн үйл­дүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠢᠰᠢᠭᠦᠷᠬᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бишүүрхүүлэх</cyrillic>
+      <definition>бишүүрхэхийн үйлдүүлэх хэв.</definition>
+      <page>86</page>
+    </entry_item>
+  </entries>
+</entry>

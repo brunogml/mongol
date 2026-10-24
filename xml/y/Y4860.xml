@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4860">
+  <head>
+    <unicode>ᠵᠣᠷᠬᠣ</unicode>
+    <transcript>ǰorqu</transcript>
+    <transcript2>yorgo</transcript2>
+    <cyrillic>зорох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y4929</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠣᠷᠬᠣ</unicode>
+      <uighur>ǰorqu</uighur>
+      <cyrillic>зорох</cyrillic>
+      <transcript>ZOR-</transcript>
+      <definition>v.t. To plane, shave off, pare off, peel.</definition>
+      <page>1070</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠢᠮᠤᠰᠤ ᠪᠡᠷ ᠵᠣᠷᠬᠣ</unicode>
+          <transcript>kimusu ber --xu</transcript>
+          <definition> To scratch with a finger nail or a claw.</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠢᠲᠤᠭ᠎ᠠ ᠪᠡᠷ ᠵᠣᠷᠬᠣ</unicode>
+          <transcript>kituγ-a ber --xu</transcript>
+          <definition> To pare off with a knife.</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠣᠳᠤ ᠵᠣᠷᠬᠣ</unicode>
+          <transcript>modu --xu</transcript>
+          <definition> To carve in wood.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠣᠷᠬᠤ</unicode>
+      <definition>raboter , doler, ratisser: 2 tirer une ligne.</definition>
+      <page>2405</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠵᠣᠷᠬᠣ</unicode>
+      <uighur>ǰorqu</uighur>
+      <definition>schaben, beschaben , glattschaben (z, B. Holz).</definition>
+      <page>311</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠵᠣᠷᠬᠣ</unicode>
+      <uighur>ǰorqu</uighur>
+      <definition>v.t. To scrape. To make smooth through scraping (e.g. a piece of wood).</definition>
+      <page>1250</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠣᠷᠬᠤ</unicode>
+      <cyrillic>зорох</cyrillic>
+      <definition>〔动〕刨平，刨光，刨削：хутгаар ~ 用刀子削平；мод ~ 刨木头；хумсаар ~ 用指甲搔（抓）.</definition>
+      <page>562</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠷᠬᠣ</unicode>
+      <cyrillic>ЗОРОХ</cyrillic>
+      <definition>строгать, обстругивать; мод зорох резать по дереву; обстругивать; хумсаар зорох царапать ногтем; хутгаар зорох обстругивать ножом. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зорох</cyrillic>
+      <definition>1. schnitzen, ritzen (mit etw. -аар)
+2. Tech fräsen; ~ багаж Maschine Fräse f</definition>
+      <page>122</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠣᠷᠬᠤ</unicode>
+      <cyrillic>зорох</cyrillic>
+      <definition>ямар нэгэн зэвсгээр юмыг элэн харах; мод зорох; тугалга зорж хийсэн эд.</definition>
+      <page>276</page>
+    </entry_item>
+  </entries>
+</entry>

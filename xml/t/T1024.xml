@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1024">
+  <head>
+    <unicode>ᠲᠠᠪᠠᠷᠠᠬᠣ</unicode>
+    <transcript>tabaraqu</transcript>
+    <transcript2>dabarago</transcript2>
+    <cyrillic>таврах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1031</ref>
+    <ref>T1039</ref>
+  </derivatives>
+  <see_also>
+    <ref>T1023</ref>
+    <ref>T1025</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠪᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>таврах</cyrillic>
+      <definition>〔动〕①（骆驼）用前脚跳跃，跳跃式跑动；②人跃跑；③（骆驼）用前脚踏跺.</definition>
+      <page>1007</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠪᠠᠷᠠᠬᠣ</unicode>
+      <cyrillic>ТАВРАХ</cyrillic>
+      <definition>1) бежать (о верблюде); 2) двљгаться, подпрыгивая и подскакивая наподобие того, как Їто делает верблюд; топтать передней ногой (о верблюде); 3) идтљ торопясь, делая скачкљ (о человеке). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠪᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>таврах</cyrillic>
+      <definition>1. тэмээний урд хөлөөрөө дэвсхийлэх, цохих;2. тэмээний харайлган цогих маягтай явах;3. хүний хурдлан харайлж явах.</definition>
+      <page>512</page>
+    </entry_item>
+  </entries>
+</entry>

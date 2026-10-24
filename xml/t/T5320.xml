@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5320">
+  <head>
+    <unicode>ᠲᠣᠨᠲᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>tuntalǰaqu</transcript>
+    <transcript2>dondalcago</transcript2>
+    <cyrillic>тунталзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T5322</ref>
+    <ref>T5323</ref>
+  </derivatives>
+  <see_also>
+    <ref>T5321</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠨᠲᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>тунталзах</cyrillic>
+      <definition>〔动〕参见 тумбаганах.</definition>
+      <page>1114</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠨᠲᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ТУНТАЛЗАХ</cyrillic>
+      <definition>1) тумбаганах-ыг үз.; 2) торчать (о наросте на коже, шкуре). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тунталзах,</cyrillic>
+      <definition>тунтганах = тумбаганах</definition>
+      <page>239</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠨᠲᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>тунталзах</cyrillic>
+      <definition>тунтгар юмны тумбалзан хөдлөх.</definition>
+      <page>557</page>
+    </entry_item>
+  </entries>
+</entry>

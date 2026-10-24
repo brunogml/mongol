@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0254">
+  <head>
+    <unicode>ᠭᠠᠩᠨᠠᠬᠣ</unicode>
+    <transcript>γangnaqu</transcript>
+    <transcript2>gangnago</transcript2>
+    <cyrillic>гагнах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q0255</ref>
+    <ref>Q0258</ref>
+    <ref>Q0266</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠠᠩᠨᠠᠬᠣ</unicode>
+      <uighur>γangnaqu</uighur>
+      <cyrillic>гагнах</cyrillic>
+      <transcript>ΓANGNA-</transcript>
+      <definition>[Ch. han] v. t. To solder; to join or make fast (as with cement).</definition>
+      <page>349</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠠᠩᠨᠠᠭᠴᠢ</unicode>
+          <transcript>--γci</transcript>
+          <definition> Solderer, welder.</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠠᠩᠨᠠᠬᠤ ᠡᠮ</unicode>
+          <transcript>--xu em</transcript>
+          <definition> Soldering flux (Ch. han-yao)</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠠᠩᠨᠠᠬᠤ</unicode>
+      <definition>souder</definition>
+      <page>981</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠠᠩᠨᠠᠬᠤ ᠡᠮ</unicode>
+          <definition>une composition à souder qc.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠭᠠᠩᠨᠠᠬᠣ</unicode>
+      <uighur>γangnaqu</uighur>
+      <definition>zusammenlöthen</definition>
+      <page>190</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠭᠠᠩᠨᠠᠬᠣ</unicode>
+      <uighur>γangnaqu</uighur>
+      <definition>v.t. To solder.</definition>
+      <page>747</page>
+      <examples>
+        <example>
+          <uighur>γangnaqu em</uighur>
+          <definition>n. Corrosive acid.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠠᠩᠨᠠᠬᠤ</unicode>
+      <cyrillic>гагнах</cyrillic>
+      <definition>〔动〕①焊，焊接，焊合：~ эм 焊合剂，焊药，焊液（如硼砂，松香等）；~сан нумын дээд ялуу 焊接摇枕；②熔合，紧密连接，紧密结合.</definition>
+      <page>263</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠩᠨᠠᠬᠣ</unicode>
+      <cyrillic>ГАГНАХ</cyrillic>
+      <definition>1. 1) паять, припаивать, запаивать, напаивать; барьж гагнах напаивать, припаивать; данх гагнах напаять заплату на чайник; данханд сэнж гагнах припаять ручку к чайнику; данхны цорго гагнах припаять носик чайника; лааз гагнах паять банку; хийгээр гагнах паять газом; хувин гагнах запаять ведро (кастрјлю); цагаан тугалгаар гагнах паять оловом; цоорхойг гагнах запаять дырку; шургуулж гагнах а) впаивать, впаиваться; б) впайка, впаивание; гагнаж суулгах впаять; 2) приваривать, сваривать; шанаганд иш барьж гагнах приварить ручку к ковшу; 3) цементировать, пломбировать, скреплять связывающим веществом (напр. цементом, замазкой, пломбой); гахиураар гагнах скреплять цементом, цементировать; шүдний цоорхойг гагнах пломбировать зубы, положить пломбу в зуб; 2. гагнахуй-г үз.; 3. спайный, паяльный, сварочный, приварочный, запаянный, сварной; гагнах багаж паяльный аппарат; гагнах хошуу сварочная, паяльная горелка; гагнах хэрэгсэл паяльное средство; гагнах хэсэг спайный кусок; гагнах эм хуучир. паяльная кислота; бура (употребляемая при паянии). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠩᠨᠠᠬᠣ</unicode>
+      <cyrillic>ГАГНАХУЙ</cyrillic>
+      <definition>1) пайка, спайка, запайка, сварка, наварка, пломбировка; холбож гагнахуй контактная сварка; 2) паяние, запаивание, напаивание, впаивание; пломбирование, цементирование; замазывание; төмөр ялтас гагнахуй / нимгэн төмөр гагнахуй напаивание металлической пластинки. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠩᠨᠠᠬᠣ</unicode>
+      <cyrillic>ГАГНАСАН</cyrillic>
+      <definition>спаянный, припаянный, запаянный, впаянный, сваренный; гагнасан залгаас сварное соединение; гагнасан ган хоолой стальные сварные трубы; гагнасан хувин паяное ведро; гагнасан шоовон запаянная ампула; гагнасан юм напайка. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гагнах</cyrillic>
+      <definition>verlöten (mit -тай), [an]löten, [an]schweißen (an -д); ~ цорго Schweißbrenner m</definition>
+      <page>71</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠠᠩᠨᠠᠬᠤ</unicode>
+      <cyrillic>гагнах</cyrillic>
+      <definition>1. төмөрлөгийн эвийг нийлүүлэн гагнуур тавих;2. &lt;шилжсэн&gt;ямар нэгэн юмыг холбож бат бэх болгох.</definition>
+      <page>130</page>
+    </entry_item>
+  </entries>
+</entry>

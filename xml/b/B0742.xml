@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0742">
+  <head>
+    <unicode>ᠫᠠᠯᠠᠨᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>palandaγulqu</transcript>
+    <transcript2>palandagolgo</transcript2>
+    <cyrillic>пааландуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B0741</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠫᠠᠯᠠᠩᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>пааландуулах</cyrillic>
+      <definition>〔动〕пааландах 的使动态.</definition>
+      <page>869</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠫᠠᠯᠠᠨᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ПААЛАНДУУЛАХ</cyrillic>
+      <definition>пааландах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠫᠠᠯᠠᠩᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>пааландуулах</cyrillic>
+      <definition>пааландахын үйлдүүлэх хэв.</definition>
+      <page>449</page>
+    </entry_item>
+  </entries>
+</entry>

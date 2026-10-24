@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3158">
+  <head>
+    <unicode>ᠴᠣᠴᠠᠷᠠᠬᠣ</unicode>
+    <transcript>čučaraqu</transcript>
+    <transcript2>cocarago</transcript2>
+    <cyrillic>цуцрах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C3160</ref>
+    <ref>C3163</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠣᠴᠠᠷᠠᠬᠣ</unicode>
+      <uighur>čučaraqu</uighur>
+      <cyrillic>цуцрах</cyrillic>
+      <transcript>CUCARA-</transcript>
+      <definition>v.i. To come lose (of anything plaited, tied, or rolled up), fall to pieces, become disjointed or disentangled; to spread, unfold, open; to be destroyed or ruined; to be out of order; to fall; to be tired, weary, exhausted.</definition>
+      <page>205</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠣᠴᠠᠷᠠᠭᠰᠠᠨ ᠣᠩᠭᠤᠴᠠ</unicode>
+          <transcript>--γsan ongγuca</transcript>
+          <definition>A wrecked boat.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠪᠳᠡᠷᠡᠨ ᠴᠣᠴᠠᠷᠠᠭᠰᠠᠨ</unicode>
+          <transcript>ebderen --γsan</transcript>
+          <definition>Ruined, destroyed; ruins.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠣᠴᠠᠷᠠᠬᠤ</unicode>
+      <definition>1 se rompre en plusieurs morceaux, se briser, se ruiner, se fendre, se crevasser: 
+2 fig. être fatigué, être las, se fatiguer.</definition>
+      <page>2211</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠪᠳᠡᠷᠡᠨ ᠴᠤᠴᠠᠷᠠᠭᠰᠠᠨ</unicode>
+          <definition>ruines; 2 ruine, destruction</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠡᠶ ᠡ ᠮᠢᠨᠤ ᠵᠠᠭᠤᠨ ᠠᠩᠭᠢ ᠪᠣᠯᠤᠨ ᠴᠤᠴᠠᠷᠠᠮᠤᠢ</unicode>
+          <definition>mon corps tombe en cent pièces</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠤᠴᠠᠷᠠᠭᠰᠠᠨ ᠣᠩᠭᠤᠴᠠ</unicode>
+          <definition>bateau cassé</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠴᠣᠴᠠᠷᠠᠬᠣ</unicode>
+      <uighur>čučaraqu</uighur>
+      <definition>müde werden; zerbrechen, auseinandergehen, bersten</definition>
+      <page>335</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠴᠣᠴᠠᠷᠠᠬᠣ</unicode>
+      <uighur>čučaraqu</uighur>
+      <definition>To become cracks in porcelain, ice etc. To crack, to break or burst, to fall to pieces. To become tired or weary.</definition>
+      <page>1350</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠤᠴᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>цуцрах</cyrillic>
+      <definition>〔动〕①破开，拆开，散开，破碎，断裂，毁坏；②累，疲倦，疲乏.</definition>
+      <page>1556</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠴᠠᠷᠠᠬᠣ</unicode>
+      <cyrillic>ЦУЦРАХ</cyrillic>
+      <definition>1. 1) разламываться, разрушаться; разваливаться; надорваться; ломаться, расплетаться, распутаться; эвдэрч цуцрах ломаться; 2) уставать, утомляться, изнуряться; 2. цуцрахуй-г үз., бүх бие цуцрах чувствовать тягость во всём теле.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠴᠠᠷᠠᠬᠣ</unicode>
+      <cyrillic>ЦУЦРАХУЙ</cyrillic>
+      <definition>изнурение, тягость.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠤᠴᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>цуцрах</cyrillic>
+      <definition>аливаа юмны цуцархал болох, задрах, эвдрэх.</definition>
+      <page>801</page>
+    </entry_item>
+  </entries>
+</entry>

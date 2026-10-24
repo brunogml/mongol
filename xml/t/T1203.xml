@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1203">
+  <head>
+    <unicode>ᠲᠠᠪᠰᠠᠶᠢᠯᠭᠠᠬᠣ</unicode>
+    <transcript>tabsayilγaqu</transcript>
+    <transcript2>dabsayilgago</transcript2>
+    <cyrillic>тавсайлгах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠪᠰᠠᠢᠯᠭᠠᠬᠤ</unicode>
+      <cyrillic>тавсайлгах</cyrillic>
+      <definition>〔动〕тавсайх 的使动态.</definition>
+      <page>1007</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠪᠰᠠᠶᠢᠯᠭᠠᠬᠣ</unicode>
+      <cyrillic>ТАВСАЙЛГАХ</cyrillic>
+      <definition>тавсайх-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠪᠰᠠᠢᠯᠭᠠᠬᠤ</unicode>
+      <cyrillic>тавсайлгах</cyrillic>
+      <definition>тавсайхын үйлдүүлэх хэв.</definition>
+      <page>512</page>
+    </entry_item>
+  </entries>
+</entry>

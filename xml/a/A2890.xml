@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A2890">
+  <head>
+    <unicode>ᠠᠮᠢᠰᠬᠠᠬᠣ</unicode>
+    <transcript>amisqaqu</transcript>
+    <transcript2>amisgago</transcript2>
+    <cyrillic>амьсгах</cyrillic>
+  </head>
+  <see_also>
+    <ref>A2909</ref>
+  </see_also>
+  <related_to>
+    <ref>A2888</ref>
+  </related_to>
+  <derivatives>
+    <ref>A2891</ref>
+    <ref>A2893</ref>
+    <ref>A2894</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠮᠢᠰᠬᠠᠬᠣ</unicode>
+      <uighur>amisqaqu</uighur>
+      <cyrillic>амьсгах</cyrillic>
+      <transcript>AMISXA-</transcript>
+      <definition>[= amisxu- [v.i. To breathe.</definition>
+      <page>38</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠣᠲᠤᠭᠰᠢ ᠠᠮᠤᠰᠬᠠᠬᠤ</unicode>
+          <transcript>dotuγsi --xu</transcript>
+          <definition>To inhale.</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠠᠳᠠᠭᠰᠢ ᠠᠮᠢᠰᠬᠠᠬᠤ</unicode>
+          <transcript>γadaγsi --xu</transcript>
+          <definition>To exhale.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠮᠢᠰᠬᠠᠬᠤ</unicode>
+      <definition>1 respirer: &#13;
+2 vivre.</definition>
+      <page>103</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠠᠳᠠᠬᠰᠢ ᠠᠮᠢᠰᠬᠠᠬᠤ</unicode>
+          <definition>respirer</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠣᠳᠤᠬᠰᠢ ᠠᠮᠢᠰᠬᠠᠬᠤ</unicode>
+          <definition>attirer l'air dans sa poitrine, reprendre haleine, respirer.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠠᠮᠢᠰᠬᠠᠬᠣ</unicode>
+      <uighur>amisqaqu</uighur>
+      <definition>athmen, Athem ziehen</definition>
+      <page>10</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠠᠮᠢᠰᠬᠠᠬᠣ</unicode>
+      <uighur>amisqaqu</uighur>
+      <definition>v.i. To breathe.</definition>
+      <page>37</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>амьсгах</cyrillic>
+      <definition>Luft holen, atmen; энд ~ад сэлүүхэн байна hier kann man leichter atmen</definition>
+      <page>31</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E1164">
+  <head>
+    <unicode>ᠡᠮᠴᠡᠭᠡᠷᠺᠡᠨ</unicode>
+    <transcript>emčegerken</transcript>
+    <transcript2>emcegergen</transcript2>
+    <cyrillic>эмцгэрхэн</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠮᠴᠦᠭᠦᠷᠬᠡᠨ</unicode>
+      <cyrillic>эмцгэрхэн</cyrillic>
+      <definition>〔形〕эмцгэр 的小称；上唇较短的.</definition>
+      <page>1698</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠮᠴᠠᠺᠠᠷᠺᠠᠨ</unicode>
+      <cyrillic>ЭМЦГЭРХЭН</cyrillic>
+      <definition>эмцгэр-ийн багас. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠮᠴᠦᠭᠦᠷᠬᠡᠨ</unicode>
+      <cyrillic>эмцгэрхэн</cyrillic>
+      <definition>арай эмцгэр, нилээд эмцгэр.</definition>
+      <page>877</page>
+    </entry_item>
+  </entries>
+</entry>

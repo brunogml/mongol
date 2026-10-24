@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1450">
+  <head>
+    <unicode>ᠵᠠᠵᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>ǰaǰaγanaqu</transcript>
+    <transcript2>yacaganago</transcript2>
+    <cyrillic>зазганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1451</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠵᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>зазганах</cyrillic>
+      <definition>〔动〕（浑身毛茸茸而矮小的动物）连续动弹.</definition>
+      <page>532</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠵᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЗАЗГАНАХ</cyrillic>
+      <definition>постоянно двигаться, шевелиться (о чём-л. густом). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠵᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>зазганах</cyrillic>
+      <definition>зазгар юмны үргэлжлэн хөдлөх байдал.</definition>
+      <page>260</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4822">
+  <head>
+    <unicode>ᠺᠥᠺᠳᠥᠺᠥᠨᠡᠺᠥ</unicode>
+    <transcript>kügdügünekü</transcript>
+    <transcript2>gögdögönegö</transcript2>
+    <cyrillic>хүгдгэнэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K4823</ref>
+    <ref>K4821</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠦᠭᠳᠦᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>хүгдгэнэх</cyrillic>
+      <definition>〔动〕（弯曲的物或驼背人）一弯一弯地动，一弓一弓地动.</definition>
+      <page>1449</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠺᠳᠥᠺᠥᠨᠡᠺᠥ</unicode>
+      <cyrillic>ХҮГДГЭНЭХ</cyrillic>
+      <definition>двигаться (о ком-чём-л. горбатом, сутулом). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠦᠭᠳᠦᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>хүгдгэнэх</cyrillic>
+      <definition>хүгдгэр юмны үргэлжлэн хөдлөх.</definition>
+      <page>741</page>
+    </entry_item>
+  </entries>
+</entry>

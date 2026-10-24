@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1210">
+  <head>
+    <unicode>ᠥᠮᠨᠥᠺᠠᠯᠠᠺᠥ</unicode>
+    <transcript>ömnügelekü</transcript>
+    <transcript2>ömnögelegö</transcript2>
+    <cyrillic>өмнөөлөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>O1211</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠮᠨᠥᠭᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>өмнөөлөх</cyrillic>
+      <definition>〔动〕①变更，改变，变化；曲解；误解；②独立，单独，另外.</definition>
+      <page>843</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠮᠨᠥᠺᠠᠯᠠᠺᠥ</unicode>
+      <cyrillic>ӨМНӨӨЛӨХ</cyrillic>
+      <definition>переиначивать, изменять. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠮᠨᠥᠭᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>өмнөөлөх</cyrillic>
+      <definition>өөр ондоо болгох, тусгаарлах.</definition>
+      <page>436</page>
+    </entry_item>
+  </entries>
+</entry>

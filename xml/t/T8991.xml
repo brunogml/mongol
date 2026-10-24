@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T8991">
+  <head>
+    <unicode>ᠲᠥᠺᠡᠴᠢ</unicode>
+    <transcript>tögeči</transcript>
+    <transcript2>dögeci</transcript2>
+    <cyrillic>төөч</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠥᠺᠡᠴᠢ</unicode>
+      <uighur>tökeči</uighur>
+      <cyrillic>төөч</cyrillic>
+      <transcript>TØGECI</transcript>
+      <page>832</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠥᠺᠡᠴᠢ ᠬᠣᠷᠤᠬᠠᠢ = ᠲᠥᠭᠡᠯᠡᠭᠦᠷ ᠲᠥᠺᠡᠴᠢ</unicode>
+          <transcript>-- xoruxai = tøgelegyr xoruxai</transcript>
+          <definition> Inchworm, measuring worm.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠥᠭᠡᠴᠢ</unicode>
+      <cyrillic>төөч</cyrillic>
+      <definition>见 ~ хорой 〈动〉尺蠖蛾（科）幼虫.</definition>
+      <page>1100</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠺᠡᠴᠢ</unicode>
+      <cyrillic>ТӨӨЧ</cyrillic>
+      <definition>: төөч хорхой шавж. гусеница-землемер. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

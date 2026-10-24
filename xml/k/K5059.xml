@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K5059">
+  <head>
+    <unicode>ᠭᠦᠷᠦᠭᠡ</unicode>
+    <transcript>gürüge</transcript>
+    <transcript2>göröge</transcript2>
+  </head>
+  <see_also>
+    <ref>K5060</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠥᠷᠥᠺᠡ</unicode>
+      <uighur>gürüge</uighur>
+      <cyrillic>гөрөө</cyrillic>
+      <transcript>GYRYGE</transcript>
+      <definition>n. Wickerwork.</definition>
+      <page>392</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠥᠷᠥᠺᠡ ᠠᠪᠳᠠᠷ</unicode>
+          <transcript>-- abdar</transcript>
+          <definition>Wicker basket.</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠥᠷᠥᠺᠡ ᠬᠠᠰᠢᠶ᠎ᠠ</unicode>
+          <transcript>-- xasij-a</transcript>
+          <definition>Wicker fence.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠦᠷᠦᠭᠡ ~ ᠭᠦᠷᠡᠭᠡ</unicode>
+      <definition>artères des deux côtés du cou</definition>
+      <page>2644</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2027">
+  <head>
+    <unicode>ᠴᠢᠮᠺᠢᠯᠠᠺᠥ</unicode>
+    <transcript>čimkilekü</transcript>
+    <transcript2>cimgilegö</transcript2>
+    <cyrillic>чимхлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C2028</ref>
+    <ref>C2030</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠢᠮᠺᠢᠯᠠᠺᠥ</unicode>
+      <uighur>čimkilekü</uighur>
+      <cyrillic>чимхлэх</cyrillic>
+      <transcript>CIMKILE-</transcript>
+      <definition>[v . freq. of cimki-] v . t. To nip, pinch repeatedly; to spend in small quantities (or sparingly); to nibble, take small bits of food; to be stingy, miserly.</definition>
+      <page>186</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠮᠺᠢᠯᠠᠨ ᠢᠳᠡᠺᠦ</unicode>
+          <transcript>--n ideky</transcript>
+          <definition>To eat in small bits or pinches, eat without appetite; to nibble.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠠᠭ᠎ᠠ ᠪᠠᠭ᠎ᠠ ᠪᠡᠷ ᠴᠢᠮᠺᠢᠯᠠᠺᠦ</unicode>
+          <transcript>baγ-a baγ-a ber --ky</transcript>
+          <definition>To eat in small bits, nibble.</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠢᠭᠠᠰᠤ ᠴᠢᠮᠺᠢᠯᠠᠮᠤᠢ</unicode>
+          <transcript>ziγasu --mui</transcript>
+          <definition>The fish nibbles the bait</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠢᠮᠺᠢᠯᠡᠺᠦ</unicode>
+      <definition>pincer, couper avce les ongles,</definition>
+      <page>2171</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠮᠺᠢᠯᠡᠨ ᠢᠳᠡᠺᠦ</unicode>
+          <definition>pincer avec les ongles</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠴᠢᠮᠺᠢᠯᠠᠺᠥ</unicode>
+      <uighur>čimkilekü</uighur>
+      <definition>zu Wenigem abkneifen, prisenweise nehmen; geitzen, sich versagen, sich abkneifen.</definition>
+      <page>328</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠴᠢᠮᠺᠢᠯᠠᠺᠥ</unicode>
+      <uighur>čimkilekü</uighur>
+      <definition>v.t. To pinch into small pieces. To take with pincers. To covet. To deny oneself.</definition>
+      <page>1321</page>
+      <examples>
+        <example>
+          <uighur>čimkilen idekü</uighur>
+          <definition>v.t. To taste. To eat in small quantities</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠮᠬᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>чимхлэх</cyrillic>
+      <definition>〔动〕①чимхэх /1 的多次体；一次次地捏（捻，揪，掐）；频频（用镊子）夹；②（转）一点一点地用，省吃俭用，细水长流地用，节俭，俭省，爱惜；③（转）（幼畜）一点点地吃草.</definition>
+      <page>1588</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠮᠺᠢᠯᠠᠺᠥ</unicode>
+      <cyrillic>ЧИМХЛЭХ</cyrillic>
+      <definition>чимхэх-ийн олонтаа., 1) щипать, пощипывать; отщипывать; өвс чимхлэх щипать траву; 2) брать щепотками; чимхлэн авах отщипывать; чимхлэн идэх есть ковыряя (т.е. без аппетита, без вкуса); 3) экономить что-л.; чимхлэн хэрэглэх расходовать, употреблять понемногу.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чимхлэх</cyrillic>
+      <definition>1. wiederholt kneifen od zwicken, zupfen
+2. in kleinen Mengen od prisenweise nehmen; чимхлэн идэх in kleinen Mengen essen</definition>
+      <page>371</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠮᠬᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>чимхлэх</cyrillic>
+      <definition>1. байн байн чимхэх;2. &lt;шилжсэн&gt;аливаа юмыг гамнаж бага багаар хэмнэн хэрэглэх;3. &lt;шилжсэн&gt;хурга ишиг зэрэг төл мал өвс ногоо бага сага идэх.</definition>
+      <page>818</page>
+    </entry_item>
+  </entries>
+</entry>

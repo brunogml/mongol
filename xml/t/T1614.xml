@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T1614">
+  <head>
+    <unicode>ᠳᠠᠳᠣᠬᠣ</unicode>
+    <transcript>daduqu</transcript>
+    <transcript2>dadogo</transcript2>
+    <cyrillic>дадах</cyrillic>
+  </head><derivatives>
+    <ref>T1615</ref>
+  </derivatives><see_also>
+    <ref>T1633</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠳᠣᠬᠤ ~ ᠳᠠᠳᠬᠤ ~ ᠳᠠᠰᠣᠬᠤ</unicode>
+      <definition>avoir l'habitude, s'habituer, s'exercer, s'accoutumer</definition>
+      <page>1628</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠳᠣᠭᠰᠠᠨ ᠪᠠᠭᠰᠢ</unicode>
+          <definition>instituteur expérimenté</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠳᠠᠳᠣᠬᠣ</unicode>
+      <uighur>daduqu</uighur>
+      <definition>v.i. To get accustomed to</definition>
+      <page>1084</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠳᠣᠬᠣ</unicode>
+      <cyrillic>ДАДСАН</cyrillic>
+      <definition>опытный, привыкший к чему-л. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="L0027">
+  <head>
+    <unicode>ᠯᠠᠩ</unicode>
+    <transcript>lang</transcript>
+    <transcript2>lang</transcript2>
+    <cyrillic>лан</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠯᠠᠩ</unicode>
+      <uighur>lang</uighur>
+      <cyrillic>лан(г)</cyrillic>
+      <transcript>LANG</transcript>
+      <definition>[Ch. hang] n. A Chinese unit of weight, 37. 3 gram; a tael or ounce of silver.</definition>
+      <page>515</page>
+      <examples>
+        <example>
+          <unicode>ᠯᠠᠩ ᠠᠯᠲᠠ</unicode>
+          <transcript>-- alta</transcript>
+          <definition> An ounce of gold.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠷᠪᠠᠨ ᠯᠠᠩ</unicode>
+          <transcript>arban -- </transcript>
+          <definition> Ten taels or ounces of silver.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠯᠠᠩ</unicode>
+      <definition>une once d'argent, un taël,</definition>
+      <page>1956</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠯᠠᠩ</unicode>
+      <uighur>lang</uighur>
+      <definition>eine Unze Chinesischen Gewicht.</definition>
+      <page>224</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠯᠠᠩ</unicode>
+      <uighur>lang</uighur>
+      <definition>A Chinese ounce. A Chinese tael or ounce of silver</definition>
+      <page>883</page>
+      <examples>
+        <example>
+          <uighur>lang altan</uighur>
+          <definition>One ounce of gold.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠯᠠᠩ</unicode>
+      <cyrillic>лан</cyrillic>
+      <definition>〔量〕两（重量）.</definition>
+      <page>642</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠯᠠᠩ</unicode>
+      <cyrillic>ЛАН(Г)</cyrillic>
+      <definition>I 1) лан (мера веса, равная 37,3 г); таван лангийн алтан ембүү слиток золота весом в пять лан; 2) хуучир. лан (денежная единица); гурван мянган лангийн үнэтэй бэлэг подарок стоимостью в три тысячи лан. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠯᠠᠩ</unicode>
+      <cyrillic>ЛАН</cyrillic>
+      <definition>II: лан тахиа шувуу. курица маленькая китайская. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠯᠠᠩ</unicode>
+      <cyrillic>лан</cyrillic>
+      <definition>хүндийн хэмжээ, арван цэнг нэг лан гэнэ (37,3 грамм).</definition>
+      <page>320</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0683">
+  <head>
+    <unicode>ᠮᠠᠶᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>mayidaγulqu</transcript>
+    <transcript2>mayidagolgo</transcript2>
+    <cyrillic>майдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>M0682</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>майдуулах</cyrillic>
+      <definition>〔动〕майдах 的使动态.</definition>
+      <page>654</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠶᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>МАЙДУУЛАХ</cyrillic>
+      <definition>майдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>майдуулах</cyrillic>
+      <definition>майдахын үйлдүүлэх хэв.</definition>
+      <page>327</page>
+    </entry_item>
+  </entries>
+</entry>

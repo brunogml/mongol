@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5133">
+  <head>
+    <unicode>ᠱᠣᠩᠬᠣᠯᠵᠠᠬᠣ</unicode>
+    <transcript>šongqulǰaqu</transcript>
+    <transcript2>songgolcago</transcript2>
+    <cyrillic>шонхолзох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5134</ref>
+    <ref>S5135</ref>
+  </derivatives>
+  <see_also>
+    <ref>S5132</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠣᠩᠬᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>шонхолзох</cyrillic>
+      <definition>〔动〕参见 шонхогнох.</definition>
+      <page>1648</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠩᠬᠣᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ШОНХОЛЗОХ</cyrillic>
+      <definition>двигаться (о ком-чём-л. заострённом). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шонхолзох</cyrillic>
+      <definition>= шонхогнох</definition>
+      <page>389</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠣᠩᠬᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>шонхолзох</cyrillic>
+      <definition>шонхгор юмны хөдлөх.</definition>
+      <page>854</page>
+    </entry_item>
+  </entries>
+</entry>

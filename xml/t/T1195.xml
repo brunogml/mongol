@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1195">
+  <head>
+    <unicode>ᠲᠠᠪᠰᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>tabsaγanaqu</transcript>
+    <transcript2>dabsaganago</transcript2>
+    <cyrillic>тавсганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1196</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠪᠰᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>тавсганах</cyrillic>
+      <definition>〔动〕参见 тавсалзах.</definition>
+      <page>1007</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠪᠰᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ТАВСГАНАХ</cyrillic>
+      <definition>тавсалзах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тавсганах</cyrillic>
+      <definition>= тавсалзах</definition>
+      <page>215</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠪᠰᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>тавсганах</cyrillic>
+      <definition>тавсгар юмны үргэлжлэн хөдлөх.</definition>
+      <page>512</page>
+    </entry_item>
+  </entries>
+</entry>

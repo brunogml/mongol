@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B3027">
+  <head>
+    <unicode>ᠪᠣᠲᠠᠴᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>butačiγulqu</transcript>
+    <transcript2>bodacigolgo</transcript2>
+    <cyrillic>бутчуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B3026</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠤᠲᠠᠴᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бутчуулах</cyrillic>
+      <definition>〔动〕бутчих 的使动态.</definition>
+      <page>214</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠲᠠᠴᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БУТЧУУЛАХ</cyrillic>
+      <definition>бутчих-ийн үйлдүүл., раздроблять, мельчить.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠲᠠᠴᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бутчуулах</cyrillic>
+      <definition>бутчихийн үйлдүүлэх хэв, бутчигдах.</definition>
+      <page>111</page>
+    </entry_item>
+  </entries>
+</entry>

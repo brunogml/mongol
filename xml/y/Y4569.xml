@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4569">
+  <head>
+    <unicode>ᠵᠣᠮᠪᠣᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰombuγanaγulqu</transcript>
+    <transcript2>yomboganagolgo</transcript2>
+    <cyrillic>жомбогонуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y4568</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠣᠮᠪᠣᠭᠣᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>жомбогонуулах</cyrillic>
+      <definition>〔动〕жомбогонох 的使动态.</definition>
+      <page>516</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠮᠪᠣᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЖОМБОГОНУУЛАХ</cyrillic>
+      <definition>жомбогонох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠣᠮᠪᠣᠭᠣᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>жомбогонуулах</cyrillic>
+      <definition>жомбогонохын үйлдүүлэх хэв.</definition>
+      <page>250</page>
+    </entry_item>
+  </entries>
+</entry>

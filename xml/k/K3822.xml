@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K3822">
+  <head>
+    <unicode>ᠺᠥᠳᠡᠺᠡᠷᠺᠡᠺᠥ</unicode>
+    <transcript>ködegerkekü</transcript>
+    <transcript2>gödegergegö</transcript2>
+    <cyrillic>хөдөөрхөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K3820</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠳᠡᠭᠡᠷᠬᠡᠬᠦ</unicode>
+      <cyrillic>хөдөөрхөх</cyrillic>
+      <definition>〔动〕呈现乡村景象，表现出农村特点.</definition>
+      <page>1393</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠳᠡᠺᠡᠷᠺᠡᠺᠥ</unicode>
+      <cyrillic>ХӨДӨӨРХӨХ</cyrillic>
+      <definition>хвастать что живёт в худоне; проявлять провинциальные привычки, вести себя как худонец. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хөдөөрхөх</cyrillic>
+      <definition>sich wie ein Bauer od ein Provinzler benehmen</definition>
+      <page>318</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠳᠡᠭᠡᠷᠬᠡᠬᠦ</unicode>
+      <cyrillic>хөдөөрхөх</cyrillic>
+      <definition>хөдөөний байдал гаргах.</definition>
+      <page>707</page>
+    </entry_item>
+  </entries>
+</entry>

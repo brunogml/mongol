@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0127">
+  <head>
+    <unicode>ᠵᠠᠩᠬᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>ǰangqalǰaqu</transcript>
+    <transcript2>yanggalcago</transcript2>
+    <cyrillic>занхалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y0128</ref>
+  </derivatives>
+  <see_also>
+    <ref>Y0126</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠩᠬᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>занхалзах</cyrillic>
+      <definition>〔动〕参见 зантганах.</definition>
+      <page>545</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠩᠬᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ЗАНХАЛЗАХ</cyrillic>
+      <definition>зантганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠩᠬᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>занхалзах</cyrillic>
+      <definition>занхгар юмны байн байн хөдлөх.</definition>
+      <page>267</page>
+    </entry_item>
+  </entries>
+</entry>

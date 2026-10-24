@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1998">
+  <head>
+    <unicode>ᠨᠣᠭᠣᠭᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>noγuγadaγulqu</transcript>
+    <transcript2>nogogadagolgo</transcript2>
+    <cyrillic>ногоодуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>N1997</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠣᠭᠣᠭᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ногоодуулах</cyrillic>
+      <definition>〔动〕ногоодох 的便动态；使之变绿，染绿；使绿色变重.</definition>
+      <page>743</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠣᠭᠣᠭᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>НОГООДУУЛАХ</cyrillic>
+      <definition>ногоодох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠣᠭᠣᠭᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ногоодуулах</cyrillic>
+      <definition>ногоодохын үйлдүүлэх хэв, хэтэрхий ногоон болгох.</definition>
+      <page>378</page>
+    </entry_item>
+  </entries>
+</entry>

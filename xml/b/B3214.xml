@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B3214">
+  <head>
+    <unicode>ᠪᠣᠯᠠᠰᠢᠯᠠᠬᠣ</unicode>
+    <transcript>bulasilaqu</transcript>
+    <transcript2>bolasilago</transcript2>
+    <cyrillic>булшлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B3215</ref>
+    <ref>B3216</ref>
+    <ref>B3218</ref>
+    <ref>B3217</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠣᠯᠠᠰᠢᠯᠠᠬᠣ</unicode>
+      <uighur>bulasilaqu</uighur>
+      <cyrillic>булшлах</cyrillic>
+      <transcript>BULASILA-</transcript>
+      <definition>v.t. To bury, put into a grave.</definition>
+      <page>133</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠤᠯᠠᠰᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>булшлах</cyrillic>
+      <definition>〔动〕①埋葬，安葬；②埋藏.</definition>
+      <page>207</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠯᠠᠰᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>БУЛШЛАХ</cyrillic>
+      <definition>1. зарывать в землю, засыпать землёю, погребать; 2. булшлахуй-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠯᠠᠰᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>БУЛШЛАХУЙ</cyrillic>
+      <definition>погребение.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>булшлах</cyrillic>
+      <definition>begraben, beerdigen</definition>
+      <page>62</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠯᠠᠰᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>булшлах</cyrillic>
+      <definition>булш болгох, даршлах, хүүр булшлах.</definition>
+      <page>107</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>B3213</ref>
+  </related_to>
+</entry>

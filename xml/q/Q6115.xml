@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q6115">
+  <head>
+    <unicode>ᠬᠣᠮᠪᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>qumbalǰaqu</transcript>
+    <transcript2>gombalcago</transcript2>
+    <cyrillic>хумбалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q6116</ref>
+    <ref>Q6117</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠮᠪᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>хумбалзах</cyrillic>
+      <definition>〔动〕参见 хумбаганах.</definition>
+      <page>1430</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠮᠪᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ХУМБАЛЗАХ</cyrillic>
+      <definition>двигаться, шевелиться (о ком-чем-л. выпуклом, шарообразном). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠮᠪᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>хумбалзах</cyrillic>
+      <definition>хумбагар юмны байн байн хөдлөх.</definition>
+      <page>728</page>
+    </entry_item>
+  </entries>
+</entry>

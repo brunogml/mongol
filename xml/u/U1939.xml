@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1939">
+  <head>
+    <unicode>ᠣᠮᠠᠶᠢᠯᠭᠠᠬᠣ</unicode>
+    <transcript>umayilγaqu</transcript>
+    <transcript2>omayilgago</transcript2>
+    <cyrillic>умайлгах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠮᠠᠢᠯᠭᠠᠬᠤ</unicode>
+      <cyrillic>умайлгах</cyrillic>
+      <definition>〔动〕умайх 的使动态.</definition>
+      <page>1188</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠮᠠᠶᠢᠯᠭᠠᠬᠣ</unicode>
+      <cyrillic>УМАЙЛГАХ</cyrillic>
+      <definition>умайх-ын үйлдүүл., 1) суживать, стягивать; 2) шить на живую нљтку; оёх гэж умайлгачихжээ шить-то шил, да только на живую нљтку. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>умайлгах</cyrillic>
+      <definition>1. Kaus von умайх
+2. verengen, zusammenziehen; Mund spitzen</definition>
+      <page>256</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠮᠠᠢᠯᠭᠠᠬᠤᠪᠣᠯᠴᠢᠩ</unicode>
+      <cyrillic>умайлгах</cyrillic>
+      <definition>умайхын үйлдүүлэх хэв, умгар болгох.</definition>
+      <page>592</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>U1938</ref>
+  </related_to>
+</entry>

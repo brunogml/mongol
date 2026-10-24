@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y2605">
+  <head>
+    <unicode>ᠵᠢᠭᠣᠳᠠᠬᠣ</unicode>
+    <transcript>ǰiγudaqu</transcript>
+    <transcript2>yigodago</transcript2>
+    <cyrillic>зугадах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y2608</ref>
+  </derivatives>
+  <see_also>
+    <ref>Y2604</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠭᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>зугадах</cyrillic>
+      <definition>〔动〕①见 зугтах；②〈医〉神游（症）人：~ маяг 神游样.</definition>
+      <page>573</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠭᠣᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЗУГАДАХ</cyrillic>
+      <definition>зугтах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зугадах</cyrillic>
+      <definition>= зугтах</definition>
+      <page>125</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠭᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>зугадах</cyrillic>
+      <definition>зугтах.</definition>
+      <page>281</page>
+    </entry_item>
+  </entries>
+</entry>

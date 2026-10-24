@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7617">
+  <head>
+    <unicode>ᠲᠣᠷᠠᠩᠺᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>turanggilaγulqu</transcript>
+    <transcript2>doranggilagolgo</transcript2>
+    <cyrillic>турангилуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T7616</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠷᠠᠩᠭᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>турангилуулах</cyrillic>
+      <definition>〔动〕турангилах 的使动态.</definition>
+      <page>1115</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠷᠠᠩᠺᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТУРАНГИЛУУЛАХ</cyrillic>
+      <definition>турангилах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠷᠠᠩᠭᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>турангилуулах</cyrillic>
+      <definition>турангилахын үйлдүүлэх хэв, тураах.</definition>
+      <page>558</page>
+    </entry_item>
+  </entries>
+</entry>

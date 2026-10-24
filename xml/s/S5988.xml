@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5988">
+  <head>
+    <unicode>ᠰᠣᠮᠣᠳᠠᠬᠣ</unicode>
+    <transcript>sumudaqu</transcript>
+    <transcript2>somodago</transcript2>
+    <cyrillic>сумдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5989</ref>
+    <ref>S5990</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠣᠮᠣᠳᠠᠬᠣ</unicode>
+      <uighur>somudaqu</uighur>
+      <transcript>SOMUDA-</transcript>
+      <definition>See somu-</definition>
+      <page>726</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠤᠮᠣᠳᠠᠬᠤ ~ ᠰᠤᠮᠣᠳᠣᠬᠤ</unicode>
+      <definition>entasser dans une meule: 2 se jeter la tête la première.</definition>
+      <page>1405</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠮᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>сумдах</cyrillic>
+      <definition>〔动〕射击，射箭，打靶；发射，弹射.</definition>
+      <page>960</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠮᠣᠳᠠᠬᠣ</unicode>
+      <cyrillic>СУМДАХ</cyrillic>
+      <definition>1) играть в бабки; 2) отяжелеть (о кости при игре в бабки). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠮᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>сумдах</cyrillic>
+      <definition>1. шагааг заавал сумаар харвах; шагаа сумдах;2. шагаа харвах харвуулын сум хүнддэх.</definition>
+      <page>489</page>
+    </entry_item>
+  </entries>
+</entry>

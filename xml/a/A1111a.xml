@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A1111a">
+  <head>
+    <unicode>ᠠᠬᠰᠢᠷᠠᠬᠣ</unicode>
+    <transcript>aγsiγuraqu</transcript>
+    <transcript2>agsigorago</transcript2>
+    <cyrillic>агшуурах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠭᠰᠢᠭᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>агшуурах</cyrillic>
+      <definition>〔动〕①变稠，变浓；②变干，变干瘦.</definition>
+      <page>21</page>
+    </entry_item>
+    <entry_item>
+      <dico>Bawden</dico>
+      <cyrillic>8</cyrillic>
+    </entry_item>
+    <entry_item>
+      <dico>Mostaert</dico>
+      <unicode>ᠠᠬᠰᠢᠷᠠᠬᠣ</unicode>
+      <definition>devenir un peu sec</definition>
+      <page>8</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠭᠰᠢᠭᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>агшуурах</cyrillic>
+      <definition>агшуун болох.</definition>
+      <page>22</page>
+    </entry_item>
+  </entries>
+</entry>

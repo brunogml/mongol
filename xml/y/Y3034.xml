@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y3034">
+  <head>
+    <unicode>ᠵᠢᠯᠣᠭᠠᠴᠢ</unicode>
+    <transcript>ǰiluγači</transcript>
+    <transcript2>yilogaci</transcript2>
+    <cyrillic>жолооч</cyrillic>
+  </head><see_also>
+    <ref>Y3050</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠢᠯᠣᠭᠠᠴᠢ</unicode>
+      <uighur>ǰiloγači</uighur>
+      <cyrillic>жолооч</cyrillic>
+      <transcript>ZILUΓACI</transcript>
+      <definition>n. Coachman, driver, chauffeur, pilot.</definition>
+      <page>1055</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠠᠰᠢᠨ᠎ᠠ ᠎ᠶᠢᠨ ᠵᠢᠯᠣᠭᠠᠴᠢ</unicode>
+          <transcript>masin-a jin --</transcript>
+          <definition> Chauffeur.</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠢᠰᠺᠦ ᠣᠩᠭᠤᠴᠠᠨ ᠤ ᠵᠢᠯᠣᠭᠠᠴᠢ</unicode>
+          <transcript>nisky ongγucan u -- </transcript>
+          <definition> Pilot of an airplane.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠢᠯᠣᠭᠠᠳᠠᠬᠴᠢ ~ ᠵᠢᠯᠣᠭᠠᠴᠢ</unicode>
+      <definition>cocher: 2 administrateur, conducteur, directeur.</definition>
+      <page>2345</page>
+    </entry_item>
+  </entries>
+</entry>

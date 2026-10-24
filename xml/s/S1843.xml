@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1843">
+  <head>
+    <unicode>ᠰᠠᠷᠲᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>sartalǰaqu</transcript>
+    <transcript2>sardalcago</transcript2>
+    <cyrillic>сарталзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1844</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠷᠲᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>сарталзах</cyrillic>
+      <definition>〔动〕参见 сартганах.</definition>
+      <page>919</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠷᠲᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>САРТАЛЗАХ</cyrillic>
+      <definition>зиять, быть разинутым, широко раскрытым; сартганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сарталзах</cyrillic>
+      <definition>= сартганах</definition>
+      <page>196</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠷᠲᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>сарталзах</cyrillic>
+      <definition>сартгар юмны сартас сартас хөдлөх.</definition>
+      <page>471</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1634">
+  <head>
+    <unicode>ᠰᠠᠶᠢᠷᠬᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sayirqaγulqu</transcript>
+    <transcript2>sayirgagolgo</transcript2>
+    <cyrillic>сайрхуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S1633</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠢᠷᠬᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сайрхуулах</cyrillic>
+      <definition>〔动〕сайрхах 的使动态.</definition>
+      <page>898</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠶᠢᠷᠬᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>САЙРХУУЛАХ</cyrillic>
+      <definition>сайрхах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сайрхуулах</cyrillic>
+      <definition>Kaus von сайрхах</definition>
+      <page>191</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠢᠷᠬᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сайрхуулах</cyrillic>
+      <definition>сайрхахын үйлдүүлэх хэв.</definition>
+      <page>461</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T5439">
+  <head>
+    <unicode>ᠲᠣᠩᠬᠣ</unicode>
+    <transcript>tungqu</transcript>
+    <transcript2>donggo</transcript2>
+    <cyrillic>тунхуу</cyrillic>
+  </head><see_also>
+    <ref>T5441</ref>
+  
+    <ref>T5438</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠩᠬᠣ</unicode>
+      <uighur>tungqu</uighur>
+      <cyrillic>тунхуу - тонхуу</cyrillic>
+      <transcript>TUNGXU</transcript>
+      <definition>[ch. t'ung-hao] n. [Gu.] wild horse-radish, Cochlearia armoracia. [Giles] Chrythansemum coronarium.</definition>
+      <page>843</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠩᠬᠤ</unicode>
+      <definition>raifort sauvage 2 bois, endroit boisé.</definition>
+      <page>1792</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠤᠩᠬᠤ ᠎ᠶᠢᠨ ᠣᠷᠣᠨ</unicode>
+          <definition>endroit boisé</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

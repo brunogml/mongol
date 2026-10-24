@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3601">
+  <head>
+    <unicode>ᠵᠢᠷᠲᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>ǰirtalǰaqu</transcript>
+    <transcript2>yirdalcago</transcript2>
+    <cyrillic>жарталзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y3602</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠢᠷᠲᠠᠯᠵᠠᠬᠣ</unicode>
+      <uighur>ǰirdalǰaqu</uighur>
+      <transcript>ZIRTALZA-</transcript>
+      <definition>See zirtelze-.</definition>
+      <page>1060</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠷᠲᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>жарталзах</cyrillic>
+      <definition>〔动〕参见 жартганах.</definition>
+      <page>503</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠷᠲᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ЖАРТАЛЗАХ</cyrillic>
+      <definition>жартганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>жарталзах</cyrillic>
+      <definition>= жартганах</definition>
+      <page>109</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠷᠲᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>жарталзах</cyrillic>
+      <definition>1. жартгар юмны байн байн хөдлөх;2. нүд ирмэн анилхилан үзэх;3. бусдад тааламжтай байдал гаргаж сэрэгдүүлэх.</definition>
+      <page>242</page>
+    </entry_item>
+  </entries>
+</entry>

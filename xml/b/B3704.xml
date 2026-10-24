@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B3704">
+  <head>
+    <unicode>ᠪᠣᠵᠠᠷᠲᠣᠬᠣ</unicode>
+    <transcript>buǰartuqu</transcript>
+    <transcript2>bocardogo</transcript2>
+    <cyrillic>бузартах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B3705</ref>
+    <ref>B3706</ref>
+    <ref>B3705a</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠤᠵᠠᠷᠲᠤᠬᠤ</unicode>
+      <cyrillic>бузартах</cyrillic>
+      <definition>〔动〕①变污秽，变脏；变丑陋，变下流，变卑劣：бузартсан газар 藏污纳垢之所；②杂草丛生.</definition>
+      <page>198</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠵᠠᠷᠲᠣᠬᠣ</unicode>
+      <cyrillic>БУЗАРТАХ</cyrillic>
+      <definition>1. 1) делаться грязным, нечистым, загрязняться, пачкаться, мараться; 2) шилж. оскверняться; 3) хуучир. заражаться; 2. бузартахуй-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠵᠠᠷᠲᠣᠬᠣ</unicode>
+      <cyrillic>БУЗАРТАХУЙ</cyrillic>
+      <definition>1) осквернение; 2) хуучир. заражение.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бузартах</cyrillic>
+      <definition>= бузардах</definition>
+      <page>60</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠵᠠᠷᠲᠤᠬᠤ</unicode>
+      <cyrillic>бузартах</cyrillic>
+      <definition>бузар болох, гутах.</definition>
+      <page>104</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>B3701</ref>
+  </related_to>
+</entry>

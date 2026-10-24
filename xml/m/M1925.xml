@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1925">
+  <head>
+    <unicode>ᠮᠣᠯᠵᠠᠯᠠᠬᠣ</unicode>
+    <transcript>mulǰalaqu</transcript>
+    <transcript2>molcalago</transcript2>
+    <cyrillic>мулзлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M1926</ref>
+    <ref>M1928</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠤᠯᠵᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>мулзлах</cyrillic>
+      <definition>〔动〕①烫（食物）；②煮，炖（食物）.</definition>
+      <page>693</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠯᠵᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>МУЛЗЛАХ</cyrillic>
+      <definition>I обчистить, обокрасть, ограбить; снимать; раздевать; оргүй мулзлах начисто обокрасть, обобрать дочиста. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠯᠵᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>МУЛЗЛАХ</cyrillic>
+      <definition>II ошпарить кипятком. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠤᠯᠵᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>мулзлах</cyrillic>
+      <definition>идэш уушны зэрэг зүйлийг шалзлах.</definition>
+      <page>349</page>
+    </entry_item>
+  </entries>
+</entry>

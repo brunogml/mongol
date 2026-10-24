@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B3388">
+  <head>
+    <unicode>ᠪᠣᠯᠭᠣ</unicode>
+    <transcript>bulγu</transcript>
+    <transcript2>bolgo</transcript2>
+    <cyrillic>булга</cyrillic>
+  </head>
+  <see_also>
+    <ref>B3203</ref>
+    <ref>B3387</ref>
+    <ref>B3386</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠣᠯᠭᠣ</unicode>
+      <uighur>bulγu</uighur>
+      <cyrillic>булга</cyrillic>
+      <transcript>BULΓU</transcript>
+      <definition>Reinforcing adverbial particle placed before verbs expressing breaking at the root, uprooting, or pulling out of a socket.</definition>
+      <page>134</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠣᠯᠭᠣ ᠴᠣᠺᠢᠬᠤ</unicode>
+          <transcript>-- cokixu</transcript>
+          <definition> To knock out (as a tooth).</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠣᠯᠭᠣ ᠲᠠᠲᠠᠬᠤ</unicode>
+          <transcript>-- tataxu, </transcript>
+          <definition>To pull out with the root, uproot, jerk out</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠯᠭᠣ</unicode>
+      <cyrillic>БУЛГА</cyrillic>
+      <definition>III хүч нэмэгдүүлэх сул үг, орос хэлний вы- угтвартай ихэвчлэн тохирно (усилительная частица, часто соответствует приставке вы-); булга гишгэх подворачивать, повредить ногу; булга ойчих отломиться; булга татах выдёргивать с корнем, выкорчёвывать; булга цохих выбить, сбить.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠯᠭᠤ</unicode>
+      <cyrillic>булга /2</cyrillic>
+      <definition>булга татах, булга цохих, булгалан мултлах.</definition>
+      <page>105</page>
+    </entry_item>
+  </entries>
+</entry>

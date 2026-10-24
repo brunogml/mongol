@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6814">
+  <head>
+    <unicode>ᠲᠣᠯᠢᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>toliγanaqu</transcript>
+    <transcript2>doliganago</transcript2>
+    <cyrillic>толигонох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T6816</ref>
+  </derivatives>
+  <see_also>
+    <ref>T6815</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠯᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>толигонох</cyrillic>
+      <definition>〔动〕①（平滑或光滑的东西）微动，摇动，摆动；②反光.</definition>
+      <page>1065</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠯᠢᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ТОЛИГОНОХ</cyrillic>
+      <definition>толилзох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>толигонох</cyrillic>
+      <definition>= толилзох</definition>
+      <page>228</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠯᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>толигонох</cyrillic>
+      <definition>толигор юмны хөдлөх буюу харагдах.</definition>
+      <page>538</page>
+    </entry_item>
+  </entries>
+</entry>

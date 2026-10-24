@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2020">
+  <head>
+    <unicode>ᠰᠠᠪᠠᠰᠥᠯᠠᠺᠥ</unicode>
+    <transcript>sebesülekü</transcript>
+    <transcript2>sebesölegö</transcript2>
+    <cyrillic>сэвслэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S2021</ref>
+  </derivatives>
+  <see_also>
+    <ref>S2067</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠪᠠᠰᠥᠯᠠᠺᠥ</unicode>
+      <cyrillic>СЭВСЛЭХ</cyrillic>
+      <definition>хуучир. ставить припарки содержимым потрохов только что заколотого животного. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠪᠡᠰᠦᠯᠡᠬᠦ</unicode>
+      <cyrillic>сэвслэх</cyrillic>
+      <definition>юмыг сэвсээр хөхүүлэх.</definition>
+      <page>499</page>
+    </entry_item>
+  </entries>
+</entry>

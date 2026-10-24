@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9091">
+  <head>
+    <unicode>ᠳᠥᠺᠥᠺᠥᠯᠺᠥ</unicode>
+    <transcript>dökügülkü</transcript>
+    <transcript2>dögögölgö</transcript2>
+    <cyrillic>дөхүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T9087</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠥᠬᠥᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дөхүүлэх</cyrillic>
+      <definition>〔动〕дөхөх 的使动态.</definition>
+      <page>433</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠥᠺᠥᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ДӨХҮҮЛЭХ</cyrillic>
+      <definition>дөхөх-ийн үйлдүүл., 1) проводить; 2) пододвинуть; 3) подпускать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠥᠬᠥᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дөхүүлэх</cyrillic>
+      <definition>дөхөхийн үйлдүүлэх хэв, ойртуулах.</definition>
+      <page>207</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="L0101">
+  <head>
+    <unicode>ᠯᠠᠪᠰᠠᠬᠣ</unicode>
+    <transcript>labsaqu</transcript>
+    <transcript2>labsago</transcript2>
+    <cyrillic>лавсах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>L0102</ref>
+    <ref>L0103</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠯᠠᠪᠰᠠᠬᠣ</unicode>
+      <uighur>labsaqu</uighur>
+      <cyrillic>лавсах</cyrillic>
+      <transcript>LABSA-</transcript>
+      <definition>v.i. To fall in flakes ( as snow).</definition>
+      <page>513</page>
+      <examples>
+        <example>
+          <unicode>ᠯᠠᠪᠰᠠᠨ ᠤᠨᠠᠬᠤ</unicode>
+          <transcript>--n unaxu</transcript>
+          <definition> As above.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠯᠠᠪᠰᠠᠬᠤ</unicode>
+      <definition>il neige à gros flocons</definition>
+      <page>1959</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠯᠠᠪᠰᠠᠬᠣ</unicode>
+      <uighur>labsaqu</uighur>
+      <definition>mit grossen Flocken schneien</definition>
+      <page>225</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠯᠠᠪᠰᠠᠬᠣ</unicode>
+      <uighur>labsaqu</uighur>
+      <definition>The falling of large snow-flakes</definition>
+      <page>884</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠯᠠᠪᠰᠠᠬᠤ</unicode>
+      <cyrillic>лавсах</cyrillic>
+      <definition>〔动〕下大雪，下雪片：цас ~ 大雪纷飞，下雪片；утаа ~ 浓烟滚滚.</definition>
+      <page>640</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠯᠠᠪᠰᠠᠬᠣ</unicode>
+      <cyrillic>ЛАВСАХ</cyrillic>
+      <definition>1) падать хлопьями (о снеге); цас лавсаж байна снег падает хлопьями; 2) клубиться; утаа лавсаж байна идёт густой дым, дым клубится. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>лавсах</cyrillic>
+      <definition>Schnee in großen Flocken fallen</definition>
+      <page>138</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠯᠠᠪᠰᠠᠬᠤ</unicode>
+      <cyrillic>лавсах</cyrillic>
+      <definition>цас малгайлан орох; цас лавсах; утаа лавсах; лавсах баагих.</definition>
+      <page>318</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0841">
+  <head>
+    <unicode>ᠪᠠᠯᠬᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>balqaγanaqu</transcript>
+    <transcript2>balgaganago</transcript2>
+    <cyrillic>балхганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0843</ref>
+  </derivatives>
+  <see_also>
+    <ref>B0841a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠯᠬᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>балхганах</cyrillic>
+      <definition>〔动〕参见 балхалзах.</definition>
+      <page>124</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠯᠬᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>БАЛХГАНАХ</cyrillic>
+      <definition>1) колыхаться, трястись (о животе); 2) двигаться, шевелиться (о ком-л. с большим животом).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>балхганах</cyrillic>
+      <definition>= балхалзах</definition>
+      <page>45</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠯᠬᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>балхганах</cyrillic>
+      <definition>балхгар юмны балхга балхга хийх байдал.</definition>
+      <page>71</page>
+    </entry_item>
+  </entries>
+</entry>

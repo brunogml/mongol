@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I0331">
+  <head>
+    <unicode>ᠢᠳᠠᠩᠺᠢᠷᠲᠥᠺᠥ</unicode>
+    <transcript>idenggirtükü</transcript>
+    <transcript2>idenggirdögö</transcript2>
+    <cyrillic>идэнгэртэх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠳᠡᠩᠭᠢᠷᠲᠦᠬᠦ</unicode>
+      <cyrillic>идэнгэртэх</cyrillic>
+      <definition>〔形〕成为可 口 的，成为好吃的；吃得可口.</definition>
+      <page>604</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠳᠠᠩᠺᠢᠷᠲᠥᠺᠥ</unicode>
+      <cyrillic>ИДЭНГЭРТЭХ</cyrillic>
+      <definition>идэнгэрших-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠳᠡᠩᠭᠡᠷᠲᠦᠬᠦ</unicode>
+      <cyrillic>идэнгэртэх</cyrillic>
+      <definition>идэнгэ байдалтай болох.</definition>
+      <page>300</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>I0330</ref>
+  </related_to>
+</entry>

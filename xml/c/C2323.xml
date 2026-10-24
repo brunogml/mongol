@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C2323">
+  <head>
+    <unicode>ᠴᠢᠷᠢᠺᠯᠠᠺᠥ</unicode>
+    <transcript>čiriglekü</transcript>
+    <transcript2>ciriglegö</transcript2>
+  </head>
+  <related_to>
+    <ref>C2320</ref>
+  </related_to>
+  <derivatives>
+    <ref>C2324</ref>
+    <ref>C2321</ref>
+    <ref>C2322</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠢᠷᠢᠺᠯᠡᠺᠦ</unicode>
+      <definition>faire la guerre, se mettre en campagne</definition>
+      <page>2187</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠷᠤᠰᠢ ᠎ᠶᠢᠨ ᠬᠠᠭᠠᠨ ᠲᠩᠷᠢ ᠎ᠨᠠᠷ ᠎ᠲᠤᠷ ᠴᠢᠷᠢᠺᠯᠡᠪᠡᠢ</unicode>
+          <definition>le roi des Assuris se mit en campagne contre les Tégris</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠴᠢᠷᠢᠺᠯᠠᠺᠥ</unicode>
+      <uighur>čiriklekü</uighur>
+      <definition>v.i. To carry on war. To make war, the whole population rising to fight</definition>
+      <page>1327</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y3658">
+  <head>
+    <unicode>ᠵᠢᠷᠺᠢᠷᠠᠬᠣ</unicode>
+    <transcript>ǰirgiraqu</transcript>
+    <transcript2>yirgirago</transcript2>
+  </head><derivatives>
+    <ref>Y3659</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠢᠷᠺᠢᠷᠠᠬᠣ</unicode>
+      <uighur>ǰirkiraqu</uighur>
+      <transcript>ZIRKIRA-</transcript>
+      <definition>To groan, creak</definition>
+      <page>1060</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠢᠷᠺᠢᠷᠠᠬᠤ</unicode>
+      <definition>grogner, sonner, faire un bruit, bourdonner.</definition>
+      <page>2370</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠯᠳᠡᠪ ᠵᠦᠭᠡᠰ ᠵᠢᠷᠭᠢᠷᠠᠨ ᠨᠠᠭᠠᠳᠤᠮᠤᠢ</unicode>
+          <definition>différents insectes bourdonnent</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

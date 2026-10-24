@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K0971">
+  <head>
+    <unicode>ᠺᠠᠮᠰᠢᠯᠲᠥ</unicode>
+    <transcript>gemsiltü</transcript>
+    <transcript2>gemsildö</transcript2>
+    <cyrillic>гэмшилт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠡᠮᠰᠢᠯᠲᠥ</unicode>
+      <uighur>gemsildü</uighur>
+      <cyrillic>гэмшилт</cyrillic>
+      <transcript>GEMSILTY</transcript>
+      <definition>adj. Penitent, repentant .</definition>
+      <page>376</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠡᠮᠰᠢᠯᠲᠥ ᠰᠡᠳᠺᠢᠯ ᠲᠡᠷᠦᠺᠦ</unicode>
+          <transcript>--sedkil teryky</transcript>
+          <definition> To grieve, repent.</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠡᠮᠰᠢᠯᠲᠥ ᠰᠡᠳᠺᠢᠯ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- sedkil ygei</transcript>
+          <definition> Insensitive (morally), callous, inhumane.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠡᠮᠰᠢᠯᠳᠦ</unicode>
+      <definition>pénitent,</definition>
+      <page>2485</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠮᠰᠢᠯᠲᠥ</unicode>
+      <cyrillic>ГЭМШИЛТ</cyrillic>
+      <definition>достойный сожаления, вызывающий раскаяние; исполненный сожаления, раскаивающийся. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+<related_to><ref>K0969</ref></related_to><see_also><ref>K0970</ref></see_also></entry>

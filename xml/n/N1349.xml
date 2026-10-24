@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="N1349">
+  <head>
+    <unicode>ᠨᠢᠬᠣᠬᠣ</unicode>
+    <transcript>niququ</transcript>
+    <transcript2>nigogo</transcript2>
+    <cyrillic>нухах</cyrillic>
+  </head><derivatives>
+    <ref>N1351</ref>
+  
+    <ref>N1353</ref>
+  </derivatives><see_also>
+    <ref>N2017</ref>
+  
+    <ref>N1350</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠨᠢᠬᠣᠬᠣ</unicode>
+      <uighur>niququ</uighur>
+      <cyrillic>нухах</cyrillic>
+      <transcript>NIXU-</transcript>
+      <definition>[=nuxu-]v.t. To rub, massage; to mash, press, knead; to crumple; to finish off, dispose of completely, kill</definition>
+      <page>586</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠤᠯᠢᠷ ᠨᠢᠬᠣᠬᠣ</unicode>
+          <transcript>γulir --xu</transcript>
+          <definition> To knead flour.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠯᠺᠢ ᠪᠣᠯᠭᠠᠨ ᠨᠢᠬᠣᠬᠣ</unicode>
+          <transcript>talki bolγan --xu</transcript>
+          <definition> To rub into a poweder.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠨᠢᠬᠣᠬᠤ</unicode>
+      <definition>rouler, fouler, feutrer; piler</definition>
+      <page>646</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠨᠢᠬᠣᠬᠣ</unicode>
+      <uighur>niququ</uighur>
+      <definition>kneten, zerreiben</definition>
+      <page>87</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠨᠢᠬᠣᠬᠣ</unicode>
+      <uighur>niququ</uighur>
+      <definition>v.t. To knead. To grind.</definition>
+      <page>345</page>
+    </entry_item>
+  </entries>
+</entry>

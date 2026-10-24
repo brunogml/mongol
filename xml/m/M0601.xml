@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0601">
+  <head>
+    <unicode>ᠮᠠᠯᠵᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>malǰiγulqu</transcript>
+    <transcript2>malcigolgo</transcript2>
+    <cyrillic>малжуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>M0600</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠯᠵᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>малжуулах</cyrillic>
+      <definition>〔动〕малжих 的使动态.</definition>
+      <page>656</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠯᠵᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>МАЛЖУУЛАХ</cyrillic>
+      <definition>малжих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠯᠵᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>малжуулах</cyrillic>
+      <definition>малжихын үйлдүүлэх хэв, малтай болгох.</definition>
+      <page>328</page>
+    </entry_item>
+  </entries>
+</entry>

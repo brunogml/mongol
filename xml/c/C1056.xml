@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1056">
+  <head>
+    <unicode>ᠴᠠᠮᠴᠠᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>čemčegenekü</transcript>
+    <transcript2>cemcegenegö</transcript2>
+    <cyrillic>цэмцэгнэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1057</ref>
+    <ref>C1055</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠮᠴᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>цэмцэгнэх</cyrillic>
+      <definition>〔动〕浮华，风流艳装，摩登装束.</definition>
+      <page>1564</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠮᠴᠠᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>ЦЭМЦЭГНЭХ</cyrillic>
+      <definition>1) франтить, щеголять; форсить; 2) жеманничать, манерничать (об опрятном человеке). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠮᠴᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>цэмцэгнэх</cyrillic>
+      <definition>цэмцгэр юмны цэмцэг цэмдэг хөдлөх.</definition>
+      <page>806</page>
+    </entry_item>
+  </entries>
+</entry>

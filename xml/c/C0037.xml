@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0037">
+  <head>
+    <unicode>ᠴᠠᠩᠭᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čangγaγulqu</transcript>
+    <transcript2>canggagolgo</transcript2>
+    <cyrillic>цангуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C0036</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠩᠭᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цангуулах</cyrillic>
+      <definition>〔动〕цангах 的使动态.</definition>
+      <page>1518</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠩᠭᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦАНГУУЛАХ</cyrillic>
+      <definition>цангаах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠩᠭᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цангуулах</cyrillic>
+      <definition>цангахын үйлдүүлэх хэв.</definition>
+      <page>782</page>
+    </entry_item>
+  </entries>
+</entry>

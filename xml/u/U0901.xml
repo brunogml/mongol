@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="U0901">
+  <head>
+    <unicode>ᠣᠬᠲᠣᠯᠭᠠᠲᠣ</unicode>
+    <transcript>oγtulγatu</transcript>
+    <transcript2>ogdolgado</transcript2>
+    <cyrillic>огтлогот</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠬᠲᠣᠯᠭᠠᠳᠤ</unicode>
+      <definition>coupé, tranché, retranché; 2 (lettre) prépositionnelle ou muette dans la langue tibétaine (ག་ད་བ་མ་འ་)</definition>
+      <page>435</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠬᠲᠣᠯᠭ᠎ᠠ ᠎ᠲᠤ ᠦᠰᠦᠭ</unicode>
+          <definition>lettre prépositionelle ou muette dans la langue tibétaine (ག ད བ མ འ)</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠬᠲᠣᠯᠭᠠᠲᠣ</unicode>
+      <cyrillic>ОГТЛОГОТ</cyrillic>
+      <definition>усечённый, отрезанный; хэрчмийн алтан огтлогот тоо. золотое сечение отрезка. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

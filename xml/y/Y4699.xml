@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4699">
+  <head>
+    <unicode>ᠶᠣᠺᠢᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>yokiγanaqu</transcript>
+    <transcript2>yogiganago</transcript2>
+    <cyrillic>ёхигонох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y4700</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠣᠬᠢᠭᠣᠨᠠᠬᠤ</unicode>
+      <cyrillic>ёхигонох</cyrillic>
+      <definition>〔动〕参见 ёхиволзох.</definition>
+      <page>496</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠣᠺᠢᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЁХИГОНОХ</cyrillic>
+      <definition>ёхиволзох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠣᠬᠢᠭᠣᠨᠠᠬᠤ</unicode>
+      <cyrillic>ёхигонох</cyrillic>
+      <definition>ёхиволзох, хохиволзох.</definition>
+      <page>238</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A1000">
+  <head>
+    <unicode>ᠠᠭᠣᠷᠰᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>aγursaγulqu</transcript>
+    <transcript2>agorsagolgo</transcript2>
+    <cyrillic>уурсуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>A0999</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠭᠣᠷᠰᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>уурсуулах</cyrillic>
+      <definition>〔动〕уурсах 的使动态.</definition>
+      <page>1215</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠣᠷᠰᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>УУРСУУЛАХ</cyrillic>
+      <definition>уурсах I-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>уурсуулах</cyrillic>
+      <definition>1. Kaus von уурсах
+2. tr verärgern
+3. tr verdampfen, verdunsten</definition>
+      <page>263</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠭᠤᠷᠰᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>уурсуулах</cyrillic>
+      <definition>уурсахын үйлдүүлэх хэв.</definition>
+      <page>606</page>
+    </entry_item>
+  </entries>
+</entry>

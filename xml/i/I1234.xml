@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I1234">
+  <head>
+    <unicode>ᠢᠷᠰᠢᠺᠥ</unicode>
+    <transcript>irsikü</transcript>
+    <transcript2>irsigö</transcript2>
+    <cyrillic>ирших</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠷᠰᠢᠬᠦ</unicode>
+      <cyrillic>ирших</cyrillic>
+      <definition>〔动〕满足起来，知足起来.</definition>
+      <page>621</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠷᠰᠢᠺᠥ</unicode>
+      <cyrillic>ИРШИХ</cyrillic>
+      <definition>иржих-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠷᠰᠢᠬᠦ</unicode>
+      <cyrillic>ирших</cyrillic>
+      <definition>иржихийн шинж байдал орох.</definition>
+      <page>308</page>
+    </entry_item>
+  </entries>
+</entry>

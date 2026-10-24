@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0321">
+  <head>
+    <unicode>ᠳᠠᠩᠺᠢᠯᠵᠠᠬᠣ</unicode>
+    <transcript>dangkilǰaqu</transcript>
+    <transcript2>danggilcago</transcript2>
+    <cyrillic>данхилзах</cyrillic>
+  </head>
+  <see_also>
+    <ref>T0320</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠩᠬᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>данхилзах</cyrillic>
+      <definition>〔动〕参见 данхиганах.</definition>
+      <page>391</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠩᠺᠢᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ДАНХИЛЗАХ</cyrillic>
+      <definition>данхиганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠩᠬᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>данхилзах</cyrillic>
+      <definition>данхигар юмны данхис данхис хөдлөх байдал.</definition>
+      <page>188</page>
+    </entry_item>
+  </entries>
+</entry>

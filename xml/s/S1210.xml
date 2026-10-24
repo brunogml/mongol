@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1210">
+  <head>
+    <unicode>ᠱᠠᠯᠴᠢᠺᠢᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šalčiginaγulqu</transcript>
+    <transcript2>salciginagolgo</transcript2>
+    <cyrillic>шалчигнуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S1209</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠯᠴᠢᠭᠢᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шалчигнуулах</cyrillic>
+      <definition>〔动〕шалчигнах 的使动态.</definition>
+      <page>1616</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠯᠴᠢᠺᠢᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАЛЧИГНУУЛАХ</cyrillic>
+      <definition>шалчигнах-ын үйлдүүл., шалчигнуулан явах шлёпать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шалчигнуулах</cyrillic>
+      <definition>Kaus von шалчигнах</definition>
+      <page>379</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠯᠴᠢᠭᠢᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шалчигнуулах</cyrillic>
+      <definition>шалчигнахын үйлдүүлэх хэв.</definition>
+      <page>835</page>
+    </entry_item>
+  </entries>
+</entry>

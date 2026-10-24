@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N2325">
+  <head>
+    <unicode>ᠨᠣᠮᠣᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>numudaγulqu</transcript>
+    <transcript2>nomodagolgo</transcript2>
+    <cyrillic>нумдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>N2324</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠤᠮᠤᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нумдуулах</cyrillic>
+      <definition>〔动〕нумдах 的使动态.</definition>
+      <page>759</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠣᠮᠣᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>НУМДУУЛАХ</cyrillic>
+      <definition>нумдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠤᠮᠤᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нумдуулах</cyrillic>
+      <definition>нумдахын үйлдүүлэх хэв.</definition>
+      <page>388</page>
+    </entry_item>
+  </entries>
+</entry>

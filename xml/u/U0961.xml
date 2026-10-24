@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U0961">
+  <head>
+    <unicode>ᠣᠬᠵᠠᠴᠢᠬᠣ</unicode>
+    <transcript>uqǰačiqu</transcript>
+    <transcript2>ogcacigo</transcript2>
+    <cyrillic>угзчих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U0962</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠭᠵᠠᠴᠢᠬᠤ</unicode>
+      <cyrillic>угзчих</cyrillic>
+      <definition>〔动〕угзрах 的多次体.</definition>
+      <page>1172</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠬᠵᠠᠴᠢᠬᠣ</unicode>
+      <cyrillic>УГЗЧИХ</cyrillic>
+      <definition>угзрах-ын олонтаа., подёргивать, тянуть рывками; уурын тэрэг угзчин хөдлөв паровоз тронулся, подёргиваясь. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠭᠵᠠᠴᠢᠬᠤ</unicode>
+      <cyrillic>угзчих</cyrillic>
+      <definition>байн байн угзрах; дээл дээрээс нь байн байн угзчиж байв.</definition>
+      <page>583</page>
+    </entry_item>
+  </entries>
+</entry>

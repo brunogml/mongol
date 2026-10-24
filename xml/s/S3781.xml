@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3781">
+  <head>
+    <unicode>ᠰᠢᠳᠥᠲᠥ</unicode>
+    <transcript>sidütü</transcript>
+    <transcript2>sidödö</transcript2>
+    <cyrillic>шүдэт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠳᠥᠲᠥ</unicode>
+      <uighur>sidüdü</uighur>
+      <cyrillic>шидэт</cyrillic>
+      <transcript>SIDYTY</transcript>
+      <definition>See sidytei.</definition>
+      <page>699</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠳᠣᠳᠤ ~ ᠰᠢᠳᠣᠳᠠᠢ</unicode>
+      <definition>qui a des dents, ayant des dents, denté, dentelé, crénelé.</definition>
+      <page>1487</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠳᠣᠳᠤ ᠬᠠᠳᠤᠭᠤᠷ</unicode>
+          <definition>faucille</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠰᠢᠳᠥᠲᠥ</unicode>
+      <uighur>sidütü</uighur>
+      <definition>zahnig, gezahnt</definition>
+      <page>364</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠰᠢᠳᠥᠲᠥ</unicode>
+      <uighur>sidüdü</uighur>
+      <definition>adj. Toothed. Supplied with teeth.</definition>
+      <page>1463</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠳᠦᠲᠦ</unicode>
+      <cyrillic>шүдэт</cyrillic>
+      <definition>〔形〕有齿的，带齿的：~ дугуйн чухаг үзэгдэл 齿状轮现象；~ дунд борной 中型钉齿耙；~ улт борной 锄齿耙.</definition>
+      <page>1665</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠳᠥᠲᠥ</unicode>
+      <cyrillic>ШҮДЭТ</cyrillic>
+      <definition>1) имеющий зубы; 2) имеющий зубцы, зубчатый. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠳᠦᠲᠦ</unicode>
+      <cyrillic>шүдэт</cyrillic>
+      <definition>шүд бүхий.</definition>
+      <page>862</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S3778</ref>
+  </related_to>
+</entry>

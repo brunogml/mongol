@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0307">
+  <head>
+    <unicode>ᠶᠠᠩᠺᠢᠯᠵᠠᠬᠣ</unicode>
+    <transcript>yangkilǰaqu</transcript>
+    <transcript2>yanggilcago</transcript2>
+    <cyrillic>янхилзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y0308</ref>
+    <ref>Y0309</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠠᠩᠬᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>янхилзах</cyrillic>
+      <definition>〔动〕参见 янхиганах.</definition>
+      <page>1755</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠠᠩᠺᠢᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ЯНХИЛЗАХ</cyrillic>
+      <definition>янхиганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>янхилзах</cyrillic>
+      <definition>= янхиганах</definition>
+      <page>415</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠠᠩᠬᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>янхилзах</cyrillic>
+      <definition>янхигар юмны янхис хөдлөх.</definition>
+      <page>908</page>
+    </entry_item>
+  </entries>
+</entry>

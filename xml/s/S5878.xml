@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5878">
+  <head>
+    <unicode>ᠱᠣᠯᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šulγulqu</transcript>
+    <transcript2>solgolgo</transcript2>
+    <cyrillic>шулгалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5881</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠤᠯᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шулгалах</cyrillic>
+      <definition>〔动〕剥皮，削皮.</definition>
+      <page>1658</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠯᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШУЛГАЛАХ</cyrillic>
+      <definition>содрать кожу, делать ссадину, царапать, оцарапать, открыть рану, порезать; хурууныхаа арьсыг шулгалах содрать кожу на пальце. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шулгалах</cyrillic>
+      <definition>Haut u. ä. abziehen, abschälen, abschürfen</definition>
+      <page>391</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠤᠯᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шулгалах</cyrillic>
+      <definition>арьс зэргийг зулгалах, шалбалах.</definition>
+      <page>858</page>
+    </entry_item>
+  </entries>
+</entry>

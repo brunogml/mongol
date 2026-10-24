@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2125">
+  <head>
+    <unicode>ᠣᠴᠢᠷᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>učirlaγulqu</transcript>
+    <transcript2>ocirlagolgo</transcript2>
+    <cyrillic>учирлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U2123</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠴᠢᠷᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>учирлуулах</cyrillic>
+      <definition>〔动〕учирлах 的使动态.</definition>
+      <page>1221</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠴᠢᠷᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>УЧИРЛУУЛАХ</cyrillic>
+      <definition>учирлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>учирлуулах</cyrillic>
+      <definition>Kaus von учирлах</definition>
+      <page>266</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠴᠢᠷᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>учирлуулах</cyrillic>
+      <definition>учирлахын үйлдүүлэх хэв.</definition>
+      <page>610</page>
+    </entry_item>
+  </entries>
+</entry>

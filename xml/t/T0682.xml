@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T0682">
+  <head>
+    <unicode>ᠲᠠᠭᠣᠰ</unicode>
+    <transcript>taγus</transcript>
+    <transcript2>dagos</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠭᠣᠰ</unicode>
+      <uighur>taγus</uighur>
+      <transcript>TAΓUS</transcript>
+      <definition>same as toγus</definition>
+      <page>766</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠭᠣᠰ ~ ᠳᠤᠭᠣᠰ</unicode>
+      <definition>paon.</definition>
+      <page>1587</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠭᠣᠰ ᠤᠨ ᠤᠳᠤᠭ᠎ᠠ</unicode>
+          <definition>plume de paon</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠭᠣᠰ</unicode>
+      <uighur>daγus</uighur>
+      <definition>der Pfau.</definition>
+      <page>231</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠭᠣᠰ</unicode>
+      <uighur>daγus</uighur>
+      <definition>n. A peacock.</definition>
+      <page>910</page>
+      <examples>
+        <example>
+          <uighur>daγus-un uduγ-a</uighur>
+          <definition>n. Peacock&apos;s tail.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E0955">
+  <head>
+    <unicode>ᠡᠯᠳᠡᠪᠴᠢᠯᠡᠺᠦ</unicode>
+    <transcript>eldebčilekü</transcript>
+    <transcript2>eldebcilegö</transcript2>
+    <cyrillic>элдэвчлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>E0956</ref>
+    <ref>E0954</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠯᠳᠠᠪᠴᠢᠯᠠᠺᠥ</unicode>
+      <cyrillic>ЭЛДЭВЧЛЭХ</cyrillic>
+      <definition>элдэвлэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>элдэвчлэх</cyrillic>
+      <definition>= элдэвлэх</definition>
+      <page>397</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠯᠳᠡᠪᠴᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>элдэвчлэх</cyrillic>
+      <definition>элдэвлэх, зүйл зүйлээр үзэх.</definition>
+      <page>873</page>
+    </entry_item>
+  </entries>
+</entry>

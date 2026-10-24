@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0075">
+  <head>
+    <unicode>ᠰᠠᠨᠠᠮᠵᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sanamǰilaγulqu</transcript>
+    <transcript2>sanamcilagolgo</transcript2>
+    <cyrillic>санамжлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S0074</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠨᠠᠮᠵᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>САНАМЖЛУУЛАХ</cyrillic>
+      <definition>санамжлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>санамжлуулах</cyrillic>
+      <definition>Kaus von санамжлах</definition>
+      <page>194</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠨᠠᠮᠵᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>санамжлуулах</cyrillic>
+      <definition>санамжлахын үйлдүүлэх хэв.</definition>
+      <page>468</page>
+    </entry_item>
+  </entries>
+</entry>

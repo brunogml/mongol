@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q4424">
+  <head>
+    <unicode>ᠬᠣᠬᠣᠩ</unicode>
+    <transcript>qoqung</transcript>
+    <transcript2>gogong</transcript2>
+    <cyrillic>хохон</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠬᠣᠩ</unicode>
+      <uighur>ququng</uighur>
+      <transcript>XUXUNG</transcript>
+      <page>993</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠬᠣᠩ ᠬᠣᠬᠣᠩ</unicode>
+          <transcript>-- xuxung</transcript>
+          <definition> Onomat. descriptive of continuous coughing</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠬᠤᠩ ᠬᠣᠬᠤᠩ</unicode>
+      <definition>une toux continuelle</definition>
+      <page>876</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠬᠣᠩ</unicode>
+      <cyrillic>ХОХОН</cyrillic>
+      <definition>: хохон хохон хорш. кх-кх (выражение звука кашля). </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

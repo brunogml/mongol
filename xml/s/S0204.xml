@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0204">
+  <head>
+    <unicode>ᠱᠠᠩᠨᠠᠯᠲᠣ</unicode>
+    <transcript>šangnaltu</transcript>
+    <transcript2>sangnaldo</transcript2>
+    <cyrillic>шагналт</cyrillic>
+  </head>
+  <see_also>
+    <ref>S0201a</ref>
+    <ref>S0202</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠩᠨᠠᠯᠲᠤ</unicode>
+      <cyrillic>шагналт</cyrillic>
+      <definition>〔形〕①有奖的，获得奖赏的，获得奖金的，获得奖品的；②参见 шагнал.</definition>
+      <page>1608</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠩᠨᠠᠯᠲᠣ</unicode>
+      <cyrillic>ШАГНАЛТАН</cyrillic>
+      <definition>лауреаты какой-л. премии. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠩᠨᠠᠯᠲᠤ</unicode>
+      <cyrillic>шагналт</cyrillic>
+      <definition>шагнал бүхий; төрийн шагналт; академийн шагналт.</definition>
+      <page>830</page>
+    </entry_item>
+  </entries>
+</entry>

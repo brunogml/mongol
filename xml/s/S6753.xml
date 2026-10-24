@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6753">
+  <head>
+    <unicode>ᠰᠥᠮᠠᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>sümegenegülkü</transcript>
+    <transcript2>sömegenegölgö</transcript2>
+    <cyrillic>сүүмгэнүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S6752</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠦᠮᠡᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сүүмгэнүүлэх</cyrillic>
+      <definition>〔动〕сүүмгэнэх 的使动态.</definition>
+      <page>978</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠥᠮᠠᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>СҮҮМГЭНҮҮЛЭХ</cyrillic>
+      <definition>сүүмгэнэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠦᠮᠡᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сүмгэнүүлэх</cyrillic>
+      <definition>сүмгэнэхийн. үйлдүүлэх хэв.</definition>
+      <page>496</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠦᠮᠡᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сүүмэгнүүлэх</cyrillic>
+      <definition>сүүмэгнэхийн үйлдүүлэх хэв.</definition>
+      <page>498</page>
+    </entry_item>
+  </entries>
+</entry>

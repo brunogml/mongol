@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1502">
+  <head>
+    <unicode>ᠨᠢᠳᠠᠷᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>nideregülkü</transcript>
+    <transcript2>nideregölgö</transcript2>
+    <cyrillic>нидрүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>N1499</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠢᠳᠡᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>нидрүүлэх</cyrillic>
+      <definition>〔动〕нидрэх 的使动态.</definition>
+      <page>735</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠢᠳᠠᠷᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>НИДРҮҮЛЭХ</cyrillic>
+      <definition>нидрэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠢᠳᠡᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>нидрүүлэх</cyrillic>
+      <definition>1. нидрэхийн үйлдүүлэх хэв;2. нидрэгдэх.</definition>
+      <page>373</page>
+    </entry_item>
+  </entries>
+</entry>

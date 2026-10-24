@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q2377">
+  <head>
+    <unicode>ᠬᠠᠮᠢᠶᠠᠲᠣ</unicode>
+    <transcript>qamiyatu</transcript>
+    <transcript2>gamiyado</transcript2>
+    <cyrillic>хамаат</cyrillic>
+  </head><see_also>
+    <ref>Q2374</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠮᠢᠶᠠᠲᠣ</unicode>
+      <uighur>qamiyadu</uighur>
+      <cyrillic>хамаат</cyrillic>
+      <transcript>XAMIJATU</transcript>
+      <definition>n. Relative. See also xamijatai.</definition>
+      <page>924</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠮᠢᠶᠠᠲᠣ ᠎ᠶᠢᠨ ᠢᠯᠡᠳᠺᠡᠭᠴᠢ</unicode>
+          <transcript>-- jin iledkegci</transcript>
+          <definition> Reflexive indicator (possessive-reflexive suffix).</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠷᠡ ᠮᠢᠨᠤ ᠬᠠᠮᠢᠶᠠᠲᠣ</unicode>
+          <transcript>tere minu -- </transcript>
+          <definition> He is a relative of mine.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠮᠢᠶᠠᠳᠠᠢ ~ ᠬᠠᠮᠢᠶᠠᠲᠤ</unicode>
+      <definition>appartenant, convenant, convenable, important, qui importe</definition>
+      <page>805</page>
+      <examples>
+        <example>
+          <unicode>ᠥᠪᠡᠷ ᠤᠨ ᠬᠠᠮᠢᠶ᠎ᠠ ᠎ᠲᠤ ᠭᠠᠵᠠᠷ ᠤᠨ ᠺᠢᠯᠢ ᠡᠴᠡᠭᠡ</unicode>
+          <definition>de ses limites, de son empire, de leur pays</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠮᠢᠶᠠᠲᠤ</unicode>
+      <cyrillic>хамаат</cyrillic>
+      <definition>〔形〕参见 хамаатай.</definition>
+      <page>1296</page>
+    </entry_item>
+  </entries>
+</entry>

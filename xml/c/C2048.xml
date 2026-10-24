@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2048">
+  <head>
+    <unicode>ᠴᠢᠴᠠ</unicode>
+    <transcript>čiča</transcript>
+    <transcript2>cica</transcript2>
+    <cyrillic>чац</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠢᠴᠠ</unicode>
+      <uighur>čiča</uighur>
+      <cyrillic>чац</cyrillic>
+      <transcript>CICA</transcript>
+      <definition>n. Arms and legs.</definition>
+      <page>175</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠴᠠ ᠶᠡᠺᠡᠲᠡᠢ</unicode>
+          <transcript>-- jeketei</transcript>
+          <definition> Having long arms and legs.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠴᠠ</unicode>
+      <cyrillic>чац</cyrillic>
+      <definition>〔名〕四肢，手脚；肢体：~ мөч 四肢.</definition>
+      <page>1582</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠴᠠ</unicode>
+      <cyrillic>ЧАЦ</cyrillic>
+      <definition>конечности, руки и ноги; мөч чац хорш. конечности, руки и ноги; чац ихтэй с длинными конечностями. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чац,</cyrillic>
+      <definition>auch ~ моч Anat Extremitäten Pl, Gliedmaßen Pl</definition>
+      <page>369</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠴᠠ</unicode>
+      <cyrillic>чац</cyrillic>
+      <definition>хүн амьтны мөч;чац мөч&lt;хорш&gt;; чац урт; чац богино.</definition>
+      <page>815</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T7340">
+  <head>
+    <unicode>ᠳᠣᠺᠠᠩ</unicode>
+    <transcript>dukang</transcript>
+    <transcript2>dogang</transcript2>
+    <cyrillic>дуган</cyrillic>
+  </head><see_also>
+    <ref>T5584</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠣᠺᠠᠩ</unicode>
+      <uighur>dukang</uighur>
+      <cyrillic>дуган</cyrillic>
+      <transcript>DUGANG</transcript>
+      <definition>[= duγang, T. hdu khang] n. Main assembly hall in a temple.</definition>
+      <page>272</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠦᠮ᠎ᠡ ᠳᠣᠺᠠᠩ</unicode>
+          <transcript>sym-e -- </transcript>
+          <definition> Temples in general</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠺᠠᠩ</unicode>
+      <definition>lieu de réunion, pagode, temple.</definition>
+      <page>1867</page>
+    </entry_item>
+  </entries>
+</entry>

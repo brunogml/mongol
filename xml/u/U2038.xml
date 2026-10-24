@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2038">
+  <head>
+    <unicode>ᠣᠮᠳᠠᠯᠠᠬᠣ</unicode>
+    <transcript>umdalaqu</transcript>
+    <transcript2>omdalago</transcript2>
+    <cyrillic>ундлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U2039</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠮᠳᠠᠯᠠᠬᠣ</unicode>
+      <uighur>umdalaqu</uighur>
+      <cyrillic>ундлах</cyrillic>
+      <transcript>UMDALA-</transcript>
+      <definition>v.t. To drink, quench one's thirst.</definition>
+      <page>874</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠮᠳᠠᠯᠠᠬᠤ</unicode>
+      <definition>avoir soif; 2 boire.</definition>
+      <page>415</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠰᠤᠨ ᠢ ᠣᠮᠳᠠᠯᠠᠬᠤ</unicode>
+          <definition>boire de l'eau</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠮᠳᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>ундлах</cyrillic>
+      <definition>〔动〕饮，止渴，解渴.</definition>
+      <page>1192</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠮᠳᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>УНДЛАХ</cyrillic>
+      <definition>утолять жажду, пить; усыг ундлах пить воду; хооллож ундлах хорш. пољть и кормљть; ажилд явахдаа сайн ундалж яваарай поешь хорошо, прежде чем пойтљ на работу. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>ундлах</cyrillic>
+      <definition>trinken, den Durst löschen</definition>
+      <page>257</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠮᠳᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>ундлах</cyrillic>
+      <definition>унд уух; ажилд явахдаа сайн ундалж яваарай.</definition>
+      <page>594</page>
+    </entry_item>
+  </entries>
+</entry>

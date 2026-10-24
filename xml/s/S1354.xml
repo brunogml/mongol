@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1354">
+  <head>
+    <unicode>ᠱᠠᠮᠪᠢᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>šambiγanaqu</transcript>
+    <transcript2>sambiganago</transcript2>
+    <cyrillic>шамбиганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1355</ref>
+    <ref>S1356</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠮᠪᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>шамбиганах</cyrillic>
+      <definition>〔动〕薄嘴唇动来动去；瘦削的面颊晃动、抖动；抿嘴.</definition>
+      <page>1616</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠮᠪᠢᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ШАМБИГАНАХ</cyrillic>
+      <definition>быть тонким (о лице). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠮᠪᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>шамбиганах</cyrillic>
+      <definition>шамбигар юмны шамбига шамбига хөдлөх.</definition>
+      <page>835</page>
+    </entry_item>
+  </entries>
+</entry>

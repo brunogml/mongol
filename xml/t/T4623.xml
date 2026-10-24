@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T4623">
+  <head>
+    <unicode>ᠲᠠᠺᠰᠢᠳᠠᠯ</unicode>
+    <transcript>tegsidel</transcript>
+    <transcript2>degsidel</transcript2>
+    <cyrillic>тэгшдэл</cyrillic>
+  </head><see_also>
+    <ref>T4628</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠡᠺᠰᠢᠳᠡᠯ</unicode>
+      <definition>action d'égaler.</definition>
+      <page>1760</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠪᠤᠷ ᠤᠨ ᠡᠳᠦᠷ ᠰᠦᠨᠢ ᠎ᠶᠢᠨ ᠳᠡᠺᠰᠢᠳᠡᠯ</unicode>
+          <definition>équinoxe du printemps</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠠᠮᠤᠷ ᠤᠨ ᠡᠳᠦᠷ ᠰᠦᠨᠢ ᠎ᠶᠢᠨ ᠳᠡᠺᠰᠢᠳᠡᠯ</unicode>
+          <definition>équinoxe d'automne</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

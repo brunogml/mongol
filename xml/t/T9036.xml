@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9036">
+  <head>
+    <unicode>ᠲᠥᠺᠥᠳᠡᠺᠲᠥᠺᠥ</unicode>
+    <transcript>tügüdegtükü</transcript>
+    <transcript2>dögödegdögö</transcript2>
+    <cyrillic>түүдэгтэх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠦᠭᠦᠳᠡᠭᠲᠡᠬᠦ</unicode>
+      <cyrillic>түүдэгтэх</cyrillic>
+      <definition>〔动〕①（牲口）得便结病；②（动物）得腹胀病，得气鼓病.</definition>
+      <page>1142</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠺᠥᠳᠡᠺᠲᠥᠺᠥ</unicode>
+      <cyrillic>ТҮҮДЭГТЭХ</cyrillic>
+      <definition>1) свалљться, образовать колтун (о шерсти); 2) мал.эмнэл. страдать вздутием живота (о животных). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠦᠭᠦᠳᠡᠭᠲᠦᠬᠦ</unicode>
+      <cyrillic>түүдэгтэх</cyrillic>
+      <definition>түүдэг өвчин тусах.</definition>
+      <page>570</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T9035</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4613">
+  <head>
+    <unicode>ᠪᠥᠴᠢᠺᠳᠠᠺᠥ</unicode>
+    <transcript>büčigdekü</transcript>
+    <transcript2>böcigdegö</transcript2>
+    <cyrillic>бүчигдэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>B4610</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠦᠴᠢᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>бүчигдэх</cyrillic>
+      <definition>〔动〕бүчих 的被动态.</definition>
+      <page>240</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠴᠢᠺᠳᠠᠺᠥ</unicode>
+      <cyrillic>БҮЧИГДЭХ</cyrillic>
+      <definition>бүчих-ийн үйлдэгд., быть окружённым.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бүчигдэх</cyrillic>
+      <definition>Pass von бүчих</definition>
+      <page>68</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠦᠴᠢᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>бүчигдэх</cyrillic>
+      <definition>бүчихийн үйлдэгдэх хэв.</definition>
+      <page>120</page>
+    </entry_item>
+  </entries>
+</entry>

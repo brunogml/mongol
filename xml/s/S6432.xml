@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6432">
+  <head>
+    <unicode>ᠰᠥᠢᠳᠺᠥ</unicode>
+    <transcript>süidkü</transcript>
+    <transcript2>söidgö</transcript2>
+    <cyrillic>сүйдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6423</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠥᠢᠳᠺᠥ</unicode>
+      <uighur>süidkü</uighur>
+      <cyrillic>сүйдэх</cyrillic>
+      <transcript>SYID-</transcript>
+      <definition>v. i. To be wasted, squandered; to be ruined, devastated, destroyed.</definition>
+      <page>741</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠮᠢ ᠰᠥᠢᠳᠺᠥ</unicode>
+          <transcript>ami --ky</transcript>
+          <definition> To lose one's life.</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠠᠶᠢᠨ ᠎ᠳᠤ ᠰᠥᠢᠳᠺᠥ</unicode>
+          <transcript>dain du --ky</transcript>
+          <definition> To be devastated in war.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠦᠢᠳᠺᠦ</unicode>
+      <definition>être dépensé; être dépensé inutilement: 2 dimiuuer,</definition>
+      <page>1420</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠦᠢᠳᠬᠦ</unicode>
+      <cyrillic>сүйдэх</cyrillic>
+      <definition>〔动〕遭受损失，遭到不幸，遭灾，遭祸害；损坏，损害，破产，耗尽：үерт ~ 受水灾；дайн дажинд ~ 遭受战祸；амь ~ 死亡；эд хөрөнгө ~ 财产遭受损失.</definition>
+      <page>971</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠥᠢᠳᠺᠥ</unicode>
+      <cyrillic>СҮЙДЭХ</cyrillic>
+      <definition>терпеть ущерб; разоряться; попадать в беду; растратиться, издержаться; алагдаж сүйдэх быть убитым; амь сүйдэх погибнуть, умереть; галт тэрэг сүйдэх железнодорожная катастрофа; хөлөг онгоц сүйдэх кораблекрушение; сүйдсэн хөлөг онгоц погибший корабль; үрэгдэж сүйдэх растратиться; быть уничтоженным; хийсч сүйдэх быть брошенным на ветер; хохирч сүйдэх разориться; цохигдож сүйдэх разбиться; эвдэрч сүйдэх разрушиться, развалиться; юм сүйдэх разорение имущества. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сүйдэх</cyrillic>
+      <definition>in eine elende Lage geraten werden; umg in die Klemme kommen; амь ~ das Leben verlieren</definition>
+      <page>207</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠦᠢᠳᠬᠦ</unicode>
+      <cyrillic>сүйдэх</cyrillic>
+      <definition>юмны гэнэтийн нвхцвл шалтгаанаар үрэгдэх бусних; үерт сүйдэх; салхинд сүйдэх; дайн дажинд сүйдэх; амь сүйдэх; эд хөрөнгө сүйдэх.</definition>
+      <page>494</page>
+    </entry_item>
+  </entries>
+</entry>

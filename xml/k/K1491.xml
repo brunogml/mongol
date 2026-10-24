@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1491">
+  <head>
+    <unicode>ᠺᠠᠷᠠᠯᠯᠢᠺ</unicode>
+    <transcript>gerellig</transcript>
+    <transcript2>gerellig</transcript2>
+    <cyrillic>гэрэллэг</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠡᠷᠠᠯᠯᠢᠺ</unicode>
+      <uighur>gerellik</uighur>
+      <cyrillic>гэрэллэг</cyrillic>
+      <transcript>GERELLIG</transcript>
+      <definition>n. Optics.</definition>
+      <page>379</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠡᠷᠡᠯᠯᠢᠭ</unicode>
+      <cyrillic>гэрэллэг</cyrillic>
+      <definition>〔名〕光学：~ийн гажиг 光（学）象差.</definition>
+      <page>353</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠷᠠᠯᠯᠢᠺ</unicode>
+      <cyrillic>ГЭРЭЛЛЭГ</cyrillic>
+      <definition>оптика. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠡᠷᠡᠯᠯᠢᠭ</unicode>
+      <cyrillic>гэрэллэг</cyrillic>
+      <definition>гэрлийн үзэгдэл, чанарыг судлах ухаан.</definition>
+      <page>170</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>K1464</ref>
+  </related_to>
+</entry>

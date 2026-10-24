@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1096">
+  <head>
+    <unicode>ᠪᠠᠺᠢᠷ</unicode>
+    <transcript>bagir</transcript>
+    <transcript2>bagir</transcript2>
+    <cyrillic>багир</cyrillic>
+  </head>
+  <see_also>
+    <ref>B1097</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠠᠺᠢᠷ</unicode>
+      <uighur>bagir</uighur>
+      <transcript>BAGIR</transcript>
+      <page>72</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠠᠺᠢᠷ ᠬᠠᠷ᠎ᠠ</unicode>
+          <transcript>-- xar-a</transcript>
+          <definition> Dirty-black</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠭᠢᠷ</unicode>
+      <cyrillic>багир</cyrillic>
+      <definition>〔形〕乌黑的，黑糊糊的；污黑的：~ хар 乌黑色的，污黑的；~ хүрэн 棕黑色.</definition>
+      <page>107</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠺᠢᠷ</unicode>
+      <cyrillic>БАГИР</cyrillic>
+      <definition>оттенок цвета с чёрным, тёмным отливом; багир хар грязно-чёрный; багир хүрэн чернобурый.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>багир</cyrillic>
+      <definition>schwarzgrau, schmutzigschwarz; ~ хүрэн schwarzbraun</definition>
+      <page>41</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠭᠢᠷ</unicode>
+      <cyrillic>багир</cyrillic>
+      <definition>хар дийлэнх өнгө; багир хар; багир хүрэн.</definition>
+      <page>65</page>
+    </entry_item>
+  </entries>
+</entry>

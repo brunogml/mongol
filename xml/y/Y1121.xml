@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1121">
+  <head>
+    <unicode>ᠶᠠᠯᠠᠲᠠᠢ</unicode>
+    <transcript>yalatai</transcript>
+    <transcript2>yaladai</transcript2>
+    <cyrillic>ялтай</cyrillic>
+  </head>
+  <see_also>
+    <ref>Y1126</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠶᠠᠯᠠᠲᠠᠢ</unicode>
+      <uighur>yaladai</uighur>
+      <cyrillic>ялтай</cyrillic>
+      <transcript>JALATAI</transcript>
+      <definition>[= jalatu] adj. Accused, guilty, sentenced; criminal.</definition>
+      <page>425</page>
+      <examples>
+        <example>
+          <unicode>ᠶᠠᠯᠠᠲᠠᠢ ᠺᠦᠮᠦᠨ</unicode>
+          <transcript>-- kymyn, </transcript>
+          <definition>Criminal, guilty person, defendant ( in a lawsuit)</definition>
+        </example>
+        <example>
+          <unicode>ᠦᠺᠦᠺᠦ ᠶᠠᠯᠠᠲᠠᠢ ᠺᠦᠮᠦᠨ</unicode>
+          <transcript>ykyky -- kymyn</transcript>
+          <definition> Person sentenced to death.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠠᠯᠠᠲᠠᠢ</unicode>
+      <cyrillic>ялтай</cyrillic>
+      <definition>〔形〕参见 ялт.</definition>
+      <page>1749</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠠᠯᠠᠲᠠᠢ</unicode>
+      <cyrillic>ЯЛТАЙ</cyrillic>
+      <definition>обвиняемый, виновный, подсудимый. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠠᠯᠠᠲᠠᠢ</unicode>
+      <cyrillic>ялтай</cyrillic>
+      <definition>ял ногдом үйл хийсэн хүн, ял шийтгэгдсэн хүн, ялтай хэрэг үйлдсэн хүн.</definition>
+      <page>905</page>
+    </entry_item>
+  </entries>
+</entry>

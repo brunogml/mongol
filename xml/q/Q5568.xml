@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q5568">
+  <head>
+    <unicode>ᠭᠣᠯᠢᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>γulirdaγulqu</transcript>
+    <transcript2>golirdagolgo</transcript2>
+    <cyrillic>гурилдуулах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠤᠯᠢᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гурилдуулах</cyrillic>
+      <definition>〔动〕гурилдах 的使动态.</definition>
+      <page>331</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠯᠢᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ГУРИЛДУУЛАХ</cyrillic>
+      <definition>гурилдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠤᠷᠢᠯᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гурилдуулах</cyrillic>
+      <definition>гурилдахын үйлдүүлэх хэв.</definition>
+      <page>161</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q5567</ref>
+  </related_to>
+</entry>

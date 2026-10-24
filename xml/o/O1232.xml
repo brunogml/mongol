@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1232">
+  <head>
+    <unicode>ᠥᠮᠴᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ömčilegülkü</transcript>
+    <transcript2>ömcilegölgö</transcript2>
+    <cyrillic>өмчлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>O1231</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠮᠴᠢᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өмчлүүлэх</cyrillic>
+      <definition>〔动〕өмчлөх 的使动态.</definition>
+      <page>845</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠮᠴᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ӨМЧЛҮҮЛЭХ</cyrillic>
+      <definition>өмчлөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠮᠴᠢᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өмчлүүлэх</cyrillic>
+      <definition>өмчлөхийн үйлдүүлэх хэв, өмч эзлүүлэх.</definition>
+      <page>438</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3109">
+  <head>
+    <unicode>ᠰᠢᠨᠲᠠᠯᠠᠬᠣ</unicode>
+    <transcript>sintalaqu</transcript>
+    <transcript2>sindalago</transcript2>
+    <cyrillic>шантлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3110</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠨᠲᠠᠯᠠᠬᠣ</unicode>
+      <uighur>sindalaqu</uighur>
+      <cyrillic>шантлах</cyrillic>
+      <transcript>SINTALA-</transcript>
+      <definition>v. t. To make blunt (as a knife), take the edge off; t/o discourage, cause to lose heart.</definition>
+      <page>713</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠮᠤᠭ ᠢ ᠰᠢᠨᠲᠠᠯᠠᠬᠣ</unicode>
+          <transcript>omuγ i --xu</transcript>
+          <definition> To discourage a person, ruin his self-confidence.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠨᠳᠠᠯᠠᠬᠤ</unicode>
+      <definition>rompre, briser, casser</definition>
+      <page>1459</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠮᠤᠬ ᠢ ᠰᠢᠨᠳᠠᠯᠠᠬᠤ</unicode>
+          <definition>abaisser, humilier l'orgueil</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠨᠲᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>шантлах</cyrillic>
+      <definition>〔动〕参见 шантруулах.</definition>
+      <page>1619</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠨᠲᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ШАНТЛАХ</cyrillic>
+      <definition>шантраах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠨᠲᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>шантлах</cyrillic>
+      <definition>шантрахад хүрүүлэх, шантруулах.</definition>
+      <page>837</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B5000">
+  <head>
+    <unicode>ᠪᠥᠷᠥᠯᠵᠠᠺᠥ</unicode>
+    <transcript>bürülǰekü</transcript>
+    <transcript2>börölcegö</transcript2>
+    <cyrillic>бүрэлзэх</cyrillic>
+  </head><derivatives>
+    <ref>B5001</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠥᠷᠥᠯᠵᠠᠺᠥ</unicode>
+      <uighur>bürülǰekü</uighur>
+      <cyrillic>бүрэлзэх</cyrillic>
+      <transcript>BYRYLZE-</transcript>
+      <definition>Same as byrygylze-</definition>
+      <page>150</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠦᠷᠦᠯᠵᠡᠺᠦ ~ ᠪᠦᠷᠢᠭᠦᠯᠵᠡᠺᠦ</unicode>
+      <definition>s'obscurcir, baisser (du jour}, commencer à faire sombre.</definition>
+      <page>1260</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠦᠷᠦᠯᠵᠡᠺᠦᠢ ᠎ᠶᠢ ᠠᠷᠢᠯᠭᠠᠬᠤ</unicode>
+          <definition>dissiper les ténèbres</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠦᠷᠦᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>бүрэлзэх</cyrillic>
+      <definition>〔动〕老眼昏花，眼睛发花.</definition>
+      <page>233</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠷᠥᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>БҮРЭЛЗЭХ</cyrillic>
+      <definition>1. 1) темнеть, смеркаться; 2) тускнеть; 3) рябить, мелькать (в глазах); мерцать; 4) мутиться, помрачаться; 2. бүрэлзэхүй-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠷᠥᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>БҮРЭЛЗЭХҮЙ</cyrillic>
+      <definition>смеркание; мерцание, мелькание.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

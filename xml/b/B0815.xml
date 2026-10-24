@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0815">
+  <head>
+    <unicode>ᠪᠠᠯᠠᠷᠲᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>balartuγulqu</transcript>
+    <transcript2>balardogolgo</transcript2>
+    <cyrillic>балартуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B0814</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠯᠠᠷᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>балартуулах</cyrillic>
+      <definition>〔动〕балартах 的使动态.</definition>
+      <page>121</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠯᠠᠷᠲᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БАЛАРТУУЛАХ</cyrillic>
+      <definition>балартах-ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠯᠠᠷᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>балартуулах</cyrillic>
+      <definition>балартуулахын үйлдүүлэх хэв.</definition>
+      <page>70</page>
+    </entry_item>
+  </entries>
+</entry>

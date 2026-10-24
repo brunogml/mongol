@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1304">
+  <head>
+    <unicode>ᠣᠳᠠᠭᠠᠳᠠᠬᠣ</unicode>
+    <transcript>udaγadaqu</transcript>
+    <transcript2>odagadago</transcript2>
+    <cyrillic>удаадах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U1305</ref>
+    <ref>U1306</ref>
+  </derivatives>
+  <see_also>
+    <ref>U1303</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠳᠠᠭᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>удаадах</cyrillic>
+      <definition>〔动〕变慢，变得缓慢；显得长久.</definition>
+      <page>1175</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠳᠠᠭᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>УДААДАХ</cyrillic>
+      <definition>быть слљшком медленным; делаться более медленным, чем надо. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>удаадах</cyrillic>
+      <definition>zu lange [an]dauern</definition>
+      <page>253</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠳᠠᠭᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>удаадах</cyrillic>
+      <definition>хэтэрхий удаан болох; явдал чинь арай л удаадаад байх.</definition>
+      <page>584</page>
+    </entry_item>
+  </entries>
+</entry>

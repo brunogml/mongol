@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1710">
+  <head>
+    <unicode>ᠲᠠᠯᠠᠴᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>talačaγulqu</transcript>
+    <transcript2>dalacagolgo</transcript2>
+    <cyrillic>талцуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T1709</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠯᠠᠴᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>талцуулах</cyrillic>
+      <definition>〔动〕талцах 的使动态.</definition>
+      <page>1020</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠯᠠᠴᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАЛЦУУЛАХ</cyrillic>
+      <definition>талцах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>талцуулах</cyrillic>
+      <definition>1. Kaus von талцах
+2. in zwei Gruppen aufteilen</definition>
+      <page>218</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠯᠠᠴᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>талцуулах</cyrillic>
+      <definition>талцахын үйлдүүлэх хэв.</definition>
+      <page>518</page>
+    </entry_item>
+  </entries>
+</entry>

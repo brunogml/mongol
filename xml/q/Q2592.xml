@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q2592">
+  <head>
+    <unicode>ᠬᠠᠵᠠᠭᠠᠶᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>qaǰaγayiraγulqu</transcript>
+    <transcript2>gacagayiragolgo</transcript2>
+    <cyrillic>хазгайруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q2591</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠵᠠᠭᠠᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хазгайруулах</cyrillic>
+      <definition>〔动〕хазгайрах 的使动态.</definition>
+      <page>1276</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠵᠠᠭᠠᠶᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХАЗГАЙРУУЛАХ</cyrillic>
+      <definition>хазгайрах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠵᠠᠭᠠᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хазгайруулах</cyrillic>
+      <definition>хазгайрахын үйлдүүлэх хэв.</definition>
+      <page>643</page>
+    </entry_item>
+  </entries>
+</entry>

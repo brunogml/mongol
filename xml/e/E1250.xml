@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E1250">
+  <head>
+    <unicode>ᠡᠮᠺᠦᠯᠡᠺᠦ</unicode>
+    <transcript>emkülekü</transcript>
+    <transcript2>emgölegö</transcript2>
+    <cyrillic>үнхлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>E1251</ref>
+    <ref>E1249</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠮᠺᠥᠯᠠᠺᠥ</unicode>
+      <cyrillic>ҮМХЛЭХ</cyrillic>
+      <definition>үмхэх-ийн олонтаа., с жадностью есть, выхватывать кускљ. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠮᠬᠦᠯᠡᠬᠦ</unicode>
+      <cyrillic>үмхлэх</cyrillic>
+      <definition>байн байн үмхэх.</definition>
+      <page>621</page>
+    </entry_item>
+  </entries>
+</entry>

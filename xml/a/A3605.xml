@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A3605">
+  <head>
+    <unicode>ᠠᠶᠢᠰᠣᠬᠣ</unicode>
+    <transcript>ayisuqu</transcript>
+    <transcript2>ayisogo</transcript2>
+    <cyrillic>айсах</cyrillic>
+  </head>
+  <see_also>
+    <ref>A3607</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠶᠢᠰᠣᠬᠣ</unicode>
+      <uighur>ayisuqu</uighur>
+      <transcript>AISU-</transcript>
+      <definition>See ais-, 2</definition>
+      <page>22</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠢᠰᠤᠬᠤ</unicode>
+      <uighur>ayisoqu</uighur>
+      <definition>s'approcher, aborder, être près</definition>
+      <page>2</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠠᠨᠠᠭᠠᠷ ᠮᠣᠷᠢᠯᠠᠨ ᠠᠶᠢᠰᠤᠬᠤᠢ᠎ᠠ</unicode>
+          <uighur>manaγar morilan ayisuqui-a</uighur>
+          <definition>le jour suivant, quand l'heure du départ approcha, la veille du départ même</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠭᠦᠪᠡᠨ ᠨᠠᠷᠠᠯᠠᠵᠤ ᠠᠶᠢᠰᠤᠬᠤᠢ ᠎ᠶᠢ ᠦᠵᠡᠪᠡᠢ</unicode>
+          <uighur>tegüben naralaǰu ayisuqui-yi üǰebei</uighur>
+          <definition>ils apercurent non loin ceux qui prononcaient le nom du frère cadet</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠠᠶᠢᠰᠣᠬᠣ</unicode>
+      <uighur>ayisuqu</uighur>
+      <definition>an Kommen seyn, herannahen</definition>
+      <page>1</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠠᠶᠢᠰᠣᠬᠣ</unicode>
+      <uighur>ayisuqu</uighur>
+      <definition>v.i. To approach. To draw near. To be at hand.</definition>
+      <page>5</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠶᠢᠰᠣᠬᠣ</unicode>
+      <cyrillic>АЙСАХ</cyrillic>
+      <definition>бичиг. айсуй–г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠢᠰᠤᠬᠤ</unicode>
+      <cyrillic>айсах</cyrillic>
+      <definition>&lt;бичиг&gt;айсуй.</definition>
+      <page>27</page>
+    </entry_item>
+  </entries>
+</entry>

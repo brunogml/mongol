@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T2074">
+  <head>
+    <unicode>ᠳᠠᠮᠪᠠ</unicode>
+    <transcript>damba</transcript>
+    <transcript2>damba</transcript2>
+    <cyrillic>дамба</cyrillic>
+  </head><see_also>
+    <ref>T2074a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠮᠪᠠ</unicode>
+      <cyrillic>ДАМБА</cyrillic>
+      <definition>тө. высший; религиозное учение. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠮᠪᠠ ~ ᠳᠡᠭᠡᠳᠦ</unicode>
+      <definition>sublime, noble, saint</definition>
+      <page>1647</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠮᠪᠠ ᢐᠤᠭᠡᠷ = ᠳᠡᠭᠡᠲᠦ ᠴᠠᠭᠠᠨ ᠣᠺᠢ</unicode>
+          <definition>nom de Câkyamouni pendant son séjour dans la région Touchita</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

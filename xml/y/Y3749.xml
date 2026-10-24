@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3749">
+  <head>
+    <unicode>ᠵᠣᠣᠮᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰoumaγanaγulqu</transcript>
+    <transcript2>yoomaganagolgo</transcript2>
+    <cyrillic>жуумгануулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y3748</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠤᠤᠮᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>жуумгануулах</cyrillic>
+      <definition>〔动〕жуумганах 的使动态.</definition>
+      <page>520</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠣᠮᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЖУУМГАНУУЛАХ</cyrillic>
+      <definition>жуумганах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠤᠤᠮᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>жуумгануулах</cyrillic>
+      <definition>жуумганахын үйлдүүлэх хэв.</definition>
+      <page>252</page>
+    </entry_item>
+  </entries>
+</entry>

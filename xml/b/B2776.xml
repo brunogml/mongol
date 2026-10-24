@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2776">
+  <head>
+    <unicode>ᠪᠣᠭᠣᠮᠢᠳᠠᠬᠣ</unicode>
+    <transcript>boγumidaqu</transcript>
+    <transcript2>bogomidago</transcript2>
+    <cyrillic>боомьдох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B2777</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠣᠭᠣᠮᠢᠳᠠᠬᠣ</unicode>
+      <uighur>boγumidaqu</uighur>
+      <cyrillic>боомьдох</cyrillic>
+      <transcript>BOΓUMIDA-</transcript>
+      <definition>v . t. To trap with a snare, lasso, hold by a rope.</definition>
+      <page>112</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠣᠷᠢ ᠪᠣᠭᠣᠮᠢᠳᠠᠬᠣ</unicode>
+          <transcript>mori --xu</transcript>
+          <definition> To lasso a horse.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠤᠭᠣᠮᠢᠳᠠᠬᠤ</unicode>
+      <definition>attraper avec un lacet, tenir par la corde (un cheval non dressé).</definition>
+      <page>1165</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠪᠣᠭᠣᠮᠢᠳᠠᠬᠣ</unicode>
+      <uighur>buγumidaqu</uighur>
+      <definition>mit der Wurfschlinge fangen.</definition>
+      <page>111</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠪᠣᠭᠣᠮᠢᠳᠠᠬᠣ</unicode>
+      <uighur>buγumidaqu</uighur>
+      <definition>To catch with a lasso.</definition>
+      <page>441</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠣᠭᠣᠮᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>боомьдох</cyrillic>
+      <definition>〔动〕用套绳套，用套绳捕.</definition>
+      <page>174</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠭᠣᠮᠢᠳᠠᠬᠣ</unicode>
+      <cyrillic>БООМЬДОХ</cyrillic>
+      <definition>арканить, ловить арканом.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>боомьдох</cyrillic>
+      <definition>mit dem Lasso fangen</definition>
+      <page>56</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠣᠭᠣᠮᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>боомьдох</cyrillic>
+      <definition>бугуйлдах.</definition>
+      <page>92</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>B2775</ref>
+  </related_to>
+</entry>

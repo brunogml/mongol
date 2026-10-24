@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3919">
+  <head>
+    <unicode>ᠳᠠᠯᠢᠺᠥᠲᠥᠺᠥᠯᠺᠥ</unicode>
+    <transcript>deligütügülkü</transcript>
+    <transcript2>deligödögölgö</transcript2>
+    <cyrillic>дэлүүтүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T3918</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠡᠯᠢᠭᠦᠲᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дэлүүтүүлэх</cyrillic>
+      <definition>〔动〕дэлүүтэх 的使动态.</definition>
+      <page>471</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠯᠢᠺᠥᠲᠥᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ДЭЛҮҮТҮҮЛЭХ</cyrillic>
+      <definition>дэлүүтэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠯᠢᠭᠦᠲᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дэлүүтүүлэх</cyrillic>
+      <definition>дэлүүтэхийн үйлдүүлэх хэв.</definition>
+      <page>226</page>
+    </entry_item>
+  </entries>
+</entry>

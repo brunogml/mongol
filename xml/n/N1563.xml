@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1563">
+  <head>
+    <unicode>ᠨᠢᠯᠠᠭᠠᠳᠠᠬᠣ</unicode>
+    <transcript>nilaγadaqu</transcript>
+    <transcript2>nilagadago</transcript2>
+    <cyrillic>нялгадах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>N1564</ref>
+    <ref>N1565</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠢᠯᠠᠭᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>нялгадах</cyrillic>
+      <definition>〔动〕涂，抹，刷（粘性的东西）.</definition>
+      <page>781</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠢᠯᠠᠭᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>НЯЛГАДАХ</cyrillic>
+      <definition>размазывать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>нялгадах</cyrillic>
+      <definition>= нялах</definition>
+      <page>166</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠢᠯᠠᠭᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>нялгадах</cyrillic>
+      <definition>норшин нялцгай юмыг хэмжээ томьёогүй түрхлэх; шавар нялгадах; тос нялгадах.</definition>
+      <page>402</page>
+    </entry_item>
+  </entries>
+</entry>

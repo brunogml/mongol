@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N0227">
+  <head>
+    <unicode>ᠨᠠᠪᠲᠠᠶᠢᠬᠣ</unicode>
+    <transcript>nabtayiqu</transcript>
+    <transcript2>nabdayigo</transcript2>
+    <cyrillic>навтайх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>N0230</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠨᠠᠪᠲᠠᠶᠢᠬᠣ</unicode>
+      <uighur>nabdayiqu</uighur>
+      <cyrillic>навтай</cyrillic>
+      <transcript>NABTAI-</transcript>
+      <definition>v.i. To hang, hang down, droop; to flatten out; to become low or slanting; to hover (of clouds); to fly slowly and low (of a bird).</definition>
+      <page>555</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠠᠪᠲᠠᠶᠢᠭᠰᠠᠨ ᠴᠢᠺᠢ</unicode>
+          <transcript>--γsan ciki</transcript>
+          <definition> Drooping ears.</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠠᠪᠲᠠᠶᠢᠭᠰᠠᠨ ᠤᠷᠤᠭᠤᠯ</unicode>
+          <transcript>--γsan uruγul</transcript>
+          <definition> Drooping underlip.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠨᠠᠪᠳᠠᠶᠢᠬᠤ</unicode>
+      <definition>pendre; 2 aller avec nonchalance, voler lentement</definition>
+      <page>607</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠠᠪᠳᠠᠶᠢᠭᠰᠠᠨ ᠤᠷᠤᠭᠤᠯ</unicode>
+          <definition>lèvres pendantes</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠠᠪᠳᠠᠶᠢᠭᠰᠠᠨ ᠴᠢᠺᠢᠨ</unicode>
+          <definition>oreilles pendantes, à longues oreilles, à oreilles pendantes</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠨᠠᠪᠲᠠᠶᠢᠬᠣ</unicode>
+      <uighur>nabdayiqu</uighur>
+      <definition>hängen, herunterhängen.</definition>
+      <page>79</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠨᠠᠪᠲᠠᠶᠢᠬᠣ</unicode>
+      <uighur>nabdayiqu</uighur>
+      <definition>v.i. To hang down . To fall or lie down</definition>
+      <page>316</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠠᠪᠳᠠᠶᠢᠬᠰᠠᠨ ᠤᠷᠤᠭᠤᠯ</unicode>
+          <definition>n. A hanging underlip.</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠠᠪᠳᠠᠶᠢᠬᠰᠠᠨ ᠴᠢᠺᠢᠨ</unicode>
+          <definition>n. Lopears (of horses and other animals).</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠠᠪᠲᠠᠢᠬᠤ</unicode>
+      <cyrillic>навтайх</cyrillic>
+      <definition>〔动〕倾身，低身，缩身，弯身.</definition>
+      <page>715</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠪᠲᠠᠶᠢᠬᠣ</unicode>
+      <cyrillic>НАВТАЙХ</cyrillic>
+      <definition>1) нагибаться, наклоняться, делаться низким; 2) становиться плоским, сплющиться; быть низким, стать низким; навтайх хавтайх хорш. становиться плоским; 3) висеть, отвисать, свисать; 4) шилж. двигаться, лететь медленно (о стреле летящей медленно, о птице). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠪᠲᠠᠶᠢᠬᠣ</unicode>
+      <cyrillic>НАВТАЙСАН</cyrillic>
+      <definition>1) низкий; 2) отвислый; навтайсан уруул отвисшая нижняя губа; навтайсан чих отвислые уши; навтайсан чихт вислоухий. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>навтайх</cyrillic>
+      <definition>sich beugen od neigen; намхан хаалгаар навтайн орох gebückt durch die niedrige Tür treten</definition>
+      <page>151</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠠᠪᠲᠠᠢᠬᠤ</unicode>
+      <cyrillic>навтайх</cyrillic>
+      <definition>навтгар болох;навтайх хавтайх&lt;хорш&gt;; намхан хаалгаар навтайн оров.</definition>
+      <page>361</page>
+    </entry_item>
+  </entries>
+</entry>

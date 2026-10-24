@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="R0011">
+  <head>
+    <unicode>ᠷᠠᠪᠳᠠᠮ</unicode>
+    <transcript>rabdam</transcript>
+    <transcript2>rabdam</transcript2>
+    <cyrillic>равдам</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠷᠠᠪᠳᠠᠮ</unicode>
+      <uighur>rabdam</uighur>
+      <definition>Ten billions.</definition>
+      <page>889</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠷᠠᠪᠳᠠᠮ</unicode>
+      <cyrillic>РАВДАМ</cyrillic>
+      <definition>равжим-ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠷᠠᠪᠳᠠᠮ ~ ᠮᠠᠰᠢ ᠳᠡᠯᠭᠡᠮᠡᠯ</unicode>
+      <definition>dix billions</definition>
+      <page>2658</page>
+      <examples>
+        <example>
+          <unicode>ᠶᠡᠺᠡ ᠷᠠᠪᠳᠠᠮ ~ ᠶᠡᠺᠡ ᠮᠠᠰᠢ ᠳᠡᠯᠭᠡᠮᠡᠯ</unicode>
+          <definition>cent billions (S. çangkha, pierre précieuse aurifère; 2 os du front; 3 coquille, conque; 4 en arithm. cent billions)</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

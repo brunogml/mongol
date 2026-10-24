@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2309">
+  <head>
+    <unicode>ᠪᠢᠯᠬᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>bilqaγanaqu</transcript>
+    <transcript2>bilgaganago</transcript2>
+    <cyrillic>бялхганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B2310</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠢᠯᠬᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>бялхганах</cyrillic>
+      <definition>〔动〕见 бялхагнах.</definition>
+      <page>252</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠢᠯᠬᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>БЯЛХГАНАХ</cyrillic>
+      <definition>1) зыбиться, шевелиться (о студенистой массе); 2) идти, двигаться (о полных, тучных).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бялхганах</cyrillic>
+      <definition>= бялхалзах</definition>
+      <page>70</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠢᠯᠬᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>бялхганах</cyrillic>
+      <definition>бялхгар юмны бялхга бялхга хийх.</definition>
+      <page>125</page>
+    </entry_item>
+  </entries>
+</entry>

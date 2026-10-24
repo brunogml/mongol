@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q4937">
+  <head>
+    <unicode>ᠬᠣᠪᠴᠢᠬᠣ</unicode>
+    <transcript>qubčiqu</transcript>
+    <transcript2>gobcigo</transcript2>
+  </head><derivatives>
+    <ref>Q4941</ref>
+  </derivatives><see_also>
+    <ref>Q4938</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠪᠴᠢᠬᠣ</unicode>
+      <uighur>qubčiqu</uighur>
+      <transcript>XUBCI-</transcript>
+      <definition>See γubci-.</definition>
+      <page>976</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠪᠴᠢᠬᠤ</unicode>
+      <definition>presser, serrer contre: 2 percevoir les impôts: 3 opprimer (le peuple). vexer</definition>
+      <page>900</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠤᠷᠠᠴᠤᠰ ᠡᠴᠡ ᠲᠤᠰᠤᠨ ᠤ ᠠᠯᠪᠠ ᠎ᠶᠢ ᠬᠣᠪᠴᠢᠬᠤ</unicode>
+          <definition>recevoir les impôts du peuple en beurre</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠪᠴᠢᠨ ᠰᠠᠭᠠᠬᠤ</unicode>
+          <definition>pressurer, percevoir les impôts</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

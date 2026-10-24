@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q0491">
+  <head>
+    <unicode>ᠬᠠᠬ ᠠ</unicode>
+    <transcript>qaq-a</transcript>
+    <transcript2>gaga</transcript2>
+  </head>
+  <see_also>
+    <ref>Q0492</ref>
+  </see_also>
+  <derivatives>
+    <ref>Q0522</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠬᠠ</unicode>
+      <uighur>qaqa</uighur>
+      <transcript>XAXA</transcript>
+      <definition>[= ha ha] interj. Ha-ha!.</definition>
+      <page>946</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠬᠠ ᠺᠢᠺᠢ</unicode>
+          <transcript>-- kiki</transcript>
+          <definition>Ha-ha-ha!.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠬᠠ ~ ᠾᠠ ᠾᠠ</unicode>
+      <definition>hi-hi!</definition>
+      <page>731</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠬᠠ ᠺᠢᠺᠢ</unicode>
+          <definition>le rire</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠳᠠᠭᠤ ᠶᠡᠺᠡ ᠾᠡ ᠾᠡ ᠺᠡᠮᠡᠨ ᠳᠠᠭᠤᠷᠢᠰᠬᠠᠬᠤ</unicode>
+          <definition>rire à gorgge déployée, rire aux éclats</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

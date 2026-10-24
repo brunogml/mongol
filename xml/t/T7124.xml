@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T7124">
+  <head>
+    <unicode>ᠲᠣᠮᠢᠶᠠᠯᠠᠰᠢ</unicode>
+    <transcript>tomiyalasi</transcript>
+    <transcript2>domiyalasi</transcript2>
+    <cyrillic>томъёолош</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠮᠢᠶᠠᠯᠠᠰᠢ</unicode>
+      <uighur>tomiyalasi</uighur>
+      <cyrillic>томьёлош</cyrillic>
+      <transcript>TOMIJALASI</transcript>
+      <page>823</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠣᠮᠢᠶᠠᠯᠠᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei </transcript>
+          <definition> Inexpressible.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠮᠢᠶᠠᠯᠠᠰᠢ</unicode>
+      <cyrillic>ТОМЪЁОЛШГҮЙ</cyrillic>
+      <definition>невыразљмый, не поддающийся формулировке, определению, трудный для определения, неопределљмый. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+<related_to><ref>T7121</ref></related_to></entry>

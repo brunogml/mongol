@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I0798">
+  <head>
+    <unicode>ᠢᠯᠵᠠᠷᠠᠯ</unicode>
+    <transcript>ilǰaral</transcript>
+    <transcript2>ilcaral</transcript2>
+    <cyrillic>ялзрал</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠯᠵᠠᠷᠠᠯ</unicode>
+      <cyrillic>ялзрал</cyrillic>
+      <definition>〔名〕烂，腐朽，腐败，腐烂，霉烂.</definition>
+      <page>1749</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠯᠵᠠᠷᠠᠯ</unicode>
+      <cyrillic>ЯЛЗРАЛ</cyrillic>
+      <definition>гниение, тление, разложение. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>ялзрал[т]</cyrillic>
+      <definition>Verwesung f, Verfaulen n; Verfall m</definition>
+      <page>414</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠯᠵᠠᠷᠠᠯ</unicode>
+      <cyrillic>ялзрал</cyrillic>
+      <definition>ялзрах үйлийн нэр.</definition>
+      <page>905</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>I0796</ref>
+  </related_to>
+  <derivatives>
+    <ref>I0799</ref>
+  </derivatives>
+</entry>

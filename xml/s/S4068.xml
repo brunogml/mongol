@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4068">
+  <head>
+    <unicode>ᠰᠢᠯᠵᠢᠺᠥᠯᠺᠠ</unicode>
+    <transcript>silǰigülge</transcript>
+    <transcript2>silcigölge</transcript2>
+    <cyrillic>шилжүүлэг</cyrillic>
+  </head>
+  <related_to>
+    <ref>S4065a</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠯᠵᠢᠭᠦᠯᠭᠡ</unicode>
+      <cyrillic>шилжүүлэг</cyrillic>
+      <definition>〔名〕①转移，迁移；调动，调任；②转交，移交，转告，转达；转播；〈电〉变换；③〈经〉转拨：~ийн гүйлгээ 汇兑业务；~ мөнгө 转拨款.</definition>
+      <page>1634</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠯᠵᠢᠺᠥᠯᠺᠠ</unicode>
+      <cyrillic>ШИЛЖҮҮЛЭГ</cyrillic>
+      <definition>перевод; мөнгөний шилжүүлэг денежный перевод. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шилжүүлэг</cyrillic>
+      <definition>Überführung f, Übertragung f, Verlegung f</definition>
+      <page>385</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠯᠵᠢᠭᠦᠯᠭᠡ</unicode>
+      <cyrillic>шилжүүлэг</cyrillic>
+      <definition>шилжүүлэх үйлийн нэр; мөнгөний шилжүүлэг; шилжүүлгээр авна.</definition>
+      <page>846</page>
+    </entry_item>
+  </entries>
+</entry>

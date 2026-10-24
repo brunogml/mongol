@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1354">
+  <head>
+    <unicode>ᠴᠢᠢᠺᠥ</unicode>
+    <transcript>čiikü</transcript>
+    <transcript2>ciigö</transcript2>
+    <cyrillic>цийх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1353</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠢᠬᠦ</unicode>
+      <cyrillic>цийх</cyrillic>
+      <definition>〔动〕①目光发呆，呆视；②失明，瞎.</definition>
+      <page>1528</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠢᠺᠥ</unicode>
+      <cyrillic>ЦИЙХ</cyrillic>
+      <definition>1) быть стеклянным, быть неподвижным (о взгляде); 2) ослепнуть. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠢᠬᠦ</unicode>
+      <cyrillic>цийх</cyrillic>
+      <definition>1. амьтны нүз цийлгэр болох;2. сохрох;цийх сохор&lt;хорш&gt;.</definition>
+      <page>787</page>
+    </entry_item>
+  </entries>
+</entry>

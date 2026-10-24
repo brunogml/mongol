@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1619">
+  <head>
+    <unicode>ᠮᠣᠩᠬᠠᠭᠣᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>mungqaγuraγulqu</transcript>
+    <transcript2>monggagoragolgo</transcript2>
+    <cyrillic>мунхууруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>M1618</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠤᠩᠬᠠᠭᠤᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>мунхууруулах</cyrillic>
+      <definition>〔动〕мунхуурах 的使动态.</definition>
+      <page>696</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠩᠬᠠᠭᠣᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>МУНХУУРУУЛАХ</cyrillic>
+      <definition>мунхуурах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠤᠩᠬᠠᠭᠤᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>мунхууруулах</cyrillic>
+      <definition>мунхуурахын үйлдүүлэх хэв.</definition>
+      <page>350</page>
+    </entry_item>
+  </entries>
+</entry>

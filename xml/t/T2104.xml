@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T2104">
+  <head>
+    <unicode>ᠲᠠᠮᠰᠢᠶᠠᠯᠠᠴᠢᠬᠠᠬᠣ</unicode>
+    <transcript>tamsiyalačiqaqu</transcript>
+    <transcript2>damsiyalacigago</transcript2>
+    <cyrillic>тамшаалчихах</cyrillic>
+  </head><related_to>
+    <ref>T2102</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠮᠰᠢᠶᠠᠯᠠᠴᠢᠬᠠᠬᠣ</unicode>
+      <cyrillic>ТАМШААЛЧИХ</cyrillic>
+      <definition>лакомиться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠲᠠᠮᠰᠢᠶᠠᠯᠬᠠᠬᠤ</unicode>
+      <definition>faire claquer, résonner</definition>
+      <page>1648</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠦᠪᠴᠢᠨ ᠢ ᠲᠠᠮᠰᠢᠶᠠᠯᠬᠠᠬᠤ</unicode>
+          <definition>lacher la corde de l'arc</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

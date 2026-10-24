@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1395">
+  <head>
+    <unicode>ᠣᠳᠣᠬᠣ</unicode>
+    <transcript>utuqu</transcript>
+    <transcript2>odogo</transcript2>
+    <cyrillic>утах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U1397</ref>
+    <ref>U1403</ref>
+    <ref>U1441</ref>
+  </derivatives>
+  <see_also>
+    <ref>U1394</ref>
+    <ref>U1396</ref>
+    <ref>U1396a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠳᠣᠬᠣ</unicode>
+      <uighur>uduqu</uighur>
+      <cyrillic>утах</cyrillic>
+      <transcript>UTU-</transcript>
+      <definition>v.t. To smoke, fumigate, cure with smoke; to smoke out; to force animals into the open with smoke; to cense.</definition>
+      <page>888</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠳᠣᠭᠰᠠᠨ ᠮᠢᠬ᠎ᠠ</unicode>
+          <transcript>--γsan mix-a</transcript>
+          <definition> Smoked meat.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠷᠪᠠᠭ᠎ᠠ ᠣᠳᠣᠬᠣ</unicode>
+          <transcript>tarbaγ-a --xu</transcript>
+          <definition> To smoke out tarbayans.</definition>
+        </example>
+        <example>
+          <unicode>ᠤᠲᠤᠯᠭ᠎ᠠ ᠪᠡᠷ ᠣᠳᠣᠬᠣ</unicode>
+          <transcript>utulγ-a ber --xu</transcript>
+          <definition> To fumigate with incense (for treatment or ritualistic purification)</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠳᠣᠬᠤ</unicode>
+      <definition>fumer, faire de la fumée, parfumer (les habits etc.], mettre le feu près tannières des bêtes féroces pour les faire sortir; brûler q. c. pour faire de la suie, enfumer, noircir par la fumée.</definition>
+      <page>385</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠳᠣᠬᠤ ᠠᠷᠤᠬ</unicode>
+          <definition>réchaud à fumer à parfumer.</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠳᠣᠬᠤᠢ ᠺᠦᠵᠢᠰ</unicode>
+          <definition>bougies odoriférantes.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠶᠢᠨ ᠦᠨᠦᠷᠲᠡᠨ ᠺᠦᠵᠢᠰ ᠢᠶᠠᠷ ᠣᠳᠣᠬᠤ</unicode>
+          <definition>partumer avec des bougies odoriférantes</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠣᠳᠣᠬᠣ</unicode>
+      <uighur>uduqu</uighur>
+      <definition>räuchern, ausräuchern</definition>
+      <page>59</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠣᠳᠣᠬᠣ</unicode>
+      <uighur>uduqu</uighur>
+      <definition>(oot)v t. To fumigate, to smoke, to cure.</definition>
+      <page>233</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠲᠤᠬᠤ</unicode>
+      <cyrillic>утах</cyrillic>
+      <definition>〔动〕①熏，烟熏，熏制，熏烤：тарвага ~ 把旱獭从洞里熏出来；арьс шир ~ 熏皮子；утсан мах 熏肉；~ утлага 熏蒸剂；②抽风，抽烟；③（转）冒烟：тамхиараа ~ 香烟冒烟；④焚香.</definition>
+      <page>1210</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠳᠣᠬᠣ</unicode>
+      <cyrillic>УТАХ</cyrillic>
+      <definition>1. 1) окуривать, обдавать дымом, кадљть; тарвага утах выкуривать тарбагана из норы; 2) коптљть; 3) шашин. кадљть; 2. утахуй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠳᠣᠬᠣ</unicode>
+      <cyrillic>УТАХУЙ</cyrillic>
+      <definition>выкуривание; копчение. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠳᠣᠬᠣ</unicode>
+      <cyrillic>УТСАН</cyrillic>
+      <definition>копчёный; утсан загас копчёная рыба; гахайн утсан мах бекон. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>утах</cyrillic>
+      <definition>[aus-, be]räuchern; тарвага ~ ein Murmeltier ausräuchern; утсан мах[ан] Rauchfleisch n; утсан хиам Räucherwurst f</definition>
+      <page>262</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠲᠤᠬᠤ</unicode>
+      <cyrillic>утах</cyrillic>
+      <definition>1. утааг амьсгалаар соруулах;2. зарим амьтныг агнахаар нүхэнд нь утаа оруулах; тарвага утах;3. утаа шингээх; арьс шир утах; утсан хиам; утсан мах;4. &lt;шилжсэн&gt;утаа баагиулах; тамхиараа утах.</definition>
+      <page>604</page>
+    </entry_item>
+  </entries>
+</entry>

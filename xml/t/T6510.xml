@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6510">
+  <head>
+    <unicode>ᠲᠣᠰᠣᠳᠠᠬᠣ</unicode>
+    <transcript>tosudaqu</transcript>
+    <transcript2>dosodago</transcript2>
+    <cyrillic>тосдох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T6511</ref>
+    <ref>T6512</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠰᠣᠳᠠᠬᠣ</unicode>
+      <uighur>tosodaqu</uighur>
+      <cyrillic>тосдох</cyrillic>
+      <transcript>TOSUDA-</transcript>
+      <definition>v. i. and t. To get oil or grease on something.</definition>
+      <page>828</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠤᠪᠴᠠᠰᠤᠨ ᠢᠶᠠᠨ ᠲᠣᠰᠣᠳᠠᠬᠣ</unicode>
+          <transcript>xubcasun ijen --xu</transcript>
+          <definition> To get grease on one's clothing.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠰᠣᠳᠠᠬᠤ</unicode>
+      <definition>enduire de l'huile ou de vernis.</definition>
+      <page>1829</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠰᠣᠳᠠᠬᠤ</unicode>
+      <cyrillic>тосдох</cyrillic>
+      <definition>〔动〕涂油，抹油；上油；擦污，染污，染上油污：ботинк ~ 皮鞋上油；◊ хушуу ~ 尝一尝，稍吃一点.</definition>
+      <page>1084</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠰᠣᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТОСДОХ</cyrillic>
+      <definition>вымазывать, пачкать маслом (напр. хлеб); класть масло (в пищу). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тосдох</cyrillic>
+      <definition>ölen, fetten; ölig od fettig werden; тосдсон цаас[ан] Paraffinpapier n</definition>
+      <page>232</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠰᠣᠳᠠᠬᠤ</unicode>
+      <cyrillic>тосдох</cyrillic>
+      <definition>тос түрхэж халдаах.</definition>
+      <page>546</page>
+    </entry_item>
+  </entries>
+</entry>

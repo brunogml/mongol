@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3699">
+  <head>
+    <unicode>ᠵᠣᠣᠪᠠᠩᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰoubangdaγulqu</transcript>
+    <transcript2>yoobangdagolgo</transcript2>
+    <cyrillic>зуувандуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y3696</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠤᠤᠪᠠᠩᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зуувандуулах</cyrillic>
+      <definition>〔动〕зуувандах 的使动态.</definition>
+      <page>581</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠣᠪᠠᠩᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗУУВАНДУУЛАХ</cyrillic>
+      <definition>зуувандах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠤᠤᠪᠠᠩᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зуувандуулах</cyrillic>
+      <definition>зуувандахын үйлдүүлэх хэв.</definition>
+      <page>287</page>
+    </entry_item>
+  </entries>
+</entry>

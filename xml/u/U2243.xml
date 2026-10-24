@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2243">
+  <head>
+    <unicode>ᠣᠶᠠᠳᠠᠬᠣ</unicode>
+    <transcript>uyadaqu</transcript>
+    <transcript2>oyadago</transcript2>
+    <cyrillic>уядах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U2244</ref>
+    <ref>U2245</ref>
+  </derivatives>
+  <see_also>
+    <ref>U2252</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠶᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>УЯДАХ</cyrillic>
+      <definition>быть чрезмерно мягким, податливым; быть упругим. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠶᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>уядах</cyrillic>
+      <definition>хэтэрхий уян болох.</definition>
+      <page>611</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="N1021">
+  <head>
+    <unicode>ᠨᠠᠮᠠᠴᠠ</unicode>
+    <transcript>nemeče</transcript>
+    <transcript2>nemece</transcript2>
+    <cyrillic>нэмц</cyrillic>
+  </head><derivatives>
+    <ref>N1037</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠡᠮᠡᠴᠡ</unicode>
+      <cyrillic>нэмц</cyrillic>
+      <definition>〔名〕增加量，增加程度.</definition>
+      <page>775</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠮᠠᠴᠠ</unicode>
+      <cyrillic>НЭМЦ</cyrillic>
+      <definition>1) прибавка, добавление; 2) тоо. мантисса, дробная часть десятичного логарифма. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

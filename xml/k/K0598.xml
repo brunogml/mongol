@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K0598">
+  <head>
+    <unicode>ᠺᠠᠲᠥᠯᠥᠰᠢ</unicode>
+    <transcript>getülüsi</transcript>
+    <transcript2>gedölösi</transcript2>
+    <cyrillic>гэтлэш</cyrillic>
+  </head><see_also>
+    <ref>K0597</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠡᠲᠥᠯᠥᠰᠢ</unicode>
+      <uighur>gedülüsi</uighur>
+      <cyrillic>гэтлэш</cyrillic>
+      <transcript>GETYLYSI</transcript>
+      <page>381</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠡᠲᠥᠯᠥᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Impassable (river, etc.).</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠲᠥᠯᠥᠰᠢ</unicode>
+      <cyrillic>ГЭТЭЛШГҮЙ</cyrillic>
+      <definition>непереходимый, непроходимый. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

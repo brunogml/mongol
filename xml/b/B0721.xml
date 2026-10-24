@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0721">
+  <head>
+    <unicode>ᠪᠠᠳᠮᠠᠯᠠᠬᠣ</unicode>
+    <transcript>badmalaqu</transcript>
+    <transcript2>badmalago</transcript2>
+    <cyrillic>бадмалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>X0551</ref>
+  </derivatives>
+  <variants>
+    <variant type="cyrillic">бадамлах</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠳᠮᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>бадмалах</cyrillic>
+      <definition>〔动〕画荷花式图案，使成荷花形.</definition>
+      <page>111</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠳᠮᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>БАДМАЛАХ</cyrillic>
+      <definition>делать узор бадма.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠳᠮᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>бадамлах</cyrillic>
+      <definition>〔动〕见 бадмалах.</definition>
+      <page>110</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠳᠮᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>бадмалах</cyrillic>
+      <definition>бадма гарах; бадма хээ гаргах.</definition>
+      <page>66</page>
+    </entry_item>
+  </entries>
+</entry>

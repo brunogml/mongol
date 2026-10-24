@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I1102">
+  <head>
+    <unicode>ᠢᠷᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>iralǰaγulqu</transcript>
+    <transcript2>iralcagolgo</transcript2>
+    <cyrillic>яралзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>I1101</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠷᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>яралзуулах</cyrillic>
+      <definition>〔动〕яралзах 的使动态.</definition>
+      <page>1756</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠷᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЯРАЛЗУУЛАХ</cyrillic>
+      <definition>яралзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>яралзуулах</cyrillic>
+      <definition>Kaus von яралзах</definition>
+      <page>415</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠷᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>яралзуулах</cyrillic>
+      <definition>яралзахын үйлдүүлэх хэв.</definition>
+      <page>909</page>
+    </entry_item>
+  </entries>
+</entry>

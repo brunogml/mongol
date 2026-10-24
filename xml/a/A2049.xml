@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A2049">
+  <head>
+    <unicode>ᠠᠲᠠᠷᠠᠬᠣ</unicode>
+    <transcript>ataraqu</transcript>
+    <transcript2>adarago</transcript2>
+    <cyrillic>атрах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>A2054</ref>
+    <ref>A2056</ref>
+  </derivatives>
+  <see_also>
+    <ref>A2050</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠳᠠᠷᠠᠬᠤ ~ ᠠᠴᠠᠷᠠᠬᠤ</unicode>
+      <definition>apporter, donner, présenter</definition>
+      <page>61</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠲᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>атрах</cyrillic>
+      <definition>〔动〕见 авчрах.</definition>
+      <page>89</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠲᠠᠷᠠᠬᠣ</unicode>
+      <cyrillic>АТРАХ</cyrillic>
+      <definition>хуучир. приносить, приводить, привозить, подавать.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>атрах</cyrillic>
+      <definition>= авчрах</definition>
+      <page>37</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠲᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>атрах</cyrillic>
+      <definition>авчрах, авч ирэх.</definition>
+      <page>57</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0299">
+  <head>
+    <unicode>ᠮᠠᠭᠠᠵᠢᠭᠣᠷᠲᠣᠬᠣ</unicode>
+    <transcript>maγaǰiγurtuqu</transcript>
+    <transcript2>magacigordogo</transcript2>
+    <cyrillic>маажууртах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠭᠠᠵᠢᠭᠤᠷᠲᠤᠬᠤ</unicode>
+      <cyrillic>маажууртах</cyrillic>
+      <definition>〔动〕〈医〉患痒疹厂长疥癣，长疥疮.</definition>
+      <page>650</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠭᠠᠵᠢᠭᠣᠷᠲᠣᠬᠣ</unicode>
+      <cyrillic>МААЖУУРТАХ</cyrillic>
+      <definition>заболеть, заразиться почесухой; маажууртахаас сэргийлэх профилактика почесухи. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠭᠠᠵᠢᠭᠤᠷᠲᠤᠬᠤ</unicode>
+      <cyrillic>маажууртах</cyrillic>
+      <definition>маажуур өвчин тусах.</definition>
+      <page>324</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>M0298</ref>
+  </related_to>
+</entry>

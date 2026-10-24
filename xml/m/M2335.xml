@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M2335">
+  <head>
+    <unicode>ᠮᠥᠺᠥᠰᠳᠠᠺᠥ</unicode>
+    <transcript>möküsdekü</transcript>
+    <transcript2>mögösdegö</transcript2>
+    <cyrillic>мөхөсдөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M2336</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠡᠬᠦᠰᠳᠡᠬᠦ</unicode>
+      <cyrillic>мөхөсдөх</cyrillic>
+      <definition>〔动〕变弱，太无力；变不足，过于缺乏：чадал ~ 太缺乏能力.</definition>
+      <page>690</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠥᠺᠥᠰᠳᠠᠺᠥ</unicode>
+      <cyrillic>МӨХӨСДӨХ</cyrillic>
+      <definition>оказываться слишком слабым, слабосильным; чадал мөхөсдөх / хүч мөхөсдөх оказываться слабым, быть не в силах (что-л. сделать); чадвар мөхөсдөв не хватило способностей, умения. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠡᠬᠦᠰᠳᠡᠬᠦ</unicode>
+      <cyrillic>мөхөсдөх</cyrillic>
+      <definition>хэтэрхий мөхөс болох, чадал хүрэхгүй болох; чадвар мөхөсдөв.</definition>
+      <page>347</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>M2334</ref>
+  </related_to>
+</entry>

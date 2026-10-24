@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0456">
+  <head>
+    <unicode>ᠱᠠᠭᠠᠷᠳᠠᠯ</unicode>
+    <transcript>šaγardal</transcript>
+    <transcript2>sagardal</transcript2>
+    <cyrillic>шаардал</cyrillic>
+  </head>
+  <see_also>
+    <ref>S3328</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠱᠠᠭᠠᠷᠳᠠᠯ</unicode>
+      <definition>contrainte, incitation,</definition>
+      <page>1443</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠭᠠᠷᠳᠠᠯ</unicode>
+      <cyrillic>ШААРДАЛ</cyrillic>
+      <definition>понуждение, принуждение, нажим, давление; требование; шаардлага-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠭᠠᠷᠳᠠᠯ</unicode>
+      <cyrillic>шаардал</cyrillic>
+      <definition>шаардлага.</definition>
+      <page>826</page>
+    </entry_item>
+  </entries>
+</entry>

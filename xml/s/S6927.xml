@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6927">
+  <head>
+    <unicode>ᠰᠥᠺᠥᠷᠠᠺᠥ</unicode>
+    <transcript>sökürekü</transcript>
+    <transcript2>sögöregö</transcript2>
+    <cyrillic>сөхрөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6930</ref>
+  </derivatives>
+  <see_also>
+    <ref>S6928</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠥᠬᠥᠷᠡᠬᠦ</unicode>
+      <cyrillic>сөхрөх</cyrillic>
+      <definition>〔动〕跪下，跪坐，跪拜.</definition>
+      <page>950</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠥᠺᠥᠷᠠᠺᠥ</unicode>
+      <cyrillic>СӨХРӨХ</cyrillic>
+      <definition>приседать, присаживаться; айж сөхрөх присесть от страха; өвдөг дээрээ сөхрөх становиться на колени; сөхөрч унатлаа ажиллах работать до упаду. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠥᠬᠥᠷᠡᠬᠦ</unicode>
+      <cyrillic>сөхрөх</cyrillic>
+      <definition>бохирох, сөгдөх; сөхөрч суух; өвдөг сөхрөх; ажил сөхөртлөө хийв.</definition>
+      <page>485</page>
+    </entry_item>
+  </entries>
+</entry>

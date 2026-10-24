@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1813">
+  <head>
+    <unicode>ᠮᠣᠰᠢᠯᠵᠠᠬᠣ</unicode>
+    <transcript>musilǰaqu</transcript>
+    <transcript2>mosilcago</transcript2>
+    <cyrillic>мушилзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M1814</ref>
+    <ref>M1815</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠤᠰᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>мушилзах</cyrillic>
+      <definition>〔动〕微笑，露笑容.</definition>
+      <page>700</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠰᠢᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>МУШИЛЗАХ</cyrillic>
+      <definition>кривить рот в улыбке, усмехаться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>мушилзах</cyrillic>
+      <definition>grinsen</definition>
+      <page>148</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠤᠰᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>мушилзах</cyrillic>
+      <definition>инээмсэглэх байдал илрэх; дуртай дургүй мушилзаж харагдав.</definition>
+      <page>353</page>
+    </entry_item>
+  </entries>
+</entry>

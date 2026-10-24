@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3813">
+  <head>
+    <unicode>ᠶᠣᠨᠲᠣᠯᠵᠠᠬᠣ</unicode>
+    <transcript>yontulǰaqu</transcript>
+    <transcript2>yondolcago</transcript2>
+    <cyrillic>ёнтолзох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y3816</ref>
+  </derivatives>
+  <see_also>
+    <ref>Y3814</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠣᠨᠲᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>ёнтолзох</cyrillic>
+      <definition>〔动〕参见 ёндолзох.</definition>
+      <page>491</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠣᠨᠲᠣᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ЁНТОЛЗОХ</cyrillic>
+      <definition>ёнтойх-ын олонтаа., то и дело двигаться, приходить в движение. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠣᠨᠲᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>ёнтолзох</cyrillic>
+      <definition>ёнтгор юмны байн байн хөдлөх.</definition>
+      <page>236</page>
+    </entry_item>
+  </entries>
+</entry>

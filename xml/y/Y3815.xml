@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3815">
+  <head>
+    <unicode>ᠵᠣᠨᠲᠣᠯᠵᠠᠬᠣ</unicode>
+    <transcript>ǰontulǰaqu</transcript>
+    <transcript2>yondolcago</transcript2>
+    <cyrillic>жонтолзох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y3818</ref>
+  </derivatives>
+  <see_also>
+    <ref>Y3814</ref>
+    <ref>Y3815a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠣᠨᠲᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>жонтолзох</cyrillic>
+      <definition>〔動〕参见 жонтгонох.</definition>
+      <page>516</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠨᠲᠣᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ЖОНТОЛЗОХ</cyrillic>
+      <definition>жомболзох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠣᠨᠲᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>жонтолзох</cyrillic>
+      <definition>жонтгор юмны байн байн хөдлөх.</definition>
+      <page>250</page>
+    </entry_item>
+  </entries>
+</entry>

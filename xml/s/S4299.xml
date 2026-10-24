@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4299">
+  <head>
+    <unicode>ᠰᠢᠺᠢᠴᠢᠢᠯᠠᠺᠥ</unicode>
+    <transcript>sigičiilekü</transcript>
+    <transcript2>sigiciilegö</transcript2>
+    <cyrillic>шигчийлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S4301</ref>
+    <ref>S4298</ref>
+  </derivatives>
+  <see_also>
+    <ref>S4300</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠭᠡᠴᠡᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>шигчийлэх</cyrillic>
+      <definition>〔动〕参见 шигчлэх.</definition>
+      <page>1629</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠺᠢᠴᠢᠢᠯᠠᠺᠥ</unicode>
+      <cyrillic>ШИГЧИЙЛЭХ</cyrillic>
+      <definition>шигчлэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠭᠢᠴᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>шигчийлэх</cyrillic>
+      <definition>шигчлэх.</definition>
+      <page>844</page>
+    </entry_item>
+  </entries>
+</entry>

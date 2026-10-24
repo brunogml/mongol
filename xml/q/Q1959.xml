@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1959">
+  <head>
+    <unicode>ᠬᠠᠯᠢᠰᠣᠷᠠᠬᠣ</unicode>
+    <transcript>qalisuraqu</transcript>
+    <transcript2>galisorago</transcript2>
+    <cyrillic>хальсрах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠯᠢᠰᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>хальсрах</cyrillic>
+      <definition>〔动〕①成外壳，变成表皮，长成鳞；②成膜，变成膜.</definition>
+      <page>1294</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠯᠢᠰᠣᠷᠠᠬᠣ</unicode>
+      <cyrillic>ХАЛЬСРАХ</cyrillic>
+      <definition>шелушиться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хальсрах</cyrillic>
+      <definition>eine Hülle od Haut bilden, Rinde od Schale bilden</definition>
+      <page>289</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠯᠢᠰᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>хальсрах</cyrillic>
+      <definition>хальс болох.</definition>
+      <page>653</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q1948</ref>
+  </related_to>
+</entry>

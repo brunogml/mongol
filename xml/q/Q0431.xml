@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0431">
+  <head>
+    <unicode>ᠭᠠᠩᠲᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>γangtuγulqu</transcript>
+    <transcript2>gangdogolgo</transcript2>
+    <cyrillic>гантуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q0430</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠠᠩᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гантуулах</cyrillic>
+      <definition>〔动〕гантах 的使动态.</definition>
+      <page>279</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠩᠲᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ГАНТУУЛАХ</cyrillic>
+      <definition>гантах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠠᠩᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гантуулах</cyrillic>
+      <definition>гантахын үйлдүүлэх хэв.</definition>
+      <page>137</page>
+    </entry_item>
+  </entries>
+</entry>

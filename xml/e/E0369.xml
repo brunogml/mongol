@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E0369">
+  <head>
+    <unicode>ᠡᠪᠰᠡᠯᠳᠦᠺᠦ</unicode>
+    <transcript>ebseldükü</transcript>
+    <transcript2>ebseldögö</transcript2>
+    <cyrillic>эвсэлдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>E0370</ref>
+    <ref>E0368</ref>
+  </derivatives>
+  <see_also>
+    <ref>E0365</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠪᠰᠠᠯᠳᠥᠺᠥ</unicode>
+      <uighur>ebseldükü</uighur>
+      <cyrillic>эвсэлдэх</cyrillic>
+      <transcript>EBSELDY-</transcript>
+      <definition>[v, rec. of ebse-] To reconcile oneself (to, with); to agree, come to an understanding; to form a block or coalition</definition>
+      <page>289</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠪᠰᠠᠯᠳᠥᠨ ᠺᠡᠯᠡᠯᠴᠡᠺᠦ</unicode>
+          <transcript>--n kelelceky</transcript>
+          <definition> To discuss together and come to an understanding.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠪᠰᠡᠯᠳᠦᠬᠦ</unicode>
+      <cyrillic>эвсэлдэх</cyrillic>
+      <definition>〔动〕эвсэх 的互动态；①组成集团，建立联盟，同盟；②互相妥协，互相调和，协同，协力，媾和，勾结.</definition>
+      <page>1677</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠪᠰᠠᠯᠳᠥᠺᠥ</unicode>
+      <cyrillic>ЭВСЭЛДЭХ</cyrillic>
+      <definition>эвсэх-ийн үйлдэлд., 1) образовывать блок, коалицию; 2) мириться, примириться, снова быть в хороших отношениях. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠪᠰᠡᠯᠳᠦᠬᠦ</unicode>
+      <cyrillic>эвсэлдэх</cyrillic>
+      <definition>эвсэхийн үйлдэлдэх хэв.</definition>
+      <page>866</page>
+    </entry_item>
+  </entries>
+</entry>

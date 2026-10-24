@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4664">
+  <head>
+    <unicode>ᠭᠣᠪᠢᠬᠣ</unicode>
+    <transcript>γubiqu</transcript>
+    <transcript2>gobigo</transcript2>
+    <cyrillic>гувих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q4667</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q4663</ref>
+    <ref>Q4665</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠣᠪᠢᠬᠣ</unicode>
+      <uighur>γubiqu</uighur>
+      <cyrillic>гувих</cyrillic>
+      <transcript>ΓUBI-</transcript>
+      <definition>v.i To be afflicted; to suffer; to pierce, poke, jab; to be very bungry.</definition>
+      <page>364</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠣᠲᠤᠷ᠎ᠠ ᠭᠣᠪᠢᠬᠣ</unicode>
+          <transcript>dotur-a --xu_ </transcript>
+          <definition>To feel hunger pangs within one; to feel very hungry</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠤᠪᠢᠬᠤ</unicode>
+      <definition>être afiligé, souffrir</definition>
+      <page>1025</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠣᠲᠣᠷ᠎ᠠ ᠭᠤᠪᠢᠬᠤ</unicode>
+          <definition>avoir le ventre vide, désirer fort de manger, souffrir de la faim</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠤᠪᠢᠬᠤ</unicode>
+      <cyrillic>гувих</cyrillic>
+      <definition>〔动〕①苦恼；受痛苦；②挨饿：дотор ~ 感觉非常饿.</definition>
+      <page>319</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠤᠪᠢᠬᠤ</unicode>
+      <cyrillic>гуйвах /1</cyrillic>
+      <definition>мөнгө юм энд өгч тэнд авах, тэнд өгч энд авах; таны зардал өнөөдөр гуйвсан.</definition>
+      <page>156</page>
+    </entry_item>
+  </entries>
+</entry>

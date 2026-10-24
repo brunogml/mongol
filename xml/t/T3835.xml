@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3835">
+  <head>
+    <transcript>telefon</transcript>
+    <transcript2>delefon</transcript2>
+    <cyrillic>телеФон</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠧᠯᠧᠹᠣᠨ</unicode>
+      <uighur>tElEfon</uighur>
+      <cyrillic>телефон</cyrillic>
+      <transcript>TELEFON</transcript>
+      <definition>[R. телефон] n. Telephone.</definition>
+      <page>797</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠧᠯᠧᠹᠣᠨ ᠴᠣᠺᠢᠬᠤ</unicode>
+          <transcript>-- cokixu</transcript>
+          <definition> To telephone.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ТЕЛЕФОН</cyrillic>
+      <definition>1. телефон; телефон утас хорш. телефон; 2. телефонный; утас-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ТЕЛЕФОНЫ</cyrillic>
+      <definition>телефон-ы харьяал., телефонный; утасны-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>телефон</cyrillic>
+      <definition>Telefon n</definition>
+      <page>224</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠧᠯᠧᠹᠣᠨ</unicode>
+      <cyrillic>телефон</cyrillic>
+      <definition>цахилгаан хүчний тусламжаар авиа, үг яриаг алсад дамжуулах хэрэгсэл; телефон утас; телефон аппарат; телефоны шугам.</definition>
+      <page>530</page>
+    </entry_item>
+  </entries>
+</entry>

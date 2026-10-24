@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1415">
+  <head>
+    <unicode>ᠥᠺᠠᠲᠠᠢ</unicode>
+    <transcript>ügetei</transcript>
+    <transcript2>ögedei</transcript2>
+    <cyrillic>үгтэй</cyrillic>
+  </head>
+  <see_also>
+    <ref>O1416</ref>
+    <ref>O1417</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠥᠺᠠᠲᠠᠢ</unicode>
+      <uighur>ükedei</uighur>
+      <cyrillic>үгтэй</cyrillic>
+      <transcript>YGETEI</transcript>
+      <definition>adj. Having words; talkative, loquacious, voluble, garrulous.</definition>
+      <page>998</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠥᠭᠡᠨ ᠥᠺᠠᠲᠠᠢ</unicode>
+          <transcript>cøgen -- </transcript>
+          <definition> Taciturn.</definition>
+        </example>
+        <example>
+          <unicode>ᠶᠡᠺᠡ ᠥᠺᠠᠲᠠᠢ ᠺᠦᠮᠦᠨ</unicode>
+          <transcript>jeke -- kymyn</transcript>
+          <definition> Braggart.</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠯᠠᠨ ᠥᠺᠠᠲᠠᠢ</unicode>
+          <transcript>olan -- </transcript>
+          <definition> Verbose, prolix; blabber, chatterbox.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠦᠺᠡᠳᠡᠢ ~ ᠦᠺᠡᠳᠦ</unicode>
+      <definition>qui contient les mots. doué de la parole, éloquent.</definition>
+      <page>558</page>
+      <examples>
+        <example>
+          <unicode>ᠦᠺᠡᠳᠡᠢ ᠬᠠᠭᠠᠨ</unicode>
+          <definition>Ughetey khan, fils de Tchinguis-khan regn. 1229-1241</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠦᠭᠡᠲᠡᠢ</unicode>
+      <cyrillic>үгтэй</cyrillic>
+      <definition>〔形〕有…词的；有…话的；有词的；有话的：гучин мянган ~ толь 含三万词的词典.</definition>
+      <page>1225</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠺᠠᠲᠠᠢ</unicode>
+      <cyrillic>ҮГТЭЙ</cyrillic>
+      <definition>үгт II-ийг үз., тавин мянган үгтэй толь словарь имеющий пятьдесят тысяч слов. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>үгтэй</cyrillic>
+      <definition>mit Wörtern; wortreich; бэлэн зэлэн ~ redegewandt, schlagfertig; дөчин мянган ~ толь'[ин] ein Wörterbuch mit vierzigtausend Wörtern</definition>
+      <page>267</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠦᠭᠡᠲᠡᠢ</unicode>
+      <cyrillic>үгтэй</cyrillic>
+      <definition>үг бүхий; гучин мянган үгтэй толь.</definition>
+      <page>613</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6752">
+  <head>
+    <unicode>ᠰᠥᠮᠠᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>sümegenekü</transcript>
+    <transcript2>sömegenegö</transcript2>
+    <cyrillic>сүүмгэнэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6753</ref>
+    <ref>S6751</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠦᠮᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>сүүмгэнэх</cyrillic>
+      <definition>〔动〕见 сүүмэгнэх.</definition>
+      <page>978</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠥᠮᠠᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>СҮҮМГЭНЭХ</cyrillic>
+      <definition>мерцать, тускнеть; тлеть; сүүмэлзэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сүүмгэнэх</cyrillic>
+      <definition>= сүүмэлзэх</definition>
+      <page>209</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠦᠮᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>сүмгэнэх</cyrillic>
+      <definition>сүүмгэнэх.</definition>
+      <page>496</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠦᠮᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>сүүмэгнэх</cyrillic>
+      <definition>1. сүүмгэр юмны үргэлжлэн хөдлөх байдал;2. гэрэл, бараа алсаас сүүмэлзэн үзэгдэх.</definition>
+      <page>498</page>
+    </entry_item>
+  </entries>
+</entry>

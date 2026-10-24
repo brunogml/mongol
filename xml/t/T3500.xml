@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3500">
+  <head>
+    <unicode>ᠳᠠᠪᠢᠺᠥᠷᠳᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>debigürdegülkü</transcript>
+    <transcript2>debigördegölgö</transcript2>
+    <cyrillic>дэвүүрдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T3499</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠡᠪᠢᠭᠦᠷᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дэвүүрдүүлэх</cyrillic>
+      <definition>〔动〕дэвүүрдэх 的使动态.</definition>
+      <page>463</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠪᠢᠺᠥᠷᠳᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ДЭВҮҮРДҮҮЛЭХ</cyrillic>
+      <definition>дэвүүрдэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠪᠦᠭᠦᠷᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дэвүүрдүүлэх</cyrillic>
+      <definition>дэвүүрдэхийн үйлдүүлэх хэв.</definition>
+      <page>221</page>
+    </entry_item>
+  </entries>
+</entry>

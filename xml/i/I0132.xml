@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="I0132">
+  <head>
+    <unicode>ᠢᠩᠪᠣ</unicode>
+    <transcript>ingbu</transcript>
+    <transcript2>ingbo</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠢᠩᠪᠣ</unicode>
+      <uighur>ingbu</uighur>
+      <transcript>INGBU</transcript>
+      <definition>n, A pass for traveling over the system of relay stations.</definition>
+      <page>411</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠠᠮ ᠤᠨ ᠢᠩᠪᠣ ᠪᠢᠴᠢᠭ</unicode>
+          <transcript>zam un -- bicig</transcript>
+          <definition> As above.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠢᠩᠪᠤ ᠵᠠᠮ ᠤᠨ ᠪᠢᠴᠢᠺ</unicode>
+      <definition>passe-port pour prendre des chevaux au relais de poste</definition>
+      <page>280</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠢᠩᠪᠣ</unicode>
+      <uighur>ingbu bičik</uighur>
+      <definition>A list of names of places along a road, serving as a guide. An itinerary.</definition>
+      <page>140</page>
+    </entry_item>
+  </entries>
+</entry>

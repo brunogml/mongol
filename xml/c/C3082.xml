@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3082">
+  <head>
+    <unicode>ᠴᠣᠮᠬᠠᠷᠠᠬᠣ</unicode>
+    <transcript>čomqaraqu</transcript>
+    <transcript2>comgarago</transcript2>
+    <cyrillic>цомхрох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C3083</ref>
+    <ref>C3084</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠣᠮᠬᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>цомхрох</cyrillic>
+      <definition>〔动〕变整齐，变条理，变得有秩序，井然有条.</definition>
+      <page>1533</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠮᠬᠠᠷᠠᠬᠣ</unicode>
+      <cyrillic>ЦОМХРОХ</cyrillic>
+      <definition>быть собранным, упорядоченным, слаженным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠣᠮᠬᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>цомхрох</cyrillic>
+      <definition>цомхдох, эмхрэх;эмхрэх цомхрох&lt;хорш&gt;.</definition>
+      <page>790</page>
+    </entry_item>
+  </entries>
+</entry>

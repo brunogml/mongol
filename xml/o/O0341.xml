@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O0341">
+  <head>
+    <unicode>ᠥᠨᠳᠥᠷᠺᠠᠨ</unicode>
+    <transcript>öndürken</transcript>
+    <transcript2>öndörgen</transcript2>
+    <cyrillic>өндөрхөн</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠨᠳᠥᠷᠬᠡᠨ</unicode>
+      <cyrillic>өндөрхөн</cyrillic>
+      <definition>〔形〕өндөр 的小称；①较高的；②较年高的；③较高大的.</definition>
+      <page>850</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠨᠳᠥᠷᠺᠠᠨ</unicode>
+      <cyrillic>ӨНДӨРХӨН</cyrillic>
+      <definition>өндөр-ийн багас., довольно высокий. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠨᠳᠥᠷᠬᠡᠨ</unicode>
+      <cyrillic>өндөрхөн</cyrillic>
+      <definition>баахан өндөр.</definition>
+      <page>440</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>O0312</ref>
+  </related_to>
+</entry>

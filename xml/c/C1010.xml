@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1010">
+  <head>
+    <unicode>ᠴᠠᠯᠴᠠᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>čelčegenekü</transcript>
+    <transcript2>celcegenegö</transcript2>
+    <cyrillic>цэлцэгнэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1011</ref>
+    <ref>C1009</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠯᠴᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>цэлцэгнэх</cyrillic>
+      <definition>〔动〕肥胖、丰满、肥腴物晃动、摇动、摆动.</definition>
+      <page>1563</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠯᠴᠠᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>ЦЭЛЦЭГНЭХ</cyrillic>
+      <definition>двигаться, шевелиться (о сочном и мягком, мягком и жирном); дрожать как студень. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠯᠴᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>цэлцэгнэх</cyrillic>
+      <definition>цэлцгэр юмны цэлцэг цэлцэг хөдлөх, цэлэгнэх.</definition>
+      <page>805</page>
+    </entry_item>
+  </entries>
+</entry>

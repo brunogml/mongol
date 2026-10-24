@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A2472">
+  <head>
+    <unicode>ᠠᠯᠬᠣᠯ</unicode>
+    <transcript>alqul</transcript>
+    <transcript2>algol</transcript2>
+    <cyrillic>алхал</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠯᠬᠤᠯ</unicode>
+      <definition>le pas, démarche, allure</definition>
+      <page>80</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠯᠬᠣᠯ</unicode>
+      <cyrillic>АЛХАЛ</cyrillic>
+      <definition>шаг, поступь.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠯᠬᠣᠯ ᠦᠭᠡᠢ</unicode>
+      <cyrillic>АЛХАЛГҮЙ</cyrillic>
+      <definition>не шагая, не делая шага.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

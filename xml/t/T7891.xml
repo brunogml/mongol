@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7891">
+  <head>
+    <unicode>ᠲᠣᠷᠰᠢᠬᠳᠠᠬᠣ</unicode>
+    <transcript>tursiγdaqu</transcript>
+    <transcript2>dorsigdago</transcript2>
+    <cyrillic>туршигдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T7886</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠷᠰᠢᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>туршигдах</cyrillic>
+      <definition>〔动〕турших 的被动态.</definition>
+      <page>1116</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠷᠰᠢᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТУРШИГДАХ</cyrillic>
+      <definition>турших-ын үйлдэгд., быть испытанным, проверенным; испытываться, подвергаться испытанию; байлдаанд туршигдсан испытанный в боях. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠷᠰᠢᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>туршигдах</cyrillic>
+      <definition>туршихын үйлдэгдэх хэв.</definition>
+      <page>558</page>
+    </entry_item>
+  </entries>
+</entry>

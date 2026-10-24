@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q7222">
+  <head>
+    <unicode>ᠬᠣᠷᠳᠣᠰᠬᠣ</unicode>
+    <transcript>qurdusqu</transcript>
+    <transcript2>gordosgo</transcript2>
+    <cyrillic>хурдсах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q7223</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠷᠳᠤᠰᠬᠤ</unicode>
+      <cyrillic>хурдсах</cyrillic>
+      <definition>〔动〕加快，加速.</definition>
+      <page>1436</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠷᠳᠣᠰᠬᠣ</unicode>
+      <cyrillic>ХУРДСАХ</cyrillic>
+      <definition>ускоряться; хурдассан амьсгал / амьсгал нь хурдсах учащённое дыхание. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хурдсах</cyrillic>
+      <definition>schneller werden</definition>
+      <page>329</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠷᠳᠤᠰᠬᠤ</unicode>
+      <cyrillic>хурдсах</cyrillic>
+      <definition>улам хурдан болох, хурдан нь нэмэгдэх.</definition>
+      <page>733</page>
+    </entry_item>
+  </entries>
+</entry>

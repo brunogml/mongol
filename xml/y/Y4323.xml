@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y4323">
+  <head>
+    <unicode>ᠵᠣᠯᠢ</unicode>
+    <transcript>ǰoli</transcript>
+    <transcript2>yoli</transcript2>
+    <cyrillic>золь</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠣᠯᠢ</unicode>
+      <uighur>ǰoli</uighur>
+      <transcript>ZOLI</transcript>
+      <page>1070</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠣᠯᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition>Contrary to law, morals, or decency; without regard for honesty, reason , or justice.</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠣᠯᠢ ᠦᠭᠡᠢ ᠲᠥᠷᠦ ᠎ᠶᠢ ᠪᠠᠶᠢᠭᠤᠯᠬᠤ</unicode>
+          <transcript>-- ygei tøry ji baiγulxu</transcript>
+          <definition>To govern without justice [S.S.l42].</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠣᠯᠢ ᠦᠭᠡᠢ</unicode>
+      <definition>contre les lois, les moeurs. ou la bienséance, sans égards pour l'honnétete ou la raison, ou pour la justice.</definition>
+      <page>2387</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠣᠯᠢ ᠦᠭᠡᠢ ᠲᠥᠷᠦ ᠎ᠶᠢ ᠪᠠᠶᠢᠭᠤᠯᠬᠤ</unicode>
+          <definition>gouverner sans observer la justice</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠵᠣᠯᠢ</unicode>
+      <uighur>ǰoli ügei</uighur>
+      <definition>Unbecoming, improper. Contrary to manners and customs.  Nothing to depend on.</definition>
+      <page>1244</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠵᠣᠯᠢ</unicode>
+      <uighur>ǰoli tai</uighur>
+      <definition>Fitting, becoming, appropriate. According to custom and usage</definition>
+      <page>1244</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠯᠢ</unicode>
+      <cyrillic>ЗОЛЬ</cyrillic>
+      <definition>приличие, пристойность.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠯᠢ</unicode>
+      <cyrillic>ЗОЛЬГҮЙ</cyrillic>
+      <definition>неприличный.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

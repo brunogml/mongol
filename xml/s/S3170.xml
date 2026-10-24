@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3170">
+  <head>
+    <unicode>ᠰᠢᠩᠬᠣᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>singqudaγulqu</transcript>
+    <transcript2>singgodagolgo</transcript2>
+    <cyrillic>шунхдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S3169</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠩᠬᠤᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шунхдуулах</cyrillic>
+      <definition>〔动〕шунхдах 的使动态.</definition>
+      <page>1661</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠩᠬᠣᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШУНХДУУЛАХ</cyrillic>
+      <definition>шунхдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шунхдуулах</cyrillic>
+      <definition>Kaus von шунхдах</definition>
+      <page>392</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠩᠬᠤᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шунхдуулах</cyrillic>
+      <definition>шумхдахын үйлдүүлэх хэв.</definition>
+      <page>860</page>
+    </entry_item>
+  </entries>
+</entry>

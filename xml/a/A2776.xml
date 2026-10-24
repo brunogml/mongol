@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A2776">
+  <head>
+    <unicode>ᠠᠮᠠᠰᠠᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>amasardaγulqu</transcript>
+    <transcript2>amasardagolgo</transcript2>
+    <cyrillic>амсардуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>A2775</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠮᠠᠰᠠᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>амсардуулах</cyrillic>
+      <definition>〔动〕амсардах 的使动态.</definition>
+      <page>53</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠮᠠᠰᠠᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>АМСАРДУУЛАХ</cyrillic>
+      <definition>амсардах–ын үйл¬дүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠮᠠᠰᠠᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>амсардуулах</cyrillic>
+      <definition>амсардахын үйлдүүлэх хэв.</definition>
+      <page>40</page>
+    </entry_item>
+  </entries>
+</entry>

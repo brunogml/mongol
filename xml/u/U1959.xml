@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1959">
+  <head>
+    <unicode>ᠣᠮᠣᠭᠣᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>omuγunaγulqu</transcript>
+    <transcript2>omogonagolgo</transcript2>
+    <cyrillic>омгонуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U1958</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠮᠣᠭᠣᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>омгонуулах</cyrillic>
+      <definition>〔动〕омгонох /1、/2 的使动态.</definition>
+      <page>802</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠮᠣᠭᠣᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ОМГОНУУЛАХ</cyrillic>
+      <definition>омгонох I-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠮᠣᠭᠣᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>омгонуулах</cyrillic>
+      <definition>омгонохын үйлдүүлэх хэв.</definition>
+      <page>414</page>
+    </entry_item>
+  </entries>
+</entry>

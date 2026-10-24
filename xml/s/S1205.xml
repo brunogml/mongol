@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1205">
+  <head>
+    <unicode>ᠱᠠᠯᠴᠢᠯᠵᠠᠬᠣ</unicode>
+    <transcript>šalčilǰaqu</transcript>
+    <transcript2>salcilcago</transcript2>
+    <cyrillic>шалчилзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1206</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠯᠴᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>шалчилзах</cyrillic>
+      <definition>〔动〕参见 шалчигнах.</definition>
+      <page>1616</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠯᠴᠢᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ШАЛЧИЛЗАХ</cyrillic>
+      <definition>шалчганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шалчилзах</cyrillic>
+      <definition>= шалцганах</definition>
+      <page>379</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠯᠴᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>шалчилзах</cyrillic>
+      <definition>шалчгар юмны шалчис шалчис хийх.</definition>
+      <page>835</page>
+    </entry_item>
+  </entries>
+</entry>

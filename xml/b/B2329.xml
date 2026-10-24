@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B2329">
+  <head>
+    <unicode>ᠪᠢᠯᠬᠠᠷᠠᠬᠣ</unicode>
+    <transcript>bilqaraqu</transcript>
+    <transcript2>bilgarago</transcript2>
+    <cyrillic>бялхрах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠢᠯᠬᠠᠷᠠᠬᠣ</unicode>
+      <uighur>bilqaraqu</uighur>
+      <cyrillic>бялхрах</cyrillic>
+      <transcript>BILXARA-</transcript>
+      <definition>v.i. To overflow, run over; to quiver like Jelly.</definition>
+      <page>105</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠢᠯᠬᠠᠷᠠᠲᠠᠯ᠎ᠠ</unicode>
+          <transcript>--tal-a</transcript>
+          <definition> To the brim, full.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠢᠯᠬᠠᠷᠠᠲᠠᠯ᠎ᠠ ᠳᠦᠭᠦᠷᠭᠡᠺᠦ</unicode>
+          <transcript>--tal-a dygyrgeky</transcript>
+          <definition> To fill to the brim.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠢᠯᠬᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>бялхрах</cyrillic>
+      <definition>〔动〕洋溢，满盈，满溢.</definition>
+      <page>252</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠢᠯᠬᠠᠷᠠᠬᠣ</unicode>
+      <cyrillic>БЯЛХРАХ</cyrillic>
+      <definition>разливаться, переливаться через край; бялхартал дүүргэх наполнять до краёв, через край.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

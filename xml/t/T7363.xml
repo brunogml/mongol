@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7363">
+  <head>
+    <unicode>ᠳᠣᠺᠢᠬᠣ</unicode>
+    <transcript>dokiqu</transcript>
+    <transcript2>dogigo</transcript2>
+    <cyrillic>дохих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T7364</ref>
+    <ref>T7391</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠣᠺᠢᠬᠣ</unicode>
+      <uighur>dokiqu</uighur>
+      <cyrillic>дохих</cyrillic>
+      <transcript>DOKI-</transcript>
+      <definition>v.t. and i. To beckon; to summon or signal with hand or head; to nod (as a sign of assent or invitation); to conduct ( as an orchestra); to beat a drum; to rap; to doze, slumber, nod' (as in drowsiness).</definition>
+      <page>257</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠣᠯᠤᠭᠠᠢ ᠪᠡᠨ ᠳᠣᠺᠢᠬᠤ</unicode>
+          <transcript>toluγai ben --xu</transcript>
+          <definition> To nod.</definition>
+        </example>
+        <example>
+          <unicode>ᠤᠷᠤᠭᠤᠯ ᠢᠶᠠᠷ ᠢᠶᠠᠨ ᠳᠣᠺᠢᠬᠤ</unicode>
+          <transcript>uruγul ijer ijen --xu</transcript>
+          <definition> To make asign with one's lips</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠺᠢᠬᠤ</unicode>
+      <definition>baisser la tète, faire signe de la tète : 2 faire signe de la main pour faire venir qn.: 3 battre fe tambour.</definition>
+      <page>1867</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠡᠷᠢᠭᠦᠪᠡᠨ ᠳᠤᠺᠢᠬᠤ</unicode>
+          <definition>branler la tête</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠳᠣᠺᠢᠬᠣ</unicode>
+      <uighur>dukiqu</uighur>
+      <definition>mit der Hand winken, ein Zeichen geben; anschlagen (eine Pauke oder ein Klangbecken).</definition>
+      <page>279</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠳᠣᠺᠢᠬᠣ</unicode>
+      <uighur>dokiqu</uighur>
+      <definition>To beckon with the hand, to give a sign. To beat a drum or cymbal.</definition>
+      <page>1114</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠣᠬᠢᠬᠤ</unicode>
+      <cyrillic>дохих</cyrillic>
+      <definition>〔动〕①给信号，作暗号，示意：гараар ~ 做手势；нүдээр ~ 以目示意，递眼色；②点头（表示同意或行礼）：зөв гэж толгой ~в 点头表示同意；~н ёслох 点头行礼；③打拍子，指挥（乐队或唱歌）：энэ хүн сайхан ~ж байна 这个人指挥得很好；④（转）打盹.</definition>
+      <page>426</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠺᠢᠬᠣ</unicode>
+      <cyrillic>ДОХИХ</cyrillic>
+      <definition>1. 1) давать знак (рукой); гараараа дохих а) давать знак рукой, делать жест; б) дирижировать; даллан дохих помахивать; нүдээрээ дохих мигать; 2) дирижировать; 3) кивать головой (в знак согласия); наклонять голову; толгой дохих кивнуть головой; 4) шилж. дремать, клевать носом; 5) годиться, подходить; 2. дохихуй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠺᠢᠬᠣ</unicode>
+      <cyrillic>ДОХИХУЙ</cyrillic>
+      <definition>жест. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дохих</cyrillic>
+      <definition>gestikulieren, einen Wink geben (mit -аар); гарааp ~ winken; толгойгоор ~ nicken</definition>
+      <page>97</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠣᠬᠢᠬᠤ</unicode>
+      <cyrillic>дохих</cyrillic>
+      <definition>1. дохио өгөх; гараар дохих; хуруугаар дохих; нүдээр дохих;2. хөгжимчдөөс хөгжмийн зохиол тоглох, дуучдаас найрал дуу дуулахад удирдах; энэ хүн сайхан дохиж байна;3. толгойг бөхөсхийх; зөв гэж толгой дохив;4. үүрэглэх; нойр муутай хоносон учир хичээл дээрээ дохиж байжээ.</definition>
+      <page>204</page>
+    </entry_item>
+  </entries>
+</entry>

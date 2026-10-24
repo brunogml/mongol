@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1930">
+  <head>
+    <unicode>ᠣᠮᠠᠰᠢᠯᠠᠬᠣ</unicode>
+    <transcript>umasilaqu</transcript>
+    <transcript2>omasilago</transcript2>
+    <cyrillic>умшлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U1931</ref>
+    <ref>U1932</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠮᠠᠰᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>умшлах</cyrillic>
+      <definition>〔动〕把火药制成粒（丸）.</definition>
+      <page>1190</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠮᠠᠰᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>УМШЛАХ</cyrillic>
+      <definition>превращать порох в зёрна; дарь умшлах молоть порох. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠮᠠᠰᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>умшлах</cyrillic>
+      <definition>дарийг ширхэглэх.</definition>
+      <page>592</page>
+    </entry_item>
+  </entries>
+</entry>

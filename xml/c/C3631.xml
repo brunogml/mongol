@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3631">
+  <head>
+    <unicode>ᠴᠥᠮᠴᠥᠺᠠᠷᠳᠠᠺᠥ</unicode>
+    <transcript>čömčügerdekü</transcript>
+    <transcript2>cömcögerdegö</transcript2>
+    <cyrillic>цөмцгөрдөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C3633</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠥᠮᠴᠥᠭᠡᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>цөмцгөрдөх</cyrillic>
+      <definition>〔动〕参见 цомцгордох.</definition>
+      <page>1543</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠥᠮᠴᠥᠺᠠᠷᠳᠠᠺᠥ</unicode>
+      <cyrillic>ЦӨМЦГӨРДӨХ</cyrillic>
+      <definition>цомцгордох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠥᠮᠴᠥᠭᠡᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>цөмцгөрдөх</cyrillic>
+      <definition>хэтэрхий цөмцгөр болох.</definition>
+      <page>795</page>
+    </entry_item>
+  </entries>
+</entry>

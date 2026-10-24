@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1077">
+  <head>
+    <unicode>ᠰᠠᠯᠪᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>salbaγulqu</transcript>
+    <transcript2>salbagolgo</transcript2>
+    <cyrillic>салбуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S1076</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠯᠪᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>салбуулах</cyrillic>
+      <definition>〔动〕салбах 的使动态.</definition>
+      <page>902</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠯᠪᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>САЛБУУЛАХ</cyrillic>
+      <definition>салбах I, II-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>салбуулах</cyrillic>
+      <definition>Kaus von салбах</definition>
+      <page>192</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠯᠪᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>салбуулах</cyrillic>
+      <definition>салбахын үйлдүүлэх хэв.</definition>
+      <page>463</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2534">
+  <head>
+    <unicode>ᠫᠣᠣ</unicode>
+    <transcript>pou</transcript>
+    <transcript2>poo</transcript2>
+    <cyrillic>поо</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠫᠤᠤ</unicode>
+      <cyrillic>поо</cyrillic>
+      <definition>〔名〕〈军〉枪，炮.</definition>
+      <page>877</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠫᠣᠣ</unicode>
+      <cyrillic>ПОО</cyrillic>
+      <definition>круглая или квадратная кость; буу-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠫᠤᠤ</unicode>
+      <cyrillic>поо</cyrillic>
+      <definition>буу.</definition>
+      <page>452</page>
+    </entry_item>
+  </entries>
+  <see_also>
+    <ref>B2532</ref>
+    <ref>B2533</ref>
+  </see_also>
+</entry>

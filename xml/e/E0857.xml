@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E0857">
+  <head>
+    <unicode>ᠡᠯᠢᠺᠦ</unicode>
+    <transcript>elikü</transcript>
+    <transcript2>eligö</transcript2>
+    <cyrillic>элих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>E0859</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠯᠢᠬᠦ</unicode>
+      <cyrillic>элих</cyrillic>
+      <definition>〔动〕飞，飞翔：~н халих 飞翔，翱翔.</definition>
+      <page>1691</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠯᠢᠬᠦ</unicode>
+      <cyrillic>элэх /2</cyrillic>
+      <definition>халих;элэх халих&lt;хорш&gt;; агаарт элэн халин нисэх.</definition>
+      <page>875</page>
+    </entry_item>
+  </entries>
+</entry>

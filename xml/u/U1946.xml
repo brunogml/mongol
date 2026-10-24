@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1946">
+  <head>
+    <unicode>ᠣᠮᠠᠷᠲᠠᠬᠣ</unicode>
+    <transcript>umartaqu</transcript>
+    <transcript2>omardago</transcript2>
+    <cyrillic>умартах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U1948</ref>
+    <ref>U1949</ref>
+    <ref>U1954</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠮᠠᠷᠲᠠᠬᠣ</unicode>
+      <uighur>umardaqu</uighur>
+      <cyrillic>умартах</cyrillic>
+      <transcript>UMARTA-</transcript>
+      <definition>[= marta-] v. t. To forget.</definition>
+      <page>874</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠮᠠᠷᠲᠠᠬᠣ ᠦᠭᠡᠢ</unicode>
+          <transcript>--xu ygei</transcript>
+          <definition> Without forgetting, never forgettingalways remembering.</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠡᠵᠢᠶ᠎ᠡ ᠴᠦ ᠣᠮᠠᠷᠲᠠᠬᠣ ᠦᠭᠡᠢ</unicode>
+          <transcript>kezij-e cy --xu ygei</transcript>
+          <definition> To forget never, remember always; unforgettable</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠮᠠᠷᠳᠠᠬᠤ ~ ᠮᠠᠷᠳᠠᠬᠤ</unicode>
+      <definition>oublier.</definition>
+      <page>411</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠣᠮᠠᠷᠲᠠᠬᠣ</unicode>
+      <uighur>umardaqu</uighur>
+      <definition>vergessen.</definition>
+      <page>51</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠣᠮᠠᠷᠲᠠᠬᠣ</unicode>
+      <uighur>umardaqu</uighur>
+      <definition>(o)v.t. To forget.</definition>
+      <page>195</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠮᠠᠷᠲᠠᠬᠤ</unicode>
+      <cyrillic>умартах</cyrillic>
+      <definition>〔动〕〈书〉忘记，忘却，忘怀.</definition>
+      <page>1189</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠮᠠᠷᠲᠠᠬᠣ</unicode>
+      <cyrillic>УМАРТАХ</cyrillic>
+      <definition>монг.бичг. мартах-ыг үз., хүний тусыг умартах забывать о помощи, которую ему оказывали другље; хэзээ ч умартахгүй никогда не забывать, постоянно памятовать; гэрээ умартсан Гэсэр шиг как Гесер, забывший дом свой; † умартах өвс ург. забудка. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>умартах</cyrillic>
+      <definition>= мартах</definition>
+      <page>256</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠮᠠᠷᠲᠠᠬᠤ</unicode>
+      <cyrillic>умартах</cyrillic>
+      <definition>бичиг мартах.</definition>
+      <page>592</page>
+    </entry_item>
+  </entries>
+</entry>

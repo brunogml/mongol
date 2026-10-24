@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0411">
+  <head>
+    <unicode>ᠱᠠᠬᠠᠶᠢᠳᠠᠬᠣ</unicode>
+    <transcript>šaqayidaqu</transcript>
+    <transcript2>sagayidago</transcript2>
+    <cyrillic>шаахайдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S0412</ref>
+    <ref>S0413</ref>
+    <ref>S0414</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠬᠠᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>шаахайдах</cyrillic>
+      <definition>〔动〕〈陈〉掌嘴（用形如鞋底之刑具）.</definition>
+      <page>1602</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠬᠠᠶᠢᠳᠠᠬᠣ</unicode>
+      <cyrillic>ШААХАЙДАХ</cyrillic>
+      <definition>бить шахаем, бить по щекам кожаной подошвой; (один из способов пытки в дореволюционной Монголии); шлёпать; (шаахай 3)-г үз.). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шаахайдах</cyrillic>
+      <definition>hist mit dem Schaachai schlagen</definition>
+      <page>375</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠬᠠᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>шаахайдах</cyrillic>
+      <definition>&lt;хуучирсан&gt;шаахайгаар жанчих.</definition>
+      <page>826</page>
+    </entry_item>
+  </entries>
+</entry>

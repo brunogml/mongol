@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4641">
+  <head>
+    <unicode>ᠪᠥᠺᠠᠰᠥᠲᠥᠺᠥ</unicode>
+    <transcript>bögesütükü</transcript>
+    <transcript2>bögesödögö</transcript2>
+    <cyrillic>бөөстөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B4642</ref>
+  </derivatives>
+  <see_also>
+    <ref>B4638</ref>
+    <ref>B4643</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠺᠠᠰᠥᠲᠥᠺᠥ</unicode>
+      <cyrillic>БӨӨСТӨХ</cyrillic>
+      <definition>вшиветь; анаг. фтириоз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠥᠭᠡᠰᠦᠲᠦᠬᠦ</unicode>
+      <cyrillic>бөөстөх</cyrillic>
+      <definition>бөөс бий болох; биеэ угааж, хувцсаа цэвэрлэхгүй бохир муухай явбал бөөстөнө.</definition>
+      <page>100</page>
+    </entry_item>
+  </entries>
+</entry>

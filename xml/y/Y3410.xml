@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y3410">
+  <head>
+    <unicode>ᠵᠢᠶᠠᠷ</unicode>
+    <transcript>ǰiyar</transcript>
+    <transcript2>yiyar</transcript2>
+    <cyrillic>жиар</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠢᠶᠠᠷ</unicode>
+      <uighur>ǰiyar</uighur>
+      <transcript>ZIJAR</transcript>
+      <page>1053</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠢᠶᠠᠷ ᠵᠢᠷ</unicode>
+          <transcript>-- zir</transcript>
+          <definition> Onomat. descriptive of cry of birds.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠢᠶᠠᠷ ᠵᠢᠷ</unicode>
+      <definition>le cri des oiseaux</definition>
+      <page>2351</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠶᠠᠷ</unicode>
+      <cyrillic>жиар</cyrillic>
+      <definition>见 ~ ~ 唧唧（虫、鸟鸣叫声）.</definition>
+      <page>504</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠶᠠᠷ</unicode>
+      <cyrillic>ЖИАР</cyrillic>
+      <definition>: жиар жиар хорш. выражение щебетания птиц. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

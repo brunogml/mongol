@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5451">
+  <head>
+    <unicode>ᠲᠣᠩᠭᠣᠭᠣᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tongγuγunaγulqu</transcript>
+    <transcript2>donggogonagolgo</transcript2>
+    <cyrillic>тонгогонуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T5450</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠩᠭᠣᠭᠣᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тонгогонуулах</cyrillic>
+      <definition>〔动〕тогогонох 的使动态.</definition>
+      <page>1071</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠩᠭᠣᠭᠣᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТОНГОГОНУУЛАХ</cyrillic>
+      <definition>тонгогонох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠩᠭᠣᠭᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тонгогонуулах</cyrillic>
+      <definition>тонгонуулахын үйлдүүлэх хэв.</definition>
+      <page>540</page>
+    </entry_item>
+  </entries>
+</entry>

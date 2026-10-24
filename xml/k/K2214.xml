@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K2214">
+  <head>
+    <unicode>ᠺᠢᠯᠲᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>giltaγanaγulqu</transcript>
+    <transcript2>gildaganagolgo</transcript2>
+    <cyrillic>гялтгануулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>K2213</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠢᠯᠲᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гялтгануулах</cyrillic>
+      <definition>〔动〕гялтганах 的使动态.</definition>
+      <page>359</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠯᠲᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ГЯЛТГАНУУЛАХ</cyrillic>
+      <definition>гялтганах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠢᠯᠲᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гялтгануулах</cyrillic>
+      <definition>гялтганахын үйлдүүлэх хэв.</definition>
+      <page>173</page>
+    </entry_item>
+  </entries>
+</entry>

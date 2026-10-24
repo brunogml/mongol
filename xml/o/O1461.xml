@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1461">
+  <head>
+    <unicode>ᠥᠺᠠᠴᠢᠯᠠᠺᠥ</unicode>
+    <transcript>ügečilekü</transcript>
+    <transcript2>ögecilegö</transcript2>
+    <cyrillic>үгчлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>O1463</ref>
+    <ref>O1459</ref>
+  </derivatives>
+  <see_also>
+    <ref>O1462</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠥᠺᠠᠴᠢᠯᠠᠺᠥ</unicode>
+      <uighur>ükečilekü</uighur>
+      <cyrillic>үгчлэх</cyrillic>
+      <transcript>YGECILE-</transcript>
+      <definition>v. i. To report word for word; to act according to instruction; to write something in colloquial form.</definition>
+      <page>997</page>
+      <examples>
+        <example>
+          <unicode>ᠥᠺᠠᠴᠢᠯᠠᠨ ᠦᠢᠯᠡᠳᠺᠦ</unicode>
+          <transcript>--n yiledky</transcript>
+          <definition> To do something according to instructions.</definition>
+        </example>
+        <example>
+          <unicode>ᠥᠺᠠᠴᠢᠯᠠᠵᠦ ᠪᠢᠴᠢᠺᠦ</unicode>
+          <transcript>--zy biciky</transcript>
+          <definition> To write something in colloquial form or style.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠦᠭᠡᠴᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>үгчлэх</cyrillic>
+      <definition>〔动〕逐字：~н унших 逐字念；~н орчуулах (1)逐字翻译；(2)直译；~н цээжлэх (1)逐字地记；(2)死记；үгчилсэн утга санаа 直接意义.</definition>
+      <page>1226</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠺᠠᠴᠢᠯᠠᠺᠥ</unicode>
+      <cyrillic>ҮГЧЛЭХ</cyrillic>
+      <definition>передавать дословно. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠺᠠᠴᠢᠯᠠᠺᠥ</unicode>
+      <cyrillic>ҮГЧЛЭН</cyrillic>
+      <definition>үгчлэх-ийн хамж., 1. дословно, буквально; үгчлэн орчуулах переводљть дословно; 2. дословный, буквальный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠺᠠᠴᠢᠯᠠᠺᠥ</unicode>
+      <cyrillic>ҮГЧИЛСЭН</cyrillic>
+      <definition>1. дословный; буквальный, текстуальный; үгчилсэн орчуулга дословный перевод; 2. дословно, текстуально, буквально. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>үгчлэх</cyrillic>
+      <definition>wortgetreu od wörtlich wiedergeben; үгчилсэн орчуулга wörtliche Übersetzung; үгчлэн үнших Wort für Wort lesen</definition>
+      <page>267</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠦᠭᠡᠴᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>үгчлэх</cyrillic>
+      <definition>үгийн дагуу үйлдэх. үгчлэн унших; үгчлэн хөрвүүлэх.</definition>
+      <page>614</page>
+    </entry_item>
+  </entries>
+</entry>

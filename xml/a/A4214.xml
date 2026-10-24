@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A4214">
+  <head>
+    <unicode>ᠠᠷᠪᠠᠢ</unicode>
+    <transcript>arbai</transcript>
+    <transcript2>arbai</transcript2>
+    <cyrillic>арвай</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠷᠪᠠᠢ</unicode>
+      <uighur>arbai</uighur>
+      <cyrillic>арвай</cyrillic>
+      <transcript>ARBAI</transcript>
+      <page>49</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠷᠪᠠᠢ ᠎ᠶᠢᠨ ᠠᠷᠠᠺᠢ</unicode>
+          <transcript>-- jin araki</transcript>
+          <definition> Liquor made from barley.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠷᠪᠠᠢ ᠎ᠶᠢᠨ ᠪᠤᠳᠠᠭ᠎ᠠ</unicode>
+          <transcript>-- jin budaγ-a</transcript>
+          <definition> Barley groats.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠷᠪᠠᠢ ᠎ᠶᠢᠨ ᠭᠤᠯᠢᠷ</unicode>
+          <transcript>-- jin γulir</transcript>
+          <definition> Barley flour.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠷᠪᠠᠢ</unicode>
+      <definition>avoine: 2 orge.</definition>
+      <page>155</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠷᠪᠠᠢ ᠎ᠶᠢᠨ ᠠᠷᠢᠺᠢ</unicode>
+          <definition>forte boisson faite d'orge; bière,</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠷᠪᠠᠢ ᠎ᠶᠢᠨ ᠭᠣᠯᠢᠷ</unicode>
+          <definition>farine d'avoine.</definition>
+        </example>
+        <example>
+          <unicode>ᠥᠺᠡᠷ ᠠᠷᠪᠠᠢ</unicode>
+          <definition>avoine nette.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠷᠪᠠᠢ ᢎᠢᠢᠪ</unicode>
+          <definition>Yewa dwîpa, île de Java</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠠᠷᠪᠠᠢ</unicode>
+      <uighur>arbai</uighur>
+      <definition>die Gerste.</definition>
+      <page>15</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠠᠷᠪᠠᠢ</unicode>
+      <uighur>arbai</uighur>
+      <definition>n. Barley.</definition>
+      <examples>
+        <example>
+          <uighur>arbai-yin γulir</uighur>
+          <definition>n Barley flour.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠷᠪᠠᠢ</unicode>
+      <cyrillic>арвай</cyrillic>
+      <definition>〔名〕〈植〉大麦：~ үслэх 将大麦脱粒；~н гурил 大麦面；~ бяцхан зэврэх 大麦叶锈病；~н бөөс 大麦蚜；~н тоост харуу 大麦散黑穗病.</definition>
+      <page>71</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠷᠪᠠᠢ</unicode>
+      <cyrillic>АРВАЙ</cyrillic>
+      <definition>1. ург. ячмень; үст арвай ург. пшеница яровая (үгчил. волосистый ячмень); үхэр арвай / хожгор арвай ург. ячмень большой голый; хуягт арвай / хальстай арвай ург. плёнчатый ячмень; өөрийн тутарганаас айлын арвай амттай цэцэн. ячмень у соседа вкуснее риса в своём доме; арвайнаас арвай л ургадаг цэцэн. что посеешь, то и пожнёшь (үгчил. от ячменя появляется ячмень); арвай үслэх шелушить ячмень; арвай шуудайлах насыпать ячмень в мешок; 2. ячменный; † арвай тив остров Ява (үгчил. ячменный остров); Арвай хээр а) ячменная степь; б) ячменный гнедой; Арвайхээрийн тал степь АрвайхЇр, ячменная равнина.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠷᠪᠠᠢ</unicode>
+      <cyrillic>АРВАЙН</cyrillic>
+      <definition>арвай–н харьяал., ячменный; арвайн амуу ячменная крупа; арвайн архи ячменное вино; арвайн бөөс шавж. тля ячменная; арвайн гурил ячменная мука; арвайн зарам крупа овсяно-ячменевая.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>арвай</cyrillic>
+      <definition>Gerste f; ~н гурил Gerstenmehl n</definition>
+      <page>33</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠷᠪᠠᠢ</unicode>
+      <cyrillic>арвай</cyrillic>
+      <definition>аму тарианы сүрэл түрүүт ургамал, үрээр нь гурил хийх, шар айраг исгэх, охь нэрэх, мал тэжээх зэрдг одон зүйлээр ашиглана.</definition>
+      <page>48</page>
+    </entry_item>
+  </entries>
+</entry>

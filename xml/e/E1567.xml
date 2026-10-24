@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="E1567">
+  <head>
+    <unicode>ᠡᠭᠡᠭ</unicode>
+    <transcript>egeg</transcript>
+    <transcript2>egeg</transcript2>
+    <cyrillic>ээг</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠺᠠᠺ</unicode>
+      <uighur>egeg</uighur>
+      <cyrillic>ээг</cyrillic>
+      <transcript>EGEG</transcript>
+      <definition>n. Place exposed to the sun, but protected from the wind; covered or sheltered place; roof.</definition>
+      <page>297</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠺᠠᠺ ᠎ᠲᠤᠷ ᠰᠠᠭᠤᠬᠤ</unicode>
+          <transcript>-- tyr saγuxu</transcript>
+          <definition> To sit in the sun protected from wind.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠳᠠ ᠎ᠶᠢᠨ ᠡᠺᠠᠺ</unicode>
+          <transcript>xada jin -- </transcript>
+          <definition>Overhanging rock</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠺᠡᠭ</unicode>
+      <definition>endroit couvert, toit</definition>
+      <page>234</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠳᠠᠨ ᠎ᠶᠢᠨ ᠡᠺᠡᠭ</unicode>
+          <definition>rocher proéminent.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠭᠡᠭ</unicode>
+      <cyrillic>ээг</cyrillic>
+      <definition>〔形〕大声的，嚎啕的：~ дуу 嚎啕；~ дуу тавих 放声大哭，嚎啕大哭.</definition>
+      <page>1726</page>
+    </entry_item>
+  </entries>
+</entry>

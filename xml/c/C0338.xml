@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C0338">
+  <head>
+    <unicode>ᠴᠠᠪᠴᠢᠮᠠ</unicode>
+    <transcript>čabčim-a</transcript>
+    <transcript2>cabcim-a</transcript2>
+    <cyrillic>цавчим</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠪᠴᠢᠮ᠎ᠠ</unicode>
+      <uighur>čabčim-a</uighur>
+      <cyrillic>цавчим</cyrillic>
+      <transcript>CABCIM-A</transcript>
+      <definition>adj. Steep; precipitous.</definition>
+      <page>155</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠠᠪᠴᠢᠮ᠎ᠠ ᠳᠠᠪᠠᠭ᠎ᠠ</unicode>
+          <transcript>-- dabaγ-a</transcript>
+          <definition> Steep mountain.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠠᠪᠴᠢᠮ᠎ᠠ ᠬᠠᠳᠠ</unicode>
+          <transcript>-- xada, </transcript>
+          <definition>Crag, precipitous rock</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠠᠪᠴᠢᠮ᠎ᠠ</unicode>
+      <definition>coupé, taillé, tranché</definition>
+      <page>2094</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠪᠴᠢᠮ᠎ᠠ</unicode>
+      <cyrillic>цавчим</cyrillic>
+      <definition>〔形〕砍削了（似）的，刀劈了（似）的，刀砍状的：~ өндөр юм 刀劈似的高耸物；~ мөсөн гол 悬冰川.</definition>
+      <page>1509</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠪᠴᠢᠮᠠ</unicode>
+      <cyrillic>ЦАВЧИМ</cyrillic>
+      <definition>1) крутой; цавчим хад отвесная скала; цавчим мөсөн гол висячий ледник; 2) рубленный, отрубленный, отсечённый. </definition>
+      <page>0</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>цавчим</cyrillic>
+    <definition>abschüssig, steil [abfallend]; ~ мөсөн гол Hanggletscher m; ~ хад Steilfels[en] m</definition>
+    <page>350</page>
+  </entry_item>
+  </entries>
+</entry>

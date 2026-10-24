@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8816">
+  <head>
+    <unicode>ᠲᠥᠯᠺᠠᠯᠠᠺᠥ</unicode>
+    <transcript>tölgelekü</transcript>
+    <transcript2>dölgelegö</transcript2>
+    <cyrillic>төлгөлөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T8817</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠯᠺᠠᠯᠠᠺᠥ</unicode>
+      <cyrillic>ТӨЛГӨЛӨХ</cyrillic>
+      <definition>төлгөдөх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠥᠯᠭᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>төлөглөх</cyrillic>
+      <definition>төлөгдөх.</definition>
+      <page>550</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T8812</ref>
+  </related_to>
+</entry>

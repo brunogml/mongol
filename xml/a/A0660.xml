@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A0660">
+  <head>
+    <unicode>ᠠᠭᠠᠵᠢᠮᠠᠰᠬᠤ</unicode>
+    <transcript>aγaǰimsaqu</transcript>
+    <transcript2>agacimsago</transcript2>
+    <cyrillic>аажимсах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠭᠠᠵᠢᠮᠠᠰᠬᠤ</unicode>
+      <uighur>aγaǰimsaqu</uighur>
+      <cyrillic>аажимсах</cyrillic>
+      <transcript>AГAZIMSA-</transcript>
+      <definition>v.i To slow down, become slow.</definition>
+      <page>14</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠭᠠᠵᠢᠮᠰᠠᠬᠤ</unicode>
+      <cyrillic>аажимсах</cyrillic>
+      <definition>〔动〕变得较缓慢，减缓，减速：машины хурд ~в 汽车的速度放慢了.</definition>
+      <page>3</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠠᠵᠢᠮᠠᠰᠬᠤ</unicode>
+      <cyrillic>ААЖИМСАХ</cyrillic>
+      <definition>замедляться, убавляться (о скоро¬сти); галт тэрэгний хурд аажимсав скорость поезда убавилась.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>аажимсах, аажимтах</cyrillic>
+      <definition>langsam werden; галт тэргэний хурд аажимсав die Geschwindigkeit des Zuges verringerte sich</definition>
+      <page>19</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠭᠠᠵᠢᠮᠠᠰᠬᠤ</unicode>
+      <cyrillic>аажимсах</cyrillic>
+      <definition>арай аажим болох.</definition>
+      <page>12</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>A0655</ref>
+  </related_to>
+  <derivatives>
+    <ref>A0658</ref>
+  </derivatives>
+</entry>

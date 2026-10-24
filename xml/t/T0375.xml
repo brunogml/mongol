@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0375">
+  <head>
+    <unicode>ᠲᠠᠭᠠᠬᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>taγaqalǰaqu</transcript>
+    <transcript2>dagagalcago</transcript2>
+    <cyrillic>таахалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T0376</ref>
+    <ref>T0377</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠬᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>таахалзах</cyrillic>
+      <definition>〔动〕矮短的东西不断动作.</definition>
+      <page>1002</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠭᠠᠬᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ТААХАЛЗАХ</cyrillic>
+      <definition>двљгаться (о ком-чём-л. коротком). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠬᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>таахалзах</cyrillic>
+      <definition>таахгар юмны таахас таахас хөдлөх.</definition>
+      <page>509</page>
+    </entry_item>
+  </entries>
+</entry>

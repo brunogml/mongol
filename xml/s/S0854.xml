@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0854">
+  <head>
+    <unicode>ᠰᠠᠳᠣᠷᠬᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sadurqaγulqu</transcript>
+    <transcript2>sadorgagolgo</transcript2>
+    <cyrillic>садархуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S0853</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠳᠤᠷᠬᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>садархуулах</cyrillic>
+      <definition>〔动〕садархах 的使动态.</definition>
+      <page>896</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠳᠣᠷᠬᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>САДАРХУУЛАХ</cyrillic>
+      <definition>садархах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠳᠤᠷᠬᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>садархуулах</cyrillic>
+      <definition>садархахын үйлдүүлэх хэв.</definition>
+      <page>460</page>
+    </entry_item>
+  </entries>
+</entry>

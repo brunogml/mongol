@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y2986">
+  <head>
+    <unicode>ᠵᠢᠯᠠᠨ</unicode>
+    <transcript>ǰilan</transcript>
+    <transcript2>yilan</transcript2>
+    <cyrillic>жилан</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠢᠯᠠᠨ</unicode>
+      <uighur>ǰilan</uighur>
+      <transcript>ZILAN</transcript>
+      <page>1054</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠢᠯᠠᠨ ᠬᠤᠰᠢᠭᠤ ᠰᠤᠮᠤ</unicode>
+          <transcript>-- xusiγu sumu</transcript>
+          <definition> Arrow with a flattened head (Ch. chien-p’i-chien)</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠢᠯᠠᠨ ᠬᠣᠱᠣᠤ ᠰᠤᠮᠤᠨ</unicode>
+      <definition>la flèche dont le fer est aplati.</definition>
+      <page>2344</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠯᠠᠨ</unicode>
+      <cyrillic>ЖИЛАН</cyrillic>
+      <definition>: жилан хошуу сум небольшая стрела с остроконечным железным наконечником. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠯᠠᠨ</unicode>
+      <cyrillic>ЖИЛАН</cyrillic>
+      <definition>II: жилан дугуй озорной, болтливый (о ребёнке). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠯᠠᠨ</unicode>
+      <cyrillic>жалан</cyrillic>
+      <definition>бариул этгээдийн оосроос барьж шидэх жад, агнуурт хэрэглэнэ.</definition>
+      <page>240</page>
+    </entry_item>
+  </entries>
+</entry>

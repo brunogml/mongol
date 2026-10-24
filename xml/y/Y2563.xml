@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y2563">
+  <head>
+    <unicode>ᠵᠢᠭᠠᠰᠣᠴᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰiγasučilaγulqu</transcript>
+    <transcript2>yigasocilagolgo</transcript2>
+    <cyrillic>загасчлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y2562</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠭᠠᠰᠤᠴᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>загасчлуулах</cyrillic>
+      <definition>〔動〕загасчлах 的使动态.</definition>
+      <page>528</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠭᠠᠰᠣᠴᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗАГАСЧЛУУЛАХ</cyrillic>
+      <definition>загасчлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠭᠠᠰᠤᠴᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>загасчлуулах</cyrillic>
+      <definition>загасчлахын үйлдүүлэх хэв.</definition>
+      <page>257</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1834">
+  <head>
+    <unicode>ᠺᠢᠩᠺᠢᠨᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>gingginegülkü</transcript>
+    <transcript2>gingginegölgö</transcript2>
+    <cyrillic>гингэнүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K1833</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠢᠩᠭᠢᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>гингэнүүлэх</cyrillic>
+      <definition>〔动〕гингэнэх 的使动态.</definition>
+      <page>295</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠩᠺᠢᠨᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ГИНГЭНҮҮЛЭХ</cyrillic>
+      <definition>гингэнэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠢᠩᠭᠢᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>гингэнүүлэх</cyrillic>
+      <definition>гингэнэхийн үйлдүүлэх хэв.</definition>
+      <page>144</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A1540">
+  <head>
+    <unicode>ᠠᠪᠣᠷᠢᠭᠥᠶᠢ᠍ᠳᠡᠭᠥ</unicode>
+    <transcript>aburigyüidekü</transcript>
+    <transcript2>aborigyöidegö</transcript2>
+    <cyrillic>авиргүйдэх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠪᠤᠷᠢᠭᠦᠢᠳᠡᠬᠦ</unicode>
+      <cyrillic>авиргүйдэх</cyrillic>
+      <definition>〔动〕显得品性太差，表现太任性，耍脾气；反复无常.</definition>
+      <page>9</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠪᠣᠷᠢᠭᠥᠶᠢ᠍ᠳᠡᠭᠥ</unicode>
+      <cyrillic>АВИРГҮЙДЭХ</cyrillic>
+      <definition>вести себя капризно, показывать свои причуды, свою прихоть.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠪᠤᠷᠢᠦᠭᠡᠢᠳᠡᠬᠦ</unicode>
+      <cyrillic>авиргүйдэх</cyrillic>
+      <definition>хэтэрхий авиргүй байдал гаргах.</definition>
+      <page>16</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>A1539</ref>
+  </related_to>
+  <derivatives>
+    <ref>A1541</ref>
+  </derivatives>
+</entry>

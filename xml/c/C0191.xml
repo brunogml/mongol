@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C0191">
+  <head>
+    <unicode>ᠴᠠᠬᠣ</unicode>
+    <transcript>čaqu</transcript>
+    <transcript2>cago</transcript2>
+    <cyrillic>цах</cyrillic>
+  </head><derivatives>
+    <ref>Q5696</ref>
+  
+    <ref>C0224</ref>
+  
+    <ref>C0227</ref>
+  </derivatives><see_also>
+    <ref>C0080</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠬᠣ</unicode>
+      <uighur>čaqu</uighur>
+      <cyrillic>цах</cyrillic>
+      <transcript>CAXU</transcript>
+      <definition>[=caxa, 2] n, Prop, Support.</definition>
+      <page>167</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠠᠬᠤ ~ ᠴᠠᠬᠠ</unicode>
+      <definition>un étai, un étançon , support</definition>
+      <page>2080</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠬᠣ</unicode>
+      <cyrillic>ЦАХ</cyrillic>
+      <definition>II подпорка, сошка; лапка; стойка. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

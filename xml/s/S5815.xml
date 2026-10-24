@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5815">
+  <head>
+    <unicode>ᠰᠣᠯᠢᠶᠠᠷᠠᠬᠣ</unicode>
+    <transcript>soliyaraqu</transcript>
+    <transcript2>soliyarago</transcript2>
+    <cyrillic>солиорох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5816</ref>
+    <ref>S5818</ref>
+    <ref>S5817</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠣᠯᠢᠶᠠᠷᠠᠬᠣ</unicode>
+      <uighur>soliyaraqu</uighur>
+      <cyrillic>солиорох</cyrillic>
+      <transcript>SOLIJARA-</transcript>
+      <definition>v. i. To become crazy; to be delirious; to act or speak without sense</definition>
+      <page>725</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠣᠯᠢᠶᠠᠷᠠᠵᠤ ᠦᠺᠦᠺᠦ</unicode>
+          <transcript>--zu ykyky</transcript>
+          <definition> To die from madness.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠢᠲᠡᠭᠡᠢ ᠰᠣᠯᠢᠶᠠᠷᠠ</unicode>
+          <transcript>bitegei --!</transcript>
+          <definition> Don't speak nonsense!.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠰᠣᠯᠢᠶᠠᠷᠠᠬᠣ</unicode>
+      <uighur>suliyaraqu</uighur>
+      <definition>v.i. To get mad, to become insane.</definition>
+      <page>1479</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠯᠢᠶᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>солиорох</cyrillic>
+      <definition>〔动〕发狂，发疯，疯癫，才申经错舌：дэмий битгий солиороод бай! 别发疯了！</definition>
+      <page>934</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠯᠢᠶᠠᠷᠠᠬᠣ</unicode>
+      <cyrillic>СОЛИОРОХ</cyrillic>
+      <definition>1. помешаться, обезуметь; прийти в состояние невменяемости; сойти с ума; солиорон дэмийрэх помешаться; находиться в состоянии аффекта и умопомешательства; солиорсон ба ухаан эвдрэгсэд ненормальные и умалишённые; ухаан солиорсон сумасшедший, помешанный; солиорсон дэмийрэл сумасбродная чепуха, бред сумасшедшего; 2. солиорохуй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠯᠢᠶᠠᠷᠠᠬᠣ</unicode>
+      <cyrillic>СОЛИОРОХУЙ</cyrillic>
+      <definition>бешенство; сумасшествие. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>солиорох</cyrillic>
+      <definition>1. irrsinnig werden, den Verstand verlieren; тэр солиорцзэ er ist verrückt geworden
+2. im Delirium sprechen; phantasieren; faseln; биттий солиор! umg spinne nicht!</definition>
+      <page>199</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠯᠢᠶᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>солиорох</cyrillic>
+      <definition>солиотой болох, дэмийрэх; дэмий битгий солиороод бай.</definition>
+      <page>478</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S5812</ref>
+  </related_to>
+</entry>

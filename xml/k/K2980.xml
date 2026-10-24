@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K2980">
+  <head>
+    <unicode>ᠺᠥᠨᠡᠰᠥᠵᠢᠺᠥ</unicode>
+    <transcript>künesüǰikü</transcript>
+    <transcript2>gönesöcigö</transcript2>
+    <cyrillic>хүнсжих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K2981</ref>
+    <ref>K2979</ref>
+    <ref>K2978</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠦᠨᠡᠰᠦᠵᠢᠬᠦ</unicode>
+      <cyrillic>хүнсжих</cyrillic>
+      <definition>〔动〕粮食丰足，食品充裕.</definition>
+      <page>1457</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠨᠡᠰᠥᠵᠢᠺᠥ</unicode>
+      <cyrillic>ХҮНСЖИХ</cyrillic>
+      <definition>приобретать продовольствие, провизию. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хүнсжих</cyrillic>
+      <definition>Lebensmittel erhalten</definition>
+      <page>335</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠦᠨᠡᠰᠦᠵᠢᠬᠦ</unicode>
+      <cyrillic>хүнсжих</cyrillic>
+      <definition>хүнстэй болох.</definition>
+      <page>746</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>K2974</ref>
+  </related_to>
+</entry>

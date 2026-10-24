@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C1848">
+  <head>
+    <unicode>ᠴᠢᠯᠠᠭᠣᠴᠢ</unicode>
+    <transcript>čilaγuči</transcript>
+    <transcript2>cilagoci</transcript2>
+    <cyrillic>чулууч</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠢᠯᠠᠭᠣᠴᠢ</unicode>
+      <uighur>čilaγuči</uighur>
+      <cyrillic>чулууч(ин)</cyrillic>
+      <transcript>CILAΓUCI</transcript>
+      <definition>n. Stone mason.</definition>
+      <page>182</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠯᠠᠭᠣᠴᠢ ᠳᠠᠷᠬᠠᠨ</unicode>
+          <transcript>-- darxan</transcript>
+          <definition> Stone mason.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠢᠯᠠᠭᠣᠴᠢ ᠳᠠᠷᠬᠠᠨ</unicode>
+      <definition>un maçon, un tailleur de pierres.</definition>
+      <page>2162</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠯᠠᠭᠣᠴᠢ</unicode>
+      <cyrillic>ЧУЛУУЧ(ИН)</cyrillic>
+      <definition>каменщик, камнетёс. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

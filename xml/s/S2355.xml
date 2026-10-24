@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2355">
+  <head>
+    <unicode>ᠰᠠᠮᠪᠠᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>sembegenekü</transcript>
+    <transcript2>sembegenegö</transcript2>
+    <cyrillic>сэмбэгнэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S2356</ref>
+    <ref>S2354</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠮᠪᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>сэмбэгнэх</cyrillic>
+      <definition>〔动〕参见 сэмбэлзэх.</definition>
+      <page>988</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠮᠪᠠᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>СЭМБЭГНЭХ</cyrillic>
+      <definition>сэмбэлзэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сэмбэгнэх</cyrillic>
+      <definition>sich geziert od affektiert benehmen</definition>
+      <page>210</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠮᠪᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>сэмбэгнэх</cyrillic>
+      <definition>сэмбэгэр юмны сэмбэг сэмбэг хөдлөх.</definition>
+      <page>503</page>
+    </entry_item>
+  </entries>
+</entry>

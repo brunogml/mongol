@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5212">
+  <head>
+    <unicode>ᠱᠣᠬᠣᠭᠣᠷᠠᠬᠣ</unicode>
+    <transcript>šoquγuraqu</transcript>
+    <transcript2>sogogorago</transcript2>
+    <cyrillic>шохоорох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5213</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠣᠬᠣᠭᠣᠷᠠᠬᠤ</unicode>
+      <cyrillic>шохоорох</cyrillic>
+      <definition>〔动〕喜爱，爱慕，希罕，热衷于…，迷恋于….</definition>
+      <page>1652</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠬᠣᠭᠣᠷᠠᠬᠣ</unicode>
+      <cyrillic>ШОХООРОХ</cyrillic>
+      <definition>залюбоваться, любопытствовать; зөвхөн шохоорох дилетантство. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠣᠬᠣᠭᠣᠷᠠᠬᠤ</unicode>
+      <cyrillic>шохоорох</cyrillic>
+      <definition>юманд дурлаж сонирхох байдал гаргах; юманд шохоорхох.</definition>
+      <page>855</page>
+    </entry_item>
+  </entries>
+</entry>

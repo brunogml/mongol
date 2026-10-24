@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0898">
+  <head>
+    <unicode>ᠱᠠᠯᠠᠬᠣ</unicode>
+    <transcript>šalaqu</transcript>
+    <transcript2>salago</transcript2>
+    <cyrillic>шалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S0899</ref>
+    <ref>S0948</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠱᠠᠯᠠᠬᠣ</unicode>
+      <uighur>šalaqu</uighur>
+      <cyrillic>шaлах</cyrillic>
+      <transcript>ŠALA-</transcript>
+      <definition>1 v. t. To persuade, urge, to ask persistently</definition>
+      <page>749</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠷᠢᠺᠢ ᠱᠠᠯᠠᠬᠣ</unicode>
+          <transcript>ariki --xu</transcript>
+          <definition> To urge wine upon a person.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠢᠲᠡᠭᠡᠢ ᠨᠠᠮᠠᠶᠢ ᠱᠠᠯᠠ</unicode>
+          <transcript>bitegei namaji -- !</transcript>
+          <definition> Don't press me!. Don't badger me!.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠱᠠᠯᠠᠬᠣ</unicode>
+      <uighur>šalaqu</uighur>
+      <cyrillic>шaлах</cyrillic>
+      <transcript>ŠALA-</transcript>
+      <definition>2 v.t. To check (in chess).</definition>
+      <page>749</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ШАЛАХ</cyrillic>
+      <definition>I 1) упрашивать, вымаливать; настойчиво спрашивать; настаивать; асууж шалах, шалж шавдах осаждать, досадить вопросами; 2) вымогать; 3) шуметь, кричать (о детях). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ШАЛАХ</cyrillic>
+      <definition>II 1. шах; 2. шаховать; шаглах II-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шалах</cyrillic>
+      <definition>1. belästigen, bedrängen, bestürmen; sich aufdrängen (jmdm. -ыг); гүйж ~ inständig bitten; тал бүрзэс асуух ~ von allen Seiten mit Fragen bestürmen
+2. Schach bieten mit Springer, Läufer oder Dame; бэрсзэр ~ mit der Dame Schach bieten</definition>
+      <page>378</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>шалах /1</cyrillic>
+      <definition>шаргаах, шалгаах, шаардах;шалах шаргаах&lt;хорш&gt;;шалгаах шалах&lt;хорш&gt;;шаардах шалах&lt;хорш&gt;; асууж шалах; гуйж шалах; нэхэж шалах.</definition>
+      <page>831</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>шалах /2</cyrillic>
+      <definition>шатарцаж наадахад бэрс, морь, тэргээр эсэргүүцлийн ноёныг зайлж нүүхийг шаардах, шаглах ч гэдэг.</definition>
+      <page>831</page>
+    </entry_item>
+  </entries>
+</entry>

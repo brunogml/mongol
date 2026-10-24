@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="I0250">
+  <head>
+    <unicode>ᠢᠰᠢᠭᠣᠨ</unicode>
+    <transcript>isiγun</transcript>
+    <transcript2>isigon</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠢᠰᠢᠭᠣᠨ</unicode>
+      <uighur>isiγun</uighur>
+      <transcript>ISIΓUN</transcript>
+      <page>416</page>
+      <examples>
+        <example>
+          <unicode>ᠢᠰᠢᠭᠣᠨ ᠦᠭᠡ</unicode>
+          <transcript>-- yge</transcript>
+          <definition> Bad language, invective.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠢᠰᠢᠭᠤᠨ ᠦᠭᠡ</unicode>
+      <definition>parole injurieuse, juron</definition>
+      <page>285</page>
+    </entry_item>
+  </entries>
+</entry>

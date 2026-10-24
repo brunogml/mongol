@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1874">
+  <head>
+    <unicode>ᠺᠢᠪᠢᠨᠡᠺᠥ</unicode>
+    <transcript>kibinekü</transcript>
+    <transcript2>gibinegö</transcript2>
+    <cyrillic>гивнэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K1875</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠢᠪᠢᠨᠡᠬᠦ</unicode>
+      <cyrillic>гивнэх</cyrillic>
+      <definition>〔动〕见 гиенэх.</definition>
+      <page>292</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠪᠢᠨᠡᠺᠥ</unicode>
+      <cyrillic>ГИВНЭХ</cyrillic>
+      <definition>гиенэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠢᠪᠢᠨᠡᠬᠦ</unicode>
+      <cyrillic>гивнэх</cyrillic>
+      <definition>гиенэх.</definition>
+      <page>143</page>
+    </entry_item>
+  </entries>
+</entry>

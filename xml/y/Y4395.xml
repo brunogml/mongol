@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4395">
+  <head>
+    <unicode>ᠵᠣᠯᠭᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰulγaraγulqu</transcript>
+    <transcript2>yolgaragolgo</transcript2>
+    <cyrillic>зулгаруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y4394</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠤᠯᠭᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зулгаруулах</cyrillic>
+      <definition>〔动〕зулгарах 的使动态.</definition>
+      <page>576</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠯᠭᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗУЛГАРУУЛАХ</cyrillic>
+      <definition>зулгарах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠤᠯᠭᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зулгаруулах</cyrillic>
+      <definition>зулгарахын үйлдүүлэх хэв, зулгарахад хүрүүлэх.</definition>
+      <page>283</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0976">
+  <head>
+    <unicode>ᠴᠠᠯᠠᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>čelegenegülkü</transcript>
+    <transcript2>celegenegölgö</transcript2>
+    <cyrillic>цэлэгнүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>C0975</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠯᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>цэлэгнүүлэх</cyrillic>
+      <definition>〔动〕цэлэгнэх 的使动态.</definition>
+      <page>1563</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠯᠠᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЦЭЛЭГНҮҮЛЭХ</cyrillic>
+      <definition>цэлэгнэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠯᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>цэлэгнүүлэх</cyrillic>
+      <definition>цэлэгнэхийн үйлдүүлэх хэв.</definition>
+      <page>806</page>
+    </entry_item>
+  </entries>
+</entry>

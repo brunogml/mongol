@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1190">
+  <head>
+    <unicode>ᠴᠠᠺᠠᠷ</unicode>
+    <transcript>čeger</transcript>
+    <transcript2>ceger</transcript2>
+    <cyrillic>цээр</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1217</ref>
+  </derivatives>
+  <see_also>
+    <ref>C1191</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠺᠠᠷ</unicode>
+      <uighur>čeger</uighur>
+      <cyrillic>цээр</cyrillic>
+      <transcript>CEGER</transcript>
+      <definition>1 n. Taboo, prohibition; abstinence; quarantine (due to epidemics).</definition>
+      <page>169</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠠᠺᠠᠷ ᠭᠣᠮᠤᠳᠠᠯ</unicode>
+          <transcript>-- γomudal</transcript>
+          <definition>Mourning.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠠᠺᠠᠷ ᠲᠠᠶᠢᠯᠬᠤ</unicode>
+          <transcript>-- tailxu,</transcript>
+          <definition>To lift a quarantine</definition>
+        </example>
+        <example>
+          <unicode>ᠢᠳᠡᠰᠢ ᠎ᠶᠢᠨ ᠴᠠᠺᠠᠷ</unicode>
+          <transcript>idesi jin --</transcript>
+          <definition>Diet; fast, abstinence from certain kinds of food.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠺᠠᠷ</unicode>
+      <uighur>čeger</uighur>
+      <transcript>CEGER</transcript>
+      <definition>2 n. Foam or scum that forms on top of boiling liquids.</definition>
+      <page>169</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠡᠺᠡᠷ</unicode>
+      <definition>chasteté, pureté, pudicité: 2 abstinence, tempérance.</definition>
+      <page>2126</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠡᠭᠡᠷ ᠰᠤᠶᠤᠯ</unicode>
+          <definition>abstinence, tempérance</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠡᠭᠡᠷ ᠶᠠᠪᠤᠳᠠᠯᠲᠠᠢ</unicode>
+          <definition>chaste, pur, pudique; modéré, tempéré</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠴᠠᠺᠠᠷ</unicode>
+      <uighur>čeker</uighur>
+      <definition>die Mässigkeit, Enthaltsamkeit; mässig, enthaltsam.</definition>
+      <page>321</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠴᠠᠺᠠᠷ</unicode>
+      <uighur>čeker</uighur>
+      <definition>n Abstaining from. Moderation, temperance. Clean.</definition>
+      <page>1295</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠡᠺᠡᠷ ᠰᠤᠶᠤᠯ</unicode>
+          <definition>n. Warning. Admonition</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠺᠠᠷ</unicode>
+      <cyrillic>ЦЭЭР</cyrillic>
+      <definition>I 1. 1) запрет, запрещение, табу; 2) чистота, опрятность; 3) воздержание; воздержанность, умеренность, целомудрие; 4) cкромность, честность; эрээ цээрээ алдах шилж. быть бесстыжим, нахальничать; 5) карантин; хөл цээр хорш. карантин; 6) предупреждение, предостережение, увещевание, убеждение; цээр соёл хорш. предупреждение, предостережение; 2. скромный; цээр (цэвэр) ичимтгий скромный.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠺᠠᠷ</unicode>
+      <cyrillic>ЦЭЭР</cyrillic>
+      <definition>II накипь.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠺᠠᠷ</unicode>
+      <cyrillic>ЦЭЭРГҮЙ</cyrillic>
+      <definition>1. бесстыдный; 2. то, что не возбраняется.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠭᠡᠷ</unicode>
+      <cyrillic>цээр /1</cyrillic>
+      <definition>цэвэр;цээр цэвэр&lt;хорш&gt;.</definition>
+      <page>809</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠭᠡᠷ</unicode>
+      <cyrillic>цээр /2</cyrillic>
+      <definition>цээрлэвэл зохих зүйл;хориг цээр&lt;хорш&gt;.</definition>
+      <page>809</page>
+    </entry_item>
+  </entries>
+</entry>

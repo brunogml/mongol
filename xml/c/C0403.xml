@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0403">
+  <head>
+    <unicode>ᠴᠠᠳᠬᠤ</unicode>
+    <transcript>čadqu</transcript>
+    <transcript2>cadgo</transcript2>
+    <cyrillic>цадах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0409</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠳᠬᠤ</unicode>
+      <uighur>čadqu</uighur>
+      <cyrillic>цадах</cyrillic>
+      <transcript>CAD-</transcript>
+      <definition>v.t. To be[come] saturated, filled; to satiate oneself, eat 'one's fill; to maturate (of small pox); to be ripe (of grain).</definition>
+      <page>156</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠠᠳᠬᠤ ᠦᠭᠡᠢ</unicode>
+          <transcript>--xu ygei</transcript>
+          <definition>Insatiable, insatiate.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠠᠳᠲᠠᠯ᠎ᠠ</unicode>
+          <transcript>--tal-a</transcript>
+          <definition>To one's fill, to saturation.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠠᠳᠲᠠᠯ᠎ᠠ ᠢᠳᠡᠺᠦ</unicode>
+          <transcript>--tal-a ideky</transcript>
+          <definition>To eat one's fill.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠠᠳᠬᠤ</unicode>
+      <definition>être rassasié, se rassasier: 2 être confluent, mûrir (la petite vérole): 3 monter eu sève</definition>
+      <page>2096</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠠᠳᠲᠠᠯᠠ ᠢᠳᠡᠺᠦ</unicode>
+          <definition>se rassasier</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <uighur>čadqu</uighur>
+      <definition>satt seyn, gesättigt seyn, das Reifwerden der Blattern</definition>
+      <page>320</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <uighur>čadqu</uighur>
+      <definition>v.i. To get (or be) satisfied with food.</definition>
+      <page>1290</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠳᠬᠤ</unicode>
+      <cyrillic>цадах</cyrillic>
+      <definition>〔动〕①吃饱，饱足：цадтал идэх 饱饱地吃；吃足；~ыг мэдэхгүй 不知饱（的），不知足（的），贪婪（的）；◊ ~ ханах 满足；②〈化〉饱和：цадсан уусгамал 饱和溶液.</definition>
+      <page>1513</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ЦАДАХ</cyrillic>
+      <definition>1) наедаться досыта, насыщаться; гэнэт баяжих насанд гэмтэй, гэнэт цадах гэдсэнд халтай зүйр. внезапное обогащение для жизни вредно, внезапное пресыщение для желудка вредно; цадахаа мэдэхгүй / цадахыг мэдэхгүй ненасытный; цадахаа мэдэхгүй араатан ненасытный зверь; цадахад цагаан хурганы сүүл хатуу, өлсөхөд өлөн бугын эвэр зөөлөн зүйр. когда (человек) сыт, тогда и курдюк белого ягнёнка кажется твёрдым, когда (человек) голоден, тогда и рог сивого изюбря кажется мягким; шөлөөр цаддаг, төлөөр баяждаг зүйр. супом наедаются, от приплода богатеют; цаг цагаар нэг цаддаггүй, цагаан сараар нэг цаддаг хууч. не каждое время не насытится, а именно к празднику Белого месяца наконец-то насытится; 2) созревать (об оспе); 3) колоситься, наливаться (о хлебе).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цадах</cyrillic>
+      <definition>satt werden; би цадлаа ich bin satt; цадтал идэх sich satt essen (an etw. -ыг); ~ыг мэдэхгүй unersättlich</definition>
+      <page>351</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠳᠬᠤ</unicode>
+      <cyrillic>цадах</cyrillic>
+      <definition>хоол идэж ханах;цадах ханах&lt;хорш&gt;; цадталаа идэх;цадахад цагаан хурганы сүүл хатуу&lt;хууч&gt;.</definition>
+      <page>779</page>
+    </entry_item>
+  </entries>
+</entry>

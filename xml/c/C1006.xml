@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1006">
+  <head>
+    <unicode>ᠴᠠᠯᠴᠠᠯᠵᠠᠺᠥ</unicode>
+    <transcript>čelčelǰekü</transcript>
+    <transcript2>celcelcegö</transcript2>
+    <cyrillic>цэлцэлзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1007</ref>
+    <ref>C1005</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠯᠴᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>цэлцэлзэх</cyrillic>
+      <definition>〔动〕参见 цэлцэгнэх.</definition>
+      <page>1563</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠯᠴᠠᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>ЦЭЛЦЭЛЗЭХ</cyrillic>
+      <definition>трястись, колебаться (о студенистой массе, желе). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цэлцэлзэх</cyrillic>
+      <definition>etw. Weiches und Dickes sich bewegen; wackeln, schwabbeln, zittern</definition>
+      <page>364</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠯᠴᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>цэлцэлзэх</cyrillic>
+      <definition>цэлцгэр юмны цэлцэс цэлцэс хөдлөх, цэлхэлзэх.</definition>
+      <page>805</page>
+    </entry_item>
+  </entries>
+</entry>

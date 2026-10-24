@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T0016">
+  <head>
+    <unicode>ᠲᠠᠨᠠᠠ</unicode>
+    <transcript>tana-a</transcript>
+    <transcript2>dana-a</transcript2>
+    <cyrillic>танаа</cyrillic>
+  </head><see_also>
+    <ref>T0074</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠨᠨ᠎ᠠ</unicode>
+      <uighur>tan-a</uighur>
+      <cyrillic>танаа</cyrillic>
+      <transcript>TAN-A</transcript>
+      <definition>[tan + old dat.] To you (polite). Used after a title or name in addressing a letter, also in the opening words of a letter.</definition>
+      <page>776</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠷᠺᠢᠮ ᠠᠪᠤᠭᠠᠢ ... ᠲᠠᠨᠨ᠎ᠠ</unicode>
+          <transcript>erkim abuγai  . . - . </transcript>
+          <definition>My dear Mr. . . .</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠷᠺᠢᠮ ᠨᠥᠺᠦᠷ ... ᠲᠠᠨᠨ᠎ᠠ</unicode>
+          <transcript>erkim nøkyr  . . -- . </transcript>
+          <definition>My dear friend . . .</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠨ᠎ᠠ ~ ᠳᠠᠨᠠ ~ ᠳᠠᠨ ᠎ᠳᠣᠷ</unicode>
+      <definition>à vous, chez vous.</definition>
+      <page>1559</page>
+    </entry_item>
+  </entries>
+</entry>

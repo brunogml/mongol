@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B5025">
+  <head>
+    <unicode>ᠪᠥᠷᠲᠥᠯᠵᠠᠺᠥ</unicode>
+    <transcript>börtülǰekü</transcript>
+    <transcript2>bördölcegö</transcript2>
+    <cyrillic>бөртөлзөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B5026</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠷᠲᠥᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>бөртөлзөх</cyrillic>
+      <definition>〔动〕参见 бөртөгнөх.</definition>
+      <page>192</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠷᠲᠥᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>БӨРТӨЛЗӨХ</cyrillic>
+      <definition>1) бөртгөнөх-ийг үз; бөртөлзөн харагдах маячить, виднеться (вдали или в темноте); 2) ёжиться, жаться, стесняться (перед старшими, начальством).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠥᠷᠲᠥᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>бөртөлзөх</cyrillic>
+      <definition>бөртгөр юмны байн байн хөдлөх үзэгдэх байдал.</definition>
+      <page>100</page>
+    </entry_item>
+  </entries>
+</entry>

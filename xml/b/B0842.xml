@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0842">
+  <head>
+    <unicode>ᠫᠠᠯᠬᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>palqaγanaqu</transcript>
+    <transcript2>palgaganago</transcript2>
+    <cyrillic>палхганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0844</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠫᠠᠯᠬᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>палхганах</cyrillic>
+      <definition>〔动〕参见 палхалзах.</definition>
+      <page>871</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠫᠠᠯᠬᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ПАЛХГАНАХ</cyrillic>
+      <definition>палхалзах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠫᠠᠯᠬᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>палхганах</cyrillic>
+      <definition>палхгар юмны палхга палхга хөдлөх.</definition>
+      <page>450</page>
+    </entry_item>
+  </entries>
+</entry>

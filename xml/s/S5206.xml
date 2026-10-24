@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5206">
+  <head>
+    <unicode>ᠰᠣᠭᠣᠬᠣᠯᠵᠠᠬᠣ</unicode>
+    <transcript>soγuqulǰaqu</transcript>
+    <transcript2>sogogolcago</transcript2>
+    <cyrillic>соохолзох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5207</ref>
+    <ref>S5209</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠭᠣᠬᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>соохолзох</cyrillic>
+      <definition>〔动〕参见 соохгонох.</definition>
+      <page>941</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠭᠣᠬᠣᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>СООХОЛЗОХ</cyrillic>
+      <definition>соохгонох-ыг үз., сонин дээрээ соохолзох, сониноо буурахаар хоохолзох зүйр., үгчил. пока есть новости – хвастается, новости кончаются – сникает. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>соохолзох</cyrillic>
+      <definition>= соохгонох</definition>
+      <page>201</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠭᠣᠬᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>соохолзох</cyrillic>
+      <definition>хөөргөндөх, сагсуурах. сонин дээрээ соохолзох, сонио буурахаар хоохолзох &lt;зүйр&gt;.</definition>
+      <page>480</page>
+    </entry_item>
+  </entries>
+</entry>

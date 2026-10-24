@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q5041">
+  <head>
+    <unicode>ᠬᠣᠰᠣ</unicode>
+    <transcript>qusu</transcript>
+    <transcript2>goso</transcript2>
+    <cyrillic>хус</cyrillic>
+  </head><see_also>
+    <ref>Q4980</ref>
+  
+    <ref>Q5040</ref>
+  
+    <ref>Q5042</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠰᠣ</unicode>
+      <uighur>qusu</uighur>
+      <cyrillic>хус</cyrillic>
+      <transcript>XUSU</transcript>
+      <definition>n. Birch, birch tree.</definition>
+      <page>991</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠰᠣᠨ ᠤ ᠬᠠᠯᠢᠰᠤ</unicode>
+          <transcript>--n u xalisu </transcript>
+          <definition>Birch bark</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠰᠣᠨ ᠤ ᠦᠢᠰᠦ</unicode>
+          <transcript>--n u yisy </transcript>
+          <definition>Birch bark</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠰᠣᠨ ~ ᠬᠣᠰᠤ</unicode>
+      <definition>bouleau.</definition>
+      <page>902</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠰᠣᠨ ᠤ ᠣᠶᠢᠰᠤᠨ</unicode>
+          <definition>écorce de bouleau</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠣᠰᠣ</unicode>
+      <uighur>quson</uighur>
+      <definition>die Birke</definition>
+      <page>176</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠣᠰᠣ</unicode>
+      <uighur>qusun</uighur>
+      <definition>n. The birch tree. </definition>
+      <page>690</page>
+      <examples>
+        <example>
+          <uighur>qusun-u oyisun</uighur>
+          <definition>n. The bark of the birch-tree.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠰᠣ</unicode>
+      <cyrillic>ХУС(АН)</cyrillic>
+      <definition>I 1. ург. берёза; 2. берёзовый; хусан ой березняк; хусан төгөл берёзовая роща; хусан уурга берёзовый укрюк. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠰᠣ</unicode>
+      <cyrillic>ХУСНЫ</cyrillic>
+      <definition>хус(н)-ы харьяал., 1) берестяной; хусны бичиг берестяная грамота; 2) берёзовый; хусны гөлөг / хусны нахиа берёзовые почки; хусны давирхай берёзовый дёготь; хусны үйс берёста; хусны төөлүүр хүрэнцэр шавж. берёзовая пяденица. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

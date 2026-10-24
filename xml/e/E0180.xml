@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="E0180">
+  <head>
+    <unicode>ᠡᠪᠡᠰᠦᠲᠦ</unicode>
+    <transcript>ebesütü</transcript>
+    <transcript2>ebesödö</transcript2>
+    <cyrillic>өвст</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠪᠡᠰᠦᠳᠡᠢ ~ ᠡᠪᠡᠰᠦᠳᠦ</unicode>
+      <definition>couvert d'herbes, abondant en herbes</definition>
+      <page>177</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠪᠡᠰᠦᠲᠦ ᠲᠠᠯᠠ</unicode>
+          <definition>un pré, une prairie.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠪᠠᠰᠥᠲᠥ</unicode>
+      <cyrillic>ӨВСТ</cyrillic>
+      <definition>өвстэй-г үз., өвст намаг травяное болото. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+<related_to><ref>E0177</ref></related_to></entry>

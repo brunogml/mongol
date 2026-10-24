@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2422">
+  <head>
+    <unicode>ᠲᠠᠶᠢᠪᠣᠰᠢᠷᠠᠬᠣ</unicode>
+    <transcript>tayibusiraqu</transcript>
+    <transcript2>dayibosirago</transcript2>
+    <cyrillic>тайвшрах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T2423</ref>
+    <ref>T2425</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠶᠢᠪᠣᠰᠢᠷᠠᠬᠣ</unicode>
+      <uighur>tayibusiraqu</uighur>
+      <cyrillic>тайвшрах</cyrillic>
+      <transcript>TAIBUSIRA-</transcript>
+      <definition>[= taibura-] v. i. To become peaceful, calm, quiet.</definition>
+      <page>767</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠠᠭ ᠲᠠᠶᠢᠪᠣᠰᠢᠷᠠᠵᠤ ᠪᠠᠶᠢᠨ᠎ᠠ</unicode>
+          <transcript>caγ --zu bain-a</transcript>
+          <definition> Times have become quiet (as after a war .</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠡᠳᠺᠢᠯ ᠢᠨᠤ ᠲᠠᠶᠢᠪᠣᠰᠢᠷᠠᠪᠠ</unicode>
+          <transcript>sedkil inu --ba</transcript>
+          <definition> The mind became quiet.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠢᠪᠤᠰᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>тайвшрах</cyrillic>
+      <definition>〔动〕①安心，放心，宽心，宽舒，自慰，平静：сэтгэл ~ 心情平静；дотор ~ 安心，放心，内心平静；②变和平，变安宁，变太平.</definition>
+      <page>1013</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠶᠢᠪᠣᠰᠢᠷᠠᠬᠣ</unicode>
+      <cyrillic>ТАЙВШРАХ</cyrillic>
+      <definition>1. успокаиваться; униматься, утихомљриваться, угомоняться; олсон амжилтдаа тайвшрах успокоиться на достљгнутом, почљть на лаврах; дотор тайвшрах успокаиваться, становљться спокойным; цаг тайвширч байна наступљли мир и спокойствие (в стране); 2. тайвшрахуй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠶᠢᠪᠣᠰᠢᠷᠠᠬᠣ</unicode>
+      <cyrillic>ТАЙВШРАХУЙ</cyrillic>
+      <definition>успокоение. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠢᠪᠤᠰᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>тайвшрах</cyrillic>
+      <definition>тавиу болох, тайван болох, сэтгэл тайвшрах, дотор тайвшрах, цаг тайвшрав.</definition>
+      <page>514</page>
+    </entry_item>
+  </entries>
+</entry>

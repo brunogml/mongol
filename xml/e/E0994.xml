@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E0994">
+  <head>
+    <unicode>ᠡᠯᠮᠢᠭ</unicode>
+    <transcript>elmig</transcript>
+    <transcript2>elmig</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠯᠮᠢᠺ</unicode>
+      <uighur>elmik</uighur>
+      <cyrillic>элмэг</cyrillic>
+      <transcript>ELMIG</transcript>
+      <definition>Same as elemeg.</definition>
+      <page>310</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠯᠮᠢᠺ</unicode>
+      <definition>un coursier non dressé, qui n'avait point encore été sellé.</definition>
+      <page>211</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠯᠮᠢᠺ ᠤᠨᠤᠬᠤ ᠺᠦᠮᠦᠨ</unicode>
+          <definition>cavalier qui monte un cbeial non dressé</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠯᠮᠢᠭ</unicode>
+      <cyrillic>элмэг</cyrillic>
+      <definition>1. мал адгуусны эдэлгээ ажиллагаа огт сураагүй атар долгины нь, эмнэг ч гэнэ;2. хүний юм үзэж нүд тайлж, ухаан санаа нээгдээгүй мохоо доройгий нь; элмэг хүн.</definition>
+      <page>873</page>
+    </entry_item>
+  </entries>
+</entry>

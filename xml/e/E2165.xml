@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E2165">
+  <head>
+    <unicode>ᠡᠷᠦᠮᠡᠯ</unicode>
+    <transcript>erümel</transcript>
+    <transcript2>erömel</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠷᠥᠮᠠᠯ</unicode>
+      <uighur>erümel</uighur>
+      <transcript>ERYMEL</transcript>
+      <definition>[n, d. of ery-] adj. Excavated, exhumed, dug out.</definition>
+      <page>332</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠷᠥᠮᠠᠯ ᠤᠰᠤ</unicode>
+          <transcript>-- usu</transcript>
+          <definition> Well.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠷᠥᠮᠠᠯ</unicode>
+      <uighur>erümel</uighur>
+      <definition>déterré, creusé, bêché.</definition>
+      <page>256</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠷᠦᠮᠡᠯ ᠤᠰᠤᠨ</unicode>
+          <definition>puits</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠷᠦᠮᠡᠯ</unicode>
+      <cyrillic>эрмэл</cyrillic>
+      <definition>эрж хайж олох баялаг, юмс.</definition>
+      <page>884</page>
+    </entry_item>
+  </entries>
+</entry>

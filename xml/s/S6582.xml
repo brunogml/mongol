@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6582">
+  <head>
+    <unicode>ᠱᠥᠪᠺᠠᠷᠠᠺᠥ</unicode>
+    <transcript>šöbkerekü</transcript>
+    <transcript2>söbgeregö</transcript2>
+    <cyrillic>шөвхрөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6581</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠥᠪᠬᠡᠷᠡᠬᠦ</unicode>
+      <cyrillic>шөвхрөх</cyrillic>
+      <definition>〔动〕变尖，变尖利.</definition>
+      <page>1653</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠥᠪᠺᠠᠷᠠᠺᠥ</unicode>
+      <cyrillic>ШӨВХРӨХ</cyrillic>
+      <definition>становиться заострённым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠥᠪᠬᠡᠷᠡᠬᠦ</unicode>
+      <cyrillic>шөвхрөх</cyrillic>
+      <definition>шөвх болох.</definition>
+      <page>856</page>
+    </entry_item>
+  </entries>
+</entry>

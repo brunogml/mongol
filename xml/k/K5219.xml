@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K5219">
+  <head>
+    <unicode>ᠺᠦᠷᠭᠡᠯ</unicode>
+    <transcript>kürgel</transcript>
+    <transcript2>görgel</transcript2>
+    <cyrillic>хүргэл</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠦᠷᠭᠡᠯ</unicode>
+      <cyrillic>ХҮРГЭЛ</cyrillic>
+      <definition>доставление куда-л., проводы.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠦᠷᠭᠡᠯ</unicode>
+      <cyrillic>ХҮРГЭЛГҮЙ</cyrillic>
+      <definition>не доставляя до чего-л., не касаясь, не прикасаясь.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠦᠷᠭᠡᠯ</unicode>
+      <page>2652</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠦᠷᠭᠡᠯ ᠦᠭᠡᠢ</unicode>
+          <definition>sans toucher, sans atteindre</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

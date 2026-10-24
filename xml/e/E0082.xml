@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E0082">
+  <head>
+    <unicode>ᠡᠨᠳᠡᠭᠦᠷᠡᠯ</unicode>
+    <transcript>endegürel</transcript>
+    <transcript2>endegörel</transcript2>
+    <cyrillic>эндүүрэл</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠨᠳᠠᠺᠥᠷᠠᠯ</unicode>
+      <uighur>eeedegürel</uighur>
+      <cyrillic>эндүүрэл</cyrillic>
+      <transcript>ENDEGYREL</transcript>
+      <definition>n. Mistake, error, lapse, oversight; delusion; misunderstanding; guilt.</definition>
+      <page>316</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠨᠳᠠᠺᠥᠷᠠᠯ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Without mistake or fail; faultless; infallible; spotless; pure; immaculate, perfect.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠨᠳᠠᠺᠥᠷᠠᠯ ᠦᠭᠡᠢ ᠦᠢᠯᠡᠰ</unicode>
+          <transcript>-- ygei yiles</transcript>
+          <definition> Just, right, or good actions.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠨᠳᠡᠭᠦᠷᠡᠯ</unicode>
+      <definition>faute. méprise, coup manqué; 2 erreur, égarement; 3 délit, péché; 4 défaut</definition>
+      <page>170</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠨᠳᠡᠭᠦᠷᠡᠯ ᠦᠭᠡᠢ</unicode>
+          <definition>sans faute; infaillible: digne de foi; 2 innocent, impeccable, pur; 3 sans défaut, parfait.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠨᠳᠡᠭᠦᠷᠡᠯ ᠦᠭᠡᠢ ᠦᠢᠯᠡᠰ</unicode>
+          <definition>bonnes actions, bonnes oeuvres.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠠᠨᠳᠠᠺᠥᠷᠠᠯ</unicode>
+      <uighur>endegürel</uighur>
+      <definition>der Irrthum</definition>
+      <page>23</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠡᠨᠳᠠᠺᠥᠷᠠᠯ</unicode>
+      <uighur>endegürel</uighur>
+      <definition>n. Error. Mistake.</definition>
+      <page>86</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠨᠳᠡᠭᠦᠷᠡᠯ</unicode>
+      <cyrillic>эндүүрэл</cyrillic>
+      <definition>〔名〕误解，迷惑；错误，过失，失策，失算.</definition>
+      <page>1700</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠨᠳᠠᠺᠥᠷᠠᠯ</unicode>
+      <cyrillic>ЭНДҮҮРЭЛ</cyrillic>
+      <definition>1) заблуждение, недоразумение, погрешность, промах; жаахан эндүүрэл небольшой промах; эндүүрэлд орох впасть в заблуждение; 2) обман; мэд(р)эхүйн эндүүрэл обман чувств; харааны эндүүрэл оптический обман. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠨᠳᠠᠺᠥᠷᠠᠯ</unicode>
+      <cyrillic>ЭНДҮҮРЭЛГҮЙ</cyrillic>
+      <definition>безошибочный, непогрешимый, лишённый недостатков. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>эндүүрэл</cyrillic>
+      <definition>Fehler m, Fehltritt m, Irrtum m, Täuschung f, Versehen n</definition>
+      <page>401</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠨᠳᠡᠭᠦᠷᠡᠯ</unicode>
+      <cyrillic>эндүүрэл</cyrillic>
+      <definition>эндүүрэх үйлийн нэр, эндүүрсэн ташаарсны нь, андуурал;эндүүрэл андуурал&lt;хорш&gt;.</definition>
+      <page>879</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>E0083</ref>
+    <ref>E0084</ref>
+    <ref>E0085</ref>
+  </derivatives>
+</entry>

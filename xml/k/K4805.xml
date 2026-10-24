@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4805">
+  <head>
+    <unicode>ᠺᠥᠺᠰᠢᠳᠡᠺᠥ</unicode>
+    <transcript>kögsidekü</transcript>
+    <transcript2>gögsidegö</transcript2>
+    <cyrillic>хөгшдөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K4806</ref>
+    <ref>K4804</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠭᠰᠢᠳᠡᠬᠦ</unicode>
+      <cyrillic>хөгшдөх</cyrillic>
+      <definition>〔动〕变得太老，变得很老，老态龙钟.</definition>
+      <page>1389</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠺᠰᠢᠳᠡᠺᠥ</unicode>
+      <cyrillic>ХӨГШДӨХ</cyrillic>
+      <definition>быть слишком старым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠭᠰᠢᠳᠡᠬᠦ</unicode>
+      <cyrillic>хөгшдөх</cyrillic>
+      <definition>дэндүү хөгшин болох, хөгшний учир тохиромжгүй болох.</definition>
+      <page>705</page>
+    </entry_item>
+  </entries>
+</entry>

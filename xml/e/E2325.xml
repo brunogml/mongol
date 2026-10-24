@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E2325">
+  <head>
+    <unicode>ᠡᠷᠺᠡᠰ</unicode>
+    <transcript>erkes</transcript>
+    <transcript2>erges</transcript2>
+    <cyrillic>эрхэс</cyrillic>
+  </head>
+  <see_also>
+    <ref>E2372</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠡᠷᠺᠠᠰ</unicode>
+      <cyrillic>ЭРХЭС</cyrillic>
+      <definition>I од.орон. небесные тела.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>эрхэс</cyrillic>
+      <definition>1.: тэнгэрийн ~ Astron Himmelskörper Pl 
+2. = эрхис</definition>
+      <page>405</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠷᠬᠡᠰ</unicode>
+      <cyrillic>эрхэс /2</cyrillic>
+      <definition>огторгуйд орших одонгариг сэлтийн нийт нэр; тэнгэрийн эрхэс.</definition>
+      <page>887</page>
+    </entry_item>
+  </entries>
+</entry>

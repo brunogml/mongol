@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0407">
+  <head>
+    <unicode>ᠳᠠᠭᠠᠭᠣᠯᠪᠣᠷᠢ</unicode>
+    <transcript>daγaγulburi</transcript>
+    <transcript2>dagagolbori</transcript2>
+    <cyrillic>дагуулбар</cyrillic>
+  </head>
+  <related_to>
+    <ref>T0417</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠭᠠᠭᠤᠯᠪᠤᠷᠢ</unicode>
+      <cyrillic>дагуулбар</cyrillic>
+      <definition>〔形〕跟随的，随从的，随之而来的，附带的.</definition>
+      <page>375</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠭᠠᠭᠣᠯᠪᠣᠷᠢ</unicode>
+      <cyrillic>ДАГУУЛБАР</cyrillic>
+      <definition>дагавар-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠭᠠᠭᠤᠯᠪᠤᠷᠢ</unicode>
+      <cyrillic>дагуулбар</cyrillic>
+      <definition>дагавар,дагуулбар хүүхэд.</definition>
+      <page>179</page>
+    </entry_item>
+  </entries>
+</entry>

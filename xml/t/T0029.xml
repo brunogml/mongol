@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0029">
+  <head>
+    <unicode>ᠳᠠᠨᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>danalǰaγulqu</transcript>
+    <transcript2>danalcagolgo</transcript2>
+    <cyrillic>даналзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T0028</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠨᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>даналзуулах</cyrillic>
+      <definition>〔动〕даналзах 的使动态.</definition>
+      <page>389</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠨᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДАНАЛЗУУЛАХ</cyrillic>
+      <definition>даналзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠨᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>даналзуулах</cyrillic>
+      <definition>даналзахын үйлдүүлэх хэв.</definition>
+      <page>187</page>
+    </entry_item>
+  </entries>
+</entry>

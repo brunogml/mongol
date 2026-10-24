@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E2033">
+  <head>
+    <unicode>ᠡᠷᠡᠭᠡᠯᠡᠭᠦᠯᠺᠦ</unicode>
+    <transcript>eregelegülkü</transcript>
+    <transcript2>eregelegölgö</transcript2>
+    <cyrillic>эрээлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>E2032</ref>
+  </related_to>
+  <see_also>
+    <ref>E2140</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠡᠷᠠᠺᠠᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЭРЭЭЛҮҮЛЭХ</cyrillic>
+      <definition>I эрээлэх I-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠷᠡᠭᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>эрээлүүлэх</cyrillic>
+      <definition>эрээлэхийн үйлдүүлэх хэв.</definition>
+      <page>890</page>
+    </entry_item>
+  </entries>
+</entry>

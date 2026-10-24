@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1501">
+  <head>
+    <unicode>ᠥᠺᠠᠶᠢᠳᠠᠺᠥ</unicode>
+    <transcript>ügeyidekü</transcript>
+    <transcript2>ögeyidegö</transcript2>
+    <cyrillic>үгүйдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>O1502</ref>
+    <ref>O1500</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠥᠺᠠᠶᠢᠳᠠᠺᠥ</unicode>
+      <uighur>ükeyidekü</uighur>
+      <cyrillic>үгүйдэх</cyrillic>
+      <transcript>YGEIDE-</transcript>
+      <definition>v. i. To be left without something; not to have.</definition>
+      <page>997</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠥᠩᠭᠦ ᠥᠺᠠᠶᠢᠳᠠᠺᠥ</unicode>
+          <transcript>mønggy --ky</transcript>
+          <definition> To be left without money.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠮᠢᠷ ᠥᠺᠠᠶᠢᠳᠠᠺᠥ</unicode>
+          <transcript>tamir --ky</transcript>
+          <definition> To be too weak, lack strength.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠦᠭᠡᠢᠳᠡᠬᠦ</unicode>
+      <cyrillic>үгүйдэх</cyrillic>
+      <definition>〔动〕没有，缺乏，缺少，贫乏.</definition>
+      <page>1226</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠺᠠᠶᠢᠳᠠᠺᠥ</unicode>
+      <cyrillic>ҮГҮЙДЭХ</cyrillic>
+      <definition>оказаться без чего-л.; не иметь чего-л.; ощущать отсутствие чего-л.; мөнгө үгүйдэх / мөнгөгүйдэх оказаться без денег. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>үгүйдэх</cyrillic>
+      <definition>nicht haben, nicht vorhanden sein; цай үүх гэсэн хүн үгүйдэзд байна es ist niemand da, der Tee möchte</definition>
+      <page>267</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠦᠭᠡᠢᠳᠡᠬᠦ</unicode>
+      <cyrillic>үгүйдэх</cyrillic>
+      <definition>үгүй байх; ажил хийх гэсэн хүн үгүйдээд байна.</definition>
+      <page>613</page>
+    </entry_item>
+  </entries>
+</entry>

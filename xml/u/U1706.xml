@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1706">
+  <head>
+    <unicode>ᠣᠯᠢᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>uliγlaγulqu</transcript>
+    <transcript2>oliglagolgo</transcript2>
+    <cyrillic>улиглуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U1705</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠯᠢᠭᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>улиглуулах</cyrillic>
+      <definition>〔动〕улиглах 的使动态.</definition>
+      <page>1185</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠯᠢᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>УЛИГЛУУЛАХ</cyrillic>
+      <definition>улиглах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>улиглуулах</cyrillic>
+      <definition>Kaus von улиглах</definition>
+      <page>255</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠯᠢᠭᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>улиглуулах</cyrillic>
+      <definition>улиглахын үйлдүүлэх хэв.</definition>
+      <page>591</page>
+    </entry_item>
+  </entries>
+</entry>

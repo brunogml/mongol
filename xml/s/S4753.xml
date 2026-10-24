@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4753">
+  <head>
+    <unicode>ᠰᠢᠷᠴᠢᠺᠢᠨᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>sirčiginegülkü</transcript>
+    <transcript2>sirciginegölgö</transcript2>
+    <cyrillic>ширчигнүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S4751</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠷᠴᠢᠭᠢᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>ширчигнүүлэх</cyrillic>
+      <definition>〔动〕ширчигнэх 的使动态.</definition>
+      <page>1643</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠷᠴᠢᠺᠢᠨᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ШИРЧИГНҮҮЛЭХ</cyrillic>
+      <definition>ширчигнэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠢᠷᠴᠢᠭᠢᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>ширчигнүүлэх</cyrillic>
+      <definition>ширчигнэхийн үйлдүүлэх хэв.</definition>
+      <page>851</page>
+    </entry_item>
+  </entries>
+</entry>

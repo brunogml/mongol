@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K5095">
+  <head>
+    <unicode>ᠺᠥᠷᠪᠡᠰᠢ</unicode>
+    <transcript>kürbesi</transcript>
+    <transcript2>görbesi</transcript2>
+    <cyrillic>хүрвэш</cyrillic>
+  </head>
+  <see_also>
+    <ref>K5096</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠦᠷᠪᠡᠰᠢ</unicode>
+      <cyrillic>хүрвэш</cyrillic>
+      <definition>见 чонын ~ 〈医〉荨麻疹.</definition>
+      <page>1458</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠷᠪᠡᠰᠢ</unicode>
+      <cyrillic>ХҮРВЭШ</cyrillic>
+      <definition>: чонын хүрвэш анаг. крапивница.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠦᠷᠪᠡᠰᠢ</unicode>
+      <definition>enflure du palais (chez les chevaux), les lampas des chevaux</definition>
+      <page>2646</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠨᠤ ᠎ᠶᠢᠨ ᠺᠦᠷᠪᠡᠰᠢ</unicode>
+          <definition>la gale, gratelle</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

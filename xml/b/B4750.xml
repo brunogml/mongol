@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4750">
+  <head>
+    <unicode>ᠪᠥᠺᠠᠷᠠᠺ</unicode>
+    <transcript>bögereg</transcript>
+    <transcript2>bögereg</transcript2>
+    <cyrillic>бөөрөг</cyrillic>
+  </head>
+  <see_also>
+    <ref>B4751</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠦᠺᠡᠷᠡᠭ</unicode>
+      <definition>fort, robuste , vigoureux</definition>
+      <page>1246</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠦᠺᠡᠷᠡᠭ ᠮᠣᠷᠢᠨ</unicode>
+          <definition>cheval fort</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠦᠺᠡᠷᠡᠭ ᠺᠦᠮᠦᠨ</unicode>
+          <definition>homme robuste, athlète</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠭᠡᠷᠡᠭ</unicode>
+      <cyrillic>бөөрөг</cyrillic>
+      <definition>〔名〕山旁高地.</definition>
+      <page>190</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠺᠠᠷᠠᠺ</unicode>
+      <cyrillic>БӨӨРӨГ</cyrillic>
+      <definition>террасы на склонах горы.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бөөрөг</cyrillic>
+      <definition>terrassenförmiger Bergausläufer</definition>
+      <page>59</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠥᠭᠡᠷᠡᠭ</unicode>
+      <cyrillic>бөөрөг</cyrillic>
+      <definition>уулын хажуу этгээдийн дэвсэг хэлбэртэй газар.</definition>
+      <page>99</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S3601">
+  <head>
+    <unicode>ᠰᠢᠪᠬᠠᠴᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sibqačiγulqu</transcript>
+    <transcript2>sibgacigolgo</transcript2>
+    <cyrillic>шавхчуулах</cyrillic>
+  </head><related_to>
+    <ref>S3600</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠪᠬᠠᠴᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шавхчуулах</cyrillic>
+      <definition>〔动〕шавхчих 的使动态.</definition>
+      <page>1606</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠪᠬᠠᠴᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАВХЧУУЛАХ</cyrillic>
+      <definition>шавхчих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>шавхчуулах</cyrillic>
+    <definition>Kaus von шавхчих</definition>
+    <page>376</page>
+  </entry_item>
+  </entries>
+</entry>

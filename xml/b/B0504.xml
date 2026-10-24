@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B0504">
+  <head>
+    <unicode>ᠪᠠᠪᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>babaγanaγulqu</transcript>
+    <transcript2>babaganagolgo</transcript2>
+    <cyrillic>бавгануулах</cyrillic>
+  </head><related_to>
+    <ref>B0503</ref>
+  </related_to>
+  <variants>
+    <variant type="cyrillic">бавагнуулах</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠪᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бавгануулах</cyrillic>
+      <definition>〔动〕бавганах 的使动态.</definition>
+      <page>104</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠪᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БАВГАНУУЛАХ</cyrillic>
+      <definition>бавганах-ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠪᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бавагнуулах</cyrillic>
+      <definition>见 бавгануулах.</definition>
+      <page>104</page>
+    </entry_item>
+  </entries>
+</entry>

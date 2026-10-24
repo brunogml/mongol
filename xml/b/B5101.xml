@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B5101">
+  <head>
+    <unicode>ᠪᠯᠠᠮᠠᠲᠣᠬᠣ</unicode>
+    <transcript>blamatuqu</transcript>
+    <transcript2>blamadogo</transcript2>
+    <cyrillic>ламтах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B5102</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠯᠠᠮᠠᠲᠠᠬᠤ</unicode>
+      <cyrillic>ламтах</cyrillic>
+      <definition>〔动〕〈宗〉主持喇嘛念经，带领喇嘛念经.</definition>
+      <page>642</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠯᠠᠮᠠᠲᠣᠬᠣ</unicode>
+      <cyrillic>ЛАМТАХ</cyrillic>
+      <definition>ламствовать, отправлять обязанности главного ламы. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠯᠠᠮᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>ламтах</cyrillic>
+      <definition>ламын хурлын үйлийг тэргүүлэх гүйцэтгэх.</definition>
+      <page>320</page>
+    </entry_item>
+  </entries>
+</entry>

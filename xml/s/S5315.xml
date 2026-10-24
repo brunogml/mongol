@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5315">
+  <head>
+    <unicode>ᠰᠣᠬᠣᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>soqulǰaγulqu</transcript>
+    <transcript2>sogolcagolgo</transcript2>
+    <cyrillic>сохолзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S5312</ref>
+  </related_to>
+  <see_also>
+    <ref>S5316</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠬᠣᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сохолзуулах</cyrillic>
+      <definition>〔动〕сохолзох 的使动态.</definition>
+      <page>944</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠬᠣᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>СОХОЛЗУУЛАХ</cyrillic>
+      <definition>сохолзох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠬᠣᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сохолзуулах</cyrillic>
+      <definition>сохолзохын үйлдүүлэх хэв.</definition>
+      <page>482</page>
+    </entry_item>
+  </entries>
+</entry>

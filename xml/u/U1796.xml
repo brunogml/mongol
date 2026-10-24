@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1796">
+  <head>
+    <unicode>ᠣᠯᠬᠣᠯᠵᠠᠬᠣ</unicode>
+    <transcript>ulqulǰaqu</transcript>
+    <transcript2>olgolcago</transcript2>
+    <cyrillic>улхалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U1797</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠯᠬᠤᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>улхалзах</cyrillic>
+      <definition>〔动〕松软物不断动作，虚弱人不断动作，呈松松垮垮状.</definition>
+      <page>1188</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠯᠬᠣᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>УЛХАЛЗАХ</cyrillic>
+      <definition>улхагнах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>улхалзах</cyrillic>
+      <definition>= улбалзах</definition>
+      <page>256</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠯᠬᠤᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>улхалзах</cyrillic>
+      <definition>улхгар юмны улхас улхас хөдлөх.</definition>
+      <page>591</page>
+    </entry_item>
+  </entries>
+</entry>

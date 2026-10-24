@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S4249">
+  <head>
+    <unicode>ᠰᠢᠺᠠᠴᠢ</unicode>
+    <transcript>sigeči</transcript>
+    <transcript2>sigeci</transcript2>
+    <cyrillic>шигчий</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠺᠠᠴᠢ</unicode>
+      <uighur>sikeči</uighur>
+      <cyrillic>шигчий</cyrillic>
+      <transcript>SIGECI</transcript>
+      <definition>[= sigezei = cigezei]</definition>
+      <page>701</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠺᠠᠴᠢ ᠬᠤᠷᠤᠭᠤᠨ</unicode>
+          <transcript>-- xuruγu(n) </transcript>
+          <definition>The little finger</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠭᠡᠵᠡᠢ</unicode>
+      <cyrillic>шигчий</cyrillic>
+      <definition>见 ~ хуруу 小指；小趾.</definition>
+      <page>1629</page>
+    </entry_item>
+  </entries>
+</entry>

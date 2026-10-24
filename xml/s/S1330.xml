@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1330">
+  <head>
+    <unicode>ᠰᠠᠮᠪᠠᠭᠠᠴᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sambaγačilaγulqu</transcript>
+    <transcript2>sambagacilagolgo</transcript2>
+    <cyrillic>самбаачлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S1329</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠮᠪᠠᠭᠠᠴᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>самбаачлуулах</cyrillic>
+      <definition>〔动〕самбаачлах 的使动态.</definition>
+      <page>906</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠮᠪᠠᠭᠠᠴᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>САМБААЧЛУУЛАХ</cyrillic>
+      <definition>самбаачлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠮᠪᠠᠭᠠᠴᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>самбаачлуулах</cyrillic>
+      <definition>самбаачлахын үйлдүүлэх хэв.</definition>
+      <page>465</page>
+    </entry_item>
+  </entries>
+</entry>

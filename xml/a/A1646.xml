@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A1646">
+  <head>
+    <unicode>ᠠᠪᠴᠠᠭᠣᠯᠭ᠎ᠠ</unicode>
+    <transcript>abčaγulγ-a</transcript>
+    <transcript2>abcagolga</transcript2>
+    <cyrillic>авцуулга</cyrillic>
+  </head><related_to>
+    <ref>A1636</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠪᠴᠠᠭᠣᠯᠭ᠎ᠠ</unicode>
+      <cyrillic>АВЦУУЛГА</cyrillic>
+      <definition>тех. контакт.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠪᠴᠠᠭᠣᠯᠭ᠎ᠠ ᠦᠭᠡᠢ</unicode>
+      <cyrillic>АВЦУУЛГАГҮЙ</cyrillic>
+      <definition>бесконтактный; авцуулгагүй залгуур тех. бесконтактный коммутатор.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠪᠴᠠᠭᠣᠯᠭ᠎ᠠ ᠎ᠶᠢᠨ</unicode>
+      <cyrillic>АВЦУУЛГЫН</cyrillic>
+      <definition>авцуулга–ын харьяал., контактный; авцуулгын арга контактный метод.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

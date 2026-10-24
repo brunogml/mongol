@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7620">
+  <head>
+    <unicode>ᠲᠣᠷᠠᠬᠠᠨᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>turaqandaγulqu</transcript>
+    <transcript2>doragandagolgo</transcript2>
+    <cyrillic>турхандуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T7619</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠷᠬᠠᠭᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>турхандуулах</cyrillic>
+      <definition>〔动〕турхандах 的使动态.</definition>
+      <page>1116</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠷᠠᠬᠠᠨᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТУРХАНДУУЛАХ</cyrillic>
+      <definition>турхандах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠷᠠᠬᠠᠨᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>турхандуулах</cyrillic>
+      <definition>турхандахын үйлдүүлэх хэв.</definition>
+      <page>558</page>
+    </entry_item>
+  </entries>
+</entry>

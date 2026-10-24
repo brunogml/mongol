@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2623">
+  <head>
+    <unicode>ᠲᠠᠷᠠᠮᠳᠠᠬᠣ</unicode>
+    <transcript>taramdaqu</transcript>
+    <transcript2>daramdago</transcript2>
+  </head>
+  <derivatives>
+    <ref>T2625</ref>
+    <ref>T2626</ref>
+  </derivatives>
+  <see_also>
+    <ref>T2624</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠷᠠᠮᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТАРАМДАХ</cyrillic>
+      <definition>I становљться слљшком разбросанным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠷᠠᠮᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТАРАМДАХ</cyrillic>
+      <definition>II хватать за љкры, ноги (о собаках). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠷᠠᠮᠳᠠᠬᠤ</unicode>
+      <cyrillic>тарамдах</cyrillic>
+      <definition>хэтэрхий тааруу болох.</definition>
+      <page>522</page>
+    </entry_item>
+  </entries>
+</entry>

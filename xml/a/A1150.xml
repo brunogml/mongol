@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A1150">
+  <head>
+    <unicode>ᠠᠬᠰᠣᠷᠬᠠᠬᠣ</unicode>
+    <transcript>aγsurqaqu</transcript>
+    <transcript2>agsorgago</transcript2>
+    <cyrillic>агсархах</cyrillic>
+  </head>
+  <see_also>
+    <ref>A1149</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠭᠰᠤᠷᠬᠠᠬᠤ</unicode>
+      <cyrillic>агсархах</cyrillic>
+      <definition>〔动〕参见 агсамнах.</definition>
+      <page>19</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠬᠰᠣᠷᠬᠠᠬᠣ</unicode>
+      <cyrillic>АГСАРХАХ</cyrillic>
+      <definition>агсамнах–ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>агсархах</cyrillic>
+      <definition>= агсамнах</definition>
+      <page>23</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠭᠰᠤᠷᠬᠠᠬᠤ</unicode>
+      <cyrillic>агсархах</cyrillic>
+      <definition>агсархуу зан гаргах.</definition>
+      <page>20</page>
+    </entry_item>
+  </entries>
+</entry>

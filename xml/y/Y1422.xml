@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1422">
+  <head>
+    <unicode>ᠵᠠᠮᠪᠢᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>ǰambiγanaqu</transcript>
+    <transcript2>yambiganago</transcript2>
+    <cyrillic>жамбиганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1423</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠮᠪᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>жамбиганах</cyrillic>
+      <definition>〔动〕薄嘴唇一动一动.</definition>
+      <page>501</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠮᠪᠢᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЖАМБИГАНАХ</cyrillic>
+      <definition>жамбилзах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠮᠪᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>жамбиганах</cyrillic>
+      <definition>жамбигар юмны эргэлжлэн хөдлөх.</definition>
+      <page>241</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B0203">
+  <head>
+    <unicode>ᠪᠠᠭᠠᠯ</unicode>
+    <transcript>baγal</transcript>
+    <transcript2>bagal</transcript2>
+    <cyrillic>баал</cyrillic>
+  </head><derivatives>
+    <ref>B0334</ref>
+  </derivatives>
+  <variants>
+    <variant type="cyrillic">багал</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠭᠠᠯ</unicode>
+      <cyrillic>баал</cyrillic>
+      <definition>〔名〕哈巴狗.</definition>
+      <page>102</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠭᠠᠯ</unicode>
+      <cyrillic>БААЛ</cyrillic>
+      <definition>I комнатная собака.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠭᠠᠯ</unicode>
+      <cyrillic>БААЛ</cyrillic>
+      <definition>II загас. лещ чёрный амурский.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠭᠠᠯ</unicode>
+      <cyrillic>БАГАЛ</cyrillic>
+      <definition>I нутг. борода, усы.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠭᠠᠯ</unicode>
+      <cyrillic>БАГАЛ</cyrillic>
+      <definition>II ург. эленг, бакула; амраа-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠭᠠᠯ</unicode>
+      <cyrillic>багал</cyrillic>
+      <definition>〔名〕〈动〉哈巴狗，巴儿狗：~ нохой 哈巴狗.</definition>
+      <page>105</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>баал</cyrillic>
+    <definition>Zool schwarze Amurbrasse</definition>
+    <page>39</page>
+  </entry_item>
+  </entries>
+</entry>

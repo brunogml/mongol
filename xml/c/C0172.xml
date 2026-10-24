@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0172">
+  <head>
+    <unicode>ᠴᠠᠭᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čaγaraγulqu</transcript>
+    <transcript2>cagaragolgo</transcript2>
+    <cyrillic>цагааруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C0171</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠭᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <uighur>čaγaraγulqu</uighur>
+      <cyrillic>цагааруулах</cyrillic>
+      <transcript>CAΓARAΓUL-</transcript>
+      <definition>[v. caus. of caγara-] To make white.</definition>
+      <page>158</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠡᠮ ᠴᠠᠭᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+          <transcript>gem --xu</transcript>
+          <definition> To prove one's innocence, justify oneself.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠭᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цагааруулах</cyrillic>
+      <definition>〔动〕цагаарах 的使动态.</definition>
+      <page>1512</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠭᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦАГААРУУЛАХ</cyrillic>
+      <definition>цагаарах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цагааруулах</cyrillic>
+      <definition>1. Kaus von цагаарах
+2. weiß machen, weißen; tr bleichen</definition>
+      <page>351</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠭᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цагааруулах</cyrillic>
+      <definition>цагаарахын үйлдүүлэх хэв.</definition>
+      <page>779</page>
+    </entry_item>
+  </entries>
+</entry>

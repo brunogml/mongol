@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0243">
+  <head>
+    <unicode>ᠱᠠᠩᠳᠠᠭᠣᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šangdaγuraγulqu</transcript>
+    <transcript2>sangdagoragolgo</transcript2>
+    <cyrillic>шандууруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S0242</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠩᠳᠠᠭᠤᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шандууруулах</cyrillic>
+      <definition>〔动〕шандуурах 的使动态.</definition>
+      <page>1619</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠩᠳᠠᠭᠣᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАНДУУРУУЛАХ</cyrillic>
+      <definition>шандуурах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠩᠳᠠᠭᠤᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шандууруулах</cyrillic>
+      <definition>шандуурахын үйлдүүлэх хэв.</definition>
+      <page>837</page>
+    </entry_item>
+  </entries>
+</entry>

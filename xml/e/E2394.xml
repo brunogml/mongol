@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="E2394">
+  <head>
+    <unicode>ᠡᠷᠭᠢᠯᠲᠦ</unicode>
+    <transcript>ergiltü</transcript>
+    <transcript2>ergildö</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠷᠺᠢᠯᠳᠦ ᠮᠣᠷᠢᠨ</unicode>
+      <uighur>erkildü morin</uighur>
+      <definition>un cheval qui a le poil crépu sur le poitral</definition>
+      <page>269</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠡᠷᠺᠢᠯᠲᠥ</unicode>
+      <page>124</page>
+      <examples>
+        <example>
+          <uighur>erkiltü qar-a</uighur>
+          <definition>adj. Piebald (horse).</definition>
+        </example>
+        <example>
+          <uighur>erkiltü mori</uighur>
+          <definition>A horse with the hair turned forward.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

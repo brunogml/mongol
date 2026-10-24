@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0987">
+  <head>
+    <unicode>ᠮᠠᠳᠠᠮᠠᠺᠠᠶᠢᠷᠺᠠᠺᠥ</unicode>
+    <transcript>medemekeyirkekü</transcript>
+    <transcript2>medemegeyirgegö</transcript2>
+    <cyrillic>мэдэмхийрхэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M0989</ref>
+  </derivatives>
+  <see_also>
+    <ref>M0986</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠡᠳᠡᠮᠡᠬᠡᠢᠷᠬᠡᠬᠦ</unicode>
+      <cyrillic>мэдэмхийрхэх</cyrillic>
+      <definition>〔动〕参见 мэдэмхийрэх.</definition>
+      <page>702</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠳᠠᠮᠠᠺᠠᠶᠢᠷᠺᠠᠺᠥ</unicode>
+      <cyrillic>МЭДЭМХИЙРХЭХ</cyrillic>
+      <definition>выдавать себя за знатока, хвастаться знанием. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠡᠳᠡᠮᠡᠬᠡᠢᠷᠬᠡᠬᠦ</unicode>
+      <cyrillic>мэдэмхийрхэх</cyrillic>
+      <definition>мэдэмхийрэх.</definition>
+      <page>354</page>
+    </entry_item>
+  </entries>
+</entry>

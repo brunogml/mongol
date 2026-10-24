@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B3527">
+  <head>
+    <unicode>ᠪᠣᠯᠵᠠᠬᠣ</unicode>
+    <transcript>bulǰaqu</transcript>
+    <transcript2>bolcago</transcript2>
+    <cyrillic>булзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B3529</ref>
+    <ref>B3534</ref>
+  </derivatives>
+  <see_also>
+    <ref>B3528</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠤᠯᠵᠠᠬᠤ ~ ᠪᠤᠯᠵᠣᠬᠤ</unicode>
+      <definition>convenir de terme, fixer le terme, assigner un terme.</definition>
+      <page>1200</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>БУЛЗАХ</cyrillic>
+      <definition>1. отскочить в сторону, уклониться, удалиться, сторониться; 2. булзахуй-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>БУЛЗАХУЙ</cyrillic>
+      <definition>уклонение.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>булзах</cyrillic>
+      <definition>1. Ausflüchte machen; sich entziehen (Dat -аас)
+2. boykottieren (Akk -аас)</definition>
+      <page>61</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>булжих</cyrillic>
+      <definition>үе гишүү гажиж гэмтэх; мөр булжих; шагаа булжих.</definition>
+      <page>106</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>булзах</cyrillic>
+      <definition>бултах, зайлах, займрах, буцах; бие булзах хэрэггүй.</definition>
+      <page>106</page>
+    </entry_item>
+  </entries>
+</entry>

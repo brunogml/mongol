@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0651">
+  <head>
+    <unicode>ᠲᠠᠭᠠᠷᠴᠣᠬ</unicode>
+    <transcript>taγarčuγ</transcript>
+    <transcript2>dagarcog</transcript2>
+    <cyrillic>таарцаг</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠭᠠᠷᠴᠣᠬ</unicode>
+      <uighur>taγarčoq</uighur>
+      <cyrillic>таарцаг</cyrillic>
+      <transcript>TAΓARCUΓ</transcript>
+      <definition>n. Pocket; purse; small bag.</definition>
+      <page>765</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠭᠠᠷᠴᠣᠬ ᠎ᠲᠠᠭᠠᠨ ᠺᠢᠺᠦ</unicode>
+          <transcript>-- taγan kiky</transcript>
+          <definition> To put in one's own bag or pocket.</definition>
+        </example>
+        <example>
+          <transcript>arisun -- </transcript>
+          <definition> Small leather bag or purse.</definition>
+        </example>
+        <example>
+          <transcript>nigen -- γulir, A bag of flour,</transcript>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠭᠠᠷᠴᠤᠬ</unicode>
+      <definition>bourse , petit sac; 2 réseau en fil d'archale sur lequel on rôtit la viande,</definition>
+      <page>1583</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠩᠭᠠᠰᠤᠨ ᠳᠠᠭᠠᠷᠴᠤᠬ</unicode>
+          <definition>un sac en poils de chèvre</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠢᠯᠭᠠᠰᠤᠨ ᠳᠠᠭᠠᠷᠴᠤᠬ</unicode>
+          <definition>un sac en poil de yag</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠭᠠᠷᠴᠣᠬ</unicode>
+      <uighur>daγarčoq</uighur>
+      <definition>der Beutel</definition>
+      <page>231</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠭᠠᠷᠴᠣᠬ</unicode>
+      <uighur>daγarčuq</uighur>
+      <definition>n. A small bag or sack of calfskin, linen or cloth.</definition>
+      <page>908</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠭᠠᠷᠴᠤᠭ</unicode>
+      <cyrillic>таарцаг</cyrillic>
+      <definition>〔名〕小囊，小包，提囊，手提囊，小袋子：бичгийн ~ 公文包.</definition>
+      <page>1002</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠭᠠᠷᠴᠣᠬ</unicode>
+      <cyrillic>ТААРЦАГ</cyrillic>
+      <definition>I сумочка; кошелёк, ягдташ; бичгийн таарцаг сумочка для пљсем, портфель. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠭᠠᠷᠴᠣᠬ</unicode>
+      <cyrillic>ТААРЦАГ</cyrillic>
+      <definition>II сетка для птиц. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠭᠠᠷᠴᠤᠭ</unicode>
+      <cyrillic>таарцаг</cyrillic>
+      <definition>илэг буюу бөс өрмөгөөр хийсэн бяцхан сав; бичгийн таарцаг.</definition>
+      <page>509</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>T0652</ref>
+    <ref>T0653</ref>
+    <ref>T0654</ref>
+  </derivatives>
+</entry>

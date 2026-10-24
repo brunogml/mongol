@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="I0300">
+  <head>
+    <unicode>ᠢᠰᠺᠥᠯᠠᠨ</unicode>
+    <transcript>isgülen</transcript>
+    <transcript2>isgölen</transcript2>
+    <cyrillic>эсгэлэн</cyrillic>
+  </head><see_also>
+    <ref>I0301</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠢᠰᠭᠦᠯᠡᠨ ~ ᠢᠰᠭᠦᠯᠡᠩ</unicode>
+      <definition>fermenté, aigre</definition>
+      <page>284</page>
+      <examples>
+        <example>
+          <unicode>ᠢᠰᠭᠦᠯᠡᠨ ᠡᠮ</unicode>
+          <definition>médecine aigre.</definition>
+        </example>
+        <example>
+          <unicode>ᠢᠰᠭᠦᠯᠡᠨ ᠦᠨᠦᠰᠳᠡᠺᠦ</unicode>
+          <definition>sentir aigre.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

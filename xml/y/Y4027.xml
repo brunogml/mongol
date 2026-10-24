@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4027">
+  <head>
+    <unicode>ᠵᠣᠬᠰᠣᠯᠲᠠᠲᠠᠢ</unicode>
+    <transcript>ǰoγsultatai</transcript>
+    <transcript2>yogsoldadai</transcript2>
+    <cyrillic>зогсолттой</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠬᠰᠣᠯᠲᠠᠲᠠᠢ</unicode>
+      <cyrillic>ЗОГСОЛТТОЙ</cyrillic>
+      <definition>с остановкой; с перерывом; с паузой; зөв зогсолттой б. т. с правильной остановкой, остановка по правилам. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠣᠭᠰᠣᠯᠲᠠᠲᠠᠢ</unicode>
+      <cyrillic>зогсолттой</cyrillic>
+      <definition>зогсолт бүхий.</definition>
+      <page>272</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Y4025</ref>
+  </related_to>
+</entry>

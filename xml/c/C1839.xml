@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1839">
+  <head>
+    <unicode>ᠴᠢᠯᠠᠭᠣᠳᠠᠬᠣ</unicode>
+    <transcript>čilaγudaqu</transcript>
+    <transcript2>cilagodago</transcript2>
+    <cyrillic>чулуудах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1840</ref>
+    <ref>C1841</ref>
+    <ref>C1844</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠢᠯᠠᠭᠣᠳᠠᠬᠣ</unicode>
+      <uighur>čilaγudaqu</uighur>
+      <cyrillic>чулуудах</cyrillic>
+      <transcript>CILAΓUDA-</transcript>
+      <definition>v.t. To throw stones; to stone; to throw anything.</definition>
+      <page>182</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠯᠠᠭᠣᠳᠠᠵᠤ ᠠᠯᠠᠬᠤ</unicode>
+          <transcript>--zu alaxu</transcript>
+          <definition>To stone to death.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠢᠴᠢᠭ ᠢᠶᠡᠨ ᠴᠢᠯᠠᠭᠣᠳᠠᠬᠤ</unicode>
+          <transcript>bicig ijen --xu</transcript>
+          <definition>To throw one's book.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠢᠯᠠᠭᠣᠳᠠᠬᠤ</unicode>
+      <definition>se pétrifier: 2 lapider.</definition>
+      <page>2161</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠯᠠᠭᠤᠳᠠᠵᠤ ᠳᠠᠷᠬᠠᠨ</unicode>
+          <definition>un maçon, un tailleur de pierres</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠴᠢᠯᠠᠭᠣᠳᠠᠬᠣ</unicode>
+      <uighur>čilaγudaqu</uighur>
+      <definition>v.t. To stone.</definition>
+      <page>1323</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠯᠠᠭᠣᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЧУЛУУДАХ</cyrillic>
+      <definition>I 1. бросать, бросаться, кидать, кидаться, запускать; бие биеэ чулуудах швыряться; гадагш чулуудах вышвырнуть; цааш чулуудах откидывать; цонх чулуудах запустить камень в окно; чулуугаар чулуудах бросаться камнями, запускать камнем; хэрэггүй юмаа чулуудах отбросить ненужную вещь; 2. метательный; чулуудах зэвсэг метательное орудие, камнемёт.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠯᠠᠭᠣᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЧУЛУУДАХ</cyrillic>
+      <definition>II быть, становиться обильным камнями (напр. о почве).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чулуудах</cyrillic>
+      <definition>1. schleudern, werfen (mit etw. -аар); mit Steinen [be]werfen, steinigen; чулуугаар ~ mit Steinen werfen
+2. zu steinig sein</definition>
+      <page>374</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠯᠠᠭᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>чулуудах /1</cyrillic>
+      <definition>юмыг шидэх, ширүүн хаях; энэ саванд хагарах хэмхрэх зүйл бий, битгий чулуудаарай!</definition>
+      <page>824</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠯᠠᠭᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>чулуудах /2</cyrillic>
+      <definition>хэтэрхий чулуутай болох; чулуудаад ухаж болохгүй байна.</definition>
+      <page>824</page>
+    </entry_item>
+  </entries>
+</entry>

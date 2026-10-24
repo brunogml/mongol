@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5432">
+  <head>
+    <unicode>ᠲᠣᠩᠭᠠᠮᠠᠯ</unicode>
+    <transcript>tungγamal</transcript>
+    <transcript2>donggamal</transcript2>
+    <cyrillic>тунгаамал</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠩᠭᠠᠮᠠᠯ</unicode>
+      <cyrillic>тунгаамал</cyrillic>
+      <definition>〔形〕被澄清的，被沉淀的；被提炼的，被精选的：~ алт 纯金；~ зэс 纯铜.</definition>
+      <page>1113</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠩᠭᠠᠮᠠᠯ</unicode>
+      <cyrillic>ТУНГААМАЛ</cyrillic>
+      <definition>очљщенный (от посторонней примеси); тунгаамал алт золото, очљщенное от прљмеси. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠩᠭᠠᠮᠠᠯ</unicode>
+      <cyrillic>ТУНГАМАЛ</cyrillic>
+      <definition>тунгаамал-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠩᠭᠠᠮᠠᠯ</unicode>
+      <cyrillic>тунгаамал</cyrillic>
+      <definition>тунгаасан зүйл; тунгаамал алт; тунгаамал зэс.</definition>
+      <page>557</page>
+    </entry_item>
+  </entries>
+</entry>

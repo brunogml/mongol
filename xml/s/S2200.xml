@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S2200">
+  <head>
+    <unicode>ᠰᠠᠯ</unicode>
+    <transcript>sel</transcript>
+    <transcript2>sel</transcript2>
+    <cyrillic>сэл</cyrillic>
+  </head><derivatives>
+    <ref>S2291</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠡᠯ ᠺᠥᠺᠡ</unicode>
+      <definition>bleu foncé</definition>
+      <page>1354</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠯ</unicode>
+      <cyrillic>СЭЛ</cyrillic>
+      <definition>I цэл-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠯ</unicode>
+      <cyrillic>СЭЛ</cyrillic>
+      <definition>II поток, лавина, снежный обвал. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

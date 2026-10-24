@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1803">
+  <head>
+    <unicode>ᠰᠠᠷᠪᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sarbalǰaγulqu</transcript>
+    <transcript2>sarbalcagolgo</transcript2>
+    <cyrillic>сарвалзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S1802</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠷᠪᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сарвалзуулах</cyrillic>
+      <definition>〔动〕сарвалзах 的使动态.</definition>
+      <page>917</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠷᠪᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>САРВАЛЗУУЛАХ</cyrillic>
+      <definition>сарвалзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠷᠪᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сарвалзуулах</cyrillic>
+      <definition>сарвалзахын үйлдүүлэх хэв.</definition>
+      <page>471</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0499">
+  <head>
+    <unicode>ᠶᠠᠭᠠᠷᠠᠪᠴᠢᠯᠠᠬᠣ</unicode>
+    <transcript>yaγarabčilaqu</transcript>
+    <transcript2>yagarabcilago</transcript2>
+    <cyrillic>яаравчлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y0500</ref>
+    <ref>Y0501</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠶᠠᠭᠠᠷᠠᠪᠴᠢᠯᠠᠬᠣ</unicode>
+      <uighur>yaγarabčilaqu</uighur>
+      <cyrillic>яаравчлах</cyrillic>
+      <transcript>JAΓARABCILA-</transcript>
+      <definition>v.i To hurry, hasten.</definition>
+      <page>423</page>
+      <examples>
+        <example>
+          <unicode>ᠶᠠᠭᠠᠷᠠᠪᠴᠢᠯᠠᠨ</unicode>
+          <transcript>--n </transcript>
+          <definition>Hastily, hurriedly</definition>
+        </example>
+        <example>
+          <unicode>ᠶᠠᠭᠠᠷᠠᠪᠴᠢᠯᠠᠨ ᠦᠢᠯᠡᠳᠺᠦ</unicode>
+          <transcript>--n yiledky</transcript>
+          <definition> To do something in a hurry.</definition>
+        </example>
+        <example>
+          <unicode>ᠶᠠᠭᠠᠷᠠᠪᠴᠢᠯᠠᠵᠤ ᠶᠠᠪᠤᠬᠤ</unicode>
+          <transcript>--zu jabuxu</transcript>
+          <definition> To depart in a hurry.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠠᠭᠠᠷᠠᠪᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>яаравчлах</cyrillic>
+      <definition>〔动〕急忙，赶紧，火速，加速：галт тэргний эшелоныг ~н явуулах 使军用列车加快运行；одоо ~н явахгүй бол нар шингэх нь байна 现在如不赶紧走，太阳就要落山了.</definition>
+      <page>1733</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠠᠭᠠᠷᠠᠪᠴᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЯАРАВЧЛАХ</cyrillic>
+      <definition>спешить, торопиться, стараться поскорее закончить, делать что-н. быстро; убыстрять, ускорять. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠠᠭᠠᠷᠠᠪᠴᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЯАРАВЧЛАН</cyrillic>
+      <definition>яаравчлах-ын хамж., спешно, торопливо, экстренно. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>яаравчлах</cyrillic>
+      <definition>eilen, hasten, sich beeilen</definition>
+      <page>410</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠠᠭᠠᠷᠠᠪᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>яаравчлах</cyrillic>
+      <definition>аливаа үйл үйлдвэр хийхдээ шамдан чармайж хурдавчлах, түргэвчлэх; түргэн тусламжийн машиныг яаравчлан явуулах; одоо яаравчлан явахгүй бол нар шингэх нь байна.</definition>
+      <page>897</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8540">
+  <head>
+    <unicode>ᠲᠥᠰᠢᠺᠺᠥᠶᠢᠳᠠᠺᠥ</unicode>
+    <transcript>tüsiggüyidekü</transcript>
+    <transcript2>dösiggöyidegö</transcript2>
+    <cyrillic>түшиггүйдэх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠦᠰᠢᠭᠭᠦᠢᠳᠡᠬᠦ</unicode>
+      <cyrillic>түшиггүйдэх</cyrillic>
+      <definition>〔动〕失掉支柱，变得无依无靠，无支靠，无凭靠.</definition>
+      <page>1145</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠰᠢᠺᠺᠥᠶᠢᠳᠠᠺᠥ</unicode>
+      <cyrillic>ТҮШИГГҮЙДЭХ</cyrillic>
+      <definition>быть без опоры. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠦᠰᠢᠭᠦᠭᠡᠢᠳᠡᠬᠦ</unicode>
+      <cyrillic>түшиггүйдэх</cyrillic>
+      <definition>түшиг тулгуургүйдэх.</definition>
+      <page>571</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T8539</ref>
+  </related_to>
+</entry>

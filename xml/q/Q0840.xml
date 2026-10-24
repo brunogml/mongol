@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0840">
+  <head>
+    <unicode>ᠬᠠᠬᠰᠠᠷᠠᠭᠠᠬᠣ</unicode>
+    <transcript>qaγsaraγaqu</transcript>
+    <transcript2>gagsaragago</transcript2>
+    <cyrillic>хагсраах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q0842</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠭᠰᠠᠷᠠᠭᠠᠬᠤ</unicode>
+      <cyrillic>хагсраах</cyrillic>
+      <definition>〔动〕хагсрах /1、/2 的使动态.</definition>
+      <page>1270</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠬᠰᠠᠷᠠᠭᠠᠬᠣ</unicode>
+      <cyrillic>ХАГСРААХ</cyrillic>
+      <definition>хагсрах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хагсраах</cyrillic>
+      <definition>= хагсаах</definition>
+      <page>282</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠭᠰᠠᠷᠠᠭᠠᠬᠤ</unicode>
+      <cyrillic>хагсраах</cyrillic>
+      <definition>хагсрахын үйлдүүлэх хэв; чоно авлахаар морь хагсраах.</definition>
+      <page>639</page>
+    </entry_item>
+  </entries>
+</entry>

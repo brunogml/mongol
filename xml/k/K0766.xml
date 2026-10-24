@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K0766">
+  <head>
+    <unicode>ᠺᠠᠯᠪᠠᠷᠢᠰ</unicode>
+    <transcript>kelberis</transcript>
+    <transcript2>gelberis</transcript2>
+    <cyrillic>хэлбэрис</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠠᠯᠪᠠᠷᠢᠰ</unicode>
+      <uighur>kelberis</uighur>
+      <transcript>KELBERIS</transcript>
+      <page>447</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠠᠯᠪᠠᠷᠢᠰ ᠬᠠᠶᠢᠪᠠᠷᠢᠰ</unicode>
+          <transcript>-- xaibaris</transcript>
+          <definition> Crooked, not straight.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠡᠯᠪᠡᠷᠢᠰ ᠬᠠᠶᠢᠪᠠᠷᠢᠰ</unicode>
+      <definition>qui est de travers, qui n&apos;est pas droit</definition>
+      <page>2475</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠯᠪᠠᠷᠢᠰ</unicode>
+      <cyrillic>ХЭЛБЭРИС</cyrillic>
+      <definition>: хэлбэрис хайварис хорш. вразвалку, покачиваясь (о походке). </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

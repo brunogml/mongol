@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1648">
+  <head>
+    <unicode>ᠮᠣᠩᠬᠣᠯᠵᠠᠬᠣ</unicode>
+    <transcript>mongqulǰaqu</transcript>
+    <transcript2>monggolcago</transcript2>
+    <cyrillic>монхолзох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M1649</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠣᠩᠬᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>монхолзох</cyrillic>
+      <definition>〔动〕魔钩鼻不断动作.</definition>
+      <page>679</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠩᠬᠣᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>МОНХОЛЗОХ</cyrillic>
+      <definition>двигать горбатым носом. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>монхолзох</cyrillic>
+      <definition>= монхогнох</definition>
+      <page>144</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠣᠩᠬᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>монхолзох</cyrillic>
+      <definition>монхор юмны монхос монхос хөдлөх.</definition>
+      <page>341</page>
+    </entry_item>
+  </entries>
+</entry>

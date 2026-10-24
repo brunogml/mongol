@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1844">
+  <head>
+    <unicode>ᠰᠠᠷᠲᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sartalǰaγulqu</transcript>
+    <transcript2>sardalcagolgo</transcript2>
+    <cyrillic>сарталзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S1843</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠷᠲᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сарталзуулах</cyrillic>
+      <definition>〔动〕сарталзах 的使动态.</definition>
+      <page>920</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠷᠲᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>САРТАЛЗУУЛАХ</cyrillic>
+      <definition>сарталзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сарталзуулах</cyrillic>
+      <definition>= сартгануулах</definition>
+      <page>196</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠷᠲᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сарталзуулах</cyrillic>
+      <definition>сарталзахын үйлдүүлэх хэв.</definition>
+      <page>471</page>
+    </entry_item>
+  </entries>
+</entry>

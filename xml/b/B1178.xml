@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1178">
+  <head>
+    <unicode>ᠪᠠᠶᠢᠭᠣᠯᠣᠬᠳᠠᠬᠣ</unicode>
+    <transcript>bayiγuluγdaqu</transcript>
+    <transcript2>bayigologdago</transcript2>
+    <cyrillic>байгуулагдах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠠᠶᠢᠭᠣᠯᠣᠬᠳᠠᠬᠣ</unicode>
+      <uighur>bayiγuluqdaqu</uighur>
+      <cyrillic>байгуулагдах</cyrillic>
+      <transcript>BAIГULUГDA-</transcript>
+      <definition>v.pass. of baiγul-</definition>
+      <page>74</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠨᠡᠴᠢᠯᠡᠨ ᠪᠠᠶᠢᠭᠣᠯᠣᠬᠳᠠᠬᠣ</unicode>
+          <transcript>sinecilen –xu</transcript>
+          <definition> To be reorganized, re-established, reformed, reconstituted..</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠠᠶᠢᠭᠣᠯᠠᠬᠳᠠᠬᠤ ~ ᠪᠡᠢᠢᠨᠨᠣᠯᠣᠬᠳᠠᠬᠤ</unicode>
+      <definition>être construit. bâti, érigé</definition>
+      <page>1045</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠶᠢᠭᠣᠯᠣᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>БАЙГУУЛАГДАХ</cyrillic>
+      <definition>байгуулах-ын үйл­дэгд., быть основанным, основаться, организоваться, учреждаться, воздвигаться, сформироваться, построиться; сая байгуулагдаж буй монгол ардын хувь­сгалт улаан цэрэг хуучир. только что организованная Монгольская Народно-революционная красная армия; шинэчлэн байгуулагдах быть реорганизуемым, подвергаться реорганизации, переустройству.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠢᠭᠤᠯᠤᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>байгуулагдах</cyrillic>
+      <definition>〔动〕байгуулах 的被动态；成立，建成，建立.</definition>
+      <page>114</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>байгуулагдах</cyrillic>
+      <definition>Pass von байгуулах; шинэчлэн ~ rekonstruiert werden</definition>
+      <page>42</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠢᠭᠤᠯᠤᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>байгуулагдах</cyrillic>
+      <definition>байгуулахын үйлдэгдэх хэв.</definition>
+      <page>67</page>
+    </entry_item>
+  </entries>
+</entry>

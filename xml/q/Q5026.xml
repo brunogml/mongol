@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q5026">
+  <head>
+    <unicode>ᠬᠣᠰᠢᠶᠠᠳ</unicode>
+    <transcript>qosiyad</transcript>
+    <transcript2>gosiyad</transcript2>
+    <cyrillic>хошоод</cyrillic>
+  </head>
+  <see_also>
+    <ref>Q5024</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠰᠢᠶᠠᠳ</unicode>
+      <uighur>qosiyad</uighur>
+      <cyrillic>хошоод</cyrillic>
+      <transcript>XOSIJAD</transcript>
+      <definition>[= xosijaγad] distributive num. Two each; twice</definition>
+      <page>971</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠢᠯ ᠲᠤᠲᠤᠮ ᠬᠣᠰᠢᠶᠠᠳ ᠢᠶᠠᠷ</unicode>
+          <transcript>zil tutum -- ijer</transcript>
+          <definition> Twice a year.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠣᠰᠢᠶᠠᠳ</unicode>
+      <cyrillic>хошоод</cyrillic>
+      <definition>〔副〕各两个；两两地，两个两个地，成双地，成对地.</definition>
+      <page>1382</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠰᠢᠶᠠᠳ</unicode>
+      <cyrillic>ХОШООД</cyrillic>
+      <definition>по два; попарно; хошоод хошоодоор попарно; по двое; по два. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠰᠢᠶᠠᠳ</unicode>
+      <cyrillic>хошоод</cyrillic>
+      <definition>хоёр, тус бүр хоёр ногдох юм; хошоод хошоодоор нь өг.</definition>
+      <page>701</page>
+    </entry_item>
+  </entries>
+</entry>

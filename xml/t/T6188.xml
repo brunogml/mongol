@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T6188">
+  <head>
+    <unicode>ᠳᠣᠬᠲᠣᠷ</unicode>
+    <transcript>doγtur</transcript>
+    <transcript2>dogdor</transcript2>
+    <cyrillic>догтор</cyrillic>
+  </head><see_also>
+    <ref>T6187a</ref>
+  
+    <ref>T7463</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠣᠬᠲᠣᠷ</unicode>
+      <uighur>doqdur</uighur>
+      <cyrillic>доктор</cyrillic>
+      <transcript>DOΓTUR</transcript>
+      <definition>[R. доктор] n. Doctor; physician, surgeon.</definition>
+      <page>257</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠠᠭ᠎ᠠ ᠳᠣᠬᠲᠣᠷ</unicode>
+          <transcript>baγ-a --</transcript>
+          <definition> Doctor's assistant.</definition>
+        </example>
+        <example>
+          <unicode>ᠶᠡᠺᠡ ᠳᠣᠬᠲᠣᠷ</unicode>
+          <transcript>jeke -- </transcript>
+          <definition> Doctor, physician .</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠣᠭᠲᠣᠷ</unicode>
+      <cyrillic>догтор</cyrillic>
+      <definition>〔名〕见 догдор; ◊ ~ хэрмээн 〈动〉短尾鲌.</definition>
+      <page>409</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1810">
+  <head>
+    <unicode>ᠳᠠᠯᠪᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>dalbaγanaγulqu</transcript>
+    <transcript2>dalbaganagolgo</transcript2>
+    <cyrillic>далбагануулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T1809</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠯᠪᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>далбагануулах</cyrillic>
+      <definition>〔动〕далбаганах 的使动态.</definition>
+      <page>382</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠯᠪᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДАЛБАГАНУУЛАХ</cyrillic>
+      <definition>далбаганах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠯᠪᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>далбагануулах</cyrillic>
+      <definition>далбаганахын үйлдүүлэх хэв.</definition>
+      <page>183</page>
+    </entry_item>
+  </entries>
+</entry>

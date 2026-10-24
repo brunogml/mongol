@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0013">
+  <head>
+    <unicode>ᠮᠠᠨᠠᠨᠲᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>manantuγulqu</transcript>
+    <transcript2>manandogolgo</transcript2>
+    <cyrillic>манантуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>M0012</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠨᠠᠨᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>манантуулах</cyrillic>
+      <definition>〔动〕манантах 的使动态.</definition>
+      <page>659</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠨᠠᠨᠲᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>МАНАНТУУЛАХ</cyrillic>
+      <definition>манантах-ын үйлдүүл., затуманивать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠨᠠᠨᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>манантуулах</cyrillic>
+      <definition>манантахын үйлдүүлэх хэв.</definition>
+      <page>329</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="U1420">
+  <head>
+    <unicode>ᠣᠳᠣᠯᠴᠠᠬᠣ</unicode>
+    <transcript>odulčaqu</transcript>
+    <transcript2>odolcago</transcript2>
+    <cyrillic>одолцох</cyrillic>
+  </head><see_also>
+    <ref>U1419</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠳᠣᠯᠴᠠᠬᠤ</unicode>
+      <definition>aller ensemble, accompagner quelqu'un.</definition>
+      <page>387</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠢ ᠴᠢᠮᠠᠯᠣᠭ᠎ᠠ ᠣᠳᠣᠯᠴᠠᠰᠣᠭᠠᠢ</unicode>
+          <definition>j'irai avec toi.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠣᠳᠣᠯᠴᠠᠬᠣ</unicode>
+      <uighur>udulčaqu</uighur>
+      <definition>zusammen gehen oder hingehen.</definition>
+      <page>59</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠣᠳᠣᠯᠴᠠᠬᠣ</unicode>
+      <uighur>udulčaqu</uighur>
+      <definition>(od) To proceed, to go to (of several).</definition>
+      <page>234</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠳᠣᠯᠴᠠᠬᠣ</unicode>
+      <cyrillic>ОДОЛЦОХ</cyrillic>
+      <definition>одох-ын үйлдэлц., идти вместе с кем-л.; сопровождать кого-л., отправляться вместе, сопутствовать. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

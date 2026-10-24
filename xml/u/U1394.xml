@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1394">
+  <head>
+    <unicode>ᠣᠳᠣᠬᠣ</unicode>
+    <transcript>uduqu</transcript>
+    <transcript2>odogo</transcript2>
+    <cyrillic>удах</cyrillic>
+  </head>
+  <see_also>
+    <ref>U1325</ref>
+    <ref>U1395</ref>
+    <ref>U1396a</ref>
+    <ref>U1396</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠳᠣᠬᠣ</unicode>
+      <uighur>uduqu</uighur>
+      <cyrillic>удах</cyrillic>
+      <transcript>UDU-</transcript>
+      <definition>v. t. To start (as a fight), stir up.</definition>
+      <page>861</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠡᠷᠡᠭᠦᠯ ᠣᠳᠣᠬᠣ</unicode>
+          <transcript>keregyl --xu</transcript>
+          <definition> To start a fight or a dispute.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠳᠤᠬᠤ</unicode>
+      <cyrillic>удах /2</cyrillic>
+      <definition>дэгдээх, үүсгэх; яршиг удах; хэрүүл удах; ам хэл удах.</definition>
+      <page>585</page>
+    </entry_item>
+  </entries>
+</entry>

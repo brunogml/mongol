@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0382">
+  <head>
+    <unicode>ᠴᠠᠳᠢᠭ</unicode>
+    <transcript>čadiγ</transcript>
+    <transcript2>cadig</transcript2>
+    <cyrillic>цадиг</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0383</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠳᠢᠭ</unicode>
+      <uighur>čadiq</uighur>
+      <cyrillic>цадиг</cyrillic>
+      <transcript>CADIΓ</transcript>
+      <definition>[= cedig, S. jātaka] n, Biography, story of former incarnation of the Buddha or a Buddhist saint; genealogy.</definition>
+      <page>156</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠠᠳᠢᠭ</unicode>
+      <definition>généalogie, traité consacré au récit des existences antérieures.</definition>
+      <page>2096</page>
+      <examples>
+        <example>
+          <unicode>ᠦᠯᠢᠭᠡᠷ ᠴᠠᠳᠢᠭ</unicode>
+          <definition>légende, récit légendaire</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠳᠢᠭ</unicode>
+      <cyrillic>ЦАДИГ</cyrillic>
+      <definition>I джатака, повествование о житии, жизнеописание, биография, повесть о прежних перерождениях; түүх цадиг / цадиг намтар хорш. легенда.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠳᠢᠭ</unicode>
+      <cyrillic>ЦАДИГ</cyrillic>
+      <definition>II мера, предел; сила, способность; цадигаа алдах шилж. перегибать палку; цадиггүй-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цадиг</cyrillic>
+      <definition>1. Biographie f, Lebensbeschreibung f
+
+2. Grundsatz m, Prinzip n; Fassung f; ~аа алдах die Fassung verlieren</definition>
+      <page>351</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠳᠢᠭᠴᠠᠳᠢᠭ</unicode>
+      <cyrillic>цадиг /1</cyrillic>
+      <definition>түүх, намтар цэдэг ч гэдэг;түүх цадиг&lt;хорш&gt;,цадиг намтар&lt;хорш&gt;.</definition>
+      <page>779</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠳᠢᠭ</unicode>
+      <cyrillic>цадиг /2</cyrillic>
+      <definition>хир чинээ, хэм хэмжээ; чи цадигаа мэдэж явах хэрэгтэй шүү, нөхөр минь!</definition>
+      <page>780</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4670">
+  <head>
+    <unicode>ᠰᠢᠷᠪᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sirbaγulqu</transcript>
+    <transcript2>sirbagolgo</transcript2>
+    <cyrillic>шарвуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S4669</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠷᠪᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шарвуулах</cyrillic>
+      <definition>〔动〕шарвах 的使动态.</definition>
+      <page>1622</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠷᠪᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАРВУУЛАХ</cyrillic>
+      <definition>шарвах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шарвуулах</cyrillic>
+      <definition>Kaus von шарвах</definition>
+      <page>381</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠷᠪᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шарвуулах</cyrillic>
+      <definition>шарвахын үйлдүүлэх хэв.</definition>
+      <page>839</page>
+    </entry_item>
+  </entries>
+</entry>

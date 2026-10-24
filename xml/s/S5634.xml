@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5634">
+  <head>
+    <unicode>ᠱᠣᠪᠲᠣᠶᠢᠬᠣ</unicode>
+    <transcript>šubtuyiqu</transcript>
+    <transcript2>sobdoyigo</transcript2>
+    <cyrillic>шувтайх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5636</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠤᠪᠲᠤᠢᠬᠤ</unicode>
+      <cyrillic>шувтайх</cyrillic>
+      <definition>〔动〕变瘦，消瘦，成上宽下窄状，成上粗下细状.</definition>
+      <page>1655</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠪᠲᠣᠶᠢᠬᠣ</unicode>
+      <cyrillic>ШУВТАЙХ</cyrillic>
+      <definition>сужаться книзу и расширяться кверху, быть узким внизу и широким вверху. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шувтайх</cyrillic>
+      <definition>trichterförmig werden</definition>
+      <page>391</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠤᠪᠲᠤᠢᠬᠤ</unicode>
+      <cyrillic>шувтайх</cyrillic>
+      <definition>шувтгар, шувтан болох.</definition>
+      <page>857</page>
+    </entry_item>
+  </entries>
+</entry>

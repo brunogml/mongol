@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3437">
+  <head>
+    <unicode>ᠲᠠᠪᠠᠷᠢ</unicode>
+    <transcript>teberi</transcript>
+    <transcript2>deberi</transcript2>
+    <cyrillic>тэвэр</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠪᠠᠷᠢ</unicode>
+      <uighur>teberi</uighur>
+      <cyrillic>тэвэр</cyrillic>
+      <transcript>TEBERI</transcript>
+      <definition>n. Embrace, clasp, armful,</definition>
+      <page>790</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠪᠠᠷᠢ ᠎ᠶᠢᠨ ᠺᠡᠮᠵᠢᠶ᠎ᠡ</unicode>
+          <transcript>-- jin kemzij-e</transcript>
+          <definition> An armful, as much as one can embrace and carry in both arms.</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠢᠭᠡᠨ ᠲᠠᠪᠠᠷᠢ ᠡᠪᠡᠰᠦ</unicode>
+          <transcript>nigen -- ebesy</transcript>
+          <definition> An armful of hay.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠡᠪᠡᠷᠢ</unicode>
+      <definition>sein, coeur.</definition>
+      <page>1700</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠢᠭᠡᠨ ᠳᠡᠪᠡᠷᠢ ᠡᠪᠡᠰᠦᠨ</unicode>
+          <definition>une botte de foin</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠪᠡᠷᠢ ᠎ᠶᠢᠨ ᠺᠡᠮᠵᠢᠶ᠎ᠡ</unicode>
+          <definition>une brassée</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠡᠪᠡᠷᠢ</unicode>
+      <cyrillic>тэвэр</cyrillic>
+      <definition>〔量〕一抱：нэг ~ түлээ 一抱柴禾；~ өвс 一抱草；~ дүүрэн 满满一抱.</definition>
+      <page>1147</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠪᠠᠷᠢ</unicode>
+      <cyrillic>ТЭВЭР</cyrillic>
+      <definition>1) охапка; тэвэр дүүрэн полная охапка; тэвэр өвс охапка сена; 2) объятие. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠪᠡᠷᠢ</unicode>
+      <cyrillic>тэвэр</cyrillic>
+      <definition>хүний нэг гар буюу хоёр гараар тэврэн барих хэмжээний юм: нэг тэвэр түлээ.</definition>
+      <page>572</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1729">
+  <head>
+    <unicode>ᠣᠯᠢᠶᠠᠰᠣ</unicode>
+    <transcript>uliyasu</transcript>
+    <transcript2>oliyaso</transcript2>
+    <cyrillic>улиас</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠯᠢᠶᠠᠰᠣ ~ ᠤᠯᠢᠶᠠᠰᠤᠨ</unicode>
+      <uighur>uliyasu - uliyasun</uighur>
+      <cyrillic>улиас(ан)</cyrillic>
+      <transcript>ULIJASU(N)</transcript>
+      <definition>n. Poplar; aspen.</definition>
+      <page>873</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠯᠢᠶᠠᠰᠣᠨ ᠣᠢ</unicode>
+          <transcript>--n oi</transcript>
+          <definition> Poplar grove.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠣᠷᠤ ᠣᠯᠢᠶᠠᠰᠣ</unicode>
+          <transcript>boru -- </transcript>
+          <definition> Poplar tree (Populus suaveolens).</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠢᠷ᠎ᠠ ᠣᠯᠢᠶᠠᠰᠣ</unicode>
+          <transcript>sir-a -- </transcript>
+          <definition> Box-wood.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠯᠢᠶᠠᠰᠤᠨ ~ ᠣᠯᠢᠶᠠᠰᠤ</unicode>
+      <definition>tremble, peuplier tremble (populus tremula].</definition>
+      <page>402</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠣᠯᠢᠶᠠᠰᠣ</unicode>
+      <uighur>uliyasun</uighur>
+      <definition>die Espe, Zitterpappel</definition>
+      <page>53</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠣᠯᠢᠶᠠᠰᠣ</unicode>
+      <uighur>uliyasu</uighur>
+      <definition>(oo) The aspen-tree. The trembling poplar.</definition>
+      <page>206</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠯᠢᠶᠠᠰᠣ</unicode>
+      <cyrillic>УЛИАС(АН)</cyrillic>
+      <definition>1. ург. осљна; тополь лавролљстный; тополь белый; бор улиас ург. тополь серый; 2. осљновый; улиасан гадас шаах вогнать осљновый кол; улиасан ой осљнник. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠯᠢᠶᠠᠰᠣ</unicode>
+      <cyrillic>УЛИАСАН</cyrillic>
+      <definition>улиас 2.-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>улиас[ан]</cyrillic>
+      <definition>Bot Espe f</definition>
+      <page>255</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠯᠢᠶᠠᠰᠤ᠊ᠨ</unicode>
+      <cyrillic>улиас</cyrillic>
+      <definition>&lt;ургамал&gt;бургасны төрлийн навчит мод, өндөр ургана.</definition>
+      <page>590</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>U1730</ref>
+    <ref>U1731</ref>
+  </derivatives>
+</entry>

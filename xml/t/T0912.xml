@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0912">
+  <head>
+    <unicode>ᠲᠠᠬᠵᠢᠯᠵᠠᠬᠣ</unicode>
+    <transcript>taqǰilǰaqu</transcript>
+    <transcript2>dagcilcago</transcript2>
+    <cyrillic>тагжилзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T0913</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠭᠵᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>тагжилзах</cyrillic>
+      <definition>〔动〕参见 тагжганах.</definition>
+      <page>1010</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠬᠵᠢᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ТАГЖИЛЗАХ</cyrillic>
+      <definition>тагжганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тагжилзах</cyrillic>
+      <definition>= тажганах</definition>
+      <page>215</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠭᠵᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>тагжилзах</cyrillic>
+      <definition>тагжгар юмны байн байн хөдлөх.</definition>
+      <page>513</page>
+    </entry_item>
+  </entries>
+</entry>

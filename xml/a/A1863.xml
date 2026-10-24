@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A1863">
+  <head>
+    <unicode>ᠠᠰᠬᠠᠷᠠᠭᠣᠯᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>asqaraγulaγdaqu</transcript>
+    <transcript2>asgaragolagdago</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠰᠬᠠᠷᠠᠭᠤᠯᠤᠬᠳᠠᠬᠤ</unicode>
+      <definition>être répandu, être versé, couler</definition>
+      <page>56</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠠᠰᠬᠠᠷᠠᠭᠣᠯᠠᠬᠳᠠᠬᠣ</unicode>
+      <uighur>asqaraγulaqdaqu</uighur>
+      <definition>ausgegossen werden, vergossen werden.</definition>
+      <page>21</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠠᠰᠬᠠᠷᠠᠭᠣᠯᠠᠬᠳᠠᠬᠣ</unicode>
+      <uighur>asqaraqu</uighur>
+      <definition>v.i. To pour itself out. To gush forth. To discharge itself. To spill itself out.</definition>
+      <page>81</page>
+      <examples>
+        <example>
+          <uighur>asqaran uruqu</uighur>
+          <definition>v.i. The pouring down of rain</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

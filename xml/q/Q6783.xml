@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q6783">
+  <head>
+    <unicode>ᠬᠣᠷᠠᠭᠠᠯᠠᠬᠣ</unicode>
+    <transcript>quraγalaqu</transcript>
+    <transcript2>goragalago</transcript2>
+    <cyrillic>хургалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q6784</ref>
+    <ref>Q6785</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠷᠠᠭᠠᠯᠠᠬᠣ</unicode>
+      <uighur>quraγalaqu</uighur>
+      <cyrillic>хургалах</cyrillic>
+      <transcript>XURAΓALA-</transcript>
+      <definition>v.t. To lamb.</definition>
+      <page>987</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠷᠠᠭᠠᠯᠠᠬᠤ</unicode>
+      <definition>agneler, mettre bas</definition>
+      <page>954</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠷᠠᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>хургалах</cyrillic>
+      <definition>〔动〕绵羊产羔.</definition>
+      <page>1435</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠷᠠᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХУРГАЛАХ</cyrillic>
+      <definition>ягниться, окотиться (об овцах). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠷᠠᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>хургалах</cyrillic>
+      <definition>хонины хурга төрөх; хонь хургалах.</definition>
+      <page>732</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q6780</ref>
+  </related_to>
+</entry>

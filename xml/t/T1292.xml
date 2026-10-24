@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1292">
+  <head>
+    <unicode>ᠳᠠᠪᠴᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>dabčidaγulqu</transcript>
+    <transcript2>dabcidagolgo</transcript2>
+    <cyrillic>давчдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T1290</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠪᠴᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>давчдуулах</cyrillic>
+      <definition>〔动〕давчдах 的使动态.</definition>
+      <page>370</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠪᠴᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДАВЧДУУЛАХ</cyrillic>
+      <definition>давчдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>давчдуулах</cyrillic>
+      <definition>Kaus von давчдах</definition>
+      <page>88</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠪᠴᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>давчдуулах</cyrillic>
+      <definition>давчдахын үйлдүүлэх хэв.</definition>
+      <page>178</page>
+    </entry_item>
+  </entries>
+</entry>

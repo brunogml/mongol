@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1296">
+  <head>
+    <unicode>ᠴᠠᠷᠳᠠᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>čerdegenekü</transcript>
+    <transcript2>cerdegenegö</transcript2>
+    <cyrillic>цэрдэгнэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1297</ref>
+    <ref>C1295</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠷᠳᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>цэрдэгнэх</cyrillic>
+      <definition>〔动〕小而肚大的动物摇动、晃动、走动.</definition>
+      <page>1566</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠷᠳᠠᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>ЦЭРДЭГНЭХ</cyrillic>
+      <definition>двигаться, шевелиться (напр. о большом животе). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠷᠳᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>цэрдэгнэх</cyrillic>
+      <definition>цэрдгэр юмны үргэлжлэн цэрдэг цэрдэг хөдлөх.</definition>
+      <page>807</page>
+    </entry_item>
+  </entries>
+</entry>

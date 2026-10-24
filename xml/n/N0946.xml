@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N0946">
+  <head>
+    <unicode>ᠨᠠᠪᠲᠠᠯᠺᠥ</unicode>
+    <transcript>nebtelkü</transcript>
+    <transcript2>nebdelgö</transcript2>
+    <cyrillic>нэвтлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>N0944</ref>
+  </derivatives>
+  <see_also>
+    <ref>N0939</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠨᠠᠪᠲᠠᠯᠺᠥ</unicode>
+      <uighur>nebdelkü</uighur>
+      <cyrillic>нэвтлэх</cyrillic>
+      <transcript>NEBTEL-</transcript>
+      <definition>v.t. and i. To break through, pierce, pass through, penetrate; to breach through, chisel through.</definition>
+      <page>567</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠠᠪᠲᠠᠯᠵᠦ ᠴᠣᠭᠤᠯᠬᠤ</unicode>
+          <transcript>--zy coγulxu </transcript>
+          <definition>To pierce through</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠠᠪᠲᠠᠯᠺᠵᠦ ᠺᠡᠯᠡᠺᠦ</unicode>
+          <transcript>--zy keleky</transcript>
+          <definition> To explain thoroughly, fully.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠡᠪᠲᠡᠯᠬᠦ</unicode>
+      <cyrillic>нэвтлэх</cyrillic>
+      <definition>〔动〕打通，穿透，浸透；越过：шөвгөөр ~ 用锥子穿透；уулыг ~ 翻山，过山；бороо дээлийг ~ээр оров 雨把衣服淋透了.</definition>
+      <page>769</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠡᠪᠲᠡᠯᠬᠦ</unicode>
+      <cyrillic>нэвтлэх</cyrillic>
+      <definition>юмыг цаад этгээдэд гартал хийх үйлдэх; шөвгөөр нэвтлэх; уулыг нэвтлэх; бороо дээлийг нэвтлэхээр оров.</definition>
+      <page>395</page>
+    </entry_item>
+  </entries>
+</entry>

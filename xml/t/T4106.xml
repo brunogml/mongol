@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T4106">
+  <head>
+    <unicode>ᠲᠠᠮᠠᠺᠠᠵᠢᠺᠥᠯᠺᠥ</unicode>
+    <transcript>temegeǰigülkü</transcript>
+    <transcript2>demegecigölgö</transcript2>
+    <cyrillic>тэмээжүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T4105</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠡᠮᠡᠭᠡᠵᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>тэмээжүүлэх</cyrillic>
+      <definition>〔动〕тэмээжих 的使动态.</definition>
+      <page>1155</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠮᠠᠺᠠᠵᠢᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ТЭМЭЭЖҮҮЛЭХ</cyrillic>
+      <definition>тэмээжих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠮᠡᠭᠡᠵᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>тэмээжүүлэх</cyrillic>
+      <definition>тэмээжихийн үйлдүүлэх хэв.</definition>
+      <page>576</page>
+    </entry_item>
+  </entries>
+</entry>

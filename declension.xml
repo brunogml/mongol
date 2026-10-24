@@ -1,0 +1,231 @@
+<list>
+<item>
+<category>verb</category>
+<class>Imperative</class>
+<name>Imperative</name>
+<meaning>...!</meaning>
+<rule></rule>
+<level>1</level>
+</item>
+
+<item>
+<category>verb</category>
+<class>Imperative</class>
+<name>Imperative of the second person</name>
+<meaning>Please ...!</meaning>
+<rule>(u)qtun/(ü)gtün</rule>
+<level>1</level>
+</item>
+
+<item>
+<category>verb</category>
+<class>Imperative</class>
+<name>Imperative of the second person</name>
+<rule>(u)qtui/(ü)gtüi</rule>
+<level>2</level>
+</item>
+
+<item>
+<category>verb</category>
+<class>Imperative</class>
+<name>Prescriptive</name>
+<meaning>...!</meaning>
+<rule>(u)γarai/(ü)gerei</rule>
+<level>1</level>
+</item>
+
+<item>
+<category>verb</category>
+<class>Imperative</class>
+<name>Order to be executed by a third person</name>
+<meaning>He must ...!</meaning>
+<rule>tuγai/tügei</rule>
+<level>1</level>
+</item>
+
+<item>
+<category>verb</category>
+<class>Imperative</class>
+<name>Voluntative</name>
+<meaning>Let me ...!</meaning>
+<rule>suγai/sügei</rule>
+<level>1</level>
+</item>
+
+<item>
+<category>verb</category>
+<class>Imperative</class>
+<name>Voluntative of the first person of the plural</name>
+<meaning>Let us ...!</meaning>
+<rule>(u)y-a/(ü)y-e</rule>
+<level>1</level>
+</item>
+
+<item>
+<category>verb</category>
+<class>Imperative</class>
+<name>Optative</name>
+<meaning>Ah, if he ...!</meaning>
+<rule>(u)γasai/(ü)gesei</rule>
+<level>1</level>
+</item>
+
+<item>
+<category>verb</category>
+<class>Imperative</class>
+<name>Dubitative</name>
+<meaning>What if he ...?</meaning>
+<rule>(u)γujai/(ü)güjei</rule>
+<level>1</level>
+</item>
+
+<item>
+<category>verb</category>
+<class>Indicative</class>
+<name>Present</name>
+<meaning></meaning>
+<rule>(u)mui/(ü)müi</rule>
+<level>1</level>
+</item>
+
+<item>
+<category>verb</category>
+<class>Indicative</class>
+<name>Present</name>
+<meaning></meaning>
+<rule>(u)nam/(ü)nem</rule>
+<level>2</level>
+</item>
+
+<item>
+<category>verb</category>
+<class>Indicative</class>
+<name>Deductive present</name>
+<meaning>Hence he ...</meaning>
+<rule>(u)yu/(ü)yü</rule>
+<level>1</level>
+</item>
+
+<item>
+<category>verb</category>
+<class>Indicative</class>
+<name>Past tense</name>
+<meaning></meaning>
+<rule>ba/be</rule>
+<level>1</level>
+</item>
+
+<item>
+<category>verb</category>
+<class>Indicative</class>
+<name>Past tense</name>
+<meaning></meaning>
+<rule>(u)luγa/(ü)lüge</rule>
+<level>1</level>
+</item>
+
+<item>
+<category>verb</category>
+<class>Indicative</class>
+<name>Past tense</name>
+<meaning></meaning>
+<rule>juqui/jüküi</rule>
+<level>1</level>
+</item>
+
+
+
+
+<item>
+<category>verb</category>
+<class>Verbal nouns</class>
+<name>Nomen actoris</name>
+<meaning>The one who ...</meaning>
+<rule>(u)qci/(ü)gci</rule>
+<level>1</level>
+</item>
+
+<item>
+<category>verb</category>
+<class>Verbal nouns</class>
+<name>Nomen actoris</name>
+<meaning>The one who ...</meaning>
+<rule>(u)qcin/(ü)gcin</rule>
+<level>2</level>
+</item>
+
+<item>
+<category>verb</category>
+<class>Verbal nouns</class>
+<name>Nomen usus </name>
+<meaning>He susually ...</meaning>
+<rule>(u)daq/(ü)deg</rule>
+<level>1</level>
+</item>
+
+<item>
+<category>verb</category>
+<class>Verbal nouns</class>
+<name>Nomen futuri</name>
+<meaning>The one who will ...</meaning>
+<rule>qu/kü</rule>
+<level>1</level>
+</item>
+
+<item>
+<category>verb</category>
+<class>Verbal nouns</class>
+<name>Nomen futuri 2</name>
+<meaning>The process of ...ing</meaning>
+<rule>qui/küi</rule>
+<level>1</level>
+</item>
+
+<item>
+<category>verb</category>
+<class>Verbal nouns</class>
+<name>Nomen imperfecti</name>
+<meaning>Still ...ing</meaning>
+<rule>ga/ge</rule>
+<level>1</level>
+</item>
+
+<item>
+<category>verb</category>
+<class>Verbal nouns</class>
+<name>Nomen imperfecti</name>
+<meaning></meaning>
+<rule>gai/gei</rule>
+<level>2</level>
+</item>
+
+<item>
+<category>verb</category>
+<class>Verbal nouns</class>
+<name>Nomen perfecti</name>
+<meaning>The one who has ...</meaning>
+<rule>(u)gsan/(ü)gsen</rule>
+<level>1</level>
+</item>
+
+
+
+<item>
+<category>verb</category>
+<class>Converbs</class>
+<name>converbum conditionale</name>
+<meaning>If he ...</meaning>
+<rule>(u)basu/(ü)besü</rule>
+<level>1</level>
+</item>
+
+<item>
+<category>verb</category>
+<class>Converbs</class>
+<name>converbum concessivum</name>
+<meaning>Although he ...</meaning>
+<rule>(u)bacu/(ü)becü</rule>
+<level>1</level>
+</item>
+
+</list>

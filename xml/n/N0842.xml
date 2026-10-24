@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N0842">
+  <head>
+    <unicode>ᠨᠠᠷᠢᠳᠠᠬᠣ</unicode>
+    <transcript>naridaqu</transcript>
+    <transcript2>naridago</transcript2>
+    <cyrillic>нарийдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>N0843</ref>
+    <ref>N0844</ref>
+  </derivatives>
+  <see_also>
+    <ref>N0848</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠷᠢᠳᠠᠬᠣ</unicode>
+      <cyrillic>НАРИЙДАХ</cyrillic>
+      <definition>быть тоньше, уже чем надо, быть чрезмерно тонким, узким, оказываться слишком узким; становиться тонким, утончаться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠠᠷᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>нарийдах</cyrillic>
+      <definition>хэтэрхий нарийн болох, нарийны учир тохиромжгүйдэх.</definition>
+      <page>370</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠠᠷᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>нарьдах</cyrillic>
+      <definition>нарийдах.</definition>
+      <page>371</page>
+    </entry_item>
+  </entries>
+</entry>

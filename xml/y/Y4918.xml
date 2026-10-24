@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4918">
+  <head>
+    <unicode>ᠶᠣᠷᠳᠣᠯᠵᠠᠬᠣ</unicode>
+    <transcript>yordulǰaqu</transcript>
+    <transcript2>yordolcago</transcript2>
+    <cyrillic>ёрдолзох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y4919</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠣᠷᠳᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>ёрдолзох</cyrillic>
+      <definition>〔动〕时时突现，时时凸出，不时竖起；时时探露.</definition>
+      <page>493</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠣᠷᠳᠣᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ЁРДОЛЗОХ</cyrillic>
+      <definition>то и дело высовываться, мелькать (о чём-н. остроконечном). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠣᠷᠳᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>ёрдолзох</cyrillic>
+      <definition>ёрдгор юмны ёрдос ёрдос хөдлөх.</definition>
+      <page>237</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4878">
+  <head>
+    <unicode>ᠱᠣᠣᠺᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šoukiraγulqu</transcript>
+    <transcript2>soogiragolgo</transcript2>
+    <cyrillic>шуухируулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S4877</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠤᠤᠬᠢᠷᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шуухируулах</cyrillic>
+      <definition>〔动〕шуухирах 的使动态.</definition>
+      <page>1664</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠣᠺᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШУУХИРУУЛАХ</cyrillic>
+      <definition>шуухирах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠤᠤᠬᠢᠷᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шуухируулах</cyrillic>
+      <definition>шуухирахын үйлдуулэх хэв.</definition>
+      <page>861</page>
+    </entry_item>
+  </entries>
+</entry>

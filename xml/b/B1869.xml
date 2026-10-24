@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1869">
+  <head>
+    <unicode>ᠪᠠᠺᠠᠪᠠᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>begebegenegülkü</transcript>
+    <transcript2>begebegenegölgö</transcript2>
+    <cyrillic>бээвгэнүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>B1868</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠺᠠᠪᠠᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>БЭЭВГЭНҮҮЛЭХ</cyrillic>
+      <definition>бээвгэнэх-ийн үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠡᠭᠡᠪᠡᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бээвэгнүүлэх</cyrillic>
+      <definition>бээвэгнүүлэхийн үйлдүүлэх хэв.</definition>
+      <page>124</page>
+    </entry_item>
+  </entries>
+</entry>

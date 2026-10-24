@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q5254">
+  <head>
+    <unicode>ᠬᠣᠲᠣᠭᠣᠷ</unicode>
+    <transcript>qotuγur</transcript>
+    <transcript2>godogor</transcript2>
+    <cyrillic>хотгор</cyrillic>
+  </head>
+  <see_also>
+    <ref>Q5410</ref>
+    <ref>Q5255</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠲᠣᠭᠣᠷ</unicode>
+      <uighur>qodoγur</uighur>
+      <cyrillic>хотгор</cyrillic>
+      <transcript>XOTUΓUR</transcript>
+      <definition>adj. and n. Concave, hollow; declivity</definition>
+      <page>972</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠲᠣᠭᠣᠷ ᠭᠠᠵᠠᠷ</unicode>
+          <transcript>-- γazar</transcript>
+          <definition> Lowland, valley, hollow place</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠳᠣᠭᠣᠷ</unicode>
+      <definition>(terrain) bas, profond. etc.</definition>
+      <page>917</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠳᠣᠭᠣᠷ ᠭᠠᠵᠠᠷ</unicode>
+          <definition>terrain bas, vallée, chemin creux, ravin</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠳᠣᠭᠣᠷ ᠰᠠᠷᠠᠲᠤ ᠰᠢᠷᠭ᠎ᠠ</unicode>
+          <definition>cheval couleur isabelle pommé</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠲᠣᠭᠣᠷ</unicode>
+      <cyrillic>ХОТГОР</cyrillic>
+      <definition>1. лощина, впадина; углубление, выемка, низменность; котловина; хотгор газар впадина, лощина; хотгор гүдгэр хорш. рельеф; хотгор гүдгэр чанар рельефность; 2. вогнутый, прогнутый в середине; вдавленный; хотгор нуруутай морь лошадь с прогнутой (вогнутой) спиной; хотгор хамар седлообразный нос. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠲᠣᠭᠣᠷ</unicode>
+      <cyrillic>хотгор</cyrillic>
+      <definition>гүдгэрийн эсрэг утга, юмны хэвийн жишээнээе доош хотойсны нь; хонхор хотгор газар; хотгор нуруутай морь.</definition>
+      <page>698</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>Q5256</ref>
+    <ref>Q5258</ref>
+  </derivatives>
+</entry>

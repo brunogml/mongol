@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2900">
+  <head>
+    <unicode>ᠴᠣᠳᠣᠭᠣᠨᠠᠬᠣ</unicode>
+    <transcript>čoduγunaqu</transcript>
+    <transcript2>codogonago</transcript2>
+    <cyrillic>цодгонох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C2901</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠣᠳᠣᠭᠣᠨᠠᠬᠤ</unicode>
+      <cyrillic>цодгонох</cyrillic>
+      <definition>〔动〕（矮而腹大物）不断动作.</definition>
+      <page>1530</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠳᠣᠭᠣᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЦОДГОНОХ</cyrillic>
+      <definition>цодойх-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цодгонох</cyrillic>
+      <definition>= цодолзох</definition>
+      <page>355</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠣᠳᠣᠭᠣᠨᠠᠬᠤ</unicode>
+      <cyrillic>цодгонох</cyrillic>
+      <definition>цодгор юмны үргэлжлэн хөдлөх.</definition>
+      <page>788</page>
+    </entry_item>
+  </entries>
+</entry>

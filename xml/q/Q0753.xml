@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0753">
+  <head>
+    <unicode>ᠬᠠᠭᠣᠴᠢᠷᠳᠠᠬᠣ</unicode>
+    <transcript>qaγučirdaqu</transcript>
+    <transcript2>gagocirdago</transcript2>
+    <cyrillic>хуучирдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q0754</ref>
+    <ref>Q0755</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠭᠤᠴᠢᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>хуучирдах</cyrillic>
+      <definition>〔动〕拉胡琴.</definition>
+      <page>1446</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠭᠣᠴᠢᠷᠳᠠᠬᠣ</unicode>
+      <cyrillic>ХУУЧИРДАХ</cyrillic>
+      <definition>играть на хучире. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хуучирдах</cyrillic>
+      <definition>Mus auf der Chuutschir spielen</definition>
+      <page>332</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠭᠤᠴᠢᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>хуучирдах</cyrillic>
+      <definition>хуучир хөгжмөөр хөгжимдөх.</definition>
+      <page>740</page>
+    </entry_item>
+  </entries>
+</entry>

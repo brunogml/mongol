@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4650">
+  <head>
+    <unicode>ᠪᠥᠺᠠᠲᠠᠯᠠ</unicode>
+    <transcript>bögetele</transcript>
+    <transcript2>bögedele</transcript2>
+    <cyrillic>бөгөөтөл</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠥᠺᠠᠲᠠᠯ᠎ᠡ</unicode>
+      <uighur>bügetel-e</uighur>
+      <cyrillic>бөгөөтөл</cyrillic>
+      <transcript>BYGETEL-E</transcript>
+      <definition>[term. con-v. of by-, to be] While, whereas, although ... but.</definition>
+      <page>144</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠯᠺᠢᠨ ᠲᠠᠢ ᠪᠥᠺᠠᠲᠠᠯ᠎ᠡ ᠳᠤᠯᠠᠭᠠᠨ</unicode>
+          <transcript>salkin tai -- dulaγan</transcript>
+          <definition> It is warm, although windy.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠶᠢᠮᠦ ᠪᠥᠺᠠᠲᠠᠯ᠎ᠡ</unicode>
+          <transcript>teimy --</transcript>
+          <definition> Although it is or was so.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠦᠺᠡᠳᠡᠯᠡ</unicode>
+      <definition>tandis que, tant que</definition>
+      <page>1243</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠭᠡᠲᠡᠯ᠎ᠡ</unicode>
+      <cyrillic>бөгөөтөл</cyrillic>
+      <definition>〔连〕尽管…，但是…即便…，也…当…时，却…：салхитай ~ дулаан 尽管有风，但还是暖和；тарган мах ~ амтгүй 虽是肥肉，却没有滋味.</definition>
+      <page>184</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠺᠠᠲᠠᠯᠠ</unicode>
+      <cyrillic>БӨГӨӨТӨЛ</cyrillic>
+      <definition>хотя... , но... , несмотря на...; салхитай бөгөөтлөө дулаан хотя и ветер, но тепло.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бөгөөтөл</cyrillic>
+      <definition>Konj obwohl; нартай ~ дулаан биш obwohl die Sonne scheint, ist es nicht warm</definition>
+      <page>58</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠥᠭᠡᠲᠡᠯ᠎ᠡ</unicode>
+      <cyrillic>бөгөөтөл</cyrillic>
+      <definition>байтал, атал, мөртлөө; тарган мах бөгөөтөл амтгүй; нартай бөгөөтөл дулаан биш.</definition>
+      <page>96</page>
+    </entry_item>
+  </entries>
+</entry>

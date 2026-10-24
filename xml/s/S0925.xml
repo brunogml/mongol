@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0925">
+  <head>
+    <unicode>ᠱᠠᠯᠠᠯᠠᠬᠣ</unicode>
+    <transcript>šalalaqu</transcript>
+    <transcript2>salalago</transcript2>
+    <cyrillic>шаллах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S0927</ref>
+    <ref>S0930</ref>
+  </derivatives>
+  <see_also>
+    <ref>S0924</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠯᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>шаллах</cyrillic>
+      <definition>〔动〕①铺地板；整铺（室内）地面；②铺路：зам ~ 铺路.</definition>
+      <page>1614</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠯᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ШАЛЛАХ</cyrillic>
+      <definition>шалдах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠯᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>шаллах</cyrillic>
+      <definition>шал хийх, шалтай болох; байшин шаллах; зам шаллах; чулуугаар шаллах.</definition>
+      <page>834</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0386">
+  <head>
+    <unicode>ᠴᠠᠲᠣ</unicode>
+    <transcript>čatu</transcript>
+    <transcript2>cado</transcript2>
+    <cyrillic>цаат</cyrillic>
+  </head>
+  <see_also>
+    <ref>C0387</ref>
+    <ref>C0378</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠲᠤ</unicode>
+      <cyrillic>цаат</cyrillic>
+      <definition>〔形〕有驯鹿的.</definition>
+      <page>1507</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠲᠣ</unicode>
+      <cyrillic>ЦААТ</cyrillic>
+      <definition>имеющий северного оленя. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цаат,</cyrillic>
+      <definition>цаатай Rentiere habend od besitzend</definition>
+      <page>349</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠲᠤ</unicode>
+      <cyrillic>цаат</cyrillic>
+      <definition>цаа гөрөөс бүхий.</definition>
+      <page>775</page>
+    </entry_item>
+  </entries>
+</entry>

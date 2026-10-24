@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y4180">
+  <head>
+    <unicode>ᠵᠣᠰᠣᠲᠣ</unicode>
+    <transcript>ǰusutu</transcript>
+    <transcript2>yosodo</transcript2>
+  </head>
+  <see_also>
+    <ref>Y4179</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠣᠰᠣᠳᠤ</unicode>
+      <definition>argileux.</definition>
+      <page>2383</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠣᠰᠣᠳᠤ ᠠᠭᠤᠯᠠ</unicode>
+          <definition>montagne d'argile rouge</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠣᠰᠣᠳᠤ ᠲᠠᠯᠠ</unicode>
+          <definition>une vallée dont le sol est rouge</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

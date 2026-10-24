@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4031">
+  <head>
+    <unicode>ᠰᠢᠯᠲᠥᠺᠥᠨᠠᠺᠥ</unicode>
+    <transcript>siltügünekü</transcript>
+    <transcript2>sildögönegö</transcript2>
+    <cyrillic>шилтгэнэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S4030</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠯᠲᠥᠺᠥᠨᠠᠺᠥ</unicode>
+      <uighur>sildügünekü</uighur>
+      <cyrillic>шилтгэнэх</cyrillic>
+      <transcript>SILTYGYNE-</transcript>
+      <definition>v.i. To be servile, fawn.</definition>
+      <page>707</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠯᠲᠥᠺᠥᠨᠠᠨ ᠬᠠᠯᠲᠤᠭᠤᠨᠠᠨ</unicode>
+          <transcript>--n xaltuγunan</transcript>
+          <definition> In a servile manner; helpfully, readily</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠯᠲᠦᠭᠦᠨᠡᠬᠦ</unicode>
+      <cyrillic>шилтгэнэх</cyrillic>
+      <definition>〔动〕表现亲切，恳切，客气：~н халтганан 亲切地，恳切地.</definition>
+      <page>1635</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠯᠲᠥᠺᠥᠨᠠᠺᠥ</unicode>
+      <cyrillic>ШИЛТГЭНЭХ</cyrillic>
+      <definition>быть слишком вежливым, любезным; шилтгэнэн халтганан хорш. любезно, вежливо, радушно, приветливо; с готовностью, предупредительно. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠯᠲᠦᠭᠦᠨᠡᠬᠦ</unicode>
+      <cyrillic>шилтгэнэх</cyrillic>
+      <definition>элэгсэг, найртай зан байдал гаргах.</definition>
+      <page>847</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠯᠲᠦᠭᠦᠨᠡᠬᠦ</unicode>
+      <cyrillic>шүлтэгнэх</cyrillic>
+      <definition>тэсгэлгүн элэгсэг байдал гарган аашлах.</definition>
+      <page>862</page>
+    </entry_item>
+  </entries>
+</entry>

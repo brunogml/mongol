@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1890">
+  <head>
+    <unicode>ᠣᠯᠴᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>ulčalǰaqu</transcript>
+    <transcript2>olcalcago</transcript2>
+    <cyrillic>улцалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U1891</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠯᠴᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>улцалзах</cyrillic>
+      <definition>〔动〕参见 улцганах.</definition>
+      <page>1188</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠯᠴᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>УЛЦАЛЗАХ</cyrillic>
+      <definition>улцганах-ыг үз., уйланхай мэт улцалзах слизнуть как пузырь. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>улцалзах</cyrillic>
+      <definition>= улцганах</definition>
+      <page>256</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠯᠴᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>улцалзах</cyrillic>
+      <definition>1. улцгар юмны улцас улцас хийж хөдлөх; уйланхай мэт улцалзах;2. улцан юмны хөдлөх, аашлах; улцвалзах.</definition>
+      <page>592</page>
+    </entry_item>
+  </entries>
+</entry>

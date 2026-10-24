@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y2584">
+  <head>
+    <unicode>ᠵᠢᠬᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>ǰiqalǰaqu</transcript>
+    <transcript2>yigalcago</transcript2>
+    <cyrillic>жийхалзах</cyrillic>
+  </head>
+  <see_also>
+    <ref>Y2585</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠬᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>жийхалзах</cyrillic>
+      <definition>〔动〕参见 жийтганах.</definition>
+      <page>509</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠬᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ЖИЙХАЛЗАХ</cyrillic>
+      <definition>жийхганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠬᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>жийхалзах</cyrillic>
+      <definition>жийхгар юмны байн байн хөдлөх байдал.</definition>
+      <page>246</page>
+    </entry_item>
+  </entries>
+</entry>

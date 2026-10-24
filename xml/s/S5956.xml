@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5956">
+  <head>
+    <unicode>ᠰᠣᠯᠵᠢᠷᠳᠠᠬᠣ</unicode>
+    <transcript>solǰirdaqu</transcript>
+    <transcript2>solcirdago</transcript2>
+    <cyrillic>солжирдох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5958</ref>
+    <ref>S5959</ref>
+  </derivatives>
+  <see_also>
+    <ref>S5957</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠯᠵᠢᠷᠳᠠᠬᠣ</unicode>
+      <cyrillic>СОЛЖИРДОХ</cyrillic>
+      <definition>отвалиться (об одном из двух рогов). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>солжирдох</cyrillic>
+      <definition>= солжийх</definition>
+      <page>199</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠯᠵᠢᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>солжирдох</cyrillic>
+      <definition>өрөөсөлдөх, ижил хосгүйдэх.</definition>
+      <page>478</page>
+    </entry_item>
+  </entries>
+</entry>

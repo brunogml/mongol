@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2805">
+  <head>
+    <unicode>ᠣᠷᠣᠰᠵᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>orusǰiγulqu</transcript>
+    <transcript2>oroscigolgo</transcript2>
+    <cyrillic>оросжуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U2803</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠷᠣᠰᠵᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>оросжуулах</cyrillic>
+      <definition>〔动〕оросжих 的使动态.</definition>
+      <page>820</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠷᠣᠰᠵᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ОРОСЖУУЛАХ</cyrillic>
+      <definition>оросжих-ийн үйлдүүл., русифицировать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠷᠣᠰᠵᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>оросжуулах</cyrillic>
+      <definition>оросжихын үйлдүүлэх хэв.</definition>
+      <page>424</page>
+    </entry_item>
+  </entries>
+</entry>

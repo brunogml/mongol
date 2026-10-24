@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="ZI032">
+  <head>
+    <cyrillic>индекс</cyrillic>
+  </head>
+  <see_also>
+    <ref>ZI031</ref>
+    <ref>ZI033</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠨᠳᠧᠺᠰ</unicode>
+      <cyrillic>индекс</cyrillic>
+      <definition>〔名〕①指数（表）；率：~ийн арга 指数法；~ийн систем 指数系统；хэрэглээний үнийн ~ 消费价格指数；②目录，索引.</definition>
+      <page>616</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>индекс</cyrillic>
+      <definition>Index m, Kennziffer f</definition>
+      <page>134</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠨᠳ᠋ᠧᠺᠰ</unicode>
+      <cyrillic>индекс</cyrillic>
+      <definition>заалт, хэлхээ; нэрсийн индекс.</definition>
+      <page>305</page>
+    </entry_item>
+  </entries>
+</entry>

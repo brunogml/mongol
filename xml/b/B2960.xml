@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2960">
+  <head>
+    <unicode>ᠪᠣᠰᠬᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>busqaγulqu</transcript>
+    <transcript2>bosgagolgo</transcript2>
+    <cyrillic>бусгуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B2957</ref>
+  </related_to>
+  <see_also>
+    <ref>B2959</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠤᠰᠬᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бусгуулах</cyrillic>
+      <definition>〔动〕бусгах 的使动态.</definition>
+      <page>212</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠰᠬᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БУСГУУЛАХ</cyrillic>
+      <definition>бусгах-ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠰᠬᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бусгуулах</cyrillic>
+      <definition>1. бусгахын үйлдүүлэх хэв;2. бусгагдах.</definition>
+      <page>110</page>
+    </entry_item>
+  </entries>
+</entry>

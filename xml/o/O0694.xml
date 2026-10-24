@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O0694">
+  <head>
+    <unicode>ᠥᠰᠺᠥᠷᠠᠺᠥ</unicode>
+    <transcript>ösgürekü</transcript>
+    <transcript2>ösgöregö</transcript2>
+    <cyrillic>өсгөрөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>O0695</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠰᠬᠡᠷᠡᠬᠦ</unicode>
+      <cyrillic>өсгөрөх</cyrillic>
+      <definition>〔动〕参见 өтгөрөх.</definition>
+      <page>864</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠰᠺᠥᠷᠠᠺᠥ</unicode>
+      <cyrillic>ӨСГӨРӨХ</cyrillic>
+      <definition>өтгөрөх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠰᠥᠭᠷᠡᠬᠦ</unicode>
+      <cyrillic>өсгөрөх</cyrillic>
+      <definition>өтгөрөх.</definition>
+      <page>447</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1053">
+  <head>
+    <unicode>ᠴᠠᠮᠴᠠᠯᠵᠠᠺᠥ</unicode>
+    <transcript>čemčelǰekü</transcript>
+    <transcript2>cemcelcegö</transcript2>
+    <cyrillic>цэмцэлзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1054</ref>
+    <ref>C1052</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠮᠴᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>цэмцэлзэх</cyrillic>
+      <definition>〔动〕参见 цэмцэгнэх.</definition>
+      <page>1564</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠮᠴᠠᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>ЦЭМЦЭЛЗЭХ</cyrillic>
+      <definition>цэмцэгнэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠮᠴᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>цэмцэлзэх</cyrillic>
+      <definition>цэмцгэр юмны цэмцэс цэмцэс хөдлөх.</definition>
+      <page>806</page>
+    </entry_item>
+  </entries>
+</entry>

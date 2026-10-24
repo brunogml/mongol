@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K0727">
+  <head>
+    <unicode>ᠺᠠᠯᠠᠺᠳᠠᠺᠴᠢ</unicode>
+    <transcript>kelegdegči</transcript>
+    <transcript2>gelegdegci</transcript2>
+    <cyrillic>хэлэгдэгч</cyrillic>
+  </head><related_to>
+    <ref>K0728</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠠᠯᠠᠺᠳᠠᠺᠴᠢ</unicode>
+      <uighur>kelekdegči</uighur>
+      <cyrillic>хэлэгдэгч</cyrillic>
+      <transcript>KELEGDEGCI</transcript>
+      <definition>n. That which is spoken about; subject (gram.)</definition>
+      <page>447</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠩ ᠤᠨ ᠺᠠᠯᠠᠺᠳᠠᠺᠴᠢ</unicode>
+          <transcript>eng yn --</transcript>
+          <definition> Simple subject (gram.).</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠯᠡᠭᠳᠡᠭᠴᠢ</unicode>
+      <cyrillic>хэлэгдэгч</cyrillic>
+      <definition>〔名〕①被说者；②〈语〉所指叙述主体.</definition>
+      <page>1481</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S1024">
+  <head>
+    <unicode>ᠰᠠᠯᠭᠠᠰᠢ</unicode>
+    <transcript>salγasi</transcript>
+    <transcript2>salgasi</transcript2>
+    <cyrillic>салгаш</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠯᠭᠠᠰᠢ</unicode>
+      <uighur>salγasi</uighur>
+      <transcript>SALΓASI</transcript>
+      <page>665</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠯᠭᠠᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Inseparable, undetachable</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠯᠭᠠᠰᠢ</unicode>
+      <cyrillic>САЛГАШГҮЙ</cyrillic>
+      <definition>нераздельный, неразделимый. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

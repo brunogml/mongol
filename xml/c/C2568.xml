@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C2568">
+  <head>
+    <unicode>ᠴᠣᠬᠣ</unicode>
+    <transcript>čuqu</transcript>
+    <transcript2>cogo</transcript2>
+  </head><derivatives>
+    <ref>C2611</ref>
+  </derivatives><see_also>
+    <ref>C2567</ref>
+  
+    <ref>C2569</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠣᠬᠤ</unicode>
+      <definition>qui est d'une seule couleur</definition>
+      <page>2194</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠤᠬᠤ ᠬᠠᠷᠠ ᠮᠣᠷᠢᠨ</unicode>
+          <definition>cheval moreau</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠴᠣᠬᠣ</unicode>
+      <uighur>čuqu</uighur>
+      <definition>die Stirne; rein und unvermischt von Farbe.</definition>
+      <page>331</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4193">
+  <head>
+    <unicode>ᠰᠢᠵᠠᠯᠠᠬᠣ</unicode>
+    <transcript>siǰalaqu</transcript>
+    <transcript2>sicalago</transcript2>
+    <cyrillic>шазлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S4194</ref>
+    <ref>S4195</ref>
+    <ref>S4196</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠵᠠᠯᠠᠬᠣ</unicode>
+      <uighur>siǰalaqu</uighur>
+      <cyrillic>шазлах</cyrillic>
+      <transcript>SIZALA-</transcript>
+      <definition>v. t. To boil until soft; to stew; to scald.</definition>
+      <page>722</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠠᠷ ᠢᠶᠠᠨ ᠰᠢᠵᠠᠯᠠᠬᠣ</unicode>
+          <transcript>γar ijen --xu</transcript>
+          <definition> To scald one's hands.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠵᠠᠯᠠᠬᠤ</unicode>
+      <definition>amollir par la cuisson.</definition>
+      <page>1508</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠰᠢᠵᠠᠯᠠᠬᠣ</unicode>
+      <uighur>siǰalaqu</uighur>
+      <definition>v.t. To sca1d, to heat by placing in hot water.</definition>
+      <page>1464</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠵᠠᠯᠬᠤ</unicode>
+      <cyrillic>шазлах</cyrillic>
+      <definition>〔动〕①煮烂：мах ~ 将肉煮烂；②炼，熬；③烧；烫痛，灼痛：халуун усанд гараа ~ 手被热水烫疼了.</definition>
+      <page>1609</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠵᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ШАЗЛАХ</cyrillic>
+      <definition>разваривать, переваривать (мясо и т.д.). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шазлах</cyrillic>
+      <definition>= шалзлах</definition>
+      <page>377</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠵᠠᠯᠬᠤ</unicode>
+      <cyrillic>шазлах</cyrillic>
+      <definition>1. шаз болгох; мах шазлах;2. язлах, нялтлах;3. түлэх; халуун усанд гараа шазалж орхив.</definition>
+      <page>831</page>
+    </entry_item>
+  </entries>
+</entry>

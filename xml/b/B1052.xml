@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1052">
+  <head>
+    <unicode>ᠪᠠᠴᠢᠭᠣᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>bačiγudaγulqu</transcript>
+    <transcript2>bacigodagolgo</transcript2>
+    <cyrillic>бачуудуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B1050</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠴᠢᠭᠤᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бачуудуулах</cyrillic>
+      <definition>〔动〕бачуудах 的使动态.</definition>
+      <page>146</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠴᠢᠭᠣᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БАЧУУДУУЛАХ</cyrillic>
+      <definition>бачуудах-ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠴᠢᠭᠤᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бачуудуулах</cyrillic>
+      <definition>бачуудахын үйлдүүдэх хэв.</definition>
+      <page>81</page>
+    </entry_item>
+  </entries>
+</entry>

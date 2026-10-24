@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T4330">
+  <head>
+    <unicode>ᠳᠠᠺᠠᠴᠠᠺᠥ</unicode>
+    <transcript>degečekü</transcript>
+    <transcript2>degecegö</transcript2>
+    <cyrillic>дэгцэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T4331</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠡᠭᠡᠴᠡᠬᠦ</unicode>
+      <cyrillic>дэгцэх</cyrillic>
+      <definition>〔动〕单腿跳.</definition>
+      <page>467</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠺᠠᠴᠠᠺᠥ</unicode>
+      <cyrillic>ДЭГЦЭХ</cyrillic>
+      <definition>дэгэнцэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠭᠡᠴᠡᠬᠦ</unicode>
+      <cyrillic>дэгцэх</cyrillic>
+      <definition>дэгэх, догонцох; чөдөртэй морь дэгцэж яваа харагдана; хүүхэд дэгцэж наадав.</definition>
+      <page>224</page>
+    </entry_item>
+  </entries>
+</entry>

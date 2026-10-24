@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6500">
+  <head>
+    <unicode>ᠱᠥᠨᠲᠥᠶᠢᠯᠺᠠᠺᠥ</unicode>
+    <transcript>šöntüyilgekü</transcript>
+    <transcript2>söndöyilgegö</transcript2>
+    <cyrillic>шөнтийлгөх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠥᠨᠲᠥᠢᠯᠭᠡᠬᠦ</unicode>
+      <cyrillic>шөнтийлгөх</cyrillic>
+      <definition>〔动〕шөнтийх 的使动态.</definition>
+      <page>1654</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠥᠨᠲᠥᠶᠢᠯᠺᠠᠺᠥ</unicode>
+      <cyrillic>ШӨНТИЙЛГӨХ</cyrillic>
+      <definition>шөнтийх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠥᠨᠲᠥᠢᠯᠭᠡᠬᠦ</unicode>
+      <cyrillic>шөнтийлгөх</cyrillic>
+      <definition>шөнтийхөд хүрүүлэх.</definition>
+      <page>856</page>
+    </entry_item>
+  </entries>
+</entry>

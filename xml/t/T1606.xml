@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T1606">
+  <head>
+    <unicode>ᠲᠠᠲᠠᠷᠢᠯᠠᠬᠣ</unicode>
+    <transcript>tatarilaqu</transcript>
+    <transcript2>dadarilago</transcript2>
+  </head><derivatives>
+    <ref>T1607</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠲᠠᠷᠢᠯᠠᠬᠣ</unicode>
+      <uighur>tadarilaqu</uighur>
+      <transcript>TATARILA-</transcript>
+      <definition>v.t. To levy or collect taxes.</definition>
+      <page>788</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠳᠠᠷᠢᠯᠠᠬᠤ</unicode>
+      <definition>prélever les impôts.</definition>
+      <page>1628</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠳᠠᠷᠢᠯᠠᠵᠤ ᠭᠦᠢᠴᠡᠭᠡᠺᠦ</unicode>
+          <definition>prélever les arrérages</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠲᠠᠷᠢᠯᠠᠬᠣ</unicode>
+      <uighur>dadarilaqu</uighur>
+      <definition>Abgaben oder Gebühren einsammeln.</definition>
+      <page>236</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠲᠠᠷᠢᠯᠠᠬᠣ</unicode>
+      <uighur>tadarilaqu</uighur>
+      <definition>v.t. To collect municipal taxes.</definition>
+      <page>929</page>
+    </entry_item>
+  </entries>
+</entry>

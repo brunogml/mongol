@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S5668">
+  <head>
+    <unicode>ᠱᠣᠳᠠᠢ</unicode>
+    <transcript>šudai</transcript>
+    <transcript2>sodai</transcript2>
+  </head><see_also>
+    <ref>S5667</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠱᠣᠳᠠᠢ</unicode>
+      <uighur>šodai</uighur>
+      <transcript>ŠUDAI</transcript>
+      <definition>See siudai.</definition>
+      <page>757</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠱᠣᠲᠠᠢ</unicode>
+      <definition>sachet , petit sac , bourse</definition>
+      <page>1540</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠤᠯᠢᠷ ᠤᠨ ᠱᠣᠲᠠᠢ</unicode>
+          <definition>sac de farine</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

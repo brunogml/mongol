@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q2000">
+  <head>
+    <unicode>ᠬᠠᠯᠢᠷᠠᠯ</unicode>
+    <transcript>qaliral</transcript>
+    <transcript2>galiral</transcript2>
+    <cyrillic>халирал</cyrillic>
+  </head><see_also>
+    <ref>Q2001</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠯᠢᠷᠠᠯ</unicode>
+      <cyrillic>ХАЛИРАЛ</cyrillic>
+      <definition>уклонение, отступление. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠯᠢᠷᠠᠯ</unicode>
+      <cyrillic>ХАЛИРАЛГҮЙ</cyrillic>
+      <definition>неуклонно, неотступно. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

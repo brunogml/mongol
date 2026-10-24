@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0968">
+  <head>
+    <unicode>ᠬᠠᠪᠢᠰᠣᠯᠠᠬᠣ</unicode>
+    <transcript>qabisulaqu</transcript>
+    <transcript2>gabisolago</transcript2>
+    <cyrillic>хавьслах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠪᠢᠰᠣᠯᠠᠬᠣ</unicode>
+      <uighur>qabisolaqu</uighur>
+      <cyrillic>хавьслах</cyrillic>
+      <transcript>XABISULA-</transcript>
+      <definition>v.i. and t. To have ribs; to appear (of a new moon); to paste a strip on something.</definition>
+      <page>898</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠷᠠ ᠬᠠᠪᠢᠰᠣᠯᠠᠪᠠ</unicode>
+          <transcript>sara --ba</transcript>
+          <definition> The moon has assumed the shape of a crescent.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠪᠢᠰᠣᠯᠠᠬᠤ</unicode>
+      <definition>avoir des côtes: 2 commencement de la nouvelle lune</definition>
+      <page>753</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠷᠠ ᠬᠠᠪᠢᠰᠣᠯᠠᠪᠠ</unicode>
+          <definition>lune qui commence à montrer ses cornes (le troisème jour de la lune)</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠠᠪᠢᠰᠣᠯᠠᠬᠣ</unicode>
+      <uighur>qabisulaqu</uighur>
+      <definition>Moon's quarters.</definition>
+      <page>511</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠪᠢᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>хавьслах</cyrillic>
+      <definition>〔动〕①装甲胄，装甲壳；②（转）映出月光，映出日光.</definition>
+      <page>1267</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠪᠢᠰᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХАВЬСЛАХ</cyrillic>
+      <definition>иметь, приобрести вид серпа (о молодом месяце); сар хавьслах новолуние, когда луна имеет серпообразный вид. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠪᠢᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>хавьслах</cyrillic>
+      <definition>1. юманд хавьс хийх;2. &lt;шилжсэн&gt;нар, сарны хоёр этгээдэд туяа тусах; сар хавьслах.</definition>
+      <page>637</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q0965</ref>
+  </related_to>
+</entry>

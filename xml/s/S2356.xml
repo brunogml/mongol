@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2356">
+  <head>
+    <unicode>ᠰᠠᠮᠪᠠᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>sembegenegülkü</transcript>
+    <transcript2>sembegenegölgö</transcript2>
+    <cyrillic>сэмбэгнүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S2355</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠮᠪᠡᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сэмбэгнүүлэх</cyrillic>
+      <definition>〔动〕сэмбэгнэх 的使动态.</definition>
+      <page>988</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠮᠪᠠᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>СЭМБЭГНҮҮЛЭХ</cyrillic>
+      <definition>сэмбэгнэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠮᠪᠡᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сэмбэгнүүлэх</cyrillic>
+      <definition>сэмбэгнэхийн үйлдүүлэх хэв.</definition>
+      <page>502</page>
+    </entry_item>
+  </entries>
+</entry>

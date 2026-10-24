@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S1748">
+  <head>
+    <unicode>ᠰᠠᠷᠨᠢ</unicode>
+    <transcript>sarni</transcript>
+    <transcript2>sarni</transcript2>
+    <cyrillic>сарни</cyrillic>
+  </head><derivatives>
+    <ref>S1757</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠷᠨᠢ</unicode>
+      <uighur>sarni</uighur>
+      <transcript>SARNI</transcript>
+      <page>676</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠷᠨᠢ ᠰᠢᠷᠤᠢ</unicode>
+          <transcript>-- sirui</transcript>
+          <definition> Yellow ocher (used as a pigment in paints).</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠠᠷᠨᠢ ᠰᠢᠷᠤᠢ</unicode>
+      <definition>ocre</definition>
+      <page>1335</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠷᠨᠢ</unicode>
+      <cyrillic>сарни</cyrillic>
+      <definition>见 ~ шороо 咱尔泥土（色黄，可对颜料）；赤土；黄土.</definition>
+      <page>919</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠷᠨᠢ</unicode>
+      <cyrillic>САРНИ</cyrillic>
+      <definition>: сарни шороо охра. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

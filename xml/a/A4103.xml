@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A4103">
+  <head>
+    <unicode>ᠠᠷᠭᠠᠣᠳᠠᠬᠣ</unicode>
+    <transcript>arγaudaqu</transcript>
+    <transcript2>argaodago</transcript2>
+    <cyrillic>аргуудах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>A4105</ref>
+  </derivatives>
+  <see_also>
+    <ref>A4124</ref>
+    <ref>A4104</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠷᠭᠠᠣᠳᠠᠬᠣ</unicode>
+      <cyrillic>АРГУУДАХ</cyrillic>
+      <definition>1) сгущаться, делаться слишком густым; быть очень густым; 2) становиться сухим; черстветь.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠷᠭᠠᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>аргуудах</cyrillic>
+      <definition>хэтэрхий аргуун болох, идэх юмны чийг нойтон нэн багадаж хуурайсах.</definition>
+      <page>50</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q6478">
+  <head>
+    <unicode>ᠬᠣᠶᠠᠷᠲᠣᠬᠣ</unicode>
+    <transcript>qoyartuqu</transcript>
+    <transcript2>goyardogo</transcript2>
+    <cyrillic>хоёртох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q6480</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q6471</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠣᠶᠠᠷᠲᠠᠬᠤ</unicode>
+      <cyrillic>хоёртох</cyrillic>
+      <definition>〔动〕分成两部分，分叉，分歧：юм ~ж харагдах （一个东西）被看成两个（现出双影）.</definition>
+      <page>1348</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠶᠠᠷᠲᠣᠬᠣ</unicode>
+      <cyrillic>ХОЁРТОХ</cyrillic>
+      <definition>раздваиваться, оказываться двойным; хоёртож харагдах двоиться в глазах. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠶᠠᠷᠲᠤᠬᠤ</unicode>
+      <cyrillic>хоёртох</cyrillic>
+      <definition>хоёр болох; юм хоёртож харагдах.</definition>
+      <page>683</page>
+    </entry_item>
+  </entries>
+</entry>

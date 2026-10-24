@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2123">
+  <head>
+    <unicode>ᠴᠢᠴᠢᠺᠥᠯᠺᠥ</unicode>
+    <transcript>čičigülkü</transcript>
+    <transcript2>cicigölgö</transcript2>
+    <cyrillic>чичүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>C2122</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠴᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>чичүүлэх</cyrillic>
+      <definition>〔动〕①чичих 的使动态；②意同 чичигдэх.</definition>
+      <page>1595</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠴᠢᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЧИЧҮҮЛЭХ</cyrillic>
+      <definition>чичих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠴᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>чичүүлэх</cyrillic>
+      <definition>1. чичихийн үйлдүүлэх хэв;2. чичигдэх.</definition>
+      <page>822</page>
+    </entry_item>
+  </entries>
+</entry>

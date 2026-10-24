@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q1038">
+  <head>
+    <unicode>ᠭᠠᠪᠣᠣ</unicode>
+    <transcript>γabou</transcript>
+    <transcript2>gaboo</transcript2>
+    <cyrillic>гавуу</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠠᠪᠣᠣ</unicode>
+      <uighur>γabou</uighur>
+      <transcript>ΓABUU</transcript>
+      <definition>n. Lieutenant (mil., obs.). [Mo.] Epithet for the wall.</definition>
+      <page>341</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠠᠪᠤᠤ</unicode>
+      <definition>lieutenant militaire</definition>
+      <page>986</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠠᠪᠤᠤ ᠎ᠶᠢᠨ ᠣᠷᠣᠨ</unicode>
+          <definition>quartier du lieutenant; 2 quinze étoiles de la chevelure de Bérénice</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠠᠪᠤᠤ ᠵᠠᠰᠠᠤᠯ</unicode>
+          <definition>étoile de la chevelure de Bérénice</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠪᠣᠣ</unicode>
+      <cyrillic>ГАВУУ</cyrillic>
+      <definition>I зурх.Сириус (созвездие). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠪᠣᠣ</unicode>
+      <cyrillic>ГАВУУ</cyrillic>
+      <definition>II хуучир. 1. мичман; поручик; лейтенант; офицер; 2. военный. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

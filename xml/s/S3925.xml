@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3925">
+  <head>
+    <unicode>ᠰᠢᠯᠥᠺᠠᠶᠢᠲᠥᠺᠥ</unicode>
+    <transcript>silükeyitükü</transcript>
+    <transcript2>silögeyidögö</transcript2>
+    <cyrillic>шүлхийтэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3926</ref>
+    <ref>S3924</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠯᠦᠬᠡᠢᠲᠦᠬᠦ</unicode>
+      <cyrillic>шүлхийтэх</cyrillic>
+      <definition>〔动〕患口蹄疫.</definition>
+      <page>1667</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠯᠥᠺᠠᠶᠢᠲᠥᠺᠥ</unicode>
+      <cyrillic>ШҮЛХИЙТЭХ</cyrillic>
+      <definition>болеть ящуром (о рогатом скоте). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шүлхийтэх</cyrillic>
+      <definition>Vet an Maul- und Klauenseuche erkranken</definition>
+      <page>393</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠦᠯᠬᠦᠭᠡᠲᠦᠬᠦ</unicode>
+      <cyrillic>шүлхийтэх</cyrillic>
+      <definition>шүлхий өвчин тусах.</definition>
+      <page>862</page>
+    </entry_item>
+  </entries>
+</entry>

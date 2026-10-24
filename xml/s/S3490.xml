@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3490">
+  <head>
+    <unicode>ᠰᠢᠪᠠᠷᠲᠣ</unicode>
+    <transcript>sibartu</transcript>
+    <transcript2>sibardo</transcript2>
+    <cyrillic>шаварт</cyrillic>
+  </head>
+  <see_also>
+    <ref>S3481</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠪᠠᠷᠲᠤ</unicode>
+      <cyrillic>шаварт</cyrillic>
+      <definition>〔形〕有泥的，泥泞的；脏的，粘了泥的.</definition>
+      <page>1604</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠪᠠᠷᠲᠣ</unicode>
+      <cyrillic>ШАВАРТ</cyrillic>
+      <definition>шавартай-г үз., шаварт нуур грязевое озеро. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шаварт,</cyrillic>
+      <definition>шавартай lehmig, schlammig, morastig, schmutzig</definition>
+      <page>376</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠪᠠᠷᠲᠤ</unicode>
+      <cyrillic>шаварт</cyrillic>
+      <definition>шавар бий.</definition>
+      <page>827</page>
+    </entry_item>
+  </entries>
+</entry>

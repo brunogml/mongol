@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1071">
+  <head>
+    <unicode>ᠺᠠᠴᠠᠯᠠᠺᠥ</unicode>
+    <transcript>kečelekü</transcript>
+    <transcript2>gecelegö</transcript2>
+    <cyrillic>хэцлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K1072</ref>
+    <ref>K1070</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠴᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>хэцлэх</cyrillic>
+      <definition>〔动〕①拉绳，抻起绳子，拴绳；②爬山坡，攀陡崖.</definition>
+      <page>1495</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠴᠠᠯᠠᠺᠥ</unicode>
+      <cyrillic>ХЭЦЛЭХ</cyrillic>
+      <definition>I натягивать (верёвку). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠴᠠᠯᠠᠺᠥ</unicode>
+      <cyrillic>ХЭЦЛЭХ</cyrillic>
+      <definition>II ехать, идти по склону. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хэцлэх</cyrillic>
+      <definition>1. ein Seil od eine Leine spannen; auf die Leine hängen, an der Leine befestigen
+2. sich entlang der Berglehne bewegen</definition>
+      <page>346</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠴᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>хэцлэх /1</cyrillic>
+      <definition>хэц татах, хэц босгох, хэц дээр юм хум тавьж тохох; угаасан юмаа хэцэлж хатаах хэрэгтэй.</definition>
+      <page>768</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠴᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>хэцлэх /2</cyrillic>
+      <definition>хэц газраар явах, хэцэд гарах; мал хэцэлж орхив; би хэцэлж явах дуртай.</definition>
+      <page>768</page>
+    </entry_item>
+  </entries>
+</entry>

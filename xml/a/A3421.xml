@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A3421">
+  <head>
+    <unicode>ᠠᠭᠡᠨᠲ</unicode>
+    <transcript>agent</transcript>
+    <transcript2>agend</transcript2>
+    <cyrillic>агент</cyrillic>
+  </head><see_also>
+    <ref>A3420</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠭᠡᠨᠲ</unicode>
+      <uighur>akEnTa</uighur>
+      <cyrillic>агент</cyrillic>
+      <transcript>AGENTA</transcript>
+      <definition>n. Agent.</definition>
+      <page>19</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠤᠳᠠᠯᠳᠤᠭᠠᠨ ᠤ ᠠᠭᠡᠨᠲ</unicode>
+          <transcript>xudalduγan u --</transcript>
+          <definition> Commercial agent.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠭᠧᠨ᠋ᠲ᠋</unicode>
+      <cyrillic>агент</cyrillic>
+      <definition>〔名〕①代理人，代办人，经纪人：худалдааны ~ 代理商；经纪人；②奸细，间谍，侦探；③走狗，爪牙.</definition>
+      <page>17</page>
+    </entry_item>
+  </entries>
+</entry>

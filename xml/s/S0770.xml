@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0770">
+  <head>
+    <unicode>ᠱᠠᠪᠰᠢᠬᠳᠠᠬᠣ</unicode>
+    <transcript>šabsiγdaqu</transcript>
+    <transcript2>sabsigdago</transcript2>
+    <cyrillic>шавшигдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S0765</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠪᠰᠢᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>шавшигдах</cyrillic>
+      <definition>〔动〕шавших 的被动态.</definition>
+      <page>1606</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠪᠰᠢᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ШАВШИГДАХ</cyrillic>
+      <definition>шавших-ийн үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шавшигдах</cyrillic>
+      <definition>Pass von шавших</definition>
+      <page>377</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠪᠰᠢᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>шавшигдах</cyrillic>
+      <definition>шавшихын үйлдүүлэх хэв.</definition>
+      <page>829</page>
+    </entry_item>
+  </entries>
+</entry>

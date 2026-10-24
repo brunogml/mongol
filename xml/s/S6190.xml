@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6190">
+  <head>
+    <unicode>ᠰᠣᠷᠣᠭᠣᠯᠳᠣᠬᠣ</unicode>
+    <transcript>soruγulduqu</transcript>
+    <transcript2>sorogoldogo</transcript2>
+    <cyrillic>соруулдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6192</ref>
+    <ref>S6191</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠷᠣᠭᠤᠯᠳᠠᠬᠤ</unicode>
+      <cyrillic>соруулдах</cyrillic>
+      <definition>〔动〕用吸嘴吸，用吸器吸，用抽管抽，安吸杯.</definition>
+      <page>944</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠷᠣᠭᠣᠯᠳᠣᠬᠣ</unicode>
+      <cyrillic>СОРУУЛДАХ</cyrillic>
+      <definition>ставить банки. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠷᠣᠭᠤᠯᠳᠠᠬᠤ</unicode>
+      <cyrillic>соруулдах</cyrillic>
+      <definition>соруулаар хөхүүлэх, татах.</definition>
+      <page>482</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S6186</ref>
+  </related_to>
+</entry>

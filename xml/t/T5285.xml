@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5285">
+  <head>
+    <unicode>ᠲᠣᠨᠣᠬᠣ</unicode>
+    <transcript>tonuqu</transcript>
+    <transcript2>donogo</transcript2>
+    <cyrillic>тонох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T5288</ref>
+    <ref>T5291</ref>
+    <ref>T5308</ref>
+  </derivatives>
+  <see_also>
+    <ref>T5286</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠨᠣᠬᠣ</unicode>
+      <uighur>tonoqu</uighur>
+      <cyrillic>тонох</cyrillic>
+      <transcript>TONU-</transcript>
+      <definition>v.t. To pillage, plunder, holdup, rob</definition>
+      <page>825</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠣᠨᠣᠵᠤ ᠠᠪᠬᠤ</unicode>
+          <transcript>--zu abxu</transcript>
+          <definition> To plunder, rob.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠨᠣᠬᠤ</unicode>
+      <definition>piller, voler, ravir</definition>
+      <page>1790</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠳ ᠠᠭᠤᠷᠠᠰᠤᠨ ᠢ ᠳᠤᠨᠣᠵᠤ ᠠᠪᠬᠤ</unicode>
+          <definition>piller le bien, voler qc.</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠡᠷ ᠢ ᠳᠡᠭᠡᠷᠡᠮᠳᠡᠭᠯᠡᠨ ᠳᠤᠨᠣᠬᠤ</unicode>
+          <definition>voler une maison</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠣᠨᠣᠬᠣ</unicode>
+      <uighur>dunoqu</uighur>
+      <definition>rauben, Raub begehen.</definition>
+      <page>246</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠣᠨᠣᠬᠣ</unicode>
+      <uighur>tunuqu</uighur>
+      <definition>(tonokho)v.t. To rob. To plunder.</definition>
+      <page>977</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠨᠣᠬᠤ</unicode>
+      <cyrillic>тонох</cyrillic>
+      <definition>〔动〕抢劫，掠夺；搜刮，洗劫，勒索：~ дээрэмдэх 强夺，掠夺，抢劫，劫掠；~ мөлжих 剥削，敲诈勒索.</definition>
+      <page>1073</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠨᠣᠬᠣ</unicode>
+      <cyrillic>ТОНОХ</cyrillic>
+      <definition>грабить, отнимать, обирать; преграждать путь; дээрэмдэн тонох грабить; тонох дээрэмдэх хорш. ограбить. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тонох</cyrillic>
+      <definition>[aus-, be]rauben, [aus]plündern</definition>
+      <page>230</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠨᠣᠬᠤ</unicode>
+      <cyrillic>тонох</cyrillic>
+      <definition>бусдын юмыг арга хүч хэрэглэж мөлжин ашиглах; тонох дээрэмдэх; тонох мөлжих.</definition>
+      <page>541</page>
+    </entry_item>
+  </entries>
+</entry>

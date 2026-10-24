@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5354">
+  <head>
+    <unicode>ᠰᠣᠭᠣᠷᠠᠬᠣ</unicode>
+    <transcript>suγuraqu</transcript>
+    <transcript2>sogorago</transcript2>
+    <cyrillic>сугарах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5359</ref>
+    <ref>S5361</ref>
+  </derivatives>
+  <see_also>
+    <ref>S5353</ref>
+    <ref>S5355</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠣᠭᠣᠷᠠᠬᠣ</unicode>
+      <uighur>suγuraqu</uighur>
+      <cyrillic>сугарах</cyrillic>
+      <transcript>SUΓURA-</transcript>
+      <definition>v. i. To come off; to slip out or off.</definition>
+      <page>735</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠣᠷᠢ ᠲᠡᠷᠢᠭᠦᠯᠡᠵᠦ ᠰᠣᠭᠣᠷᠠᠬᠤ</unicode>
+          <transcript>mori terigylezy --xu</transcript>
+          <definition> To gain on others in a horse race</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠤᠭᠤᠷᠠᠬᠤ</unicode>
+      <definition>s'échapper, se détacher, sauter.</definition>
+      <page>1389</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠭᠤᠯᠢ ᠰᠤᠭᠤᠷᠠᠬᠤ ᠮᠡᠳᠡᠭᠡ ᠦᠭᠡᠢ</unicode>
+          <definition>comment savoir si le fer d'une hache ne se détachera du manche?</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠰᠣᠭᠣᠷᠠᠬᠣ</unicode>
+      <uighur>suγuraqu</uighur>
+      <definition>To fall out (e.g. a knife or sword.). To shoot up (e.g. corn).</definition>
+      <page>1473</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠭᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>сугарах</cyrillic>
+      <definition>〔动〕①滑脱，脱出，落出，拔脱：хутга хуйгаасаа ~ 刀从鞘里滑出；гутал ~ 靴子脱落；②（转）单独离开，单独留下，逃遁，私遁.</definition>
+      <page>955</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠭᠣᠷᠠᠬᠣ</unicode>
+      <cyrillic>СУГАРАХ</cyrillic>
+      <definition>1) ускользать, выскальзывать; вырываться; выдернуться; бөглөө сугарах откупориться; эргэлдэн сугарах выкручиваться; булчингаа сугартал ажиллах работать не покладая рук (үгчил. работать до разрыва мышц); өвөр дотроос сугарч унажээ выпал из кармана, из пазухи дЇли; 2) шилж. отделяться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сугарах</cyrillic>
+      <definition>entgleiten, entfallen (Dat -аас); herausfallen (aus -аас)</definition>
+      <page>203</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠭᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>сугарах</cyrillic>
+      <definition>1. голдуу ямар нэгэн уртавтар юм, юман дотроос гарах; хутга хуйгаасаа сугарчээ;2. &lt;шилжсэн&gt;олон бөөн юмны дотроос ганцаар тасрах; сугаран гарах; сугарч хоцрох.</definition>
+      <page>486</page>
+    </entry_item>
+  </entries>
+</entry>

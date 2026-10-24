@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0538">
+  <head>
+    <unicode>ᠪᠠᠰᠢᠬ</unicode>
+    <transcript>basiq</transcript>
+    <transcript2>basig</transcript2>
+    <cyrillic>башиг</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B1042</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠰᠢᠭ</unicode>
+      <cyrillic>башиг</cyrillic>
+      <definition>〔名〕〈植〉水棘针.</definition>
+      <page>146</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠰᠢᠬ</unicode>
+      <cyrillic>БАШИГ</cyrillic>
+      <definition>башига-ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>башиг[а]</cyrillic>
+      <definition>= башир 2.</definition>
+      <page>50</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠰᠢᠭ</unicode>
+      <cyrillic>башиг</cyrillic>
+      <definition>&lt;ургамал&gt;өвсөн идэштэй, цэцэгт таван зүйл өнгө бий, хэлтэс дан ч бий, хэд хэдэн давхар ч бас бий.</definition>
+      <page>81</page>
+    </entry_item>
+  </entries>
+</entry>

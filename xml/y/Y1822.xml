@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1822">
+  <head>
+    <unicode>ᠶᠠᠷᠭᠠᠯᠠᠬᠣ</unicode>
+    <transcript>yarγalaqu</transcript>
+    <transcript2>yargalago</transcript2>
+    <cyrillic>яргалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1823</ref>
+    <ref>Y1824</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠠᠷᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>яргалах</cyrillic>
+      <definition>〔动〕屠杀，宰杀.</definition>
+      <page>1757</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠠᠷᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЯРГАЛАХ</cyrillic>
+      <definition>1. убивать, расправляться, совершать убийство; 2. яргалахуй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠠᠷᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЯРГАЛАХУЙ</cyrillic>
+      <definition>расправа; казнь. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>яргалах</cyrillic>
+      <definition>niedermetzeln, morden</definition>
+      <page>415</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠠᠷᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>яргалах</cyrillic>
+      <definition>ярга хийх, алах, нядлах.</definition>
+      <page>909</page>
+    </entry_item>
+  </entries>
+</entry>

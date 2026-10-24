@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="E1156">
+  <head>
+    <unicode>ᠡᠮᠲᠦ</unicode>
+    <transcript>emtü</transcript>
+    <transcript2>emdö</transcript2>
+    <cyrillic>эмт</cyrillic>
+  </head><see_also>
+    <ref>E1135</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠮᠲᠥ</unicode>
+      <uighur>emdü</uighur>
+      <cyrillic>эмт</cyrillic>
+      <transcript>EMTY</transcript>
+      <definition>See emtei.</definition>
+      <page>314</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠮᠲᠠᠷᠺᠠᠢ ᠮᠣᠳᠤᠨ</unicode>
+          <transcript>-- modun</transcript>
+          <definition> Medicinal tree.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠮᠳᠦ ~ ᠡᠮ ᠳᠦ</unicode>
+      <definition>médicinal.</definition>
+      <page>219</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠮ ᠎ᠲᠦ ᠮᠣᠳᠤᠨ</unicode>
+          <definition>arbre medicinal</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠮᠲᠡ</unicode>
+      <cyrillic>эмт</cyrillic>
+      <definition>〔副〕豁，破：~ татах, ~ цохих 打豁，砸破，打出缺口.</definition>
+      <page>1697</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠮᠲᠥ</unicode>
+      <cyrillic>ЭМТ</cyrillic>
+      <definition>II лекарственный, врачебный. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

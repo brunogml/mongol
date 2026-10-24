@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6832">
+  <head>
+    <unicode>ᠰᠥᠺᠠᠳᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>sükedegülkü</transcript>
+    <transcript2>sögedegölgö</transcript2>
+    <cyrillic>сүхдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S6831</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠦᠬᠡᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сүхдүүлэх</cyrillic>
+      <definition>〔动〕сүхдэх 的使动态.</definition>
+      <page>979</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠥᠺᠠᠳᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>СҮХДҮҮЛЭХ</cyrillic>
+      <definition>сүхдэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сүхдүүлэх</cyrillic>
+      <definition>Kaus von сүхдэх</definition>
+      <page>209</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠦᠬᠡᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сүхдүүлэх</cyrillic>
+      <definition>сүхдэхийн үйлдүүлэх хэв, сүхээр цохиулах, дэлдүүлэх.</definition>
+      <page>498</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3560">
+  <head>
+    <unicode>ᠵᠢᠷᠪᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰirbaγanaγulqu</transcript>
+    <transcript2>yirbaganagolgo</transcript2>
+    <cyrillic>жарвагануулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y3559</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠷᠪᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЖАРВАГАНУУЛАХ</cyrillic>
+      <definition>жарваганах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠷᠪᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>жаравгануулах</cyrillic>
+      <definition>жаравганахын үйлдүүлэх хэв.</definition>
+      <page>242</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0701">
+  <head>
+    <unicode>ᠭᠠᠭᠣᠯᠠ</unicode>
+    <transcript>γaγula</transcript>
+    <transcript2>gagola</transcript2>
+    <cyrillic>гагул</cyrillic>
+  </head>
+  <see_also>
+    <ref>Q0701a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠠᠭᠤᠯᠠ</unicode>
+      <cyrillic>гагул</cyrillic>
+      <definition>〔名〕参见 гагал.</definition>
+      <page>263</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠭᠣᠯᠠ</unicode>
+      <cyrillic>ГАГУЛ</cyrillic>
+      <definition>род пряности, большой кардамон. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠠᠭᠤᠯᠠ</unicode>
+      <cyrillic>гагал</cyrillic>
+      <definition>хэлбэр аруртай төстэй, нимгэн боровтор альстай, амт халуун нэг зүйл үр.</definition>
+      <page>129</page>
+    </entry_item>
+  </entries>
+</entry>

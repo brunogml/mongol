@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1679">
+  <head>
+    <unicode>ᠲᠠᠯᠠᠰᠲᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>talastuγulqu</transcript>
+    <transcript2>dalasdogolgo</transcript2>
+    <cyrillic>талстуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T1678</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠯᠠᠰᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>талстуулах</cyrillic>
+      <definition>〔动〕талстах 的使动态.</definition>
+      <page>1019</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠯᠠᠰᠲᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАЛСТУУЛАХ</cyrillic>
+      <definition>талстах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠯᠠᠰᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>талстуулах</cyrillic>
+      <definition>талстахын үйлдүүлэх хэв, талстай болгох.</definition>
+      <page>517</page>
+    </entry_item>
+  </entries>
+</entry>

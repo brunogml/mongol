@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C2841">
+  <head>
+    <unicode>ᠴᠣᠪᠣᠳᠠᠯ</unicode>
+    <transcript>čubudal</transcript>
+    <transcript2>cobodal</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠣᠪᠣᠳᠠᠯ</unicode>
+      <uighur>čubudal</uighur>
+      <transcript>CUBUDAL</transcript>
+      <definition>Same as cøbydel</definition>
+      <page>203</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠣᠪᠤᠳᠠᠯ</unicode>
+      <definition>les restes des grains (cf: sq.), les restes de la viande coupée par morceaux, disposés d'après leur qualité</definition>
+      <page>2201</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠤᠪᠤᠳᠠᠯ ᠲᠠᠷᠢᠶ ᠠ</unicode>
+          <definition>les grains qui restent après qu'on a battu le blé et ramassé les gerbes</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠤᠪᠤᠳᠠᠯ ᠮᠢᠬᠠᠨ</unicode>
+          <definition>les restes de la viande coupée par morceaux</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2030">
+  <head>
+    <unicode>ᠴᠢᠮᠺᠢᠯᠠᠺᠳᠠᠺᠥ</unicode>
+    <transcript>čimkilegdekü</transcript>
+    <transcript2>cimgilegdegö</transcript2>
+    <cyrillic>чимхлэгдэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>C2027</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠮᠬᠢᠯᠡᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>чимхлэгдэх</cyrillic>
+      <definition>〔动〕чимхлэх 的被动态.</definition>
+      <page>1588</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠮᠺᠢᠯᠠᠺᠳᠠᠺᠥ</unicode>
+      <cyrillic>ЧИМХЛЭГДЭХ</cyrillic>
+      <definition>чимхлэх-ийн үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чимхлэгдэх</cyrillic>
+      <definition>Pass von чимхлэх</definition>
+      <page>371</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠮᠬᠢᠯᠡᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>чимхлэгдэх</cyrillic>
+      <definition>чимхлэхийн үйлдэгдэх хэв.</definition>
+      <page>818</page>
+    </entry_item>
+  </entries>
+</entry>

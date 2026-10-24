@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K2540">
+  <head>
+    <unicode>ᠺᠢᠶᠡᠨᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>giyenegülkü</transcript>
+    <transcript2>giyenegölgö</transcript2>
+    <cyrillic>гиенүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K2539</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠢᠶᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>гиенүүлэх</cyrillic>
+      <definition>〔动〕гиенэх 的使动态.</definition>
+      <page>293</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠶᠡᠨᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ГИЕНҮҮЛЭХ</cyrillic>
+      <definition>гиенэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠢᠶᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>гиенүүлэх</cyrillic>
+      <definition>гиенэхийн үйлдүүлэх хэв.</definition>
+      <page>143</page>
+    </entry_item>
+  </entries>
+</entry>

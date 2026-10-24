@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0752">
+  <head>
+    <unicode>ᠰᠠᠪᠰᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sabsaγulqu</transcript>
+    <transcript2>sabsagolgo</transcript2>
+    <cyrillic>савсуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S0750</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠪᠰᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>савсуулах</cyrillic>
+      <definition>〔动〕савсах 的使动态.</definition>
+      <page>893</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠪᠰᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>САВСУУЛАХ</cyrillic>
+      <definition>савсах-ын үйлдүүл., утаа савсуулах дымиться; уур савсуулах париться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>савсуулах</cyrillic>
+      <definition>Kaus von савсах</definition>
+      <page>190</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠪᠰᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>савсуулах</cyrillic>
+      <definition>савсахын үйлдүүлэх хэв; утаа савсуулах; уур савсуулах.</definition>
+      <page>458</page>
+    </entry_item>
+  </entries>
+</entry>

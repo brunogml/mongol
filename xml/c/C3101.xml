@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3101">
+  <head>
+    <unicode>ᠴᠣᠮᠪᠣᠶᠢᠬᠣ</unicode>
+    <transcript>čombuyiqu</transcript>
+    <transcript2>comboyigo</transcript2>
+    <cyrillic>цомбойх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C3103</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠣᠮᠪᠣᠢᠬᠤ</unicode>
+      <cyrillic>цомбойх</cyrillic>
+      <definition>〔动〕①（腿脚）变细高；②变整齐轻便，变有条理.</definition>
+      <page>1532</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠮᠪᠣᠶᠢᠬᠣ</unicode>
+      <cyrillic>ЦОМБОЙХ</cyrillic>
+      <definition>выдаваться вперёд, выпячиваться, становиться пузатым внизу и суживающимся кверху. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цомбойх</cyrillic>
+      <definition>konisch werden</definition>
+      <page>356</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠣᠮᠪᠣᠢᠬᠤ</unicode>
+      <cyrillic>цомбойх</cyrillic>
+      <definition>цомбогор болох.</definition>
+      <page>789</page>
+    </entry_item>
+  </entries>
+</entry>

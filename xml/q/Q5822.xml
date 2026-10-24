@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q5822">
+  <head>
+    <unicode>ᠬᠣᠯᠲᠣᠰᠣᠯᠠᠬᠣ</unicode>
+    <transcript>qoltusulaqu</transcript>
+    <transcript2>goldosolago</transcript2>
+    <cyrillic>холтослох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q5823</ref>
+    <ref>Q5826</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠣᠯᠲᠣᠰᠣᠯᠠᠬᠤ</unicode>
+      <cyrillic>холтослох</cyrillic>
+      <definition>〔动〕剥树皮.</definition>
+      <page>1357</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠯᠲᠣᠰᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХОЛТОСЛОХ</cyrillic>
+      <definition>сдирать кору с дерева. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>холтослох</cyrillic>
+      <definition>Baum entrinden, Rinde od Borke abschälen od entfernen</definition>
+      <page>308</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠯᠲᠣᠰᠣᠯᠠᠬᠤ</unicode>
+      <cyrillic>холтослох</cyrillic>
+      <definition>модны холтсыг хуучиж авах.</definition>
+      <page>686</page>
+    </entry_item>
+  </entries>
+</entry>

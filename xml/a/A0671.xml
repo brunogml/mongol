@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A0671">
+  <head>
+    <unicode>ᠠᠭᠠᠵᠢᠮᠷᠠᠬᠤ</unicode>
+    <transcript>aγaǰimraqu</transcript>
+    <transcript2>agacimrago</transcript2>
+    <cyrillic>аажимрах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠭᠠᠵᠢᠮᠷᠠᠬᠤ</unicode>
+      <cyrillic>аажимрах</cyrillic>
+      <definition>〔动〕变缓慢，减缓；变平缓.</definition>
+      <page>3</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠠᠵᠢᠮᠷᠠᠬᠤ</unicode>
+      <cyrillic>ААЖИМРАХ</cyrillic>
+      <definition>становиться спокойным (медленным, медлительным, тихим).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠭᠠᠵᠢᠮᠷᠠᠬᠤ</unicode>
+      <cyrillic>аажимрах</cyrillic>
+      <definition>аажим болох.</definition>
+      <page>12</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>A0655</ref>
+  </related_to>
+</entry>

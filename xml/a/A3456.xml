@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A3456">
+  <head>
+    <unicode>ᠠᠭᠢᠶ᠎ᠠ</unicode>
+    <transcript>akiy-a</transcript>
+    <transcript2>agiy-a</transcript2>
+    <cyrillic>аахиа</cyrillic>
+  </head>
+  <see_also>
+    <ref>A3457</ref>
+  </see_also>
+  <variants>
+    <variant type="cyrillic">ахиа</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠺᠢᠶ᠎ᠠ</unicode>
+      <definition>nom d'un poisson: lotte, barbote?</definition>
+      <page>134</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠢᠶ᠎ᠠ</unicode>
+      <cyrillic>ААХИА</cyrillic>
+      <definition>яриа., нутг. аа хө–г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠢᠶ᠎ᠠ</unicode>
+      <cyrillic>АХИА</cyrillic>
+      <definition>I загас. карась.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠢᠶ᠎ᠠ</unicode>
+      <cyrillic>АХИА</cyrillic>
+      <definition>II: ахиа зээр амьт. газель Пельцельна.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠬᠢᠶ᠎ᠠ</unicode>
+      <cyrillic>ахиа</cyrillic>
+      <definition>〔名〕〈动〉黄颡鱼.</definition>
+      <page>90</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠬᠢᠶ᠎ᠠ</unicode>
+      <cyrillic>ахиа</cyrillic>
+      <definition>&lt;амьтан&gt;: цулбуурттай адил бөгөөд бяцхан, шар алаг өнгөтэй, далбаа нуруундаа хагадастай нэг зүйл загас.</definition>
+      <page>57</page>
+    </entry_item>
+  </entries>
+</entry>

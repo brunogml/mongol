@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1334">
+  <head>
+    <unicode>ᠣᠲᠠᠰᠣᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>utasudaγulqu</transcript>
+    <transcript2>odasodagolgo</transcript2>
+    <cyrillic>утасдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U1333</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠲᠠᠰᠤᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>утасдуулах</cyrillic>
+      <definition>〔动〕утасдах 的使动态.</definition>
+      <page>1210</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠲᠠᠰᠣᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>УТАСДУУЛАХ</cyrillic>
+      <definition>утасдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠲᠠᠰᠤᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>утасдуулах</cyrillic>
+      <definition>утасдахын үйлдүүлэх хэв.</definition>
+      <page>603</page>
+    </entry_item>
+  </entries>
+</entry>

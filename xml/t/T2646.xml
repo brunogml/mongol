@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2646">
+  <head>
+    <unicode>ᠳᠠᠷᠢᠬᠣ</unicode>
+    <transcript>dariqu</transcript>
+    <transcript2>darigo</transcript2>
+    <cyrillic>дарих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T2649</ref>
+  </derivatives>
+  <see_also>
+    <ref>T2645</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠷᠢᠬᠤ</unicode>
+      <cyrillic>дарих</cyrillic>
+      <definition>〔动〕（宴席间）酣饮，畅饮，欢饮.</definition>
+      <page>397</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠷᠢᠬᠣ</unicode>
+      <cyrillic>ДАРИХ</cyrillic>
+      <definition>в шумной компании пить кумыс, вино. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠷᠢᠬᠤ</unicode>
+      <cyrillic>дарих</cyrillic>
+      <definition>найр хуримд хүмүүс халамцаж дарвин уух.</definition>
+      <page>191</page>
+    </entry_item>
+  </entries>
+</entry>

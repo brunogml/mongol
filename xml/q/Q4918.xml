@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4918">
+  <head>
+    <unicode>ᠬᠣᠪᠴᠠᠯᠠᠬᠣ</unicode>
+    <transcript>qubčalaqu</transcript>
+    <transcript2>gobcalago</transcript2>
+    <cyrillic>хувцлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q4919</ref>
+    <ref>Q4920</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠪᠴᠠᠯᠠᠬᠣ</unicode>
+      <uighur>qubčalaqu</uighur>
+      <cyrillic>хувцлах</cyrillic>
+      <transcript>XUBCALA-</transcript>
+      <definition>v.t. and i. To dress.</definition>
+      <page>976</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠪᠴᠠᠯᠠᠬᠣ ᠲᠣᠯᠢ</unicode>
+          <transcript>--xu toli</transcript>
+          <definition> Dressing mirror.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠪᠴᠠᠯᠠᠬᠤ</unicode>
+      <definition>mettre un habit, s'habiller</definition>
+      <page>900</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠪᠴᠠᠯᠠᠬᠤ ᠲᠣᠯᠢ</unicode>
+          <definition>une grande toilette, un grand miroir</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠣᠪᠴᠠᠯᠠᠬᠣ</unicode>
+      <uighur>qubčalaqu</uighur>
+      <definition>kleiden, sich kleiden</definition>
+      <page>164</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠣᠪᠴᠠᠯᠠᠬᠣ</unicode>
+      <uighur>qubčalaqu</uighur>
+      <definition>v.t. To put on clothes. To dress</definition>
+      <page>645</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠪᠴᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>хувцлах</cyrillic>
+      <definition>〔动〕穿衣服广着装：~ газар 衣帽间，更衣室；~ толь 穿衣镜.</definition>
+      <page>1420</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠪᠴᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХУВЦЛАХ</cyrillic>
+      <definition>яриа. хувцаслах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хувцлах</cyrillic>
+      <definition>= хувцаслах</definition>
+      <page>325</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠪᠴᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>хувцлах</cyrillic>
+      <definition>дээл хувцсаа өмсөх, бүрэн хувцастай болох; би ч биеэ өвч хувцалж авав.</definition>
+      <page>722</page>
+    </entry_item>
+  </entries>
+</entry>

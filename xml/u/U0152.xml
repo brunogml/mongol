@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="U0152">
+  <head>
+    <unicode>ᠣᠨᠢᠰᠣᠵᠢᠬᠣ</unicode>
+    <transcript>onisuǰiqu</transcript>
+    <transcript2>onisocigo</transcript2>
+    <cyrillic>оньсжих</cyrillic>
+  </head><derivatives>
+    <ref>U0154</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠨᠢᠰᠣᠵᠢᠬᠤ</unicode>
+      <cyrillic>оньсжих</cyrillic>
+      <definition>〔动〕①自动化，机械化；②上发条.</definition>
+      <page>811</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠨᠢᠰᠣᠵᠢᠬᠣ</unicode>
+      <cyrillic>ОНЬСЖИХ</cyrillic>
+      <definition>снабжаться механизмом. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠨᠢᠰᠣᠵᠢᠬᠣ</unicode>
+      <cyrillic>ОНЬСЖСОН</cyrillic>
+      <definition>снабжённый механизмом. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

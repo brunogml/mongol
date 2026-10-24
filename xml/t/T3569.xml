@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3569">
+  <head>
+    <unicode>ᠳᠠᠪᠲᠠᠷᠯᠠᠺᠴᠢ</unicode>
+    <transcript>debterlegči</transcript>
+    <transcript2>debderlegci</transcript2>
+    <cyrillic>дэвтэрлэгч</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠡᠪᠲᠡᠷᠯᠡᠭᠴᠢ</unicode>
+      <cyrillic>дэвтэрлэгч</cyrillic>
+      <definition>〔名〕装订者，装订工.</definition>
+      <page>462</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠪᠲᠠᠷᠯᠠᠺᠴᠢ</unicode>
+      <cyrillic>ДЭВТЭРЛЭГЧ</cyrillic>
+      <definition>брошюровщик, переплётчик. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠪᠲᠡᠷᠯᠡᠭᠴᠢ</unicode>
+      <cyrillic>дэвтэрлэгч</cyrillic>
+      <definition>дэвтэр хийдэг хүн.</definition>
+      <page>221</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T3567</ref>
+  </related_to>
+</entry>

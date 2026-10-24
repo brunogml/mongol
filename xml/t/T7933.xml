@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7933">
+  <head>
+    <unicode>ᠲᠣᠷᠳᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>tordaγdaqu</transcript>
+    <transcript2>dordagdago</transcript2>
+    <cyrillic>тордогдох</cyrillic>
+  </head>
+  <related_to>
+    <ref>T7930</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠷᠳᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>тордогдох</cyrillic>
+      <definition>〔动〕тордох 的被动态.</definition>
+      <page>1081</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠷᠳᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТОРДОГДОХ</cyrillic>
+      <definition>тордох-ын үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тордогдох</cyrillic>
+      <definition>Pass von тордох</definition>
+      <page>231</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠷᠳᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>тордогдох</cyrillic>
+      <definition>тордохын үйлдэгдэх хэв.</definition>
+      <page>544</page>
+    </entry_item>
+  </entries>
+</entry>

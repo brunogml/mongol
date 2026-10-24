@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q3989">
+  <head>
+    <unicode>ᠬᠣᠨᠢᠬᠣ</unicode>
+    <transcript>quniqu</transcript>
+    <transcript2>gonigo</transcript2>
+    <cyrillic>хуних</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q3991</ref>
+    <ref>Q3994</ref>
+    <ref>Q4016</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q3990</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠨᠢᠬᠣ</unicode>
+      <uighur>quniqu</uighur>
+      <cyrillic>хуних</cyrillic>
+      <transcript>XUNI-</transcript>
+      <definition>v.t. To fold, lay in folds, draw into folds by a string</definition>
+      <page>986</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠨᠢᠬᠤ</unicode>
+      <definition>faire des plis, plisser</definition>
+      <page>866</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠣᠨᠢᠬᠣ</unicode>
+      <uighur>quniqu</uighur>
+      <definition>falten, in Falten legen</definition>
+      <page>161</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠣᠨᠢᠬᠣ</unicode>
+      <uighur>quniqu</uighur>
+      <definition>v.t. To fold, to double up.</definition>
+      <page>632</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠨᠢᠬᠤ</unicode>
+      <cyrillic>хуних</cyrillic>
+      <definition>〔动〕①折出褶：хуньж оёх 缝合；②折叠；③抽紧抽带.</definition>
+      <page>1432</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠨᠢᠬᠣ</unicode>
+      <cyrillic>ХУНИХ</cyrillic>
+      <definition>1) стягивать шнурком в складки; 2) морщиться, мяться, делаться морщинистым, иметь складки. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хуних</cyrillic>
+      <definition>falten, in Falten legen; mit Schnur zusammenziehen</definition>
+      <page>328</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠨᠢᠬᠤ</unicode>
+      <cyrillic>хуних</cyrillic>
+      <definition>1. юманд хуниас гаргах буюу хуниасны оосрыг чангаруулан эвхэх;2. уудам юмыг чухал болгон хумих.</definition>
+      <page>730</page>
+    </entry_item>
+  </entries>
+</entry>

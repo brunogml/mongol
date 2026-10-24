@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1658">
+  <head>
+    <unicode>ᠲᠠᠯᠠᠬᠣ</unicode>
+    <transcript>talaqu</transcript>
+    <transcript2>dalago</transcript2>
+    <cyrillic>талах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1660</ref>
+    <ref>T1661</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠯᠠᠬᠣ</unicode>
+      <uighur>talaqu</uighur>
+      <cyrillic>талах</cyrillic>
+      <transcript>TALA-</transcript>
+      <definition>v. t. To take away, confiscate; to plunder; to ruin</definition>
+      <page>771</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠯᠠᠵᠤ ᠠᠪᠬᠤ</unicode>
+          <transcript>--zu abxu</transcript>
+          <definition> To rob; to conficate</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠯᠠᠬᠤ ᠲᠠᠯᠠᠬᠤ</unicode>
+          <transcript>alaxu --xu</transcript>
+          <definition> To kill and to plunder.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠷᠢᠶ᠎ᠠ ᠲᠠᠯᠠ</unicode>
+          <transcript>tarij-a --xu</transcript>
+          <definition> To injure the crops (of animals).</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠯᠠᠬᠤ</unicode>
+      <definition>enlever: 2 confisquer les biens.</definition>
+      <page>1633</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠯᠤᠰ ᠮᠠᠯ ᠢ ᠳᠠᠯᠠᠵᠤ ᠠᠪᠬᠤ</unicode>
+          <definition>enlever les hommese et le bétail</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠠᠯᠠᠨ ᠪᠤᠯᠢᠶᠠᠬᠤ</unicode>
+          <definition>enlever de force en plein jour</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠯᠠᠬᠣ</unicode>
+      <uighur>dalaqu</uighur>
+      <definition>confisciren</definition>
+      <page>232</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠯᠠᠬᠣ</unicode>
+      <uighur>talaqu</uighur>
+      <definition>v.t. To confiscate the property of a person</definition>
+      <page>915</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>талах</cyrillic>
+      <definition>〔动〕①没收，充公征用；抄家，抄查：харайх барайхы нь ~ 没收全部财产，将全部财产充公；②抢劫，掠夺；劫掠，强占，霸占；◊ алах ~ 杀戮抢劫.</definition>
+      <page>1017</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ТАЛАХ</cyrillic>
+      <definition>1) хуучир. конфисковать имущество; отнимать, отбирать; харайх барайхы нь талах конфисковать всё имущество без остатка; лишать удела, отбирать удел; штрафовать; 2) грабить; разорять; алах талах хорш. грабить и убивать, насљльничать; барих талах хорш. захватывать, грабить; талан аваачих грабить; талан булаах разграбить; талан мөлжих грабљтельски эксплуатљровать; талж дээрэмдэх разбойничать; 3) захватывать добычу; брать в плен. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>талах</cyrillic>
+      <definition>rauben, plündern; алж ~ morden und plündern; харайх барайхы нь ~ hist das gesamte Eigentum konfiszieren</definition>
+      <page>217</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>талах</cyrillic>
+      <definition>бусдын эд юмыг цөлбөн авах, дээрэмдэх,алах талах&lt;хорш&gt;, дээрэмчид, энгийн номхон ард иргэдийг алж талж зовлон гамшиг учруулж байв.</definition>
+      <page>516</page>
+    </entry_item>
+  </entries>
+</entry>

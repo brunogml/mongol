@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B3112">
+  <head>
+    <unicode>ᠪᠣᠳᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>bodulaγulqu</transcript>
+    <transcript2>bodolagolgo</transcript2>
+    <cyrillic>бодлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B3111</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠣᠳᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бодлуулах</cyrillic>
+      <definition>〔动〕бодлох 的使动态.</definition>
+      <page>163</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠳᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БОДЛУУЛАХ</cyrillic>
+      <definition>бодлох-ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бодлуулах</cyrillic>
+      <definition>Kaus von бодлох</definition>
+      <page>53</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠣᠳᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бодлуулах</cyrillic>
+      <definition>бодлохын үйлдүүлэх хэв.</definition>
+      <page>87</page>
+    </entry_item>
+  </entries>
+</entry>

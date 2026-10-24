@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2005">
+  <head>
+    <unicode>ᠲᠠᠮᠠᠺᠢᠯᠠᠬᠣ</unicode>
+    <transcript>tamakilaqu</transcript>
+    <transcript2>damagilago</transcript2>
+    <cyrillic>тамхилах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T2006</ref>
+    <ref>T2008</ref>
+    <ref>T2007</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠮᠠᠺᠢᠯᠠᠬᠣ</unicode>
+      <uighur>tamakilaqu</uighur>
+      <cyrillic>тамхилах</cyrillic>
+      <transcript>TAMAKILA-</transcript>
+      <definition>v. t. To smoke tobacco; to exchange snuffbottles in greeting.</definition>
+      <page>774</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠮᠠᠬᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>тамхилах</cyrillic>
+      <definition>〔动〕互相请吸烟，互相敬烟；一块吸烟：хөөргөө гарган ~в 一起拿出鼻烟壶吸鼻烟.</definition>
+      <page>1023</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠮᠠᠺᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ТАМХИЛАХ</cyrillic>
+      <definition>угощать друг друга папиросами, закуривать вместе. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тамхилах</cyrillic>
+      <definition>sich gegenseitig Tabak od Zigaretten anbieten; miteinander rauchen; ~ ɵрɵɵ[н] Raucherzimmer n; хɵɵргɵɵ гарган ~ bei der Begrüßung die Schnupftabaksdosen austauschen</definition>
+      <page>219</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠮᠠᠬᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>тамхилах</cyrillic>
+      <definition>тамхиа харилцан солилцож татах, хөөргөө гарган тамхилав.</definition>
+      <page>519</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T2003</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0093">
+  <head>
+    <unicode>ᠰᠠᠨᠳᠠᠬᠣ</unicode>
+    <transcript>sandaqu</transcript>
+    <transcript2>sandago</transcript2>
+    <cyrillic>сандах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S0094</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠨᠳᠠᠬᠣ</unicode>
+      <uighur>sandaqu</uighur>
+      <cyrillic>сандах</cyrillic>
+      <transcript>SANDA-</transcript>
+      <definition>v.i. To be in disorder, mussed up</definition>
+      <page>671</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠡᠩᠳᠡᠨ ᠰᠠᠨᠳᠠᠬᠣ</unicode>
+          <transcript>mengden --xu</transcript>
+          <definition> To be in a panic, fluttered, embarrassed.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠠᠨᠳᠠᠬᠤ</unicode>
+      <definition>être dispersé çà et là, ou dissipé; 2 métaph. être confus, être en désordre.</definition>
+      <page>1287</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠡᠩᠳᠡᠨ ᠰᠠᠨᠳᠠᠬᠤ</unicode>
+          <definition>être presé et embarassé</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠨᠳᠠᠬᠤ</unicode>
+      <cyrillic>сандах</cyrillic>
+      <definition>〔动〕散乱，扔乱，杂乱.</definition>
+      <page>912</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠨᠳᠠᠬᠣ</unicode>
+      <cyrillic>САНДАХ</cyrillic>
+      <definition>быть разбросанным, рассеянным; быть в замешательстве, смятении, находиться в беспокойстве, тревоге; хучлага сандах разбросать постель. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сандах</cyrillic>
+      <definition>unordentlich od durcheinandergeworfen sein</definition>
+      <page>195</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠨᠳᠠᠬᠤ</unicode>
+      <cyrillic>сандах</cyrillic>
+      <definition>хэвийн байдал үймрэн хөдлөх; хучлага сандах.</definition>
+      <page>468</page>
+    </entry_item>
+  </entries>
+</entry>

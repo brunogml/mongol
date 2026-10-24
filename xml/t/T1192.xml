@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T1192">
+  <head>
+    <unicode>ᠳᠠᠪᠬᠣᠷᠯᠢᠬᠲᠣ</unicode>
+    <transcript>dabqurliγtu</transcript>
+    <transcript2>dabgorligdo</transcript2>
+    <cyrillic>давхарлагт</cyrillic>
+  </head><see_also>
+    <ref>T1191</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠪᠬᠣᠷᠯᠢᠬᠲᠤ ~ ᠳᠠᠪᠬᠣᠷᠳᠤ</unicode>
+      <definition>double, doublé, en plusieurs rangs</definition>
+      <page>1608</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠪᠬᠣᠷᠯᠢᠬ ᠎ᠲᠤ ᠪᠠᠶᠢᠰᠢᠩ</unicode>
+          <definition>maison à deux étages</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠪᠬᠤᠷᠯᠢᠭᠲᠤ</unicode>
+      <cyrillic>давхарлагт</cyrillic>
+      <definition>〔形〕有层次的，楼层的.</definition>
+      <page>369</page>
+    </entry_item>
+  </entries>
+</entry>

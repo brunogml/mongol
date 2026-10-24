@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M2290">
+  <head>
+    <unicode>ᠮᠥᠴᠢᠺᠥᠳᠠᠺᠥ</unicode>
+    <transcript>möčigüdekü</transcript>
+    <transcript2>möcigödegö</transcript2>
+    <cyrillic>мөчүүдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M2291</ref>
+    <ref>M2289</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠥᠴᠢᠭᠦᠳᠡᠬᠦ</unicode>
+      <cyrillic>мөчүүдэх</cyrillic>
+      <definition>〔动〕显得勉强，变欠缺.</definition>
+      <page>692</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠥᠴᠢᠺᠥᠳᠠᠺᠥ</unicode>
+      <cyrillic>МӨЧҮҮДЭХ</cyrillic>
+      <definition>еле-еле хватать на что-л.; оказываться, быть в обрез. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠥᠴᠢᠭᠦᠳᠡᠬᠦ</unicode>
+      <cyrillic>мөчүүдэх</cyrillic>
+      <definition>хэтэрхий мөчүү болох.</definition>
+      <page>348</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3091">
+  <head>
+    <unicode>ᠰᠢᠨᠣᠮᠠᠭᠠᠢ</unicode>
+    <transcript>sinumaγai</transcript>
+    <transcript2>sinomagai</transcript2>
+    <cyrillic>шунамгай</cyrillic>
+  </head>
+  <see_also>
+    <ref>S3090</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠨᠤᠮᠠᠭᠠᠢ</unicode>
+      <cyrillic>шунамгай</cyrillic>
+      <definition>〔形〕参见 шунахай.</definition>
+      <page>1660</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠨᠣᠮᠠᠭᠠᠢ</unicode>
+      <cyrillic>ШУНАМГАЙ</cyrillic>
+      <definition>шунахай-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шунамгай,</cyrillic>
+      <definition>шунамхай [be]gierig; ~ чагнах begierig lauschen</definition>
+      <page>392</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠨᠤᠮᠠᠭᠠᠢ</unicode>
+      <cyrillic>шунамгай</cyrillic>
+      <definition>шунахай, шунамгай.</definition>
+      <page>859</page>
+    </entry_item>
+  </entries>
+</entry>

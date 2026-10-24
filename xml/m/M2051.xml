@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M2051">
+  <head>
+    <unicode>ᠮᠣᠷᠴᠢᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>murčiγanaqu</transcript>
+    <transcript2>morciganago</transcript2>
+    <cyrillic>мурчганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M2052</ref>
+    <ref>M2053</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠤᠷᠴᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>мурчганах</cyrillic>
+      <definition>〔动〕参见 мурчилзах.</definition>
+      <page>696</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠷᠴᠢᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>МУРЧГАНАХ</cyrillic>
+      <definition>сморщиться, шершаветь. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠤᠷᠴᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>мурчганах</cyrillic>
+      <definition>мурчгар юмны мурчга мурчга хөдлөх.</definition>
+      <page>350</page>
+    </entry_item>
+  </entries>
+</entry>

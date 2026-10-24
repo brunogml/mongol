@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5790">
+  <head>
+    <unicode> ᠰᠣᠯᠢᠹᠠᠲ</unicode>
+    <transcript>sulifat</transcript>
+    <transcript2>solifad</transcript2>
+    <cyrillic>сульФат</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode> ᠰᠣᠯᠢᠹᠠᠲ</unicode>
+      <cyrillic>СУЛЬФАТ</cyrillic>
+      <definition>хувил. сульфат. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сульфат</cyrillic>
+      <definition>Chem Sulfat n</definition>
+      <page>204</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠯᠢᠹᠠᠲ᠋</unicode>
+      <cyrillic>сульфат</cyrillic>
+      <definition>хүхрийн давс бүхий олон зүйлийн юмны ерөнхий нэр.</definition>
+      <page>488</page>
+    </entry_item>
+  </entries>
+</entry>

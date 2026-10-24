@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8970">
+  <head>
+    <unicode>ᠲᠥᠺᠡᠨᠡᠺᠥ</unicode>
+    <transcript>tögenekü</transcript>
+    <transcript2>dögenegö</transcript2>
+    <cyrillic>төөнөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T8971</ref>
+    <ref>T8973</ref>
+    <ref>T8969</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠥᠺᠡᠨᠡᠺᠥ</unicode>
+      <uighur>tökenekü</uighur>
+      <cyrillic>төөнөх</cyrillic>
+      <transcript>TØGENE-</transcript>
+      <definition>v.t. To cauterize, apply a poultice or a hot compress.</definition>
+      <page>832</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠯᠠᠭᠤᠨ ᠳᠠᠪᠤᠰᠤᠨ ᠢᠶᠠᠷ ᠲᠥᠺᠡᠨᠡᠺᠥ</unicode>
+          <transcript>xalaγun dabusun ijer --ky</transcript>
+          <definition> To apply hot salt to a part of the body affected by an ailment</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠯᠠᠭᠤᠨ ᠶᠠᠭᠤᠮ᠎ᠠ ᠪᠡᠷ ᠲᠥᠺᠡᠨᠡᠵᠦ ᠵᠢᠩ ᠪᠠᠷᠢᠬᠤ</unicode>
+          <transcript>xalaγun jaγum-a ber --zy zing barixu</transcript>
+          <definition> To apply a hot object to a part of the body affected by an ailment.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠦᠺᠡᠨᠡᠺᠦ</unicode>
+      <definition>cautériser; 2 appliquer un cataplasme</definition>
+      <page>1926</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠥᠺᠡᠨᠡᠺᠥ</unicode>
+      <uighur>dükenekü</uighur>
+      <definition>mit einem glühenden Eisen brennen (z, B. ein krankes Pferd); eine Wunde ausbrennen oder ausätzen</definition>
+      <page>258</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠥᠺᠡᠨᠡᠺᠥ</unicode>
+      <uighur>tükenekü</uighur>
+      <definition>v.t. To burn with a glowing hot iron (sick horses) To cauterize (a wound).</definition>
+      <page>1025</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠥᠺᠡᠨᠡᠺᠥ</unicode>
+      <uighur>tükene talbiqu</uighur>
+      <definition>To apply blister (med.).</definition>
+      <page>1025</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠥᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>төөнөх</cyrillic>
+      <definition>〔动〕①烧灼，烘烤，加热，火烙：ар нуруунаас нар ~ж байна 太阳直烤后背；②〈医〉灸，艾灸：~ж өвдөх 灼痛.</definition>
+      <page>1099</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠺᠡᠨᠡᠺᠥ</unicode>
+      <cyrillic>ТӨӨНӨХ</cyrillic>
+      <definition>1. 1) прогреть (больное место); 2) прижечь (больное место); 3) сљльно греть (о солнце); обдавать зноем, жаром; нар хурц төөнөж байна солнце сљльно греет; 2. төөнөхүй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠺᠡᠨᠡᠺᠥ</unicode>
+      <cyrillic>ТӨӨНӨХҮЙ</cyrillic>
+      <definition>прижигание. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠥᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>төөнөх</cyrillic>
+      <definition>1. халаах, халуу оргиулах; ар нуруунаас нар төөнөж байна;2. төөнө тавих.</definition>
+      <page>551</page>
+    </entry_item>
+  </entries>
+</entry>

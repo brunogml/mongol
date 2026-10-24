@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O0851">
+  <head>
+    <unicode>ᠥᠯᠠᠳᠠᠯ</unicode>
+    <transcript>üledel</transcript>
+    <transcript2>öledel</transcript2>
+    <cyrillic>үлдэл</cyrillic>
+  </head>
+  <derivatives>
+    <ref>O0859</ref>
+  </derivatives>
+  <see_also>
+    <ref>O1031</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠥᠯᠠᠳᠠᠯ</unicode>
+      <uighur>üledel</uighur>
+      <cyrillic>үлдэл</cyrillic>
+      <transcript>YLEDEL</transcript>
+      <definition>n. Remains, leftovers, surplus, excess.</definition>
+      <page>1004</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠦᠯᠡᠳᠡᠯ</unicode>
+      <definition>le reste, le restant, le superflu.</definition>
+      <page>522</page>
+      <examples>
+        <example>
+          <unicode>ᠦᠯᠡᠳᠡᠯ ᠺᠥᠳᠦᠷᠡᠯ</unicode>
+          <definition>superflu, surabondance, restes abondants</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠯᠠᠳᠠᠯ</unicode>
+      <cyrillic>ҮЛДЭЛ</cyrillic>
+      <definition>остаток, излљшек; үлдэл хэтрэл хорш. остаток, излљшек. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠯᠠᠳᠠᠯ</unicode>
+      <cyrillic>ҮЛДЭЛГҮЙ</cyrillic>
+      <definition>без остатка. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠦᠯᠡᠳᠡᠯ</unicode>
+      <cyrillic>үлдэл</cyrillic>
+      <definition>үлдсэн нь, үлдсэн юм, үлдэгдэл;үлдэл хэтрэл&lt;хорш&gt;.</definition>
+      <page>620</page>
+    </entry_item>
+  </entries>
+</entry>

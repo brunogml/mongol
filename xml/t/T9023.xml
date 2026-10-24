@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9023">
+  <head>
+    <unicode>ᠲᠥᠺᠡᠷᠢᠺᠳᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>tögerigdegülkü</transcript>
+    <transcript2>dögerigdegölgö</transcript2>
+    <cyrillic>төөрөгдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T9022</ref>
+    <ref>T9019</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠥᠭᠡᠷᠢᠭᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>төөрөгдүүлэх</cyrillic>
+      <definition>〔动〕төөрөгдөх 的使动态：хүмүүсийг ~ 蛊惑人心.</definition>
+      <page>1100</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠺᠡᠷᠢᠺᠳᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ТӨӨРӨГДҮҮЛЭХ</cyrillic>
+      <definition>төөрөгдөх-ийн үйлдүүл., вводљть в заблуждение, путать, сбивать с толку; хууран төөрөгдүүлэх обманывать, одурачивать, одурманивать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠥᠭᠡᠷᠢᠭᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>төөрөгдүүлэх</cyrillic>
+      <definition>төөрөгдөхийн үйлдүүлэх хэв, хүмүүсийг төөрөгдүүлэх.</definition>
+      <page>551</page>
+    </entry_item>
+  </entries>
+</entry>

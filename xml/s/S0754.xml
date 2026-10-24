@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0754">
+  <head>
+    <unicode>ᠰᠠᠪᠰᠠᠯᠠᠬᠣ</unicode>
+    <transcript>sabsalaqu</transcript>
+    <transcript2>sabsalago</transcript2>
+    <cyrillic>савслах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S0755</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠪᠰᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>савслах</cyrillic>
+      <definition>〔动〕савсах 的多次体.</definition>
+      <page>893</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠪᠰᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>САВСЛАХ</cyrillic>
+      <definition>савсах-ын олонтаа. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠪᠰᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>савслах</cyrillic>
+      <definition>байн байн савсах.</definition>
+      <page>458</page>
+    </entry_item>
+  </entries>
+</entry>

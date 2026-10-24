@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T1053">
+  <head>
+    <unicode>ᠲᠠᠪᠠᠷᠴᠠᠬᠯᠠᠬᠣ</unicode>
+    <transcript>tabarčaγlaqu</transcript>
+    <transcript2>dabarcaglago</transcript2>
+    <cyrillic>таварцаглах</cyrillic>
+  </head><derivatives>
+    <ref>T1054</ref>
+  
+    <ref>T1055</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠪᠠᠷᠴᠠᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>таварцаглах</cyrillic>
+      <definition>〔动〕打筋斗，失前蹄.</definition>
+      <page>1005</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠪᠠᠷᠴᠠᠬᠯᠠᠬᠣ</unicode>
+      <cyrillic>ТАВАРЦАГЛАХ</cyrillic>
+      <definition>спотыкаться. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

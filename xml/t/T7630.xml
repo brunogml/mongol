@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7630">
+  <head>
+    <unicode>ᠳᠣᠷᠠᠰᠢᠯ</unicode>
+    <transcript>durasil</transcript>
+    <transcript2>dorasil</transcript2>
+    <cyrillic>дуршил</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠣᠷᠠᠰᠢᠯ</unicode>
+      <uighur>durasil</uighur>
+      <cyrillic>дуршил</cyrillic>
+      <transcript>DURASIL</transcript>
+      <definition>n. Wish, desire, inclination; appetite.</definition>
+      <page>276</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠣᠷᠠᠰᠢᠯ ᠡᠭᠦᠰᠭᠡᠺᠦ</unicode>
+          <transcript>-- egysgeky</transcript>
+          <definition> To desire, have a mind to, be inclined to.</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠣᠷᠠᠰᠢᠯ ᠨᠡᠭᠡᠭᠡᠺᠦ</unicode>
+          <transcript>-- negegeky</transcript>
+          <definition> To [show one's] desire.</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠣᠷᠠᠰᠢᠯ ᠦᠯᠦ ᠠᠮᠤᠬᠤ</unicode>
+          <transcript>-- yly amuxu</transcript>
+          <definition> For the desire not to cease.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠢᠨᠠᠳᠤ ᠡᠭᠦᠨ ᠢ ᠠᠪᠬᠤ ᠳᠣᠷᠠᠰᠢᠯ ᠪᠠᠶᠢᠨ᠎ᠠ ᠤᠤ</unicode>
+          <transcript>cimadu egyn i abxu -- bain-a uu</transcript>
+          <definition> Do you want to buy this?.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠷᠠᠰᠢᠯ</unicode>
+      <definition>désir, envie, inclination, penchant.</definition>
+      <page>1881</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠤᠷᠠᠰᠢᠯ ᠡᠭᠦᠰᠭᠡᠺᠦ</unicode>
+          <definition>désirer, avoir envie de</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠤᠷᠠᠰᠢᠯ ᠦᠯᠦ ᠠᠮᠤᠬᠤ</unicode>
+          <definition>désirer sans cesse, avoir une grande passion</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠤᠷᠠᠰᠢᠯ ᠨᠡᠭᠡᠺᠦ</unicode>
+          <definition>désirer, manifester son désir</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠳᠣᠷᠠᠰᠢᠯ</unicode>
+      <uighur>duresil</uighur>
+      <definition>das Wollen, die Wille</definition>
+      <page>282</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠳᠣᠷᠠᠰᠢᠯ</unicode>
+      <uighur>dorasil</uighur>
+      <definition>n. Wish. Desire. Inclination to something.</definition>
+      <page>1126</page>
+      <examples>
+        <example>
+          <uighur>dorasil egüskekü</uighur>
+          <definition>To beget desire or inclination to something.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠷᠠᠰᠢᠯ</unicode>
+      <cyrillic>ДУРШИЛ</cyrillic>
+      <definition>1) желание, склонность; 2) позыв, вожделение, аппетит; дуршил зохимж тэгш сайн хоол излюбленная пища. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дуршил</cyrillic>
+      <definition>Appetit m; Verlangen n</definition>
+      <page>100</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠤᠷᠠᠰᠢᠯ</unicode>
+      <cyrillic>дуршил</cyrillic>
+      <definition>1. дурлаж хүсэх зүйл;2. юм идэхийг хүсэх хүсэл.</definition>
+      <page>212</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>T7631</ref>
+    <ref>T7630a</ref>
+  </derivatives>
+</entry>

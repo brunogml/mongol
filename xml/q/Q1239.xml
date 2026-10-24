@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1239">
+  <head>
+    <unicode>ᠬᠠᠪᠴᠢᠯ</unicode>
+    <transcript>qabčil</transcript>
+    <transcript2>gabcil</transcript2>
+    <cyrillic>хавцал</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q1240</ref>
+    <ref>Q1241</ref>
+    <ref>Q1242</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q1204</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠪᠴᠢᠯ</unicode>
+      <uighur>qabčil</uighur>
+      <cyrillic>хавцал - хавчил</cyrillic>
+      <transcript>XABCIL</transcript>
+      <definition>n. Gorge; mountain pass, defile; deep ravine at the foot of a mountain.</definition>
+      <page>896</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠪᠴᠢᠯ ᠪᠣᠭᠤᠬᠤ</unicode>
+          <transcript>-- boγuxu</transcript>
+          <definition> To block a mountain pass, ravine or gorge</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠪᠴᠢᠯ ᠵᠠᠮ</unicode>
+          <transcript>-- zam</transcript>
+          <definition> Narrow passage, defile.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠪᠴᠢᠯ</unicode>
+      <definition>un défilé, une gorge de montagne. passage étroit dans les montagnes</definition>
+      <page>763</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠪᠴᠢᠯ ᠪᠤᠭᠤᠬᠤ</unicode>
+          <definition>barrer le défilé</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠪᠴᠢᠯ ᠵᠠᠮ</unicode>
+          <definition>un passage étroit, un sentier étroit</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠠᠪᠴᠢᠯ</unicode>
+      <uighur>qabčil</uighur>
+      <definition>eine Bergschlucht, ein Bergpass, ein Defile,</definition>
+      <page>130</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠠᠪᠴᠢᠯ</unicode>
+      <uighur>qabčil</uighur>
+      <definition>n. A gorge. A ravine. A mountain pass or defile.</definition>
+      <page>516</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠪᠴᠢᠯ</unicode>
+      <cyrillic>хавцал</cyrillic>
+      <definition>〔名〕峡谷；嶂谷；峡沟，山沟：~ жалга 山谷地，山沟；~ хад 山壁，岩石；гүн ~ 深谷，深沟.</definition>
+      <page>1265</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠪᠴᠢᠯ</unicode>
+      <cyrillic>ХАВЦАЛ</cyrillic>
+      <definition>ущелье; теснина, горный проход, глубокое ущелье у подножия горы, балка. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠪᠴᠢᠯ</unicode>
+      <cyrillic>ХАВЧИЛ</cyrillic>
+      <definition>1) сжатие, тисканье; 2) теснина, ущелье. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠪᠴᠢᠯ</unicode>
+      <cyrillic>ХАВЧИЛГҮЙ</cyrillic>
+      <definition>не притесняя; без зажима; не принуждая. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠪᠴᠢᠯ</unicode>
+      <cyrillic>хавцал</cyrillic>
+      <definition>уулын бэрх цухал, гүн жалга амсартай боомт газар; хадан хавцал; хясаа хавцал; гүн хавцал.</definition>
+      <page>636</page>
+    </entry_item>
+  </entries>
+</entry>

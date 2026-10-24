@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2097">
+  <head>
+    <unicode>ᠫᠢᠩᠰᠠᠯᠠᠺᠥ</unicode>
+    <transcript>pingselekü</transcript>
+    <transcript2>pingselegö</transcript2>
+    <cyrillic>пинслэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B2099</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠫᠢᠩᠰᠡᠯᠡᠺᠦ</unicode>
+      <definition>peser (l'argent) dans une balance,</definition>
+      <page>1269</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠫᠢᠩᠰᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>пинслэх</cyrillic>
+      <definition>〔动〕用天平称量.</definition>
+      <page>874</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠫᠢᠩᠰᠠᠯᠠᠺᠥ</unicode>
+      <cyrillic>ПИНСЛЭХ</cyrillic>
+      <definition>взвешивать на маленьких ручных весах с коромыслом. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠫᠢᠩᠰᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>пинслэх</cyrillic>
+      <definition>пинсээр хэмжих, тэгнүүрдэх.</definition>
+      <page>451</page>
+    </entry_item>
+  </entries>
+</entry>

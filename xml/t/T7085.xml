@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7085">
+  <head>
+    <unicode>ᠳᠣᠯᠭᠢᠶ ᠠ</unicode>
+    <transcript>dolgiy-a</transcript>
+    <transcript2>dolgiya</transcript2>
+    <cyrillic>долгио</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠣᠯᠺᠢᠶᠠ ~ ᠳᠣᠯᠺᠢᠶᠠᠨ</unicode>
+      <uighur>dolkiya - dolkiyan</uighur>
+      <cyrillic>долгио(н)</cyrillic>
+      <transcript>DOLGIJA(N)</transcript>
+      <definition>n. Wave, billow.</definition>
+      <page>259</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠭᠤᠨ ᠤ ᠳᠣᠯᠺᠢᠶᠠ</unicode>
+          <transcript>daγun u --</transcript>
+          <definition>Smmd wave.</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠡᠷᠡᠯ ᠤᠨ ᠳᠣᠯᠺᠢᠶᠠ</unicode>
+          <transcript>gerel yn --</transcript>
+          <definition>Light wave.</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠡᠢ ᠵᠠᠢ ᠎ᠶᠢᠨ ᠳᠣᠯᠺᠢᠶᠠ</unicode>
+          <transcript>kei zai jin --</transcript>
+          <definition>Gas cloud.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠯᠺᠢᠶᠠᠨ</unicode>
+      <definition>onde, vague, des flots.</definition>
+      <page>1860</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠤᠯᠺᠢᠶᠠᠨ ᠤ ᠡᠷᠢᠺᠡ ᠠᠮᠤᠷᠯᠢᠬᠤ</unicode>
+          <definition>apaiser les vagues</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠳᠣᠯᠺᠢᠶᠠ</unicode>
+      <uighur>dulkiyan</uighur>
+      <definition>siehe dolkin</definition>
+      <page>281</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠣᠯᠭᠢᠶ᠎ᠠ</unicode>
+      <cyrillic>долгио</cyrillic>
+      <definition>〔名〕参见 долгион: ~ саатал 〈物〉衍射.</definition>
+      <page>411</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠯᠺᠢᠶᠠ</unicode>
+      <cyrillic>ДОЛГИО(Н)</cyrillic>
+      <definition>1. 1) вал; волна; прибой; барашки; 2) волна, волны; агаарын долгион воздушная волна; гэрлийн долгион бодос. световые волны; дууны долгион звуковые волны; дэлбэрэлтийн долгион / тэсрэлтийн долгион взрывная волна; радио долгион радиоволна; алсын долгион барих поймать отдалённую волну, радиостанцию; 3) шилж. волнение; 2. волнистый.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠯᠺᠢᠶᠠ</unicode>
+      <cyrillic>ДОЛГИОН</cyrillic>
+      <definition>долгио(н) 2.-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠯᠺᠢᠶᠠ</unicode>
+      <cyrillic>ДОЛГИОНЫ</cyrillic>
+      <definition>долгио(н)-ы харьяал., волновой; богино долгионы нэвтрүүлэг коротковолновая передача.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠣᠯᠭᠢᠶ᠎ᠠ</unicode>
+      <cyrillic>долгио</cyrillic>
+      <definition>долгион.</definition>
+      <page>197</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>T7086</ref>
+    <ref>T7087</ref>
+    <ref>T7088</ref>
+    <ref>T7089a</ref>
+    <ref>T7090</ref>
+    <ref>T7092</ref>
+    <ref>T7094</ref>
+    <ref>T7094a</ref>
+  </derivatives>
+</entry>

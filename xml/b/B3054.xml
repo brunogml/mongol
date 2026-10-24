@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B3054">
+  <head>
+    <unicode>ᠪᠣᠳᠢᠰᠠᠳᠣ</unicode>
+    <transcript>bodisadu</transcript>
+    <transcript2>bodisado</transcript2>
+    <cyrillic>бодьсад</cyrillic>
+  </head><see_also>
+    <ref>B3054a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠣᠳᠢᠰᠠᠳᠣ</unicode>
+      <uighur>bodisadu</uighur>
+      <transcript>BODISADV</transcript>
+      <definition>See bodisadu-a</definition>
+      <page>109</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠤᠳᠢᠰᠠᠳᠤᠤ᠎ᠠ ~ ᠪᠤᠳᠢᠰᠠᠳᠤ ~ ᠪᠤᠳᠢᠰᠤᠩ</unicode>
+      <definition>uni à l'intelligence. intelligent, bôdhisattva (ch. pou - sa), bouddha futur,</definition>
+      <page>1178</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠤᠳᠢᠰᠠᠳᠤ ᠎ᠶᠢᠨ ᠠᠷᠪᠠᠨ ᠭᠠᠵᠠᠷ</unicode>
+          <definition>les dix terres ou stations des bodhisattvas, dix degrés de la perfection bouddhique</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

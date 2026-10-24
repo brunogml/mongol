@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1980">
+  <head>
+    <unicode>ᠵᠡᠪᠰᠡᠺᠯᠡᠯ</unicode>
+    <transcript>ǰebseglel</transcript>
+    <transcript2>yebseglel</transcript2>
+    <cyrillic>зэвсэглэл</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠡᠪᠰᠡᠺᠯᠡᠯ</unicode>
+      <uighur>ǰebseklel</uighur>
+      <cyrillic>зэвсэглэл</cyrillic>
+      <transcript>ZEBSEGLEL</transcript>
+      <definition>n. Armaments; arming.</definition>
+      <page>1042</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠡᠷᠡᠭ ᠤᠨ ᠵᠡᠪᠰᠡᠺᠯᠡᠯ</unicode>
+          <transcript>cereg yn -- </transcript>
+          <definition> Armaments.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠡᠪᠰᠡᠭᠯᠡᠯ</unicode>
+      <cyrillic>зэвсэглэл</cyrillic>
+      <definition>〔名〕装备，武装，军备：~ийн хойноос хөөдөлдөж дайндбэлтгэх 扩军备战；~ийг хорогдуулах 裁减军备；~ийн хойноос хөөцөлдөх 军备竞赛.</definition>
+      <page>592</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠡᠪᠰᠡᠺᠯᠡᠯ</unicode>
+      <cyrillic>ЗЭВСЭГЛЭЛ</cyrillic>
+      <definition>вооружение; зэвсэглэлээр хөөцөлдөх гонка вооружения. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зэвсэглэл</cyrillic>
+      <definition>Mil Bewaffnung f, Rüstung f; Ausrüstung f; ~ийг бүх нийтзэр бурэн хураах allgemeine und vollständige Abrüstung f; ~ийг хорогдуулах die Rüstung verringern; ~ийн аж үйлдвэр Rüstungsindustrie f</definition>
+      <page>130</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠡᠪᠰᠡᠭᠯᠡᠯ</unicode>
+      <cyrillic>зэвсэглэл</cyrillic>
+      <definition>зэвсэглэх үйлийн нэр, цэргийн бүх төрлийн зэр зэвсгийн хангамж; зэвсэглэлийг хорогдуулах.</definition>
+      <page>293</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Y1984</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4916">
+  <head>
+    <unicode>ᠬᠣᠪᠴᠠᠰᠣᠵᠢᠬᠣ</unicode>
+    <transcript>qubčasuǰiqu</transcript>
+    <transcript2>gobcasocigo</transcript2>
+    <cyrillic>хувцасжих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q4917</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠪᠴᠠᠰᠤᠵᠢᠬᠤ</unicode>
+      <cyrillic>хувцасжих</cyrillic>
+      <definition>〔动〕衣着改善；衣服增多，得到足够的衣服.</definition>
+      <page>1420</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠪᠴᠠᠰᠣᠵᠢᠬᠣ</unicode>
+      <cyrillic>ХУВЦАСЖИХ</cyrillic>
+      <definition>приобретать одежду в достаточном количестве. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хувцасжих</cyrillic>
+      <definition>sich mit Kleidung versorgen od ausstatten</definition>
+      <page>325</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠪᠴᠠᠰᠤᠵᠢᠬᠤ</unicode>
+      <cyrillic>хувцасжих</cyrillic>
+      <definition>хувцас сайтай болох.</definition>
+      <page>722</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q4910</ref>
+  </related_to>
+</entry>

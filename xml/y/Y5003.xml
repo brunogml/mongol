@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y5003">
+  <head>
+    <unicode>ᠵᠥᠢᠷᠯᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ǰüirlegülkü</transcript>
+    <transcript2>yöirlegölgö</transcript2>
+    <cyrillic>зүйрлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y5002</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠦᠢᠷᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>зүйрлүүлэх</cyrillic>
+      <definition>〔动〕зүйрлэх 的使动态.</definition>
+      <page>586</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠥᠢᠷᠯᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЗҮЙРЛҮҮЛЭХ</cyrillic>
+      <definition>зүйрлэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зүйрлүүлэх</cyrillic>
+      <definition>Kaus von зүйрлэх</definition>
+      <page>128</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠦᠢᠷᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>зүйрлүүлэх</cyrillic>
+      <definition>зүйрлэхийн үйлдүүлэх хэв.</definition>
+      <page>290</page>
+    </entry_item>
+  </entries>
+</entry>

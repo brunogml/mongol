@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2999">
+  <head>
+    <unicode>ᠲᠠᠷᠴᠢᠺᠢᠨᠠᠬᠣ</unicode>
+    <transcript>tarčiginaqu</transcript>
+    <transcript2>darciginago</transcript2>
+    <cyrillic>тарчигнах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T3002</ref>
+    <ref>T3006</ref>
+  </derivatives>
+  <see_also>
+    <ref>T3000</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠷᠴᠢᠺᠢᠨᠠᠬᠣ</unicode>
+      <uighur>tarčikinaqu</uighur>
+      <cyrillic>тарчигнах</cyrillic>
+      <transcript>TARCIGINA-</transcript>
+      <definition>[= tarzigina-, darcigina-] onomat. v. i. To rustle (of leaves); to knock, tap, clatter, stamp; to jar, rattle (from detonation).</definition>
+      <page>780</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠠᠰᠢᠨ ᠤ ᠳᠠᠭᠤᠤ ᠤᠯᠠᠨ ᠬᠤᠷᠳᠤᠨ ᠲᠠᠷᠴᠢᠺᠢᠨᠠᠪᠠ</unicode>
+          <transcript>masin u daγuu ulam xurdun --ba</transcript>
+          <definition> The engine chugged faster and faster.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠷᠴᠢᠺᠢᠨᠠᠬᠤ</unicode>
+      <definition>frapper avec bruit, se câbrer.</definition>
+      <page>1682</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠷᠴᠢᠭᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>тарчигнах</cyrillic>
+      <definition>〔动〕（许多车辆牲畜行走时）嘎嘎响，嘎吱嘎吱响，哗啦哗啦响，夸啦夸啦响，（车）辚辚：олон танкийн гинжний дуу ~ж байв 许多坦克的履带发出嘎嘎的响声.</definition>
+      <page>1033</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠷᠴᠢᠺᠢᠨᠠᠬᠣ</unicode>
+      <cyrillic>ТАРЧИГНАХ</cyrillic>
+      <definition>дребезжать, трещать; стучать, шелестеть (о бумаге); тарчигнан тэрчигнэн авиа.дуур. хруст-хруст, шорк-шорк (звукоподражание шелесту бумаги). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тарчигнах</cyrillic>
+      <definition>rasseln, rattern; prasseln</definition>
+      <page>221</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠷᠴᠢᠭᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>тарчигнах</cyrillic>
+      <definition>олон тэрэг явах, мал үргэх зэрэгт гарах чимээ; жагсаал дээр олон танкийн гинжний дуу тарчигнаж байв.</definition>
+      <page>524</page>
+    </entry_item>
+  </entries>
+</entry>

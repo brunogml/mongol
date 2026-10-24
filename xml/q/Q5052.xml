@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q5052">
+  <head>
+    <unicode>ᠬᠣᠱᠣᠣᠯᠳᠠᠬᠣ</unicode>
+    <transcript>qošouldaqu</transcript>
+    <transcript2>gosooldago</transcript2>
+    <cyrillic>хошуулдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q5053</ref>
+    <ref>Q5054</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠣᠱᠤᠤᠯᠳᠠᠬᠤ</unicode>
+      <cyrillic>хошуулдах</cyrillic>
+      <definition>〔动〕参见 хошуулах.</definition>
+      <page>1383</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠱᠣᠣᠯᠳᠠᠬᠣ</unicode>
+      <cyrillic>ХОШУУЛДАХ</cyrillic>
+      <definition>складывать по диагонали; өрх хошуулдах неполностью закрывать дымоходное отверстие юрты квадратной кошмой, сложенной по диагонали. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠰᠢᠭᠤᠯᠳᠠᠬᠤ</unicode>
+      <cyrillic>хошуулдах</cyrillic>
+      <definition>хошуу болгох, хошуу гаргах.</definition>
+      <page>701</page>
+    </entry_item>
+  </entries>
+</entry>

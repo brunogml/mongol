@@ -1,0 +1,583 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T4735">
+  <head>
+    <unicode>ᠲᠠᠺᠷᠢ</unicode>
+    <transcript>tegri</transcript>
+    <transcript2>degri</transcript2>
+    <cyrillic>тэнгэр</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠺᠷᠢ</unicode>
+      <uighur>tekri</uighur>
+      <transcript>TEGRI</transcript>
+      <definition>See tngri.</definition>
+      <page>794</page>
+    </entry_item>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠺᠷᠢ</unicode>
+      <uighur>tngri</uighur>
+      <cyrillic>тэнгэр</cyrillic>
+      <transcript>TNGRI</transcript>
+      <definition>[= tenggeri, tegri] n. Heaven; god; sky; weather.</definition>
+      <page>809</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠺᠷᠢ ᠪᠤᠰᠤ</unicode>
+          <transcript>-- busu</transcript>
+          <definition> 'non-gods', mythological beings classed between gods and men (S. asura, T. lja min)</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠺᠷᠢ ᠪᠦᠷᠺᠦᠺᠦ</unicode>
+          <transcript>-- byrkyky</transcript>
+          <definition> To become cloudy.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠺᠷᠢ ᠳᠤᠤᠭᠠᠷᠬᠤ</unicode>
+          <transcript>-- duuγarxu</transcript>
+          <definition> To thunder.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠺᠷᠢ ᠡᠴᠡ ᠵᠠᠶᠠᠭᠠᠲᠤ</unicode>
+          <transcript>-- ece zajaγatu</transcript>
+          <definition> Sent from heaven, decreed by God ( a phrase applied to the emperor; cf. the phrase </definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠺᠷᠢ ᠎ᠶᠢᠨ ᠳᠣᠤᠷᠠᠺᠢᠨ</unicode>
+          <transcript>-- jin dourakin</transcript>
+          <definition> [That which is] under heaven; world, universe; the [Chinese] Empire (Ch. t'ien-hsia ) .</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠺᠷᠢ ᠎ᠶᠢᠨ ᠡᠷᠺᠡᠲᠦ</unicode>
+          <transcript>-- jin erkety</transcript>
+          <definition> The Mighty One of the tengri: Indra.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠺᠷᠢ ᠎ᠶᠢᠨ ᠡᠵᠡᠨ</unicode>
+          <transcript>-- jin ezen</transcript>
+          <definition> The Lord of Heaven, God.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠺᠷᠢ ᠎ᠶᠢᠨ ᠺᠢᠵᠠᠭᠠᠷ</unicode>
+          <transcript>-- jin kizaγar</transcript>
+          <definition> Horizon.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠺᠷᠢ ᠎ᠶᠢᠨ ᠺᠦᠪᠡᠭᠦᠨ</unicode>
+          <transcript>-- jin kybegyn</transcript>
+          <definition> Son of heaven (Ch. t'ien-tzfi , designation of the Chinese emperor)</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠺᠷᠢ ᠎ᠶᠢᠨ ᠮᠣᠳᠤᠨ</unicode>
+          <transcript>-- jin modun</transcript>
+          <definition> Deodar (S. devadim, T. lha çing)</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠺᠷᠢ ᠎ᠶᠢᠨ ᠣᠷᠤᠢ</unicode>
+          <transcript>-- jin orui</transcript>
+          <definition> Zenith.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠺᠷᠢ ᠎ᠶᠢᠨ ᠣᠷᠤᠨ</unicode>
+          <transcript>-- jin orun</transcript>
+          <definition> Region or abode of the spirits; heaven</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠺᠷᠢ ᠎ᠶᠢᠨ ᠰᠡᠳᠺᠢᠯ</unicode>
+          <transcript>-- jin sedkil</transcript>
+          <definition> Will of heaven or god.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠺᠷᠢ ᠎ᠶᠢᠨ ᠲᠡᠳᠺᠦᠭᠰᠡᠨ</unicode>
+          <transcript>-- jin tedkygsen</transcript>
+          <definition> Protected by Heaven, the </definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠺᠷᠢ ᠎ᠶᠢᠨ ᠲᠩᠷᠢ</unicode>
+          <transcript>-- jin tngri</transcript>
+          <definition> God of gods, the Buddha (S. devātideva, T. lhahi lha ).</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠺᠷᠢ ᠎ᠶᠢᠨ ᠸᠠᠩ</unicode>
+          <transcript>-- jin vang</transcript>
+          <definition> Uramis (astron.).</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠺᠷᠢ ᠎ᠶᠢᠨ ᠬᠠᠭᠠᠨ</unicode>
+          <transcript>-- jin xaγan</transcript>
+          <definition> King of heaven.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠺᠷᠢ ᠎ᠶᠢᠨ ᠵᠢᠷᠤᠬᠠᠢ</unicode>
+          <transcript>-- jin ziruxai</transcript>
+          <definition> Astronomy.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠺᠷᠢ ᠎ᠶᠢ ᠰᠦᠰᠦᠯᠺᠦ ᠶᠠᠮᠤᠨ</unicode>
+          <transcript>-- ji sysylky jamun</transcript>
+          <definition> Board of Astronomy of the former Chinese government (Ch. ch'in-t'ien-chien).</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠺᠷᠢ ᠮᠡᠳᠡᠭᠡ</unicode>
+          <transcript>-- medege !</transcript>
+          <definition> God only knows, let god be the judge.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠺᠷᠢ ᠣᠩᠭᠤᠶᠢᠬᠤ</unicode>
+          <transcript>-- ongyuixu</transcript>
+          <definition> To clear up (of sky, weather).</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠥᠺᠡ ᠲᠠᠺᠷᠢ</unicode>
+          <transcript>køke -- </transcript>
+          <definition> Blue sky.</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠥᠩᠺᠡ ᠲᠠᠺᠷᠢ</unicode>
+          <transcript>møngke -- </transcript>
+          <definition> Eternal heaven.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠺᠷᠢ</unicode>
+      <transcript>TNGRI </transcript>
+      <definition>T. lha; S. deva. Denizen of Heaven, god, See Pt.I, ED 270. </definition>
+      <page>1186</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠩᠷᠢ ᠪᠤᠰᠤ</unicode>
+          <transcript>+++ -- busu; </transcript>
+          <definition>T. lha ma yin; S. asura. See asuri. </definition>
+        </example>
+        <example>
+          <unicode>ᠲᠩᠷᠢ ᠎ᠶᠢᠨ ᠡᠷᠺᠡᠲᠦ</unicode>
+          <transcript>+++ -- jin erkety. </transcript>
+          <definition>The Mighty One of the tngri: Indra.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠡᠺᠷᠢ ~ ᠳᠡᠩᠷᠢ</unicode>
+      <definition>chez les anciens: ciel. genie du ciel, la divinité toute puissants, la source de l'âme, le maitre éternel et juste de l'univers: 2 divinité , tégri, S. deva : 3 esprits, génies [terrestres et céléstes, bons et mauvais).</definition>
+      <page>1763</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠰᠤᠨ ᠳᠡᠺᠷᠢ</unicode>
+          <definition>tégri des eaux</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠠᠵᠠᠷ ᠤᠨ ᠳᠡᠺᠷᠢ</unicode>
+          <definition>tégri de la terre</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠠᠯ ᠤᠨ ᠳᠡᠺᠷᠢ</unicode>
+          <definition>tégri du feu</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠡᠵᠡᠨ</unicode>
+          <definition>le seigneur du ciel, Dieu: Hormousda</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠡᠵᠡᠯᠡᠭᠴᠢ</unicode>
+          <definition>inspecteur du ciel; 2 une étoile près de Pléyades</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠡᠷᠺᠡ</unicode>
+          <definition>poids du ciel; 2 δ de la grande Ourse</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠡᠷᠺᠡᠲᠦ</unicode>
+          <definition>seigneur du ciel: Hormousda, Indra</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠢᠳᠡᠭᠡᠨ</unicode>
+          <definition>les mets des tégris: ambroisie</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠢᠳᠡᠭᠡᠨ ᠤ ᠭᠡᠷ</unicode>
+          <definition>cuisine du ciel; 2 quatre étoiles du Dragon</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠣᠩᠭᠤᠴᠠ</unicode>
+          <definition>Ch. tien-tchuen, vaisseau du ciel; 2 dix étoiles de Persée</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠣᠯᠤᠮ</unicode>
+          <definition>le gué du ciel (coeli vadum); 2 neuf étoiles δ, γ, ε, ζ, υ, τ, ν, α, ο du Cygne</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠣᠶᠤᠳᠠᠯ</unicode>
+          <definition>la voie lactée</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠣᠷᠣᠢ</unicode>
+          <definition>le zénith</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠣᠷᠣᠨ</unicode>
+          <definition>région ou séjour des tégris: ciel, cieux</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠣᠷᠺᠢᠯᠭ᠎ᠠ</unicode>
+          <definition>gond du ciel; 2 α de la grande Ourse</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠣᠷᠺᠢᠯᠭ᠎ᠠ ᠠᠭᠠᠷ</unicode>
+          <definition>pôle arctique</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠥᠨᠳᠦᠷ</unicode>
+          <definition>hauteur du ciel; 2 quatre étoile du Taureau</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠥᠺᠢᠨ</unicode>
+          <definition>fille du tégri: princesse ou fille d'un homme célèbre</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠥᠭᠯᠢᠭᠡ</unicode>
+          <definition>don de dieu: nom du cousin de Çâkyamouni</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠪᠡᠷ ᠥᠭᠭᠦᠭᠰᠡᠨ</unicode>
+          <definition>don de dieu: nom du cousin de Çâkyamouni</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠨᠣᠬᠠᠢ</unicode>
+          <definition>chien du ciel; 2 sept étoiles d'argo</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠬᠠᠭᠠᠨ</unicode>
+          <definition>seigneur du ciel; 2 une étoile de la Girafe</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠬᠠᠭᠠᠯᠭ᠎ᠠ</unicode>
+          <definition>porte du ciel (ch. tien-men); 2 deux étoiles de la Vierge</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠬᠠᠰ</unicode>
+          <definition>pierre précieuse du ciel; 2 β de la grande Ourse</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠬᠣᠪᠢ ᠵᠣᠺᠢᠶᠠᠭᠰᠠᠨ</unicode>
+          <definition>accrodé, donné du ciel</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠬᠤᠷᠮᠤᠢ</unicode>
+          <definition>horizon</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠬᠣᠷᠢᠶ᠎ᠠ</unicode>
+          <definition>écurie du ciel; 2 dix étoiles d'andromède</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠭᠤᠨᠠ</unicode>
+          <definition>croc du ciel; 2 neuf étoiles du Céphée</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠪᠠᠭᠠᠨᠠ</unicode>
+          <definition>colonne du ciel; 2 étoile de la Girafe</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠪᠠᠷᠢᠶ᠎ᠠ</unicode>
+          <definition>balance du ciel; 2 δ de la grande Ourse</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠪᠤᠰᠤ</unicode>
+          <definition>Asura, démon</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠪᠤᠱᠤᠬ</unicode>
+          <definition>mandat du ciel</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠪᠤᠱᠤᠭ ᠢᠶᠠᠷ ᠴᠠᠭ ᠢ ᠡᠷᠭᠢᠯᠡᠭᠰᠡᠨ ᠬᠤᠸᠠᠩᠲᠢ ᠎ᠶᠢᠨ ᠵᠠᠷᠯᠢᠭ</unicode>
+          <definition>ordonnance de l'empereur (régnant) d'après le décret du destin (d'après la volonté du ciel). C'est la formule qui se met au commencement d'une ordonnance et qui remplace le ltitre de l'empereur</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠰᠡᠪᠭᠡᠳᠦᠵᠢ</unicode>
+          <definition>le ciel est moutonné</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠰᠡᠳᠺᠢᠯ</unicode>
+          <definition>Ch. tien-ly, tien-seng. Raison du ciel; sentiment, disposition du coeur inspirés par le ciel; 2 quatre étoiles en dedans du carré de la grande Ourse</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢ ᠰᠦᠰᠦᠯᠺᠺᠦ ᠵᠠᠮᠤᠨ</unicode>
+          <definition>institut astronomique (conseil des astronomes). Ch. khin-tien-kian</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢ ᠰᠦᠰᠦᠯᠺᠦ ᠵᠠᠮᠤᠨ ᠤ ᠡᠷᠺᠢᠯᠡᠭᠰᠡᠨ ᠲᠦᠰᠢᠮᠡᠯ</unicode>
+          <definition>président ou directeur de l'institut astronomique</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠰᠦᠮ᠎ᠡ</unicode>
+          <definition>temple du ciel, paradis: ch. tien-thang; 2 quatre étoiles du Vaisseau</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠰᠢᠳᠠᠮ</unicode>
+          <definition>massue du ciel; 2 χ, ι, θ de Bootès</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠰᠢᠯ</unicode>
+          <definition>tube du ciel; 2 γ de la grande Ourse</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠲᠠᠺᠢᠶ᠎ᠠ</unicode>
+          <definition>poule du ciel; e, f, g du Sagittaire</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠲᠠᠷᠢᠶᠠᠯᠠᠩ</unicode>
+          <definition>champ du ciel; 2 ο, τ de la Vierge</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠳᠡᠺᠷᠢ</unicode>
+          <definition>tégri des tégri: bouddha</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠲᠡᠳᠭᠦᠭᠰᠡᠨ</unicode>
+          <definition>protection céleste; les années khian-loung, 1736-1796</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠲᠤᠷᠤᠭ</unicode>
+          <definition>licorne</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠲᠥᠷᠦᠭᠦᠯᠦᠭᠰᠡᠨ ᠺᠦᠮᠦᠨ ᠺᠡᠮᠡᠮᠦᠢ</unicode>
+          <definition>l'homme est une créature du ciel</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠳᠠᠭᠤᠨ</unicode>
+          <definition>bruit éclatant, tonnerre</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠳᠣᠤᠭᠠᠷᠬᠤ</unicode>
+          <definition>tonner; tonnerre</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠳᠣᠤᠷᠠᠺᠢᠨ</unicode>
+          <definition>tout ce qui est sous le ciel, le dessous du ciel, le monde, et quelquefois exclusivement l'empire chinois</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠲᠥᠷᠢᠮᠳᠦ ᠰᠠᠪᠠ</unicode>
+          <definition>globe céleste</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠮᠠᠯᠠᠭ᠎ᠠ</unicode>
+          <definition>casque du ciel (ch. tien-pien; coeli galerus); 2 neuf étoiles d'antinoüs</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠮᠡᠳᠡᠭᠡ</unicode>
+          <definition>Dieu le sait! Dieu le juge!</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠮᠣᠳᠤᠨ</unicode>
+          <definition>pin, ou sapin, pinus devedaru</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠮᠥᠷᠡᠨ</unicode>
+          <definition>fleuve du ciel; 2 quatre étoiles du Serpentaire; 3 le Gange</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠴᠡᠩᠭᠡᠭᠡᠷ</unicode>
+          <definition>la couleur du ciel d'automne, bleuâtre ciel, ou ciel d'un bleu pâle</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠴᠡᠴᠡᠭᠯᠢᠭ</unicode>
+          <definition>ménagerie ou parc du ciel; 2 seize étoiles de la Baleine et de l'Èridan</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠴᠢᠳᠺᠦᠷ</unicode>
+          <definition>vampire</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠴᠢᠷᠢᠭ</unicode>
+          <definition>les troupes du ciel: les troupes de l'empereur</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠴᠤᠭᠴᠠᠯᠠᠭᠰᠠᠨ ᠬᠤᠲᠠᠨ</unicode>
+          <definition>les murailles du ciel; 13 étoiles du Verseau et du Capricorne</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠡᠴᠡ ᠵᠠᠶᠠᠭᠠᠲᠤ ᠬᠠᠭᠠᠨ</unicode>
+          <definition>khan, envoyé du ciel</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠵᠠᠶᠠᠭᠠᠭᠰᠠᠨ</unicode>
+          <definition>Ch.tien-ming, le mandat du ciel ou le principe des opérations vitales ou des actions intelligentes conférées par le ciel aux être vivants, la mission de gouverner les hommes confiée par le ciel</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠵᠢᠷᠤᠬᠠᠢ ᠎ᠶᠢᠨ ᠬᠠᠭᠠᠰ</unicode>
+          <definition>observatoire astronomique</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠵᠣᠭᠤᠰ</unicode>
+          <definition>monnaie du ciel; 2 dix étoiles du poisson austral</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠵᠣᠯᠵᠠᠭ᠎ᠠ</unicode>
+          <definition>enfant du tégri</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠶᠡᠺᠡ ᠴᠢᠷᠢᠭ ᠲᠡᠷᠢᠭᠦᠯᠦᠭᠴᠢ</unicode>
+          <definition>le général de la grande armée du ciel; onze étoiles d'andromède et du Triangle boréal</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠺᠡᠭᠡᠰᠦᠨ</unicode>
+          <definition>essieu du ciel; 2 deux étoiles du Loup</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠺᠥᠪᠡᠭᠦᠨ</unicode>
+          <definition>fils du tégri; 2 fils du ciel: prince souverain, augustus, l'empereur chinois; 3 fils d'un roi ou d'une personne illustre</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠥᠩᠭᠡ ᠳᠡᠺᠷᠢ ᠎ᠶᠢᠨ ᠺᠦᠴᠦᠨ ᠳ᠋‍‍ᠤ‍ᠷ</unicode>
+          <definition>par la force (le mandat) du ciel éternel: s'emploie dans les ordonnances des anciens khans mongols</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠥᠺᠡ ᠳᠡᠺᠷᠢ</unicode>
+          <definition>ciel bleu, c.à.d. visible</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠺᠷᠢ</unicode>
+      <uighur>dekri</uighur>
+      <definition>die Gottheit; die Geister des Erd- und Himmelraumes; der Himmel.</definition>
+      <page>241</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠺᠷᠢ</unicode>
+      <uighur>tngri</uighur>
+      <definition>n. The firmament. The sky. Heaven. Deity, the spirit of heaven and earth (Buddh.)</definition>
+      <page>951</page>
+      <examples>
+        <example>
+          <uighur>tngri-yin aγur</uighur>
+          <definition>n. Climate</definition>
+        </example>
+        <example>
+          <uighur>tngri-yin ayul</uighur>
+          <definition>Natural calamity (drought, hail-storms, floods etc.).</definition>
+        </example>
+        <example>
+          <uighur>tngri-yin udq-a-yin surγaγuli</uighur>
+          <definition>Astronomy</definition>
+        </example>
+        <example>
+          <uighur>tngri-yin üidel</uighur>
+          <definition>n. The milky way.</definition>
+        </example>
+        <example>
+          <uighur>tngri-yin bušuq</uighur>
+          <definition>n. The decree of Heaven (Buddh.).</definition>
+        </example>
+        <example>
+          <uighur>tngri-yin qurmai</uighur>
+          <definition>n. The horizon.</definition>
+        </example>
+        <example>
+          <uighur>tngri-yin köbegün</uighur>
+          <definition>n. The son of heaven - The Emperor.</definition>
+        </example>
+        <example>
+          <uighur>tngri-yin daγu</uighur>
+          <definition>n. Thunder.</definition>
+        </example>
+        <example>
+          <uighur>tngri-yin dedgügsen</uighur>
+          <definition>Ch'ien lung, the fourth Emperor of Ch'ing dynasty (1756-1796 A.D.)</definition>
+        </example>
+        <example>
+          <uighur>tngri-yin dürümdü sab</uighur>
+          <definition>n. A celestial globe.</definition>
+        </example>
+        <example>
+          <uighur>tngri-yin sinǰikči</uighur>
+          <definition>n. An astronomer.</definition>
+        </example>
+        <example>
+          <uighur>tngri-yin sidüken</uighur>
+          <definition>n. Tablet dedicated to gods or deceased persons (Buddh.)</definition>
+        </example>
+        <example>
+          <uighur>tngri čengkikir</uighur>
+          <definition>adj. Sky blue.</definition>
+        </example>
+        <example>
+          <uighur>tngri sebkidekü</uighur>
+          <definition>The appearing of small clouds on the sky.</definition>
+        </example>
+        <example>
+          <uighur>terkis-un oron</uighur>
+          <definition>The abodes of deities and spirits (Buddh.).</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠩᠷᠢ</unicode>
+      <cyrillic>тэнгэр</cyrillic>
+      <definition>〔名〕①天，天空；天气：хөх ~ 蓝天；~ арилах, ~ онгойх 天上乌云消散，天空放晴；агаар ~ 天，天空；~ бүрхэх 天空阴翳，天阴；~ бүүдийх 天阴；~ гийх, ~ хаяарах 天空放晴；~ задрах 天气变坏，变天；~ зохирох 天气适宜，天气宜人，天气晴朗；~ хуйсрах, ~ хуйсганах 天气有风云，天气不佳；~ цэлмэх 天晴；~ ниргэх, ~ дуугарах 天打雷；~ дулаарах 天气转暖和；~ хүйтрэх 天气变冷；~ийн өнгө 天色；~ийн одод 〈天〉天体，星球（复数）；~ийн хаяа, ~ийн хормой 天际，地平线；~ийн орой 天顶；~ийн дуу 雷声；~ийн ван 〈天〉天王星；~ийн оёдол, ~ийн заадал 〈天〉天河，银河；~ судлагч 天文学家；~ийн бага од 〈天〉鹿豹座；~ийн оёдлын аймаг 〈天〉银河系；~ийн зурхай 〈天〉天干；~ийн идээний гэр од 〈天〉天龙座；~ийн мөрний од 〈天〉蛇天座；~ийн оргилын зай 天顶距；~ийн сангийн тэргүүлэгч од 〈天〉织女星；~ийн судлал 天文学；~ийн харагдах хаяа 可见地平；~ийн эрхэс 天体；②〈陈〉老天爷，天灵，上帝：~ийн хөвгүүн 〈陈〉天子；цагаан зүгийн ~, сайн зүгийн ~ 善灵；хар зүгийн ~, муу зүгийн ~ 恶灵；~ угсаатан 上天，天老爷；◊ ~ийн дүлий 〈植〉马勃菌属；~ ойн огтоно 天山林鼠；~ уулын хулганацар 天山蹶鼠.</definition>
+      <page>1156</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠺᠷᠢ</unicode>
+      <cyrillic>ТНГРИ</cyrillic>
+      <definition>тэнгэр-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠺᠷᠢ</unicode>
+      <cyrillic>ТЭНГЭР</cyrillic>
+      <definition>уйг. 1) небо, небеса, небесный свод; хөх тэнгэр сљнее небо; мөнх хөх тэнгэр вечносљнее небо (предмет поклонения монголов); тэнгэр арилах / тэнгэр онгойх прекращаться (о дожде); очищаться от туч; проясняться (о небе), рассеиваться (о тучах, дожде); устанавливаться (о хорошей погоде); тэнгэр бүрхэв небо покрылось, заволоклось облаками; тэнгэр бүүдгэр слегка облачный (о небе); тэнгэр бүүдийв небо стало пасмурным; тэнгэр бүүдийх слегка покрываться облаками; тэнгэр газар хоёр шиг өөр зүйр., үгчил. отличается, как небо от землљ; разлљчны, как небо и земля; тэнгэр гийх / тэнгэр хаяарах очищаться от туч, начиная с горизонта; тэнгэр задрах наступление ненастья (осенью); лить (о дожде); тэнгэр зохирох а) становљться безоблачным; б) установление хорошей погоды; тэнгэр муухайрах / тэнгэр муухай аашлах хмуриться (о небе), подниматься (о сильном ветре); тэнгэр сайхан безоблачное небо; ясная погода; тэнгэр сэвтэх покрываться мелкими облаками (о небе); тэнгэр тахих поклоняться небу; приносљть жертвоприношения небу; тэнгэр уул гора Тянь-шань (хребет); тэнгэр уулын намуу ург. мак тяньшаньский; тэнгэр уулын харцаган ууль шувуу. сова ястребљная тяньшаньская; тэнгэр үүлших покрываться облаками (о небе); тэнгэр харанхуй / тэнгэр бүрхэг сплошь покрытый облаками, облачный; тэнгэр харанхуйлах / тэнгэр бүрхэх сплошь покрываться облаками, темнеть (о небе); тэнгэр хуйсганах подниматься (о сильном ветре); тэнгэр хуйсрах становљться облачным и ветреным; тэнгэр цэлмэг безоблачное небо, ясная погода; тэнгэр цэлмэх проясняться, становљться безоблачным; тэнгэрийг тэтгэгч түүх. название годов правления маньчжурского императора Цянь Лун, царствовавшего в Китае 1736-1796 гг; тэнгэрээс заяат волею неба, предопределённый небом; 2) гром; тэнгэр дуугарах греметь (о громе); тэнгэр ниргэх ударять (о молнии), греметь (о громе); удар молнии, удар грома; тэнгэр начигнана / тэнгэр тачигнана гремљт сљльный гром; 3) погода; тэнгэр дулаарав устанавливается тёплая погода; тэнгэр хүйтрэх становљться холодным, холодеть; тэнгэрийн муу арилдаг, хүний муу арилдаггүй зүйр., үгчил. плохая погода проходит, а плохой человек не исправляется; ~ горбатого только могљла исправит; каков в колыбельку, таков и в могљлу; 4) бог; гений; божество, небожљтель (небо как божество); богд тэнгэр святой тэнгрљ (эпитет Хурмусты); бурхан тэнгэр боги; газрын тэнгэр божество землљ; ерэн есөн тэнгэр девяноcто девять тэнгрљ (божеских существ, из коих 44 живут на востоке и почитаются злыми, а 55 на западе и считаются добрыми); муу зүгийн тэнгэр злой гений; отгон тэнгэр а) младший тэнгрљ, божество огня у шаманљстов; б) гора Отгон тэнгэр (в Дзабханском аймаке); сайн зүгийн тэнгэр добрый гений; усан тэнгэр божество воды, гений вод; хурмаст тэнгэр главное божество Хурмуста; эрхэт тэнгэр могущественный тэнгрљ; тэнгэр болох шилж. умирать; тэнгэр бус злые демоны, асуры; тэнгэр чөтгөр злой дух, черт; тэнгэрт хэлье, тэнгэр хол, газарт хэлье, газар хатуу зүйр., үгчил. небу сказать – небо далеко, земле сказать – земля тверда; ~ до бога высоко, до царя далеко; умереть так до неба далеко, а провалљться, так земля тверда. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠺᠷᠢ</unicode>
+      <cyrillic>ТЭНГЭРГҮЙ</cyrillic>
+      <definition>неудачный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠺᠷᠢ</unicode>
+      <cyrillic>ТЭНГЭРИЙН</cyrillic>
+      <definition>тэнгэр-ийн харьяал., небесный; тэнгэрийн бошгоор түүх. мљлостью неба (начальная формула императорских манифестов); хийсвээс тэнгэрийн доор, хэлвээс ноёдын доор зүйр., үгчил. ветром понесёт, всё равно под небом (дальше не унесёт), слово скажешь, всё равно под начальством (толку не выйдет); тэнгэрийн доорхи поднебесная, обитаемый мир (ёгт. китайская империя); тэнгэрийн дуу гром; тэнгэрийн дүрэмт сав од.орон. приборы для наблюдения небесных тел; тэнгэрийн заяа воля неба, судьба; тэнгэрийн заяа цагийн улирал дагаж стихљйно, по воле стихљи, в зављсимости от обстановки времени (үгчил. в зављсимости от предначертаний неба и условий времени); тэнгэрийн зурхай астрономия; тэнгэрийн одод небесные светљла; тэнгэрийн орой зенљт; тэнгэрийн өнгө небесный цвет; тэнгэрийн улирал погода; время; тэнгэрийн уур небесный пар, воздушный пар; тэнгэрийн уур амьсгал клљмат; тэнгэрийн хаяа / тэнгэрийн хормой горизонт; нљжняя часть неба; тэнгэрийн хөвгүүн түүх. сын неба (титул китайского императора); тэнгэрийн хувь зохиох удостоиться мљлости неба; тэнгэрийн цаг время; судьба; тэнгэрийн цаг газрын улирал судьба, предопределение; тэнгэрийн шиншигч түүх. астроном, специалљст по астрономии (астрологии); тэнгэрийн эзэн владыка мљра (эпитет божества Хурмуста); † тэнгэрийн багана зурх. небесная колонна (название одной из звезд в созвездии Камелопарда); Тэнгэрийн Ван од.орон. Уран; тэнгэрийн гох зурх. небесный крюк (название десяти звезд в созвездии Цефия); тэнгэрийн дорго амьт. носорог; тэнгэрийн дүлий ург. дождевљк (гриб); тэнгэрийн зоос зурх. небесная монета (название десяти звёзд в созвездии Южной Рыбы); тэнгэрийн идээ ург. амброзия; тэнгэрийн идээний гэр зурх. небесная кухня (название четырёх звёзд в созвездии Дракона); тэнгэрийн мод ург. а) деодар, индљйский кедр; б) можжевельник; тэнгэрийн мөрөн зурх. небесная река (а. название четырёх звёзд в созвездии Змиеносца; б. р. Ганг); тэнгэрийн нохой зурх. небесный пёс (название семи звёзд в созвездии Арго); Тэнгэрийн Оёдол од.орон. Млечный Путь; тэнгэрийн олом зурх. небесный брод (название девяти звёзд в созвездии Лебедя); тэнгэрийн онгоц зурх. небесная ладья (название десяти звёзд в созвездии Персея); тэнгэрийн өндөр зурх. высота неба (название четырёх звёзд в созвездии Тельца); тэнгэрийн өрөлгөт өдөр түүх. дни жёлтого тљгра весны, сљнего коня лета, жёлтой обезьяны осени, сљней мыши зимы; тэнгэрийн сүм зурх. небесный храм (название четырёх звёзд в созвездии Корабля); тэнгэрийн сэтгэл зурх. разум неба (название четырёх звёзд в Большой Медведице); тэнгэрийн таалалт өдөр түүх. благоденствие: дни сљней свиньљ Цаган сара, сљней собаки февраля, сљней курицы марта, красной обезьяны апреля, красной овцы мая, жёлтого коня июня, жёлтой змељ июля, белого дракона августа, белой зайчљхи сентября, чёрного тљгра октября, чёрной коровы ноября, сљней мыши декабря; тэнгэрийн тариалан зурх. небесное поле (название двух звёзд в созвездии Девы); тэнгэрийн тахиа зурх. небесная курица (название трех звёзд в созвездии Стрельца); тэнгэрийн тураг амьт. марал (олень) однорогий; тэнгэрийн утгын хугарал / тэнгэрийн ёсны хугарал од.орон. астрономљческая рефракция; тэнгэрийн хаалга зурх. небесные врата (название двух звёзд в созвездии Девы); тэнгэрийн хаан зурх. небесный хан (название одной из звёзд в созвездии Камелопарда); тэнгэрийн хороо зурх. небесный двор (название десяти звёзд в созвездии Андромеды); тэнгэрийн хэгээс зурх. небесная ось (название двух звёзд в созвездии Волка); тэнгэрийн цогцолсон хот зурх. небесные города (название тринадцати звёзд в созвездии Водолея и Козерога); тэнгэрийн цэцэглиг зурх. небесный цветнљк (название шестнадцати звёзд в созвездиях Кита и Эридана); тэнгэрийн чавга ург. спаржа блестящая; тэнгэрийн шийдэм зурх. небесная палица (название трех звёзд в созвездии Боота); тэнгэрийн шил од. орон. небесный телескоп (название звезды ү в созвездии Большой Медведицы). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠺᠷᠢ</unicode>
+      <cyrillic>ТЭНГЭРС</cyrillic>
+      <definition>тэнгэр-ийн олон., тэнгэрс баясгалант хөгжим музыка, восхваляющая бога (мелодия); † тэнгэрсийн чавга ург. спаржа блестящая; спаржа кохинхљнская; жужуб. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тэнгэр</cyrillic>
+      <definition>Himmel m, Firmament n; Wetter n; хөх ~ blauer Himmel; ~ арилав der Himmel klärte auf; ~ аягүйдэх Unwetter n; ~ болох Rel in den Himmel kommen, sterben; ~ дуугарах donnern; ~ буудийн der Himmel trübe sich ein; ~ сайхан байна das Wetter ist schön; ~зэ, биттий л тэгш хайрла! tue es um Himmels willen nicht!; хүнийг ~т тулгал маттах idiom jmdm. in den Himmel heben od loben</definition>
+      <page>248</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠩᠷᠢ</unicode>
+      <cyrillic>тэнгэр</cyrillic>
+      <definition>1. огторгуй, газрын дээд талд бий бидний нүднээ үзэгдэх агаар мандал; хөх тэнгэр; агаар тэнгэр; тэнгэр бүрхэх; тэнгэр муухай аашлах; тэнгэр дулаарах; тэнгэр хүйтрэх;2. бөө нарын шүтэх шүтээн; зүүн дөчин дөрвөн тэнгэр ээ; Дөрөө галивар ноён, баруун тавин таван тэнгэр ээ! таван их хаалга үүд [бөөгийн дуудлага].</definition>
+      <page>576</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>T4736</ref>
+    <ref>T4737</ref>
+  </derivatives>
+</entry>

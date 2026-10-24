@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y2030">
+  <head>
+    <unicode>ᠶᠡᠲᠥᠶᠢᠺᠥ</unicode>
+    <transcript>yetüyikü</transcript>
+    <transcript2>yedöyigö</transcript2>
+    <cyrillic>еэтийх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y2029</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠡᠲᠦᠢᠬᠦ</unicode>
+      <cyrillic>еэтийх</cyrillic>
+      <definition>〔动〕变弯曲，成弧线形，成弓形.</definition>
+      <page>486</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠡᠲᠥᠶᠢᠺᠥ</unicode>
+      <cyrillic>ЕЭТИЙХ</cyrillic>
+      <definition>быть изогнутым, кривиться; изгибаться, загнуться кверху; еэтийсэн хамартай с вздёрнутым носом. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠡᠲᠡᠢᠬᠦ</unicode>
+      <cyrillic>еэтийх</cyrillic>
+      <definition>еэтгэр болох; еэтийсэн хамартай.</definition>
+      <page>234</page>
+    </entry_item>
+  </entries>
+</entry>

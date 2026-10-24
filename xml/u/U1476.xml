@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="U1476">
+  <head>
+    <unicode>ᠣᠳᠬᠠᠨ</unicode>
+    <transcript>otqan</transcript>
+    <transcript2>odgan</transcript2>
+    <cyrillic>отгон</cyrillic>
+  </head><see_also>
+    <ref>U1493</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠳᠬᠠᠨ</unicode>
+      <uighur>odqan</uighur>
+      <cyrillic>отгон</cyrillic>
+      <transcript>ODXAN</transcript>
+      <definition>[= odxun, odcigin] a) adj. and n. Youngest child. b) n. Name of the fire god.</definition>
+      <page>601</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠳᠬᠠᠨ ᠪᠡᠷᠢ</unicode>
+          <transcript>-- beri </transcript>
+          <definition>wife of youngest son</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠳᠬᠠᠨ ᠺᠦᠪᠡᠭᠦᠨ</unicode>
+          <transcript>-- kybegyn</transcript>
+          <definition> Youngest son</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠳᠬᠠᠨ ᠺᠦᠷᠭᠡᠨ</unicode>
+          <transcript>-- kyrgen</transcript>
+          <definition> Husband of youngest daughter</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠳᠬᠠᠨ ᠭᠠᠯᠠᠶᠢᠬᠠᠨ</unicode>
+          <transcript>-- γalaixan</transcript>
+          <definition> Fire god</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠤᠳᠬᠠᠨ ~ ᠤᠳᠬᠠᠳ</unicode>
+      <definition>le dernier (fils), le cadet.</definition>
+      <page>390</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠳᠬᠠᠨ ᠥᠺᠢᠨ</unicode>
+          <definition>la fille cadette.</definition>
+        </example>
+        <example>
+          <unicode>ᠤᠳᠬᠠᠨ ᠪᠡᠷᠢ</unicode>
+          <definition>la plus jeune belle-fille.</definition>
+        </example>
+        <example>
+          <unicode>ᠤᠳᠬᠠᠨ ᠺᠥᠪᠡᠭᠦᠨ</unicode>
+          <definition>le cadet, le dernier fils</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠣᠳᠬᠠᠨ</unicode>
+      <uighur>udqan</uighur>
+      <definition>der Jüngste in einer Familie</definition>
+      <page>60</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠣᠳᠬᠠᠨ</unicode>
+      <uighur>odqan</uighur>
+      <definition>(od)n. The youngest in a family</definition>
+      <page>235</page>
+      <examples>
+        <example>
+          <uighur>oqdqan ökin</uighur>
+          <definition>n. The youngest daughter in a family</definition>
+        </example>
+        <example>
+          <uighur>odqan bari</uighur>
+          <definition>n. The youngest daughter-in-law in a family.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠣᠳᠬᠠᠨ</unicode>
+      <uighur>odqan köbegün</uighur>
+      <definition>n. The youngest son in a family.</definition>
+      <page>236</page>
+    </entry_item>
+  </entries>
+</entry>

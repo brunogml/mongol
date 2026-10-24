@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q2182">
+  <head>
+    <unicode>ᠬᠠᠯᠲᠠᠷᠳᠠᠬᠣ</unicode>
+    <transcript>qaltardaqu</transcript>
+    <transcript2>galdardago</transcript2>
+    <cyrillic>халтардах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠯᠲᠠᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>халтардах</cyrillic>
+      <definition>〔动〕变污痕斑斑.</definition>
+      <page>1290</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠯᠲᠠᠷᠳᠠᠬᠣ</unicode>
+      <cyrillic>ХАЛТАРДАХ</cyrillic>
+      <definition>быть слишком загрязнённым, запачканным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>халтардах</cyrillic>
+      <definition>zu dreckig od zu fleckig sein</definition>
+      <page>288</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠯᠲᠠᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>халтардах</cyrillic>
+      <definition>хэтэрхий халтар болох.</definition>
+      <page>651</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q2177</ref>
+  </related_to>
+</entry>

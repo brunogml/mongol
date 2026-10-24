@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S7128">
+  <head>
+    <unicode>ᠰᠲ᠋ᠠᠨᠳᠠᠷᠲᠴᠢᠯᠠᠬᠣ</unicode>
+    <transcript>standartčilaqu</transcript>
+    <transcript2>sdandardcilago</transcript2>
+    <cyrillic>стандартчилах</cyrillic>
+  </head><derivatives>
+    <ref>S7129</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠲ᠋ᠠᠨᠳᠠᠷᠲᠴᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>СТАНДАРТЧИЛАХ</cyrillic>
+      <definition>стандартизировать. </definition>
+      <page>0</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>стандартчилах</cyrillic>
+    <definition>tr standardisieren</definition>
+    <page>203</page>
+  </entry_item>
+  </entries>
+</entry>

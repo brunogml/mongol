@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E0164">
+  <head>
+    <unicode>ᠡᠩᠺᠦᠷᠡᠶᠢᠯᠡᠺᠦ</unicode>
+    <transcript>engküreyilekü</transcript>
+    <transcript2>enggöreyilegö</transcript2>
+    <cyrillic>энхрийлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>E0165</ref>
+    <ref>E0166</ref>
+    <ref>E0162</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠩᠺᠥᠷᠠᠶᠢᠯᠠᠺᠥ</unicode>
+      <uighur>engküreyilekü</uighur>
+      <cyrillic>энхрийлэх</cyrillic>
+      <transcript>ENGKYREILE-</transcript>
+      <definition>v.t.To cherish, love tenderly, caress, fondle.</definition>
+      <page>318</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠩᠺᠥᠷᠠᠶᠢᠯᠠᠭᠰᠡᠨ ᠨᠡᠷ᠎ᠡ</unicode>
+          <transcript>--gsen ner-e</transcript>
+          <definition> Pet name.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠩᠺᠥᠷᠠᠶᠢᠯᠠᠨ ᠥᠰᠺᠡᠺᠦ</unicode>
+          <transcript>--n øskeky</transcript>
+          <definition> To bring up with tender care.</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠡᠦᠺᠡᠳ ᠎ᠶᠦᠭᠡᠨ ᠡᠩᠺᠥᠷᠠᠶᠢᠯᠠᠺᠦ</unicode>
+          <transcript>keyked jygen --ky </transcript>
+          <definition>To treat or bring up one's children with tender care</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠩᠭᠦᠷᠡᠶᠢᠯᠡᠺᠦ</unicode>
+      <definition>presser quelq'un contre son sein, tenir dans ses bras, embrasser; 2 caresser, favorise; aimer tendrement</definition>
+      <page>175</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠩᠬᠦᠷᠡᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>энхрийлэх</cyrillic>
+      <definition>〔动〕抚爱，怜爱，温存，亲近，体贴；宠爱，娇爱；〈语〉表爱：~ дагавар 表爱后缀；~ үг 表爱词；~ хандсан үг 爱称.</definition>
+      <page>1701</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠩᠺᠥᠷᠠᠶᠢᠯᠠᠺᠥ</unicode>
+      <cyrillic>ЭНХРИЙЛЭХ</cyrillic>
+      <definition>1. ласкать, нежить, лелеять, нежно любить; крепко прижимать к себе, обнимать, беречь; эх нь хүүхдээ энхрийлнэ мать ласкает детей; энхрийлэн таалах приголубить; 2. 1) ласкающий, любящий; энхрийлэх эгч любящая сестра; 2) хэл.зүй. ласкательный; энхрийлэх үг ласкательное слово. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠩᠺᠥᠷᠠᠶᠢᠯᠠᠺᠥ</unicode>
+      <cyrillic>ЭНХРИЙЛСЭН</cyrillic>
+      <definition>ласковый, нежный, любовный; энхрийлсэн нэр хэл.зүй. ласкательное имя; энхрийлсэн харц ласковый взгляд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>энхрийлэх</cyrillic>
+      <definition>liebkosen, zärtlich behandeln, hätscheln, streicheln; энхрийлсэн нэр Kosename m</definition>
+      <page>401</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠩᠬᠦᠷᠡᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>энхрийлэх</cyrillic>
+      <definition>тансаглах, хайрлах; бага хүүхдийг тансаглан энхрийлэх; мал юмыг хайрлан энхрийлэх.</definition>
+      <page>880</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠩᠬᠦᠷᠡᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>энхрийлэх</cyrillic>
+      <definition>тансаглах, хайрлах, бага хүүхдийг тансаглан энхрийлэх; мал юмыг хайрлан энхрийлэх.</definition>
+      <page>880</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1145">
+  <head>
+    <unicode>ᠨᠠᠺᠥᠷᠠᠰᠥᠰᠢᠺᠥᠯᠺᠥ</unicode>
+    <transcript>negüresüsigülkü</transcript>
+    <transcript2>negöresösigölgö</transcript2>
+    <cyrillic>нүүрсшүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>N1144</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠡᠭᠦᠷᠡᠰᠦᠰᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>нүүрсшүүлэх</cyrillic>
+      <definition>〔动〕нүүрсших 的使动态.</definition>
+      <page>768</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠺᠥᠷᠠᠰᠥᠰᠢᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>НҮҮРСШҮҮЛЭХ</cyrillic>
+      <definition>нүүрсших-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠡᠭᠦᠷᠡᠰᠦᠰᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>нүүрсшүүлэх</cyrillic>
+      <definition>нүүрсшихийн үйлдүүлэх хэв.</definition>
+      <page>394</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y2813">
+  <head>
+    <unicode>ᠵᠢᠰᠢᠺᠥᠳᠡᠺᠥ</unicode>
+    <transcript>ǰisigüdekü</transcript>
+    <transcript2>yisigödegö</transcript2>
+    <cyrillic>жишүүдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y2815</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠰᠢᠭᠦᠳᠡᠬᠦ</unicode>
+      <cyrillic>жишүүдэх</cyrillic>
+      <definition>〔动〕偏斜，歪向一旁.</definition>
+      <page>515</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠰᠢᠺᠥᠳᠡᠺᠥ</unicode>
+      <cyrillic>ЖИШҮҮДЭХ</cyrillic>
+      <definition>делаться косґм, становиться наклонным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠰᠢᠭᠦᠳᠡᠬᠦ</unicode>
+      <cyrillic>жишүүдэх</cyrillic>
+      <definition>хэтэрхий жишүү болох.</definition>
+      <page>248</page>
+    </entry_item>
+  </entries>
+</entry>

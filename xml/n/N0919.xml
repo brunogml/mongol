@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N0919">
+  <head>
+    <unicode>ᠨᠠᠪᠰᠠᠯᠵᠠᠺᠥ</unicode>
+    <transcript>nebselǰekü</transcript>
+    <transcript2>nebselcegö</transcript2>
+    <cyrillic>нэвсэлзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>N0920</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠡᠪᠰᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>нэвсэлзэх</cyrillic>
+      <definition>〔动〕参见 нэвсгэнэх.</definition>
+      <page>769</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠪᠰᠠᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>НЭВСЭЛЗЭХ</cyrillic>
+      <definition>нэвсгэнэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠡᠪᠰᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>нэвсэлзэх</cyrillic>
+      <definition>нэвсгэр юмны нэвсэс нэвсэс хөдлөх, навсалзах.</definition>
+      <page>395</page>
+    </entry_item>
+  </entries>
+</entry>

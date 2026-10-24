@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1091">
+  <head>
+    <unicode>ᠨᠠᠺᠠᠮᠵᠢᠯᠠᠺᠳᠠᠺᠥ</unicode>
+    <transcript>nekemǰilegdekü</transcript>
+    <transcript2>negemcilegdegö</transcript2>
+    <cyrillic>нэхэмжлэгдэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>N1089</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠡᠬᠡᠮᠵᠢᠯᠡᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>нэхэмжлэгдэх</cyrillic>
+      <definition>〔动〕нэхэмжлэх 的被动态.</definition>
+      <page>779</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠺᠠᠮᠵᠢᠯᠠᠺᠳᠠᠺᠥ</unicode>
+      <cyrillic>НЭХЭМЖЛЭГДЭХ</cyrillic>
+      <definition>нэхэмжлэх-ийн үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠡᠬᠡᠮᠵᠢᠯᠡᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>нэхэмжлэгдэх</cyrillic>
+      <definition>нэхэмжлэхийн үйлдэгдэх хэв.</definition>
+      <page>400</page>
+    </entry_item>
+  </entries>
+</entry>

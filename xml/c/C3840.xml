@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3840">
+  <head>
+    <unicode>ᠴᠥᠷᠳᠠᠯᠵᠠᠺᠥ</unicode>
+    <transcript>čürdelǰekü</transcript>
+    <transcript2>cördelcegö</transcript2>
+    <cyrillic>цүрдэлзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C3841</ref>
+    <ref>C3839</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠦᠷᠳᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>цүрдэлзэх</cyrillic>
+      <definition>〔动〕参见 цүрдэгнэх.</definition>
+      <page>1558</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠥᠷᠳᠠᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>ЦҮРДЭЛЗЭХ</cyrillic>
+      <definition>цүрдэгнэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠦᠷᠳᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>цүрдэлзэх</cyrillic>
+      <definition>цүрдгэр юмны цүрдэс цүрдэс хөдлөх.</definition>
+      <page>803</page>
+    </entry_item>
+  </entries>
+</entry>

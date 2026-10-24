@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6112">
+  <head>
+    <unicode>ᠰᠣᠶᠣᠯᠵᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>soyulǰiγulqu</transcript>
+    <transcript2>soyolcigolgo</transcript2>
+    <cyrillic>соёлжуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S6110</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠶᠣᠯᠵᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>соёлжуулах</cyrillic>
+      <definition>〔动〕сөёлжих 的使动态.</definition>
+      <page>931</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠶᠣᠯᠵᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>СОЁЛЖУУЛАХ</cyrillic>
+      <definition>цивилизовать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠶᠣᠯᠵᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>соёлжуулах</cyrillic>
+      <definition>соёлжихын үйлдүүлэх хэв, соёлтой болгох.</definition>
+      <page>476</page>
+    </entry_item>
+  </entries>
+</entry>

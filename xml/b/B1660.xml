@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1660">
+  <head>
+    <unicode>ᠫᠠᠨᠳᠠᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>pendegenekü</transcript>
+    <transcript2>pendegenegö</transcript2>
+    <cyrillic>пэндгэнэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B1661</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠫᠠᠨᠳᠠᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>ПЭНДГЭНЭХ</cyrillic>
+      <definition>пэндэлзэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠫᠠᠨᠳᠠᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>ПЭНДЭГНЭХ</cyrillic>
+      <definition>пэндгэнэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠫᠡᠨᠳᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>пэндэгнэх</cyrillic>
+      <definition>пэндгэр юмны пэндэг пэндэг хөдлөх.</definition>
+      <page>454</page>
+    </entry_item>
+  </entries>
+</entry>

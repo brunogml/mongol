@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U0067">
+  <head>
+    <unicode>ᠣᠣᠯᠭᠠᠮᠴᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>oulγamčilaγulqu</transcript>
+    <transcript2>oolgamcilagolgo</transcript2>
+    <cyrillic>уулгамчлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U0066</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠤᠯᠭᠠᠮᠴᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>уулгамчлуулах</cyrillic>
+      <definition>〔动〕уулгамчлах 的使动态.</definition>
+      <page>1213</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠣᠯᠭᠠᠮᠴᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>УУЛГАМЧЛУУЛАХ</cyrillic>
+      <definition>уулгамчлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠤᠯᠭᠠᠮᠴᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>уулгамчлуулах</cyrillic>
+      <definition>уулгамчлахын үйлдүүлэх хэв.</definition>
+      <page>605</page>
+    </entry_item>
+  </entries>
+</entry>

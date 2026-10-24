@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q6102">
+  <head>
+    <unicode>ᠬᠣᠮᠬᠣᠷᠠᠰᠣ</unicode>
+    <transcript>qomqurasu</transcript>
+    <transcript2>gomgoraso</transcript2>
+    <cyrillic>хомхорс</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠮᠬᠣᠷᠠᠰᠣ</unicode>
+      <uighur>qomqorasu</uighur>
+      <cyrillic>хомхорс</cyrillic>
+      <transcript>XOMXURASU(N)</transcript>
+      <definition>n. Shell, husk, pod, chaff</definition>
+      <page>961</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠤᠷᠴᠠᠭ ᠤᠨ ᠬᠣᠮᠬᠣᠷᠠᠰᠣ</unicode>
+          <transcript>burcaγ un -- </transcript>
+          <definition> Pod of beans or peas.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠮᠬᠣᠷᠠᠰᠤᠨ</unicode>
+      <definition>gousse, cosse.</definition>
+      <page>938</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠤᠷᠴᠠᠬ ᠤᠨ ᠬᠣᠮᠬᠣᠷᠠᠰᠤᠨ</unicode>
+          <definition>cosse de pois</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠣᠮᠬᠣᠷᠰᠣ</unicode>
+      <cyrillic>хомхорс</cyrillic>
+      <definition>〔名〕壳，贝，甲壳，外皮，禾壳.</definition>
+      <page>1360</page>
+    </entry_item>
+  </entries>
+</entry>

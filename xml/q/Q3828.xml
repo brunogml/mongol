@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q3828">
+  <head>
+    <unicode>ᠭᠣᠣᠯᠳᠠᠰᠣ</unicode>
+    <transcript>γouldasu</transcript>
+    <transcript2>gooldaso</transcript2>
+    <cyrillic>голдос</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q3824</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠣᠤᠯᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>голдуулах</cyrillic>
+      <definition>〔动〕голдох 的使动态.</definition>
+      <page>304</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠣᠯᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ГОЛДУУЛАХ</cyrillic>
+      <definition>голдох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠣᠣᠯᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>голдуулах</cyrillic>
+      <definition>голдохын үйлдүүлэх хэв.</definition>
+      <page>149</page>
+    </entry_item>
+  </entries>
+</entry>

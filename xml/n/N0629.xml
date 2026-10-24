@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N0629">
+  <head>
+    <unicode>ᠨᠠᠺᠢᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>nakiγanaqu</transcript>
+    <transcript2>nagiganago</transcript2>
+    <cyrillic>нахиганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>N0630</ref>
+    <ref>N0631</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠠᠬᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>нахиганах</cyrillic>
+      <definition>〔动〕参见 нахилзах.</definition>
+      <page>733</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠺᠢᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>НАХИГАНАХ</cyrillic>
+      <definition>нахилзах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>нахиганах</cyrillic>
+      <definition>= нахилзах</definition>
+      <page>155</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠠᠬᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>нахиганах</cyrillic>
+      <definition>уян нарийхан юмны нахига нахига хөдлөх.</definition>
+      <page>372</page>
+    </entry_item>
+  </entries>
+</entry>

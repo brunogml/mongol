@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5294">
+  <head>
+    <unicode>ᠲᠣᠨᠣᠬᠯᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>tonuγlaγdaqu</transcript>
+    <transcript2>donoglagdago</transcript2>
+    <cyrillic>тоноглогдох</cyrillic>
+  </head>
+  <related_to>
+    <ref>T5292</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠨᠣᠭᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>тоноглогдох</cyrillic>
+      <definition>〔动〕тоноглох 的被动态.</definition>
+      <page>1072</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠨᠣᠬᠯᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТОНОГЛОГДОХ</cyrillic>
+      <definition>тоноглох-ын үйлдэгд., оборудоваться; өвч тоноглогдох комплексно оборудоваться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠨᠣᠭᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>тоноглогдох</cyrillic>
+      <definition>тоноглохын үйлдэгдэх хэв.</definition>
+      <page>540</page>
+    </entry_item>
+  </entries>
+</entry>

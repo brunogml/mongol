@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0817">
+  <head>
+    <unicode>ᠴᠠᠨᠳᠠᠯᠵᠠᠺᠥ</unicode>
+    <transcript>čendelǰekü</transcript>
+    <transcript2>cendelcegö</transcript2>
+    <cyrillic>цэндэлзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0818</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠨᠳᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>цэндэлзэх</cyrillic>
+      <definition>〔动〕参见 цэндэгнэх.</definition>
+      <page>1565</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠨᠳᠠᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>ЦЭНДЭЛЗЭХ</cyrillic>
+      <definition>цэндэгнэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цэндэлзэх</cyrillic>
+      <definition>= цэндгэнэх</definition>
+      <page>364</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠨᠳᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>цэндэлзэх</cyrillic>
+      <definition>цэндгэр юмны цэндэс цэндэс хөдлөх.</definition>
+      <page>806</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4094">
+  <head>
+    <unicode>ᠵᠣᠪᠠᠯᠭᠠᠰᠢᠬᠣ</unicode>
+    <transcript>ǰobalγasiqu</transcript>
+    <transcript2>yobalgasigo</transcript2>
+    <cyrillic>зовлогоших</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠣᠪᠠᠯᠭᠠᠰᠢᠬᠤ</unicode>
+      <cyrillic>зовлогоших</cyrillic>
+      <definition>〔动〕成瘦肉状；成为腐肉的样子.</definition>
+      <page>554</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠪᠠᠯᠭᠠᠰᠢᠬᠣ</unicode>
+      <cyrillic>ЗОВЛОГОШИХ</cyrillic>
+      <definition>становиться тощим. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠣᠪᠠᠯᠭᠠᠰᠢᠬᠤ</unicode>
+      <cyrillic>зовлогоших</cyrillic>
+      <definition>зовлого шинжтэй болох.</definition>
+      <page>272</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Y4093</ref>
+  </related_to>
+</entry>

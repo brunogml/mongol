@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0870">
+  <head>
+    <unicode>ᠱᠠᠯᠠᠩᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šalangnaγulqu</transcript>
+    <transcript2>salangnagolgo</transcript2>
+    <cyrillic>шалагнуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S0869</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠱᠠᠯᠠᠩᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <definition>faire faire ou faire mettre des culières sur les bêtes.</definition>
+      <page>1447</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠯᠠᠩᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шалагнуулах</cyrillic>
+      <definition>〔动〕шалагнах /1、/2、/3 的使动态.</definition>
+      <page>1610</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠯᠠᠩᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАЛАГНУУЛАХ</cyrillic>
+      <definition>шалагнах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠯᠠᠩᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАЛАННУУЛАХ</cyrillic>
+      <definition>шаланнах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шалагнуулах</cyrillic>
+      <definition>Kaus von шалагнах</definition>
+      <page>378</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠯᠠᠩᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шалагнуулах</cyrillic>
+      <definition>шалагнахын үйлдүүлэх хэв.</definition>
+      <page>831</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠯᠠᠩᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шаланнуулах</cyrillic>
+      <definition>шаланнахын үйлдүүлэх хэв, шалагнуулах.</definition>
+      <page>831</page>
+    </entry_item>
+  </entries>
+</entry>

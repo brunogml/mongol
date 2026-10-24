@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0699">
+  <head>
+    <unicode>ᠴᠠᠷᠢᠯᠳᠠᠬᠣ</unicode>
+    <transcript>čarildaqu</transcript>
+    <transcript2>carildago</transcript2>
+    <cyrillic>царилдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0700</ref>
+    <ref>C0702</ref>
+    <ref>C0701</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠷᠢᠯᠳᠠᠬᠤ</unicode>
+      <cyrillic>царилдах</cyrillic>
+      <definition>〔动〕用铁镩镩，用铁钎打洞，用冰钻钻凿.</definition>
+      <page>1521</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠷᠢᠯᠳᠠᠬᠣ</unicode>
+      <cyrillic>цалирдах</cyrillic>
+      <definition>делать что-л. ломом; долбить пешнёй, копать мотыгой; пробивать ломом. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠷᠢᠯᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЦАЛИРДАХ</cyrillic>
+      <definition>царилдах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>царилдах</cyrillic>
+      <definition>mit einer Brechstange [auf]brechen</definition>
+      <page>353</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠷᠢᠯᠳᠠᠬᠤ</unicode>
+      <cyrillic>царилдах</cyrillic>
+      <definition>юмыг царилаар ухах эвдэх, цалирдах.</definition>
+      <page>784</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>C0698</ref>
+  </related_to>
+</entry>

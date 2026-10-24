@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2962">
+  <head>
+    <unicode>ᠲᠠᠷᠮᠠᠬᠣ</unicode>
+    <transcript>tarmaqu</transcript>
+    <transcript2>darmago</transcript2>
+    <cyrillic>тармах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T2964</ref>
+    <ref>T2969</ref>
+  </derivatives>
+  <see_also>
+    <ref>T2971</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠷᠮᠠᠬᠣ</unicode>
+      <cyrillic>ТАРМАХ</cyrillic>
+      <definition>сгребать, подбирать граблями; өвс тармах грестљ сено. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠷᠮᠠᠬᠤ</unicode>
+      <cyrillic>тармах</cyrillic>
+      <definition>тармуураар хамах, өвс тармах.</definition>
+      <page>523</page>
+    </entry_item>
+  </entries>
+</entry>

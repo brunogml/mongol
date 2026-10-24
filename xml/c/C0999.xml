@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0999">
+  <head>
+    <unicode>ᠴᠠᠯᠮᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>čelmegülkü</transcript>
+    <transcript2>celmegölgö</transcript2>
+    <cyrillic>цэлмүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>C0997</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠯᠮᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>цэлмүүлэх</cyrillic>
+      <definition>〔动〕цэлмэх 的使动态.</definition>
+      <page>1563</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠯᠮᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЦЭЛМҮҮЛЭХ</cyrillic>
+      <definition>цэлмэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цэлмүүлэх</cyrillic>
+      <definition>Kaus von цэлмэх</definition>
+      <page>364</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠯᠮᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>цэлмүүлэх</cyrillic>
+      <definition>цэлмэхийн үйлдүүлэх хэв.</definition>
+      <page>805</page>
+    </entry_item>
+  </entries>
+</entry>

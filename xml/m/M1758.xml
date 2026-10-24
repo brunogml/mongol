@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1758">
+  <head>
+    <unicode>ᠮᠣᠬᠣᠷᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>muquriγulqu</transcript>
+    <transcript2>mogorigolgo</transcript2>
+    <cyrillic>мухриулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>M1757</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠤᠬᠤᠷᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>мухриулах</cyrillic>
+      <definition>〔动〕мухрих 的使动态.</definition>
+      <page>699</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠬᠣᠷᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>МУХРИУЛАХ</cyrillic>
+      <definition>мухрих-ийн үйлдүүл., катить, валять, опрокидывать; † мухриулан алах убить. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠤᠬᠤᠷᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>мухриулах</cyrillic>
+      <definition>мухрихын үйлдүүлэх хэв, тонгоргох, унагаах, хөмрөх, өнхрүүлэх.</definition>
+      <page>352</page>
+    </entry_item>
+  </entries>
+</entry>

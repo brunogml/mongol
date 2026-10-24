@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1862">
+  <head>
+    <unicode>ᠫᠠᠮᠪᠠᠶᠢᠺᠥ</unicode>
+    <transcript>pembeyikü</transcript>
+    <transcript2>pembeyigö</transcript2>
+    <cyrillic>пэмбийх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B1859</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠫᠠᠮᠪᠠᠶᠢᠺᠥ</unicode>
+      <cyrillic>ПЭМБИЙХ</cyrillic>
+      <definition>памбайх-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>пэмбийх</cyrillic>
+      <definition>= памбайх</definition>
+      <page>188</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠫᠡᠮᠪᠡᠢᠬᠦ</unicode>
+      <cyrillic>пэмбийх</cyrillic>
+      <definition>памбайх.</definition>
+      <page>453</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2256">
+  <head>
+    <unicode>ᠰᠠᠯᠪᠢᠯᠺᠠ</unicode>
+    <transcript>selbilge</transcript>
+    <transcript2>selbilge</transcript2>
+    <cyrillic>сэлбэлгэ</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠯᠪᠢᠯᠺᠠ</unicode>
+      <cyrillic>СЭЛБЭЛГЭ</cyrillic>
+      <definition>исправление, ремонт. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠯᠪᠢᠯᠺᠠ</unicode>
+      <cyrillic>СЭЛБЭЛЭГ</cyrillic>
+      <definition>сэлбэлгэ-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠯᠪᠢᠯᠭᠡ</unicode>
+      <cyrillic>сэлбэлэг</cyrillic>
+      <definition>сэлбэх үйлийн нэр, сэлбэлгээ: сэлбэлэг их орно, сэлбэлэг багатай.</definition>
+      <page>502</page>
+    </entry_item>
+  </entries>
+</entry>

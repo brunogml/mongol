@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A3069">
+  <head>
+    <unicode>ᠠᠮᠰᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>amsaγanaqu</transcript>
+    <transcript2>amsaganago</transcript2>
+    <cyrillic>амсганах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠮᠰᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>амсганах</cyrillic>
+      <definition>〔动〕参见 амсалзах.</definition>
+      <page>53</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠮᠰᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>АМСГАНАХ</cyrillic>
+      <definition>эмсгэнэх–ийг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠮᠰᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>амсганах</cyrillic>
+      <definition>амсгар юмны амсга амсга хийх.</definition>
+      <page>40</page>
+    </entry_item>
+  </entries>
+</entry>

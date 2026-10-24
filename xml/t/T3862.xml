@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T3862">
+  <head>
+    <unicode>ᠳᠠᠯᠠᠮᠠ</unicode>
+    <transcript>delem-e</transcript>
+    <transcript2>delem-e</transcript2>
+    <cyrillic>дэлэм</cyrillic>
+  </head><see_also>
+    <ref>T3861</ref>
+  
+    <ref>T3906</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠠᠯᠠᠮ᠎ᠡ</unicode>
+      <uighur>delem-e</uighur>
+      <transcript>DELEM-E</transcript>
+      <definition>adj, vain, idle, good for nothing,</definition>
+      <page>249</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠯᠠᠮ᠎ᠡ ᠦᠭᠡ</unicode>
+          <transcript>-- yge</transcript>
+          <definition> Idle talk.</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠠᠯᠠᠮ᠎ᠡ ᠦᠭᠦᠯᠡᠺᠦ</unicode>
+          <transcript>-- ygyleky</transcript>
+          <definition> To talk at random, inconsiderately.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠯᠠᠮᠠ</unicode>
+      <cyrillic>ДЭЛЭМ</cyrillic>
+      <definition>II дэмий-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

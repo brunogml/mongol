@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E0845">
+  <head>
+    <unicode>ᠡᠯᠢᠭᠡᠳᠡᠺᠦ</unicode>
+    <transcript>eligedekü</transcript>
+    <transcript2>eligedegö</transcript2>
+    <cyrillic>элэгдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>E0846</ref>
+    <ref>E0844</ref>
+  </derivatives>
+  <see_also>
+    <ref>E0796</ref>
+    <ref>E0859</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠯᠢᠺᠠᠳᠠᠺᠥ</unicode>
+      <cyrillic>ЭЛЭГДЭХ</cyrillic>
+      <definition>II 1) растирать печень на шкуре; натирать кожу или ремни печёнкой (для придания эластичности); 2) бить в области печени. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠯᠢᠭᠡᠳᠡᠬᠦ</unicode>
+      <cyrillic>элэгдэх /2</cyrillic>
+      <definition>арьсыг идээлж боловсруулахын тулд элгийг няцчин зуурч түрхэх; арьс элэгдэх.</definition>
+      <page>875</page>
+    </entry_item>
+  </entries>
+</entry>

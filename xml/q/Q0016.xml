@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0016">
+  <head>
+    <unicode>ᠬᠠᠣᠯᠢᠯᠠᠬᠣ</unicode>
+    <transcript>qaulilaqu</transcript>
+    <transcript2>gaolilago</transcript2>
+    <cyrillic>хуулилах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q0018</ref>
+    <ref>Q0019</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q0017</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠤᠯᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>хуулилах</cyrillic>
+      <definition>〔动〕〈法〉①制定法律；订立法规；②法办，依法惩处.</definition>
+      <page>1442</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠣᠯᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХУУЛИЛАХ</cyrillic>
+      <definition>хуульчлах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хуулилах</cyrillic>
+      <definition>= хуульчлах</definition>
+      <page>331</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠤᠯᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>хуулилах</cyrillic>
+      <definition>1. хууль болгож тогтоох;2. хууль ёсоор шийтгэх.</definition>
+      <page>737</page>
+    </entry_item>
+  </entries>
+</entry>

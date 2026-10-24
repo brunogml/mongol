@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A1100">
+  <head>
+    <unicode>ᠠᠬᠰᠢᠯ</unicode>
+    <transcript>aγsil</transcript>
+    <transcript2>agsil</transcript2>
+    <cyrillic>агшил</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠬᠰᠢᠯ</unicode>
+      <cyrillic>АГШИЛ</cyrillic>
+      <definition>1. 1) усадка; 2) стяжение; 2. анаг. престатический; агшил эхлэх шуугиан престатический шум.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠬᠰᠢᠯ ᠤᠨ</unicode>
+      <cyrillic>АГШЛЫН</cyrillic>
+      <definition>агшил–ын харьяал., пикнотический; агшлын илтгэлцүүр тусг. коэффициент сжимаемости, усадки; агшлын орчин тусг. сфера сжатия; агшлын цөм тусг. пикнотическое ядро.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>агшил[т]</cyrillic>
+      <definition>Zusammenziehung f, Kontraktion f; Med Systole f</definition>
+      <page>23</page>
+    </entry_item>
+  </entries>
+</entry>

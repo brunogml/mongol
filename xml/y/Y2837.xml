@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y2837">
+  <head>
+    <unicode>ᠵᠢᠰᠢᠶᠡᠯᠡᠺᠥ</unicode>
+    <transcript>ǰisiyelekü</transcript>
+    <transcript2>yisiyelegö</transcript2>
+    <cyrillic>жишээлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y2838</ref>
+    <ref>Y2836</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠢᠰᠢᠶᠡᠯᠡᠺᠥ</unicode>
+      <uighur>ǰisiyelekü</uighur>
+      <cyrillic>жишээлэх</cyrillic>
+      <transcript>ZISIJELE-</transcript>
+      <definition>v.t. To compare, take as an example; to give an example; to approximate.</definition>
+      <page>1063</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠢᠰᠢᠶᠡᠯᠡᠪᠡᠯ</unicode>
+          <transcript>--bel </transcript>
+          <definition> For example, for instance.</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠢᠰᠢᠶᠡᠯᠡᠪᠡᠰᠦ</unicode>
+          <transcript>--besy</transcript>
+          <definition> For example, for instance.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠢᠰᠢᠶᠡᠯᠡᠺᠦ</unicode>
+      <definition>comparer.</definition>
+      <page>2341</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠱᠢᠶᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>жишээлэх</cyrillic>
+      <definition>〔动〕①举例，引例：~ эд, жишээлбэл 例如；②(хэнийг-юуг, хэнтэй-юутай)比较，比拟，对照：үүнийг түүнтэй жишээлж яаж болох вэ 怎么能把这个和那个相比呢.</definition>
+      <page>515</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠰᠢᠶᠡᠯᠡᠺᠥ</unicode>
+      <cyrillic>ЖИШЭЭЛЭХ</cyrillic>
+      <definition>1) приводить пример, брать в качестве примера; жишээлж хэлэхэд к примеру сказать; 2) сравнивать, сопоставлять; жишээлж үзэх сопоставлять; жишээлж хэлсэн выражаясь фигурально. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠱᠢᠶᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>жишээлэх</cyrillic>
+      <definition>баримт үлгэр болгох, адилтган үзэх; жишээлэхэд; жишээлбэл; үүнийг түүнтэй жишээлж яаж болох вэ.</definition>
+      <page>248</page>
+    </entry_item>
+  </entries>
+</entry>

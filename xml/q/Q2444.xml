@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q2444">
+  <head>
+    <unicode>ᠬᠠᠮᠬᠠᠴᠢᠬᠣ</unicode>
+    <transcript>qamqačiqu</transcript>
+    <transcript2>gamgacigo</transcript2>
+    <cyrillic>хамхчих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q2445</ref>
+    <ref>Q2446</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠮᠬᠠᠴᠢᠬᠣ</unicode>
+      <uighur>qamqačiqu</uighur>
+      <cyrillic>хамхчих</cyrillic>
+      <transcript>XAMXACI-</transcript>
+      <definition>See kemkeci-.</definition>
+      <page>926</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠮᠬᠠᠴᠢᠬᠣ</unicode>
+      <cyrillic>ХАМХЧИХ</cyrillic>
+      <definition>хэмхчих 1)-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠮᠬᠠᠴᠢᠬᠤ</unicode>
+      <cyrillic>хамхчих</cyrillic>
+      <definition>хэмхчих, эвдлэх, байн байн хамхлах.</definition>
+      <page>656</page>
+    </entry_item>
+  </entries>
+</entry>

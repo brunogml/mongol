@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0514">
+  <head>
+    <unicode>ᠪᠠᠪᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>babalǰaqu</transcript>
+    <transcript2>babalcago</transcript2>
+    <cyrillic>бавалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0515</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠪᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>бавалзах</cyrillic>
+      <definition>〔动〕（毛发蓬乱或多毛动物）频频动弹，频频抖动.</definition>
+      <page>104</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠪᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>БАВАЛЗАХ</cyrillic>
+      <definition>бавганах-ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бавалзах</cyrillic>
+      <definition>intr Bart, Haar herumzotteln</definition>
+      <page>40</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠪᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>бавалзах</cyrillic>
+      <definition>бавгар юмны бавас бавас хийх.</definition>
+      <page>63</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K3751">
+  <head>
+    <unicode>ᠺᠥᠲᠡᠯᠡᠺᠥ</unicode>
+    <transcript>kötelekü</transcript>
+    <transcript2>gödelegö</transcript2>
+  </head>
+  <derivatives>
+    <ref>K3752</ref>
+    <ref>K3753</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠦᠳᠡᠯᠡᠺᠦ ~ ᠺᠦᠳᠡᠯᠺᠦ</unicode>
+      <definition>mener, conduire, guider, accompagner.</definition>
+      <page>2590</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠠᠷᠠᠭᠠᠳ ᠭᠦᠳᠡᠯᠡᠵᠦ ᠣᠳᠪᠠᠢ</unicode>
+          <definition>il saisit et l'emmena avec lui</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠤᠬᠤᠷ ᠢ ᠭᠦᠳᠡᠯᠡᠭᠴᠢ</unicode>
+          <definition>le guide d'un aveugle</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠ ᠨᠠᠮᠠᠶᠢ ᠪᠡᠷ ᠭᠦᠳᠡᠯᠡᠵᠦ ᠠᠪᠬᠤ ᠣᠳᠳᠠᠬᠤᠢ</unicode>
+          <definition>conduisez-moi</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠦᠳᠡᠯᠡᠵᠦ ᠠᠴᠠᠷᠠᠬᠤ</unicode>
+          <definition>emmener, ramener</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠺᠥᠲᠡᠯᠡᠺᠥ</unicode>
+      <uighur>küdelekü</uighur>
+      <definition>führen, leiten</definition>
+      <page>187</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠺᠥᠲᠡᠯᠡᠺᠥ</unicode>
+      <uighur>kötelekü</uighur>
+      <definition>v.t. To lead a horse, ox, sheep etc.</definition>
+      <page>733</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y3030">
+  <head>
+    <unicode>ᠵᠢᠯᠣᠭᠠᠳᠠᠬᠴᠢ</unicode>
+    <transcript>ǰiluγadaγči</transcript>
+    <transcript2>yilogadagci</transcript2>
+    <cyrillic>жолоодогч</cyrillic>
+  </head><see_also>
+    <ref>Y3033</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠢᠯᠣᠭᠠᠳᠠᠬᠴᠢ</unicode>
+      <uighur>ǰiloγadaqči</uighur>
+      <cyrillic>жолоодогч</cyrillic>
+      <transcript>ZILUΓADAΓCI</transcript>
+      <definition>n. Coachman; conductor; director, leader.</definition>
+      <page>1055</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠷᠠᠳ ᠲᠦᠮᠡᠨ ᠵᠢᠯᠣᠭᠠᠳᠠᠬᠴᠢ</unicode>
+          <transcript>arad tymen y -- </transcript>
+          <definition> Leader of the people.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠢᠯᠣᠭᠠᠳᠠᠬᠴᠢ ~ ᠵᠢᠯᠣᠭᠠᠴᠢ</unicode>
+      <definition>cocher: 2 administrateur, conducteur, directeur.</definition>
+      <page>2345</page>
+    </entry_item>
+  </entries>
+</entry>

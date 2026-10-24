@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2521">
+  <head>
+    <unicode>ᠴᠣᠩᠨᠠᠬᠣ</unicode>
+    <transcript>čungnaqu</transcript>
+    <transcript2>congnago</transcript2>
+    <cyrillic>цугнах</cyrillic>
+  </head>
+  <see_also>
+    <ref>C2522</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠤᠩᠨᠠᠬᠤ</unicode>
+      <cyrillic>цугнах</cyrillic>
+      <definition>〔动〕以寸为单位计量.</definition>
+      <page>1548</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠩᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЦУГНАХ</cyrillic>
+      <definition>измерять, мерить цун (цун-г үз.). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠤᠩᠨᠠᠬᠤ</unicode>
+      <cyrillic>цугнах</cyrillic>
+      <definition>цунгаар хэмжих.</definition>
+      <page>797</page>
+    </entry_item>
+  </entries>
+</entry>

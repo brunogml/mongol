@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5758">
+  <head>
+    <unicode>ᠰᠣᠯᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>suladaγulqu</transcript>
+    <transcript2>soladagolgo</transcript2>
+    <cyrillic>сулдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S5757</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠯᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сулдуулах</cyrillic>
+      <definition>〔动〕 сулдах 的使动态.</definition>
+      <page>959</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠯᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>СУЛДУУЛАХ</cyrillic>
+      <definition>сулдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сулдуулах</cyrillic>
+      <definition>(Kaus von сулдах) zu sehr schwächen</definition>
+      <page>204</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠯᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сулдуулах</cyrillic>
+      <definition>сулдахын үйлдүүлэх хэв.</definition>
+      <page>488</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0330">
+  <head>
+    <unicode>ᠴᠠᠪᠴᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čabčilaγulqu</transcript>
+    <transcript2>cabcilagolgo</transcript2>
+    <cyrillic>цавчлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C0329</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠪᠴᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦАВЧЛУУЛАХ</cyrillic>
+      <definition>цавчлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цавчлуулах</cyrillic>
+      <definition>Kaus von цавчлах</definition>
+      <page>350</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠪᠴᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цавчлуулах</cyrillic>
+      <definition>【цавчуулах!】цавчлахын үйлдүүлэх хэв.</definition>
+      <page>776</page>
+    </entry_item>
+  </entries>
+</entry>

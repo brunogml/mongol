@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1844">
+  <head>
+    <unicode>ᠳᠠᠯᠪᠢᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>dalbiγanaqu</transcript>
+    <transcript2>dalbiganago</transcript2>
+    <cyrillic>далбиганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1845</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠯᠪᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>далбиганах</cyrillic>
+      <definition>〔动〕参见 далбилзах.</definition>
+      <page>383</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠯᠪᠢᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ДАЛБИГАНАХ</cyrillic>
+      <definition>далбилзах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>далбиганах</cyrillic>
+      <definition>= далилзах</definition>
+      <page>90</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠯᠪᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>далбиганах</cyrillic>
+      <definition>далбигар юмны далбига далбига хөдлөх.</definition>
+      <page>184</page>
+    </entry_item>
+  </entries>
+</entry>

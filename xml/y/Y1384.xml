@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1384">
+  <head>
+    <unicode>ᠵᠠᠮᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰamnaγulqu</transcript>
+    <transcript2>yamnagolgo</transcript2>
+    <cyrillic>замнуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y1383</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠮᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>замнуулах</cyrillic>
+      <definition>〔动〕замнах 的使动态.</definition>
+      <page>541</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠮᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗАМНУУЛАХ</cyrillic>
+      <definition>замнах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>замнуулах</cyrillic>
+      <definition>Kaus von замнах</definition>
+      <page>117</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠮᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>замнуулах</cyrillic>
+      <definition>замнахын үйлдүүлэх хэв.</definition>
+      <page>264</page>
+    </entry_item>
+  </entries>
+</entry>

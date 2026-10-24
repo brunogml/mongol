@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S2182">
+  <head>
+    <unicode> ᠰᠡᠳᠭᠢᠯᠳᠥ</unicode>
+    <transcript>setgiltü</transcript>
+    <transcript2>sedgildö</transcript2>
+    <cyrillic>сэтгэлт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠡᠳᠺᠢᠯᠳᠡᠢ ~ ᠰᠡᠳᠺᠢᠯᠳᠦ</unicode>
+      <definition>animé, pensant; qui a de l'inclination, etc.</definition>
+      <page>1352</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠰᠠᠷᠠᠬᠤᠢ ᠨᠢᠭᠦᠯᠡᠰᠺᠦᠢ ᠰᠡᠳᠺᠢᠯᠳᠦ</unicode>
+          <definition>ayant le coeur compatissant, miséricordieux</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠷᠠ ᠰᠡᠳᠺᠢᠯᠳᠦ</unicode>
+          <definition>ayant l'âme noire, mal intentionné, vil</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠶᠢᠨ ᠰᠡᠳᠺᠢᠯᠳᠦ</unicode>
+          <definition>bien intentionné</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠡᠳᠺᠢᠯᠳᠦ ᠪᠣᠯᠬᠤ</unicode>
+          <definition>revenir à soi</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠠᠭᠤᠢ ᠰᠡᠳᠺᠢᠯᠳᠦ</unicode>
+          <definition>mal intentionné</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode> ᠰᠡᠳᠭᠢᠯᠳᠥ</unicode>
+      <cyrillic>СЭТГЭЛТ</cyrillic>
+      <definition>сэтгэлтэй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+<related_to><ref>S2180</ref></related_to><see_also><ref>S2181</ref></see_also></entry>

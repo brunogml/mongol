@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2869">
+  <head>
+    <unicode>ᠲᠠᠷᠪᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>tarbalǰaqu</transcript>
+    <transcript2>darbalcago</transcript2>
+    <cyrillic>тарвалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T2871</ref>
+    <ref>T2874</ref>
+  </derivatives>
+  <see_also>
+    <ref>T2868</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠷᠪᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>тарвалзах</cyrillic>
+      <definition>〔动〕参见 сарвалзах.</definition>
+      <page>1029</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠷᠪᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ТАРВАЛЗАХ</cyrillic>
+      <definition>сарвалзах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠷᠪᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>тарвалзах</cyrillic>
+      <definition>сарвалзах.</definition>
+      <page>522</page>
+    </entry_item>
+  </entries>
+</entry>

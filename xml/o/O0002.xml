@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O0002">
+  <head>
+    <unicode>ᠥ</unicode>
+    <transcript>ü</transcript>
+    <transcript2>ö</transcript2>
+    <cyrillic>үү(н)</cyrillic>
+  </head>
+  <derivatives>
+    <ref>O1588</ref>
+  </derivatives>
+  <see_also>
+    <ref>O0001</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠥ</unicode>
+      <uighur>ü</uighur>
+      <cyrillic>үү</cyrillic>
+      <transcript>Y</transcript>
+      <definition>1 See egyy.</definition>
+      <page>995</page>
+    </entry_item>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠥ</unicode>
+      <uighur>ü</uighur>
+      <transcript>Y</transcript>
+      <definition>2</definition>
+      <page>995</page>
+      <examples>
+        <example>
+          <unicode>ᠥ ᠲᠤᠩ ᠮᠣᠳᠤ</unicode>
+          <transcript>-- tung modu</transcript>
+          <definition> Sterculia plata.nifolia (Ch.wu-t'ung).Cf. sidurγu modu.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠥ</unicode>
+      <uighur>ü</uighur>
+      <transcript>Y</transcript>
+      <definition>3 See u and jin.</definition>
+      <page>995</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥ</unicode>
+      <cyrillic>ҮҮ(Н)</cyrillic>
+      <definition>II 1. бородавка; үү арилгах / үү авч хаях свестљ бородавку; 2. бородавчатый; үүн мэнгэ бородавчатые родинки. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠦ</unicode>
+      <cyrillic>ү</cyrillic>
+      <definition>ү үсэг, ү авиа.</definition>
+      <page>612</page>
+    </entry_item>
+  </entries>
+</entry>

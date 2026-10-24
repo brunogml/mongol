@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A1163">
+  <head>
+    <unicode>ᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>aγdaqu</transcript>
+    <transcript2>agdago</transcript2>
+    <cyrillic>агдах</cyrillic>
+  </head><related_to>
+    <ref>A0735</ref>
+  </related_to><derivatives>
+    <ref>A1164a</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠬᠳᠠᠬᠣ</unicode>
+      <uighur>aqdaqu</uighur>
+      <transcript>AГDA-</transcript>
+      <definition>Passive of a- used to form a polite imperative (obs. ).</definition>
+      <page>14</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠ ᠡᠨᠡ ᠭᠠᠵᠠᠷ ᠠᠬᠳᠠᠬᠤᠢ</unicode>
+          <transcript>ta ene γazar --xui!</transcript>
+          <definition>Please stay at this place!</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠬᠳᠠᠬᠣ</unicode>
+      <uighur>aqdaqu</uighur>
+      <definition>verbe passif d'aqu</definition>
+      <page>137</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠬᠳᠠᠬᠤ ᠣᠷᠣᠨ</unicode>
+          <definition>lien de résidence, .séjour, retraite.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>АГДАХ</cyrillic>
+      <definition>1. пребывать; 2. агдахуй–г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠬᠳᠠᠬᠣᠢ</unicode>
+      <cyrillic>АГДАХУЙ</cyrillic>
+      <definition>: агдахуй орон хуучир. а) место, где нужно находиться (быть); б) местонахождение, место пребывания, расположение, месторасположение.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Bawden</dico>
+      <cyrillic>агдах</cyrillic>
+      <definition>(агдаж сандрах, агдаж тэвдэх) to be perplexed</definition>
+      <page>5</page>
+    </entry_item>
+  </entries>
+</entry>

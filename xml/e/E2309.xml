@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E2309">
+  <head>
+    <unicode>ᠡᠷᠴᠢᠮᠯᠡᠺᠦ</unicode>
+    <transcript>erčimlekü</transcript>
+    <transcript2>ercimlegö</transcript2>
+    <cyrillic>эрчимлэх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠷᠴᠢᠮᠯᠠᠺᠥ</unicode>
+      <uighur>erčimlekü</uighur>
+      <cyrillic>эрчимлэх</cyrillic>
+      <transcript>ERCIMLE-</transcript>
+      <definition>v , i. To twist; to intensify.</definition>
+      <page>320</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠡᠷᠴᠢᠮᠯᠠᠺᠥ</unicode>
+      <cyrillic>ЭРЧИМЛЭХ</cyrillic>
+      <definition>I 1. интенсифицировать; 2. эрчимлэл-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠡᠷᠴᠢᠮᠯᠠᠺᠥ</unicode>
+      <cyrillic>ЭРЧИМЛЭХ</cyrillic>
+      <definition>II 1) быть активным, энергичным; 2) делать активно, стараться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>эрчимлэх</cyrillic>
+      <definition>= эрчлэх</definition>
+      <page>405</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠷᠴᠢᠮᠯᠡᠬᠦ</unicode>
+      <cyrillic>эрчимлэх /1</cyrillic>
+      <definition>1. эрчим хүч оруулах;2. утас дээс зэрэгт эрч оруулах.</definition>
+      <page>888</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠷᠴᠢᠮᠯᠡᠬᠦ</unicode>
+      <cyrillic>эрчимлэх /2</cyrillic>
+      <definition>үйл явдлыг хийх бүтээхэд хүч чанар оруулах, сайжруулах.</definition>
+      <page>888</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>E2303</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q7395">
+  <head>
+    <unicode>ᠬᠣᠸᠠᠯᠠᠬᠣ</unicode>
+    <transcript>quvalaqu</transcript>
+    <transcript2>govalago</transcript2>
+    <cyrillic>хуалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q7397</ref>
+    <ref>Q7399</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q7396</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠸᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>хуалах</cyrillic>
+      <definition>〔动〕划拳行令.</definition>
+      <page>1415</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠸᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХУАЛАХ</cyrillic>
+      <definition>играть в хуа (хуа III-г үз.). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хуалах</cyrillic>
+      <definition>ein Fingerspiel spielen</definition>
+      <page>324</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠸᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>хуалах</cyrillic>
+      <definition>дуу дуулж, хуруугаар тоо таалцаж наадах.</definition>
+      <page>720</page>
+    </entry_item>
+  </entries>
+</entry>

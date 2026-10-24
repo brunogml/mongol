@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N0210">
+  <head>
+    <unicode>ᠨᠠᠪᠲᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>nabtaγanaγulqu</transcript>
+    <transcript2>nabdaganagolgo</transcript2>
+    <cyrillic>навтгануулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>N0209</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠠᠪᠲᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>навтгануулах</cyrillic>
+      <definition>〔动〕навтганах 的使动态.</definition>
+      <page>715</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠪᠲᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>НАВТГАНУУЛАХ</cyrillic>
+      <definition>навтганах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠠᠪᠲᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>навтгануулах</cyrillic>
+      <definition>навтганахын үйлдүүлэх хэв.</definition>
+      <page>361</page>
+    </entry_item>
+  </entries>
+</entry>

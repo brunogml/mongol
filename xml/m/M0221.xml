@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0221">
+  <head>
+    <unicode>ᠮᠠᠭᠠᠨᠠᠬᠯᠠᠬᠣ</unicode>
+    <transcript>maγanaγlaqu</transcript>
+    <transcript2>maganaglago</transcript2>
+    <cyrillic>маанаглах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠭᠠᠨᠠᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>маанаглах</cyrillic>
+      <definition>〔动〕发蠢，发傻.</definition>
+      <page>651</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠭᠠᠨᠠᠬᠯᠠᠬᠣ</unicode>
+      <cyrillic>МААНАГЛАХ</cyrillic>
+      <definition>поступать глупо, совершать глупые поступки; глупить; бүү маанагла! не валяй дурака! </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠭᠠᠨᠠᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>маанаглах</cyrillic>
+      <definition>маанаг байдал гаргах, тэнэглэх, дүйнгэдэх.</definition>
+      <page>325</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>M0219</ref>
+  </related_to>
+</entry>

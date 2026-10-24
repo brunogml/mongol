@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M2175">
+  <head>
+    <unicode>ᠮᠥᠯᠢᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>möligenekü</transcript>
+    <transcript2>möligenegö</transcript2>
+    <cyrillic>мөлгөнөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M2176</ref>
+    <ref>M2174</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠥᠯᠢᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>мөлгөнөх</cyrillic>
+      <definition>〔动〕（触及到平滑面）感到冰凉.</definition>
+      <page>683</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠥᠯᠢᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>МӨЛГӨНӨХ</cyrillic>
+      <definition>1) скользить; загас мөлгөнөөд баригдахгүй байна рыба скользит, никак не поймать её; 2) блестеть, лосниться (о гладких предметах). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠥᠯᠢᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>мөлөгнөх</cyrillic>
+      <definition>мөлгөр юмны хөдлөх, сэрэгдэх; загас мөлөгнөөд баригдахгүй байна.</definition>
+      <page>343</page>
+    </entry_item>
+  </entries>
+</entry>

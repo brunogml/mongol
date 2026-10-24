@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1955">
+  <head>
+    <unicode>ᠬᠠᠯᠢᠰᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>qalisulaγulqu</transcript>
+    <transcript2>galisolagolgo</transcript2>
+    <cyrillic>хальслуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q1954</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠯᠢᠰᠤᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хальслуулах</cyrillic>
+      <definition>〔动〕хальслах 的使动态.</definition>
+      <page>1294</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠯᠢᠰᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХАЛЬСЛУУЛАХ</cyrillic>
+      <definition>хальслах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хальслуулах</cyrillic>
+      <definition>Kaus von хальслах</definition>
+      <page>289</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠯᠢᠰᠤᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хальслуулах</cyrillic>
+      <definition>хальслахын үйлдүүлэх хэв.</definition>
+      <page>653</page>
+    </entry_item>
+  </entries>
+</entry>

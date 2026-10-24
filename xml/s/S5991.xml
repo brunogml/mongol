@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S5991">
+  <head>
+    <unicode>ᠰᠣᠮᠣᠲᠣ</unicode>
+    <transcript>sumutu</transcript>
+    <transcript2>somodo</transcript2>
+    <cyrillic>сумт</cyrillic>
+  </head><see_also>
+    <ref>S5987</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠤᠮᠣᠳᠤ</unicode>
+      <definition>ayant one flèche, avec une flèche.</definition>
+      <page>1405</page>
+      <examples>
+        <example>
+          <unicode>ᠦᠭᠡ ᠎ᠶᠢᠨ ᠰᠤᠮᠣᠳᠤ</unicode>
+          <definition>épithète général des Tégris</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠪᠤᠨ ᠰᠤᠮᠣᠳᠤ</unicode>
+          <definition>ayant cinq flèches: Chimnous</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠮᠣᠲᠣ</unicode>
+      <cyrillic>СУМТ</cyrillic>
+      <definition>имеющий стрелу, со стрелою. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+<related_to><ref>S5983</ref></related_to></entry>

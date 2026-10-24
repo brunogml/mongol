@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0001">
+  <head>
+    <unicode>ᠲᠠ</unicode>
+    <transcript>ta</transcript>
+    <transcript2>da</transcript2>
+    <cyrillic>та</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q5695</ref>
+  </derivatives>
+  <see_also>
+    <ref>T0002</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠ</unicode>
+      <uighur>ta</uighur>
+      <cyrillic>та</cyrillic>
+      <transcript>TA</transcript>
+      <definition>Pron. of second person singular and plural ( in polite address); used in plural sense only in connection with other indication of plurality,</definition>
+      <page>760</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠ ᠪᠦᠭᠦᠳᠡ</unicode>
+          <transcript>-- bygyde</transcript>
+          <definition> All of you, you all.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠ ᠪᠦᠺᠦᠨ</unicode>
+          <transcript>-- bykyn</transcript>
+          <definition> All of you, you all.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠ ᠨᠠᠷ</unicode>
+          <transcript>-- nar</transcript>
+          <definition> You (polite address to a group of people).</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠ ᠬᠣᠶᠠᠷ</unicode>
+          <transcript>-- xojar</transcript>
+          <definition> You two, you both.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠ</unicode>
+      <uighur>ta</uighur>
+      <cyrillic>-т</cyrillic>
+      <transcript>TA, TE</transcript>
+      <definition>Suffix added to cardinal numerals and the words olan "many" and kedyn "how many" to form multiplicatives with the meaning of "[so many] times"; in old texts it is sometimes written separately</definition>
+      <page>760</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠢ ᠲᠡᠭᠦᠨ ᠎ᠳᠦ ᠺᠡᠳᠦᠨᠲᠡ ᠺᠡᠯᠡᠭᠰᠡᠨ ᠪᠣᠯᠪᠠᠴᠤ ᠰᠣᠨᠤᠰᠤᠭᠰᠠᠨ ᠦᠭᠡᠢ</unicode>
+          <transcript>bi tegyn dy kedynte kelegsen bolbacu sonusuγsan ygei </transcript>
+          <definition>Although I have told him several times, he did hot listen</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠤᠷᠪᠠᠨᠲᠠ ᠶᠣᠰᠤᠯᠠᠬᠤ</unicode>
+          <transcript>γurbanta josulaxu</transcript>
+          <definition> To salute three times</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠡᠳᠦᠨᠲᠡ</unicode>
+          <transcript>kedynte</transcript>
+          <definition> Several times; how many times?.</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠡᠳᠦᠨᠲᠡ ᠺᠦᠷᠦᠭᠰᠡᠨ ᠪᠣᠯᠪᠠᠴᠤ ᠤᠴᠢᠷᠠᠵᠤ ᠴᠢᠳᠠᠭᠰᠠᠨ ᠦᠭᠡᠢ</unicode>
+          <transcript>kedynte kyrygsen bolbacu ucirazu cidaγsan ygei</transcript>
+          <definition> Althgugh [I] went there several times, [I] was unable to meet him.</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠯᠠᠨᠲᠠ</unicode>
+          <transcript>olanta</transcript>
+          <definition> Many times, repeatedly.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠ</unicode>
+      <definition>vous. 2 (ta au lieu de tour; da au lieu de tour) particule du datif, du locatif et du gérondif: à, au, aux, à ce qui, dans, en , envers, chez, près, vers. pour, sur: lorsque. après que: 3 fois.</definition>
+      <page>1547</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠷᠪᠠᠨ ᠳᠠ</unicode>
+          <definition>dix-fois</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠯᠠᠨ ᠲᠠ = ᠣᠯᠠᠨᠲᠠ</unicode>
+          <definition>plusieurs fois, souvent</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠶᠠᠷ ᠎ᠲᠠ = ᠬᠣᠶᠠᠷᠲᠠ</unicode>
+          <definition>deux fois, bis</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠ</unicode>
+      <uighur>da</uighur>
+      <definition>ihr</definition>
+      <page>226</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠ</unicode>
+      <uighur>ta</uighur>
+      <definition>You (Sing.Nom.). Thou.</definition>
+      <page>890</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠ</unicode>
+      <uighur>da</uighur>
+      <definition>An ending ts a ward making it an adverb (e.g. Olan = many. Olanda = many times).</definition>
+      <page>1047</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠ</unicode>
+      <cyrillic>та</cyrillic>
+      <definition>〔代〕您；你们：~ сайн байна уу? 您好吗？ ~ хаана очих нь вэ? 你到哪里去？ ~ нар 你们；~ хоёр 你们俩；~ бүгд, ~ бүхэн 你们大家.</definition>
+      <page>999</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠ</unicode>
+      <cyrillic>ТА</cyrillic>
+      <definition>1) хоёрдугаар биеийн төлөөний үгийн ганц тоо., Вы; “та”-гаас өөр нэргүй, “гуай”-гаас өөр алдаргүй үгчил. кроме как “Вы” не имеет љмени, кроме как “гуай” не имеет звания; та тааваараа байгтун! добро пожаловать!; та хаанаас ирэв? откуда Вы пришлљ?; та энд суугтун! садљтесь сюда; та юу хийж байна? что Вы делаете?; 2) холбоо (в сочетании с числительными, некоторыми разделительными местоимениями и аффиксами множественности) вы; та бүгд / та бүхэн вы все; та нар вы; та нарын морь ваша лошадь; та нарын нэг нь одљн из вас; та хоёр вы оба, вы двое, вы вдвоём; та хоёрын хэн? кто из вас двољх? </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>та</cyrillic>
+      <definition>Pers Pron Sg Sie; ~ рэх siezen; ~ нар Pers Pron Pl ihr, Sie; ~ бүгд od бүхэн ihr od Sie alle; ~ хоёр ihr od Sie beide</definition>
+      <page>213</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠ᠊ᠨ</unicode>
+      <cyrillic>та</cyrillic>
+      <definition>бусдыг хүндэтгэн дуудахад хэрэглэх хоёрдугаар биеийн төлөөний үг; та энд суугтун! та сайн байна уу? та тааваараа байгтун! та хоёр; та бүхэн.</definition>
+      <page>508</page>
+    </entry_item>
+  </entries>
+</entry>

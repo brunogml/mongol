@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3492">
+  <head>
+    <unicode>ᠳᠠᠪᠢᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>debigenegülkü</transcript>
+    <transcript2>debigenegölgö</transcript2>
+    <cyrillic>дэвгэнүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T3491</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠡᠪᠢᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дэвгэнүүлэх</cyrillic>
+      <definition>〔动〕дэвгэнэх 的使动态.</definition>
+      <page>460</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠪᠢᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ДЭВГЭНҮҮЛЭХ</cyrillic>
+      <definition>дэвгэнэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠪᠢᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дэвэгнүүлэх</cyrillic>
+      <definition>дэвэгнэхийн үйлдүүлэх хэв.</definition>
+      <page>222</page>
+    </entry_item>
+  </entries>
+</entry>

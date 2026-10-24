@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2018">
+  <head>
+    <unicode>ᠰᠠᠪᠠᠰᠥᠲᠥᠺᠥ</unicode>
+    <transcript>sebesütükü</transcript>
+    <transcript2>sebesödögö</transcript2>
+    <cyrillic>сэвстэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S2019</ref>
+    <ref>S2017</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠪᠰᠦᠲᠡᠬᠦ</unicode>
+      <cyrillic>сэвстэх</cyrillic>
+      <definition>〔动〕①参见 сэвслэх；②（骆驼）吐唾沫，飞涎.</definition>
+      <page>980</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠪᠠᠰᠥᠲᠥᠺᠥ</unicode>
+      <cyrillic>СЭВСТЭХ</cyrillic>
+      <definition>1) плеваться, брызгать слюной, выплёвывать жвачку (о верблюде); 2) ставить припарки содержимым потрохов только что заколотого животного. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠪᠡᠰᠦᠲᠡᠬᠦ</unicode>
+      <cyrillic>сэвстэх</cyrillic>
+      <definition>юмыг сэвсэр хөхүүлэх, тэмээний сэвсээ гаргаж хаях.</definition>
+      <page>499</page>
+    </entry_item>
+  </entries>
+</entry>

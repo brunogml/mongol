@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0517">
+  <head>
+    <unicode>ᠲᠠᠭᠠᠮ ᠠ</unicode>
+    <transcript>taγam-a</transcript>
+    <transcript2>dagam-a</transcript2>
+    <cyrillic>таам</cyrillic>
+  </head>
+  <see_also>
+    <ref>T0518</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠭᠠᠮ᠎ᠠ</unicode>
+      <cyrillic>таам</cyrillic>
+      <definition>〔名〕参见 таавар.</definition>
+      <page>1001</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠭᠠᠮᠠ</unicode>
+      <cyrillic>ТААМ</cyrillic>
+      <definition>таамаар-ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠭᠠᠮ᠎ᠠ</unicode>
+      <cyrillic>таам</cyrillic>
+      <definition>таавар.</definition>
+      <page>509</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1279">
+  <head>
+    <unicode>ᠮᠠᠷᠺᠠᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>mergelegülkü</transcript>
+    <transcript2>mergelegölgö</transcript2>
+    <cyrillic>мэргэлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>M1278</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠡᠷᠭᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>мэргэлүүлэх</cyrillic>
+      <definition>〔动〕见 мэрэглүүлэх.</definition>
+      <page>706</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠷᠺᠠᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>МЭРГЭЛҮҮЛЭХ</cyrillic>
+      <definition>мэргэлэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠡᠷᠭᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>мэрэглүүлэх</cyrillic>
+      <definition>мэрэглэхийн үйлдүүлэх хэв.</definition>
+      <page>356</page>
+    </entry_item>
+  </entries>
+</entry>

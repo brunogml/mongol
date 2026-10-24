@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4110c">
+  <head>
+    <unicode>ᠺᠣᠨᠲ᠋ᠥᠷᠯᠠᠬᠣ</unicode>
+    <transcript>kontorlaqu</transcript>
+    <transcript2>gondorlago</transcript2>
+    <cyrillic>конторлох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q4110d</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠺᠣᠨ᠋ᠲ᠋ᠣᠷᠯᠠᠬᠤ</unicode>
+      <cyrillic>конторлох</cyrillic>
+      <definition>〔动〕办公，工作，上班.</definition>
+      <page>636</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠣᠨᠲ᠋ᠥᠷᠯᠠᠬᠣ</unicode>
+      <cyrillic>КОНТОРЛОХ</cyrillic>
+      <definition>яриа. заниматься, работать (в конторе), служить. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>конторлох</cyrillic>
+      <definition>umg im Büro arbeiten, Büroarbeit machen</definition>
+      <page>137</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠺᠣᠨᠲᠣᠷᠯᠠᠬᠤ</unicode>
+      <cyrillic>конторлох</cyrillic>
+      <definition>конторт сууж албан ажил хийх.</definition>
+      <page>316</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q4110b</ref>
+  </related_to>
+</entry>

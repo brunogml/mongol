@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="N1366">
+  <head>
+    <unicode>ᠨᠢᠭᠣᠯ</unicode>
+    <transcript>niγul</transcript>
+    <transcript2>nigol</transcript2>
+    <cyrillic>нуул</cyrillic>
+  </head><derivatives>
+    <ref>N1356</ref>
+  </derivatives><related_to>
+    <ref>N1324</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠨᠢᠭᠣᠯ</unicode>
+      <uighur>niγul</uighur>
+      <transcript>NIΓUL</transcript>
+      <page>579</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠢᠭᠣᠯ ᠦᠭᠡᠭᠦᠶ᠎ᠡ</unicode>
+          <transcript>-- ygegyi-e</transcript>
+          <definition> Without concealing, openly.</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠢᠭᠣᠯ ᠦᠭᠡᠢ ᠶᠠᠷᠢᠬᠤ</unicode>
+          <transcript>- ygei jarixu</transcript>
+          <definition> To talk frankly or candidly.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠢᠭᠣᠯ</unicode>
+      <cyrillic>НУУЛ</cyrillic>
+      <definition>утайка. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠢᠭᠣᠯ</unicode>
+      <cyrillic>НУУЛГҮЙ</cyrillic>
+      <definition>без утайки, откровенно; нуулгүй өгүүлэх говорить без утайки, говорить прямо всю правду. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

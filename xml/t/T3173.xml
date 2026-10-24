@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3173">
+  <head>
+    <unicode>ᠳᠠᠨᠵᠢᠯᠵᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>denǰilǰegülkü</transcript>
+    <transcript2>dencilcegölgö</transcript2>
+    <cyrillic>дэнжилзүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T3172</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠡᠨᠵᠢᠯᠵᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дэнжилзүүлэх</cyrillic>
+      <definition>〔动〕дэнжилзэх 的使动态.</definition>
+      <page>474</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠨᠵᠢᠯᠵᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ДЭНЖИЛЗҮҮЛЭХ</cyrillic>
+      <definition>дэнжилзэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠨᠵᠢᠯᠵᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дэнжилзүүлэх</cyrillic>
+      <definition>дэнжилзэхийн үйлдүүлэх хэв.</definition>
+      <page>227</page>
+    </entry_item>
+  </entries>
+</entry>

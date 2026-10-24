@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2927">
+  <head>
+    <unicode>ᠴᠣᠯᠠᠯᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>čolalaγdaqu</transcript>
+    <transcript2>colalagdago</transcript2>
+    <cyrillic>цоллогдох</cyrillic>
+  </head>
+  <related_to>
+    <ref>C2925</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠣᠯᠠᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>цоллогдох</cyrillic>
+      <definition>〔动〕цоллох 的被动态.</definition>
+      <page>1531</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠯᠠᠯᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЦОЛЛОГДОХ</cyrillic>
+      <definition>цоллох-ын үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цоллогдох</cyrillic>
+      <definition>Pass von цоллох</definition>
+      <page>355</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠣᠯᠠᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>цоллогдох</cyrillic>
+      <definition>цоллохын үйлдэгдэх хэв.</definition>
+      <page>789</page>
+    </entry_item>
+  </entries>
+</entry>

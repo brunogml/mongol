@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1972">
+  <head>
+    <unicode>ᠨᠣᠬᠠᠶᠢᠲᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>noqayituγulqu</transcript>
+    <transcript2>nogayidogolgo</transcript2>
+    <cyrillic>нохойтуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>N1971</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠣᠬᠠᠢᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нохойтуулах</cyrillic>
+      <definition>〔动〕①нохойтох 的使动态；②纵狗，放狗.</definition>
+      <page>751</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠣᠬᠠᠶᠢᠲᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>НОХОЙТУУЛАХ</cyrillic>
+      <definition>нохойтох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠣᠬᠠᠢᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нохойтуулах</cyrillic>
+      <definition>нохойтохын үйлдүүлэх хэв, нохойгий нь хөдөлгөх.</definition>
+      <page>383</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T0233">
+  <head>
+    <unicode>ᠳᠠᠩᠰᠠᠲᠣ</unicode>
+    <transcript>dangsatu</transcript>
+    <transcript2>dangsado</transcript2>
+    <cyrillic>данст</cyrillic>
+  </head><see_also>
+    <ref>T0232</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠠᠩᠰᠠᠲᠣ</unicode>
+      <uighur>dangsatu</uighur>
+      <cyrillic>данст</cyrillic>
+      <transcript>DANGSATU</transcript>
+      <definition>See dangsatai</definition>
+      <page>231</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠩᠰᠠᠲᠤ ~ ᠳᠠᠩᠰᠠᠲᠠᠢ</unicode>
+      <definition>celui qui a les protocoles, les régistres, etc.; enrégistré</definition>
+      <page>1566</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠩᠰᠠᠲᠤ ᠪᠯᠠᠮ᠎ᠠ ᠎ᠨᠠᠷ</unicode>
+          <definition>lamas entregistrés, lamas de la liste fixée par l'état</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠩᠰᠠᠲᠤ</unicode>
+      <cyrillic>данст</cyrillic>
+      <definition>〔形〕参见 данстай.</definition>
+      <page>390</page>
+    </entry_item>
+  </entries>
+<related_to><ref>T0230</ref></related_to></entry>

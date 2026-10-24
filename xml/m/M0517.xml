@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0517">
+  <head>
+    <unicode>ᠮᠠᠳᠯᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>madlaγdaqu</transcript>
+    <transcript2>madlagdago</transcript2>
+    <cyrillic>мадлагдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>M0515</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠳᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>мадлагдах</cyrillic>
+      <definition>〔动〕мадлах 的被动态.</definition>
+      <page>654</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠳᠯᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>МАДЛАГДАХ</cyrillic>
+      <definition>мадлах-ын үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠳᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>мадлагдах</cyrillic>
+      <definition>мадлахын үйлдэгдэх хэв, мадлуулах.</definition>
+      <page>326</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A0630">
+  <head>
+    <unicode>ᠠᠭᠠᠵᠢᠭᠤᠪᠳᠤᠷ</unicode>
+    <transcript>aγaǰiγubtur</transcript>
+    <transcript2>agacigobdor</transcript2>
+    <cyrillic>аажуувтар</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠭᠠᠵᠢᠭᠤᠪᠲᠤᠷ</unicode>
+      <cyrillic>аажуувтар</cyrillic>
+      <definition>〔形〕①较缓慢的，较迟缓的；②较徐缓的，较从容的；③较静的.</definition>
+      <page>3</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠠᠵᠢᠭᠤᠪᠳᠤᠷ</unicode>
+      <cyrillic>ААЖУУВТАР</cyrillic>
+      <definition>немного медленнее, тише.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Bawden</dico>
+      <cyrillic>ААЖУУВТАР</cyrillic>
+      <definition>1. slowish 2. andantino (mus.)</definition>
+      <page>1</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠭᠠᠵᠢᠭᠤᠪᠲᠤᠷ</unicode>
+      <cyrillic>аажуувтар</cyrillic>
+      <definition>арай аажуу.</definition>
+      <page>12</page>
+    </entry_item>
+  </entries>
+</entry>

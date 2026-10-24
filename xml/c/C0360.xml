@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0360">
+  <head>
+    <unicode>ᠴᠠᠰᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>časilaγulqu</transcript>
+    <transcript2>casilagolgo</transcript2>
+    <cyrillic>цаашлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C0358</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠨᠠᠭᠰᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цаашлуулах</cyrillic>
+      <definition>〔动〕цаашлах 的使动态.</definition>
+      <page>1508</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠰᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦААШЛУУЛАХ</cyrillic>
+      <definition>цаашлах-ын үйлдүүл., отодвигать, удалять; хүүхэд цаашлуулах придираться к ребёнку, обижать (ребёнка). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠨᠠᠭᠰᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цаашлуулах</cyrillic>
+      <definition>цаашлахын үйлдүүлэх хэв, улам цааш давруулах; хүүхдийг битгий цаашлуулаад бай.</definition>
+      <page>776</page>
+    </entry_item>
+  </entries>
+</entry>

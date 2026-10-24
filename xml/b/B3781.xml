@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B3781">
+  <head>
+    <unicode>ᠪᠣᠺᠢᠷᠬᠣ</unicode>
+    <transcript>bokirqu</transcript>
+    <transcript2>bogirgo</transcript2>
+    <cyrillic>бохирох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B3793</ref>
+  </derivatives>
+  <see_also>
+    <ref>B3781a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠣᠺᠢᠷᠬᠣ</unicode>
+      <uighur>bokirqu</uighur>
+      <cyrillic>бохирох</cyrillic>
+      <transcript>BOKIR-</transcript>
+      <definition>v.i. To fold, bend; to become crooked.</definition>
+      <page>114</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠣᠷᠪᠢ ᠪᠣᠺᠢᠷᠬᠣ ᠦᠭᠡᠢ</unicode>
+          <transcript>borbi --xu ygei</transcript>
+          <definition> To work indefatigably (lit. 'without bending legs")</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠤᠺᠢᠷᠬᠤ</unicode>
+      <definition>plier, courber, ployer au dessous</definition>
+      <page>1211</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠥᠯ ᠪᠤᠺᠢᠷᠬᠤ</unicode>
+          <definition>plier les pieds</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠺᠢᠷᠬᠣ</unicode>
+      <cyrillic>БОХИРОХ</cyrillic>
+      <definition>сгибаться, подгибаться; становиться калекой; борви бохирохгүй не покладая рук (үгчил. не сгибая ног, не приседая); хөл бохирох сгибать ногу, подгибать колено (при особом виде приветствия).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠣᠬᠢᠷᠬᠤ</unicode>
+      <cyrillic>бохирох /1</cyrillic>
+      <definition>хүн амьтны хөл нугарах, нугасхийх; бүхэл өдрийн турш борви бохиролгүй; бохирч суух.</definition>
+      <page>95</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠣᠬᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>бохирох /2</cyrillic>
+      <definition>бохь болох, бохьтой болох.</definition>
+      <page>95</page>
+    </entry_item>
+  </entries>
+</entry>

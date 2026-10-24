@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I0790">
+  <head>
+    <unicode>ᠢᠯᠵᠠᠮᠠᠬᠰᠢᠬᠣ</unicode>
+    <transcript>ilǰamaγsiqu</transcript>
+    <transcript2>ilcamagsigo</transcript2>
+    <cyrillic>ялзмагших</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠯᠵᠠᠮᠠᠭᠰᠢᠬᠤ</unicode>
+      <cyrillic>ялзмагших</cyrillic>
+      <definition>〔动〕腐烂起来，开始霉烂；成腐殖质状，形成腐殖土.</definition>
+      <page>1749</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠯᠵᠠᠮᠠᠬᠰᠢᠬᠣ</unicode>
+      <cyrillic>ЯЛЗМАГШИХ</cyrillic>
+      <definition>становиться затхлым, гнить. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠯᠵᠠᠮᠠᠭᠰᠢᠬᠤ</unicode>
+      <cyrillic>ялзмагших</cyrillic>
+      <definition>ялзмаг шинжтэй болох, ялзрах шинж орох.</definition>
+      <page>905</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>I0789</ref>
+  </related_to>
+</entry>

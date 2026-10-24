@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2094">
+  <head>
+    <unicode>ᠣᠴᠢᠬᠯᠠᠬᠣ</unicode>
+    <transcript>učiγlaqu</transcript>
+    <transcript2>ociglago</transcript2>
+    <cyrillic>учиглах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U2096</ref>
+    <ref>U2097</ref>
+  </derivatives>
+  <see_also>
+    <ref>U2095</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠴᠢᠬᠯᠠᠬᠣ</unicode>
+      <cyrillic>УЧИГЛАХ</cyrillic>
+      <definition>I оставлять обрывок нљтки (вдетый в иголку). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠴᠢᠬᠯᠠᠬᠣ</unicode>
+      <cyrillic>УЧИГЛАХ</cyrillic>
+      <definition>II до конца выдаивать молоко, выдаивать без остатка. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>учиглах</cyrillic>
+      <definition>1. das Fadenende beim Einfädeln zwirnen
+2. im Euter verbliebene Restmilch ausmelken</definition>
+      <page>265</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠴᠢᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>учиглах /1</cyrillic>
+      <definition>сүвэгч гарах утсанд үзүүр гаргах.</definition>
+      <page>610</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠴᠢᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>учиглах /2</cyrillic>
+      <definition>учгийг саах; үнээ учиглах.</definition>
+      <page>610</page>
+    </entry_item>
+  </entries>
+</entry>

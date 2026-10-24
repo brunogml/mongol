@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="O1250">
+  <head>
+    <unicode>ᠥᠮᠺᠥᠷᠢᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ömkürigülkü</transcript>
+    <transcript2>ömgörigölgö</transcript2>
+  </head><related_to>
+    <ref>O1249</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠦᠮᠺᠦᠷᠢᠭᠦᠯᠺᠦ</unicode>
+      <definition>tourner. rouler, mettre sens dessus dessous, remuer.</definition>
+      <page>541</page>
+      <examples>
+        <example>
+          <unicode>ᠦᠷᠭᠦᠰᠦᠨ ᠢᠶᠡᠷ ᠦᠮᠺᠦᠷᠢᠭᠦᠯᠺᠦ</unicode>
+          <definition>tourner sur les épines</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠥᠮᠺᠥᠷᠢᠺᠥᠯᠺᠥ</unicode>
+      <uighur>ümkürigülkü</uighur>
+      <definition>umdrehen, umwenden, umwälzen.</definition>
+      <page>70</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠥᠮᠺᠥᠷᠢᠺᠥᠯᠺᠥ</unicode>
+      <uighur>ümkürigülkü</uighur>
+      <definition>v.t. To turn round, to revert. To overturn.</definition>
+      <page>276</page>
+    </entry_item>
+  </entries>
+</entry>

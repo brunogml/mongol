@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T1927">
+  <head>
+    <unicode>ᠲᠠᠯᠲᠣ</unicode>
+    <transcript>taltu</transcript>
+    <transcript2>daldo</transcript2>
+    <cyrillic>талт</cyrillic>
+  </head><see_also>
+    <ref>T1686</ref>
+  
+    <ref>T1928</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠯᠲᠣ</unicode>
+      <uighur>taldu</uighur>
+      <cyrillic>талт</cyrillic>
+      <transcript>TALTU</transcript>
+      <page>773</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠯᠲᠣ ᠮᠥᠯᠲᠦ</unicode>
+          <transcript>-- mølty</transcript>
+          <definition> Expression descriptive of carelessness, haphazardness or a child's prattling</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠯᠲᠣ ᠮᠥᠯᠲᠦ ᠰᠣᠨᠤᠰᠬᠤ</unicode>
+          <transcript>-- mølty sonusxu</transcript>
+          <definition> To hear only partially; to catch a few words here and there.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠯᠲᠣᠮᠥᠯᠲᠦ ᠬᠣᠶᠠᠷ ᠶᠠᠭᠤᠮ᠎ᠠ ᠮᠡᠳᠡᠺᠦ</unicode>
+          <transcript>-- mølty xojar jaγum-a medeky</transcript>
+          <definition> To have merely a superficial knowledge.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠷ᠎ᠡ ᠨᠢᠭᠡ ᠬᠣᠶᠠᠷ ᠲᠠᠯᠲᠣ ᠮᠥᠯᠲᠦ ᠺᠢᠲᠠᠳ ᠦᠭᠡ ᠮᠡᠳᠡᠨ᠎ᠡ</unicode>
+          <transcript>ter-e nige xojar -- mølty kitad yge meden-e</transcript>
+          <definition> He is able to say only a couple of words in Chinese.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠯᠳᠤ ᠮᠥᠯᠳᠦ</unicode>
+      <definition>on dit des petits enfants qui commencent à faire quelques pas, et qui apprennent à marcher et à parler</definition>
+      <page>1641</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠯᠲᠣ</unicode>
+      <cyrillic>ТАЛТИ</cyrillic>
+      <definition>халти-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3345">
+  <head>
+    <unicode>ᠲᠠᠩᠺᠠᠺᠠᠳᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>tengkegedegülkü</transcript>
+    <transcript2>denggegedegölgö</transcript2>
+    <cyrillic>тэнхээдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T3343</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠡᠩᠬᠡᠭᠡᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>тэнхээдүүлэх</cyrillic>
+      <definition>〔动〕тэнхээдэх 的使动态.</definition>
+      <page>1159</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠩᠺᠠᠺᠠᠳᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ТЭНХЭЭДҮҮЛЭХ</cyrillic>
+      <definition>тэнхээдэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠩᠬᠡᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>тэнхээдүүлэх</cyrillic>
+      <definition>тэнхээдэхийн үйлдүүлэх хэв.</definition>
+      <page>577</page>
+    </entry_item>
+  </entries>
+</entry>

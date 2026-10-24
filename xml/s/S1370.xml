@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1370">
+  <head>
+    <unicode>ᠱᠠᠮᠰᠢᠢᠬᠣ</unicode>
+    <transcript>šamsiiqu</transcript>
+    <transcript2>samsiigo</transcript2>
+    <cyrillic>шамшийх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1372</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠮᠰᠢᠢᠬᠤ</unicode>
+      <cyrillic>шамшийх</cyrillic>
+      <definition>〔动〕①变扁，变瘪，变扁平；②变矮小，走样，走形.</definition>
+      <page>1618</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠮᠰᠢᠢᠬᠣ</unicode>
+      <cyrillic>ШАМШИЙХ</cyrillic>
+      <definition>1) иметь длинный подбородок; 2) отворачиваться, выворачиваться (о губах). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠮᠰᠢᠢᠬᠤ</unicode>
+      <cyrillic>шамшийх</cyrillic>
+      <definition>шамшгар болох, навшгар болох.</definition>
+      <page>836</page>
+    </entry_item>
+  </entries>
+</entry>

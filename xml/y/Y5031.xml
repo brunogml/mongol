@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y5031">
+  <head>
+    <unicode>ᠵᠥᠩᠨᠡᠺᠥ</unicode>
+    <transcript>ǰöngnekü</transcript>
+    <transcript2>yöngnegö</transcript2>
+    <cyrillic>зөгнөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y5032</ref>
+    <ref>Y5033</ref>
+    <ref>Y5030</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠥᠩᠨᠡᠺᠥ</unicode>
+      <uighur>ǰöngnekü</uighur>
+      <cyrillic>зөгнөх</cyrillic>
+      <transcript>ZØNGNE-</transcript>
+      <definition>v.t. To predict, prognosticate, portend, have a presentiment.</definition>
+      <page>1075</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠣᠷᠤᠭᠠᠨ ᠵᠥᠩᠨᠡᠺᠥ</unicode>
+          <transcript>boruγan --ky</transcript>
+          <definition> To have a presentiment of rain</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠦᠩᠨᠡᠺᠦ</unicode>
+      <definition>prédire, prognostiquer , présager.</definition>
+      <page>2409</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠵᠥᠩᠨᠡᠺᠥ</unicode>
+      <uighur>ǰöngnekü</uighur>
+      <definition>vorhersagen , vorherbestimmen, im Voraus ein Unheil fällen, wahrsagen</definition>
+      <page>312</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠵᠥᠩᠨᠡᠺᠥ</unicode>
+      <uighur>ǰöngnekü</uighur>
+      <definition>To foretell. To pronounce something in advance</definition>
+      <page>1256</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠥᠩᠨᠡᠬᠦ</unicode>
+      <cyrillic>зөгнөх</cyrillic>
+      <definition>〔动〕预感，预见，预料，预测，预卜：бороо орохыг ~ 预料到要下雨；ирээдүйг ~ 预见未来；~н мэдэх 预知.</definition>
+      <page>568</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠥᠩᠨᠡᠺᠥ</unicode>
+      <cyrillic>ЗӨГНӨХ</cyrillic>
+      <definition>1) предчувствовать; предвидеть, чуять, предрекать, предвещать, пророчествовать; бороо орохыг зөгнөх предчувствовать дождь; зөгнөж болох провидеть; зөгнөж хэлэх пророчить; 2) мечтать, фантазировать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠥᠩᠨᠡᠬᠦ</unicode>
+      <cyrillic>зөгнөх</cyrillic>
+      <definition>юмыг урьдаас төсөөлөн мэдэх; бороо орохыг зөгнөх; хөдөө явахыг зөгнөх.</definition>
+      <page>278</page>
+    </entry_item>
+  </entries>
+</entry>

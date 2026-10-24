@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4187">
+  <head>
+    <unicode>ᠰᠢᠵᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>siǰaγanaqu</transcript>
+    <transcript2>sicaganago</transcript2>
+    <cyrillic>шазганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S4188</ref>
+    <ref>S4189</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠵᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>шазганах</cyrillic>
+      <definition>〔动〕参见 шазалзах.</definition>
+      <page>1609</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠵᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ШАЗГАНАХ</cyrillic>
+      <definition>шазалзах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠵᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>шазганах</cyrillic>
+      <definition>шазгар юмны шазга шазга хөдлөх.</definition>
+      <page>831</page>
+    </entry_item>
+  </entries>
+</entry>

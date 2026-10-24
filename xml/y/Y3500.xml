@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3500">
+  <head>
+    <unicode>ᠵᠢᠷᠣᠮᠰᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰirumsiγulqu</transcript>
+    <transcript2>yiromsigolgo</transcript2>
+    <cyrillic>журамшуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y3499</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠷᠤᠮᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>журамшуулах</cyrillic>
+      <definition>〔动〕①журамших 的使动态；②使之规范，使之标准化；规格化：~ баримт 标准文件.</definition>
+      <page>519</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠷᠣᠮᠰᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЖУРАМШУУЛАХ</cyrillic>
+      <definition>журамших-ийн үйлдүүл., приводить в порядок, упорядочивать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠷᠤᠮᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>журамшуулах</cyrillic>
+      <definition>журамшихын үйлдүүлэх хэв.</definition>
+      <page>252</page>
+    </entry_item>
+  </entries>
+</entry>

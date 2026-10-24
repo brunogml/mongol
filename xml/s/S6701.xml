@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6701">
+  <head>
+    <unicode>ᠱᠥᠯᠲᠥᠲᠥᠺᠥᠯᠺᠥ</unicode>
+    <transcript>šültütügülkü</transcript>
+    <transcript2>söldödögölgö</transcript2>
+    <cyrillic>шүлтүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S6700</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠦᠯᠲᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>шүлтүүлэх</cyrillic>
+      <definition>〔动〕шүлтэх /1 的使动态.</definition>
+      <page>1666</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠥᠯᠲᠥᠲᠥᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ШҮЛТҮҮЛЭХ</cyrillic>
+      <definition>шүлтэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠦᠯᠲᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>шүлтүүлэх</cyrillic>
+      <definition>шүлтэхийн үйлдүүлэх хэв, шүлтэхэд хүрүүлэх.</definition>
+      <page>862</page>
+    </entry_item>
+  </entries>
+</entry>

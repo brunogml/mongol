@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E1662">
+  <head>
+    <unicode>ᠡᠺᠢᠯᠡᠺᠦ</unicode>
+    <transcript>ekilekü</transcript>
+    <transcript2>egilegö</transcript2>
+    <cyrillic>эхлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>E1663</ref>
+    <ref>E1665</ref>
+    <ref>E1660</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠺᠢᠯᠠᠺᠥ</unicode>
+      <uighur>ekilekü</uighur>
+      <transcript>EKILE-</transcript>
+      <definition>v:t, and i. To begin, start, come into being, originate; to untertake.</definition>
+      <page>306</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠺᠢᠯᠡᠨ ᠳᠠᠭᠤᠯᠠᠬᠤ</unicode>
+          <transcript>--n daγulaxu</transcript>
+          <definition> To lead in singing, give the tune.</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠠᠶᠢᠮᠠᠨ ᠸᠠᠭ ᠡᠴᠡ ᠡᠺᠢᠯᠡᠨ</unicode>
+          <transcript>naiman caγ ece --no F</transcript>
+          <definition>.rom 8 o'clock on</definition>
+        </example>
+        <example>
+          <unicode>ᠤᠩᠰᠢᠵᠤ ᠡᠺᠢᠯᠡᠺᠦ</unicode>
+          <transcript>ungsizu --ky </transcript>
+          <definition>To begin to read</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠺᠢᠯᠡᠺᠦ</unicode>
+      <definition>commencer, faire un commencement</definition>
+      <page>237</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠨᠡ ᠡᠳᠦᠷ᠎ᠡᠴᠡ ᠡᠺᠢᠯᠡᠵᠦ</unicode>
+          <definition>en commençant par aujourdhui, de ce jour</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠺᠢᠯᠡᠺᠦ ᠬᠤᠪᠢᠶᠠᠴᠢ</unicode>
+          <definition>période bipartie.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠯᠺᠢᠨ ᠡᠺᠢᠯᠡᠨ ᠰᠠᠯᠺᠢᠯᠠᠮᠣᠢ</unicode>
+          <definition>le vent commence à soufiler, le vent se lève</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠠᠺᠢᠯᠠᠺᠥ</unicode>
+      <uighur>ekilekü</uighur>
+      <definition>anfangen</definition>
+      <page>26</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠬᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>эхлэх</cyrillic>
+      <definition>〔动〕开始，开头，着手，起源，发源；发起，首创：ажил ~ 开始工作；хадлан ~в 开始割草了；бичиж ~ 着手写；бага наснаас ~н 从幼年开始，自幼年起；салхи ~н салхилах 起风；~н хөдлөх 〈军〉推进；~ хуваарь 〈陈〉（文章之）起股；~ байр 〈军〉出发阵地，出发阵位；~ зааг 发出地区；~ район 出发地域.</definition>
+      <page>1723</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠺᠢᠯᠠᠺᠥ</unicode>
+      <cyrillic>ЭХЛЭХ</cyrillic>
+      <definition>начинать, начинаться; дуу эхлэх запевать; хадлан эхлэв начался сенокос; эхэлж бичих начинать писать; эхэлтэл до начала. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠺᠢᠯᠠᠺᠥ</unicode>
+      <cyrillic>ЭХЛЭН</cyrillic>
+      <definition>эхлэх-ийн хамж., начиная с... , со времени; бага наснаас эхлэн с малых лет. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>эхлэх</cyrillic>
+      <definition>anfangen, beginnen (zu -ж); einleiten; starten; бага наснаас ~ seit der Kindheit; үшпиж ~ anfangen zu lesen</definition>
+      <page>407</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠬᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>эхлэх</cyrillic>
+      <definition>юмны тогтмол үүсэх ба үүсгэх; хичээл эхлэх; ажил эхлэх; уншиж эхлэх; бичиж эхлэх; хурал эхлэх; дуу эхлэх.</definition>
+      <page>892</page>
+    </entry_item>
+  </entries>
+</entry>

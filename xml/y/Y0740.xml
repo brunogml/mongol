@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y0740">
+  <head>
+    <unicode>ᠶᠠᠪᠣᠰᠢ</unicode>
+    <transcript>yabusi</transcript>
+    <transcript2>yabosi</transcript2>
+    <cyrillic>явш</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠶᠠᠪᠣᠰᠢ</unicode>
+      <uighur>yabusi</uighur>
+      <cyrillic>явш</cyrillic>
+      <transcript>JABUSI</transcript>
+      <page>422</page>
+      <examples>
+        <example>
+          <unicode>ᠶᠠᠪᠣᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition>Not fit for walking (because of danger), impassable (road).</definition>
+        </example>
+        <example>
+          <unicode>ᠶᠠᠪᠣᠰᠢ ᠦᠭᠡᠢ ᠵᠠᠮ</unicode>
+          <transcript>-- ygei zam</transcript>
+          <definition>Impassable road.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠠᠪᠤᠰᠢ ᠦᠭᠡᠢ</unicode>
+      <definition>impraticable (des lieux).</definition>
+      <page>2260</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠠᠪᠤᠰᠢ ᠦᠭᠡᠢ ᠵᠠᠮ</unicode>
+          <definition>le chemin impraticable</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

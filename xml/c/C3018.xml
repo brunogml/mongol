@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3018">
+  <head>
+    <unicode>ᠴᠣᠯᠴᠣᠭᠣᠨᠠᠬᠣ</unicode>
+    <transcript>čolčuγunaqu</transcript>
+    <transcript2>colcogonago</transcript2>
+    <cyrillic>цолцгонох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C3019</ref>
+    <ref>C3020</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠴᠣᠯᠴᠣᠭᠣᠨᠠᠬᠣ</unicode>
+      <uighur>čulčoqunaqu</uighur>
+      <definition>To talk indistinctly. To chatter, to prattle.</definition>
+      <page>1347</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠣᠯᠴᠣᠭᠣᠨᠠᠬᠤ</unicode>
+      <cyrillic>цолцгонох</cyrillic>
+      <definition>〔动〕圆鼓鼓的东西频频动.</definition>
+      <page>1531</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠯᠴᠣᠭᠣᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЦОЛЦГОНОХ</cyrillic>
+      <definition>цолцолзох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠣᠯᠴᠣᠭᠣᠨᠠᠬᠤ</unicode>
+      <cyrillic>цолцгонох</cyrillic>
+      <definition>цолцгор юмны үргэлжлэн хөдлөх.</definition>
+      <page>789</page>
+    </entry_item>
+  </entries>
+</entry>

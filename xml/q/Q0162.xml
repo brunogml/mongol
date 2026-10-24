@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0162">
+  <head>
+    <unicode>ᠬᠠᠨᠳᠠ</unicode>
+    <transcript>qanda</transcript>
+    <transcript2>ganda</transcript2>
+    <cyrillic>ханд</cyrillic>
+  </head>
+  <see_also>
+    <ref>Q0163</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠨᠳᠠ</unicode>
+      <uighur>qanda</uighur>
+      <cyrillic>ханд</cyrillic>
+      <transcript>XANDA</transcript>
+      <definition>n. Decoction, extract, infusion; sirup; jelly, jam</definition>
+      <page>927</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠨᠳᠠ ᠠᠷᠢᠺᠢ</unicode>
+          <transcript>-- ariki, </transcript>
+          <definition>Liqueur,</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠨᠳᠠ ᠡᠮ</unicode>
+          <transcript>-- em</transcript>
+          <definition> Extract, essence (med.).</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠠᠢ ᠎ᠶᠢᠨ ᠬᠠᠨᠳᠠ</unicode>
+          <transcript>cai jin -- </transcript>
+          <definition> A strong infusion of tea.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠨᠳᠠ</unicode>
+      <definition>extrait, essence.</definition>
+      <page>724</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠠᠨᠳᠠ</unicode>
+      <uighur>qanda</uighur>
+      <definition>der Extract, die Essenz.</definition>
+      <page>128</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠠᠨᠳᠠ</unicode>
+      <uighur>qanda</uighur>
+      <definition>n. Extract, essence.</definition>
+      <page>507</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠨᠳᠠ</unicode>
+      <cyrillic>ханд</cyrillic>
+      <definition>〔名〕浸膏，浸液，酊剂，汤药：иодын ~ 碘酊；цайн ~ 茶酊；~ архи 酒耵；~ эм 浸膏，汤药.</definition>
+      <page>1304</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠨᠳᠠ</unicode>
+      <cyrillic>ХАНД</cyrillic>
+      <definition>I тө. экстракт, вытяжка; настойка; эссенция; йодын ханд настойка йода; цайны ханд настойка чая; өтгөн цайны ханд настой крепкого чая; ханд архи винная настойка; ханд эм экстракт, настой, лекарство на сиропе, микстура. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠨᠳᠠ</unicode>
+      <cyrillic>ХАНД</cyrillic>
+      <definition>II тө. хажид-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠨᠳᠠ</unicode>
+      <cyrillic>ханд</cyrillic>
+      <definition>юмыг шингэн юманд чанаж дарж идээшүүлэн шимийг шингээж авсан хорхог; ханд эм; цайны ханд; иодын ханд.</definition>
+      <page>658</page>
+    </entry_item>
+  </entries>
+</entry>

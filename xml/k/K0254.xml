@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K0254">
+  <head>
+    <unicode>ᠺᠠᠨᠵᠠᠳᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>kenǰedegülkü</transcript>
+    <transcript2>gencedegölgö</transcript2>
+    <cyrillic>хэнздүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K0253</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠨᠵᠡᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хэнздүүлэх</cyrillic>
+      <definition>〔动〕хэнздэх 的使动态.</definition>
+      <page>1486</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠨᠵᠠᠳᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ХЭНЗДҮҮЛЭХ</cyrillic>
+      <definition>хэнздэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠨᠵᠡᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хэнздүүлэх</cyrillic>
+      <definition>хэнздэхийн үйлдүүлэх хэв.</definition>
+      <page>762</page>
+    </entry_item>
+  </entries>
+</entry>

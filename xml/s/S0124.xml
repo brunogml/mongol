@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0124">
+  <head>
+    <unicode>ᠰᠠᠨᠳᠣᠴᠢᠬᠣ</unicode>
+    <transcript>sandučiqu</transcript>
+    <transcript2>sandocigo</transcript2>
+    <cyrillic>сандчих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S0125</ref>
+    <ref>S0126</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠨᠳᠣᠴᠢᠬᠣ</unicode>
+      <cyrillic>САНДЧИХ</cyrillic>
+      <definition>1) обеспокоиться, приходить в замешательство; быть в большом смятении, суматохе, спешке; 2) сандаах-ын олонтаа. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сандчих</cyrillic>
+      <definition>sich andauernd aufregen; ständig in Verwirrung geraten</definition>
+      <page>195</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠨᠳᠤᠴᠢᠬᠤ</unicode>
+      <cyrillic>сандчих</cyrillic>
+      <definition>1. их л тэвдэж сандрах;2. байн байн сандаах.</definition>
+      <page>469</page>
+    </entry_item>
+  </entries>
+</entry>

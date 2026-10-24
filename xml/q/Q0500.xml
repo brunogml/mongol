@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0500">
+  <head>
+    <unicode>ᠬᠠᠭᠠᠨᠲᠣ</unicode>
+    <transcript>qaγantu</transcript>
+    <transcript2>gagando</transcript2>
+    <cyrillic>хаант</cyrillic>
+  </head>
+  <see_also>
+    <ref>Q0498</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠭᠠᠨᠲᠣ</unicode>
+      <uighur>qaγantu</uighur>
+      <cyrillic>хаант</cyrillic>
+      <transcript>XAΓANTU</transcript>
+      <definition>adj. Having a khan, emperor, or king.</definition>
+      <page>907</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠭᠠᠨᠲᠤ ᠣᠷᠣᠰ ᠤᠯᠤᠰ</unicode>
+          <transcript>-- orus ulus</transcript>
+          <definition> Czarist Russia.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠭᠠᠨᠲᠤ ᠤᠯᠤᠰ</unicode>
+          <transcript>-- ulus</transcript>
+          <definition> Empire, kingdom, monarchy.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠭᠠᠨᠲᠤ ᠵᠠᠰᠠᠬ</unicode>
+          <transcript>-- zasaγ </transcript>
+          <definition>Monarchy</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠭᠠᠨᠲᠤ</unicode>
+      <cyrillic>хаант</cyrillic>
+      <definition>〔形〕可汗的，皇帝的，君主的；帝制的，君主制的：~ гүрэн 帝国；~ ёс 君主制；~ засаг 君主专制政权，可汗政权；~ төр 王国，帝国；~ төрийн байгууламж 君主政权；~ улс 君主制国家，王国.</definition>
+      <page>1259</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠭᠠᠨᠲᠣ</unicode>
+      <cyrillic>ХААНТ</cyrillic>
+      <definition>ханский, царский; хаант ёс самодержавие, монархия, царизм; хаант засаг царская власть, царское правительство, ханский закон, правление; хаант улс монархия. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хаант</cyrillic>
+      <definition>königlich, zaristisch; monarchisch; ~ засаг Monarchie f; ~ улс Königreich n, Zarenreich n; Chaanat n</definition>
+      <page>279</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠭᠠᠨᠲᠤ</unicode>
+      <cyrillic>хаант</cyrillic>
+      <definition>хаан бүхий; хаант улс; хаант ёс.</definition>
+      <page>633</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q0496</ref>
+  </related_to>
+</entry>

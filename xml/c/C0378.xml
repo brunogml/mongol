@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0378">
+  <head>
+    <unicode>ᠴᠠᠲᠠᠢ</unicode>
+    <transcript>čatai</transcript>
+    <transcript2>cadai</transcript2>
+    <cyrillic>цаатай</cyrillic>
+  </head>
+  <see_also>
+    <ref>C0386</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠ ᠲᠠᠢ</unicode>
+      <cyrillic>цаатай</cyrillic>
+      <definition>〔形〕参见 цаат.</definition>
+      <page>1507</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠲᠠᠢ</unicode>
+      <cyrillic>ЦААТАЙ</cyrillic>
+      <definition>цаат-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠭᠠᠲᠠᠢ</unicode>
+      <cyrillic>цаатай</cyrillic>
+      <definition>цаат.</definition>
+      <page>775</page>
+    </entry_item>
+  </entries>
+</entry>

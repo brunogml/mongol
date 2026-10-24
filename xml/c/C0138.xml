@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0138">
+  <head>
+    <unicode>ᠴᠠᠭᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čaγalaγulqu</transcript>
+    <transcript2>cagalagolgo</transcript2>
+    <cyrillic>цагаалуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C0137</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠭᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цагаалуулах</cyrillic>
+      <definition>〔动〕цагаалах /1、/2、/3 的使动态.</definition>
+      <page>1511</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠭᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦАГААЛУУЛАХ</cyrillic>
+      <definition>цагаалах I, II-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цагаалуулах</cyrillic>
+      <definition>Kaus von цагаалах</definition>
+      <page>350</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠭᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цагаалуулах</cyrillic>
+      <definition>цагаалахын үйлдүүлэх хэв.</definition>
+      <page>777</page>
+    </entry_item>
+  </entries>
+</entry>

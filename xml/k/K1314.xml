@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1314">
+  <head>
+    <unicode>ᠺᠠᠺᠵᠠ</unicode>
+    <transcript>kegǰe</transcript>
+    <transcript2>gegce</transcript2>
+    <cyrillic>хэгз</cyrillic>
+  </head>
+  <see_also>
+    <ref>K1337</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠠᠺᠵᠠ</unicode>
+      <uighur>kekǰe</uighur>
+      <cyrillic>хэгз</cyrillic>
+      <transcript>KEGZE</transcript>
+      <definition>[= kegzi] An intensifying particle before verbs. It often corresponds in meaning to adverbs "out," "away,", or "off."</definition>
+      <page>444</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠠᠺᠵᠠ ᠲᠠᠲᠠᠬᠤ</unicode>
+          <transcript>-- tataxu</transcript>
+          <definition> To pull out or off.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠺᠵᠠ</unicode>
+      <cyrillic>ХЭГЗ</cyrillic>
+      <definition>үйл үгэнд хүч нэмэгдүүлэх сул үг (усилительная частица при глаголах, часто соответствует приставкам вы-, от-); хэгз татах выдирать, отдирать, сдирать; гарынхаа арьсыг хэгз татчихлаа содрал кожу на руке; хэгз цохих разбить, отбить. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠭᠵᠡ</unicode>
+      <cyrillic>хэгз</cyrillic>
+      <definition>юмны өнгөн этгээд холтрох зулгарах нь; хэгз татах; гарын арьсы нь хэгз татчихав.</definition>
+      <page>755</page>
+    </entry_item>
+  </entries>
+</entry>

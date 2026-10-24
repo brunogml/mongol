@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1588">
+  <head>
+    <unicode>ᠮᠣᠨᠴᠣᠭᠣᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>mončuγunaγulqu</transcript>
+    <transcript2>moncogonagolgo</transcript2>
+    <cyrillic>монцгонуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>M1587</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠣᠨᠴᠣᠭᠣᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>монцгонуулах</cyrillic>
+      <definition>〔动〕монцгонох 的使动态.</definition>
+      <page>680</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠨᠴᠣᠭᠣᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>МОНЦГОНУУЛАХ</cyrillic>
+      <definition>монцгонох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠣᠨᠴᠣᠭᠣᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>монцгонуулах</cyrillic>
+      <definition>монцгонохын үйлдүүлэх хэв.</definition>
+      <page>341</page>
+    </entry_item>
+  </entries>
+</entry>

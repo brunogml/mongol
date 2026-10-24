@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1775">
+  <head>
+    <unicode>ᠰᠠᠷᠬᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>sarqalǰaqu</transcript>
+    <transcript2>sargalcago</transcript2>
+    <cyrillic>сархалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1776</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠷᠬᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>сархалзах</cyrillic>
+      <definition>〔动〕参见 сартганах.</definition>
+      <page>920</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠷᠬᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>САРХАЛЗАХ</cyrillic>
+      <definition>сарталзах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠷᠬᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>сархалзах</cyrillic>
+      <definition>сархгар юмны байн байн сархас сархас хөдлөх.</definition>
+      <page>472</page>
+    </entry_item>
+  </entries>
+</entry>

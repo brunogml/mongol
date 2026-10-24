@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y5150">
+  <head>
+    <unicode>ᠵᠥᠰᠥᠺᠳᠡᠺᠥ</unicode>
+    <transcript>ǰüsügdekü</transcript>
+    <transcript2>yösögdegö</transcript2>
+    <cyrillic>зүсэгдэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y5146</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠦᠰᠦᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>зүсэгдэх</cyrillic>
+      <definition>〔動〕зүсэх 的被动态.</definition>
+      <page>589</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠥᠰᠥᠺᠳᠡᠺᠥ</unicode>
+      <cyrillic>ЗҮСЭГДЭХ</cyrillic>
+      <definition>зүсэх-ийн үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зүсэгдэх</cyrillic>
+      <definition>Pass von зүсэх</definition>
+      <page>129</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠦᠰᠦᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>зүсэгдэх</cyrillic>
+      <definition>зүсэхийн үйлдэгдэх хэв, зүсүүлэх.</definition>
+      <page>292</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O2093">
+  <head>
+    <unicode>ᠥᠷᠲᠠᠺᠠᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>örtegelegülkü</transcript>
+    <transcript2>ördegelegölgö</transcript2>
+    <cyrillic>өртөөлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>O2092</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠷᠲᠡᠭᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өртөөлүүлэх</cyrillic>
+      <definition>〔动〕өртөөлөх 的使动态.</definition>
+      <page>863</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠷᠲᠠᠺᠠᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ӨРТӨӨЛҮҮЛЭХ</cyrillic>
+      <definition>өртөөлөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠷᠲᠡᠭᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өртөөлүүлэх</cyrillic>
+      <definition>өртөөлөхийн үйлдүүлэх хэв.</definition>
+      <page>446</page>
+    </entry_item>
+  </entries>
+</entry>

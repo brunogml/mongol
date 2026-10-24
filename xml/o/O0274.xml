@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O0274">
+  <head>
+    <unicode>ᠥᠨᠳᠠᠺᠠᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>öndegelegülkü</transcript>
+    <transcript2>öndegelegölgö</transcript2>
+    <cyrillic>өндөглүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>O0273</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠨᠳᠡᠭᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өндөглүүлэх</cyrillic>
+      <definition>〔动〕өндөглөх 的使动态.</definition>
+      <page>849</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠨᠳᠠᠺᠠᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ӨНДӨГЛҮҮЛЭХ</cyrillic>
+      <definition>өндөглөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠨᠳᠡᠭᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өндөглүүлэх</cyrillic>
+      <definition>өндөглөхийн үйлдүүлэх хэв.</definition>
+      <page>439</page>
+    </entry_item>
+  </entries>
+</entry>

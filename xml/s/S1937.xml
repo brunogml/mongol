@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S1937">
+  <head>
+    <unicode> ᠰᠧ</unicode>
+    <transcript>se</transcript>
+    <transcript2>se</transcript2>
+    <cyrillic>сэ</cyrillic>
+  </head><see_also>
+    <ref>S1936a</ref>
+  
+    <ref>S1938</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode> ᠰᠧ</unicode>
+      <uighur>sE</uighur>
+      <transcript>SE</transcript>
+      <definition>A transcription of Ch. characters ssu</definition>
+      <page>678</page>
+      <examples>
+        <example>
+          <unicode> ᠰᠧ ᠴᠤᠸᠠᠨ ᠮᠣᠵᠢ</unicode>
+          <transcript>-- cuvan mozi</transcript>
+          <definition> Szechwan Province ( Ch. ssu-ch'uan)</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠧ ᠮᠣᠳᠤᠨ</unicode>
+      <definition>un arbuste dont on se sert pour faire des baies. berberis</definition>
+      <page>1338</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode> ᠰᠧ</unicode>
+      <cyrillic>СЭ</cyrillic>
+      <definition>: сэ мод ург. барбарис. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

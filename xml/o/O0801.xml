@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O0801">
+  <head>
+    <unicode>ᠥᠲᠥᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ötügülkü</transcript>
+    <transcript2>ödögölgö</transcript2>
+    <cyrillic>өтүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>O0794</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠲᠥᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өтүүлэх</cyrillic>
+      <definition>〔动〕өтөх 的使动态.</definition>
+      <page>866</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠲᠥᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ӨТҮҮЛЭХ</cyrillic>
+      <definition>өтөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠲᠥᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өтүүлэх</cyrillic>
+      <definition>өтөхийн үйлдүүлэх хэв, өтөхөд хүрүүлэх.</definition>
+      <page>448</page>
+    </entry_item>
+  </entries>
+</entry>

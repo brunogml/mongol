@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0564">
+  <head>
+    <unicode>ᠰᠠᠬᠰᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>saγsaγanaγulqu</transcript>
+    <transcript2>sagsaganagolgo</transcript2>
+    <cyrillic>сагсгануулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S0563</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠭᠰᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сагсгануулах</cyrillic>
+      <definition>〔动〕сагсганах 的使动态.</definition>
+      <page>895</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠬᠰᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>САГСГАНУУЛАХ</cyrillic>
+      <definition>сагсганах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сагсгануулах</cyrillic>
+      <definition>Kaus von сагсганах</definition>
+      <page>191</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠭᠰᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сагсгануулах</cyrillic>
+      <definition>сагсганахын үйлдүүлэх хэв.</definition>
+      <page>459</page>
+    </entry_item>
+  </entries>
+</entry>

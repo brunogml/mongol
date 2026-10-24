@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K4288">
+  <head>
+    <unicode>ᠺᠥᠮᠥᠰᠺᠡᠲᠥ</unicode>
+    <transcript>kömüsgetü</transcript>
+    <transcript2>gömösgedö</transcript2>
+    <cyrillic>хөмсөгт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠥᠮᠥᠰᠺᠡᠲᠥ</unicode>
+      <uighur>kömüskedü</uighur>
+      <cyrillic>хөмсөгт</cyrillic>
+      <transcript>KØMYSGETY</transcript>
+      <definition>adj. Having eyebrows</definition>
+      <page>487</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠺᠥᠮᠥᠰᠺᠡᠲᠥ</unicode>
+      <uighur>kümüsketü</uighur>
+      <definition>White eyebrows. Wise.</definition>
+      <page>719</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠥᠮᠦᠰᠭᠡᠲᠦ</unicode>
+      <definition>ayant les sourcils, avec les sourcils</definition>
+      <page>2611</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠶᠢᠨ ᠺᠥᠮᠦᠰᠭᠡᠲᠦ</unicode>
+          <definition>avec les beaux sourcils: belle femme</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+<related_to><ref>K4286</ref></related_to></entry>

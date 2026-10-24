@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K3780">
+  <head>
+    <unicode>ᠺᠥᠳᠡᠯᠮᠥᠷᠢᠯᠡᠺᠥ</unicode>
+    <transcript>ködelmörilekü</transcript>
+    <transcript2>gödelmörilegö</transcript2>
+    <cyrillic>хөдөлмөрлөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K3781</ref>
+    <ref>K3779</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠥᠳᠡᠯᠮᠥᠷᠢᠯᠡᠺᠥ</unicode>
+      <uighur>ködelmürilekü</uighur>
+      <cyrillic>хөдөлмөрлх</cyrillic>
+      <transcript>KØDELMYRILE-</transcript>
+      <definition>v.i. To work, labor.</definition>
+      <page>478</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠵᠢᠯᠯᠠᠬᠤ ᠺᠥᠳᠡᠯᠮᠥᠷᠢᠯᠡᠺᠥ</unicode>
+          <transcript>azillaxu --ky </transcript>
+          <definition>To work, labor</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠠᠶᠢᠮᠠᠨ ᠴᠠᠭ ᠺᠥᠳᠡᠯᠮᠥᠷᠢᠯᠡᠺᠥ</unicode>
+          <transcript>naiman caγ --ky</transcript>
+          <definition> To work eight hours</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠳᠡᠯᠮᠦᠷᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>хөдөлмөрлөх</cyrillic>
+      <definition>〔动〕劳动：найман цаг ~ 劳动八小时；~ чадал 劳动能力；~ бололцоо 劳动条件；~ эрх 劳动权.</definition>
+      <page>1392</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠳᠡᠯᠮᠥᠷᠢᠯᠡᠺᠥ</unicode>
+      <cyrillic>ХӨДӨЛМӨРЛӨХ</cyrillic>
+      <definition>работать, трудиться; биеийн хүчээ үнэлэн хөдөлмөрлөх работать по найму; найман цаг хөдөлмөрлөх работать восемь часов; хөдөлмөрлөх үүрэг обязанность трудиться; хөдөлмөрлөх чадал трудоспособность; хөдөлмөрлөх чадалгүй нетрудоспособный; хөдөлмөрлөх эрх право на труд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хөдөлмөрлөх</cyrillic>
+      <definition>arbeiten, schaffen; ~ нөхцөл od болзол Arbeitsbedingungen Pl; ~ эрх Recht n auf Arbeit; найман цаг ~ acht Stunden arbeiten</definition>
+      <page>317</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠳᠡᠯᠮᠦᠷᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>хөдөлмөрлөх</cyrillic>
+      <definition>хөдөлмөр хийх, ажил хийх, ажиллах; би найман цаг хөдөлмөрлөдөг; хөдөлмөрлөх чадал; хөдөлмөрлөх бололцоо.</definition>
+      <page>706</page>
+    </entry_item>
+  </entries>
+</entry>

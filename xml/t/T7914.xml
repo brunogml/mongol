@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7914">
+  <head>
+    <unicode>ᠳᠣᠷᠰᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>dorsuγulqu</transcript>
+    <transcript2>dorsogolgo</transcript2>
+    <cyrillic>дорсуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T7908</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠣᠷᠣᠰᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дорсуулах</cyrillic>
+      <definition>〔动〕дорсох 的使动态.</definition>
+      <page>423</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠷᠰᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДОРСУУЛАХ</cyrillic>
+      <definition>дорсоох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠣᠷᠣᠰᠣᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дорсуулах</cyrillic>
+      <definition>дорсохын үйлдүүлэх хэв, дортуулах.</definition>
+      <page>202</page>
+    </entry_item>
+  </entries>
+</entry>

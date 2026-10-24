@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1265">
+  <head>
+    <unicode>ᠣᠰᠬᠠᠯ</unicode>
+    <transcript>usqal</transcript>
+    <transcript2>osgal</transcript2>
+    <cyrillic>усгал</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠰᠬᠠᠯ</unicode>
+      <uighur>usqal</uighur>
+      <cyrillic>усгал</cyrillic>
+      <transcript>USXAL</transcript>
+      <definition>adj. and n. Gentle, modest, humble; peaceful; modesty, humbleness</definition>
+      <page>888</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠰᠬᠠᠯ ᠨᠣᠮᠤᠬᠠᠨ</unicode>
+          <transcript>-- nomuxan</transcript>
+          <definition> Gentle, humble, peaceful.</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠰᠬᠠᠯ ᠵᠥᠭᠡᠯᠡᠨ</unicode>
+          <transcript>-- zøgelen</transcript>
+          <definition> Gentle, friendly</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠰᠬᠠᠯ</unicode>
+      <definition>douceur, humilité, modestie: doux, soumis, paisible.</definition>
+      <page>379</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠰᠬᠠᠯ</unicode>
+      <cyrillic>усгал</cyrillic>
+      <definition>〔形〕文静的，温和的，温柔的；◊ ~ зөөлөн, ~ номхон 温和的，温柔的，温顺的.</definition>
+      <page>1208</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠰᠬᠠᠯ</unicode>
+      <cyrillic>УСГАЛ</cyrillic>
+      <definition>спокойный; кроткий, смљрный; незлобљвый; важный; усгал зөөлөн хорш. добрый, ласковый; усгал номхон хорш. смиренный, кроткий. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>усгал</cyrillic>
+      <definition>friedfertig, sanftmütig, gutmütig</definition>
+      <page>261</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠰᠬᠠᠯ</unicode>
+      <cyrillic>усгал</cyrillic>
+      <definition>амирлангуй,дөлгөөн;усгал зөөлөн&lt;хорш&gt;,усгал номхон&lt;хорш&gt;.</definition>
+      <page>602</page>
+    </entry_item>
+  </entries>
+</entry>

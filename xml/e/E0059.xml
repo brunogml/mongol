@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E0059">
+  <head>
+    <unicode>ᠡᠨᠡᠷᠭᠢ</unicode>
+    <transcript>energi</transcript>
+    <transcript2>energi</transcript2>
+    <cyrillic>энерги</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠨᠧᠷᠭᠢ</unicode>
+      <cyrillic>энерги</cyrillic>
+      <definition>〔名〕①〈理〉能，能量，动力：механик ~ 机械能；дулааны ~ 热能；цахилгаан ~ 电力，电能；②精力，毅力，活动力.</definition>
+      <page>1700</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠡᠨᠧᠷᠺᠢ</unicode>
+      <cyrillic>ЭНЕРГИ</cyrillic>
+      <definition>энергия; дулааны энерги тепловая энергия; цахилгаан энерги электрическая энергия. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>энерги</cyrillic>
+      <definition>Phys Energie f</definition>
+      <page>401</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠨᠧᠷᠭᠢ</unicode>
+      <cyrillic>энерги</cyrillic>
+      <definition>материйн үндсэн чанаруудын нэг бөгөөд түүний хөдөлгөөний хэмжээ, ажил бүтээх чадвар, эрчим, хүчин.</definition>
+      <page>879</page>
+    </entry_item>
+  </entries>
+</entry>

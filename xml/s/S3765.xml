@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S3765">
+  <head>
+    <unicode>ᠰᠢᠳᠣᠷᠬᠣ</unicode>
+    <transcript>sidurqu</transcript>
+    <transcript2>sidorgo</transcript2>
+    <cyrillic>шидрах</cyrillic>
+  </head><derivatives>
+    <ref>S3776</ref>
+  </derivatives><see_also>
+    <ref>S3766</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠳᠣᠷᠬᠣ</unicode>
+      <uighur>sidorqu</uighur>
+      <cyrillic>шидрах</cyrillic>
+      <transcript>SIDUR-</transcript>
+      <definition>v.i. To rise, stand erect, straighten; to pull the reins by stretching the head forward or downward (of a horse)</definition>
+      <page>698</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠳᠣᠷᠬᠤ</unicode>
+      <definition>se lever, se soulever; se redresser.</definition>
+      <page>1491</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠢᠭᠠᠰᠤᠨ ᠠᠨᠤ ᠮᠥᠯᠰᠦᠨ ᠢ ᠲᠡᠭᠡᠭᠰᠢ ᠰᠢᠳᠣᠷᠤᠮᠤᠢ</unicode>
+          <definition>le poisson se débarasse de la glace qui est sur son dos</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

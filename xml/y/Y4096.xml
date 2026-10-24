@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4096">
+  <head>
+    <unicode>ᠵᠣᠪᠠᠯᠭᠠᠷᠠᠬᠣ</unicode>
+    <transcript>ǰobalγaraqu</transcript>
+    <transcript2>yobalgarago</transcript2>
+    <cyrillic>зовлогорох</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠣᠪᠠᠯᠭᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>зовлогорох</cyrillic>
+      <definition>〔动〕变为瘦肉，全是瘦肉；变为腐肉.</definition>
+      <page>554</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠪᠠᠯᠭᠠᠷᠠᠬᠣ</unicode>
+      <cyrillic>ЗОВЛОГОРОХ</cyrillic>
+      <definition>зовлогоших-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зовлогорох,</cyrillic>
+      <definition>зовлогоших Fleisch ungenießbar werden</definition>
+      <page>120</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠣᠪᠠᠯᠭᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>зовлогорох</cyrillic>
+      <definition>зовлого болох.</definition>
+      <page>272</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Y4093</ref>
+  </related_to>
+</entry>

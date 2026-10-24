@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0990">
+  <head>
+    <unicode>ᠪᠠᠮᠪᠠᠶᠢᠬᠣ</unicode>
+    <transcript>bambayiqu</transcript>
+    <transcript2>bambayigo</transcript2>
+    <cyrillic>бамбайх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0998</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠠᠮᠪᠠᠶᠢᠬᠣ</unicode>
+      <uighur>bambayiqu</uighur>
+      <cyrillic>бамбайх</cyrillic>
+      <transcript>BAMBAI-</transcript>
+      <definition>v, i. To bulge, swell, be thick, puffed up; to be or feel uncomfortable, clumsy or awkward;. to be soft, downy. '</definition>
+      <page>81</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠤᠭᠲᠤᠢ ᠬᠠᠴᠠᠷ ᠪᠠᠮᠪᠠᠶᠢᠲᠠᠯ᠎ᠠ ᠬᠠᠪᠤᠳᠪᠠ</unicode>
+          <transcript>duγtui dotur-a caγasu --mui</transcript>
+          <definition> The envelope is bulging with paper.</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠢᠨᠤ ᠬᠠᠴᠠᠷ ᠪᠠᠮᠪᠠᠶᠢᠲᠠᠯ᠎ᠠ ᠬᠠᠪᠤᠳᠪᠠ</unicode>
+          <transcript>minu xacar --tal-a xabudba</transcript>
+          <definition>My cheek is puffed up or swollen.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠮᠪᠠᠢᠬᠤ</unicode>
+      <cyrillic>бамбайх</cyrillic>
+      <definition>〔动〕变松软，变暄软，变得软绵绵；变丰满.</definition>
+      <page>126</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠮᠪᠠᠶᠢᠬᠣ</unicode>
+      <cyrillic>БАМБАЙХ</cyrillic>
+      <definition>набухать, быть мягким, пушистым; быть пухлым, толстым; разбухать.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бамбайх</cyrillic>
+      <definition>gepolstert od weich sein, wulstig sein</definition>
+      <page>45</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠮᠪᠠᠢᠬᠤ</unicode>
+      <cyrillic>бамбайх</cyrillic>
+      <definition>бамбагар болох; дэвсгэр бамбайгаад байна, нимгэсгэе.</definition>
+      <page>72</page>
+    </entry_item>
+  </entries>
+</entry>

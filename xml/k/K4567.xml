@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4567">
+  <head>
+    <unicode>ᠺᠥᠺᠡᠯᠡᠺᠲᠡᠢ</unicode>
+    <transcript>kögelegtei</transcript>
+    <transcript2>gögelegdei</transcript2>
+    <cyrillic>хөөлөнтий</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠯᠥᠨᠲᠡᠢ</unicode>
+      <cyrillic>хөөлөнтий</cyrillic>
+      <definition>〔名〕〈动〉鲫，鲋.</definition>
+      <page>1404</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠺᠡᠯᠡᠺᠲᠡᠢ</unicode>
+      <cyrillic>ХӨӨЛӨНТИЙ</cyrillic>
+      <definition>загас. карась. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠯᠥᠨᠲᠡᠢ</unicode>
+      <cyrillic>хөөлөнтий</cyrillic>
+      <definition>&lt;амьтан&gt;цэнгэг усанд оршдог, улаавтар сэлүүртэй нэг зүйл загас.</definition>
+      <page>713</page>
+    </entry_item>
+  </entries>
+</entry>

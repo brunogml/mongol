@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5574">
+  <head>
+    <unicode>ᠰᠣᠪᠣᠷᠭᠠᠯᠠᠬᠣ</unicode>
+    <transcript>suburγalaqu</transcript>
+    <transcript2>soborgalago</transcript2>
+    <cyrillic>суврагалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5575</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠣᠪᠣᠷᠭᠠᠯᠠᠬᠣ</unicode>
+      <uighur>suburγalaqu</uighur>
+      <cyrillic>сувраалах</cyrillic>
+      <transcript>SUBURΓALA-</transcript>
+      <definition>v. i. and t. To rise or appear like a stupa, rise in a straight line to considerable hight (smoke or trees); to construct a stupa; to enshrine the ashes of a high lama or dignitary in a stupa.</definition>
+      <page>734</page>
+      <examples>
+        <example>
+          <unicode>ᠱᠠᠷᠢᠯ ᠢ ᠰᠤᠪᠤᠷᠭᠠᠯᠠᠬᠤ</unicode>
+          <transcript>šaril i --xu</transcript>
+          <definition> To enshrine relics in a stupa.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠤᠪᠤᠷᠭᠠᠯᠠᠬᠤ</unicode>
+      <definition>construire une tour ou une pyramide sépulcrale,</definition>
+      <page>1392</page>
+      <examples>
+        <example>
+          <unicode>ᠱᠠᠷᠢᠯ ᠢ ᠰᠤᠪᠤᠷᠭᠠᠯᠠᠬᠤ</unicode>
+          <definition>construire une pyramide de reliques ou les enfermer dans une pyramide</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠪᠤᠷᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>суврагалах</cyrillic>
+      <definition>〔动〕①装在塔里，放进塔里；②建塔，修塔.</definition>
+      <page>954</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠪᠣᠷᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>СУВАРГАЛАХ</cyrillic>
+      <definition>1) ставить субурган; 2) положить в субурган. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠪᠤᠷᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>суврагалах</cyrillic>
+      <definition>суврага дотор агуулах.</definition>
+      <page>486</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S5572</ref>
+  </related_to>
+</entry>

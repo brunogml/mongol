@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A2560">
+  <head>
+    <unicode>ᠠᠯᠳᠠᠭᠣᠯ</unicode>
+    <transcript>aldaγul</transcript>
+    <transcript2>aldagol</transcript2>
+    <cyrillic>алдуул</cyrillic>
+  </head>
+  <related_to>
+    <ref>A2548</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠯᠳᠠᠭᠣᠯ</unicode>
+      <uighur>aldaγul</uighur>
+      <cyrillic>алдуул</cyrillic>
+      <transcript>ALDAГUL</transcript>
+      <definition>n. Anything lost or gone astray.</definition>
+      <page>30</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠯᠳᠠᠭᠤᠯ ᠴᠡᠷᠢᠭ</unicode>
+          <transcript>-- cerig</transcript>
+          <definition> Deserter.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠯᠳᠠᠭᠤᠯ ᠮᠠᠯ</unicode>
+          <transcript>-- mal</transcript>
+          <definition> Lost or stray cattle.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠯᠳᠠᠭᠤᠯ ᠦᠭᠡ</unicode>
+          <transcript>-- yge</transcript>
+          <definition> Vague rumor.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠯᠳᠠᠭᠤᠯ</unicode>
+      <cyrillic>алдуул</cyrillic>
+      <definition>〔形〕散乱的，失落的，丢失的；迷路的：~ мал 失落的牲畜，迷路的牲畜.</definition>
+      <page>41</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠯᠳᠠᠭᠣᠯ</unicode>
+      <cyrillic>АЛДУУЛ</cyrillic>
+      <definition>отставший, отбившийся; потерявшийся, заблудившийся (о скоте); алдуул мал заблудившийся, потерявшийся скот, отбившийся от стада скот; алдуул морь потерявшийся конь; алдуул мал шиг хүүхэд блудный сын.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Mostaert</dico>
+      <unicode>ᠠᠯᠳᠠᠭᠣᠯ</unicode>
+      <definition>échappé; égaré et dont on ignore le propriétaire (bétail); dont on ignore la provenance (rumeur)</definition>
+      <page>15</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>алдуул</cyrillic>
+      <definition>verlustig; ~ мал verlorengegangenes Vieh</definition>
+      <page>28</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠯᠳᠠᠭᠤᠯ</unicode>
+      <cyrillic>алдуул</cyrillic>
+      <definition>алсан сарнисан юм; алдуул мал.</definition>
+      <page>32</page>
+    </entry_item>
+  </entries>
+</entry>

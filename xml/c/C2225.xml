@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2225">
+  <head>
+    <unicode>ᠴᠢᠺᠢᠷᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>čigiraγdaqu</transcript>
+    <transcript2>cigiragdago</transcript2>
+    <cyrillic>чийрэгдэх</cyrillic>
+  </head>
+  <see_also>
+    <ref>C2226</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠭᠢᠷᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>чийрэгдэх</cyrillic>
+      <definition>〔动〕变得非常健壮，变得非常强壮，变得非常结实.</definition>
+      <page>1587</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠺᠢᠷᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЧИЙРЭГДЭХ</cyrillic>
+      <definition>быть слишком толстым, массивным, плотным; стать сильным, крепким. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠭᠢᠷᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>чийрэгдэх</cyrillic>
+      <definition>хэтэрхий чийрэг болох.</definition>
+      <page>818</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>C2218</ref>
+  </related_to>
+  <derivatives>
+    <ref>C2226</ref>
+  </derivatives>
+</entry>

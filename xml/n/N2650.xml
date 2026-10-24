@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N2650">
+  <head>
+    <unicode>ᠨᠥᠺᠠᠳᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>nükedegülkü</transcript>
+    <transcript2>nögedegölgö</transcript2>
+    <cyrillic>нүхдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>N2649</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠦᠬᠡᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>нүхдүүлэх</cyrillic>
+      <definition>〔动〕нүхдэх 的使动态.</definition>
+      <page>768</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠥᠺᠠᠳᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>НҮХДҮҮЛЭХ</cyrillic>
+      <definition>нүхдэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠦᠬᠡᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>нүхдүүлэх</cyrillic>
+      <definition>нүхдэхийн үйлдүүлэх хэв.</definition>
+      <page>394</page>
+    </entry_item>
+  </entries>
+</entry>

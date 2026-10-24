@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2539">
+  <head>
+    <unicode>ᠣᠷᠠᠬᠠᠯᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>uraqalaγdaqu</transcript>
+    <transcript2>oragalagdago</transcript2>
+    <cyrillic>урхилагдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U2537</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠷᠠᠬᠠᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>урхилагдах</cyrillic>
+      <definition>〔动〕урхилах 的被动态.</definition>
+      <page>1205</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠷᠠᠬᠠᠯᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>УРХИЛАГДАХ</cyrillic>
+      <definition>урхилах-ын үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠷᠠᠬᠠᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>урхилагдах</cyrillic>
+      <definition>урхилахын үйлдэгдэх хэв.</definition>
+      <page>600</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5630">
+  <head>
+    <unicode>ᠱᠣᠪᠲᠣᠭᠠᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šubtuγardaγulqu</transcript>
+    <transcript2>sobdogardagolgo</transcript2>
+    <cyrillic>шувтгардуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S5628a</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠤᠪᠲᠤᠭᠠᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шувтгардуулах</cyrillic>
+      <definition>〔动〕шувтгардах 的使动态.</definition>
+      <page>1655</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠪᠲᠣᠭᠠᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШУВТГАРДУУЛАХ</cyrillic>
+      <definition>шувтгардах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠤᠪᠲᠤᠭᠠᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шувтгардуулах</cyrillic>
+      <definition>шувтгардахын үйлдүүлэх хэв.</definition>
+      <page>857</page>
+    </entry_item>
+  </entries>
+</entry>

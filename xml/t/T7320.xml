@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7320">
+  <head>
+    <unicode>ᠲᠣᠵᠢᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>toǰiγanaqu</transcript>
+    <transcript2>dociganago</transcript2>
+    <cyrillic>тожгонох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T7321</ref>
+    <ref>T7322</ref>
+  </derivatives>
+  <see_also>
+    <ref>T7316</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠵᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>тожгонох</cyrillic>
+      <definition>〔动〕①短小的细长形物频频动；②瘦小枯干动物不停地动作；③短小、抽抽儿的衣服不停摆动.</definition>
+      <page>1061</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠵᠢᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ТОЖГОНОХ</cyrillic>
+      <definition>двљгаться (о ком-чём-л. облезлом, коротком, маленьком), торчать (о редких волосах), болтаться (об облезлом хвосте), трястљсь. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠵᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>тожгонох</cyrillic>
+      <definition>тожгор юмны үргэлжлэн хөдлөх.</definition>
+      <page>535</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠵᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>тожигнох</cyrillic>
+      <definition>1. тор тор чимээ гарч сонсдох; авдар доогуур юм тожигноод байна;2. зөөлөн хүүрэг биш; хатуу, хатанги байдалтай болох; тожигносон боорцог болжээ.</definition>
+      <page>535</page>
+    </entry_item>
+  </entries>
+</entry>

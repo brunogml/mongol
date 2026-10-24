@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0657">
+  <head>
+    <unicode>ᠲᠠᠬᠣ</unicode>
+    <transcript>taqu</transcript>
+    <transcript2>dago</transcript2>
+    <cyrillic>тах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T0754</ref>
+    <ref>T0836a</ref>
+  </derivatives>
+  <see_also>
+    <ref>T0334</ref>
+    <ref>T0658</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠬᠣ</unicode>
+      <uighur>taqu</uighur>
+      <cyrillic>тах</cyrillic>
+      <transcript>TAXU</transcript>
+      <definition>n. A kind of fish (Ch. p'ang-t'ou)</definition>
+      <page>789</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠬᠤ</unicode>
+      <definition>la vaudoise, able</definition>
+      <page>1570</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠬᠤ</unicode>
+      <cyrillic>тах /2</cyrillic>
+      <definition>&lt;амьтан&gt;мөрөн голд байдаг, том моголцог толгойтой, нарийн хайрстай, тэгш хушуугай загас, дотроо гурван зүйл бий.</definition>
+      <page>527</page>
+    </entry_item>
+  </entries>
+</entry>

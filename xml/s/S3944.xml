@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3944">
+  <head>
+    <unicode>ᠰᠢᠯᠭᠠᠭᠠᠬᠣ</unicode>
+    <transcript>silγaγaqu</transcript>
+    <transcript2>silgagago</transcript2>
+    <cyrillic>шалгаах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3945</ref>
+    <ref>S3948</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠯᠭᠠᠭᠠᠬᠤ</unicode>
+      <cyrillic>шалгаах</cyrillic>
+      <definition>〔动〕央求，哀求，苦求：асууж ~ 求问.</definition>
+      <page>1611</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠯᠭᠠᠭᠠᠬᠣ</unicode>
+      <cyrillic>ШАЛГААХ</cyrillic>
+      <definition>надоедать просьбами; упрашивать, настаивать; асууж шалгаах задавать вопрос за вопросом, надоедать вопросами; байцаан шалгаах допрашивать; гуйж шалгаах упрашивать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шалгаах</cyrillic>
+      <definition>= шалах
+1.</definition>
+      <page>378</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠯᠭᠠᠭᠠᠬᠤ</unicode>
+      <cyrillic>шалгаах</cyrillic>
+      <definition>шалах, шаргаах;асуух шалгаах&lt;хорш&gt;,гуйх шалгаах&lt;хорш&gt;,шалах шалгаах&lt;хорш&gt;,хоргоох шалгаах&lt;хорш&gt;.</definition>
+      <page>832</page>
+    </entry_item>
+  </entries>
+</entry>

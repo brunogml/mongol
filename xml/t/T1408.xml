@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1408">
+  <head>
+    <unicode>ᠲᠠᠰᠢᠷᠠᠮᠳᠠᠬᠣ</unicode>
+    <transcript>tasiramdaqu</transcript>
+    <transcript2>dasiramdago</transcript2>
+    <cyrillic>ташрамдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1411</ref>
+  </derivatives>
+  <see_also>
+    <ref>T1409</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠰᠢᠷᠠᠮᠳᠠᠬᠤ</unicode>
+      <cyrillic>ташрамдах</cyrillic>
+      <definition>〔动〕趁机，顺便.</definition>
+      <page>1045</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠰᠢᠷᠠᠮᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТАШРАМДАХ</cyrillic>
+      <definition>далимдах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>ташрамдах</cyrillic>
+      <definition>eine günstige Gelegenheit nutzen</definition>
+      <page>224</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠰᠢᠷᠠᠮᠳᠠᠬᠤ</unicode>
+      <cyrillic>ташрамдах</cyrillic>
+      <definition>далимлах.</definition>
+      <page>529</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T1406</ref>
+  </related_to>
+</entry>

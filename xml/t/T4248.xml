@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T4248">
+  <head>
+    <unicode>ᠲᠠᠺᠠᠨᠠᠺᠠᠯᠵᠠᠺᠥ</unicode>
+    <transcript>tegenegelǰekü</transcript>
+    <transcript2>degenegelcegö</transcript2>
+    <cyrillic>тээнэгэлзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T4249</ref>
+    <ref>T4247</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠡᠭᠡᠨᠡᠭᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>тээнэгэлзэх</cyrillic>
+      <definition>〔动〕тээнэглэх 的多次体.</definition>
+      <page>1169</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠺᠠᠨᠠᠺᠠᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>ТЭЭНЭГЭЛЗЭХ</cyrillic>
+      <definition>сомневаться, быть неуверенным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠭᠡᠨᠡᠭᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>тээнэгэлзэх</cyrillic>
+      <definition>шийдвэрлэж ядах, санаа хоёрдох; шийдвэрлэж чадахгүй тээнэгэлзэх.</definition>
+      <page>581</page>
+    </entry_item>
+  </entries>
+</entry>

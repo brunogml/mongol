@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1632">
+  <head>
+    <unicode>ᠰᠠᠶᠢᠷᠬᠠᠭᠠᠴᠢ</unicode>
+    <transcript>sayirqaγači</transcript>
+    <transcript2>sayirgagaci</transcript2>
+    <cyrillic>сайрхаач</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠢᠷᠬᠠᠴᠢ</unicode>
+      <cyrillic>сайрхаач</cyrillic>
+      <definition>〔名〕参见 сайрхагч.</definition>
+      <page>898</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠶᠢᠷᠬᠠᠭᠠᠴᠢ</unicode>
+      <cyrillic>САЙРХААЧ</cyrillic>
+      <definition>сайрхагч-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠢᠷᠬᠠᠭᠠᠴᠢ</unicode>
+      <cyrillic>сайрхаач</cyrillic>
+      <definition>сайрхагч.</definition>
+      <page>461</page>
+    </entry_item>
+  </entries>
+</entry>

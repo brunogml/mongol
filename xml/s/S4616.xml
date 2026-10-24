@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4616">
+  <head>
+    <unicode>ᠰᠢᠷᠬᠠᠲᠣᠬᠣ</unicode>
+    <transcript>sirqatuqu</transcript>
+    <transcript2>sirgadogo</transcript2>
+    <cyrillic>шархтах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S4617</ref>
+  </derivatives>
+  <see_also>
+    <ref>S4621</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠷᠬᠠᠲᠣᠬᠣ</unicode>
+      <cyrillic>ШАРХТАХ</cyrillic>
+      <definition>быть раненым, получить ранение. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠷᠬᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>шархтах</cyrillic>
+      <definition>шарх олох, шархтай болох; толгой шархтах.</definition>
+      <page>840</page>
+    </entry_item>
+  </entries>
+</entry>

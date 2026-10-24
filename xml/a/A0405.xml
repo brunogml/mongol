@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A0405">
+  <head>
+    <unicode>ᠠᠩᠴᠢ</unicode>
+    <transcript>angči</transcript>
+    <transcript2>angci</transcript2>
+    <cyrillic>анч</cyrillic>
+  </head>
+  <variants>
+    <variant type="cyrillic">анчин</variant>
+    <variant type="unicode">ᠠᠩᠴᠢᠨ</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠩᠴᠢ</unicode>
+      <uighur>angči - angčin</uighur>
+      <cyrillic>анч(ин)</cyrillic>
+      <transcript>ANGCI(N)</transcript>
+      <definition>n. Hunter, trapper.</definition>
+      <page>43</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠩᠴᠢ ᠨᠣᠬᠠᠢ</unicode>
+          <transcript>-- noxai</transcript>
+          <definition> Hunting dog, hound.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠩᠴᠢ ᠬᠠᠷᠴᠠᠭᠠᠢ</unicode>
+          <transcript>-- xarcaγai, </transcript>
+          <definition>Trained hunting falcon</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠩᠴᠢ</unicode>
+      <uighur>angči</uighur>
+      <definition>chasseur, pécheur</definition>
+      <page>18</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠩᠴᠢ ᠨᠣᠬᠠᠢ</unicode>
+          <uighur>angči noqai</uighur>
+          <definition>un chient courant</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠩᠴᠢ ᠬᠠᠷᠴᠠᠭᠠᠢ</unicode>
+          <uighur>angči qarčaγai</uighur>
+          <definition>faucon dressé</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠩᠴᠢ</unicode>
+      <cyrillic>анч</cyrillic>
+      <definition>〔形〕善猎的：~ нохой 猎狗；~ хүн 善于打猎的人.</definition>
+      <page>68</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠩᠴᠢ</unicode>
+      <cyrillic>АНЧ(ИН)</cyrillic>
+      <definition>охотник, зверолов, ловец.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠩᠴᠢᠨ</unicode>
+      <cyrillic>анчин</cyrillic>
+      <definition>〔名〕猎人：анчны эвлэл 猎人协会.</definition>
+      <page>68</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>анч[ин]</cyrillic>
+      <definition>Jäger m; ~ нохой Jagdhund m</definition>
+      <page>32</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠩᠴᠢ</unicode>
+      <cyrillic>анч</cyrillic>
+      <definition>гөрөөч, ан гөрөө хийхэд чадамгай; анч хүн.</definition>
+      <page>47</page>
+    </entry_item>
+  </entries>
+</entry>

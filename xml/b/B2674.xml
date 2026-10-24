@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2674">
+  <head>
+    <unicode>ᠪᠣᠭᠣᠨᠢᠰᠬᠣ</unicode>
+    <transcript>boγunisqu</transcript>
+    <transcript2>bogonisgo</transcript2>
+    <cyrillic>богиносох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B2675</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠣᠭᠣᠨᠢᠰᠬᠣ</unicode>
+      <uighur>boγunisqu</uighur>
+      <cyrillic>богиносох</cyrillic>
+      <transcript>BOΓUNIS-</transcript>
+      <definition>v.i To shorten, shrink.</definition>
+      <page>113</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠳᠦᠷ ᠪᠣᠭᠣᠨᠢᠰᠤᠮᠤᠢ</unicode>
+          <transcript>edyr --umui</transcript>
+          <definition> The days become shorter.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠣᠭᠣᠨᠢᠰᠬᠤ</unicode>
+      <cyrillic>богиносох</cyrillic>
+      <definition>〔动〕变短，缩短；变简短；变矮：өдөр богиносч явна 白昼变短.</definition>
+      <page>161</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠭᠣᠨᠢᠰᠬᠣ</unicode>
+      <cyrillic>БОГИНОСОХ</cyrillic>
+      <definition>1. укорачиваться, убавляться, сокращаться; өдөр богиносож байна дни убавляются, становятся короче; 2. богиносохуй-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠭᠣᠨᠢᠰᠬᠣ</unicode>
+      <cyrillic>БОГИНОСОХУЙ</cyrillic>
+      <definition>укорачивание, убавление, сокращение.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>богиносох</cyrillic>
+      <definition>kürzer werden</definition>
+      <page>53</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠣᠭᠣᠨᠢᠰᠬᠤ</unicode>
+      <cyrillic>богиносох</cyrillic>
+      <definition>улам богино болох; өдөр богиносч явна.</definition>
+      <page>86</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>B2666</ref>
+  </related_to>
+</entry>

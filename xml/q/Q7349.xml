@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q7349">
+  <head>
+    <unicode>ᠭᠣᠷᠺᠢᠯᠠᠬᠣ</unicode>
+    <transcript>γorkilaqu</transcript>
+    <transcript2>gorgilago</transcript2>
+    <cyrillic>горхилох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q7351</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q7348</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠷᠺᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ГОРХИЛОХ</cyrillic>
+      <definition>застёгивать, стягивать пряжкой. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>горхилох</cyrillic>
+      <definition>zuschnallen, die Gürtelschnalle schließen</definition>
+      <page>79</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠣᠷᠣᠬᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>горхилох /2</cyrillic>
+      <definition>усны горхилон урсах.</definition>
+      <page>152</page>
+    </entry_item>
+  </entries>
+</entry>

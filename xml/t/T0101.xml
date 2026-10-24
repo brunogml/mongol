@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0101">
+  <head>
+    <unicode>ᠲᠠᠨᠲᠠᠶᠢᠬᠣ</unicode>
+    <transcript>tantayiqu</transcript>
+    <transcript2>dandayigo</transcript2>
+    <cyrillic>тантайх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T0107</ref>
+  </derivatives>
+  <see_also>
+    <ref>T0102</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠨᠲᠠᠢᠬᠤ</unicode>
+      <cyrillic>тантайх</cyrillic>
+      <definition>〔动〕（身体）变肥胖，变沉重，变笨重.</definition>
+      <page>1026</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠨᠲᠠᠶᠢᠬᠣ</unicode>
+      <cyrillic>ТАНТАЙХ</cyrillic>
+      <definition>тэнтийх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тантайх</cyrillic>
+      <definition>dick od kurpulent werden</definition>
+      <page>220</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠨᠲᠠᠢᠬᠤ</unicode>
+      <cyrillic>тантайх</cyrillic>
+      <definition>тантгар болох.</definition>
+      <page>521</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2578">
+  <head>
+    <unicode>ᠲᠠᠷᠠᠬᠠᠢ</unicode>
+    <transcript>taraqai</transcript>
+    <transcript2>daragai</transcript2>
+    <cyrillic>тархай</cyrillic>
+  </head>
+  <see_also>
+    <ref>T2788</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠷᠠᠬᠠᠢ</unicode>
+      <uighur>taraqai</uighur>
+      <cyrillic>тархай</cyrillic>
+      <transcript>TARAXAI</transcript>
+      <definition>[= tarxai] adj. Scattered, dispersed, spread, disseminated.</definition>
+      <page>779</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠷᠠᠬᠠᠢ ᠪᠤᠲᠠᠷᠬᠠᠢ</unicode>
+          <transcript>-- butarxai</transcript>
+          <definition> Scattered, spread around.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠷᠠᠬᠠᠢ</unicode>
+      <definition>duvet: 2 galeux</definition>
+      <page>1663</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠷᠠᠬᠠᠢ</unicode>
+      <cyrillic>тархай</cyrillic>
+      <definition>сийрэг, тарсан, таруу;тархай бутархай&lt;хорш&gt;.</definition>
+      <page>523</page>
+    </entry_item>
+  </entries>
+</entry>

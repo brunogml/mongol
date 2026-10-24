@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K2711">
+  <head>
+    <unicode>ᠺᠢᠷᠲᠥᠺᠥ</unicode>
+    <transcript>kirtükü</transcript>
+    <transcript2>girdögö</transcript2>
+  </head>
+  <derivatives>
+    <ref>K2712</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠢᠷᠲᠥᠺᠥ</unicode>
+      <uighur>kirdükü</uighur>
+      <transcript>KIRTY-</transcript>
+      <definition>Same as gkirte-, etc.</definition>
+      <page>473</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠢᠷᠳᠦᠺᠦ ~ ᠺᠺᠢᠷᠳᠦᠺᠦ ~ ᠺᠢᠷᠳᠡᠺᠦ</unicode>
+      <definition>se tacheter, se salir, se souiller, se ternir.</definition>
+      <page>2553</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠠᠷᠠᠨ ᠺᠢᠷᠲᠦᠪᠡ</unicode>
+          <definition>le soleil s'est terni</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

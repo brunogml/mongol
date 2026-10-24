@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1152">
+  <head>
+    <unicode>ᠮᠠᠯᠵᠢᠺᠥᠯᠺᠥ</unicode>
+    <transcript>melǰigülkü</transcript>
+    <transcript2>melcigölgö</transcript2>
+    <cyrillic>мэлзүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>M1151</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠡᠯᠵᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>мэлзүүлэх</cyrillic>
+      <definition>〔动〕①мэлзэх 的使动态；②意同 мэлзэгдэх.</definition>
+      <page>704</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠯᠵᠢᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>МЭЛЗҮҮЛЭХ</cyrillic>
+      <definition>мэлзэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠡᠯᠵᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>мэлзүүлэх</cyrillic>
+      <definition>1. мэлзэхийн үйлдүүлэх хэв;2. мэлзэгдэх.</definition>
+      <page>354</page>
+    </entry_item>
+  </entries>
+</entry>

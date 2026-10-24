@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6931">
+  <head>
+    <unicode>ᠱᠥᠺᠥᠷᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>šügüregülkü</transcript>
+    <transcript2>sögöregölgö</transcript2>
+    <cyrillic>шүүрүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S6928</ref>
+  </related_to>
+  <see_also>
+    <ref>S4390</ref>
+    <ref>S6930</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠱᠦᠺᠦᠷᠡᠭᠦᠯᠺᠦ ~ ᠰᠢᠭᠦᠷᠡᠭᠦᠯᠺᠦ</unicode>
+      <definition>filtrer. passer par un filtre, faire égoutter. presser, couler la lessive</definition>
+      <page>1544</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠥᠺᠥᠷᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ШҮҮРҮҮЛЭХ</cyrillic>
+      <definition>III шүүрэх IV-ийн үйлдүүл., процеживать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠦᠭᠦᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>шүүрүүлэх</cyrillic>
+      <definition>шүүрэхийн үйлдүүлэх хэв, шүүрэхэд хүрүүлэх.</definition>
+      <page>864</page>
+    </entry_item>
+  </entries>
+</entry>

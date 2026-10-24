@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I0861">
+  <head>
+    <unicode>ᠢᠮᠠᠴᠢᠺᠥᠯᠺᠥ</unicode>
+    <transcript>imečigülkü</transcript>
+    <transcript2>imecigölgö</transcript2>
+    <cyrillic>имчүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>I0860</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠮᠡᠴᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>имчүүлэх</cyrillic>
+      <definition>〔动〕имчих 的使动态.</definition>
+      <page>615</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠮᠠᠴᠢᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ИМЧҮҮЛЭХ</cyrillic>
+      <definition>имчих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠮᠡᠴᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>имчүүлэх</cyrillic>
+      <definition>имчихийн үйлдүүлэх хэв.</definition>
+      <page>305</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T1241">
+  <head>
+    <unicode>ᠳᠠᠪᠲᠠᠬᠳᠠᠴᠠ</unicode>
+    <transcript>dabtaγdača</transcript>
+    <transcript2>dabdagdaca</transcript2>
+    <cyrillic>давтагдац</cyrillic>
+  </head><related_to>
+    <ref>T1252</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠪᠲᠠᠭᠳᠠᠴᠠ</unicode>
+      <cyrillic>давтагдац</cyrillic>
+      <definition>〔名〕周期性.</definition>
+      <page>367</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠪᠲᠠᠬᠳᠠᠴᠠ</unicode>
+      <cyrillic>ДАВТАГДАЦ</cyrillic>
+      <definition>I ковкость. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠪᠲᠠᠬᠳᠠᠴᠠ</unicode>
+      <cyrillic>ДАВТАГДАЦ</cyrillic>
+      <definition>II повторяемость, периодичность. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

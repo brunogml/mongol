@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O2033">
+  <head>
+    <unicode>ᠥᠷᠥᠺᠥᠯᠺᠥ</unicode>
+    <transcript>örügülkü</transcript>
+    <transcript2>örögölgö</transcript2>
+    <cyrillic>өрүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>O2024</ref>
+  </related_to>
+  <see_also>
+    <ref>O2032</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠷᠥᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өрүүлэх</cyrillic>
+      <definition>〔动〕өрөх /1、/2 的使动态.</definition>
+      <page>863</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠷᠥᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ӨРҮҮЛЭХ</cyrillic>
+      <definition>өрөх I, II-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠷᠥᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өрүүлэх</cyrillic>
+      <definition>өрөхийн үйлдүүлэх хэв.</definition>
+      <page>446</page>
+    </entry_item>
+  </entries>
+</entry>

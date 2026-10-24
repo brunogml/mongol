@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5345">
+  <head>
+    <unicode>ᠲᠣᠨᠲᠣᠯᠵᠠᠬᠣ</unicode>
+    <transcript>tontulǰaqu</transcript>
+    <transcript2>dondolcago</transcript2>
+    <cyrillic>тонтолзох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T5347</ref>
+  </derivatives>
+  <see_also>
+    <ref>T5346</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠨᠲᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>тонтолзох</cyrillic>
+      <definition>〔动〕参见 тонтгонох.</definition>
+      <page>1073</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠨᠲᠣᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ТОНТОЛЗОХ</cyrillic>
+      <definition>покачивать бёдрами при ходьбе. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тонтолзох</cyrillic>
+      <definition>etw. Dickes, Rundes, Weiches sich bewegen, wabbeln</definition>
+      <page>230</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠨᠲᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>тонтолзох</cyrillic>
+      <definition>тонтгор юмны байн байн хөдлөх.</definition>
+      <page>541</page>
+    </entry_item>
+  </entries>
+</entry>

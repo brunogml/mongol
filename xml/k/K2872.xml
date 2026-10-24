@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K2872">
+  <head>
+    <unicode>ᠺᠥᠢᠯᠡᠰᠥ</unicode>
+    <transcript>güilesü</transcript>
+    <transcript2>göilesö</transcript2>
+    <cyrillic>гүйлс</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠦᠢᠯᠡᠰᠦ ~ ᠭᠦᠢᠯᠡᠰᠦᠨ</unicode>
+      <uighur>güilesü - güilesün</uighur>
+      <cyrillic>гүйлс(ен)</cyrillic>
+      <transcript>GYILESY(N)</transcript>
+      <definition>n. Apricot.</definition>
+      <page>390</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠦᠢᠯᠡᠰᠦ ᠮᠣᠳᠤᠨ</unicode>
+          <transcript>-- modun</transcript>
+          <definition> Apricot tree.</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠦᠢᠯᠡᠰᠦᠨ ᠰᠢᠷ᠎ᠠ</unicode>
+          <transcript>--n sir-a</transcript>
+          <definition> Apricot-yellow.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠦᠢᠯᠡᠰᠦᠨ ~ ᠭᠦᠢᠯᠡᠰᠦ</unicode>
+      <definition>abricot, cerise.</definition>
+      <page>2560</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠺᠥᠢᠯᠡᠰᠥ</unicode>
+      <uighur>küilesün</uighur>
+      <definition>Kirschen, Morellen.</definition>
+      <page>206</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠺᠥᠢᠯᠡᠰᠥ</unicode>
+      <uighur>küilesü</uighur>
+      <definition>n. The apricot.</definition>
+      <page>813</page>
+      <examples>
+        <example>
+          <uighur>küilesün sir-a</uighur>
+          <definition>adj. Amber-coloured.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠢᠯᠡᠰᠥ</unicode>
+      <cyrillic>ГҮЙЛС(ЭН)</cyrillic>
+      <definition>1. ург. абрикос сибирский; мөнгөн гүйлс ург. гинко серебристый; 2. абрикосовый; гүйлсэн шар красновато-жёлтый. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гүйлс[эн]</cyrillic>
+      <definition>Bot Aprikose f</definition>
+      <page>82</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠦᠢᠯᠡᠰᠦ᠊ᠨ</unicode>
+      <cyrillic>гүйлс</cyrillic>
+      <definition>&lt;ургамал&gt;модонд ургадаг, лис мэт их, өнгө шаравтар буюу улаавтар, амт хүчтэйхэн жимс, цэцэг цагаавтархан улаан, зүйл маш олон.</definition>
+      <page>164</page>
+    </entry_item>
+  </entries>
+</entry>

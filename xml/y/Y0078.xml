@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y0078">
+  <head>
+    <unicode>ᠵᠠᠨᠴᠢᠬᠣ</unicode>
+    <transcript>ǰančiqu</transcript>
+    <transcript2>yancigo</transcript2>
+    <cyrillic>занчих</cyrillic>
+  </head><derivatives>
+    <ref>Y0081</ref>
+  
+    <ref>Y0082</ref>
+  
+    <ref>Y0085</ref>
+  
+    <ref>Y0091</ref>
+  </derivatives><see_also>
+    <ref>Y0248</ref>
+  
+    <ref>Y0079</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠠᠨᠴᠢᠬᠣ</unicode>
+      <uighur>ǰančiqu</uighur>
+      <cyrillic>занчих - жанчих</cyrillic>
+      <transcript>ZANCI-</transcript>
+      <definition>[= nanci-, zangci-] v. t. To beat, hit; to punish by hitting with rods or a whip; to thrash, whip.</definition>
+      <page>1034</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠠᠨᠴᠢᠵᠤ ᠵᠠᠯᠴᠠᠭᠠᠬᠤ</unicode>
+          <transcript>--zu zalxaγaxu</transcript>
+          <definition>To punish by whipping.</definition>
+        </example>
+        <example>
+          <unicode>ᠦᠺᠦᠲᠡᠯ᠎ᠡ ᠵᠠᠨᠴᠢᠬᠣ</unicode>
+          <transcript>ykytel-e --xu</transcript>
+          <definition>To beat to death.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠠᠨᠴᠢᠬᠤ</unicode>
+      <definition>battre, frapper, fouetter.</definition>
+      <page>2238</page>
+      <examples>
+        <example>
+          <unicode>ᠦᠺᠦᠲᠡᠯᠡ ᠵᠠᠨᠴᠢᠬᠤ</unicode>
+          <definition>fouetter jusqu'à la mort</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠮᠦᠷ ᠢᠶᠡᠷ ᠪᠦᠲᠦᠭᠰᠡᠨ ᠠᠯᠤᠬᠠ ᠪᠡᠷ ᠲᠡᠭᠦᠨ ᠢ ᠵᠠᠨᠴᠢᠮᠤᠢ</unicode>
+          <definition>il le frappe avec un marteau de fer</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠠᠭᠤᠨ ᠲᠠᠰᠢᠭᠤᠷ ᠵᠠᠨᠴᠢᠬᠤ</unicode>
+          <definition>donner cent coups de fouet</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠵᠠᠨᠴᠢᠬᠣ</unicode>
+      <uighur>yančiqu</uighur>
+      <definition>schlagen, peitschen , prügeln, geisseln</definition>
+      <page>287</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠨᠴᠢᠬᠣ</unicode>
+      <cyrillic>ЗАНЧИХ</cyrillic>
+      <definition>жанчих-ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

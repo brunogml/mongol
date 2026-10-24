@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M2435">
+  <head>
+    <unicode>ᠮᠥᠷᠴᠢ</unicode>
+    <transcript>mörči</transcript>
+    <transcript2>mörci</transcript2>
+    <cyrillic>мөрч</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M2450</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠥᠷᠴᠢ</unicode>
+      <cyrillic>мөрч</cyrillic>
+      <definition>〔形〕善于追踪的：~ нохой 善于追踪的狗.</definition>
+      <page>689</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠥᠷᠴᠢ</unicode>
+      <cyrillic>МӨРЧ</cyrillic>
+      <definition>следопыт; мөрч нохой ищейка. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠥᠷᠴᠢ</unicode>
+      <cyrillic>мөрч</cyrillic>
+      <definition>мөр хөөх мөшгөхдөө сайн; мөрч нохой, мөрч амьтан.</definition>
+      <page>346</page>
+    </entry_item>
+  </entries>
+</entry>

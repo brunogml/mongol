@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2314">
+  <head>
+    <unicode>ᠪᠢᠯᠬᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>bilqaγulqu</transcript>
+    <transcript2>bilgagolgo</transcript2>
+    <cyrillic>бялхуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B2313</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠢᠯᠬᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бялхуулах</cyrillic>
+      <definition>〔动〕бялхах 的使动.</definition>
+      <page>252</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠢᠯᠬᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БЯЛХУУЛАХ</cyrillic>
+      <definition>бялхах-ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бялхуулах</cyrillic>
+      <definition>1. Kaus von бялхах
+2. überfüllen</definition>
+      <page>70</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠢᠯᠬᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бялхуулах</cyrillic>
+      <definition>1. бялхахын үйлдүүлэх хэв;2. бялхаах.</definition>
+      <page>125</page>
+    </entry_item>
+  </entries>
+</entry>

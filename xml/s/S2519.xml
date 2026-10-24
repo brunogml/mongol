@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S2519">
+  <head>
+    <unicode>ᠰᠠᠺᠥᠳᠠᠷᠲᠥ</unicode>
+    <transcript>següdertü</transcript>
+    <transcript2>segöderdö</transcript2>
+    <cyrillic>сүүдэрт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠡᠭᠦᠳᠡᠷᠳᠡᠢ ~ ᠰᠡᠭᠦᠳᠡᠷᠳᠦ</unicode>
+      <definition>ombreux , couvert d'ombre.</definition>
+      <page>1363</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠡᠭᠦᠳᠡᠷᠳᠦ ᠰᠢᠭᠦᠷ</unicode>
+          <definition>parasol, ombrelle</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠰᠠᠺᠥᠳᠠᠷᠲᠥ</unicode>
+      <uighur>següderdü sigür</uighur>
+      <definition>A large umbrella, a shade</definition>
+      <page>1400</page>
+    </entry_item>
+  </entries>
+<related_to><ref>S2516</ref></related_to></entry>

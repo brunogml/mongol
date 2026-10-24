@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3003">
+  <head>
+    <unicode>ᠳᠠᠷᠵᠢᠺᠢᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>darǰiginaγulqu</transcript>
+    <transcript2>darciginagolgo</transcript2>
+    <cyrillic>даржигнуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T3001</ref>
+  </related_to>
+  <see_also>
+    <ref>T3002</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠷᠵᠢᠭᠢᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>даржигнуулах</cyrillic>
+      <definition>〔动〕даржигнах 的使动态.</definition>
+      <page>396</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠷᠵᠢᠺᠢᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДАРЖИГНУУЛАХ</cyrillic>
+      <definition>даржигнах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>даржигнуулах</cyrillic>
+      <definition>Kaus von даржигнах</definition>
+      <page>92</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠷᠵᠢᠭᠢᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>даржигнуулах</cyrillic>
+      <definition>даржигнахын үйлдүүлэх хэв.</definition>
+      <page>190</page>
+    </entry_item>
+  </entries>
+</entry>

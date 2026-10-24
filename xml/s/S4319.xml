@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4319">
+  <head>
+    <unicode>ᠰᠢᠺᠢᠺᠥᠯᠺᠥ</unicode>
+    <transcript>sigigülkü</transcript>
+    <transcript2>sigigölgö</transcript2>
+    <cyrillic>шигүүлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S4317</ref>
+  </derivatives>
+  <related_to>
+    <ref>S4314</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠭᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>шигүүлэх</cyrillic>
+      <definition>〔动〕шигэх 的使动态.</definition>
+      <page>1629</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠺᠢᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ШИГҮҮЛЭХ</cyrillic>
+      <definition>шигэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шигүүлэх</cyrillic>
+      <definition>Kaus von шигэх</definition>
+      <page>383</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠭᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>шигүүлэх</cyrillic>
+      <definition>шигэхийн үйлдүүлэх хэв.</definition>
+      <page>844</page>
+    </entry_item>
+  </entries>
+</entry>

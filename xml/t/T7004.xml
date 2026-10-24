@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7004">
+  <head>
+    <unicode>ᠲᠣᠯᠪᠠᠭ᠎ᠠ</unicode>
+    <transcript>tulbaγ-a</transcript>
+    <transcript2>dolbaga</transcript2>
+    <cyrillic>тулбаа</cyrillic>
+  </head>
+  <see_also>
+    <ref>T7003</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠯᠪᠠᠭ᠎ᠠ</unicode>
+      <uighur>tulbaγ-a</uighur>
+      <transcript>TULBAΓ-A(N)</transcript>
+      <definition>n. The fry of the Siberian salmon (tulu, q.v.).</definition>
+      <page>840</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠯᠪᠠᠭ᠎ᠠ</unicode>
+      <definition>saumon de la Sibérie.</definition>
+      <page>1858</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠯᠪᠠᠭ᠎ᠠ</unicode>
+      <cyrillic>ТУЛБАГА</cyrillic>
+      <definition>загас. малёк нельмы.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠯᠪᠠᠭ᠎ᠠ</unicode>
+      <cyrillic>тулбаа</cyrillic>
+      <definition>тул загасны зулзага.</definition>
+      <page>555</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>T9633</ref>
+  </derivatives>
+</entry>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A0776">
+  <head>
+    <unicode>ᠠᠭᠣᠰᠬᠠᠮᠠᠯ</unicode>
+    <transcript>aγusqamal</transcript>
+    <transcript2>agosgamal</transcript2>
+    <cyrillic>уусгамал</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠭᠣᠰᠬᠠᠮᠠᠯ</unicode>
+      <uighur>aγusqamal</uighur>
+      <cyrillic>уусгамал</cyrillic>
+      <transcript>AГUSXAMAL</transcript>
+      <definition>[n. d. of aγusxa-] adj. and n. Dissolved; solution.</definition>
+      <page>18</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠠᠳᠤᠭᠰᠠᠨ ᠠᠭᠤᠰᠬᠠᠮᠠᠯ</unicode>
+          <transcript>caduγsan - -</transcript>
+          <definition> Saturated solution.</definition>
+        </example>
+        <example>
+          <unicode>ᠤᠰᠤᠨ ᠠᠭᠤᠰᠬᠠᠮᠠᠯ</unicode>
+          <transcript>usun -- </transcript>
+          <definition>Hydrate</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠭᠣᠰᠬᠠᠮᠠᠯ</unicode>
+      <cyrillic>уусгамал</cyrillic>
+      <definition>〔名〕溶液：цадсан ~ 饱和溶液.</definition>
+      <page>1216</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠣᠰᠬᠠᠮᠠᠯ</unicode>
+      <cyrillic>УУСГАМАЛ</cyrillic>
+      <definition>раствор; ханасан уусгамал насыщенный раствор. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠭᠤᠰᠬᠠᠮᠠᠯ</unicode>
+      <cyrillic>уусгамал</cyrillic>
+      <definition>хатуу, шингэн эсвэл хийн байдалтай бодисыг шингэн бодистой холиход бий болох шингэн зүйл.</definition>
+      <page>607</page>
+    </entry_item>
+  </entries>
+</entry>

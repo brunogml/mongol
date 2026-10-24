@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6083">
+  <head>
+    <unicode>ᠰᠣᠶᠣᠩᠭᠠᠲᠣᠬᠣ</unicode>
+    <transcript>soyungγatuqu</transcript>
+    <transcript2>soyonggadogo</transcript2>
+    <cyrillic>соёнготох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6084</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠶᠣᠩᠭᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>соёнготох</cyrillic>
+      <definition>〔动〕参见 соёнгорох.</definition>
+      <page>931</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠶᠣᠩᠭᠠᠲᠣᠬᠣ</unicode>
+      <cyrillic>СОЁНГОТОХ</cyrillic>
+      <definition>1. получать осложнение после кастрации; 2. осложнение после кастрации (у животных). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>соёнготох</cyrillic>
+      <definition>lahmen, Komplikationen haben Tier nach Kastration</definition>
+      <page>199</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠶᠣᠩᠭᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>соёнготох</cyrillic>
+      <definition>соёнго өвчтэй болох.</definition>
+      <page>476</page>
+    </entry_item>
+  </entries>
+</entry>

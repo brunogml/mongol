@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1362">
+  <head>
+    <unicode>ᠴᠢᠨᠠᠬᠣ</unicode>
+    <transcript>činaqu</transcript>
+    <transcript2>cinago</transcript2>
+    <cyrillic>чанах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1363</ref>
+    <ref>C1375</ref>
+    <ref>C1387</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠢᠨᠠᠬᠣ</unicode>
+      <uighur>činaqu</uighur>
+      <cyrillic>чанах</cyrillic>
+      <transcript>CINA-</transcript>
+      <definition>v.t. To boil, stew.</definition>
+      <page>186</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠨᠠᠭᠰᠠᠨ</unicode>
+          <transcript>--γsan</transcript>
+          <definition>Boiled, stewed.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠠᠢ ᠴᠢᠨᠠᠬᠤ</unicode>
+          <transcript>cai --xu</transcript>
+          <definition>To boil tea.</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠢᠬ᠎ᠠ ᠴᠢᠨᠠᠬᠤ</unicode>
+          <transcript>mix-a --</transcript>
+          <definition>To boil or stew meat.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠢᠨᠠᠬᠤ</unicode>
+      <definition>cuire, préparer le manger.</definition>
+      <page>2129</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠮ ᠤᠳ ᠢ ᠰᠦᠨ ᠳ᠋‍‍ᠤ‍ᠷ ᠴᠢᠨᠠᠬᠤ</unicode>
+          <definition>préparer une médecine dans du lait</definition>
+        </example>
+        <example>
+          <unicode>ᠢᠳᠡᠭᠡᠨ ᠢ ᠴᠢᠨᠠᠬᠤ</unicode>
+          <definition>préparer le manger</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠪᠠ ᠎ᠶᠢᠨ ᠺᠺᠢᠷ ᠢ ᠣᠺᠢᠶᠠᠵᠤ ᠢᠳᠡᠭᠡᠨ ᠢ ᠴᠢᠨᠠᠬᠤ</unicode>
+          <definition>préparer des aliments dans les ustensiles propres de cuisine</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠴᠢᠨᠠᠬᠣ</unicode>
+      <uighur>činaqu</uighur>
+      <definition>kochen,</definition>
+      <page>323</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠴᠢᠨᠠᠬᠣ</unicode>
+      <uighur>činaqu</uighur>
+      <definition>v.t. To boil, to cook.</definition>
+      <page>1302</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>чанах</cyrillic>
+      <definition>〔动〕煮，熬，炖：мах ~ 煮肉，熬肉，炖肉；цай ~ 煮茶，烧茶.</definition>
+      <page>1578</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЧАНАХ</cyrillic>
+      <definition>1. варить, вываривать, заваривать, отваривать, сваривать, выпаривать, кипятить; болтол чанах, гүйцэд чанах доваривать; давс чанах выпаривать соль; дутуу чанах недоварить; жимс чанах варить варенье; мах чанах варить мясо; мөөг чанах отварить грибы; өндөг аргатал чанах сварить яйцо вкрутую; төмс хальстай нь чанах сварить картофель в мундире; цай чанах варить, заваривать чай; шалз чанах проварить; чанаж бэлтгэх вываривать; 2. выварочный; заварной; юм чанах тогоо заварной котёл; 3. чанахуй-г үз., үлтэртэл чанах выварка; нэг чанах цай үлджээ чаю осталось на одну заварку.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠨᠠᠬᠣᠢ</unicode>
+      <cyrillic>ЧАНАХУЙ</cyrillic>
+      <definition>варка; выварка.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠨᠠᠭᠰᠠᠨ</unicode>
+      <cyrillic>ЧАНАСАН</cyrillic>
+      <definition>варёный, отварной; выварочный; чанасан жимс варенье; чанасан мах варёное мясо; чанасан гахайн мах буженина; чанасан үхрийн мах отварная говядина; чанасан овъёс овсянка; чанасан шаар спитой чай; осадок чая, чаинки после кипячения.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чанах</cyrillic>
+      <definition>[ein]kochen; жимс ~ Obst einkochen; чанасан мах[ан] gekochtes Fleisch</definition>
+      <page>368</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>чанах</cyrillic>
+      <definition>аливаа юмыг буцалгаж боловсруулах; цай чанах; хоол чанах; жимс чанах; чанасан мах; чанасан будаа.</definition>
+      <page>813</page>
+    </entry_item>
+  </entries>
+</entry>

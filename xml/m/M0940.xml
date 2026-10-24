@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0940">
+  <head>
+    <unicode>ᠮᠠᠩᠺᠠᠷ</unicode>
+    <transcript>mengger</transcript>
+    <transcript2>mengger</transcript2>
+    <cyrillic>мэнгэр</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠮᠠᠩᠺᠠᠷ</unicode>
+      <uighur>mengker</uighur>
+      <cyrillic>мэнгэр</cyrillic>
+      <transcript>MENGGER</transcript>
+      <definition>n. Consumption, phthisis; catarrh of throat or chronic bronchitis.</definition>
+      <page>536</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠠᠩᠺᠠᠷ ᠬᠠᠨᠢᠶᠠᠳᠤ</unicode>
+          <transcript>-- xanijadu</transcript>
+          <definition> Chronic cough.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠡᠩᠭᠡᠷ</unicode>
+      <cyrillic>мэнгэр</cyrillic>
+      <definition>〔名〕〈医〉慢性支气管炎：~ уйланхайтах 急性支气管炎.</definition>
+      <page>705</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠩᠺᠠᠷ</unicode>
+      <cyrillic>МЭНГЭР</cyrillic>
+      <definition>1) анаг. катар лёгких, хронический бронхит, хронический кашель; чахотка; уушиг мэнгэртэх тамхиных, ухаан балартах архиных цэцэн. кашель от табака, а помутнение рассудка от водки; 2) шилж. нервы; мэнгэр хөдлөх нервничать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>мэнгэр</cyrillic>
+      <definition>Med Bronchitis f</definition>
+      <page>149</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠡᠩᠭᠡᠷ</unicode>
+      <cyrillic>мэнгэр</cyrillic>
+      <definition>уушигны цагаан гуурснуудын салст бүрхэвч үрэвсэж өвчлөх өвчин; мэнгэртэй болох.</definition>
+      <page>355</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>M0941</ref>
+    <ref>M0942</ref>
+    <ref>M0944</ref>
+    <ref>M0946</ref>
+  </derivatives>
+</entry>

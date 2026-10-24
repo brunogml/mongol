@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3172">
+  <head>
+    <unicode>ᠳᠠᠨᠵᠢᠯᠵᠠᠺᠥ</unicode>
+    <transcript>denǰilǰekü</transcript>
+    <transcript2>dencilcegö</transcript2>
+    <cyrillic>дэнжилзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T3173</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠡᠨᠵᠢᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>дэнжилзэх</cyrillic>
+      <definition>〔动〕参见 дэнжигнэх.</definition>
+      <page>474</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠨᠵᠢᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>ДЭНЖИЛЗЭХ</cyrillic>
+      <definition>дэнжгэнэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дэнжилзэх</cyrillic>
+      <definition>= дэнжигнэх</definition>
+      <page>105</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠨᠵᠢᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>дэнжилзэх</cyrillic>
+      <definition>дэнжгэр юмны байн байн хөдлөх.</definition>
+      <page>227</page>
+    </entry_item>
+  </entries>
+</entry>

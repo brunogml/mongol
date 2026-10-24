@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A0202">
+  <head>
+    <unicode>ᠠᠨᠳᠠᠭᠣᠣ</unicode>
+    <transcript>andaγuu</transcript>
+    <transcript2>andagoo</transcript2>
+    <cyrillic>андуу</cyrillic>
+  </head>
+  <see_also>
+    <ref>A0201</ref>
+    <ref>A0233</ref>
+    <ref>A0235</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠨᠳᠠᠭᠣᠣ</unicode>
+      <uighur>andaγou</uighur>
+      <cyrillic>андуу</cyrillic>
+      <transcript>ANDAГUU</transcript>
+      <definition>n., adj. and adv. Mistake, error, mistaken, erroneous, wrong; mistakenly, erroneously.</definition>
+      <page>43</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠨᠳᠠᠭᠤᠤ ᠪᠡᠷ</unicode>
+          <transcript>-- ber</transcript>
+          <definition>By mistake, erroneously.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠨᠳᠠᠭᠤᠤ ᠪᠤᠷᠤᠭᠤ</unicode>
+          <transcript>-- buruγu</transcript>
+          <definition>Fault, error; wrong.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠨᠳᠠᠭᠤᠤ ᠡᠨᠳᠡᠭᠦᠦ</unicode>
+          <transcript>-- endegyy</transcript>
+          <definition>Mistake, error.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠨᠳᠠᠭᠤᠤ ᠰᠣᠨᠣᠰᠬᠤ</unicode>
+          <transcript>-- sonusxu</transcript>
+          <definition>To hear incorrectly.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠨᠳᠠᠭᠣᠣ</unicode>
+      <uighur>andaγuu</uighur>
+      <definition>faute, erreur</definition>
+      <page>13</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>андуу</cyrillic>
+      <definition>1. fehlerhaft, ungenau; ~ дуулах nicht genau hören &#13;
+2. Kübel m, Zuber m</definition>
+      <page>32</page>
+    </entry_item>
+  </entries>
+</entry>

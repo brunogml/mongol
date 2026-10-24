@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="V0041">
+  <head>
+    <unicode>ᠸᠠᠳᠠᠩᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>vadangnaγulqu</transcript>
+    <transcript2>vadangnagolgo</transcript2>
+    <cyrillic>ваадагнуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>V0040</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠸᠠᠳᠠᠩᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ваадагнуулах</cyrillic>
+      <definition>〔动〕①ваадагнах 的使动态；②意同 ваадагнагдах.</definition>
+      <page>255</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠸᠠᠳᠠᠩᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ВААДАГНУУЛАХ</cyrillic>
+      <definition>ваадагнах-ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠸᠠᠳᠠᠩᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ваадагнуулах</cyrillic>
+      <definition>1. ваадагнахын үйлдүүлэх хэв;2. ваадагнагдах.</definition>
+      <page>126</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3075">
+  <head>
+    <unicode>ᠰᠢᠨᠣᠬᠠᠶᠢᠷᠬᠠᠬᠣ</unicode>
+    <transcript>sinuqayirqaqu</transcript>
+    <transcript2>sinogayirgago</transcript2>
+    <cyrillic>шунахайрхах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3078</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠨᠤᠬᠠᠢᠷᠬᠠᠬᠤ</unicode>
+      <cyrillic>шунахайрхах</cyrillic>
+      <definition>〔动〕显得贪婪，贪私，变得非常贪馋，变得极为贪色.</definition>
+      <page>1660</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠨᠣᠬᠠᠶᠢᠷᠬᠠᠬᠣ</unicode>
+      <cyrillic>ШУНАХАЙРХАХ</cyrillic>
+      <definition>жадничать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шунахайрхах</cyrillic>
+      <definition>sich äußerst habgierig zeigen</definition>
+      <page>392</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠨᠤᠬᠠᠢᠷᠬᠠᠬᠤ</unicode>
+      <cyrillic>шунахайрхах</cyrillic>
+      <definition>хэтэрхий шунахай байдал гаргах.</definition>
+      <page>860</page>
+    </entry_item>
+  </entries>
+</entry>

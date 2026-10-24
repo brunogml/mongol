@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1722">
+  <head>
+    <unicode>ᠵᠠᠶᠢᠷᠲᠣᠬᠣ</unicode>
+    <transcript>ǰayirtuqu</transcript>
+    <transcript2>yayirdogo</transcript2>
+    <cyrillic>зайртах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1723</ref>
+    <ref>Y1724</ref>
+  </derivatives>
+  <see_also>
+    <ref>Y1721</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠢᠷᠲᠤᠬᠤ</unicode>
+      <cyrillic>зайртах</cyrillic>
+      <definition>〔动〕①结薄冰，出现冰茬，开始结冰，刚刚冻结，出现浮冰，出现流冰；②泪水盈眶.</definition>
+      <page>534</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠶᠢᠷᠲᠣᠬᠣ</unicode>
+      <cyrillic>ЗАЙРТАХ</cyrillic>
+      <definition>начинать замерзать, покрываться шугой. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠢᠷᠲᠤᠬᠤ</unicode>
+      <cyrillic>зайртах</cyrillic>
+      <definition>зайр бий болж тогтох.</definition>
+      <page>261</page>
+    </entry_item>
+  </entries>
+</entry>

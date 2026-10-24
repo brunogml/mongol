@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A0978">
+  <head>
+    <unicode>ᠠᠭᠣᠷᠢᠬ</unicode>
+    <transcript>aγuriq</transcript>
+    <transcript2>agorig</transcript2>
+    <cyrillic>агууриг</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠭᠤᠷᠢᠭ</unicode>
+      <cyrillic>агууриг</cyrillic>
+      <definition>〔名〕〈技〉振幅；幅度：~ гажиг 振幅畸变；~ жигдлүүр 振幅修正器；~ өөрчилгөө 振幅键控；~ өсгөх 振幅放大；~ сэргээх 振幅再现；~ илтгэлцүүр 振幅系数；~ мурай 振幅曲线；~ сульдаа 减幅；~ тануур 限幅器；~ үелзлийн хувиргаа 振幅频率调制.</definition>
+      <page>20</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠣᠷᠢᠬ</unicode>
+      <cyrillic>АГУУРИГ</cyrillic>
+      <definition>бодос. 1. амплитуда; дүүжингийн сажицын агууриг амплитуда колебаний маятника; агууриг өсгөх увеличение (усиление) амплитуды; агууриг саарах уменьшение амплитуды; агууриг сэргээх воспроизведение амплитуды; агууригаар ялгах разделение по амплитуде; 2. амплитудный; агууриг жиг¬длүүр амплитудный корректор; агууриг өөрчилгөө амплитудная манипуляция; агууриг тануур амплитудный ограничитель; агууриг үелзэл хувиргаа модуляция амплитудно-частот¬ная; агууриг үелзлийн тодорхойлол амплитудно-частот¬ная характеристика; агууриг хувиргаа амплитудная модуляция; агууриг хувиргуур амплитудный модулятор.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠣᠷᠢᠬ ᠤᠨ</unicode>
+      <cyrillic>АГУУРИГИЙН</cyrillic>
+      <definition>агууриг–ийн харьяал., амплитудный; агууригийн гажиг бодос. искажение амплитудное; агууригийн илтгэлцүүр бодос. амплитудный коэффициент; агууригийн муригар бодос. амплитудная кривая; агууригийн сульдаа бодос. умень¬шение амплитуды; агууригийн шинж бодос. амплитудная характеристика.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Bawden</dico>
+      <cyrillic>агууриг</cyrillic>
+      <definition>amplitude, range агч мод  Maple (bot.)</definition>
+      <page>5</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>агууриг</cyrillic>
+      <definition>Phys Amplitude f</definition>
+      <page>23</page>
+    </entry_item>
+  </entries>
+</entry>

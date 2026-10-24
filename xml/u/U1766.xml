@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1766">
+  <head>
+    <unicode>ᠣᠯᠣᠮ</unicode>
+    <transcript>olum</transcript>
+    <transcript2>olom</transcript2>
+    <cyrillic>олом</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠯᠣᠮ</unicode>
+      <uighur>olom</uighur>
+      <cyrillic>олом</cyrillic>
+      <transcript>OLUM</transcript>
+      <definition>[= olung] n. Ford, crosing</definition>
+      <page>609</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠯᠣᠮ ᠢᠶᠠᠷ</unicode>
+          <transcript>-- ijer</transcript>
+          <definition> [By] fording, [by] wading</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠯᠣᠮ ᠦᠭᠡᠢ</unicode>
+          <transcript>--ygei </transcript>
+          <definition>Unfordable, deep</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠯᠣᠮ</unicode>
+      <definition>gué, endroit guéable.</definition>
+      <page>405</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠯᠣᠮ ᠦᠭᠡᠢ</unicode>
+          <definition>non guéable, inguéable; profond.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠣᠯᠣᠮ</unicode>
+      <uighur>ulum</uighur>
+      <definition>die Furth, seichte Slelle, wo ein Gewässer durchwadet werden kann.</definition>
+      <page>53</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠣᠯᠣᠮ</unicode>
+      <uighur>ulum</uighur>
+      <definition>(o)n. A ford. A shallow place, where the water can be forded.</definition>
+      <page>208</page>
+      <examples>
+        <example>
+          <uighur>ulum ügei</uighur>
+          <definition>Deep. No fording-place.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠯᠣᠮ</unicode>
+      <cyrillic>ОЛОМ</cyrillic>
+      <definition>I брод; голын олом брод на реке; усны олом переправа; олом гарам хорш. брод; олмы нь асуулгүй ус битгий гатал яриа. не спрося брода, не лезь в воду (үгчил. не спросив брода, не переходи воду). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠯᠣᠮ</unicode>
+      <cyrillic>ОЛОМГҮЙ</cyrillic>
+      <definition>глубокий; нет брода, непереходимый в брод; бездна; оломгүй гол река без брода, глубокая река; оломгүй далай а) бездна моря; б) мир, вселенная. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>олом[он]</cyrillic>
+      <definition>1. Furt f
+2. Sattelgurt m, Bauchgurt m</definition>
+      <page>169</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠯᠣᠮ</unicode>
+      <cyrillic>олом /1</cyrillic>
+      <definition>гол мөрний гаталж болох гүехэн газар; Орхон голыг олмоор нь гатлав.</definition>
+      <page>412</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠯᠣᠩ</unicode>
+      <cyrillic>олом /2</cyrillic>
+      <definition>морины гэдсэн доогуур оруулан авчирч горхинд нь жирмийг оруулан татаж тогтоох голдуу хялгас томж хийх оосор; олмоо татах.</definition>
+      <page>412</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>U1767</ref>
+    <ref>U1768</ref>
+    <ref>U1769</ref>
+  </derivatives>
+</entry>

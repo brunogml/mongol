@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1560">
+  <head>
+    <unicode>ᠨᠢᠯᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>nilaγanaγulqu</transcript>
+    <transcript2>nilaganagolgo</transcript2>
+    <cyrillic>нялгануулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>N1559</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠢᠯᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нялгануулах</cyrillic>
+      <definition>〔动〕нялганах 的使动态.</definition>
+      <page>781</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠢᠯᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>НЯЛГАНУУЛАХ</cyrillic>
+      <definition>нялганах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠢᠯᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нялгануулах</cyrillic>
+      <definition>нялганахын үйлдүүлэх хэв.</definition>
+      <page>402</page>
+    </entry_item>
+  </entries>
+</entry>

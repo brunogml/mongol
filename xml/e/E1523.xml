@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E1523">
+  <head>
+    <unicode>ᠡᠭᠡᠯᠳᠦᠷᠺᠦ</unicode>
+    <transcript>egeldürkü</transcript>
+    <transcript2>egeldörgö</transcript2>
+    <cyrillic>эгэлдрэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>E1516</ref>
+  </derivatives>
+  <see_also>
+    <ref>E1513</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠺᠠᠯᠳᠥᠷᠺᠥ</unicode>
+      <uighur>egeldürkü</uighur>
+      <cyrillic>эгэлдрэх</cyrillic>
+      <transcript>EGELDYR-</transcript>
+      <definition>v.t. To hang something on the arm, carryon the arm or slung over the shoulder; to tow or track a boat with ropes; to bind, tie, tie around.</definition>
+      <page>297</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠤᠤ ᠡᠺᠠᠯᠳᠥᠷᠺᠥ</unicode>
+          <transcript>buu --ky </transcript>
+          <definition>To carry a gun slung over the shoulder</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠠᠷ ᠡᠺᠠᠯᠳᠥᠷᠺᠥ</unicode>
+          <transcript>γar --ky</transcript>
+          <definition> To carry the arm in a sling.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠺᠡᠯᠳᠦᠷᠺᠦ</unicode>
+      <definition>suspendre quelque chose au bras, porter au bras. 2 haler, tirer un bateau avec une corde contre le courant</definition>
+      <page>233</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠺᠠᠯᠳᠥᠷᠺᠥ</unicode>
+      <cyrillic>ЭГЭЛДРЭХ</cyrillic>
+      <definition>I плохо шить. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠺᠠᠯᠳᠥᠷᠺᠥ</unicode>
+      <cyrillic>ЭГЭЛДРЭХ</cyrillic>
+      <definition>II 1. 1) накидывать на плечо (напр. шубу); внакидку; перекидывать; хүрмээ эгэлдрэх носить куртку внакидку; 2) завязывать, обвязывать; 2. перекидной; эгэлдрэх цүнх перекидная сумка. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠭᠡᠯᠳᠦᠷᠬᠦ</unicode>
+      <cyrillic>эгэлдрэх /1</cyrillic>
+      <definition>юмыг мөр, тохой зэрэгтээ өлгөж хэдрэх; эгэлдэрч үүрэх; эгэлдэгч чирэх.</definition>
+      <page>869</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠭᠡᠯᠳᠦᠷᠬᠦ</unicode>
+      <cyrillic>эгэлдрэх /2</cyrillic>
+      <definition>урхидах, утас дээс зэрэг юмыг юманд өлгөж үзүүр этгээдийг гогцоонд оруулан татаж торгох.</definition>
+      <page>869</page>
+    </entry_item>
+  </entries>
+</entry>

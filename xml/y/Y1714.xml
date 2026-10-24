@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1714">
+  <head>
+    <unicode>ᠵᠠᠶᠢᠺᠥᠶᠢᠳᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ǰayigüyidegülkü</transcript>
+    <transcript2>yayigöyidegölgö</transcript2>
+    <cyrillic>зайгүйдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y1713</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠢ᠎ᠦᠭᠡᠢᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>зайгүйдүүлэх</cyrillic>
+      <definition>〔动〕зайгүйдэх 的使动态.</definition>
+      <page>532</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠶᠢᠺᠥᠶᠢᠳᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЗАЙГҮЙДҮҮЛЭХ</cyrillic>
+      <definition>зайгүйдэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠢᠦᠭᠡᠢᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>зайгүйдүүлэх</cyrillic>
+      <definition>зайгүүдэхийн үйлдүүлэх хэв.</definition>
+      <page>260</page>
+    </entry_item>
+  </entries>
+</entry>

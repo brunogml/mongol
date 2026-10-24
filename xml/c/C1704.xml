@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1704">
+  <head>
+    <unicode>ᠴᠢᠪᠺᠠᠳᠠᠺᠥ</unicode>
+    <transcript>čibkedekü</transcript>
+    <transcript2>cibgedegö</transcript2>
+    <cyrillic>чивхдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1705</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠪᠬᠡᠳᠡᠬᠦ</unicode>
+      <cyrillic>чивхдэх</cyrillic>
+      <definition>〔动〕锁上，插上，钩住.</definition>
+      <page>1583</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠪᠺᠠᠳᠠᠺᠥ</unicode>
+      <cyrillic>ЧИВХДЭХ</cyrillic>
+      <definition>заложить, запереть на задвижку, на засов, замкнуть, замыкать; проколоть заострённой палочкой. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чивхдэх</cyrillic>
+      <definition>verriegeln, ein-, зuhaken</definition>
+      <page>370</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠪᠬᠡᠳᠡᠬᠦ</unicode>
+      <cyrillic>чивхдэх</cyrillic>
+      <definition>оньслох, түгжих, шорлох.</definition>
+      <page>816</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1929">
+  <head>
+    <unicode>ᠵᠡᠨᠵᠡᠯᠵᠡᠺᠥ</unicode>
+    <transcript>ǰenǰelǰekü</transcript>
+    <transcript2>yencelcegö</transcript2>
+    <cyrillic>зэнзэлзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1930</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠡᠨᠵᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>зэнзэлзэх</cyrillic>
+      <definition>〔动〕参见 зэнзгэнэх.</definition>
+      <page>595</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠡᠨᠵᠡᠯᠵᠡᠺᠥ</unicode>
+      <cyrillic>ЗЭНЗЭЛЗЭХ</cyrillic>
+      <definition>зэнзгэнэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зэнзэлзэх</cyrillic>
+      <definition>= зэнзэгнэх</definition>
+      <page>130</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠡᠨᠵᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>зэнзэлзэх</cyrillic>
+      <definition>зэнзгэр юмны байн байн хөдлөх.</definition>
+      <page>295</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0036">
+  <head>
+    <unicode>ᠴᠠᠩᠭᠠᠬᠣ</unicode>
+    <transcript>čangγaqu</transcript>
+    <transcript2>canggago</transcript2>
+    <cyrillic>цангах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0037</ref>
+    <ref>C0049</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠩᠭᠠᠬᠣ</unicode>
+      <uighur>čangγaqu</uighur>
+      <cyrillic>цангах</cyrillic>
+      <transcript>CANGΓA-</transcript>
+      <definition>v.i. To be[come] thirsty; to be[come] dried up.</definition>
+      <page>164</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠮᠠ ᠴᠠᠩᠭᠠᠬᠣ</unicode>
+          <transcript>ama --xu</transcript>
+          <definition> To be thirsty.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠠᠩᠭᠠᠬᠤᠢ</unicode>
+      <definition>grande soif.</definition>
+      <page>2079</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠩᠭᠠᠬᠤ</unicode>
+      <cyrillic>цангах</cyrillic>
+      <definition>〔动〕口干，渴，干渴.</definition>
+      <page>1518</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠩᠭᠠᠬᠣ</unicode>
+      <cyrillic>ЦАНГАХ</cyrillic>
+      <definition>1. испытывать жажду, томиться жаждой; жаждать; миний ам их цангаж байв я испытывал сильную жажду; 2. цангахуй-г үз., тэсгэлгүй цангах неутолимая жажда. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠩᠭᠠᠬᠣ</unicode>
+      <cyrillic>ЦАНГАХУЙ</cyrillic>
+      <definition>жажда. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цангах</cyrillic>
+      <definition>durstig werden, dürsten; ам ~ Durst haben; миний ам цангаж байна ich habe Durst; цангаж үхэх verdursten</definition>
+      <page>352</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠩᠭᠠᠬᠤ</unicode>
+      <cyrillic>цангах</cyrillic>
+      <definition>ундаасах, унд хүсэх; ам цангаад айлд орж хүйтэн цай уув.</definition>
+      <page>782</page>
+    </entry_item>
+  </entries>
+</entry>

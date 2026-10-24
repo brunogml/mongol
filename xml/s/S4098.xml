@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4098">
+  <head>
+    <unicode>ᠰᠢᠮᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>simalaγulqu</transcript>
+    <transcript2>simalagolgo</transcript2>
+    <cyrillic>шамлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S4097</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠮᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шамлуулах</cyrillic>
+      <definition>〔动〕шамлах 的使动态.</definition>
+      <page>1617</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠮᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАМЛУУЛАХ</cyrillic>
+      <definition>шамлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шамлуулах</cyrillic>
+      <definition>Kaus von шамлах</definition>
+      <page>380</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠮᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шамлуулах</cyrillic>
+      <definition>шамлахын үйлдүүлэх хэв.</definition>
+      <page>835</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2840">
+  <head>
+    <unicode>ᠲᠠᠷᠪᠠᠭᠠᠴᠠᠭ᠎ᠠ</unicode>
+    <transcript>tarbaγačaγ-a</transcript>
+    <transcript2>darbagacaga</transcript2>
+    <cyrillic>тарвагацаа</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠷᠪᠠᠭᠠᠴᠠᠭ᠎ᠠ</unicode>
+      <cyrillic>тарвагацаа</cyrillic>
+      <definition>〔名〕（儿童们玩的）旱濑游戏.</definition>
+      <page>1029</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠷᠪᠠᠭᠠᠴᠠᠭ᠎ᠠ</unicode>
+      <cyrillic>ТАРВАГАЦАА</cyrillic>
+      <definition>название детской игры в тарбаганов (один становится волком, остальные – тарбаганами). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠷᠪᠠᠭᠠᠴᠠᠭ᠎ᠠ</unicode>
+      <cyrillic>тарвагацаа</cyrillic>
+      <definition>тарвага болж тоглох хүүхдийн тоглоом.</definition>
+      <page>522</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T2842</ref>
+  </related_to>
+</entry>

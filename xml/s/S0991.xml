@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S0991">
+  <head>
+    <unicode>ᠰᠠᠯᠣᠰᠢ</unicode>
+    <transcript>salusi</transcript>
+    <transcript2>salosi</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠯᠣᠰᠢ</unicode>
+      <uighur>salosi</uighur>
+      <transcript>SALUSI</transcript>
+      <page>666</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠯᠣᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- gei</transcript>
+          <definition> Inseparable, indissoluble, indivisible, integral</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠯᠣᠰᠢ ᠦᠭᠡᠢ ᠺᠡᠰᠡᠭ</unicode>
+          <transcript>-- ygei keseg</transcript>
+          <definition> Integral piece or part.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠠᠯᠣᠰᠢ ᠦᠭᠡᠢ</unicode>
+      <definition>inseparable, indissoluble, indivisible</definition>
+      <page>1309</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠰᠠᠯᠣᠰᠢ</unicode>
+      <uighur>salosi</uighur>
+      <definition>Inseparable.</definition>
+      <page>1380</page>
+    </entry_item>
+  </entries>
+</entry>

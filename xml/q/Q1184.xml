@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1184">
+  <head>
+    <unicode>ᠬᠠᠪᠲᠠᠰᠣᠵᠢᠬᠣ</unicode>
+    <transcript>qabtasuǰiqu</transcript>
+    <transcript2>gabdasocigo</transcript2>
+    <cyrillic>хавтасжих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q1185</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠪᠲᠠᠰᠤᠵᠢᠬᠤ</unicode>
+      <cyrillic>хавтасжих</cyrillic>
+      <definition>〔动〕①加上封皮；装订；②存入纸夹，归入卷宗；③封皮富裕；纸夹充足.</definition>
+      <page>1264</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠪᠲᠠᠰᠣᠵᠢᠬᠣ</unicode>
+      <cyrillic>ХАВТАСЖИХ</cyrillic>
+      <definition>оказываться в большом количестве (о папках и т.п.). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠪᠲᠠᠰᠤᠵᠢᠬᠤ</unicode>
+      <cyrillic>хавтасжих</cyrillic>
+      <definition>хавтастай болох, хавтсаар элбэг болох.</definition>
+      <page>635</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q1174</ref>
+  </related_to>
+</entry>

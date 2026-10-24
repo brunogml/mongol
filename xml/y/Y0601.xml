@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0601">
+  <head>
+    <unicode>ᠵᠠᠬᠪᠣᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰaqburdaγulqu</transcript>
+    <transcript2>yagbordagolgo</transcript2>
+    <cyrillic>загвардуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y0600</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠭᠪᠤᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>загвардуулах</cyrillic>
+      <definition>〔动〕загвардах 的使动态.</definition>
+      <page>528</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠬᠪᠣᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗАГВАРДУУЛАХ</cyrillic>
+      <definition>загвардах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠭᠪᠤᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>загвардуулах</cyrillic>
+      <definition>загвардахын үйлдүүлэх хэв.</definition>
+      <page>258</page>
+    </entry_item>
+  </entries>
+</entry>

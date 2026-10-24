@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E1000">
+  <head>
+    <unicode>ᠡᠯᠴᠢᠲᠦ</unicode>
+    <transcript>elčitü</transcript>
+    <transcript2>elcidö</transcript2>
+    <cyrillic>элчит</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠯᠴᠢᠲᠦ</unicode>
+      <cyrillic>элчит</cyrillic>
+      <definition>〔形〕参见 элчтэй.</definition>
+      <page>1692</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠯᠴᠢᠲᠦ</unicode>
+      <cyrillic>элчит</cyrillic>
+      <definition>элч бий; элчит түлш; элчит тэрэг; элчит тэрэгний машинч.</definition>
+      <page>874</page>
+    </entry_item>
+  </entries>
+</entry>

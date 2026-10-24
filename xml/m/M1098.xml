@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1098">
+  <head>
+    <unicode>ᠮᠠᠯᠲᠠᠯᠵᠠᠺᠥ</unicode>
+    <transcript>meltelǰekü</transcript>
+    <transcript2>meldelcegö</transcript2>
+    <cyrillic>мэлтэлзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M1099</ref>
+    <ref>M1097</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠡᠯᠲᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>мэлтэлзэх</cyrillic>
+      <definition>〔动〕（液体在容器里）满盈而晃动，水汪汪.</definition>
+      <page>705</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠯᠲᠠᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>МЭЛТЭЛЗЭХ</cyrillic>
+      <definition>переливаться, быть полным до краёв (о посудине). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠡᠯᠲᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>мэлтэлзэх</cyrillic>
+      <definition>шингэн юм саванд бялхан дүүрч бага зэрэг долгилох; алтан амтай хундагад нь, амсар дүүрэн мэлтэлзүүлж&lt;ерөөл&gt;; алст тэнгэсийн ус мэлтэлзэн цэнхэртэнэ.</definition>
+      <page>355</page>
+    </entry_item>
+  </entries>
+</entry>

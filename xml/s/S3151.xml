@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3151">
+  <head>
+    <unicode>ᠰᠢᠨᠵᠢᠺᠥ</unicode>
+    <transcript>sinǰikü</transcript>
+    <transcript2>sincigö</transcript2>
+    <cyrillic>шинжих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3152</ref>
+    <ref>S3154</ref>
+    <ref>S3149</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠨᠵᠢᠺᠥ</unicode>
+      <uighur>sinǰikü</uighur>
+      <cyrillic>шинжих</cyrillic>
+      <transcript>SINZI-</transcript>
+      <definition>v. t. To look over carefully, examine, observe, inspect.</definition>
+      <page>714</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠨᠵᠢᠨ ᠦᠵᠡᠺᠦ</unicode>
+          <transcript>--n yzeky</transcript>
+          <definition> To look over carefully, examine, inspect.</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠠᠵᠠᠷ ᠰᠢᠨᠵᠢᠺᠥ</unicode>
+          <transcript>γazar --ky</transcript>
+          <definition> To examine or inspect a place or plot of land; to determine the fitness of land by divination.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠨᠵᠢᠬᠦ</unicode>
+      <cyrillic>шинжих</cyrillic>
+      <definition>〔动〕①参见 шинжлэх : ~н турших 实验；~ танхим 实验室；②算命，卜凶，吉占卜，相面，看手相.</definition>
+      <page>1638</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠨᠵᠢᠺᠥ</unicode>
+      <cyrillic>ШИНЖИХ</cyrillic>
+      <definition>исследовать, изучать, наблюдать, рассматривать; доискиваться, следить, выслеживать; задлан шинжих а) анализировать; б) вскрывать (о судебном вскрытии); нөхрөө нөхрөөр нь шинж зүйр. друга по его друзьям познавай; хянан шинжих расследовать, рассматривать; царай шинжих следить, наблюдать за выражением лица; шинжин олох доискаться, установить путём исследования; зөвөөр шинжин олох правильно (учесть) учитывать, установить путём правильного исследования; шинжин үзэх учитывать; анализировать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шинжих</cyrillic>
+      <definition>1. untersuchen, begutachten; газар нутаг ~ das Territorium untersuchen; задлан ~ analysieren; шинжин турших experimentieren
+2. alt wahrsagen</definition>
+      <page>386</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠨᠵᠢᠬᠦ</unicode>
+      <cyrillic>шинжих</cyrillic>
+      <definition>1. шинжлэх; аршаан ус шинжих;2. сүсэг бишрэлийн үүднээс хүний хувь учралыг зөгнөх.</definition>
+      <page>849</page>
+    </entry_item>
+  </entries>
+</entry>

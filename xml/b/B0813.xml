@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0813">
+  <head>
+    <unicode>ᠪᠠᠯᠠᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>balardaγulqu</transcript>
+    <transcript2>balardagolgo</transcript2>
+    <cyrillic>балардуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B0811</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠯᠠᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>балардуулах</cyrillic>
+      <definition>〔动〕балардах 的使动态.</definition>
+      <page>121</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠯᠠᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БАЛАРДУУЛАХ</cyrillic>
+      <definition>балардах-ын үйлдүүл., вуалировать.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠯᠠᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>балардуулах</cyrillic>
+      <definition>балардахын үйлдүүлэх хэв.</definition>
+      <page>70</page>
+    </entry_item>
+  </entries>
+</entry>

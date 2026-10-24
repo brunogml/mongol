@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C3295">
+  <head>
+    <unicode>ᠴᠣᠷᠢ</unicode>
+    <transcript>čori</transcript>
+    <transcript2>cori</transcript2>
+    <cyrillic>цор</cyrillic>
+  </head><see_also>
+    <ref>C3288</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠣᠷᠢ</unicode>
+      <uighur>čori</uighur>
+      <cyrillic>цор</cyrillic>
+      <transcript>CORI</transcript>
+      <definition>adj. and adv. Alone, sole, solitary, single, only one.</definition>
+      <page>199</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠣᠷᠢ ᠭᠠᠭᠴᠠ</unicode>
+          <transcript>-- γaγca</transcript>
+          <definition>Only one, solitary, unique.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠣᠷᠢ ᠎ᠶᠢᠨ ᠭᠠᠨᠴᠠ</unicode>
+          <transcript>-- jin γanca</transcript>
+          <definition>Only one, solitary, unique.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠷᠢ</unicode>
+      <cyrillic>ЦОР</cyrillic>
+      <definition>II: цор ганц / цорын ганц совершенно один, только один; единственный, уникальный; цорын ганц арга единственный способ; цорын ганц гар бичмэл уникальная рукопись; цорын ганц юм уникум; уникальная вещь.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠣᠷᠢ ᠭᠠᠭᠴᠠ</unicode>
+      <definition>seul, solitaire, unique, tout seul</definition>
+      <page>2220</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠣᠷᠢ ᠭᠠᠭᠴᠠ ᠦᠰᠦᠨ</unicode>
+          <definition>un seul cheveux</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠣᠷᠢ ᠭᠠᠭᠴᠠ ᠡᠪᠡᠰᠦᠨ</unicode>
+          <definition>un seul brin d'herbe</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8258">
+  <head>
+    <unicode>ᠳᠥᠩᠰᠠ</unicode>
+    <transcript>düngse</transcript>
+    <transcript2>döngse</transcript2>
+    <cyrillic>дүнс</cyrillic>
+  </head>
+  <see_also>
+    <ref>T8258a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠥᠩᠰᠠ ~ ᠳᠦᠩᠰᠡᠨ</unicode>
+      <uighur>düngse - düngsen</uighur>
+      <cyrillic>дүнс(эн)</cyrillic>
+      <transcript>DYNGSE(N)</transcript>
+      <definition>n. Pipe tobacco.</definition>
+      <page>281</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠥᠩᠰᠠᠨ ᠲᠠᠮᠢᠺᠢ</unicode>
+          <transcript>--n tamiki</transcript>
+          <definition> Pipe tobacco.</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠣᠭᠤᠭᠠᠨ ᠳᠥᠩᠰᠠ</unicode>
+          <transcript>noγuγan -- </transcript>
+          <definition> Chinese tobacco.</definition>
+        </example>
+        <example>
+          <unicode>ᠤᠯᠠᠭᠠᠨ ᠳᠥᠩᠰᠠ</unicode>
+          <transcript>ulaγan -- </transcript>
+          <definition> Russian tobacco.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠥᠩᠰᠠ</unicode>
+      <cyrillic>ДҮНС(ЭН)</cyrillic>
+      <definition>хя. трубочный табак; ногоон дүнс яриа. китайский трубочный табак (үгчил. зелёный табак); улаан дүнс яриа. русский трубочный табак (үгчил. красный табак); дүнсэн тамхи трубочный табак. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дүнс[эн]</cyrillic>
+      <definition>Pfeifentabak m; ногоон ~ umg chinesischer Tabak (wörtl grüner Tabak); улаан ~ umg russischer Tabak (wörtl roter Tabak)</definition>
+      <page>101</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳ᠋ᠦᠩᠰᠡ</unicode>
+      <cyrillic>дүнс</cyrillic>
+      <definition>тамхины ургамал, гаансанд хийж татна.</definition>
+      <page>217</page>
+    </entry_item>
+  </entries>
+</entry>

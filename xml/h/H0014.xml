@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="H0014">
+  <head>
+    <transcript>hrom</transcript>
+    <transcript2>hrom</transcript2>
+    <cyrillic>хром(он)</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ХРОМ</cyrillic>
+      <definition>I хувил. хром. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ХРОМ(ОН)</cyrillic>
+      <definition>II 1. хром (кожа); 2. хромовый; хромон гутал хромовые сапоги. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠷᠣᠮ</unicode>
+      <cyrillic>хром /1</cyrillic>
+      <definition>химийн махбод, хатуу болоод өнгөлөг төмөрлөг.</definition>
+      <page>720</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠷᠣᠮ</unicode>
+      <cyrillic>хром /2</cyrillic>
+      <definition>торгон савхи; хромон гутал.</definition>
+      <page>720</page>
+    </entry_item>
+  </entries>
+</entry>

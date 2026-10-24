@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3945">
+  <head>
+    <unicode>ᠰᠢᠯᠭᠠᠭᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>silγaγaγdaqu</transcript>
+    <transcript2>silgagagdago</transcript2>
+    <cyrillic>шалгаагдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S3944</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠯᠭᠠᠭᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>шалгаагдах</cyrillic>
+      <definition>〔动〕шалгаах 的被动态.</definition>
+      <page>1611</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠯᠭᠠᠭᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ШАЛГААГДАХ</cyrillic>
+      <definition>шалгаах-ын үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠯᠭᠠᠭᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>шалгаагдах</cyrillic>
+      <definition>шалгаахын үйлдэгдэх хэв, байцаагдах.</definition>
+      <page>832</page>
+    </entry_item>
+  </entries>
+</entry>

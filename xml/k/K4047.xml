@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4047">
+  <head>
+    <unicode>ᠺᠥᠯᠥᠰᠥᠯᠡᠺᠴᠢ</unicode>
+    <transcript>kölüsülegči</transcript>
+    <transcript2>gölösölegci</transcript2>
+    <cyrillic>хөлслөгч</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠯᠥᠰᠥᠯᠡᠭᠴᠢ</unicode>
+      <cyrillic>хөлслөгч</cyrillic>
+      <definition>〔形・名〕①出租的；②承租人，租户；雇主：~ этгээд 租借人，雇主，雇方.</definition>
+      <page>1396</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠯᠥᠰᠥᠯᠡᠺᠴᠢ</unicode>
+      <cyrillic>ХӨЛСЛӨГЧ</cyrillic>
+      <definition>1) отдающий внаём, внаймы; 2) наниматель; съёмщик; байр хөлслөгч квартирант, съёмщик квартиры; байр хөлслөгч эмэгтэй квартирантка. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠯᠥᠰᠥᠯᠡᠭᠴᠢ</unicode>
+      <cyrillic>хөлслөгч</cyrillic>
+      <definition>хөлсөөр хэрэглэгч; хөлслөгч этгээд.</definition>
+      <page>709</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>K4044</ref>
+  </related_to>
+</entry>

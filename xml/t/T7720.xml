@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T7720">
+  <head>
+    <unicode>ᠳᠣᠷᠣᠨᠠᠳᠠᠺᠢ</unicode>
+    <transcript>dorunadaki</transcript>
+    <transcript2>doronadagi</transcript2>
+    <cyrillic>дорнодахи</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠣᠷᠣᠨᠠᠳᠠᠺᠢᠨ</unicode>
+      <uighur>dorunadakin</uighur>
+      <cyrillic>дорнодахин</cyrillic>
+      <transcript>DORUNADAKIN</transcript>
+      <definition>n. The East.</definition>
+      <page>263</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠣᠷᠣᠨᠠᠳᠠᠺᠢᠨ ᠢ ᠰᠢᠨᠵᠢᠯᠡᠺᠦ ᠤᠬᠠᠭᠠᠨ</unicode>
+          <transcript>-- i sinzileky uxaγan</transcript>
+          <definition> Oriental studies.</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠣᠷᠣᠨᠠᠳᠠᠺᠢᠨ ᠤ</unicode>
+          <transcript>-- u</transcript>
+          <definition> Eastern.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠷᠣᠨᠠᠳᠠᠺᠢ</unicode>
+      <definition>qui se trouve à l&apos;orient</definition>
+      <page>1887</page>
+    </entry_item>
+  </entries>
+</entry>

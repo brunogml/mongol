@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I0262">
+  <head>
+    <unicode>ᠢᠰᠥᠲᠥᠺᠥᠯᠺᠥ</unicode>
+    <transcript>isütügülkü</transcript>
+    <transcript2>isödögölgö</transcript2>
+    <cyrillic>истүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>I0261</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠰᠦᠲᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>истүүлэх</cyrillic>
+      <definition>〔动〕истэх 的使动态.</definition>
+      <page>622</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠰᠥᠲᠥᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ИСТҮҮЛЭХ</cyrillic>
+      <definition>истэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠰᠦᠲᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>истүүлэх</cyrillic>
+      <definition>истэхийн үйлдүүлэх хэв.</definition>
+      <page>309</page>
+    </entry_item>
+  </entries>
+</entry>

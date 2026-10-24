@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3019">
+  <head>
+    <unicode>ᠵᠢᠯᠢᠢᠳᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ǰiliidegülkü</transcript>
+    <transcript2>yiliidegölgö</transcript2>
+    <cyrillic>жилийдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y3018</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠯᠢᠢᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>жилийдүүлэх</cyrillic>
+      <definition>〔动〕жилийдэх 的使动态.</definition>
+      <page>509</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠯᠢᠢᠳᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЖИЛИЙДҮҮЛЭХ</cyrillic>
+      <definition>жилийдэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠯᠢᠢᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>жилийдүүлэх</cyrillic>
+      <definition>жилийдэхийн үйлдүүлэх хэв.</definition>
+      <page>246</page>
+    </entry_item>
+  </entries>
+</entry>

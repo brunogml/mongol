@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1496">
+  <head>
+    <unicode>ᠵᠠᠺᠢᠳᠠᠯ</unicode>
+    <transcript>ǰakidal</transcript>
+    <transcript2>yagidal</transcript2>
+    <cyrillic>захидал</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠠᠺᠢᠳᠠᠯ</unicode>
+      <uighur>ǰakidal</uighur>
+      <cyrillic>захидал</cyrillic>
+      <transcript>ZAKIDAL</transcript>
+      <definition>n. Order, charge; instructions; advice; letter, missive; correspondence.</definition>
+      <page>1028</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠠᠺᠢᠳᠠᠯ ᠪᠢᠴᠢᠭ</unicode>
+          <transcript>-- bicig</transcript>
+          <definition> Letters, correspondence.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠯᠪᠠᠨ ᠵᠠᠺᠢᠳᠠᠯ</unicode>
+          <transcript>alban -- </transcript>
+          <definition> Official letter.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠮᠢᠨ ᠤ ᠵᠠᠺᠢᠳᠠᠯ</unicode>
+          <transcript>amin u -- </transcript>
+          <definition> Private letter.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠬᠢᠳᠠᠯ</unicode>
+      <cyrillic>захидал</cyrillic>
+      <definition>〔名〕信：албан ~ 公函；хувийн ~ 禾人人信件；ил захидлын хуудас 明信片；ил ~ 公开信；明信；шуудангаар ~ явуулах 邮信，寄信；~ бичгийн найруулга 文赎体.</definition>
+      <page>552</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠺᠢᠳᠠᠯ</unicode>
+      <cyrillic>ЗАХИДАЛ</cyrillic>
+      <definition>письмо; албаны захидал казённый пакет; баталгаатай захидал заказное письмо; ил захидал открытка; хувийн захидал частное письмо; личная переписка; захидал задлах вскрывать письмо; захидал солилцох переписка; корреспонденция; шуудангаар захидал явуулах отправлять письмо почтой. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>захидал</cyrillic>
+      <definition>Brief m; харилцаа[н] Korrespondenz f</definition>
+      <page>119</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠬᠢᠳᠠᠯ</unicode>
+      <cyrillic>захидал</cyrillic>
+      <definition>албан газар буюу хүмүүсийн хоорондын харилцааны захиа; албан захидал; хувийн захидал.</definition>
+      <page>271</page>
+    </entry_item>
+  </entries>
+</entry>

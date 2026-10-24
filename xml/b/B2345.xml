@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2345">
+  <head>
+    <unicode>ᠪᠢᠯᠳᠠᠬᠣ</unicode>
+    <transcript>bildaqu</transcript>
+    <transcript2>bildago</transcript2>
+    <cyrillic>бялдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B2346</ref>
+    <ref>B2353</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠢᠯᠳᠠᠬᠣ</unicode>
+      <uighur>bildaqu</uighur>
+      <cyrillic>бялдах</cyrillic>
+      <transcript>BILDA-</transcript>
+      <definition>v.t. To smear on, spread, apply..</definition>
+      <page>104</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠠᠷ ᠢᠶᠠᠨ ᠪᠤᠳᠤᠬ ᠢᠶᠠᠷ ᠪᠢᠯᠳᠠᠬᠣ</unicode>
+          <transcript>γar ijen buduγ ijer --xu</transcript>
+          <definition> To soil one's hands with paint.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠢᠯᠳᠠᠬᠤ</unicode>
+      <definition>être sale, imbibé d'huile, induit de colle. 2 mettre de la colle sur un arc, sur une flèche, etc. , coller.</definition>
+      <page>1145</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠪᠢᠯᠳᠠᠬᠣ</unicode>
+      <uighur>bildaqu</uighur>
+      <definition>To get besmeared, dirty or greasy.</definition>
+      <page>427</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠢᠯᠳᠠᠬᠤ</unicode>
+      <cyrillic>бялдах</cyrillic>
+      <definition>〔动〕涂，抹.</definition>
+      <page>251</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠢᠯᠳᠠᠬᠣ</unicode>
+      <cyrillic>БЯЛДАХ</cyrillic>
+      <definition>1. намазывать, обмазывать, смазывать (напр. клеем, маслом); засалить, замаслить; цавуу бялдах намазать клеем; шавар бялдах смазывать глиной; 2. бялдахуй-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠢᠯᠳᠠᠬᠣ</unicode>
+      <cyrillic>БЯЛДАХУЙ</cyrillic>
+      <definition>намазывание, обмазывание, смазывание.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бялдах</cyrillic>
+      <definition>= бялах</definition>
+      <page>69</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠢᠯᠳᠠᠬᠤ</unicode>
+      <cyrillic>бялдах</cyrillic>
+      <definition>нялж түрхэх; тос бялдах; цавуу бялдах.</definition>
+      <page>125</page>
+    </entry_item>
+  </entries>
+</entry>

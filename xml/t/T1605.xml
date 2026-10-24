@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T1605">
+  <head>
+    <unicode>ᠲᠠᠲᠠᠷᠢ</unicode>
+    <transcript>tatari</transcript>
+    <transcript2>dadari</transcript2>
+    <cyrillic>татарь</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠲᠠᠷᠢ</unicode>
+      <uighur>tadari</uighur>
+      <transcript>TATARI</transcript>
+      <definition>n. Tax, duty, impost.</definition>
+      <page>788</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠲᠠᠷᠢ ᠲᠠᠲᠠᠬᠤ</unicode>
+          <transcript>-- tataxu</transcript>
+          <definition> To collect taxes, imposts.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠳᠠᠷᠢ</unicode>
+      <definition>tribut , impôt,</definition>
+      <page>1628</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠳᠠᠷᠢ ᠲᠠᠳᠠᠬᠤ</unicode>
+          <definition>prélever les impôts</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠲᠠᠷᠢ</unicode>
+      <uighur>dadari</uighur>
+      <definition>Krons - oder Gemeindeabgaben oder Gebühren.</definition>
+      <page>236</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠲᠠᠷᠢ</unicode>
+      <uighur>tadari</uighur>
+      <definition>n. Municipal taxes.</definition>
+      <page>929</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠲᠠᠷᠢ</unicode>
+      <uighur>tadari dadaqu</uighur>
+      <definition>v.t. To collect municipal taxes.</definition>
+      <page>929</page>
+    </entry_item>
+  </entries>
+</entry>

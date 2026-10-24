@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0162">
+  <head>
+    <unicode>ᠱᠠᠨᠵᠠᠯᠠᠬᠣ</unicode>
+    <transcript>šanǰalaqu</transcript>
+    <transcript2>sancalago</transcript2>
+    <cyrillic>шанзлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S0163</ref>
+    <ref>S0164</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠱᠠᠨᠵᠠᠯᠠᠬᠤ</unicode>
+      <definition>poursuivre (l'ennemi l'épée dans le dos).</definition>
+      <page>1441</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠶᠠᠨᠽᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>шанзлах</cyrillic>
+      <definition>〔动〕调馅子.</definition>
+      <page>1619</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠨᠵᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ШАНЗЛАХ</cyrillic>
+      <definition>приготовлять фарш, фаршировать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шанзлах</cyrillic>
+      <definition>Speise füllen, mit einer Füllung versehen</definition>
+      <page>380</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠨᠵᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>шанзлах</cyrillic>
+      <definition>шанз идээ найруулах.</definition>
+      <page>837</page>
+    </entry_item>
+  </entries>
+</entry>

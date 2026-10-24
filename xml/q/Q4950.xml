@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4950">
+  <head>
+    <unicode>ᠭᠣᠪᠴᠢᠭᠣᠷᠳᠠᠬᠣ</unicode>
+    <transcript>γobčiγurdaqu</transcript>
+    <transcript2>gobcigordago</transcript2>
+    <cyrillic>говчуурдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q4952</ref>
+    <ref>Q4954</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q4949</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠤᠪᠴᠤᠤᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>говчуурдах</cyrillic>
+      <definition>〔动〕（下拖网，拦河网）捕鱼.</definition>
+      <page>299</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠪᠴᠢᠭᠣᠷᠳᠠᠬᠣ</unicode>
+      <cyrillic>ГОВЧУУРДАХ</cyrillic>
+      <definition>ловить рыбу неводом; неводить; тралить. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠤᠪᠴᠤᠤᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>говчуурдах</cyrillic>
+      <definition>говчуураар загас барих.</definition>
+      <page>146</page>
+    </entry_item>
+  </entries>
+</entry>

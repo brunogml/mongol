@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q5212">
+  <head>
+    <unicode>ᠭᠣᠳᠣᠩᠲᠣᠬᠣ</unicode>
+    <transcript>γodungtuqu</transcript>
+    <transcript2>godongdogo</transcript2>
+    <cyrillic>годонтох</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠣᠳᠣᠩᠲᠣᠬᠤ</unicode>
+      <cyrillic>годонтох</cyrillic>
+      <definition>〔动〕（山羊）得瘟病，染瘟.</definition>
+      <page>301</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠳᠣᠩᠲᠣᠬᠣ</unicode>
+      <cyrillic>ГОДОНТОХ</cyrillic>
+      <definition>болеть чумой (о козах); годронтох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠣᠳᠣᠩᠲᠣᠬᠤ</unicode>
+      <cyrillic>годонтох</cyrillic>
+      <definition>годронтох.</definition>
+      <page>147</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q5210</ref>
+  </related_to>
+</entry>

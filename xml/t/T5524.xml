@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5524">
+  <head>
+    <unicode>ᠳᠣᠩᠰᠢᠭᠣᠴᠢᠯᠠᠬᠣ</unicode>
+    <transcript>dongsiγučilaqu</transcript>
+    <transcript2>dongsigocilago</transcript2>
+    <cyrillic>доншуучлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T5525</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠣᠩᠰᠢᠭᠤᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>доншуучлах</cyrillic>
+      <definition>〔动〕参见 доншуурчлах.</definition>
+      <page>417</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠩᠰᠢᠭᠣᠴᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ДОНШУУЧЛАХ</cyrillic>
+      <definition>шляться, бродить без дела. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠣᠩᠰᠢᠭᠤᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>доншуучлах</cyrillic>
+      <definition>дэмий айл хэсүүчлэх, тэнэж тойрч явах; хэдэн долоо хоног доншуучилж явав гэнэ.</definition>
+      <page>200</page>
+    </entry_item>
+  </entries>
+</entry>

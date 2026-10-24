@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6926">
+  <head>
+    <unicode>ᠰᠥᠺᠥᠷᠠᠺᠠᠺᠥ</unicode>
+    <transcript>söküregekü</transcript>
+    <transcript2>sögöregegö</transcript2>
+    <cyrillic>сөхөргөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6925</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠥᠬᠥᠷᠡᠭᠡᠬᠦ</unicode>
+      <cyrillic>сөхөргөх</cyrillic>
+      <definition>〔动〕сөхрөх 的使动态.</definition>
+      <page>950</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠥᠺᠥᠷᠠᠺᠠᠺᠥ</unicode>
+      <cyrillic>СӨХӨРГӨХ</cyrillic>
+      <definition>сөхрүүлэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠥᠬᠥᠷᠡᠭᠡᠬᠦ</unicode>
+      <cyrillic>сөхөргөх</cyrillic>
+      <definition>сөхрөхөд хүрүүлэх, сөхрүүлэх.</definition>
+      <page>484</page>
+    </entry_item>
+  </entries>
+</entry>

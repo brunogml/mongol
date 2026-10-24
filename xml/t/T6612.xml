@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6612">
+  <head>
+    <unicode>ᠳᠣᠲᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>dutaγulqu</transcript>
+    <transcript2>dodagolgo</transcript2>
+    <cyrillic>дутуулах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T6615</ref>
+  </derivatives>
+  <related_to>
+    <ref>T6605</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠤᠲᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дутуулах</cyrillic>
+      <definition>〔动〕дутах 的使动态.</definition>
+      <page>446</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠲᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДУТУУЛАХ</cyrillic>
+      <definition>дутах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠤᠲᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дутуулах</cyrillic>
+      <definition>дутахын үйлдүүлэх хэв, дутахад хүрүүлэх.</definition>
+      <page>213</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A0120">
+  <head>
+    <unicode>ᠠᠨᠢᠪᠴᠢᠯᠠᠬᠤ</unicode>
+    <transcript>anibčilaqu</transcript>
+    <transcript2>anibcilago</transcript2>
+    <cyrillic>анивчлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>A0121</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠨᠢᠪᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>анивчлах</cyrillic>
+      <definition>〔动〕анивчих 的多次体.</definition>
+      <page>64</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠨᠢᠪᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>АНИВЧЛАХ</cyrillic>
+      <definition>аних–ын олонтаа., часто моргать, мигать.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>анивчлах</cyrillic>
+      <definition>= анивчих</definition>
+      <page>32</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠨᠢᠪᠴᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>анивчлах</cyrillic>
+      <definition>дахин дахин анивчих.</definition>
+      <page>45</page>
+    </entry_item>
+  </entries>
+</entry>

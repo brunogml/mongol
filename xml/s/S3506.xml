@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3506">
+  <head>
+    <unicode>ᠰᠢᠪᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>sibenegülkü</transcript>
+    <transcript2>sibenegölgö</transcript2>
+    <cyrillic>шивнүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S3505</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠪᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>шивнүүлэх</cyrillic>
+      <definition>〔动〕шивнэх 的使动态.</definition>
+      <page>1627</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠪᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ШИВНҮҮЛЭХ</cyrillic>
+      <definition>шивнэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шивнүүлэх</cyrillic>
+      <definition>Kaus von шивнэх</definition>
+      <page>383</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠪᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>шивнүүлэх</cyrillic>
+      <definition>шивнэхийн үйлдүүлэх хэв.</definition>
+      <page>842</page>
+    </entry_item>
+  </entries>
+</entry>

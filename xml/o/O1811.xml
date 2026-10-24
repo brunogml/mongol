@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1811">
+  <head>
+    <unicode>ᠥᠶᠥᠺᠳᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>öyögdegülkü</transcript>
+    <transcript2>öyögdegölgö</transcript2>
+    <cyrillic>өегдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>O1810</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠶᠥᠭᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өегдүүлэх</cyrillic>
+      <definition>〔动〕өегдөх 的使动态.</definition>
+      <page>838</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠶᠥᠺᠳᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ӨЕГДҮҮЛЭХ</cyrillic>
+      <definition>өегдөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠶᠥᠭᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өегдүүлэх</cyrillic>
+      <definition>өегдэхийн үйлдүүлэх хэв.</definition>
+      <page>433</page>
+    </entry_item>
+  </entries>
+</entry>

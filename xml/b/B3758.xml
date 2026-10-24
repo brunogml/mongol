@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B3758">
+  <head>
+    <unicode>ᠪᠣᠺᠢᠨᠳᠠᠬᠣ</unicode>
+    <transcript>bokindaqu</transcript>
+    <transcript2>bogindago</transcript2>
+    <cyrillic>бохиндох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B3760</ref>
+  </derivatives>
+  <see_also>
+    <ref>B3759</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠣᠬᠢᠨᠢᠳᠣᠬᠤ</unicode>
+      <cyrillic>бохиндох</cyrillic>
+      <definition>〔动〕焦躁不安，焦急，烦躁：ажилдаа ~ 工作中焦急不安.</definition>
+      <page>181</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠺᠢᠨᠳᠠᠬᠣ</unicode>
+      <cyrillic>БОХИНДОХ</cyrillic>
+      <definition>нервничать; бухимдах-ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бохиндох</cyrillic>
+      <definition>= бухимдах</definition>
+      <page>57</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠣᠬᠢᠨᠢᠳᠣᠬᠤ</unicode>
+      <cyrillic>бохиндох</cyrillic>
+      <definition>бачимдах, тэвдэх; ажилдаа бохиндох.</definition>
+      <page>95</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="E0460">
+  <head>
+    <unicode>ᠡᠪᠯᠡᠷᠡᠰᠢ</unicode>
+    <transcript>ebleresi</transcript>
+    <transcript2>ebleresi</transcript2>
+    <cyrillic>эвлэрш</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠪᠯᠠᠷᠠᠰᠢ</unicode>
+      <uighur>ebleresi</uighur>
+      <cyrillic>эвлэрш</cyrillic>
+      <transcript>EBLERESI</transcript>
+      <page>289</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠪᠯᠠᠷᠠᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Incompatible, irreconcilable.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠪᠯᠠᠷᠠᠰᠢ ᠦᠭᠡᠢ ᠳᠠᠶᠢᠰᠤᠨ</unicode>
+          <transcript>-- ygei daisun</transcript>
+          <definition> Implacable enemy.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠪᠯᠠᠷᠠᠰᠢ</unicode>
+      <cyrillic>ЭВЛЭРШГҮЙ</cyrillic>
+      <definition>1. непримиримый; эвлэршгүй дайсан непримиримый враг; эвлэршгүй зөрчил непримиримое противоречие; эвлэршгүй тэмцэл непримиримая борьба; 2. непримиримость; 3. непримиримо. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

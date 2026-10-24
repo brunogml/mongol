@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2435">
+  <head>
+    <unicode>ᠪᠢᠴᠢᠺᠠᠨ</unicode>
+    <transcript>bičiken</transcript>
+    <transcript2>bicigen</transcript2>
+    <cyrillic>бичхэн</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠢᠴᠢᠭᠡᠨ</unicode>
+      <definition>petit</definition>
+      <page>1150</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠢᠴᠢᠭᠡᠨ ᠨᠥᠭᠡ</unicode>
+          <definition>petit trou</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠪᠢᠴᠢᠺᠠᠨ</unicode>
+      <uighur>bičiken</uighur>
+      <definition>siehe biciqan</definition>
+      <page>109</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠢᠴᠢᠬᠡᠨ</unicode>
+      <cyrillic>бичхэн</cyrillic>
+      <definition>〔形〕较微小的；较幼小的，小小的，细小的.</definition>
+      <page>158</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠢᠴᠢᠺᠠᠨ</unicode>
+      <cyrillic>БИЧХЭН</cyrillic>
+      <definition>яриа. бяцхан-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠢᠴᠢᠬᠡᠨ</unicode>
+      <cyrillic>бичхэн</cyrillic>
+      <definition>баахан бичилхэн.</definition>
+      <page>85</page>
+    </entry_item>
+  </entries>
+</entry>

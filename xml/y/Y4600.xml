@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4600">
+  <head>
+    <unicode>ᠵᠣᠵᠠᠭᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰuǰaγadaγulqu</transcript>
+    <transcript2>yocagadagolgo</transcript2>
+    <cyrillic>зузаадуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y4599</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠤᠵᠠᠭᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зузаадуулах</cyrillic>
+      <definition>〔动〕зузаадах 的使动态.</definition>
+      <page>574</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠵᠠᠭᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗУЗААДУУЛАХ</cyrillic>
+      <definition>зузаадах-ын үйлдүүл., делать толще, чем нужно, делать слишком толстым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠤᠵᠠᠭᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зузаадуулах</cyrillic>
+      <definition>зузаадахын үйлдүүлэх хэв.</definition>
+      <page>282</page>
+    </entry_item>
+  </entries>
+</entry>

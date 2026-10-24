@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4090">
+  <head>
+    <unicode>ᠬᠣᠨᠳᠣ</unicode>
+    <transcript>qondu</transcript>
+    <transcript2>gondo</transcript2>
+    <cyrillic>хонд</cyrillic>
+  </head>
+  <see_also>
+    <ref>Q4072</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠨᠳᠣ ~ ᠬᠣᠨᠳᠣᠨ</unicode>
+      <uighur>qondu - qondun</uighur>
+      <cyrillic>хонд</cyrillic>
+      <transcript>XONDU(N)</transcript>
+      <definition>[= xongdu(n)] n. Minium, red lead, red powder</definition>
+      <page>961</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠨᠳᠣᠨ ᠤᠯᠠᠭᠠᠨ</unicode>
+          <transcript>--n ulaγan</transcript>
+          <definition> Crimson.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠨᠳᠤ ~ ᠬᠣᠩᠳᠤ</unicode>
+      <definition>le minium, poudre rouge</definition>
+      <page>868</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠨᠳᠣ</unicode>
+      <cyrillic>ХОНД</cyrillic>
+      <definition>II 1) ровная местность; 2) небольшое стойбище в ровных низменных местах; хонд бууц хорш. стойбище; мал төллөх үед хонь, үхэр тэмээнд тохирох бэлчээрийн нам тэгш газар, уужим өвөлжөө, бууц, хондонд ойртуулж сонгон ол во время расплода скота выбирайте для овец, крупного рогатого скота и верблюдов пастбища в ровных низменных местах и поближе к стойбищу. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠨᠳᠣ</unicode>
+      <cyrillic>хонд /2</cyrillic>
+      <definition>хавар намрын баахан хүйтэн цагт бог малын зэргийг арчлан буудаллах бяцхан бууц;хонд бууц&lt;хорш&gt;.</definition>
+      <page>689</page>
+    </entry_item>
+  </entries>
+</entry>

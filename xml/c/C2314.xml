@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C2314">
+  <head>
+    <unicode>ᠴᠢᠷᠠᠶᠢᠯᠠᠬᠣ</unicode>
+    <transcript>čirayilaqu</transcript>
+    <transcript2>cirayilago</transcript2>
+    <cyrillic>царайлах</cyrillic>
+  </head><derivatives>
+    <ref>C2315</ref>
+  
+    <ref>C2316</ref>
+  </derivatives><see_also>
+    <ref>C0687</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠢᠷᠠᠶᠢᠯᠠᠬᠣ</unicode>
+      <uighur>čirayilaqu</uighur>
+      <cyrillic>царайлах</cyrillic>
+      <transcript>CIRAILA-</transcript>
+      <definition>v . i. and t. To look; to look in the face; to have a certain expression on the face.</definition>
+      <page>191</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠤᠷᠤᠭᠤ ᠴᠢᠷᠠᠶᠢᠯᠠᠬᠣ</unicode>
+          <transcript>buruγu --xu</transcript>
+          <definition>To look the other way.</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠠᠭᠤ ᠴᠢᠷᠠᠶᠢᠯᠠᠬᠣ</unicode>
+          <transcript>maγu --xu</transcript>
+          <definition>To show displeasure in one's face.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠢᠷᠠᠶᠢᠯᠠᠬᠤ</unicode>
+      <definition>regarder eu face, contempler la figure (d'une personne auguste).</definition>
+      <page>2184</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠢᠳᠡᠨ ᠳ᠋‍‍ᠤ‍ᠷ ᠢᠯᠡᠷᠭᠡᠢ ᠡ ᠴᠢᠷᠠᠶᠢᠯᠠᠨ ᠦᠵᠡᠭᠳᠡᠭᠰᠡᠨ ᠮᠥᠨ</unicode>
+          <definition>il nous apparût</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠤᠷᠤᠭᠤ ᠴᠢᠷᠠᠶᠢᠯᠠᠵᠤ ᠨᠠᠮᠠᠶᠢ ᠦᠯᠦ ᠲᠠᠭᠠᠯᠠᠮᠤᠢ</unicode>
+          <definition>je ne veux pas qu'il me regarde d'un mauvais oeil (qu'il se fâche contre moi)</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠴᠢᠷᠠᠶᠢᠯᠠᠬᠣ</unicode>
+      <uighur>čirayilaqu</uighur>
+      <definition>ansehen, anschauen, ins Gesicht sehen, von Angesicht sehen</definition>
+      <page>329</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠴᠢᠷᠠᠶᠢᠯᠠᠬᠣ</unicode>
+      <uighur>čirayilaqu</uighur>
+      <definition>To look at a person. To look into the face of a person.</definition>
+      <page>1325</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠷᠠᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>царайлах</cyrillic>
+      <definition>〔动〕变脸色，显出…脸色，露出…脸色：өөд ~ 笑逐颜开；уруу ~ 沉下脸来.</definition>
+      <page>1520</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6084">
+  <head>
+    <unicode>ᠰᠣᠶᠣᠩᠭᠠᠲᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>soyungγatuγulqu</transcript>
+    <transcript2>soyonggadogolgo</transcript2>
+    <cyrillic>соёнготуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S6083</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠶᠣᠩᠭᠠᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>соёнготуулах</cyrillic>
+      <definition>〔动〕соёнготох 的使动态.</definition>
+      <page>931</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠶᠣᠩᠭᠠᠲᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>СОЁНГОТУУЛАХ</cyrillic>
+      <definition>соёнготох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠶᠣᠩᠭᠠᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>соёнготуулах</cyrillic>
+      <definition>соёнготохын үйлдүүлэх хэв.</definition>
+      <page>476</page>
+    </entry_item>
+  </entries>
+</entry>

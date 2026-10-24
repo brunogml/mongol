@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2321">
+  <head>
+    <unicode>ᠲᠠᠺᠢᠷᠯᠠᠬᠣ</unicode>
+    <transcript>takirlaqu</transcript>
+    <transcript2>dagirlago</transcript2>
+    <cyrillic>тахирлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T2322</ref>
+    <ref>T2323</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠺᠢᠷᠯᠠᠬᠣ</unicode>
+      <uighur>takirlaqu</uighur>
+      <cyrillic>тахирлах</cyrillic>
+      <transcript>TAKIRLA-</transcript>
+      <definition>v.i. To be bent, crooked, crippled, maimed.</definition>
+      <page>771</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠺᠢᠷᠯᠠᠨ ᠶᠠᠪᠤᠬᠤ</unicode>
+          <transcript>--n jabuxu</transcript>
+          <definition> To walk with a stoop (like a crippled person).</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠺᠢᠷᠯᠠᠬᠤ</unicode>
+      <definition>être courbé, recourbé, disloqué, estropié: 2 se courber, se tortiller.</definition>
+      <page>1661</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠺᠢᠷᠯᠠᠨ ᠶᠠᠪᠤᠭᠴᠢ</unicode>
+          <definition>celui qui se replie, qui se tortille</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠬᠢᠷᠯᠠᠬᠤ</unicode>
+      <cyrillic>тахирлах</cyrillic>
+      <definition>〔动〕①弯曲，弯扭；屈身：~н зурах 画得弯弯曲曲，画曲线；тахирласан талст 歪晶；тахирласан цамцаал 歪斜晶面；②蜿蜒，盘绕，蟠屈，迂回：зам ~н одов 道路蜿蜒伸向远方；③使成残疾.</definition>
+      <page>1042</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠺᠢᠷᠯᠠᠬᠣ</unicode>
+      <cyrillic>ТАХИРЛАХ</cyrillic>
+      <definition>1) искривляться; 2) извиваться (о дороге и т.п.); тахирлан явах извиваться, ползтљ извиваясь (о змее). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тахирлах</cyrillic>
+      <definition>krumm od schief werden, sich verbiegen; Straße u. ä. sich schlängeln</definition>
+      <page>223</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠬᠢᠷᠯᠠᠬᠤ</unicode>
+      <cyrillic>тахирлах</cyrillic>
+      <definition>тахир болох, тахийлгах, тахир явах; зам тахирлан одов; тахирлаж зурах.</definition>
+      <page>528</page>
+    </entry_item>
+  </entries>
+</entry>

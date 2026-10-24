@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3350">
+  <head>
+    <unicode>ᠴᠣᠷᠮᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čurmadaγulqu</transcript>
+    <transcript2>cormadagolgo</transcript2>
+    <cyrillic>цурамдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C3349</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠤᠷᠮᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цурамдуулах</cyrillic>
+      <definition>〔动〕цурамдах 的使动态.</definition>
+      <page>1550</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠷᠮᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦУРАМДУУЛАХ</cyrillic>
+      <definition>цурамдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цурамдуулах</cyrillic>
+      <definition>Kaus von цурамдах</definition>
+      <page>360</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠤᠷᠮᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цурамдуулах</cyrillic>
+      <definition>цурамдахын үйлдүүлэх хэв.</definition>
+      <page>798</page>
+    </entry_item>
+  </entries>
+</entry>

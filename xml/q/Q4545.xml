@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4545">
+  <head>
+    <unicode>ᠬᠣᠬᠣᠷᠠᠬᠣ</unicode>
+    <transcript>ququraqu</transcript>
+    <transcript2>gogorago</transcript2>
+    <cyrillic>хухрах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q4547</ref>
+    <ref>Q4553</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q4546</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠬᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>хухрах</cyrillic>
+      <definition>〔动〕辣气钻鼻.</definition>
+      <page>1447</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠬᠣᠷᠠᠬᠣ</unicode>
+      <cyrillic>ХУХРАХ</cyrillic>
+      <definition>становиться, получиться крепким (об алкоголе). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠬᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>хухрах</cyrillic>
+      <definition>хухан амттай болох.</definition>
+      <page>740</page>
+    </entry_item>
+  </entries>
+</entry>

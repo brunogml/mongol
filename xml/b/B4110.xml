@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4110">
+  <head>
+    <unicode>ᠪᠣᠷᠺᠢᠯᠳᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>burgilduγulqu</transcript>
+    <transcript2>borgildogolgo</transcript2>
+    <cyrillic>бургилуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B4109</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠤᠷᠭᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бургилуулах</cyrillic>
+      <definition>〔动〕бургилах 的使动态.</definition>
+      <page>209</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠷᠺᠢᠯᠳᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БУРГИЛУУЛАХ</cyrillic>
+      <definition>бургилах-ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠷᠭᠢᠯᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бургилуулах</cyrillic>
+      <definition>бургихын үйлдүүлэх хэв.</definition>
+      <page>108</page>
+    </entry_item>
+  </entries>
+</entry>

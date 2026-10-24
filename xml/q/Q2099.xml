@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q2099">
+  <head>
+    <unicode>ᠬᠠᠯᠪᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>qalbalǰaqu</transcript>
+    <transcript2>galbalcago</transcript2>
+    <cyrillic>халбалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q2100</ref>
+    <ref>Q2101</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠯᠪᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>халбалзах</cyrillic>
+      <definition>〔动〕参见 халбаганах.</definition>
+      <page>1286</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠯᠪᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ХАЛБАЛЗАХ</cyrillic>
+      <definition>халбаганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>халбалзах</cyrillic>
+      <definition>= халбаганах</definition>
+      <page>286</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠯᠪᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>халбалзах</cyrillic>
+      <definition>халбагар юмны байн байн хөдлөх.</definition>
+      <page>648</page>
+    </entry_item>
+  </entries>
+</entry>

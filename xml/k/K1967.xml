@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K1967">
+  <head>
+    <transcript>gitardaqu</transcript>
+    <transcript2>gidardago</transcript2>
+    <cyrillic>гитардах</cyrillic>
+  </head><derivatives>
+    <ref>K1969</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠢᠲ᠋ᠠᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>гитардах</cyrillic>
+      <definition>〔动〕弹吉他.</definition>
+      <page>296</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ГИТАРДАХ</cyrillic>
+      <definition>играть на гитаре. </definition>
+      <page>0</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>гитардах</cyrillic>
+    <definition>Gitarre spielen</definition>
+    <page>77</page>
+  </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3002">
+  <head>
+    <unicode>ᠰᠢᠨᠠᠭᠠᠯᠠᠬᠣ</unicode>
+    <transcript>sinaγalaqu</transcript>
+    <transcript2>sinagalago</transcript2>
+    <cyrillic>шанагалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3003</ref>
+    <ref>S3005</ref>
+    <ref>S3004</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠨᠠᠭᠠᠯᠠᠬᠣ</unicode>
+      <uighur>sinaγalaqu</uighur>
+      <cyrillic>шанагалах</cyrillic>
+      <transcript>SINAΓALA-</transcript>
+      <definition>v.t. To ladle</definition>
+      <page>710</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠨᠠᠭᠠᠯᠠᠨ ᠶᠠᠪᠤᠬᠤ</unicode>
+      <definition>marcher sur la croupe de la montagne côtoyer la montagne.</definition>
+      <page>1457</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠰᠢᠨᠠᠭᠠᠯᠠᠬᠣ</unicode>
+      <uighur>sinaγalaqu</uighur>
+      <definition>v.i. To go or travel along a mountain ridge.</definition>
+      <page>1416</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠨᠠᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>шанагалах</cyrillic>
+      <definition>〔动〕①用勺子舀；②用勺子舀量.</definition>
+      <page>1618</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠨᠠᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ШАНАГАЛАХ</cyrillic>
+      <definition>1) черпать, разливать разливательной ложкой, половником, ковшом; 2) мерить ковшом (как определенной меркой). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шанагалах</cyrillic>
+      <definition>[mit einer Kelle] schöpfen</definition>
+      <page>380</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠨᠠᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>шанагалах</cyrillic>
+      <definition>юмыг шанагаар хэмжих; сүү шанагалах; тариа будаа шанагалах; давс хужир шанагалах.</definition>
+      <page>836</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S2999</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6456">
+  <head>
+    <unicode>ᠲᠣᠰᠢᠩᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tosingnaγulqu</transcript>
+    <transcript2>dosingnagolgo</transcript2>
+    <cyrillic>тошигнуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T6455</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠰᠢᠩᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тошигнуулах</cyrillic>
+      <definition>〔动〕тошигнох 的使动态.</definition>
+      <page>1089</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠰᠢᠩᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТОШИГНУУЛАХ</cyrillic>
+      <definition>тошигнох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠰᠢᠩᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тошигнуулах</cyrillic>
+      <definition>тошигнохын үйлдүүлэх хэв.</definition>
+      <page>548</page>
+    </entry_item>
+  </entries>
+</entry>

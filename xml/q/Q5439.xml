@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q5439">
+  <head>
+    <unicode>ᠬᠣᠯᠠᠭᠣᠬᠣ</unicode>
+    <transcript>qulaγuqu</transcript>
+    <transcript2>golagogo</transcript2>
+    <cyrillic>хулгах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q5440</ref>
+    <ref>Q5441</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q5598</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠯᠠᠭᠣᠬᠣ</unicode>
+      <uighur>qulaγoqu</uighur>
+      <cyrillic>хулгах</cyrillic>
+      <transcript>XULAΓU-</transcript>
+      <definition>[= xoluγu;-, cf. xulaγaila-] v. t. To steal, rob; to pillage, sack.</definition>
+      <page>984</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠯᠠᠭᠣᠭᠴᠢ ᠺᠦᠮᠦᠨ</unicode>
+          <transcript>--γci kymyn</transcript>
+          <definition> Thief.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠯᠠᠭᠣᠵᠤ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠥᠭᠺᠦ</unicode>
+          <transcript>--zu xudaldun ogky</transcript>
+          <definition> To sell surreptitiously, sell stolen goods or loot</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠢᠺᠢ ᠪᠡᠨ ᠳᠠᠷᠤᠵᠤ ᠬᠣᠩᠬᠤ ᠎ᠶᠢ ᠬᠣᠯᠠᠭᠣᠬᠣ</unicode>
+          <transcript>ciki ben daruzu xongxu ji --xu</transcript>
+          <definition> To steal a ben with one's ears stopped up (thinking that others cannot hear it either), (Chinese and Mongolian locution).</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠯᠠᠭᠣᠬᠤ</unicode>
+      <definition>voler , piller, saccager</definition>
+      <page>923</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠯᠠᠭᠣᠵᠤ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠥᠭᠺᠦ</unicode>
+          <definition>vendre secrètement</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠢᠺᠢ ᠎ᠶᠢ ᠲᠠᠷᠠᠵᠤ ᠬᠤᠳᠬᠤ ᠎ᠶᠢ ᠬᠣᠯᠠᠭᠣᠬᠤ</unicode>
+          <definition>en bouchant les oreilles, voler la clochette (prov.)</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠣᠯᠠᠭᠣᠬᠣ</unicode>
+      <uighur>qulaγoqu</uighur>
+      <definition>stehlen</definition>
+      <page>167</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠣᠯᠠᠭᠣᠬᠣ</unicode>
+      <uighur>qulaγuqu</uighur>
+      <definition>v.t. To steal.</definition>
+      <page>656</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠯᠠᠭᠣᠬᠣ</unicode>
+      <cyrillic>ХУЛУУХ</cyrillic>
+      <definition>воровать, красть; обкрадывать; хулууж дээрэмдэх грабить; хулууж үзэх смотреть исподтишка, подглядывать незаметно для других; хулууж ширтэн харах подсматривать незаметно для других; хулуун авах красть, воровать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠯᠠᠭᠤᠬᠤ</unicode>
+      <cyrillic>хулгуух</cyrillic>
+      <definition>хүний эд юмыг сэмээр нууж авах, хулуух, хулгайлах.</definition>
+      <page>727</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠯᠠᠭᠤᠬᠤ</unicode>
+      <cyrillic>хулуух</cyrillic>
+      <definition>хулгай хийх, хулгайлах.</definition>
+      <page>728</page>
+    </entry_item>
+  </entries>
+</entry>

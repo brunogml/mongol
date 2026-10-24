@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T3915">
+  <head>
+    <unicode>ᠳᠠᠯᠢᠺᠥᠨ</unicode>
+    <transcript>deligün</transcript>
+    <transcript2>deligön</transcript2>
+    <cyrillic>дэлүүн</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠡᠯᠢᠭᠦᠦ ~ ᠳᠡᠯᠢᠭᠦᠨ</unicode>
+      <definition>rate</definition>
+      <page>1719</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠡᠯᠢᠭᠦᠨ ᠤ ᠡᠪᠡᠳᠴᠢᠨ</unicode>
+          <definition>mal de rate</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠯᠢᠭᠦᠨ ᠤ ᠰᠤᠳᠠᠯ</unicode>
+          <definition>une veine de la rate</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠳᠠᠯᠢᠺᠥᠨ</unicode>
+      <uighur>deligün</uighur>
+      <definition>die Milz</definition>
+      <page>277</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠡᠯᠡᠭᠦᠨ</unicode>
+      <cyrillic>дэлүүн</cyrillic>
+      <definition>〔名〕〈动〉贻贝.</definition>
+      <page>471</page>
+    </entry_item>
+  </entries>
+</entry>

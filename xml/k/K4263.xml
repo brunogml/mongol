@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4263">
+  <head>
+    <unicode>ᠺᠥᠮᠡᠶᠢᠯᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>kömeyilegülkü</transcript>
+    <transcript2>gömeyilegölgö</transcript2>
+    <cyrillic>хөөмийлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K4262</ref>
+  </related_to>
+  <see_also>
+    <ref>K4583</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠮᠡᠶᠢᠯᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ХӨӨМИЙЛҮҮЛЭХ</cyrillic>
+      <definition>I хөөмийлөх I-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠮᠡᠢᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хөөмийлүүлэх</cyrillic>
+      <definition>хөөмийлөхийн үйлдүүлэх хэв.</definition>
+      <page>714</page>
+    </entry_item>
+  </entries>
+</entry>

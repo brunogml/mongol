@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2128">
+  <head>
+    <unicode>ᠲᠠᠮᠲᠣᠴᠢᠬᠣ</unicode>
+    <transcript>tamtučiqu</transcript>
+    <transcript2>damdocigo</transcript2>
+    <cyrillic>тамтчих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T2129</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠮᠲᠣᠴᠢᠬᠣ</unicode>
+      <uighur>tamdočiqu</uighur>
+      <cyrillic>тамтчих</cyrillic>
+      <transcript>TAMTUCI-</transcript>
+      <definition>v.t. To tear to pieces, rip; to destroy; to pillage</definition>
+      <page>775</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠮᠲᠣᠴᠢᠵᠤ ᠢᠳᠡᠺᠦ</unicode>
+          <transcript>--zu ideky</transcript>
+          <definition> To eat listlessly or nibble taking a bite here and there (usually of sick animals).</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠮᠲᠣᠴᠢᠵᠤ ᠤᠷᠤᠬᠤ</unicode>
+          <transcript>--zu uruxu</transcript>
+          <definition> To tear to pieces.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠮᠲᠣᠴᠢᠬᠣ</unicode>
+      <uighur>damdočiqu</uighur>
+      <definition>verwüsten, vernichten, allgemein verheeren, plündern</definition>
+      <page>232</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠮᠲᠤᠴᠢᠬᠤ</unicode>
+      <cyrillic>тамтчих</cyrillic>
+      <definition>〔动〕тамтах 的多次体.</definition>
+      <page>1022</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠮᠲᠣᠴᠢᠬᠣ</unicode>
+      <cyrillic>ТАМТЧИХ</cyrillic>
+      <definition>тамтах-ын олонтаа., превращать в обрывки, кромсать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠲᠠᠮᠲᠤᠴᠢᠬᠤ</unicode>
+      <definition>détruire, anéantir, ruiner, piller</definition>
+      <page>1649</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тамтчих</cyrillic>
+      <definition>vernichten, verwüsten, zerstören</definition>
+      <page>218</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠮᠲᠤᠴᠢᠬᠤ</unicode>
+      <cyrillic>тамтчих</cyrillic>
+      <definition>олныг тамтаглах.</definition>
+      <page>519</page>
+    </entry_item>
+  </entries>
+</entry>

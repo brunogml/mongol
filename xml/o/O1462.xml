@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1462">
+  <head>
+    <unicode>ᠥᠺᠠᠴᠢᠯᠠᠺᠥ</unicode>
+    <transcript>ögečilekü</transcript>
+    <transcript2>ögecilegö</transcript2>
+    <cyrillic>өөчлөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>O1464</ref>
+    <ref>O1465</ref>
+    <ref>O1460</ref>
+  </derivatives>
+  <see_also>
+    <ref>O1461</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠭᠡᠴᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>өөчлөх</cyrillic>
+      <definition>〔动〕不断挑毛病，吹毛求班：~ хэрэг байхгүй 没有什么可吹毛求疵的.</definition>
+      <page>856</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠺᠠᠴᠢᠯᠠᠺᠥ</unicode>
+      <cyrillic>ӨӨЧЛӨХ</cyrillic>
+      <definition>придираться по всякому поводу; ялигүй юмаар өөчлөх придираться к пустякам. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠭᠡᠴᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>өөчлөх</cyrillic>
+      <definition>байн байн өөлөх, өө эрэх; өөчлөх хэрэг байхгүй; өөчилж үзэх.</definition>
+      <page>443</page>
+    </entry_item>
+  </entries>
+</entry>

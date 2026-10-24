@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="U1238">
+  <head>
+    <unicode>ᠣᠰᠣᠮᠪᠠᠳ</unicode>
+    <transcript>usumbad</transcript>
+    <transcript2>osombad</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠰᠣᠮᠪᠠᠳ</unicode>
+      <uighur>usombad</uighur>
+      <transcript>USUMBAD</transcript>
+      <definition>[S. upasampada] n. Fun ordination of a monk.</definition>
+      <page>888</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠰᠣᠮᠪᠠᠳ ᠪᠣᠯᠬᠤ</unicode>
+          <transcript>-- bolxu</transcript>
+          <definition> To become a gelyng (q.v.).</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠰᠣᠮᠪᠠᠳ</unicode>
+      <definition>guélong ordonné.</definition>
+      <page>378</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠰᠣᠮᠪᠠᠳ ᠪᠣᠯᠬᠤ</unicode>
+          <definition>devenir guélong.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K3720">
+  <head>
+    <unicode>ᠺᠥᠰᠥᠨᠥᠺᠲᠥᠯᠡᠺᠥ</unicode>
+    <transcript>küsünügtülekü</transcript>
+    <transcript2>gösönögdölegö</transcript2>
+    <cyrillic>хүснэгтлэх</cyrillic>
+  </head><derivatives>
+    <ref>K3721</ref>
+  
+    <ref>K3719</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠦᠰᠦᠨᠦᠭᠲᠦᠯᠡᠬᠦ</unicode>
+      <cyrillic>хүснэгтлэх</cyrillic>
+      <definition>〔动〕①制表格（图表、一览表、报表、表册）；②填表格（图表一览表、表报、表册）.</definition>
+      <page>1463</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠰᠥᠨᠥᠺᠲᠥᠯᠡᠺᠥ</unicode>
+      <cyrillic>ХҮСНЭГТЛЭХ</cyrillic>
+      <definition>хүснэглэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

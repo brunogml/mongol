@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S3686">
+  <head>
+    <unicode> ᠰᠢᠹᠷᠯᠡᠭᠥ</unicode>
+    <transcript>siprlekü</transcript>
+    <transcript2>siprlegö</transcript2>
+    <cyrillic>шиФрлэх</cyrillic>
+  </head><derivatives>
+    <ref>S3687</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode> ᠰᠢᠹᠷᠯᠡᠭᠥ</unicode>
+      <cyrillic>ШИФРЛЭХ</cyrillic>
+      <definition>шифровать. </definition>
+      <page>0</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>шифрлэх</cyrillic>
+    <definition>chiffrieren</definition>
+    <page>388</page>
+  </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0988">
+  <head>
+    <unicode>ᠪᠠᠮᠪᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>bambalǰaγulqu</transcript>
+    <transcript2>bambalcagolgo</transcript2>
+    <cyrillic>бамбалзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B0986</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠮᠪᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бамбалзуулах</cyrillic>
+      <definition>〔动〕бамбалзах 的使动态.</definition>
+      <page>126</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠮᠪᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БАМБАЛЗУУЛАХ</cyrillic>
+      <definition>бамбалзах-ын үйл­дүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠮᠪᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бамбалзуулах</cyrillic>
+      <definition>бамбалзахын үйлдүүлэх хэв.</definition>
+      <page>72</page>
+    </entry_item>
+  </entries>
+</entry>

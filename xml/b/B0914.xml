@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0914">
+  <head>
+    <unicode>ᠪᠠᠯᠲᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>baltalǰaqu</transcript>
+    <transcript2>baldalcago</transcript2>
+    <cyrillic>балталзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0915</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠯᠲᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>балталзах</cyrillic>
+      <definition>〔动〕（矮胖人）一践一践地行走，蹒跚而行，摇摇晃晃.</definition>
+      <page>124</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠯᠲᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>БАЛТАЛЗАХ</cyrillic>
+      <definition>балтганах-ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>балталзах</cyrillic>
+      <definition>= балтганах</definition>
+      <page>45</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠯᠲᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>балталзах</cyrillic>
+      <definition>балтас балтас хийх.</definition>
+      <page>71</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠯᠲᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>балталзах</cyrillic>
+      <definition>балтгар юмны байн байн хөдлөх.</definition>
+      <page>71</page>
+    </entry_item>
+  </entries>
+</entry>

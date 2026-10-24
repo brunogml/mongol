@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K0310">
+  <head>
+    <unicode>ᠭᠡᠪ</unicode>
+    <transcript>geb</transcript>
+    <transcript2>geb</transcript2>
+    <cyrillic>гэв</cyrillic>
+  </head>
+  <see_also>
+    <ref>K0312</ref>
+    <ref>K0309</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠡᠪ</unicode>
+      <uighur>geb</uighur>
+      <cyrillic>гэв</cyrillic>
+      <transcript>GEB</transcript>
+      <definition>Intensifying particle used before certain adj. and adv. beginning with the syllable ge</definition>
+      <page>372</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠡᠪ ᠭᠡᠭᠡᠭᠡᠨ</unicode>
+          <transcript>-- gegegen</transcript>
+          <definition>Very bright, most serene.</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠡᠪ ᠭᠡᠨᠡᠳᠲᠡ</unicode>
+          <transcript>-- genedte</transcript>
+          <definition>Suddenly, quite unexpectedly.</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠡᠪ ᠭᠡᠨᠡᠳᠲᠡᠺᠡᠨ</unicode>
+          <transcript>-- genedteken</transcript>
+          <definition>Suddenly, all of a sudden.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠡᠪ</unicode>
+      <definition>particule qui renforce la signification du mot suivant</definition>
+      <page>2450</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠡᠪ ᠺᠡᠨᠡᠳᠳᠡ</unicode>
+          <definition>tout à coup, inopinément, subitement</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠡᠪ ᠭᠡᠭᠡᠭᠡᠨ</unicode>
+          <definition>trÈs clair, sérénissime</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠡᠪ ᠭᠡᠭᠡᠷᠡᠺᠦ</unicode>
+          <definition>lorsque le jour paraît</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠭᠡᠪ</unicode>
+      <page>774</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠡᠪ ᠭᠡᠨᠦᠨᠲᠡ</unicode>
+          <definition>Suddenly</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠡᠪ ᠭᠡᠭᠡᠷᠡᠺᠦ</unicode>
+          <definition>To become very bright</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠡᠪ</unicode>
+      <cyrillic>ГЭВ</cyrillic>
+      <definition>I гэ-гээр эхлэсэн зарим үгэнд хүч нэмэгдүүлэх сул үг (усилительная частица к словам с начальным “гэ”); гэв гэнэт совершенно неожиданно, совсем внезапно, сверх всякого ожидания; гэв гэгээн очень светлый, совершенно светлый; гэв гэгээрэх рассветать; үүр гэв гэгээрэх совсем рассветать, всё больше светать; тэнгэрийн хаяа бүрэн гэв гэгээрэв горизонт неба стал совсем светлым, совсем рассвело.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠡᠪ ᠤᠨ</unicode>
+      <cyrillic>ГЭВГҮЙ</cyrillic>
+      <definition>тө., шашин. блюститель порядка (во время богослужения, надзиратель за поведением монахов в монастыре); благочинный.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠡᠪ</unicode>
+      <cyrillic>гэв /1</cyrillic>
+      <definition>хүч нэмэгдүүлэх үг; гэв гэнэт; гэв гэгээн; гэв гийх.</definition>
+      <page>167</page>
+    </entry_item>
+  </entries>
+</entry>

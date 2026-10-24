@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3204">
+  <head>
+    <unicode>ᠴᠣᠵᠣᠭᠣᠨᠠᠬᠣ</unicode>
+    <transcript>čoǰuγunaqu</transcript>
+    <transcript2>cocogonago</transcript2>
+    <cyrillic>цозгонох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C3205</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠣᠵᠣᠭᠣᠨᠠᠬᠤ</unicode>
+      <cyrillic>цозгонох</cyrillic>
+      <definition>〔动〕矮胖动物走动.</definition>
+      <page>1530</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠵᠣᠭᠣᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЦОЗГОНОХ</cyrillic>
+      <definition>двигаться (о чём-л. имеющем форму графина; о чём-либо кувшинообразном). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠣᠵᠣᠭᠣᠨᠠᠬᠤ</unicode>
+      <cyrillic>цозгонох</cyrillic>
+      <definition>цозгор юмны үргэлжлэн хөдлөх.</definition>
+      <page>788</page>
+    </entry_item>
+  </entries>
+</entry>

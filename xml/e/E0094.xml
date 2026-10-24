@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E0094">
+  <head>
+    <unicode>ᠡᠨᠳᠡᠭᠳᠡᠯ</unicode>
+    <transcript>endegdel</transcript>
+    <transcript2>endegdel</transcript2>
+    <cyrillic>эндэгдэл</cyrillic>
+  </head>
+  <related_to>
+    <ref>E0068</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠨᠳᠠᠺᠳᠠᠯ</unicode>
+      <uighur>endekdel</uighur>
+      <cyrillic>эндэгдэл</cyrillic>
+      <transcript>ENDEGDEL</transcript>
+      <definition>[= endel] n, Mistake, blunder, omission, error, mishap.</definition>
+      <page>316</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠨᠳᠠᠺᠳᠠᠯ ᠲᠠᠰᠢᠶ᠎ᠠ</unicode>
+          <transcript>-- tasij -a</transcript>
+          <definition>Mistake, blunder, error; omission, misprint.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠨᠳᠠᠺᠳᠠᠯ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition>Errorless, faultless; infallible; impeccable.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠨᠳᠡᠺᠳᠡᠯ</unicode>
+      <definition>erreur, faute, manquement, défaut, le motif qui pousse à une mauvaise action</definition>
+      <page>172</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠨᠳᠡᠺᠳᠡᠯ ᠦᠭᠡᠢ</unicode>
+          <definition>sans faute, infaillible, innocent, celui qui ne manque jamais à son devoir; d'une conduite irréprochable.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠠᠨᠳᠠᠺᠳᠠᠯ</unicode>
+      <uighur>endegdel</uighur>
+      <definition>der Irrthum oder dessen Veranlassung</definition>
+      <page>23</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠡᠨᠳᠠᠺᠳᠠᠯ</unicode>
+      <uighur>endegdel</uighur>
+      <definition>n. Mistake, error. Something that causes or brings about mistakes.</definition>
+      <page>87</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠨᠳᠡᠭᠳᠡᠯ</unicode>
+      <cyrillic>эндэгдэл</cyrillic>
+      <definition>〔名〕误解，误会；错误，疏忽，差错，忽略，过失；遇难.</definition>
+      <page>1700</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠨᠳᠠᠺᠳᠠᠯ</unicode>
+      <cyrillic>ЭНДЭГДЭЛ</cyrillic>
+      <definition>оплошность, упущение, заблуждение; алдагдал эндэгдэл хорш. недочёт, недостаток; эндэгдэл гаргах допустить оплошность.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠨᠳᠠᠺᠳᠠᠯ</unicode>
+      <cyrillic>ЭНДЭГДЭЛГҮЙ</cyrillic>
+      <definition>безошибочный, непогрешимый.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>эндэгдэл</cyrillic>
+      <definition>Fehler m, Irrtum m, Versehen n; Mißerfolg m</definition>
+      <page>400</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>эндэгдэл</cyrillic>
+      <definition>auch алдагдал ~ Fehler m, Irrtum m, Versäumnis n, Nachlässigkeit f; ~ гаргах Fehler begehen</definition>
+      <page>401</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠨᠳᠡᠭᠳᠡᠯ</unicode>
+      <cyrillic>эндэгдэл</cyrillic>
+      <definition>эндэгдэх үйлийн нэр, ташаарал, осол алдаа;осол эндэгдэл&lt;хорш&gt;,алдагдал эндэгдэл&lt;хорш&gt;; эндэгдэл гаргах.</definition>
+      <page>879</page>
+    </entry_item>
+  </entries>
+</entry>

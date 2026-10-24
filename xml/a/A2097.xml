@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A2097">
+  <head>
+    <unicode>ᠠᠳᠢᠰᠲᠢᠳᠯᠠᠬᠣ</unicode>
+    <transcript>adistidlaqu</transcript>
+    <transcript2>adisdidlago</transcript2>
+    <cyrillic>адистидлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>A2098</ref>
+    <ref>A2099</ref>
+    <ref>A2100</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠳᠢᠰᠲᠢᠳᠯᠠᠬᠣ</unicode>
+      <uighur>adistidlaqu</uighur>
+      <cyrillic>адистидлах</cyrillic>
+      <transcript>ADISTIDLA-</transcript>
+      <definition>v.t. To bless, hallow. consecrate</definition>
+      <page>11</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠳᠢᠰᠳᠢᠳᠯᠠᠬᠤ</unicode>
+      <definition>bénir, donner la bénédiction</definition>
+      <page>69</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠳᠢᠰᠲᠢᠳᠯᠠᠬᠤ</unicode>
+      <cyrillic>адистидлах</cyrillic>
+      <definition>〔动〕赐福，降福；献祭，视为神圣，奉为圣明.</definition>
+      <page>24</page>
+    </entry_item>
+    <entry_item>
+      <dico>Bawden</dico>
+      <cyrillic>адистидлах</cyrillic>
+      <definition>"адистидлах</definition>
+      <page>########(see адислах)"####7</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠳᠢᠰᠲᠢᠳᠯᠠᠬᠤ</unicode>
+      <cyrillic>адиститлах</cyrillic>
+      <definition>1. шажны ёсонд юмыг ариутгах, хүчин чадал нэмүүлэх гэж итгэн тарни урьж шивших зан үйл;2. адис өгөх.</definition>
+      <page>23</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>A2095</ref>
+  </related_to>
+</entry>

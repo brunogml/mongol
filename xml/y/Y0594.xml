@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0594">
+  <head>
+    <unicode>ᠵᠠᠭᠣᠷᠮᠠᠬ</unicode>
+    <transcript>ǰaγurmaγ</transcript>
+    <transcript2>yagormag</transcript2>
+    <cyrillic>зуурмаг</cyrillic>
+  </head>
+  <see_also>
+    <ref>Y0586</ref>
+    <ref>Y2640</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠠᠭᠣᠷᠮᠠᠬ</unicode>
+      <uighur>ǰaγurmaq</uighur>
+      <cyrillic>зуурмаг</cyrillic>
+      <transcript>ZAΓURMAΓ</transcript>
+      <definition>n., adj., and adv. Half of the way; an intermimimediate point; halfway, half-done, unfinished, also same as zaγurmaci.</definition>
+      <page>1025</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠠᠮ ᠤᠨ ᠵᠠᠭᠣᠷᠮᠠᠬ</unicode>
+          <transcript>zam un --</transcript>
+          <definition>Halfway, midway.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠠᠭᠤᠷᠮᠠᠬ</unicode>
+      <definition>1 moitié, de moitié, demi; 
+2 pas tout, inaehevé: 
+3 i, q. dsaghourmatchi.</definition>
+      <page>2256</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠣᠮ ᠤᠨ ᠵᠠᠭᠤᠷᠮᠠᠬ</unicode>
+          <definition>la moitié de la doctrine</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠠᠮ ᠤᠨ ᠵᠠᠭᠤᠷᠮᠠᠬ</unicode>
+          <definition>la moitié du chemin</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠭᠤᠷᠮᠠᠭ</unicode>
+      <cyrillic>зуурмаг /1</cyrillic>
+      <definition>зуурам, хоёрын хооронд.</definition>
+      <page>288</page>
+    </entry_item>
+  </entries>
+</entry>

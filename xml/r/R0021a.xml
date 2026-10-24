@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="R0021a">
+  <head>
+    <unicode>ᠷᠠᠰᠢᠸᠠᠷ</unicode>
+    <transcript>rasivar</transcript>
+    <transcript2>rasivar</transcript2>
+    <cyrillic>расивар</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠷᠠᠰᠢᠸᠠᠷ</unicode>
+      <uighur>rasivar</uighur>
+      <transcript>RASIVAR</transcript>
+      <page>651</page>
+      <examples>
+        <example>
+          <unicode>ᠷᠠᠰᠢᠸᠠᠷ ᠴᠢᠯᠠᠭᠤᠨ</unicode>
+          <transcript>-- cilaγun</transcript>
+          <definition>Lapis-lazuli.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠷᠠᠰᠢᠸᠠᠷ</unicode>
+      <page>2659</page>
+      <examples>
+        <example>
+          <unicode>ᠷᠠᠰᠢᠸᠠᠷ ᠴᠢᠯᠠᠭᠤᠨ</unicode>
+          <definition>pierre d'azur, lapis lazuli</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

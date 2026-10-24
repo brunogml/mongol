@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K1002">
+  <head>
+    <unicode>ᠺᠠᠮᠵᠢᠰᠢ</unicode>
+    <transcript>kemǰisi</transcript>
+    <transcript2>gemcisi</transcript2>
+    <cyrillic>хэмжиш</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠠᠮᠵᠢᠰᠢ</unicode>
+      <uighur>kemǰisi</uighur>
+      <transcript>KEMZISI</transcript>
+      <page>453</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠠᠮᠵᠢᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Immeasurable, immense.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠡᠮᠵᠢᠰᠢ ᠦᠭᠡᠢ</unicode>
+      <definition>immensurable, immense.</definition>
+      <page>2486</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠮᠵᠢᠰᠢ</unicode>
+      <cyrillic>ХЭМЖИШГҮЙ</cyrillic>
+      <definition>неизмеримый; безмерный. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

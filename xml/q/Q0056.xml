@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0056">
+  <head>
+    <unicode>ᠬᠠᠨᠠᠬᠣ</unicode>
+    <transcript>qanaqu</transcript>
+    <transcript2>ganago</transcript2>
+    <cyrillic>ханах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q0057</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q0137</ref>
+    <ref>Q0056a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠨᠠᠬᠣ</unicode>
+      <uighur>qanaqu</uighur>
+      <cyrillic>ханах</cyrillic>
+      <transcript>XANA-</transcript>
+      <definition>v.t. To open a vein; to bleed.</definition>
+      <page>927</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠰᠤ ᠬᠠᠨᠠᠬᠣ</unicode>
+          <transcript>cisu --xu</transcript>
+          <definition> To bleed a person</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠨᠠᠬᠤ</unicode>
+      <definition>saigner, ouvrir une veine.</definition>
+      <page>719</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠨᠠᠬᠤᠢ ᠰᠤᠳᠠᠯ</unicode>
+          <definition>veine que l'on ouvre pour faire une saignée</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠢᠰᠤᠨ ᠢ ᠬᠠᠨᠠᠬᠤ</unicode>
+          <definition>saigner</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠠᠨᠠᠬᠣ</unicode>
+      <uighur>qanaqu</uighur>
+      <definition>Blut lassen, zur Ader lassen</definition>
+      <page>126</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠠᠨᠠᠬᠣ</unicode>
+      <uighur>qanaqu</uighur>
+      <definition>v.t. To let blood by opening a vein.</definition>
+      <page>502</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ХАНАХ</cyrillic>
+      <definition>II анаг. 1. пускать кровь, делать кровопускание; судас ханах пускать кровь кому-л.; хануураар ханах ставить пиявки, пустить кровь; 2. ханахуй II-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ХАНАХУЙ</cyrillic>
+      <definition>II кровопускание; цус ханахуй кровопускание. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>ханах /2</cyrillic>
+      <definition>эмчлэх зорилгоор судсыг хатган цоолж цусыг гаргах.</definition>
+      <page>657</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y2268">
+  <head>
+    <unicode>ᠶᠡᠺᠥᠳᠡᠯ</unicode>
+    <transcript>yegüdel</transcript>
+    <transcript2>yegödel</transcript2>
+    <cyrillic>егүүдэл</cyrillic>
+  </head><see_also>
+    <ref>Y2267</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠶᠡᠭᠦᠳᠡᠯ</unicode>
+      <transcript>JEGYDEL </transcript>
+      <page>1172</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠠᠰᠤᠨ ᠶᠡᠭᠦᠳᠡᠯ</unicode>
+          <transcript>nasun --; </transcript>
+          <definition>T. tshe hpho; S. çyuti. Transition to another life; death. </definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠨᠰᠠᠷ ᠤᠨ ᠶᠡᠭᠦᠳᠡᠯ</unicode>
+          <transcript>+++ sansar un --; </transcript>
+          <definition>T. srid hpho ba; S. bhava-samkranti. Wandering through the circle of transmigrations.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠡᠺᠥᠳᠡᠯ</unicode>
+      <cyrillic>ЕГҮҮДЭЛ</cyrillic>
+      <definition>хуучир. перемена местожительства. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

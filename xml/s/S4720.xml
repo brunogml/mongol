@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4720">
+  <head>
+    <unicode>ᠰᠢᠷᠪᠥᠰᠥᠲᠥ</unicode>
+    <transcript>sirbüsütü</transcript>
+    <transcript2>sirbösödö</transcript2>
+    <cyrillic>шөрмөст</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠷᠪᠤᠰᠣᠳᠤ ~ ᠰᠢᠷᠪᠤᠰᠣᠲᠠᠢ</unicode>
+      <definition>fibreux, filamenteux, musculeux: 2 fort, robuste, vaillant</definition>
+      <page>1532</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠷᠪᠥᠰᠥᠲᠦ</unicode>
+      <cyrillic>шөрмөст</cyrillic>
+      <definition>〔形〕①筋多的，青筋暴出的：~ цацарган чулуу 石棉状阳起石；②坚韧的，结实的，坚固的；③有力气的，健壮的，强壮的.</definition>
+      <page>1654</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠷᠪᠥᠰᠥᠲᠥ</unicode>
+      <cyrillic>ШӨРМӨСТ</cyrillic>
+      <definition>1) жилистый; 2) крепкий, сильный, дюжий; двужильный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шөрмөст</cyrillic>
+      <definition>1. sehnig
+2. übertr kräftig</definition>
+      <page>390</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠷᠪᠥᠰᠥᠲᠦ</unicode>
+      <cyrillic>шөрмөст</cyrillic>
+      <definition>шөрмөстэй.</definition>
+      <page>856</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S4718</ref>
+  </related_to>
+  <see_also>
+    <ref>S4719</ref>
+  </see_also>
+</entry>

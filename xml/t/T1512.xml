@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1512">
+  <head>
+    <unicode>ᠳᠠᠳᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>dadaγanaqu</transcript>
+    <transcript2>dadaganago</transcript2>
+    <cyrillic>дадганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1514</ref>
+    <ref>T1516</ref>
+  </derivatives>
+  <see_also>
+    <ref>T1511</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠳᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>дадганах</cyrillic>
+      <definition>〔动〕①（短小物或窄小物）频频动弹；②匆匆忙忙，仓促奔忙，行动不能自制，行动不稳健.</definition>
+      <page>375</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠳᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ДАДГАНАХ</cyrillic>
+      <definition>1) суетиться, проявлять поспешность; быть несдержанным в движениях; дэгдгэнэн дадганах быть суетливым (о человеке); 2) быть коротким, узким (об одежде). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дадганах</cyrillic>
+      <definition>= дагдганах</definition>
+      <page>89</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠳᠡᠭᠡᠨᠡᠵᠦᠳᠠᠳᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>дадганах</cyrillic>
+      <definition>дадгар юмны дадга дадга хөдлөх.</definition>
+      <page>180</page>
+    </entry_item>
+  </entries>
+</entry>

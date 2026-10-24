@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S0226">
+  <head>
+    <unicode>ᠱᠠᠩᠬᠣᠲᠣ</unicode>
+    <transcript>šangqutu</transcript>
+    <transcript2>sanggodo</transcript2>
+    <cyrillic>шанхат</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠱᠠᠩᠬᠣᠳᠤ</unicode>
+      <definition>avec un toupet , avec des boucles de cheveux.</definition>
+      <page>1442</page>
+      <examples>
+        <example>
+          <unicode>ᠱᠠᠩᠬᠣᠳᠤ ᠦᠰᠦᠨ</unicode>
+          <definition>cheveux bouclés, frisés</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠩᠬᠤᠲᠤ</unicode>
+      <cyrillic>шанхат</cyrillic>
+      <definition>见 ~ малгай 女用压发帽，束发冠；道士帽.</definition>
+      <page>1620</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠩᠬᠣᠲᠣ</unicode>
+      <cyrillic>ШАНХАТ</cyrillic>
+      <definition>имеющий волосы, собранные в пучок на затылке; шанхат малгай шапка, надеваемая на женскую причёску, шапочка для придерживания дамской причёски; шанхат үс волосы собранные в пучок на затылке. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

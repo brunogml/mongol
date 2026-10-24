@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y2139">
+  <head>
+    <unicode>ᠶᠡᠺᠡᠰᠺᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>yekesgegülkü</transcript>
+    <transcript2>yegesgegölgö</transcript2>
+    <cyrillic>ихэсгүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y2138</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠡᠬᠡᠰᠬᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>ихэсгүүлэх</cyrillic>
+      <definition>〔动〕ихэсгэх 的使动态.</definition>
+      <page>625</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠡᠺᠡᠰᠺᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ИХЭСГҮҮЛЭХ</cyrillic>
+      <definition>ихэсгэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠡᠬᠡᠰᠬᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>ихэсгүүлэх</cyrillic>
+      <definition>ихэсгэхийн үйлдүүлэх хэв, томсгох.</definition>
+      <page>311</page>
+    </entry_item>
+  </entries>
+</entry>

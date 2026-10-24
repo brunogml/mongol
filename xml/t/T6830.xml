@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6830">
+  <head>
+    <unicode>ᠲᠣᠯᠢᠬᠣ</unicode>
+    <transcript>toliqu</transcript>
+    <transcript2>doligo</transcript2>
+    <cyrillic>толих</cyrillic>
+  </head>
+  <see_also>
+    <ref>T6829</ref>
+    <ref>T6831</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠯᠢᠬᠤ</unicode>
+      <cyrillic>толих</cyrillic>
+      <definition>〔动〕绷展，弄平整，弄平滑：арьс ~ 把皮子绷平展.</definition>
+      <page>1066</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠯᠢᠬᠣ</unicode>
+      <cyrillic>ТОЛИХ</cyrillic>
+      <definition>заглаживать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>толих</cyrillic>
+      <definition>glatt od blank machen (mit etw. -аар)</definition>
+      <page>228</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠯᠢᠬᠤ</unicode>
+      <cyrillic>толих</cyrillic>
+      <definition>атирсан үрчийсэн зэрэг эд юмыг дэлгэж тэнийлгэх, толигор болгох; арьс толих; шир толих; адсага толих.</definition>
+      <page>538</page>
+    </entry_item>
+  </entries>
+</entry>

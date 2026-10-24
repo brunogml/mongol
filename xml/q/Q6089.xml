@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q6089">
+  <head>
+    <unicode>ᠬᠣᠮᠨᠠᠬᠣ</unicode>
+    <transcript>qomnaqu</transcript>
+    <transcript2>gomnago</transcript2>
+    <cyrillic>хомнох</cyrillic>
+  </head><derivatives>
+    <ref>Q6090</ref>
+  </derivatives><see_also>
+    <ref>Q6092</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠮᠨᠠᠬᠣ</unicode>
+      <uighur>qomnaqu</uighur>
+      <cyrillic>хомнох</cyrillic>
+      <transcript>XOMNA-</transcript>
+      <definition>[= xomla-] v. t. To put a piece of felt on the back of a camel; to put a collar on a horse.</definition>
+      <page>960</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠮᠨᠠᠭᠰᠠᠨ ᠡᠮᠡᠭᠡᠯ</unicode>
+          <transcript>--γsan emegel</transcript>
+          <definition> A saddle with a felt pad used on saddle-sore horses</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

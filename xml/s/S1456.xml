@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1456">
+  <head>
+    <unicode>ᠱᠠᠵᠢᠺᠢᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šaǰiginaγulqu</transcript>
+    <transcript2>saciginagolgo</transcript2>
+    <cyrillic>шажигнуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S1455</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠵᠢᠭᠢᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шажигнуулах</cyrillic>
+      <definition>〔动〕шажигнах 的使动态.</definition>
+      <page>1609</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠵᠢᠺᠢᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАЖИГНУУЛАХ</cyrillic>
+      <definition>шажигнах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шажигнуулах</cyrillic>
+      <definition>Kaus von шажигнах</definition>
+      <page>377</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠵᠢᠭᠢᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шажигнуулах</cyrillic>
+      <definition>шажигнахын үйлдүүлэх хэв.</definition>
+      <page>830</page>
+    </entry_item>
+  </entries>
+</entry>

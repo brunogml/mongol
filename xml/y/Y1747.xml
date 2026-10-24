@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1747">
+  <head>
+    <unicode>ᠶᠠᠷᠠᠰᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>yarasiγulqu</transcript>
+    <transcript2>yarasigolgo</transcript2>
+    <cyrillic>яршуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y1746</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠠᠷᠠᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>яршуулах</cyrillic>
+      <definition>〔动〕ярших 的使动态.</definition>
+      <page>1760</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠠᠷᠠᠰᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЯРШУУЛАХ</cyrillic>
+      <definition>ярших-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>яршуулах</cyrillic>
+      <definition>(Kaus von яршин) Geschwüre hervorrufen</definition>
+      <page>416</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠠᠷᠠᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>яршуулах</cyrillic>
+      <definition>яршихын үлдүүлэх хэв.</definition>
+      <page>910</page>
+    </entry_item>
+  </entries>
+</entry>

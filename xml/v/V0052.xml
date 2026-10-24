@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="V0052">
+  <head>
+    <unicode>ᠸᠠᠲᠣᠬᠣ</unicode>
+    <transcript>vatuqu</transcript>
+    <transcript2>vadogo</transcript2>
+    <cyrillic>ваатах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>V0053</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠸᠠᠭᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>ваатах</cyrillic>
+      <definition>〔动〕参见 ваалах.</definition>
+      <page>255</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠸᠠᠲᠣᠬᠣ</unicode>
+      <cyrillic>ВААТАХ</cyrillic>
+      <definition>1. плесневеть, заплесневеть; 2. ваатахуй-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠸᠠᠲᠣᠬᠣ</unicode>
+      <cyrillic>ВААТАХУЙ</cyrillic>
+      <definition>заплесневелость; плесень.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>ваатах</cyrillic>
+      <definition>= ваалах</definition>
+      <page>70</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠸᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>ваатах</cyrillic>
+      <definition>тариа будаа зэрэгт ваал тогтох; тариа ваатах.</definition>
+      <page>126</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E1132">
+  <head>
+    <unicode>ᠡᠮᠰᠡᠭᠯᠡᠭᠦᠯᠺᠦ</unicode>
+    <transcript>emseglegülkü</transcript>
+    <transcript2>emseglegölgö</transcript2>
+    <cyrillic>эмсэглүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>E1131</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠮᠰᠠᠺᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЭМСЭГЛҮҮЛЭХ</cyrillic>
+      <definition>эмсэглэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>эмсэглүүлэх</cyrillic>
+      <definition>Kaus von эмсэглэх</definition>
+      <page>399</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠮᠰᠡᠭᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>эмсэглүүлэх</cyrillic>
+      <definition>эмсэглэхийн үйлдүүлэх хэв.</definition>
+      <page>877</page>
+    </entry_item>
+  </entries>
+</entry>

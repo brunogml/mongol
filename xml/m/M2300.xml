@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M2300">
+  <head>
+    <unicode>ᠮᠥᠴᠢᠷᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>möčirlegülkü</transcript>
+    <transcript2>möcirlegölgö</transcript2>
+    <cyrillic>мөчирлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>M2299</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠥᠴᠢᠷᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>мөчирлүүлэх</cyrillic>
+      <definition>〔动〕мөчирлөх 的使动态.</definition>
+      <page>691</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠥᠴᠢᠷᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>МӨЧИРЛҮҮЛЭХ</cyrillic>
+      <definition>мөчирлөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠥᠴᠢᠷᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>мөчирлүүлэх</cyrillic>
+      <definition>мөчирлөхийн үйлдүүлэх хэв.</definition>
+      <page>347</page>
+    </entry_item>
+  </entries>
+</entry>

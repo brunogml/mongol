@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B0709">
+  <head>
+    <unicode>ᠪᠠᠳᠬᠣᠬᠣ</unicode>
+    <transcript>batququ</transcript>
+    <transcript2>badgogo</transcript2>
+    <cyrillic>батхах</cyrillic>
+  </head><derivatives>
+    <ref>B0710</ref>
+  
+    <ref>B0711</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠠᠳᠬᠣᠬᠣ</unicode>
+      <uighur>badququ</uighur>
+      <cyrillic>батхах</cyrillic>
+      <transcript>BADXU-</transcript>
+      <definition>v.i To sweat heavily; to rise in swirls or whirls (dust, smoke, clouds, etc-. ).</definition>
+      <page>67</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠭᠤᠷ ᠪᠠᠳᠬᠣᠮᠤᠢ</unicode>
+          <transcript>aγur --mui</transcript>
+          <definition> Steam rises in swirls.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠠᠳᠬᠣᠬᠤ</unicode>
+      <definition>suer. transpirer</definition>
+      <page>1072</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠳᠬᠤᠬᠤ</unicode>
+      <cyrillic>батхах</cyrillic>
+      <definition>〔动〕（汗水）淌，流；大汗淋漓.</definition>
+      <page>143</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠳᠬᠣᠬᠣ</unicode>
+      <cyrillic>БАТГАХ</cyrillic>
+      <definition>сильно потеть; хөлс батгах сильно вспотеть; батгаж гарах сильно пропотеть, изойти потом.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

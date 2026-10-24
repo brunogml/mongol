@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T4123">
+  <head>
+    <unicode>ᠲᠠᠮᠥᠷᠯᠠᠺᠥ</unicode>
+    <transcript>temürlekü</transcript>
+    <transcript2>demörlegö</transcript2>
+    <cyrillic>төмөрлөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T4124</ref>
+    <ref>T4122</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠡᠮᠦᠷᠯᠡᠬᠦ</unicode>
+      <cyrillic>төмөрлөх</cyrillic>
+      <definition>〔动〕包上一层铁，用铁加固.</definition>
+      <page>1098</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠮᠥᠷᠯᠠᠺᠥ</unicode>
+      <cyrillic>ТӨМӨРЛӨХ</cyrillic>
+      <definition>төмөрдөх-ийг үз., цонхоо тороор төмөрлөх вставлять в окна железные решётки. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>төмөрлөх</cyrillic>
+      <definition>mit Metall od Eisen bedecken od verkleiden, metallisieren</definition>
+      <page>235</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠮᠦᠷᠯᠡᠬᠦ</unicode>
+      <cyrillic>төмөрлөх</cyrillic>
+      <definition>төмрөөр бүрэх, бүрхэх; байшин төмөрлөх; пийшин төмөрлөх.</definition>
+      <page>551</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T4116</ref>
+  </related_to>
+</entry>

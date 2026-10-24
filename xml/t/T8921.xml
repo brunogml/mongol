@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8921">
+  <head>
+    <unicode>ᠳᠥᠴᠢ</unicode>
+    <transcript>döči</transcript>
+    <transcript2>döci</transcript2>
+    <cyrillic>дөж</cyrillic>
+  </head>
+  <see_also>
+    <ref>T8922</ref>
+    <ref>T8920</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠥᠴᠢ</unicode>
+      <cyrillic>ДӨЖ</cyrillic>
+      <definition>аялга. дөж (возглас, которым понукают мелкий скот). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠥᠵᠢ</unicode>
+      <cyrillic>дөж /1</cyrillic>
+      <definition>дөжин; дөж болсон амьтан.</definition>
+      <page>204</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠥᠵᠢ</unicode>
+      <cyrillic>дөж /2</cyrillic>
+      <definition>бог малыг хөөх туухад гаргах аялга; цаад хонь ямаагаа дөж гээч.</definition>
+      <page>204</page>
+    </entry_item>
+  </entries>
+</entry>

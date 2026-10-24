@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1701">
+  <head>
+    <unicode>ᠵᠠᠶᠢᠵᠢᠺᠢᠨᠠᠬᠣ</unicode>
+    <transcript>ǰayiǰiginaqu</transcript>
+    <transcript2>yayiciginago</transcript2>
+    <cyrillic>жайжганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1702</ref>
+    <ref>Y1704</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠢᠵᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>жайжганах</cyrillic>
+      <definition>〔动〕不时弯曲，不断倾斜，一曲一翘，一弯一斜，歪歪扭扭.</definition>
+      <page>500</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠶᠢᠵᠢᠺᠢᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЖАЙЖГАНАХ</cyrillic>
+      <definition>хлябать, болтаться вкривь и вкось (о телеге с болтающимися колесами). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠢᠵᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>жайжганах</cyrillic>
+      <definition>жайжгар юмны үргэлжлэн хөдлөх.</definition>
+      <page>240</page>
+    </entry_item>
+  </entries>
+</entry>

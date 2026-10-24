@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5558">
+  <head>
+    <unicode>ᠰᠣᠪᠣᠳᠯᠠᠬᠣ</unicode>
+    <transcript>subudlaqu</transcript>
+    <transcript2>sobodlago</transcript2>
+    <cyrillic>сувдлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5559</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠪᠤᠳᠯᠠᠬᠤ</unicode>
+      <cyrillic>сувдлах</cyrillic>
+      <definition>〔动〕〈医〉疸疮化脓.</definition>
+      <page>953</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠪᠣᠳᠯᠠᠬᠣ</unicode>
+      <cyrillic>СУВДЛАХ</cyrillic>
+      <definition>1. образовываться (о гнойничках при оспе); 2. образование гнойничков (при оспе). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сувдлах</cyrillic>
+      <definition>alt während der Pockenerkrankung Eiterbläschen bilden</definition>
+      <page>203</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠪᠤᠳᠯᠠᠬᠤ</unicode>
+      <cyrillic>сувдлах</cyrillic>
+      <definition>цагаан цэцэг өвчний туурах.</definition>
+      <page>485</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S5557</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8194">
+  <head>
+    <unicode>ᠳᠥᠨᠳᠥᠯᠵᠠᠺᠥ</unicode>
+    <transcript>döndülǰekü</transcript>
+    <transcript2>döndölcegö</transcript2>
+    <cyrillic>дөндөлзөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T8196</ref>
+  </derivatives>
+  <see_also>
+    <ref>T8193</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠥᠨᠳᠥᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>дөндөлзөх</cyrillic>
+      <definition>〔动〕参见 дөндөгнөх.</definition>
+      <page>429</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠥᠨᠳᠥᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>ДӨНДӨЛЗӨХ</cyrillic>
+      <definition>дөндгөнөх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠥᠨᠳᠥᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>дөндөлзөх</cyrillic>
+      <definition>дөндгөр юмны дөндөс дөндөс хөдлөх.</definition>
+      <page>205</page>
+    </entry_item>
+  </entries>
+</entry>

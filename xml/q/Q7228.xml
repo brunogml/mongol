@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q7228">
+  <head>
+    <unicode> ᠬᠣᠷᠳᠣᠳᠬᠠᠬᠣ</unicode>
+    <transcript>qurdutqaqu</transcript>
+    <transcript2>gordodgago</transcript2>
+    <cyrillic>хурдатгах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q7229</ref>
+    <ref>Q7231</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠷᠳᠣᠳᠬᠠᠬᠣ</unicode>
+      <uighur>qurdodqaqu</uighur>
+      <cyrillic>хурдатгах</cyrillic>
+      <transcript>XURDUDXA-</transcript>
+      <definition>v.t. To hasten, speed up</definition>
+      <page>988</page>
+      <examples>
+        <example>
+          <unicode>ᠶᠠᠪᠤᠴᠠ ᠎ᠶᠢ ᠬᠣᠷᠳᠣᠳᠬᠠᠬᠣ</unicode>
+          <transcript>jabuca ji –xu </transcript>
+          <definition>To expedite success, secure early success</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠷᠳᠤᠳᠬᠠᠬᠤ</unicode>
+      <cyrillic>хурдатгах</cyrillic>
+      <definition>〔动〕参见 хурдасгах: ~н наалдуулах 加速凝集；~ үйлдэл 加速作用.</definition>
+      <page>1436</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode> ᠬᠣᠷᠳᠣᠳᠬᠠᠬᠣ</unicode>
+      <cyrillic>ХУРДАТГАХ</cyrillic>
+      <definition>хурдасгах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хурдатгах</cyrillic>
+      <definition>= хурдасгах</definition>
+      <page>329</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠷᠳᠤᠳᠬᠠᠬᠤ</unicode>
+      <cyrillic>хурдатгах</cyrillic>
+      <definition>хурдан болгох, хурдасгах.</definition>
+      <page>732</page>
+    </entry_item>
+  </entries>
+</entry>

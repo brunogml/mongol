@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B3081">
+  <head>
+    <unicode>ᠪᠣᠳᠣᠭ᠎ᠠ</unicode>
+    <transcript>boduγ-a</transcript>
+    <transcript2>bodoga</transcript2>
+    <cyrillic>бодоо</cyrillic>
+  </head>
+  <see_also>
+    <ref>B3063</ref>
+    <ref>B3082</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠣᠳᠣᠭ᠎ᠠ</unicode>
+      <uighur>boduγ-a</uighur>
+      <cyrillic>бодоо</cyrillic>
+      <transcript>BODUΓ-A</transcript>
+      <definition>[= bodu, 1.] n, Smallpox, pockmark.</definition>
+      <page>109</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠣᠳᠣᠭ᠎ᠠ ᠴᠡᠴᠡᠭ</unicode>
+          <transcript>-- ceceg</transcript>
+          <definition>Smallpox.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠣᠳᠣᠭ᠎ᠠ ᠎ᠶᠢᠨ ᠰᠣᠷᠪᠢ</unicode>
+          <transcript>-- jin sorbi</transcript>
+          <definition>Pockmark.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠤᠳᠣᠭ᠎ᠠ ~ ᠪᠤᠳᠤ</unicode>
+      <definition>petite vérole,</definition>
+      <page>1181</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠯᠠᠬ ᠪᠤᠳᠣᠭ᠎ᠠ</unicode>
+          <definition>petite vérole de différente couleur</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠠᠷᠢᠨ ᠪᠤᠳᠣᠭ᠎ᠠ</unicode>
+          <definition>petite vérole légère</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠷᠠ ᠪᠤᠳᠣᠭ᠎ᠠ</unicode>
+          <definition>petite vérole noire</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠤᠳᠣᠭ᠎ᠠ ᠎ᠶᠢᠨ ᠰᠤᠷᠪᠢ</unicode>
+          <definition>des marques de petite vérole</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠤᠳᠣᠭ᠎ᠠ ᠴᠡᠴᠡᠭ</unicode>
+          <definition>petite vérole, bouton, pustule de la petite vérole</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠪᠣᠳᠣᠭ᠎ᠠ</unicode>
+      <uighur>butuγ-a čečeg</uighur>
+      <definition>(Bodogha) n. The natural pockmark</definition>
+      <page>468</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бодоо[н]</cyrillic>
+      <definition>[гахай] [цэцэг] Med Pocken Pl; ~ны сорви Pockennarbe f</definition>
+      <page>54</page>
+    </entry_item>
+  </entries>
+</entry>

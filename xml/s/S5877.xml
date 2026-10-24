@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5877">
+  <head>
+    <unicode>ᠱᠣᠯᠭᠣᠯᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šulγuluγulqu</transcript>
+    <transcript2>solgologolgo</transcript2>
+    <cyrillic>шулгалуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S5850</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠤᠯᠭᠤᠯᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шулгалуулах</cyrillic>
+      <definition>〔动〕шулгалах 的使动态.</definition>
+      <page>1658</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠯᠭᠣᠯᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШУЛГАЛУУЛАХ</cyrillic>
+      <definition>шулгалах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠤᠯᠭᠤᠯᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шулгалуулах</cyrillic>
+      <definition>шулгалахын үйлдүүлэх хэв.</definition>
+      <page>858</page>
+    </entry_item>
+  </entries>
+</entry>

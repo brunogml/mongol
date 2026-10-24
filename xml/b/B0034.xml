@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0034">
+  <head>
+    <unicode>ᠪᠠᠨᠳᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>bandalǰaqu</transcript>
+    <transcript2>bandalcago</transcript2>
+    <cyrillic>бандалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0036</ref>
+  </derivatives>
+  <see_also>
+    <ref>B0034a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠨᠳᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>бандалзах</cyrillic>
+      <definition>〔动〕（肥厚、暄软物）频频弹动，摇摇晃晃.</definition>
+      <page>127</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠨᠳᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>БАНДАЛЗАХ</cyrillic>
+      <definition>двигаться, шевелиться (о толстом, разбухшем).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠨᠳᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>бандалзах</cyrillic>
+      <definition>бандгар юмны бандас бандас хийх байдал.</definition>
+      <page>73</page>
+    </entry_item>
+  </entries>
+</entry>

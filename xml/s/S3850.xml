@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S3850">
+  <head>
+    <unicode>ᠰᠢᠯᠠᠺᠥᠰᠥ</unicode>
+    <transcript>silegüsü</transcript>
+    <transcript2>silegösö</transcript2>
+    <cyrillic>шилүүс</cyrillic>
+  </head><see_also>
+    <ref>S3844</ref>
+  
+    <ref>S3931</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠯᠠᠺᠥᠰᠥ</unicode>
+      <uighur>silegüsü</uighur>
+      <cyrillic>шүлүүс</cyrillic>
+      <transcript>SILEGYSY(N)</transcript>
+      <definition>See silygysy(n).</definition>
+      <page>706</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠯᠡᠭᠦᠰᠦᠨ</unicode>
+      <definition>le lynx , le loup - cervier</definition>
+      <page>1494</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠯᠡᠭᠦᠰᠦᠨ ᠤ ᠠᠷᠢᠰᠤᠨ</unicode>
+          <definition>la peau de lynx</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠢᠯᠡᠭᠦᠰᠦᠨ ᠤ ᠡᠯᠦ</unicode>
+          <definition>terrier de lynx</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

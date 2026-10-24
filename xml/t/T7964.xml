@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T7964">
+  <head>
+    <unicode>ᠲᠣᠷᠯᠣᠬ</unicode>
+    <transcript>torluγ</transcript>
+    <transcript2>dorlog</transcript2>
+    <cyrillic>торлог</cyrillic>
+  </head><see_also>
+    <ref>T7959</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠷᠯᠣᠬ</unicode>
+      <uighur>torloq</uighur>
+      <cyrillic>торлог</cyrillic>
+      <transcript>TORLUΓ</transcript>
+      <page>826</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠣᠷᠯᠣᠬ ᠮᠣᠳᠤᠨ</unicode>
+          <transcript>-- [modun] </transcript>
+          <definition> Twig, switch ; Calligonum mongolicum (Ch. hung-pao-mu)</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠣᠰᠤᠨ ᠲᠣᠷᠯᠣᠬ</unicode>
+          <transcript>tosun -- </transcript>
+          <definition> Artemisia.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠷᠯᠣᠬ ᠮᠣᠳᠤᠨ</unicode>
+      <definition>le calligon polygonoide (calligonum polygonoides</definition>
+      <page>1896</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠣᠷᠯᠣᠬ</unicode>
+      <uighur>turluq</uighur>
+      <definition>Bushes of a man's height which crackle in fire.</definition>
+      <page>1008</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠷᠯᠣᠬ</unicode>
+      <cyrillic>ТОРЛОГ</cyrillic>
+      <definition>I 1) ург. жузгун монгольский; тосон торлог ург. масляный парнолљстник; 2) прут, розга. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

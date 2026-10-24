@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K2024">
+  <head>
+    <unicode>ᠺᠢᠯᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>gilalǰaγulqu</transcript>
+    <transcript2>gilalcagolgo</transcript2>
+    <cyrillic>гялалзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>K2023</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠢᠯᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гялалзуулах</cyrillic>
+      <definition>〔动〕гялалзах 的使动态.</definition>
+      <page>357</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠯᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ГЯЛАЛЗУУЛАХ</cyrillic>
+      <definition>гялалзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠢᠯᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гялалзуулах</cyrillic>
+      <definition>гялалзахын үйлдүүлэх хэв.</definition>
+      <page>172</page>
+    </entry_item>
+  </entries>
+</entry>

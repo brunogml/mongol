@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1850">
+  <head>
+    <unicode>ᠴᠢᠯᠠᠭᠣᠵᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čilaγuǰiγulqu</transcript>
+    <transcript2>cilagocigolgo</transcript2>
+    <cyrillic>чулуужуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C1849</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠯᠠᠭᠤᠵᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>чулуужуулах</cyrillic>
+      <definition>〔动〕чулуужих 的使动态.</definition>
+      <page>1598</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠯᠠᠭᠣᠵᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЧУЛУУЖУУЛАХ</cyrillic>
+      <definition>чулуужих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чулуужуулах</cyrillic>
+      <definition>Kaus von чулуужих</definition>
+      <page>374</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠯᠠᠭᠤᠵᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>чулуужуулах</cyrillic>
+      <definition>чулуужихын үйлдүүлэх хэв.</definition>
+      <page>824</page>
+    </entry_item>
+  </entries>
+</entry>

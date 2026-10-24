@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N2141">
+  <head>
+    <unicode>ᠨᠣᠪ</unicode>
+    <transcript>nob</transcript>
+    <transcript2>nob</transcript2>
+    <cyrillic>нов</cyrillic>
+  </head>
+  <see_also>
+    <ref>N2142</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠨᠣᠪ</unicode>
+      <uighur>nob</uighur>
+      <cyrillic>нов</cyrillic>
+      <transcript>NOB</transcript>
+      <definition>Intensifying particle used before adj. and adv. Beginning with syllable no</definition>
+      <page>587</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠣᠪ ᠨᠣᠭᠤᠭᠠᠨ</unicode>
+          <transcript>-- noγuγan</transcript>
+          <definition> Completely green, pure green.</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠣᠪ ᠨᠣᠶᠢᠲᠠᠨ</unicode>
+          <transcript>-- noitan</transcript>
+          <definition> Dripping wet.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠨᠣᠪ</unicode>
+      <uighur>nob noγuqan</uighur>
+      <definition>adj. Very green, altogether green.</definition>
+      <page>361</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠣᠪ</unicode>
+      <cyrillic>нов</cyrillic>
+      <definition>见 ~ ногоон 深绿的，翠绿的.</definition>
+      <page>743</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠣᠪ</unicode>
+      <cyrillic>НОВ</cyrillic>
+      <definition>I но - гоор эхлэсэн зарим үгэнд хүч нэмэгдүүлэх сул үг (усилительная частица, присоединяемая к некоторым словам, начинающимся с “но”); нов ногоон совершенно зелёный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠣᠪ</unicode>
+      <cyrillic>НОВ</cyrillic>
+      <definition>II: нов гургуул шувуу. фазан. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠣᠪ</unicode>
+      <cyrillic>нов</cyrillic>
+      <definition>хүч нэмэгдүүлэх үг; нов ногоон.</definition>
+      <page>378</page>
+    </entry_item>
+  </entries>
+</entry>

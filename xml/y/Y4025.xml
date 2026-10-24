@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4025">
+  <head>
+    <unicode>ᠵᠣᠬᠰᠣᠯᠲᠠ</unicode>
+    <transcript>ǰoγsulta</transcript>
+    <transcript2>yogsolda</transcript2>
+    <cyrillic>зогсолт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠣᠬᠰᠣᠯᠲᠠ</unicode>
+      <uighur>ǰoqsolda</uighur>
+      <cyrillic>зогсолт</cyrillic>
+      <transcript>ZOΓSULTA</transcript>
+      <definition>n. Stop; station; standpoint.</definition>
+      <page>1067</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠣᠬᠰᠣᠯᠲᠠ ᠎ᠶᠢᠨ ᠭᠠᠵᠠᠷ</unicode>
+          <transcript>-- jin γazar</transcript>
+          <definition>Stopping place.</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠣᠬᠰᠣᠯᠲᠠ ᠦᠭᠡᠢ ᠪᠡᠷ</unicode>
+          <transcript>-- ygei ber</transcript>
+          <definition>Without stop, without interruption, uninterruptedly; systematically, persistently.</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠠᠷᠠᠨ ᠤ ᠵᠣᠬᠰᠣᠯᠲᠠ</unicode>
+          <transcript>naran u --</transcript>
+          <definition>Solstice.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠣᠬᠰᠣᠯᠳᠠ</unicode>
+      <definition>état de ce qui se tient debout; place, endroit où on est debout; retard; interruption, cessation.</definition>
+      <page>2400</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠠᠷᠠᠨ ᠤ ᠵᠣᠬᠰᠤᠯᠲᠠ</unicode>
+          <definition>le solstice</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠣᠬᠰᠤᠯᠲᠠ ᠦᠭᠡᠢ</unicode>
+          <definition>sans relâche, sans interruption; non interrompu, continuel</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠣᠬᠰᠤᠯᠲᠠ ᠎ᠶᠢᠨ ᠭᠠᠵᠠᠷ</unicode>
+          <definition>un port, asile, retraite</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠵᠣᠬᠰᠣᠯᠲᠠ</unicode>
+      <uighur>ǰoqsolda</uighur>
+      <definition>n Position. Standing. A railway station.</definition>
+      <page>1242</page>
+      <examples>
+        <example>
+          <uighur>ǰoqsolda ügei</uighur>
+          <definition>Without stopping. Not to be stopped or checked.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠣᠭᠰᠣᠯᠲᠠ</unicode>
+      <cyrillic>зогсолт</cyrillic>
+      <definition>〔名〕①停止，停息，停留，间歇，逗留；②停留处；③立场，立足点.</definition>
+      <page>555</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠬᠰᠣᠯᠲᠠ</unicode>
+      <cyrillic>ЗОГСОЛТ</cyrillic>
+      <definition>1) остановка; 2) станция железной дороги; 3) стойка; зогсоц-ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠬᠰᠣᠯᠲᠠ</unicode>
+      <cyrillic>ЗОГСОЛТГҮЙ</cyrillic>
+      <definition>1. безостановочно, беспрестанно; өдөр шөнө зогсолтгүй дни и ночи напролёт, безостановочно; 2. безостановочный, беспрерывный, бесперебойный, перманентный.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зогсолт</cyrillic>
+      <definition>Anhalten n; Unterbrechung f; Stillstand m</definition>
+      <page>120</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠣᠭᠰᠣᠯᠲᠠ</unicode>
+      <cyrillic>зогсолт</cyrillic>
+      <definition>зогсох үйлийн нэр, зогссон, завсарласан нь.</definition>
+      <page>272</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Y4024</ref>
+  </related_to>
+  <derivatives>
+    <ref>Y4027</ref>
+  </derivatives>
+</entry>

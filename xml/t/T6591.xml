@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6591">
+  <head>
+    <unicode>ᠲᠣᠰᠺᠢᠷᠠᠬᠣ</unicode>
+    <transcript>tosgiraqu</transcript>
+    <transcript2>dosgirago</transcript2>
+    <cyrillic>тошгирох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T6594</ref>
+    <ref>T6595</ref>
+    <ref>T6597</ref>
+  </derivatives>
+  <see_also>
+    <ref>T6590</ref>
+    <ref>T6592</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠰᠬᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>тошгирох</cyrillic>
+      <definition>〔动〕参见 шагшрах.</definition>
+      <page>1089</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠰᠺᠢᠷᠠᠬᠣ</unicode>
+      <cyrillic>ТОШГИРОХ</cyrillic>
+      <definition>шагшрах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тошгирох</cyrillic>
+      <definition>schnalzen</definition>
+      <page>233</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠰᠬᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>тошгирох</cyrillic>
+      <definition>шагшрах.</definition>
+      <page>547</page>
+    </entry_item>
+  </entries>
+</entry>

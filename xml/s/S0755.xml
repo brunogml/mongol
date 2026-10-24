@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0755">
+  <head>
+    <unicode>ᠰᠠᠪᠰᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sabsalaγulqu</transcript>
+    <transcript2>sabsalagolgo</transcript2>
+    <cyrillic>савслуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S0754</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠪᠰᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>савслуулах</cyrillic>
+      <definition>〔动〕савслах 的使动态.</definition>
+      <page>893</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠪᠰᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>САВСЛУУЛАХ</cyrillic>
+      <definition>савслах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠪᠰᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>савслуулах</cyrillic>
+      <definition>савслахын үйлдүүлэх хэв.</definition>
+      <page>458</page>
+    </entry_item>
+  </entries>
+</entry>

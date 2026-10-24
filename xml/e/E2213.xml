@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E2213">
+  <head>
+    <unicode>ᠡᠷᠪᠡᠶᠢᠯᠡᠭᠦᠯᠺᠦ</unicode>
+    <transcript>erbeyilegülkü</transcript>
+    <transcript2>erbeyilegölgö</transcript2>
+    <cyrillic>эрвэйлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>E2212</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠷᠪᠠᠶᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>эрвэйлүүлэх</cyrillic>
+      <definition>〔动〕эрвэйлэх 的使动态.</definition>
+      <page>1703</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠡᠷᠪᠠᠶᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЭРВЭЙЛҮҮЛЭХ</cyrillic>
+      <definition>эрвэйлэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠷᠪᠡᠢᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>эрвэйлүүлэх</cyrillic>
+      <definition>эрвэйлэхийн үйлдүүлэх хэв.</definition>
+      <page>882</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S1971">
+  <head>
+    <unicode>ᠰᠠᠨᠵᠢᠲᠥ</unicode>
+    <transcript>senǰitü</transcript>
+    <transcript2>sencidö</transcript2>
+    <cyrillic>сэнжит</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠡᠨᠵᠢᠳᠤ</unicode>
+      <definition>qui a un anneau. une anse ou manivelle</definition>
+      <page>1342</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠡᠨᠵᠢᠳᠤ ᠰᠡᠪᠡᠭ</unicode>
+          <definition>panier avec une manivelle</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠨᠵᠢᠲᠦ</unicode>
+      <cyrillic>сэнжит</cyrillic>
+      <definition>〔形〕环形的；有把手的.</definition>
+      <page>989</page>
+    </entry_item>
+  </entries>
+</entry>

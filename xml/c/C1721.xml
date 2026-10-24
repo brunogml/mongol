@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1721">
+  <head>
+    <unicode>ᠴᠢᠰᠣᠯᠠᠬᠣ</unicode>
+    <transcript>čisulaqu</transcript>
+    <transcript2>cisolago</transcript2>
+    <cyrillic>цуслах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1722</ref>
+    <ref>C1725</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠢᠰᠣᠯᠠᠬᠣ</unicode>
+      <uighur>čisulaqu</uighur>
+      <cyrillic>цуслах</cyrillic>
+      <transcript>CISULA-</transcript>
+      <definition>v.t. To bleed (med.); to devour (vulgar).</definition>
+      <page>192</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>цуслах</cyrillic>
+      <definition>〔动〕放血，采血，抽血，取血.</definition>
+      <page>1552</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠰᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЦУСЛАХ</cyrillic>
+      <definition>1) пускать кровь; проливать кровь; разбить в кровь; 2) бүд. жрать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цуслах</cyrillic>
+      <definition>1. Blut abzapfen, zur Ader lassen, bluten lassen
+2. vulg fressen, mampfen</definition>
+      <page>361</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>цуслах</cyrillic>
+      <definition>хүн амьтнаас цус гаргаж авах.</definition>
+      <page>799</page>
+    </entry_item>
+  </entries>
+</entry>

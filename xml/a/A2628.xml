@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A2628">
+  <head>
+    <unicode>ᠠᠯᠳᠠᠷᠰᠢᠬᠣ</unicode>
+    <transcript>aldarsiqu</transcript>
+    <transcript2>aldarsigo</transcript2>
+    <cyrillic>алдарших</cyrillic>
+  </head>
+  <derivatives>
+    <ref>A2629</ref>
+    <ref>A2630</ref>
+    <ref>A2634</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠯᠳᠠᠷᠰᠢᠬᠣ</unicode>
+      <uighur>aldarsiqu</uighur>
+      <cyrillic>алдарших</cyrillic>
+      <transcript>ALDARSI-</transcript>
+      <definition>To become illustrious, famous, known, popular.</definition>
+      <page>30</page>
+      <examples>
+        <example>
+          <unicode>... ᠺᠡᠮᠡᠨ ᠠᠯᠳᠠᠷᠰᠢᠬᠤ</unicode>
+          <transcript>… kemen --xu</transcript>
+          <definition>To become known, famous, or recognized as ...</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠭᠠᠨ ᠺᠡᠮᠡᠨ ᠠᠯᠳᠠᠷᠰᠢᠬᠤ</unicode>
+          <transcript>xaγan kemen --xu</transcript>
+          <definition>To become famous as a king.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠯᠳᠠᠷᠰᠢᠬᠤ</unicode>
+      <definition>devenir célèbre, s'illustrer.</definition>
+      <page>90</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠠᠷᠯᠢᠬ ᠴᠢᠨᠤ ᠬᠠᠮᠤᠬ ᠳ᠋‍‍ᠤ‍ᠷ ᠠᠯᠳᠠᠷᠰᠢᠪᠠᠢ</unicode>
+          <definition>ton instruction s'est fait connaître à tout le monde, s'est répandu partout.</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠦᠴᠦᠨ ᠠᠤᠭ᠎ᠠ ᠢᠨᠤ ᠲᠩᠷᠢ ᠲᠠ ᠺᠦᠷᠲᠡᠯᠡ ᠠᠯᠳᠠᠷᠰᠢᠵᠤᠬᠤᠢ</unicode>
+          <definition>la gloire de sa force et de sa puissance seleva jusqu aux Tégris.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠠᠯᠳᠠᠷᠰᠢᠬᠣ</unicode>
+      <uighur>aldarsiqu</uighur>
+      <definition>berühmt werden, in Ruf kommen, sich einen Namen warhen.</definition>
+      <page>13</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠯᠳᠠᠷᠰᠢᠬᠤ</unicode>
+      <cyrillic>алдарших</cyrillic>
+      <definition>〔名〕闻名，扬名，著名.</definition>
+      <page>40</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠯᠳᠠᠷᠰᠢᠬᠣ</unicode>
+      <cyrillic>АЛДАРШИХ</cyrillic>
+      <definition>1. прославляться, становиться известным, знаменитым; стать популярным; пользоваться известностью, греметь; 2. алдаршихуй–г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠯᠳᠠᠷᠰᠢᠬᠣᠢ</unicode>
+      <cyrillic>АЛДАРШИХУЙ</cyrillic>
+      <definition>cлава, молва.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Mostaert</dico>
+      <unicode>ᠠᠯᠳᠠᠷᠰᠢᠬᠣ</unicode>
+      <definition>devenir célèbre</definition>
+      <page>14</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>алдарших</cyrillic>
+      <definition>berühmt od populär werden</definition>
+      <page>27</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠯᠳᠠᠷᠰᠢᠬᠤ</unicode>
+      <cyrillic>алдарших</cyrillic>
+      <definition>олонд нэр гарах; цууриатах; сайн ажилчны нэр нь алдаршина.</definition>
+      <page>31</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8823">
+  <head>
+    <unicode>ᠲᠥᠯᠺᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>tülkilegülkü</transcript>
+    <transcript2>dölgilegölgö</transcript2>
+    <cyrillic>түлхлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T8822</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠦᠯᠬᠢᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>түлхлүүлэх</cyrillic>
+      <definition>〔动〕түлхлэх 的使动态.</definition>
+      <page>1132</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠯᠺᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ТҮЛХЛҮҮЛЭХ</cyrillic>
+      <definition>түлхлэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠦᠯᠡᠭᠦᠯᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>түлхлүүлэх</cyrillic>
+      <definition>түлхлэхийн үйлдүүлэх хэв.</definition>
+      <page>566</page>
+    </entry_item>
+  </entries>
+</entry>

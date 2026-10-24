@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I0795">
+  <head>
+    <unicode>ᠢᠯᠵᠠᠷᠠᠭᠠᠬᠣ</unicode>
+    <transcript>ilǰaraγaqu</transcript>
+    <transcript2>ilcaragago</transcript2>
+    <cyrillic>ялзраах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠯᠵᠠᠷᠠᠭᠠᠬᠤ</unicode>
+      <cyrillic>ялзраах</cyrillic>
+      <definition>〔动〕ялзрах 的使动态.</definition>
+      <page>1749</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠯᠵᠠᠷᠠᠭᠠᠬᠣ</unicode>
+      <cyrillic>ЯЛЗРААХ</cyrillic>
+      <definition>язрах-ын үйлдүүл., гноить. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠯᠵᠠᠷᠠᠭᠠᠬᠤ</unicode>
+      <cyrillic>ялзраах</cyrillic>
+      <definition>ялзрахад хүрүүлэх, ялзруулах.</definition>
+      <page>905</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>I0796</ref>
+  </related_to>
+</entry>

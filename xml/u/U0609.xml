@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="U0609">
+  <head>
+    <unicode>ᠣᠬᠠᠰᠢ</unicode>
+    <transcript>uqasi</transcript>
+    <transcript2>ogasi</transcript2>
+    <cyrillic>ухаш</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠬᠠᠰᠢ</unicode>
+      <uighur>uqasi</uighur>
+      <transcript>UXASI</transcript>
+      <page>892</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠬᠠᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Not understandable.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠬᠠᠰᠢ ᠦᠭᠡᠢ</unicode>
+      <definition>sans raisonnement, sans combinaison, sans connaissances nécessaires</definition>
+      <page>359</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠬᠠᠰᠢ</unicode>
+      <cyrillic>УХАШ</cyrillic>
+      <definition>непостижљмый, не поддающийся пониманию; ухаш үг непонятное слово. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠬᠠᠰᠢ</unicode>
+      <cyrillic>УХАШГҮЙ</cyrillic>
+      <definition>1. без понимания, не понимая; 2. непостижљмый. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S7025">
+  <head>
+    <unicode>ᠰᠥᠷᠰᠢᠺᠥ</unicode>
+    <transcript>sürsikü</transcript>
+    <transcript2>sörsigö</transcript2>
+    <cyrillic>сүрших</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S7027</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠦᠷᠰᠢᠬᠦ</unicode>
+      <cyrillic>сүрших</cyrillic>
+      <definition>〔动〕①喷，溅，洒，泼：ус ~ 喷水，洒水；②〈军〉扫射.</definition>
+      <page>975</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠥᠷᠰᠢᠺᠥ</unicode>
+      <cyrillic>СҮРШИХ</cyrillic>
+      <definition>брызгать, опрыскивать; шүрших-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сүрших,</cyrillic>
+      <definition>сүрчих = шурших</definition>
+      <page>208</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠦᠷᠰᠢᠬᠦ</unicode>
+      <cyrillic>сүрших</cyrillic>
+      <definition>сүрчих; ус сүрших; газар сүрших.</definition>
+      <page>497</page>
+    </entry_item>
+  </entries>
+</entry>

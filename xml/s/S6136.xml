@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6136">
+  <head>
+    <unicode>ᠱᠣᠷᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>šuraγdaqu</transcript>
+    <transcript2>soragdago</transcript2>
+    <cyrillic>шурагдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6137</ref>
+    <ref>S6138</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠷᠤᠭᠳᠠᠬᠤ(ᠱᠤᠷᠤᠭᠳᠠᠬᠤ)</unicode>
+      <cyrillic>шурагдах</cyrillic>
+      <definition>〔动〕①螺丝、钉等拧紧，扭上；②立桅杆；立旗杆，立杆子.</definition>
+      <page>1661</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠷᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ШУРАГДАХ</cyrillic>
+      <definition>завинчиваться, ввинчиваться; шурагдаж цоолох навертеть. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шурагдах</cyrillic>
+      <definition>[hinein]schrauben</definition>
+      <page>392</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠤᠷᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>шурагдах</cyrillic>
+      <definition>эрэгдэх, шураглах;эрэгдэх шурагдах&lt;хорш&gt;.</definition>
+      <page>860</page>
+    </entry_item>
+  </entries>
+</entry>

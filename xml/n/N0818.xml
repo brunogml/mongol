@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N0818">
+  <head>
+    <unicode>ᠨᠠᠷᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>naralaγulqu</transcript>
+    <transcript2>naralagolgo</transcript2>
+    <cyrillic>нарлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>N0817</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠠᠷᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нарлуулах</cyrillic>
+      <definition>〔动〕нарлах 的使动态.</definition>
+      <page>731</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠷᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>НАРЛУУЛАХ</cyrillic>
+      <definition>нарлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠠᠷᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нарлуулах</cyrillic>
+      <definition>нарлахын үйлдүүлэх хэв, наранд гаргах; хүүхдээ нарлуулж байна.</definition>
+      <page>371</page>
+    </entry_item>
+  </entries>
+</entry>

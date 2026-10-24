@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y4717">
+  <head>
+    <unicode>ᠵᠣᠺᠢᠰᠲᠠᠶ ᠠ</unicode>
+    <transcript>ǰokistay-a</transcript>
+    <transcript2>yogisday-a</transcript2>
+    <cyrillic>зохистойяа</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y4709</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠺᠢᠰᠲᠠᠶ ᠠ</unicode>
+      <cyrillic>ЗОХИСТОЙЯА</cyrillic>
+      <definition>удобно, приятно.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠣᠺᠢᠰᠲᠠᠶ ᠠ</unicode>
+      <page>2396</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠣᠺᠢᠰᠲᠠᠶ ᠠ ᠥᠭᠦᠯᠡᠺᠦ</unicode>
+          <definition>parler poliment; désirer le bonheur, complimenter, haranguer</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

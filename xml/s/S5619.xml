@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5619">
+  <head>
+    <unicode>ᠰᠣᠪᠰᠣᠷᠠᠬᠣ</unicode>
+    <transcript>subsuraqu</transcript>
+    <transcript2>sobsorago</transcript2>
+    <cyrillic>сувсрах</cyrillic>
+  </head>
+  <see_also>
+    <ref>S5604</ref>
+    <ref>S5620</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠪᠰᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>сувсрах</cyrillic>
+      <definition>〔动〕成酒稍子；变成无味的（酒），变成不烈的（酒）.</definition>
+      <page>954</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠪᠰᠣᠷᠠᠬᠣ</unicode>
+      <cyrillic>СУВСРАХ</cyrillic>
+      <definition>становиться безвкусным, слабым (о напитке). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠪᠰᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>сувсрах</cyrillic>
+      <definition>сувс болох.</definition>
+      <page>486</page>
+    </entry_item>
+  </entries>
+</entry>

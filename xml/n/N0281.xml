@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="N0281">
+  <head>
+    <unicode>ᠨᠠᠰᠣᠲᠣ</unicode>
+    <transcript>nasutu</transcript>
+    <transcript2>nasodo</transcript2>
+    <cyrillic>наст</cyrillic>
+  </head><see_also>
+    <ref>N0275</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠨᠠᠰᠣᠲᠣ</unicode>
+      <uighur>nasodu</uighur>
+      <transcript>NASUTU</transcript>
+      <definition>see nasutai</definition>
+      <page>567</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠨᠠᠰᠣᠳᠤ ~ ᠨᠠᠰᠣᠳᠠᠢ</unicode>
+      <definition>âgé, ayant tant d'années</definition>
+      <page>611</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠥᠺᠡᠨ ᠨᠠᠰᠣᠳᠤ</unicode>
+          <definition>mineur, en bas âge</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠰᠣᠲᠣ</unicode>
+      <cyrillic>НАСТ</cyrillic>
+      <definition>настай-г үз., зуун наст а) столетний человек; б) ург. столетник. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

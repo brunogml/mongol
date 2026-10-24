@@ -1,0 +1,452 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Word Links · Mongolian Dictionary</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Noto+Serif:ital,wght@0,400;0,600;1,400&display=swap">
+<style>
+  :root {
+    --paper:    #ffffff; --paper-2:  #f2f6fb;
+    --ink:      #0f2747; --ink-soft: #51678a;
+    --rule:     #c4d4e6; --accent:   #1c4f8b;
+    --red:      #c0392b; --red-dark: #8b1a10;
+    box-sizing: border-box;
+  }
+  *, *::before, *::after { box-sizing: inherit; }
+  html, body { margin:0; padding:0; background:var(--paper); color:var(--ink);
+    font-family:"Noto Serif",Georgia,serif; font-size:16px; }
+
+  .masthead { border-bottom:1px solid var(--rule); background:var(--paper-2);
+    position:sticky; top:0; z-index:100; }
+  .masthead-inner { padding:.6rem 2rem; display:flex; align-items:center; gap:1.5rem; }
+  .brand { display:flex; align-items:center; gap:.75rem;
+    text-decoration:none; color:inherit; flex-shrink:0; }
+  .soyombo { height:42px; width:auto; }
+  .brand-text { font-family:"EB Garamond",serif; font-size:1.1rem;
+    line-height:1.15; font-weight:500; color:var(--ink); }
+  .brand-sub { display:block; font-style:italic; font-weight:400;
+    font-size:.8em; color:var(--ink-soft); }
+  .search-form { display:flex; align-items:stretch; background:#fff;
+    border:1px solid var(--rule); border-radius:2px; overflow:hidden;
+    flex:1; max-width:340px; }
+  .search-form input { font:inherit; font-size:.95rem; padding:.3rem .5rem;
+    color:var(--ink); border:0; background:transparent; flex:1; min-width:0; }
+  .search-form input:focus { outline:none; }
+  .search-form button { border:0; background:var(--accent); color:#fff;
+    font:inherit; font-weight:600; letter-spacing:.04em; padding:.3rem .8rem;
+    text-transform:uppercase; font-size:.74rem; cursor:pointer; white-space:nowrap; }
+  .search-form button:hover { background:#143d6e; }
+
+  .topbar { padding:.6rem 2rem .2rem; }
+  .backlink { font-family:"EB Garamond",serif; font-style:italic;
+    font-size:.92rem; color:var(--ink-soft); text-decoration:none; }
+  .backlink:hover { color:var(--accent); }
+
+  /* SVG fills the full width; height is set by JS via viewBox */
+  #graph-svg { display:block; width:100%; background:var(--paper); overflow:visible; }
+
+  #state-msg { padding:3rem 2rem; font-family:"EB Garamond",serif;
+    font-style:italic; font-size:1.05rem; color:var(--ink-soft); text-align:center; }
+
+  /* foreignObject Mongolian cell */
+  .mng-cell { width:100%; height:100%; display:flex;
+    align-items:center; justify-content:center; overflow:hidden; }
+  .mng-text { writing-mode:vertical-lr; -webkit-writing-mode:vertical-lr;
+    text-orientation:mixed; font-family:"Mongolian Baiti","Noto Sans Mongolian",serif;
+    line-height:1.05; white-space:nowrap; display:block; }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <a class="brand" href="index.php">
+      <img class="soyombo" src="soyombo.png" alt="" width="36" height="68">
+      <span class="brand-text">Lexicographical Resources<span class="brand-sub">for the Mongolian Language</span></span>
+    </a>
+    <form class="search-form" id="search-form" role="search" style="display:none">
+      <input type="search" id="search-input" name="id" autocomplete="off">
+    </form>
+  </div>
+</header>
+
+<div class="topbar">
+  <a class="backlink" id="back-link" href="index.php">← dictionary</a>
+</div>
+
+<div id="state-msg">Enter an entry id above to view its links.</div>
+<svg id="graph-svg" aria-label="Word link graph"></svg>
+
+<script>
+// ─── Constants ───────────────────────────────
+const XML_BASE = 'xml';
+
+// Node sizes
+const MONG_W = 36;           // Mongolian column width
+const NW  = 180, NH  = 100;  // normal node
+const NW_F= 200, NH_F= 110;  // focal node
+
+// Spacing
+const ROW_GAP  = 160;  // vertical distance between row centres
+const SIB_GAP  = 18;   // vertical gap between stacked siblings
+const COL_GAP  = 30;   // horizontal gap (spine → sib col)
+const PAD_BOT  = 60;
+const LABEL_W  = 95;   // left margin for row labels
+
+// Colours
+const C = {
+  accent:'#1c4f8b', paper2:'#f2f6fb', rule:'#c4d4e6',
+  ink:'#0f2747', inkSoft:'#51678a',
+  red:'#c0392b', redDark:'#8b1a10',
+};
+
+// ─── URL helpers ─────────────────────────────
+const getParam = k => new URLSearchParams(location.search).get(k)||'';
+function setParam(k,v){
+  const u=new URL(location);
+  v?u.searchParams.set(k,v):u.searchParams.delete(k);
+  history.pushState({},''  ,u);
+}
+
+// ─── XML helpers ─────────────────────────────
+const xmlPath = ref => `${XML_BASE}/${ref[0].toLowerCase()}/${ref}.xml`;
+async function fetchEntry(ref){
+  try{
+    const r=await fetch(xmlPath(ref));
+    if(!r.ok)return null;
+    return new DOMParser().parseFromString(await r.text(),'application/xml');
+  }catch{return null;}
+}
+function parseHead(doc){
+  const h=doc.querySelector('head');
+  return{
+    unicode:   h?.querySelector('unicode')   ?.textContent.trim()||'',
+    transcript:h?.querySelector('transcript')?.textContent.trim()||'',
+    cyrillic:  h?.querySelector('cyrillic')  ?.textContent.trim()||'',
+  };
+}
+function parseLinks(doc){
+  const out=[];
+  doc.querySelectorAll('see_also > ref')   .forEach(r=>out.push({ref:r.textContent.trim(),kind:'see_also'  }));
+  doc.querySelectorAll('related_to > ref') .forEach(r=>out.push({ref:r.textContent.trim(),kind:'related_to'}));
+  doc.querySelectorAll('derivatives > ref').forEach(r=>out.push({ref:r.textContent.trim(),kind:'derivative'}));
+  return out.filter(l=>l.ref);
+}
+
+// ─── SVG factory ─────────────────────────────
+const svgEl = document.getElementById('graph-svg');
+const NS ='http://www.w3.org/2000/svg';
+const XNS='http://www.w3.org/1999/xhtml';
+function el(tag,attrs={},parent=null){
+  const e=document.createElementNS(NS,tag);
+  for(const[k,v]of Object.entries(attrs))e.setAttribute(k,v);
+  if(parent)parent.appendChild(e);
+  return e;
+}
+function clear(){while(svgEl.firstChild)svgEl.removeChild(svgEl.firstChild);}
+
+// ─── Arrowhead ───────────────────────────────
+let arrowLayer, nodesLayer;
+function ensureArrow(color){
+  const id=`arr${color.replace('#','')}`;
+  if(!svgEl.querySelector(`#${id}`)){
+    let defs=svgEl.querySelector('defs');
+    if(!defs){defs=el('defs',{});svgEl.insertBefore(defs,svgEl.firstChild);}
+    const mk=el('marker',{id,viewBox:'0 -5 10 10',refX:8,refY:0,
+      markerWidth:7,markerHeight:7,orient:'auto'},defs);
+    el('path',{d:'M0,-5L10,0L0,5',fill:color},mk);
+  }
+  return id;
+}
+function arrow(x1,y1,x2,y2,color=C.accent){
+  const id=ensureArrow(color);
+  el('line',{x1,y1,x2,y2,stroke:color,'stroke-width':2.5,
+    'marker-end':`url(#${id})`},arrowLayer);
+}
+
+// ─── Node card ───────────────────────────────
+function makeNode(ref,head,role,cx,cy){
+  const isFocal=role==='focal';
+  const w=isFocal?NW_F:NW, h=isFocal?NH_F:NH;
+  const bg    =isFocal?C.red    :C.paper2;
+  const strk  =isFocal?C.redDark:C.rule;
+  const tc    =isFocal?'#fff'                  :C.ink;
+  const tsoft =isFocal?'rgba(255,255,255,.80)' :C.inkSoft;
+  const tmono =isFocal?'rgba(255,255,255,.60)' :C.accent;
+  const divL  =isFocal?'rgba(255,255,255,.28)' :C.rule;
+
+  const g=el('g',{cursor:'pointer','class':'node'},nodesLayer);
+  g.setAttribute('transform',`translate(${cx},${cy})`);
+  g.addEventListener('click',()=>loadEntry(ref));
+
+  // shadow
+  el('rect',{x:-w/2+2,y:-h/2+2,width:w,height:h,rx:4,
+    fill:'rgba(15,39,71,.07)'},g);
+  // bg
+  el('rect',{x:-w/2,y:-h/2,width:w,height:h,rx:4,
+    fill:bg,stroke:strk,'stroke-width':isFocal?2.5:1.5},g);
+  // Mongolian column divider
+  el('line',{x1:-w/2+MONG_W,y1:-h/2+8,x2:-w/2+MONG_W,y2:h/2-8,
+    stroke:divL,'stroke-width':1},g);
+
+  // Mongolian via foreignObject
+  if(head.unicode){
+    const fo=document.createElementNS(NS,'foreignObject');
+    fo.setAttribute('x',-w/2); fo.setAttribute('y',-h/2);
+    fo.setAttribute('width',MONG_W); fo.setAttribute('height',h);
+    g.appendChild(fo);
+    const div=document.createElementNS(XNS,'div');
+    div.setAttribute('xmlns',XNS); div.className='mng-cell';
+    const span=document.createElementNS(XNS,'span');
+    span.setAttribute('xmlns',XNS); span.className='mng-text';
+    span.style.fontSize=(isFocal?22:20)+'px';
+    span.style.color=tc;
+    span.textContent=head.unicode;
+    div.appendChild(span); fo.appendChild(div);
+  }
+
+  // right column geometry
+  const rx=-w/2+MONG_W+8, rw=w-MONG_W-12, rCx=rx+rw/2;
+  const trY=-h/2+10, div1Y=h/2-42, cyrY=div1Y+5, div2Y=h/2-20, refY=div2Y+4;
+
+  if(head.transcript){
+    const t=el('text',{x:rCx,y:trY,'text-anchor':'middle',
+      'dominant-baseline':'hanging','font-family':'"EB Garamond",serif',
+      'font-style':'italic','font-size':isFocal?18:16,fill:tc},g);
+    t.textContent=head.transcript;
+  }
+  el('line',{x1:rx,y1:div1Y,x2:rx+rw,y2:div1Y,stroke:divL,'stroke-width':1},g);
+  if(head.cyrillic){
+    const t=el('text',{x:rCx,y:cyrY,'text-anchor':'middle',
+      'dominant-baseline':'hanging','font-family':'"Noto Serif",serif',
+      'font-size':isFocal?13:12,fill:tsoft},g);
+    t.textContent=head.cyrillic;
+  }
+  el('line',{x1:rx,y1:div2Y,x2:rx+rw,y2:div2Y,stroke:divL,'stroke-width':1},g);
+  el('text',{x:rCx,y:refY,'text-anchor':'middle','dominant-baseline':'hanging',
+    'font-family':'"Courier New",monospace','font-size':11,fill:tmono},g)
+    .textContent=ref;
+}
+
+// ─── Row label ───────────────────────────────
+function rowLabel(text,cy){
+  el('text',{x:LABEL_W-10,y:cy,'text-anchor':'end','dominant-baseline':'middle',
+    'font-family':'"EB Garamond",serif','font-style':'italic',
+    'font-size':13,fill:C.inkSoft},svgEl).textContent=text;
+}
+
+// ─── Main draw ───────────────────────────────
+async function drawHierarchy(focalRef,focalDoc){
+  clear();
+  document.getElementById('state-msg').style.display='none';
+
+  // parse focal
+  const fHead  =parseHead(focalDoc);
+  const fLinks =parseLinks(focalDoc);
+  // root = related_to ONLY (see_also is ignored)
+  const rootLink=(fLinks.filter(l=>l.kind==='related_to'))[0]||null;
+  const fDerivs =fLinks.filter(l=>l.kind==='derivative');
+
+  // fetch root
+  let rootRef=null,rootHead=null,rootDoc=null,rootDerivs=[],rootRelated=[];
+  let rrRef=null,rrHead=null,rrDoc=null,rrDerivs=[];
+  if(rootLink){
+    rootRef=rootLink.ref;
+    rootDoc=await fetchEntry(rootRef);
+    if(rootDoc&&!rootDoc.querySelector('parsererror')){
+      rootHead=parseHead(rootDoc);
+      const rl=parseLinks(rootDoc);
+      rootRelated=rl.filter(l=>l.kind==='related_to');
+      rootDerivs =rl.filter(l=>l.kind==='derivative');
+      const rrLink=rootRelated[0]||null;
+      if(rrLink){
+        rrRef=rrLink.ref;
+        rrDoc=await fetchEntry(rrRef);
+        if(rrDoc&&!rrDoc.querySelector('parsererror')){
+          rrHead  =parseHead(rrDoc);
+          rrDerivs=parseLinks(rrDoc).filter(l=>l.kind==='derivative');
+        }
+      }
+    }
+  }
+
+  async function fetchHeads(links){
+    return Promise.all(links.map(async l=>{
+      const d=await fetchEntry(l.ref);
+      return{ref:l.ref,head:d?parseHead(d):{unicode:'',transcript:l.ref,cyrillic:''}};
+    }));
+  }
+  const rootSibLinks=rootDerivs.filter(l=>l.ref!==focalRef);
+  const rrDerivLinks=rrDerivs.filter(l=>l.ref!==rootRef);
+  const[fDerivData,rootSibData,rrDerivData]=await Promise.all([
+    fetchHeads(fDerivs), fetchHeads(rootSibLinks), fetchHeads(rrDerivLinks),
+  ]);
+
+  // ── geometry ──────────────────────────────
+  const sibColH=n=>n*NH+(n-1)*SIB_GAP;
+
+  const hasRoot   =!!rootRef, hasRR=!!rrRef;
+  const hasFDerivs=fDerivData.length>0;
+
+  // Row indices (0 = topmost)
+  let ri=0; const rowOf={};
+  if(hasRR)      rowOf.rr    =ri++;
+  if(hasRoot)    rowOf.root  =ri++;
+                 rowOf.focal =ri;
+  if(hasFDerivs) rowOf.fderiv=ri+1;
+
+  // PASS 1: compute row centres with a provisional top padding, then
+  // find out how high sibling stacks reach, and add extra top padding if needed.
+  const PROV_PAD=60;
+  const baseY=r=>PROV_PAD+NH/2+r*ROW_GAP;
+
+  // Topmost Y that any sibling column reaches
+  let minY=Infinity;
+  if(hasRoot&&rootSibData.length){
+    const pY=baseY(rowOf.root);
+    minY=Math.min(minY, pY-sibColH(rootSibData.length)/2);
+  }
+  if(hasRR&&rrDerivData.length){
+    const pY=baseY(rowOf.rr);
+    minY=Math.min(minY, pY-sibColH(rrDerivData.length)/2);
+  }
+
+  // extra top padding so nothing is clipped above y=0
+  const extraTop=minY<Infinity?Math.max(0,20-minY):0;
+  const PAD_TOP=PROV_PAD+extraTop;
+
+  const rowY=r=>PAD_TOP+NH/2+r*ROW_GAP;
+
+  // ── Spine X: leave room for labels
+  const CX=LABEL_W+NW_F/2+20;
+  // Column layout (left to right):
+  //   spine (CX) | col1: root's other derivatives | col2: root-of-root's derivatives
+  // Root siblings sit between the spine and the rr-deriv column so arrows
+  // from root→col1 are shorter; rr derivatives go further right in col2.
+  const SIB_CX_1=CX+NW_F/2+COL_GAP+NW/2;        // root's other derivatives (closer)
+  const SIB_CX_2=SIB_CX_1+NW+COL_GAP;            // root-of-root derivatives (further right)
+
+  // ── Compute total canvas size
+  let maxY=rowY(rowOf.focal)+NH_F/2;
+  if(hasFDerivs) maxY=Math.max(maxY,rowY(rowOf.fderiv)+NH/2);
+  // check sib columns
+  if(hasRoot&&rootSibData.length){
+    const pY=rowY(rowOf.root);
+    maxY=Math.max(maxY,pY+sibColH(rootSibData.length)/2);
+  }
+  if(hasRR&&rrDerivData.length){
+    const pY=rowY(rowOf.rr);
+    maxY=Math.max(maxY,pY+sibColH(rrDerivData.length)/2);
+  }
+
+  // right edge: furthest sib col + label, and focal derivs spread
+  let maxX=SIB_CX_2+NW/2+120;
+  if(hasFDerivs){
+    const fw=fDerivData.length*NW+(fDerivData.length-1)*COL_GAP;
+    maxX=Math.max(maxX,CX+fw/2+20);
+  }
+  const VW=Math.max(maxX,700);
+  const VH=maxY+PAD_BOT;
+
+  svgEl.setAttribute('viewBox',`0 0 ${VW} ${VH}`);
+  svgEl.setAttribute('height',VH);
+
+  arrowLayer=el('g',{},svgEl);
+  nodesLayer=el('g',{},svgEl);
+
+  // ── Place nodes ───────────────────────────
+
+  // Focal
+  const fCY=rowY(rowOf.focal);
+  makeNode(focalRef,fHead,'focal',CX,fCY);
+  rowLabel('actual word',fCY);
+
+  // Focal derivatives (centred below focal)
+  if(hasFDerivs){
+    const dCY=rowY(rowOf.fderiv);
+    const fw=fDerivData.length*NW+(fDerivData.length-1)*COL_GAP;
+    let dx=CX-fw/2+NW/2;
+    for(const fd of fDerivData){
+      makeNode(fd.ref,fd.head,'derivative',dx,dCY);
+      arrow(CX,fCY+NH_F/2, dx,dCY-NH/2-3);
+      dx+=NW+COL_GAP;
+    }
+    rowLabel('derivatives',dCY);
+  }
+
+  // Root
+  let rootCY=null;
+  if(hasRoot&&rootHead){
+    rootCY=rowY(rowOf.root);
+    makeNode(rootRef,rootHead,'root',CX,rootCY);
+    arrow(CX,rootCY+NH/2, CX,fCY-NH_F/2-3);
+    rowLabel('root word',rootCY);
+
+    // Sibling column (other derivatives of root, excl. focal) — column 1 (closer to spine)
+    if(rootSibData.length){
+      const n=rootSibData.length;
+      const topY=rootCY-sibColH(n)/2;
+      rootSibData.forEach((sd,i)=>{
+        const cy=topY+NH/2+i*(NH+SIB_GAP);
+        makeNode(sd.ref,sd.head,'sibling',SIB_CX_1,cy);
+        arrow(CX+NW/2,rootCY, SIB_CX_1-NW/2-3,cy);
+      });
+      const midY=rootCY;
+      el('text',{x:SIB_CX_1+NW/2+10,y:midY,'text-anchor':'start',
+        'dominant-baseline':'middle','font-family':'"EB Garamond",serif',
+        'font-style':'italic','font-size':13,fill:C.inkSoft},svgEl)
+        .textContent='';
+    }
+  }
+
+  // Root-root
+  if(hasRR&&rrHead){
+    const rrCY=rowY(rowOf.rr);
+    makeNode(rrRef,rrHead,'root_root',CX,rrCY);
+    if(rootCY!==null) arrow(CX,rrCY+NH/2, CX,rootCY-NH/2-3);
+    rowLabel('root of root',rrCY);
+
+    if(rrDerivData.length){
+      const n=rrDerivData.length;
+      const topY=rrCY-sibColH(n)/2;
+      rrDerivData.forEach((rd,i)=>{
+        const cy=topY+NH/2+i*(NH+SIB_GAP);
+        makeNode(rd.ref,rd.head,'sibling',SIB_CX_2,cy);
+        arrow(CX+NW/2,rrCY, SIB_CX_2-NW/2-3,cy);
+      });
+    }
+  }
+}
+
+// ─── Load entry ──────────────────────────────
+async function loadEntry(ref){
+  if(!ref)return;
+  ref=ref.trim().toUpperCase().replace(/\s+/g,'');
+  setParam('id',ref);
+  document.getElementById('search-input').value=ref;
+  document.getElementById('back-link').href=`index.php?ref=${encodeURIComponent(ref)}`;
+  const msg=document.getElementById('state-msg');
+  msg.textContent='Loading…'; msg.style.display='block';
+  clear();
+  const doc=await fetchEntry(ref);
+  if(!doc||doc.querySelector('parsererror')){
+    msg.textContent=`Entry "${ref}" not found.`; return;
+  }
+  await drawHierarchy(ref,doc);
+}
+
+// ─── Boot ────────────────────────────────────
+document.getElementById('search-form').addEventListener('submit',e=>{
+  e.preventDefault();
+  const v=document.getElementById('search-input').value.trim();
+  if(v)loadEntry(v);
+});
+const initId=getParam('id');
+if(initId){ document.getElementById('search-input').value=initId; loadEntry(initId); }
+</script>
+</body>
+</html>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1731">
+  <head>
+    <unicode>ᠲᠠᠯᠠᠷᠬᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>talarqaγdaqu</transcript>
+    <transcript2>dalargagdago</transcript2>
+    <cyrillic>талархагдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T1728</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠯᠠᠷᠬᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>талархагдах</cyrillic>
+      <definition>〔动〕талархах 的被动态.</definition>
+      <page>1017</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠯᠠᠷᠬᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТАЛАРХАГДАХ</cyrillic>
+      <definition>талархах-ын үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠯᠠᠷᠬᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>талархагдах</cyrillic>
+      <definition>талархахын үйлдэгдэх хэв.</definition>
+      <page>516</page>
+    </entry_item>
+  </entries>
+</entry>

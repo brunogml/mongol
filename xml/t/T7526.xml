@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7526">
+  <head>
+    <unicode>ᠲᠣᠶᠢᠪᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tuyibalǰaγulqu</transcript>
+    <transcript2>doyibalcagolgo</transcript2>
+    <cyrillic>туйвалзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T7525</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠢᠪᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>туйвалзуулах</cyrillic>
+      <definition>〔动〕туйвалзах 的使动态.</definition>
+      <page>1107</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠶᠢᠪᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТУЙВАЛЗУУЛАХ</cyrillic>
+      <definition>туйвалзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠢᠪᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>туйвалзуулах</cyrillic>
+      <definition>туйвалзахын үйлдүүлэх хэв.</definition>
+      <page>554</page>
+    </entry_item>
+  </entries>
+</entry>

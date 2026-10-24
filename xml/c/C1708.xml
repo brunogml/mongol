@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C1708">
+  <head>
+    <unicode>ᠴᠢᠪᠺᠥ</unicode>
+    <transcript>čibkü</transcript>
+    <transcript2>cibgö</transcript2>
+    <cyrillic>чивэх</cyrillic>
+  </head><see_also>
+    <ref>C1676</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠢᠪᠺᠥ</unicode>
+      <uighur>čibkü</uighur>
+      <cyrillic>чивэх</cyrillic>
+      <transcript>CIB-</transcript>
+      <definition>v, I. To sink, become submerged. cf. zib-</definition>
+      <page>174</page>
+      <examples>
+        <example>
+          <unicode>ᠢᠨᠤᠭᠠᠷ᠎ᠠ ᠴᠢᠪᠺᠥ</unicode>
+          <transcript>iruγar-a --ky</transcript>
+          <definition> To sink to the bottom.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠢᠪᠠᠷ ᠎ᠲᠤᠷ ᠴᠢᠪᠺᠥ</unicode>
+          <transcript>sibar tur --ky</transcript>
+          <definition> To sink in the mud.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠢᠪᠺᠦ</unicode>
+      <definition>se plonger dans l'eau, se noyer, être submergé.</definition>
+      <page>2152</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠴᠢᠪᠺᠥ</unicode>
+      <uighur>čibkü</uighur>
+      <definition>siehe cibbükü</definition>
+      <page>325</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠪᠪᠦᠬᠦ</unicode>
+      <cyrillic>чивэх</cyrillic>
+      <definition>〔动〕参见 живэх.</definition>
+      <page>1584</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠪᠺᠥ</unicode>
+      <cyrillic>ЧИВЭХ</cyrillic>
+      <definition>живэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

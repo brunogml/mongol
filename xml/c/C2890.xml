@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2890">
+  <head>
+    <unicode>ᠴᠣᠪᠳᠣᠯᠠᠬᠣ</unicode>
+    <transcript>čobdulaqu</transcript>
+    <transcript2>cobdolago</transcript2>
+    <cyrillic>цовдлох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C2891</ref>
+    <ref>C2892</ref>
+    <ref>C2894</ref>
+  </derivatives>
+  <see_also>
+    <ref>C2889</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠣᠪᠳᠣᠯᠠᠬᠤ</unicode>
+      <cyrillic>цовдлох</cyrillic>
+      <definition>〔动〕①钉钉子，钉防滑钉；②捶打，殴打.</definition>
+      <page>1528</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠪᠳᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЦОВДЛОХ</cyrillic>
+      <definition>I 1) растягивать (кожу, шкуру); 2) подбивать шипами, прибивать, забивать гвоздики. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠪᠳᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЦОВДЛОХ</cyrillic>
+      <definition>II бить. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цовдлох</cyrillic>
+      <definition>Fell, Haut [auf]spannen, straffen</definition>
+      <page>355</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠣᠪᠳᠣᠯᠠᠬᠤ</unicode>
+      <cyrillic>цовдлох /1</cyrillic>
+      <definition>арьс ширийг юманд тэлж хадах.</definition>
+      <page>787</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠣᠪᠳᠣᠯᠠᠬᠤ</unicode>
+      <cyrillic>цовдлох /2</cyrillic>
+      <definition>зодох жанчих.</definition>
+      <page>787</page>
+    </entry_item>
+  </entries>
+</entry>

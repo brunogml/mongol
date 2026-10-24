@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K2038">
+  <head>
+    <unicode>ᠺᠢᠯᠠᠷ</unicode>
+    <transcript>kilar</transcript>
+    <transcript2>gilar</transcript2>
+    <cyrillic>хялар</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠢᠯᠠᠷ</unicode>
+      <uighur>kilar</uighur>
+      <cyrillic>хялар</cyrillic>
+      <transcript>KILAR</transcript>
+      <definition>See kilaγar.</definition>
+      <page>466</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠢᠯᠠᠷ ~ ᠺᠢᠯᠠᠭᠠᠷ</unicode>
+      <definition>qui voit de travers, qui regarde en louchant, louche</definition>
+      <page>2529</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠢᠯᠠᠷ ᠨᠢᠳᠦᠨ</unicode>
+          <definition>des yuex louches</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠺᠢᠯᠠᠷ</unicode>
+      <uighur>kiler</uighur>
+      <definition>etwas schielend; der Schielende</definition>
+      <page>156</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠺᠢᠯᠠᠷ</unicode>
+      <uighur>kilar</uighur>
+      <definition>Slightly squinting. Person that squints.</definition>
+      <page>612</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠢᠯᠠᠷ</unicode>
+      <cyrillic>хялар</cyrillic>
+      <definition>〔形・名〕①眼微斜的：~ нүд 斜眼；~ харах 斜视，睨视；②〈医〉斜眼，斜视.</definition>
+      <page>1499</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠯᠠᠷ</unicode>
+      <cyrillic>ХЯЛАР</cyrillic>
+      <definition>1. косой; косоглазый; хялар нүд косые глаза; хялар нүдэт косой; хялар харах косить (о глазах); 2. косоглазие.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠢᠯᠠᠷ</unicode>
+      <cyrillic>хялар</cyrillic>
+      <definition>нүдний харц нь сөлөр; хялар нүд; хялар харах.</definition>
+      <page>770</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>K2039</ref>
+    <ref>K2039a</ref>
+  </derivatives>
+  <see_also>
+    <ref>K2012</ref>
+  </see_also>
+</entry>

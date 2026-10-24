@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B3855">
+  <head>
+    <unicode>ᠪᠣᠶᠢᠷᠠ</unicode>
+    <transcript>boyir-a</transcript>
+    <transcript2>boyir-a</transcript2>
+    <cyrillic>бойр</cyrillic>
+  </head>
+  <see_also>
+    <ref>B3853</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠶᠢᠷᠠ</unicode>
+      <cyrillic>БОЙР</cyrillic>
+      <definition>III спуск, склон, скат горы.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠣᠢᠷ᠎ᠠ</unicode>
+      <cyrillic>бойр /1</cyrillic>
+      <definition>уулын бөөрөг газар.</definition>
+      <page>88</page>
+    </entry_item>
+  </entries>
+</entry>

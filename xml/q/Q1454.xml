@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1454">
+  <head>
+    <unicode>ᠬᠠᠳ</unicode>
+    <transcript>qad</transcript>
+    <transcript2>gad</transcript2>
+    <cyrillic>хаад</cyrillic>
+  </head>
+  <see_also>
+    <ref>Q0555</ref>
+    <ref>Q1455</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠳ</unicode>
+      <uighur>qad</uighur>
+      <transcript>XAD</transcript>
+      <definition>1 n. An edible wild fruit resembling a small cherry.</definition>
+      <page>902</page>
+    </entry_item>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠳ</unicode>
+      <uighur>qaoa</uighur>
+      <cyrillic>хаад</cyrillic>
+      <transcript>XAD</transcript>
+      <definition>2 Plural of xan, q. v.</definition>
+      <page>902</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠳ ᠤᠨ ᠦᠶ᠎ᠡ</unicode>
+          <transcript>-- un yj-e</transcript>
+          <definition> Genealogy, pedigree of kings.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠳ ᠤᠨ ᠵᠠᠷᠴᠢᠮ</unicode>
+          <transcript>-- un zarcim</transcript>
+          <definition> Law of the kings.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠳ</unicode>
+      <definition>pluriel de khan (cf. p. 718): 2 nom d'un fruit.</definition>
+      <page>770</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠳ ᠤᠨ ᠦᠶ᠎ᠡ</unicode>
+          <definition>généalogie ou histoire des princes</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠠᠳ</unicode>
+      <uighur>qad</uighur>
+      <definition>n. Kings.</definition>
+      <page>562</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠭᠠᠳ</unicode>
+      <cyrillic>хаад</cyrillic>
+      <definition>〔名〕хаан 的复数：~ ноёдын эрхт ёс 封建主义.</definition>
+      <page>1258</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠳ</unicode>
+      <cyrillic>ХАД(АН)</cyrillic>
+      <definition>II 1. ург. кислица; смородина высочайшая; морин хад ург. смородина красная; 2. кисличный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠳ</unicode>
+      <cyrillic>хад /2</cyrillic>
+      <definition>&lt;ургамал&gt;1. исгэлэн амтлаг, хар хүрэн жимсгэнэтэй бут мөн жимсгэнэ нь;2. жимсгэнийн шүүсээр нимгэн царцаан эвхэж хийх зүйл.</definition>
+      <page>640</page>
+    </entry_item>
+  </entries>
+</entry>

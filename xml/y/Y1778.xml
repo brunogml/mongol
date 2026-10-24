@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1778">
+  <head>
+    <unicode>ᠶᠠᠷᠢᠯᠴᠠᠬᠣ</unicode>
+    <transcript>yarilčaqu</transcript>
+    <transcript2>yarilcago</transcript2>
+    <cyrillic>ярилцах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1779</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠶᠠᠷᠢᠯᠴᠠᠬᠣ</unicode>
+      <uighur>yarilčaqu</uighur>
+      <cyrillic>ярилцах</cyrillic>
+      <transcript>JARILCA-</transcript>
+      <definition>[v. coop,. of jari-] To speak, talk, converse, gossip.</definition>
+      <page>429</page>
+      <examples>
+        <example>
+          <unicode>ᠶᠠᠷᠢᠯᠴᠠᠭᠴᠢ</unicode>
+          <transcript>--γci, </transcript>
+          <definition>Interlocutor</definition>
+        </example>
+        <example>
+          <unicode>ᠦᠭᠡ ᠶᠠᠷᠢᠯᠴᠠᠬᠤ</unicode>
+          <transcript>yge --xu</transcript>
+          <definition> To have or carry on a conversation.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠠᠷᠢᠯᠴᠠᠬᠤ</unicode>
+      <cyrillic>ярилцах</cyrillic>
+      <definition>〔动〕ярих 的共动态；谈话，交谈，讨论，谈论；对话，磋商：уг зүйлийг ~н тохиролцов 此事已经谈妥了；нэгэнт ~в 已经谈过了.</definition>
+      <page>1759</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠠᠷᠢᠯᠴᠠᠬᠣ</unicode>
+      <cyrillic>ЯРИЛЦАХ</cyrillic>
+      <definition>ярих-ын үйлдэлц., говорить с кем-л., беседовать друг с другом, разговаривать; ярилцан өгүүлэх вести беседы. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>ярилцах</cyrillic>
+      <definition>(Koop von ярих) sich miteinander unterhalten; ein Gespräch führen (mit jmdm. -тай)</definition>
+      <page>416</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠠᠷᠢᠯᠴᠠᠬᠤ</unicode>
+      <cyrillic>ярилцах</cyrillic>
+      <definition>ярихын үйлдэлцэх хэв; уг зүйлийг ярилцан тохиролцов.</definition>
+      <page>910</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2004">
+  <head>
+    <unicode>ᠴᠢᠮᠥᠺᠠᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>čimügelegülkü</transcript>
+    <transcript2>cimögelegölgö</transcript2>
+    <cyrillic>чөмөглүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>C2003</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠮᠥᠭᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>чөмөглүүлэх</cyrillic>
+      <definition>〔动〕чөмөглөх 的使动态.</definition>
+      <page>1597</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠮᠥᠺᠠᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЧӨМӨГЛҮҮЛЭХ</cyrillic>
+      <definition>чөмөглөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чөмөглүүлэх</cyrillic>
+      <definition>Kaus von чөмөглөх</definition>
+      <page>374</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠮᠥᠭᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>чөмөглүүлэх</cyrillic>
+      <definition>чөмөглөхийн үйлдүүлэх хэв.</definition>
+      <page>823</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T8384">
+  <head>
+    <unicode>ᠲᠥᠪᠠᠺᠥ</unicode>
+    <transcript>töbekü</transcript>
+    <transcript2>döbegö</transcript2>
+    <cyrillic>төбөх</cyrillic>
+  </head><see_also>
+    <ref>T8385</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠥᠪᠠᠺᠥ</unicode>
+      <uighur>töbekü</uighur>
+      <cyrillic>төвөх</cyrillic>
+      <transcript>TØBE-</transcript>
+      <definition>v.i. To multiply, break out (of sores, ulcers, etc. ); to appear in quantity.</definition>
+      <page>831</page>
+      <examples>
+        <example>
+          <unicode>ᠶᠠᠷ᠎ᠠ ᠲᠥᠪᠠᠺᠥ</unicode>
+          <transcript>jar-a --ky</transcript>
+          <definition> Ulcers or sores break out.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠦᠪᠡᠺᠦ</unicode>
+      <definition>venir subitement (ulcère): 2 s'enfalmmer, s'irriter, s'inquiéter</definition>
+      <page>1907</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠦᠪᠡᠺᠦ ᠵᠠᠷᠠ</unicode>
+          <definition>petits ulcères qui viennent sur le corps des chevaux et qui sont pleins de sang ou de pus</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

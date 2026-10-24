@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1930">
+  <head>
+    <unicode>ᠵᠡᠨᠵᠡᠯᠵᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ǰenǰelǰegülkü</transcript>
+    <transcript2>yencelcegölgö</transcript2>
+    <cyrillic>зэнзэлзүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y1929</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠡᠨᠵᠡᠯᠵᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>зэнзэлзүүлэх</cyrillic>
+      <definition>〔动〕зэнзэлзэх 的使动态.</definition>
+      <page>595</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠡᠨᠵᠡᠯᠵᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЗЭНЗЭЛЗҮҮЛЭХ</cyrillic>
+      <definition>зэнзэлзэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠡᠨᠵᠡᠯᠵᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>зэнзэлзүүлэх</cyrillic>
+      <definition>зэнзэлзэхийн үйлдүүлэх хэв.</definition>
+      <page>295</page>
+    </entry_item>
+  </entries>
+</entry>

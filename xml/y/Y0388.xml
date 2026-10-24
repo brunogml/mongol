@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0388">
+  <head>
+    <unicode>ᠵᠠᠬᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰaqadaγulqu</transcript>
+    <transcript2>yagadagolgo</transcript2>
+    <cyrillic>захдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y0383</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠬᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>захдуулах</cyrillic>
+      <definition>〔动〕захдах 的使动态.</definition>
+      <page>551</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠬᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗАХДУУЛАХ</cyrillic>
+      <definition>захдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠬᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>захдуулах</cyrillic>
+      <definition>захдахын үйлдүүлэх хэв.</definition>
+      <page>270</page>
+    </entry_item>
+  </entries>
+</entry>

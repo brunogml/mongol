@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1892">
+  <head>
+    <unicode>ᠵᠠᠷᠴᠢᠮᠴᠢ</unicode>
+    <transcript>ǰarčimči</transcript>
+    <transcript2>yarcimci</transcript2>
+    <cyrillic>зарчимч</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠷᠴᠢᠮᠴᠢ</unicode>
+      <cyrillic>зарчимч</cyrillic>
+      <definition>〔形〕原则性很强的，带原则性的.</definition>
+      <page>549</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠷᠴᠢᠮᠴᠢ</unicode>
+      <cyrillic>ЗАРЧИМЧ</cyrillic>
+      <definition>принципиальный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зарчимч</cyrillic>
+      <definition>grundsätzlich; prinzipienfest</definition>
+      <page>119</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠷᠴᠢᠮᠴᠢ</unicode>
+      <cyrillic>зарчимч</cyrillic>
+      <definition>зарчим баримтлагч, зарчимтай.</definition>
+      <page>269</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Y1886</ref>
+  </related_to>
+</entry>

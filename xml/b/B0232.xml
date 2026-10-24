@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0232">
+  <head>
+    <unicode>ᠪᠠᠭᠠᠴᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>baγačaγanaqu</transcript>
+    <transcript2>bagacaganago</transcript2>
+    <cyrillic>баацганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0233</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠭᠠᠴᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>баацганах</cyrillic>
+      <definition>〔动〕参见 баацалзах.</definition>
+      <page>103</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠭᠠᠴᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>БААЦГАНАХ</cyrillic>
+      <definition>идти неуверенной походкой, двигаться неуклюже (чаще всего о детях и детёнышах животных).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>баацганах</cyrillic>
+      <definition>sich unsicher od ungeschickt od plump bewegen</definition>
+      <page>40</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠭᠠᠴᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>баацганах</cyrillic>
+      <definition>баацгар юмны баацга баацга хөдлөх байдал.</definition>
+      <page>63</page>
+    </entry_item>
+  </entries>
+</entry>

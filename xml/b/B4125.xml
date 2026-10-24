@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B4125">
+  <head>
+    <unicode>ᠪᠦᠷᠸᠠᠪᠠᠯᠭᠦᠨᠢ</unicode>
+    <transcript>burvabalgüni</transcript>
+    <transcript2>borvabalgöni</transcript2>
+    <cyrillic>бүрвабалгүни</cyrillic>
+  </head>
+  <variants>
+    <variant type="cyrillic">бүрвабалгүнь</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠤᠷᠸᠠᠪᠠᠯᠺᠦᠨᠢ</unicode>
+      <definition>l&apos;onzième constellation lunaire. comprenant deux étoiles, dont l&apos;une est δ du Lion</definition>
+      <page>1224</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠷᠸᠠᠪᠠᠯᠭᠣᠨᠢ</unicode>
+      <cyrillic>БҮРВАБЭЛГҮНИ</cyrillic>
+      <definition>са., зурх. название десятой звезды из двадцати восьми звёзд лунной астрологии. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠦᠷᠸᠠᠪᠠᠯᠭᠦᠨᠢ</unicode>
+      <cyrillic>бүрвабалгүнь</cyrillic>
+      <definition>〔名〕〈天〉张（二十八宿之一，南方朱雀七宿的第五宿）.</definition>
+      <page>229</page>
+    </entry_item>
+  </entries>
+</entry>

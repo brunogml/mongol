@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1335">
+  <head>
+    <unicode>ᠣᠲᠠᠰᠣᠯᠠᠬᠣ</unicode>
+    <transcript>utasulaqu</transcript>
+    <transcript2>odasolago</transcript2>
+    <cyrillic>утаслах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U1336</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠲᠠᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>утаслах</cyrillic>
+      <definition>〔动〕①参见 утасдах；②用线装饰；③安琴弦.</definition>
+      <page>1210</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠲᠠᠰᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>УТАСЛАХ</cyrillic>
+      <definition>мерить плотничным шнуром. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>утаслах</cyrillic>
+      <definition>telefonieren (mit jmdm. -д); хаана утасдаж болох вэ? wo kann man telefonieren?</definition>
+      <page>262</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠲᠠᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>утаслах</cyrillic>
+      <definition>1. утасдах, утсан хэмжээ тавих;2. утас тавьж чимэглэх;3. хөгжимд утас чавхдас хийх.</definition>
+      <page>603</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>U1331</ref>
+  </related_to>
+</entry>

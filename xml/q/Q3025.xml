@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q3025">
+  <head>
+    <unicode>ᠭᠠᠶᠢᠯᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>γayililaγulqu</transcript>
+    <transcript2>gayililagolgo</transcript2>
+    <cyrillic>гайлилуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q3024</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠠᠢᠯᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гайлилуулах</cyrillic>
+      <definition>〔动〕гайлилах 的使动态.</definition>
+      <page>270</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠶᠢᠯᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ГААЛИЛУУЛАХ</cyrillic>
+      <definition>гаалилах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠠᠢᠯᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гайлилуулах</cyrillic>
+      <definition>1. гайлилахын үйлдүүлэх хэв;2. гайлилагдах.</definition>
+      <page>133</page>
+    </entry_item>
+  </entries>
+</entry>

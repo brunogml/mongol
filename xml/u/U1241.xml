@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1241">
+  <head>
+    <unicode>ᠣᠰᠣᠵᠢᠬᠣ</unicode>
+    <transcript>usuǰiqu</transcript>
+    <transcript2>osocigo</transcript2>
+    <cyrillic>усжих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U1245</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠰᠤᠵᠢᠬᠤ</unicode>
+      <cyrillic>усжих</cyrillic>
+      <definition>〔动〕有水，水利化；积水；水化；充水：тархи ~ 〈医〉脑积水，水脑.</definition>
+      <page>1208</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠰᠣᠵᠢᠬᠣ</unicode>
+      <cyrillic>УСЖИХ</cyrillic>
+      <definition>орошение; усжин задрах гидролљз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>усжих</cyrillic>
+      <definition>wäßrig od wasserhaltig werden</definition>
+      <page>261</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠰᠤᠵᠢᠬᠤ</unicode>
+      <cyrillic>усжих</cyrillic>
+      <definition>устай болох.</definition>
+      <page>602</page>
+    </entry_item>
+  </entries>
+</entry>

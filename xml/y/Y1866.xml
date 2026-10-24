@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y1866">
+  <head>
+    <unicode>ᠵᠠᠷᠲᠣ</unicode>
+    <transcript>ǰartu</transcript>
+    <transcript2>yardo</transcript2>
+    <cyrillic>зарт</cyrillic>
+  </head><see_also>
+    <ref>Y1852</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠠᠷᠲᠣ</unicode>
+      <uighur>ǰardu</uighur>
+      <transcript>ZARTU</transcript>
+      <page>1038</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠠᠷᠲᠣ ᠬᠤᠳᠠᠯᠳᠤᠭ᠎ᠠ</unicode>
+          <transcript>-- xudalduγ-a</transcript>
+          <definition> Public sale, auction.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠠᠷᠳᠤ ᠬᠣᠳᠠᠯᠳᠣᠭ᠎ᠠ</unicode>
+      <definition>vente publique, encan, enchère</definition>
+      <page>2306</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠷᠲᠤ</unicode>
+      <cyrillic>зарт</cyrillic>
+      <definition>见 ~ худалдаа 投卖，粜卖.</definition>
+      <page>548</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠷᠲᠣ</unicode>
+      <cyrillic>ЗАРТ</cyrillic>
+      <definition>имеющий объявление; объявленный; зарт сааль самострел, о месте постановки которого было объявлено; зарт худалдаа продажа с торгов по объявлению, аукцион; зартай-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

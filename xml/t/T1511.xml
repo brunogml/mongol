@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1511">
+  <head>
+    <unicode>ᠲᠠᠲᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>tataγanaqu</transcript>
+    <transcript2>dadaganago</transcript2>
+    <cyrillic>татганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1513</ref>
+    <ref>T1517</ref>
+  </derivatives>
+  <see_also>
+    <ref>T1512</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠲᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>татганах</cyrillic>
+      <definition>〔动〕参见 татвалзах; 阵挛：~н хөдлөх 抽动，抽搐，痉挛；~н базлах 痉挛性阵缩.</definition>
+      <page>1039</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠲᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ТАТГАНАХ</cyrillic>
+      <definition>1) дрыгать, дёргаться, подёргиваться, корчиться; 2) сводљть (руки и ноги); татвалзах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>татганах</cyrillic>
+      <definition>= татвалзах</definition>
+      <page>223</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠲᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>татганах</cyrillic>
+      <definition>татгалзах, таталдах; татганан хөдлөх.</definition>
+      <page>526</page>
+    </entry_item>
+  </entries>
+</entry>

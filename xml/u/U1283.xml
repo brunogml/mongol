@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="U1283">
+  <head>
+    <unicode>ᠣᠲᠠᠭ ᠠ</unicode>
+    <transcript>utaγ-a</transcript>
+    <transcript2>odaga</transcript2>
+    <cyrillic>утаа</cyrillic>
+  </head>
+  <see_also>
+    <ref>U1380</ref>
+    <ref>U1282</ref>
+    <ref>U1284</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠲᠠᠭ᠎ᠠ</unicode>
+      <uighur>udaγ-a</uighur>
+      <cyrillic>утаа</cyrillic>
+      <transcript>UTAΓ-A(N)</transcript>
+      <definition>See utuγ-a(n)</definition>
+      <page>888</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠳᠠᠭᠠᠨ ~ ᠣᠳᠠᠭ᠎ᠠ</unicode>
+      <definition>fumée</definition>
+      <page>380</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠳᠠᠭᠠᠨ ᠤ ᠣᠺᠢ</unicode>
+          <definition>le drapeau de la fumée: feu.</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠳᠠᠭᠠᠨ ᠥᠩᠺᠡᠳᠦ</unicode>
+          <definition>de couleur de fumée, pourpre (compose de noir et de rouge)</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠳᠠᠭᠠᠨ ᠲᠠᠯᠪᠢᠬᠤ</unicode>
+          <definition>fumer</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠳᠠᠭᠠᠨ ᠪᠤᠷᠺᠢᠷᠠᠮᠣᠢ</unicode>
+          <definition>la fumée se disperse, se dissipe; il fait beaucoup de fumée.</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠳᠠᠭᠠᠨ ᠤ ᠰᠢᠺᠦᠰᠦ</unicode>
+          <definition>suie</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠳᠠᠭᠠᠨ ᠤ ᠲᠥᠷᠥᠯᠭᠡ</unicode>
+          <definition>nuage</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠷᠳᠤ ᠣᠳᠠᠭᠠᠨ ᠰᠡᠭᠦᠯ</unicode>
+          <definition>comète</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠣᠲᠠᠭ ᠠ</unicode>
+      <uighur>udaγan</uighur>
+      <definition>der Rauch</definition>
+      <page>59</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠣᠲᠠᠭ ᠠ</unicode>
+      <uighur>udaγ-a</uighur>
+      <definition>(oot)n. Smoke.</definition>
+      <page>230</page>
+    </entry_item>
+  </entries>
+</entry>

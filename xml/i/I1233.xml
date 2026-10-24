@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I1233">
+  <head>
+    <unicode>ᠢᠷᠪᠢᠺᠢᠨᠠᠺᠥᠷ</unicode>
+    <transcript>irbiginegür</transcript>
+    <transcript2>irbiginegör</transcript2>
+    <cyrillic>ирвэгнүүр</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠷᠪᠢᠭᠢᠨᠡᠭᠦᠷ</unicode>
+      <cyrillic>ирвэгнүүр</cyrillic>
+      <definition>〔名〕痒，刺挠.</definition>
+      <page>619</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠷᠪᠢᠺᠢᠨᠠᠺᠥᠷ</unicode>
+      <cyrillic>ИРВЭГНҮҮР</cyrillic>
+      <definition>1. мерцательный; ирвэгнүүр эс мерцательная клетка; 2. зуд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠷᠪᠢᠭᠢᠨᠡᠭᠦᠷ</unicode>
+      <cyrillic>ирвэгнүүр</cyrillic>
+      <definition>ирвэгнэх нь; ирвэгнүүр өвчин.</definition>
+      <page>307</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>I1231</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C2676">
+  <head>
+    <unicode>ᠴᠣᠭᠣᠷᠠᠬᠠᠢ</unicode>
+    <transcript>čoγuraqai</transcript>
+    <transcript2>cogoragai</transcript2>
+    <cyrillic>цоорхой</cyrillic>
+  </head><see_also>
+    <ref>C2689</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠣᠭᠣᠷᠠᠬᠠᠢ</unicode>
+      <uighur>čoγuraqai</uighur>
+      <transcript>COΓURAXAI</transcript>
+      <definition>See coγurxai</definition>
+      <page>195</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠤᠭᠤᠷᠠᠬᠠᠢ ~ ᠴᠣᠭᠣᠷᠣᠬᠠᠢ ~ ᠴᠣᠭᠤᠷᠬᠠᠢ</unicode>
+      <definition>troué, percé , transpercé , perforé, fendu: trou.</definition>
+      <page>2199</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠣᠭᠣᠷᠠᠬᠠᠢ ᠨᠥᠭᠡ</unicode>
+          <definition>un trou à jour</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

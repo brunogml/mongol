@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0099">
+  <head>
+    <unicode>ᠰᠠᠨᠳᠠᠶᠢᠯᠠᠬᠣ</unicode>
+    <transcript>sandayilaqu</transcript>
+    <transcript2>sandayilago</transcript2>
+    <cyrillic>сандайлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S0100</ref>
+    <ref>S0102</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠨᠳᠠᠶᠢᠯᠠᠬᠣ</unicode>
+      <uighur>sandayilaqu</uighur>
+      <cyrillic>сандайлах</cyrillic>
+      <transcript>SANDAILA-</transcript>
+      <definition>v. i. To sit with feet hanging down.</definition>
+      <page>671</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠨᠳᠠᠶᠢᠯᠠᠵᠤ ᠰᠠᠭᠤᠬᠤ</unicode>
+          <transcript>--zu saγuxu</transcript>
+          <definition> To sit with the feet down, in the Western manner.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠠᠨᠳᠠᠶᠢᠯᠠᠬᠤ</unicode>
+      <definition>être assis à la manière européenne</definition>
+      <page>1287</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠨᠳᠠᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>сандайлах</cyrillic>
+      <definition>〔动〕垂足而坐，悬腿而坐：модон дээр сандайлж суух 悬腿坐在树上.</definition>
+      <page>912</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠨᠳᠠᠶᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>САНДАЙЛАХ</cyrillic>
+      <definition>сесть на что-л., опустив ноги вниз; сидеть по европейски, сидеть на стуле, сидеть свесив ноги; орон дээр сандайлах сесть на кровать, опустив ноги вниз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сандайлах</cyrillic>
+      <definition>mit herabhängenden Beinen sitzen</definition>
+      <page>195</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠨᠳᠠᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>сандайлах</cyrillic>
+      <definition>юман дээр хоёр хөлөө унжуулан суух; сандал дээр сандайлах; модон дээр сандайлж суух.</definition>
+      <page>468</page>
+    </entry_item>
+  </entries>
+</entry>

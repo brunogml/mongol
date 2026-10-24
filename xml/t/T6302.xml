@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T6302">
+  <head>
+    <unicode>ᠲᠣᠪᠣᠷᠣ</unicode>
+    <transcript>toburu</transcript>
+    <transcript2>doboro</transcript2>
+    <cyrillic>товруу</cyrillic>
+  </head><see_also>
+    <ref>T6303</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠪᠤᠷᠣᠤ ~ ᠳᠤᠪᠤᠷᠣ</unicode>
+      <definition>convexité, élévation, gravure: 2 plaque de cuivre gravée</definition>
+      <page>1819</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠤᠪᠤᠷᠣ ᠤᠷᠠᠯᠠᠭᠴᠢ</unicode>
+          <definition>sculpteur, graveur</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠤᠪᠤᠷᠣ ᠎ᠶᠢᠨ ᠳᠠᠭᠤᠯᠭᠠᠬᠤ</unicode>
+          <definition>mettre la molette</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠤᠪᠤᠷᠣ ᠰᠡᠶᠢᠯᠦᠭᠴᠢ</unicode>
+          <definition>graveur, sculpteur</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

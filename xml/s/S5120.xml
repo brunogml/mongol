@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5120">
+  <head>
+    <unicode>ᠰᠣᠩᠭᠣᠬᠳᠠᠬᠣ</unicode>
+    <transcript>songγuγdaqu</transcript>
+    <transcript2>songgogdago</transcript2>
+    <cyrillic>сонгогдох</cyrillic>
+  </head>
+  <related_to>
+    <ref>S5104</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠣᠩᠭᠣᠬᠳᠠᠬᠣ</unicode>
+      <uighur>songγuqdaqu</uighur>
+      <cyrillic>сонгогдох</cyrillic>
+      <transcript>SONGΓUΓDA-</transcript>
+      <definition>[v. pass. of songγu-] To be elected.</definition>
+      <page>727</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠣᠩᠭᠣᠬᠳᠠᠬᠣ ᠡᠷᠺᠡ</unicode>
+          <transcript>--xu erke</transcript>
+          <definition> The right to be elected</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠩᠭᠣᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>сонгогдох</cyrillic>
+      <definition>〔动〕сонгох 的被动态；被选举，当选，被推选：хурлын тэргүүлэгчдэд ~ 被选进会议主席团；~ эрхээ эдлэх 享用被选举权；~ эрх 被选举权.</definition>
+      <page>936</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠩᠭᠣᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>СОНГОГДОХ</cyrillic>
+      <definition>сонгох-ын үйлдэгд., быть избранным; избираться; выбираться; дахин сонгогдох переизбираться; сонгогдох эрх право быть избранным; пассивное избирательное право; сонгогдохыг зөвшөөрөх баллотироваться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠩᠭᠣᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>СОНГОГДСОН</cyrillic>
+      <definition>избранный; саяхан сонгогдсон дарга недавно избранный председатель; сонгогдсон төлөөлөгчид избранные делегаты, представители; сонгогдсон төлөөлөгчдийн хурал собрание избранных представителей. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠩᠭᠣᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>сонгогдох</cyrillic>
+      <definition>сонгохын үйлдэгдэх хэв; сонгогдох эрхээ эдлэх; хурлын тэргүүлэгчдэд сонгогдох.</definition>
+      <page>479</page>
+    </entry_item>
+  </entries>
+</entry>

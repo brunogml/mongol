@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2210a">
+  <head>
+    <unicode>ᠣᠺᠲ᠋ᠠᠶᠠᠪᠣᠷᠢ</unicode>
+    <transcript>oktayabri</transcript>
+    <transcript2>ogdayabri</transcript2>
+    <cyrillic>октябрь</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠺᠲ᠋ᠠᠶᠠᠪᠣᠷᠢ</unicode>
+      <uighur>okTayabri</uighur>
+      <cyrillic>октябрь</cyrillic>
+      <transcript>OKTAJABRI</transcript>
+      <definition>[= oktober j n. October.</definition>
+      <page>607</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠺᠲ᠋ᠠᠶᠠᠪᠣᠷᠢ ᠎ᠶᠢᠨ ᠬᠤᠪᠢᠰᠬᠠᠯ</unicode>
+          <transcript>-- jin xubisxal</transcript>
+          <definition> The October Revolution</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>октябрь</cyrillic>
+      <definition>Oktober m; Октябрийн Социалист Их Хувьсгал Große Sozialistische Oktoberrevolution</definition>
+      <page>169</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠺᠲ᠋ᠢᠶᠠᠪᠠᠷ</unicode>
+      <cyrillic>октябрь</cyrillic>
+      <definition>аравдугаар сар; аравдугаар сарын хувьсгал; Октябрийн баяр; Октябрийн хувьсгалын нөлөө.</definition>
+      <page>411</page>
+    </entry_item>
+  </entries>
+</entry>

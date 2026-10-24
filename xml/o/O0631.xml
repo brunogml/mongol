@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="O0631">
+  <head>
+    <unicode>ᠥᠰᠥᠺᠲᠥ</unicode>
+    <transcript>üsügtü</transcript>
+    <transcript2>ösögdö</transcript2>
+    <cyrillic>үсэгт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠦᠰᠦᠺᠳᠦ</unicode>
+      <definition>qui a des lettres, couvert de lettres ou de caractères.</definition>
+      <page>512</page>
+      <examples>
+        <example>
+          <unicode>ᠦᠰᠦᠺᠳᠦ ᠱᠠ</unicode>
+          <definition>crêpe parsemé de lettres</definition>
+        </example>
+        <example>
+          <unicode>ᠦᠰᠦᠺᠳᠦ ᠲᠤᠷᠭ᠎ᠠ</unicode>
+          <definition>tissu en soi parsemé de lettres</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠰᠥᠺᠲᠥ</unicode>
+      <cyrillic>ҮСЭГТ</cyrillic>
+      <definition>үсэгтэй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

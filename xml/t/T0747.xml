@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T0747">
+  <head>
+    <unicode>ᠲᠠᠭᠣᠯᠭ᠎ᠠ</unicode>
+    <transcript>taγulγ-a</transcript>
+    <transcript2>dagolga</transcript2>
+    <cyrillic>туулга</cyrillic>
+  </head><related_to>
+    <ref>T0333</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠭᠣᠯᠭ᠎ᠠ</unicode>
+      <uighur>taγulγ-a</uighur>
+      <cyrillic>туулга</cyrillic>
+      <transcript>TAΓULΓ-A</transcript>
+      <definition>n. Purgative, laxative; diarrhea.</definition>
+      <page>766</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠭᠣᠯᠭ᠎ᠠ ᠡᠮ</unicode>
+          <transcript>-- em</transcript>
+          <definition> Purgative, laxative.</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠠᠪᠤᠰᠤᠪ ᠲᠠᠭᠣᠯᠭ᠎ᠠ</unicode>
+          <transcript>dabusun -- </transcript>
+          <definition> Laxative salt.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠣᠰᠤᠨ ᠲᠠᠭᠣᠯᠭ᠎ᠠ</unicode>
+          <transcript>tosun -- </transcript>
+          <definition> Castor oil.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠭᠤᠯᠭ᠎ᠠ</unicode>
+      <definition>la diarrhée, le flux de ventre.</definition>
+      <page>1591</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠭᠤᠯᠭ᠎ᠠ ᠎ᠶᠢᠨ ᠡᠮ</unicode>
+          <definition>un purgatif, une purgation</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠭᠣᠯᠭ᠎ᠠ</unicode>
+      <uighur>daγulγa</uighur>
+      <definition>der Durchfall</definition>
+      <page>231</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠭᠣᠯᠭ᠎ᠠ</unicode>
+      <uighur>daγulγ-a</uighur>
+      <definition>n. Diarrhoea.</definition>
+      <page>910</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠭᠣᠯᠭ᠎ᠠ ᠎ᠶᠢᠨ ᠡᠮ</unicode>
+          <uighur>daγulγ-a-yin em</uighur>
+          <definition>n. Laxative medicine.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>туулга</cyrillic>
+    <definition>Pharm Abführmittel n</definition>
+    <page>241</page>
+  </entry_item>
+  </entries>
+</entry>

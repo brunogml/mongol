@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4830">
+  <head>
+    <unicode>ᠪᠥᠺᠰᠠᠯᠠᠺᠥ</unicode>
+    <transcript>bögselekü</transcript>
+    <transcript2>bögselegö</transcript2>
+    <cyrillic>бөгслөх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠭᠰᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>бөгслөх</cyrillic>
+      <definition>〔动〕切开臀部，分开臀部.</definition>
+      <page>184</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠺᠰᠠᠯᠠᠺᠥ</unicode>
+      <cyrillic>БӨГСЛӨХ</cyrillic>
+      <definition>отделять заднюю часть туши.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠥᠭᠰᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>бөгслөх</cyrillic>
+      <definition>бөгсий нь салгах.</definition>
+      <page>96</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>B4828</ref>
+  </related_to>
+</entry>

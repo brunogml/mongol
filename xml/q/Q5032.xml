@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q5032">
+  <head>
+    <unicode>ᠬᠣᠰᠢᠷᠠᠬᠣ</unicode>
+    <transcript>qosiraqu</transcript>
+    <transcript2>gosirago</transcript2>
+    <cyrillic>хошрох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q5034</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q5033</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠣᠰᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>хошрох</cyrillic>
+      <definition>〔动〕变长，变大.</definition>
+      <page>1382</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠰᠢᠷᠠᠬᠣ</unicode>
+      <cyrillic>ХОШРОХ</cyrillic>
+      <definition>гошрох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠰᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>хошрох</cyrillic>
+      <definition>хэтэрхий элбэгдэх, уртдах; хоширсон дээл өмсөхөд зохимжгүй; хэтэрхий урт бүс хошроод бүслэхэд түвэгтэй.</definition>
+      <page>701</page>
+    </entry_item>
+  </entries>
+</entry>

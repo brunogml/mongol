@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0055">
+  <head>
+    <unicode>ᠫᠠᠨᠴᠠᠯᠠᠬᠣ</unicode>
+    <transcript>pančalaqu</transcript>
+    <transcript2>pancalago</transcript2>
+    <cyrillic>панзлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0056</ref>
+    <ref>B0057</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠫᠠᠨᠽᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>панзлах</cyrillic>
+      <definition>〔动〕做买卖，投机贩卖.</definition>
+      <page>872</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠫᠠᠨᠴᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ПАНЗЛАХ</cyrillic>
+      <definition>спекулљровать; нууцаар панзлах яриа. из-под полы торговать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>панзлах</cyrillic>
+      <definition>schachern, spekulieren (mit etw. -аар)</definition>
+      <page>187</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠫᠠᠨᠽᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>панзлах</cyrillic>
+      <definition>панз хийх, наймаа хийх.</definition>
+      <page>451</page>
+    </entry_item>
+  </entries>
+</entry>

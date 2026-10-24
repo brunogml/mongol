@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3608">
+  <head>
+    <unicode>ᠰᠢᠪᠬᠠᠶᠢᠲᠣᠬᠣ</unicode>
+    <transcript>sibqayituqu</transcript>
+    <transcript2>sibgayidogo</transcript2>
+    <cyrillic>шавхайтах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3609</ref>
+    <ref>S3610</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠪᠬᠠᠢᠲᠤᠬᠤ</unicode>
+      <cyrillic>шавхайтах</cyrillic>
+      <definition>〔动〕变泥泞；粘上泥.</definition>
+      <page>1605</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠪᠬᠠᠶᠢᠲᠣᠬᠣ</unicode>
+      <cyrillic>ШАВХАЙТАХ</cyrillic>
+      <definition>загрязняться, покрываться грязью, образовываться (о слякоти). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шавхайтах</cyrillic>
+      <definition>sich mit Schlamm bedecken, verschlammen; schmutzig werden</definition>
+      <page>376</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠪᠬᠠᠢᠲᠤᠬᠤ</unicode>
+      <cyrillic>шавхайтах</cyrillic>
+      <definition>шавхайтай болох, шавхай тогтох.</definition>
+      <page>828</page>
+    </entry_item>
+  </entries>
+</entry>

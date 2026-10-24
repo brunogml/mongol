@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4612">
+  <head>
+    <unicode>ᠭᠣᠬᠴᠣᠭᠠᠯᠳᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>γoγčuγalduγulqu</transcript>
+    <transcript2>gogcogaldogolgo</transcript2>
+    <cyrillic>гогцоолдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q4611</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠣᠭᠴᠣᠭᠠᠯᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гогцоолдуулах</cyrillic>
+      <definition>〔动〕гогцоолдох 的使动态.</definition>
+      <page>299</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠬᠴᠣᠭᠠᠯᠳᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ГОГЦООЛДУУЛАХ</cyrillic>
+      <definition>гогцоолдох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠣᠭᠴᠣᠭᠠᠯᠳᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гогцоолдуулах</cyrillic>
+      <definition>гогцоолдохын үйлдүүлэх хэв.</definition>
+      <page>146</page>
+    </entry_item>
+  </entries>
+</entry>

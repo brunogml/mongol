@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2528">
+  <head>
+    <unicode>ᠳᠠᠶᠢᠯᠵᠠᠬᠣ</unicode>
+    <transcript>dayilǰaqu</transcript>
+    <transcript2>dayilcago</transcript2>
+    <cyrillic>даялзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T2530</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠶ᠍ᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>даялзах</cyrillic>
+      <definition>〔动〕参见 даяганах.</definition>
+      <page>403</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠶᠢᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ДАЯЛЗАХ</cyrillic>
+      <definition>даяганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠶ᠍ᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>даялзах</cyrillic>
+      <definition>даягар юмны даяс даяс хөдлөх.</definition>
+      <page>193</page>
+    </entry_item>
+  </entries>
+</entry>

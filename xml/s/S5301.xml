@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5301">
+  <head>
+    <unicode>ᠱᠣᠭᠣᠯᠭᠠᠬᠣ</unicode>
+    <transcript>šuγulγaqu</transcript>
+    <transcript2>sogolgago</transcript2>
+    <cyrillic>шуулгах</cyrillic>
+  </head>
+  <see_also>
+    <ref>S3365</ref>
+    <ref>S5300</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠭᠣᠯᠭᠠᠬᠣ</unicode>
+      <cyrillic>ШУУЛГАХ</cyrillic>
+      <definition>II шуух II-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠤᠭᠤᠯᠭᠠᠬᠤ</unicode>
+      <cyrillic>шуулгах</cyrillic>
+      <definition>шуухын үйлдүүлэх хэв.</definition>
+      <page>861</page>
+    </entry_item>
+  </entries>
+</entry>

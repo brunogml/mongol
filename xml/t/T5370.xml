@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5370">
+  <head>
+    <unicode>ᠲᠣᠨᠵᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tonǰiraγulqu</transcript>
+    <transcript2>donciragolgo</transcript2>
+    <cyrillic>тонжруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T5368</ref>
+  </related_to>
+  <see_also>
+    <ref>T5369</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠨᠵᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тонжруулах</cyrillic>
+      <definition>〔动〕тонжрох 的使动态.</definition>
+      <page>1072</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠨᠵᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТОНЖРУУЛАХ</cyrillic>
+      <definition>тонжрох-ын үйлдүүл., выделять, отделять. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠨᠵᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тонжруулах</cyrillic>
+      <definition>тонжрохын үйлдүүлэх хэв, шалтруулах.</definition>
+      <page>540</page>
+    </entry_item>
+  </entries>
+</entry>

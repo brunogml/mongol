@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0632">
+  <head>
+    <unicode>ᠴᠠᠶᠢᠰᠠᠬᠣ</unicode>
+    <transcript>čayisaqu</transcript>
+    <transcript2>cayisago</transcript2>
+    <cyrillic>цайсах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0634</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠢᠰᠠᠬᠤ</unicode>
+      <cyrillic>цайсах</cyrillic>
+      <definition>〔动〕想喝茶.</definition>
+      <page>1515</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠶᠢᠰᠠᠬᠣ</unicode>
+      <cyrillic>ЦАЙСАХ</cyrillic>
+      <definition>жаждать пить чай. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цайсах</cyrillic>
+      <definition>nach Tee lechzen</definition>
+      <page>352</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠢᠰᠠᠬᠤ</unicode>
+      <cyrillic>цайсах</cyrillic>
+      <definition>цай уухыг хүсэх.</definition>
+      <page>781</page>
+    </entry_item>
+  </entries>
+</entry>

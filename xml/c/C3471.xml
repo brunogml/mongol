@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3471">
+  <head>
+    <unicode>ᠴᠥᠪᠥᠳᠠᠯᠲᠥᠺᠥ</unicode>
+    <transcript>čöbüdeltükü</transcript>
+    <transcript2>cöbödeldögö</transcript2>
+    <cyrillic>цөвдөлтөх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠥᠪᠥᠳᠡᠯᠲᠦᠬᠦ</unicode>
+      <cyrillic>цөвдөлтөх</cyrillic>
+      <definition>〔动〕有碎末，有碎屑，有碎片.</definition>
+      <page>1541</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠥᠪᠥᠳᠠᠯᠲᠥᠺᠥ</unicode>
+      <cyrillic>ЦӨВДӨЛТӨХ</cyrillic>
+      <definition>крошиться на мелкие части, кусочки, рассыпаться на крупинки, дробиться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠥᠪᠥᠳᠡᠯᠲᠦᠬᠦ</unicode>
+      <cyrillic>цөвдөлтөх</cyrillic>
+      <definition>цөвдөлтэй болох.</definition>
+      <page>794</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>C3469</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A2280">
+  <head>
+    <unicode>A2280</unicode>
+    <transcript>alaquvar</transcript>
+    <transcript2>alagovar</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠯᠠᠬᠤᠸᠠᠷ</unicode>
+      <uighur>alaquvar</uighur>
+      <transcript>ALAXUVAR</transcript>
+      <definition>[alaxu- ber] adv. Fatally , mortally.</definition>
+      <page>27</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠯᠠᠬᠤᠸᠠᠷ ᠵᠠᠨᠴᠢᠬᠤ</unicode>
+          <transcript>-- zancixu</transcript>
+          <definition> To beat to death.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠯᠠᠬᠣᠸᠠᠷ</unicode>
+      <definition>donner la mort</definition>
+      <page>72</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠦᠮᠦᠨ ᠢ ᠠᠯᠠᠬᠣᠸᠠᠷ ᠵᠠᠨᠴᠢᠬᠤ</unicode>
+          <definition>rosser un homme à mort</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

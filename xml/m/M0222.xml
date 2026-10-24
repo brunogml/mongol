@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0222">
+  <head>
+    <unicode>ᠮᠠᠭᠠᠨᠠᠬᠲᠣᠬᠣ</unicode>
+    <transcript>maγanaγtuqu</transcript>
+    <transcript2>maganagdogo</transcript2>
+    <cyrillic>маанагтах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M0223</ref>
+    <ref>M0224</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠭᠠᠨᠠᠭᠲᠤᠬᠤ</unicode>
+      <cyrillic>маанагтах</cyrillic>
+      <definition>〔动〕发呆，变傻.</definition>
+      <page>651</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠭᠠᠨᠠᠬᠲᠣᠬᠣ</unicode>
+      <cyrillic>МААНАГТАХ</cyrillic>
+      <definition>глупеть, дуреть, тупеть; чи яахаа алдсан маанагтах амьтан биш ты же не круглый дурак; эргүү мал шиг маанагтах одуреть как скот, заразившийся вертячкой; ~ терять голову. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠭᠠᠨᠠᠭᠲᠤᠬᠤ</unicode>
+      <cyrillic>маанагтах</cyrillic>
+      <definition>маанаг зан гаргах, эргүүтэх, дүйнгэтэх.</definition>
+      <page>325</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>M0219</ref>
+  </related_to>
+</entry>

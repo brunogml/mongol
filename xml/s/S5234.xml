@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5234">
+  <head>
+    <unicode>ᠱᠣᠭᠣᠪᠲᠣᠷᠯᠠᠬᠣ</unicode>
+    <transcript>šoγubturlaqu</transcript>
+    <transcript2>sogobdorlago</transcript2>
+    <cyrillic>шоовдорлох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5235</ref>
+    <ref>S5236</ref>
+    <ref>S5238</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠣᠭᠣᠳᠪᠣᠷᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>шоовдорлох</cyrillic>
+      <definition>〔动〕嫌，讨厌，被憎恶.</definition>
+      <page>1649</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠭᠣᠪᠲᠣᠷᠯᠠᠬᠣ</unicode>
+      <cyrillic>ШООВДОРЛОХ</cyrillic>
+      <definition>1) не любить, недолюбливать, ставить кого-л. в худшие условия по сравнению с любимцем; 2) презирать, ненавидеть; высмеивать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шоовдорлох</cyrillic>
+      <definition>nicht mögen; eine Abneigung haben (gegen -ыг); umg nicht grün sein (jmdm. -ыг)</definition>
+      <page>389</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠣᠭᠣᠳᠪᠣᠷᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>шоовдорлох</cyrillic>
+      <definition>ад шоод болгон үзэх.</definition>
+      <page>854</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A1410">
+  <head>
+    <unicode>ᠠᠪᠢᠶᠠᠰᠲᠠᠶᠢᠪᠲᠣᠷ</unicode>
+    <transcript>abiyastayibtur</transcript>
+    <transcript2>abiyasdayibdor</transcript2>
+    <cyrillic>авьяастайвтар</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠪᠢᠶᠠᠰᠲᠠᠢᠪᠲᠤᠷ</unicode>
+      <cyrillic>авьяастайвтар</cyrillic>
+      <definition>〔形〕较有才华的，较有才干的.</definition>
+      <page>15</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠪᠢᠶᠠᠰᠲᠠᠶᠢᠪᠲᠣᠷ</unicode>
+      <cyrillic>АВЪЯАСТАЙВТАР</cyrillic>
+      <definition>зарим. по своему талантлив; немного способный.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠪᠢᠶᠠᠰᠲᠠᠢᠪᠲᠤᠷ</unicode>
+      <cyrillic>авьяастайвтар</cyrillic>
+      <definition>нилээд авьяастай.</definition>
+      <page>18</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>A1406</ref>
+  </related_to>
+</entry>

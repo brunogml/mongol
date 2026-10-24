@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5135">
+  <head>
+    <unicode>ᠲᠣᠣᠱᠷᠠᠬᠣ</unicode>
+    <transcript>toušraqu</transcript>
+    <transcript2>doosrago</transcript2>
+    <cyrillic>туушрах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T5136</ref>
+    <ref>T5137</ref>
+  </derivatives>
+  <see_also>
+    <ref>T5134a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠤᠱᠷᠠᠬᠤ</unicode>
+      <cyrillic>туушрах</cyrillic>
+      <definition>〔动〕变直，直通，贯通；变整齐，变条理：ажил ~ 工作变得有条理.</definition>
+      <page>1124</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠣᠱᠷᠠᠬᠣ</unicode>
+      <cyrillic>ТУУШРАХ</cyrillic>
+      <definition>упорядочиваться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠤᠱᠷᠠᠬᠤ</unicode>
+      <cyrillic>туушрах</cyrillic>
+      <definition>шулуудах, цэгцрэх; ажил чинь нэгэнт тууширсан хойно, явахад бэлэн биз ээ.</definition>
+      <page>561</page>
+    </entry_item>
+  </entries>
+</entry>

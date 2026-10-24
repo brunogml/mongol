@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0563">
+  <head>
+    <unicode>ᠰᠠᠬᠰᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>saγsaγanaqu</transcript>
+    <transcript2>sagsaganago</transcript2>
+    <cyrillic>сагсагнах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S0564</ref>
+    <ref>S0565</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠬᠰᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <uighur>saqsaγanaqu</uighur>
+      <cyrillic>сагсагнах</cyrillic>
+      <transcript>SAΓSAΓANA-</transcript>
+      <definition>Same as saγsalza-</definition>
+      <page>658</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠭᠰᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>сагсагнах</cyrillic>
+      <definition>〔动〕参见 сагсганах.</definition>
+      <page>895</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠬᠰᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>САГСАГНАХ</cyrillic>
+      <definition>неуклюже шевелиться (о лохматом предмете). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠬᠰᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>САГСГАНАХ</cyrillic>
+      <definition>1) двигаться с взъерошенными волосами; неуклюже шевелиться (о лохматом предмете); үс сагсганана волосы шевелятся; зогдор сагсганана шевелится грива у верблюда; 2) шилж. кичиться, хвастаться; слишком превозносить себя. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠭᠰᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>сагсганах</cyrillic>
+      <definition>сагсгар юмны үргэлжлэн сагсга сагсга хөдлөх; үс сагсганах; зогдор сагсганах.</definition>
+      <page>459</page>
+    </entry_item>
+  </entries>
+</entry>

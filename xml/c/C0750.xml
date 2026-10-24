@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0750">
+  <head>
+    <unicode>ᠴᠠᠷᠴᠠᠩᠺᠢᠲᠣᠬᠣ</unicode>
+    <transcript>čarčanggituqu</transcript>
+    <transcript2>carcanggidogo</transcript2>
+    <cyrillic>царцангитах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0751</ref>
+    <ref>C0752</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠷᠴᠠᠩᠭᠢᠲᠤᠬᠤ</unicode>
+      <cyrillic>царцангитах</cyrillic>
+      <definition>〔动〕参见 царцангирах.</definition>
+      <page>1522</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠷᠴᠠᠩᠺᠢᠲᠣᠬᠣ</unicode>
+      <cyrillic>ЦАРЦАНГИТАХ</cyrillic>
+      <definition>замерзать (о снеге). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>царцангитах</cyrillic>
+      <definition>Fett, Öl fest od starr werden, erkalten, gerinnen</definition>
+      <page>353</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠷᠴᠠᠩᠭᠢᠲᠤᠬᠤ</unicode>
+      <cyrillic>царцангитах</cyrillic>
+      <definition>царцанги байдалтай болох.</definition>
+      <page>784</page>
+    </entry_item>
+  </entries>
+</entry>

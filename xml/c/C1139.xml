@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1139">
+  <head>
+    <unicode>ᠴᠧᠺ</unicode>
+    <transcript>ček</transcript>
+    <transcript2>ceg</transcript2>
+    <cyrillic>чек</cyrillic>
+  </head>
+  <see_also>
+    <ref>C1138</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠧᠺ</unicode>
+      <cyrillic>чек</cyrillic>
+      <definition>〔名〕支票，传票；收款票，取货单：~ийн гүйлгээ 支票的流通；~ийн үлдэх хувь 支票的存根；~ийн гүйлгээ 支票流通；~ээр төлөх 支票支付，票付；~ийн эрх нээгдээгүй дэвтэр 非限额支票本；~ бичих 填写支票；~ цохих 签发支票.</definition>
+      <page>1583</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ЧЕК</cyrillic>
+      <definition>1. чек; 2. чековый.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чек</cyrillic>
+      <definition>1. Fin Scheck m; ~зэр тэлөх mit Scheck bezahlen
+2. Kassenzettel m; Bon m</definition>
+      <page>369</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠧᠺ</unicode>
+      <cyrillic>чек</cyrillic>
+      <definition>банкнаас мөнгө авах мэдүүлэг.</definition>
+      <page>816</page>
+    </entry_item>
+  </entries>
+</entry>

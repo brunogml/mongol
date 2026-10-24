@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1108">
+  <head>
+    <unicode>ᠥᠯᠺᠥᠯᠵᠠᠺᠥ</unicode>
+    <transcript>ülkülǰekü</transcript>
+    <transcript2>ölgölcegö</transcript2>
+    <cyrillic>үлхэлзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>O1109</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠦᠯᠬᠦᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>үлхэлзэх</cyrillic>
+      <definition>〔动〕参见 үлхэгнэх.</definition>
+      <page>1238</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠯᠺᠥᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>ҮЛХЭЛЗЭХ</cyrillic>
+      <definition>үлхэгнэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠦᠯᠬᠦᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>үлхэлзэх</cyrillic>
+      <definition>үлхгэр юмны байн байн хөдлөх.</definition>
+      <page>620</page>
+    </entry_item>
+  </entries>
+</entry>

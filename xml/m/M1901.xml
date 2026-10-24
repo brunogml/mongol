@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1901">
+  <head>
+    <unicode>ᠮᠣᠯᠭᠣᠷ</unicode>
+    <transcript>mulγur</transcript>
+    <transcript2>molgor</transcript2>
+    <cyrillic>мулгар</cyrillic>
+  </head>
+  <see_also>
+    <ref>M1902</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠤᠯᠭᠤᠷ</unicode>
+      <cyrillic>мулгар</cyrillic>
+      <definition>〔形〕钝了的，磨圆了的（有棱物）.</definition>
+      <page>693</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠯᠭᠣᠷ</unicode>
+      <cyrillic>МУЛГАР</cyrillic>
+      <definition>1) округленный, не имеющий углов; 2) корноухий; мулгар хулгар хорш. корноухий. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠤᠯᠤᠭᠠᠷ</unicode>
+      <cyrillic>мулгар</cyrillic>
+      <definition>мөр өнцөггүй юмны мөр элж мухар болсон нь;мулгар хулгар&lt;хорш&gt;.</definition>
+      <page>349</page>
+    </entry_item>
+  </entries>
+</entry>

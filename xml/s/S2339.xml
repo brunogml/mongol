@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2339">
+  <head>
+    <unicode>ᠰᠠᠮᠠᠷᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>semeregülkü</transcript>
+    <transcript2>semeregölgö</transcript2>
+    <cyrillic>сэмрүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S2338</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠮᠡᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сэмрүүлэх</cyrillic>
+      <definition>〔动〕сэмрэх 的使动态.</definition>
+      <page>988</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠮᠠᠷᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>СЭМРҮҮЛЭХ</cyrillic>
+      <definition>сэмрэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠮᠡᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сэмрүүлэх</cyrillic>
+      <definition>сэмрэхийн үйлдүүлэх хэв.</definition>
+      <page>503</page>
+    </entry_item>
+  </entries>
+</entry>

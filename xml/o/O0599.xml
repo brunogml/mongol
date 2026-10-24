@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O0599">
+  <head>
+    <unicode>ᠥᠰᠥᠲᠥᠺᠥᠯᠺᠥ</unicode>
+    <transcript>üsütügülkü</transcript>
+    <transcript2>ösödögölgö</transcript2>
+    <cyrillic>үстүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>O0598</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠦᠰᠦᠲᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>үстүүлэх</cyrillic>
+      <definition>〔动〕үстэх 的使动态.</definition>
+      <page>1248</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠰᠥᠲᠥᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ҮСТҮҮЛЭХ</cyrillic>
+      <definition>үстэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠦᠰᠦᠲᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>үстүүлэх</cyrillic>
+      <definition>үстэхийн үйлдүүлэх хэв.</definition>
+      <page>627</page>
+    </entry_item>
+  </entries>
+</entry>

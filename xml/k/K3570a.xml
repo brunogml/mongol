@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K3570a">
+  <head>
+    <unicode>ᠺᠥᠪᠴᠢᠨ</unicode>
+    <transcript>gübčin</transcript>
+    <transcript2>göbci</transcript2>
+  </head>
+  <see_also>
+    <ref>K3570</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠦᠪᠴᠢᠨ</unicode>
+      <definition>tout, toute, entier, en tout, en général, en somme</definition>
+      <page>2581</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠦᠪᠴᠢᠨ ᠤᠯᠤᠰ</unicode>
+          <definition>tout le monde, tout le peuple</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠦᠪᠴᠢᠨ ᠪᠡᠶ ᠡ</unicode>
+          <definition>le corps entier</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

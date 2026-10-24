@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2476">
+  <head>
+    <unicode>ᠰᠠᠺᠠᠺᠠᠷᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>segegeregülkü</transcript>
+    <transcript2>segegeregölgö</transcript2>
+    <cyrillic>сэгээрүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S2474</ref>
+  </related_to>
+  <see_also>
+    <ref>S2487</ref>
+    <ref>S2475</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠺᠠᠺᠠᠷᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>СЭГЭЭРҮҮЛЭХ</cyrillic>
+      <definition>сэгээрэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠭᠡᠭᠡᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сэгээрүүлэх</cyrillic>
+      <definition>сэгээрэхийн үйлдүүлэх хэв.</definition>
+      <page>501</page>
+    </entry_item>
+  </entries>
+</entry>

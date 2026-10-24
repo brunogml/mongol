@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A2584">
+  <head>
+    <unicode>ᠠᠯᠲᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>altadaγulqu</transcript>
+    <transcript2>aldadagolgo</transcript2>
+    <cyrillic>алтауулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>A2583</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠯᠲᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>алтдуулах</cyrillic>
+      <definition>〔动〕алтдах 的使动态.</definition>
+      <page>45</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠯᠲᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>АЛТДУУЛАХ</cyrillic>
+      <definition>алтдах–ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠯᠲᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>алтдуулах</cyrillic>
+      <definition>алтдахын үйлдүүлэх хэв.</definition>
+      <page>35</page>
+    </entry_item>
+  </entries>
+</entry>

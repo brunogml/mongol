@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T4003">
+  <head>
+    <unicode>ᠳᠠᠯᠳᠠᠺᠥ</unicode>
+    <transcript>deldekü</transcript>
+    <transcript2>deldegö</transcript2>
+    <cyrillic>дэлдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T4004</ref>
+    <ref>T3991</ref>
+  </derivatives>
+  <see_also>
+    <ref>T3858</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠠᠯᠳᠠᠺᠥ</unicode>
+      <uighur>deldekü</uighur>
+      <cyrillic>дэлдэх</cyrillic>
+      <transcript>DELDE-</transcript>
+      <definition>v.t. s To seize an animal by the mane, hold on to the mane.</definition>
+      <page>248</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠡᠯᠳᠡᠺᠦ</unicode>
+      <definition>saisir par la crinière.</definition>
+      <page>1721</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠡᠯᠳᠡᠵᠦ ᠠᠯᠠᠪᠺᠢᠺᠦ</unicode>
+          <definition>se tenant par la crinière, sauter sur le cheval</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠯᠳᠠᠺᠥ</unicode>
+      <cyrillic>ДЭЛДЭХ</cyrillic>
+      <definition>II хватать, брать, хвататься за гриву; дэлдэж алавхийх скакать на лошади, ухватившись за гриву; дэлдээд тогтоогоогүй юм, сүүлдээд тогтоохгүй цэцэн. не удержался за гриву и за хвост не удержишься. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠯᠳᠡᠬᠦ</unicode>
+      <cyrillic>дэлдэх /2</cyrillic>
+      <definition>адуу малын дэлээс барих, үгтээх; наад морио дэлдэж байгаад хазаарла!</definition>
+      <page>226</page>
+    </entry_item>
+  </entries>
+</entry>

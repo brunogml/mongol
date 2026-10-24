@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T4121">
+  <head>
+    <unicode>ᠲᠠᠮᠥᠷᠲᠥ</unicode>
+    <transcript>temürtü</transcript>
+    <transcript2>demördö</transcript2>
+    <cyrillic>төмөрт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠡᠮᠦᠷᠳᠦ</unicode>
+      <definition>de fer.</definition>
+      <page>1729</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠡᠮᠦᠷᠳᠦ ᠠᠭᠤᠯᠠ</unicode>
+          <definition>montagne de fer</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠡᠮᠦᠷᠲᠦ</unicode>
+      <cyrillic>төмөрт</cyrillic>
+      <definition>〔形〕铁的，铁制的，含铁的：~ гялтгануур 磷铁矿；~ ногоовор 铁海绿石；~ шохойцор 含铁石灰岩；~ эвэр чулуу 含铁砂岩；~ чулуулаг 铁质岩，铁矿岩.</definition>
+      <page>1098</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠮᠥᠷᠲᠥ</unicode>
+      <cyrillic>ТӨМӨРТ</cyrillic>
+      <definition>төмөртэй-г үз., болд төмөрт стальной. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+<see_also><ref>T4117</ref></see_also><related_to><ref>T4116</ref></related_to></entry>

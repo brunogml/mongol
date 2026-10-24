@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K5049">
+  <head>
+    <unicode>ᠭᠦᠷᠦᠮᠡᠯ</unicode>
+    <transcript>gürümel</transcript>
+    <transcript2>görömel</transcript2>
+    <cyrillic>гүрмэл</cyrillic>
+  </head>
+  <see_also>
+    <ref>K5048</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠥᠷᠥᠮᠡᠯ</unicode>
+      <uighur>gürümel</uighur>
+      <cyrillic>гөрмөл</cyrillic>
+      <transcript>GYRYMEL</transcript>
+      <definition>[n. d. of gyry-] adj. Braided, woven, plaited.</definition>
+      <page>392</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠥᠷᠥᠮᠡᠯ ᠪᠦᠰᠡ</unicode>
+          <transcript>-- byse</transcript>
+          <definition>Braided belt.</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠥᠷᠥᠮᠡᠯ ᠲᠠᠰᠢᠭᠤᠷ</unicode>
+          <transcript>-- tasiγur</transcript>
+          <definition>Whip made, of several braided strands.</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠥᠷᠥᠮᠡᠯ ᠦᠰᠦ</unicode>
+          <transcript>-- ysy</transcript>
+          <definition>Braided hair.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠷᠥᠮᠡᠯ</unicode>
+      <cyrillic>ГҮРМЭЛ</cyrillic>
+      <definition>заплетённые в косу волосы; гөрмөл-ийг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠦᠷᠦᠮᠡᠯ</unicode>
+      <definition>1 tressé; &#13;
+2 ruban tressé</definition>
+      <page>2643</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠦᠷᠦᠮᠡᠯ ᠦᠰᠦᠨ</unicode>
+          <definition>la tresse des cheveux, cheveux tressés</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠦᠷᠦᠮᠡᠯ ᠪᠦᠰᠡ</unicode>
+          <definition>ceinture tressée</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

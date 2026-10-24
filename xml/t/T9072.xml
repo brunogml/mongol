@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T9072">
+  <head>
+    <unicode>ᠲᠥᠺᠥᠺᠡᠷᠡᠺᠥ</unicode>
+    <transcript>tökügerekü</transcript>
+    <transcript2>dögögeregö</transcript2>
+    <cyrillic>төхөөрөх</cyrillic>
+  </head><see_also>
+    <ref>T9086</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠥᠺᠥᠺᠡᠷᠡᠺᠥ</unicode>
+      <uighur>tökükerekü</uighur>
+      <cyrillic>төхөөрөх</cyrillic>
+      <transcript>TØKYGERE-</transcript>
+      <definition>v.t. To make preparations, prepare, ready, arrange, put in order; to gather, pick up something that was lost; to understand (Kharachin dialect).</definition>
+      <page>833</page>
+      <examples>
+        <example>
+          <unicode>ᠶᠠᠭᠤᠮᠠ ᠲᠥᠺᠥᠺᠡᠷᠡᠺᠥ</unicode>
+          <transcript>jaγuma --ky</transcript>
+          <definition> To prepare things; to lay in supplies</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠦᠮᠦᠨ ᠤ ᠦᠭᠡ ᠎ᠶᠢ ᠲᠥᠺᠥᠺᠡᠷᠡᠺᠥ</unicode>
+          <transcript>kymyn y yge ji --ky</transcript>
+          <definition> To understand other people's words (Kharachin dialect).</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠦᠨᠡᠰᠦ ᠲᠥᠺᠥᠺᠡᠷᠡᠺᠥ</unicode>
+          <transcript>kynesy --ky</transcript>
+          <definition> To prepare or lay in provisions.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠷᠭᠤᠯ ᠲᠥᠺᠥᠺᠡᠷᠡᠺᠥ</unicode>
+          <transcript>xorγul --ky</transcript>
+          <definition> To prepare a meal.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠦᠺᠦᠺᠡᠷᠡᠺᠦ</unicode>
+      <definition>retrouver , ramasser, garder les choses perdues précédemment</definition>
+      <page>1931</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠥᠺᠥᠺᠡᠷᠡᠺᠥ</unicode>
+      <uighur>dügükerekü</uighur>
+      <definition>wieder finden, wieder aufheben (etwas Gefallenes oder Verlorenes).</definition>
+      <page>259</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠥᠺᠥᠺᠡᠷᠡᠺᠥ</unicode>
+      <uighur>tükükerekü</uighur>
+      <definition>v.t. To find again, to pick up again (having been dropped or lost).</definition>
+      <page>1028</page>
+    </entry_item>
+  </entries>
+</entry>

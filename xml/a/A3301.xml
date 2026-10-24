@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A3301">
+  <head>
+    <unicode>ᠠᠵᠢᠯᠯᠠᠪᠣᠷᠢᠯᠠᠬᠣ</unicode>
+    <transcript>aǰillaburilaqu</transcript>
+    <transcript2>acillaborilago</transcript2>
+    <cyrillic>ажиллаварлах</cyrillic>
+  </head><derivatives>
+    <ref>A3302</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠵᠢᠯᠯᠠᠪᠤᠷᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>ажиллаварлах</cyrillic>
+      <definition>〔动〕①做作业，进行实验；②〈医〉施行手术，动手术，做手术.</definition>
+      <page>28</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠵᠢᠯᠯᠠᠪᠣᠷᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>АЖИЛЛАВАРЛАХ</cyrillic>
+      <definition>1. оперировать; 2. операция; ажиллаварлах хугацаа тусг. срок проведения операции; 3. операционный; операбельный; ажиллаварлах тохиол тусг. операбельный случай.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠵᠢᠯᠯᠠᠪᠣᠷᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>АЖИЛЛАВАРЛАХГҮЙ</cyrillic>
+      <definition>неоперационный; ажиллаварлахгүй тохиол тусг. неоперационный случай.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

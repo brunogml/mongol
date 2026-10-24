@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y1324">
+  <head>
+    <unicode>ᠶᠠᠯᠺᠢᠲᠣ</unicode>
+    <transcript>yalgitu</transcript>
+    <transcript2>yalgido</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠶᠠᠯᠺᠢᠲᠣ</unicode>
+      <uighur>yalkidu</uighur>
+      <transcript>JALKITU</transcript>
+      <page>426</page>
+      <examples>
+        <example>
+          <unicode>ᠶᠠᠯᠺᠢᠲᠣ ᠭᠠᠵᠠᠷ</unicode>
+          <transcript>-- γazar</transcript>
+          <definition> Firm ground; frozen ground.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠠᠯᠺᠢᠳᠤ ᠭᠠᠵᠠᠷ</unicode>
+      <definition>terrain ferme, terre gelée</definition>
+      <page>2289</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠶᠠᠯᠺᠢᠲᠣ</unicode>
+      <uighur>yalkidu γaǰar</uighur>
+      <definition>Solid ground. Frozen earth.</definition>
+      <page>1155</page>
+    </entry_item>
+  </entries>
+</entry>

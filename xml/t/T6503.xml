@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T6503">
+  <head>
+    <unicode>ᠲᠣᠰᠣᠬᠣ</unicode>
+    <transcript>tosuqu</transcript>
+    <transcript2>dosogo</transcript2>
+  </head><derivatives>
+    <ref>T6505</ref>
+  
+    <ref>T6506</ref>
+  
+    <ref>T6540</ref>
+  </derivatives><see_also>
+    <ref>T6504</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠰᠣᠬᠤ</unicode>
+      <definition>tenir, soutenir, mettre un appui sous qc. qui va tomber: 2 entreprendre, se charger de, s'engager à: 3 barrer le chemin à qn., se mettre à la traverse, garder les chemins: 4 préparer.</definition>
+      <page>1828</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠤᠰᠣᠨ ᠠᠪᠬᠤ</unicode>
+          <definition>attraper, soutenir</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠣᠰᠣᠬᠣ</unicode>
+      <uighur>dusoqu</uighur>
+      <definition>etwas Fallendes mit der Hand auffangen.</definition>
+      <page>256</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠣᠰᠣᠬᠣ</unicode>
+      <uighur>tusuqu</uighur>
+      <definition>The rays of the sun shining on an object. To hit an object with a shot. To go to meet someone who is expected. To catch something falling while it is still in motion</definition>
+      <page>1016</page>
+    </entry_item>
+  </entries>
+</entry>

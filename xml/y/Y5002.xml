@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y5002">
+  <head>
+    <unicode>ᠵᠥᠢᠷᠯᠡᠺᠥ</unicode>
+    <transcript>ǰüirlekü</transcript>
+    <transcript2>yöirlegö</transcript2>
+    <cyrillic>зүйрлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y5003</ref>
+    <ref>Y5001</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠥᠢᠷᠯᠡᠺᠥ</unicode>
+      <uighur>ǰüirlekü</uighur>
+      <cyrillic>зүйрлэх</cyrillic>
+      <transcript>ZYIRLE-</transcript>
+      <definition>[= zuirla-] v.i. and t. To be alike, equal, the same; to compare, to alliterate</definition>
+      <page>1084</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠮᠠᠲᠠᠢ ᠵᠥᠢᠷᠯᠡᠺᠥ ᠦᠭᠡᠢ</unicode>
+          <transcript>cimatai --ky ygei</transcript>
+          <definition> Cannot be compared with you</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠦᠢᠷᠯᠡᠬᠦ</unicode>
+      <cyrillic>зүйрлэх</cyrillic>
+      <definition>〔动〕(юутай-хэнтэй) ①比喻，比拟，对照，对比：сайн юмтай ~ хэрэгтэй 应与好的东西对比；②隐喻：~сэн утга санаа 隐喻意义；~сэн хэллэг 隐喻词语.</definition>
+      <page>586</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠥᠢᠷᠯᠡᠺᠥ</unicode>
+      <cyrillic>ЗҮЙРЛЭХ</cyrillic>
+      <definition>сравнивать, сопоставлять; чамтай зүйрлэхгүй несравним с тобой; зүйрлэх юм биш не идти в сравнение с кем-чем-л.; дать десять очков вперёд кому-л.; нар сартай зүйрлэн магтах сравнивать с луной и солнцем; воскурить фимиам кому-л. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зүйрлэх</cyrillic>
+      <definition>gegenüberstellen, vergleichen (mit -тай)</definition>
+      <page>128</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠦᠢᠷᠯᠡᠬᠦ</unicode>
+      <cyrillic>зүйрлэх</cyrillic>
+      <definition>ямар нэгэн юмыг өөр нэгэн юмтай жишиж адилтгах; сайн юмтай зүйрлэх хэрэгтэй.</definition>
+      <page>290</page>
+    </entry_item>
+  </entries>
+</entry>

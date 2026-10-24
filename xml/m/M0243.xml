@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0243">
+  <head>
+    <unicode>ᠮᠠᠭᠠᠰᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>maγasalǰaqu</transcript>
+    <transcript2>magasalcago</transcript2>
+    <cyrillic>маасалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M0244</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠭᠠᠰᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>маасалзах</cyrillic>
+      <definition>〔動〕参见 маасганах.</definition>
+      <page>652</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠭᠠᠰᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>МААСАЛЗАХ</cyrillic>
+      <definition>маасганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠭᠠᠰᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>маасалзах</cyrillic>
+      <definition>маасгар юмны үргэлжлэн хөдлөх; хүүхэнтэй маасганах.</definition>
+      <page>325</page>
+    </entry_item>
+  </entries>
+</entry>

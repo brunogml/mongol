@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3821">
+  <head>
+    <unicode>ᠴᠥᠷᠥᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>čörügenekü</transcript>
+    <transcript2>cörögenegö</transcript2>
+    <cyrillic>чөрөгнөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C3822</ref>
+    <ref>C3820</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠥᠷᠥᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>чөрөгнөх</cyrillic>
+      <definition>〔动〕瘦弱物、细瘦物或脆弱物频频动，接连晃动.</definition>
+      <page>1597</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠥᠷᠥᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>ЧӨРӨГНӨХ</cyrillic>
+      <definition>идти, двигаться (о ком-чем-л. худом). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чөрөгнөх,</cyrillic>
+      <definition>чөролзох = чөргөнөх</definition>
+      <page>374</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠥᠷᠥᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>чөрөгнөх</cyrillic>
+      <definition>чөргөр юмны үргэлжлэн хөдлөх.</definition>
+      <page>823</page>
+    </entry_item>
+  </entries>
+</entry>

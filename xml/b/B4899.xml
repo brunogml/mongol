@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4899">
+  <head>
+    <unicode>ᠪᠥᠺᠴᠢᠮᠳᠠᠺᠥ</unicode>
+    <transcript>bügčimdekü</transcript>
+    <transcript2>bögcimdegö</transcript2>
+    <cyrillic>бүгчимдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B4901</ref>
+  </derivatives>
+  <variants>
+    <variant type="cyrillic">бөгчимдөх</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠦᠭᠴᠢᠮᠳᠡᠬᠦ</unicode>
+      <cyrillic>бүгчимдэх</cyrillic>
+      <definition>〔动〕闷热，窒息，窒塞，喘不过气来.</definition>
+      <page>222</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠺᠴᠢᠮᠳᠠᠺᠥ</unicode>
+      <cyrillic>БҮГЧИМДЭХ</cyrillic>
+      <definition>1. испытывать духоту, зной; задыхаться, париться; 2. бүгчимдэхүй-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠺᠴᠢᠮᠳᠠᠺᠥᠢ</unicode>
+      <cyrillic>БҮГЧИМДЭХҮЙ</cyrillic>
+      <definition>удушье.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠭᠴᠢᠮᠳᠡᠬᠦ</unicode>
+      <cyrillic>бөгчимдөх</cyrillic>
+      <definition>〔动〕①见 бүгчимдэх；②咽气.</definition>
+      <page>185</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бүгчимдэх</cyrillic>
+      <definition>unter der Schwüle leiden</definition>
+      <page>65</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠦᠭᠴᠢᠮᠳᠡᠬᠦ</unicode>
+      <cyrillic>бүгчимдэх</cyrillic>
+      <definition>бүгчимд тэсч ядах; дотор бүгчимдээд байна.</definition>
+      <page>114</page>
+    </entry_item>
+  </entries>
+</entry>

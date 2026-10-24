@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0161">
+  <head>
+    <unicode>ᠲᠠᠩᠨᠠᠶᠢᠷᠠᠬᠣ</unicode>
+    <transcript>tangnayiraqu</transcript>
+    <transcript2>dangnayirago</transcript2>
+    <cyrillic>тагнайрах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T0162</ref>
+    <ref>T0163</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠩᠨᠠᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>тагнайрах</cyrillic>
+      <definition>〔动〕〈医〉（马）腭红肿化脓.</definition>
+      <page>1011</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠩᠨᠠᠶᠢᠷᠠᠬᠣ</unicode>
+      <cyrillic>ТАГНАЙРАХ</cyrillic>
+      <definition>1) болезнь нёба (у лошади); 2) получаться, образоваться (об узоре). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тагнайрах</cyrillic>
+      <definition>Pferd durch Schwellung des Gaumens nicht mehr fressen können</definition>
+      <page>216</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠩᠨᠠᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>тагнайрах</cyrillic>
+      <definition>1. адууны тагнай зузаараад юм идэж чадахгүй болох;2. тагнай мэт иржгэр ар бий болох.</definition>
+      <page>513</page>
+    </entry_item>
+  </entries>
+</entry>

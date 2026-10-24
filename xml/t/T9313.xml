@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9313">
+  <head>
+    <unicode>ᠲᠥᠷᠢᠶᠠᠰᠥᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>türiyesülegülkü</transcript>
+    <transcript2>döriyesölegölgö</transcript2>
+    <cyrillic>түрээслүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T9311</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠦᠷᠢᠶᠡᠰᠦᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>түрээслүүлэх</cyrillic>
+      <definition>〔动〕түрээслэх 的使动态；出赁，出租：~ гэрээ 租让合同.</definition>
+      <page>1141</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠷᠢᠶᠠᠰᠥᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ТҮРЭЭСЛҮҮЛЭХ</cyrillic>
+      <definition>түрээслэх-ийн үйлдүүл., сдавать в аренду. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠦᠷᠢᠶᠡᠰᠦᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>түрээслүүлэх</cyrillic>
+      <definition>түрээслэхийн үйлдүүлэх хэв.</definition>
+      <page>569</page>
+    </entry_item>
+  </entries>
+</entry>

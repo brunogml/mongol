@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1841">
+  <head>
+    <unicode>ᠨᠢᠺᠥᠷᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>nigürlegülkü</transcript>
+    <transcript2>nigörlegölgö</transcript2>
+    <cyrillic>нүүрлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>N1840</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠢᠭᠤᠷᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нүүрлүүлэх</cyrillic>
+      <definition>〔动〕нүүрлэх 的使动态.</definition>
+      <page>767</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠢᠺᠥᠷᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>НҮҮРЛҮҮЛЭХ</cyrillic>
+      <definition>нүүрлэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠢᠭᠤᠷᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нүүрлүүлэх</cyrillic>
+      <definition>нүүрлэхийн үйлдүүлэх хэв; захидал нүүрлүүлэх; бичиг нүүрлүүлэх.</definition>
+      <page>393</page>
+    </entry_item>
+  </entries>
+</entry>

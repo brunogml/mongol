@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3830">
+  <head>
+    <unicode>ᠴᠥᠷᠥᠶᠢᠺᠥ</unicode>
+    <transcript>čörüyikü</transcript>
+    <transcript2>cöröyigö</transcript2>
+    <cyrillic>чөрийх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C3829</ref>
+  </derivatives>
+  <see_also>
+    <ref>C3831</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠥᠷᠥᠢᠬᠦ</unicode>
+      <cyrillic>чөрийх</cyrillic>
+      <definition>〔动〕变瘦弱，变细瘦，变脆弱.</definition>
+      <page>1597</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠥᠷᠥᠶᠢᠺᠥ</unicode>
+      <cyrillic>ЧӨРИЙХ</cyrillic>
+      <definition>сделаться худым, слабым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чөрийх</cyrillic>
+      <definition>= чорчийх</definition>
+      <page>374</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠥᠷᠥᠢᠬᠦ</unicode>
+      <cyrillic>чөрийх</cyrillic>
+      <definition>чөргөр болох.</definition>
+      <page>823</page>
+    </entry_item>
+  </entries>
+</entry>

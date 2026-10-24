@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q5422b">
+  <head>
+    <unicode> ᠺᠣᠸᠺᠠ</unicode>
+    <transcript>kola</transcript>
+    <transcript2>gola</transcript2>
+  </head><see_also>
+    <ref>Q5422a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode> ᠺᠣᠸᠺᠠ</unicode>
+      <uighur>kovla</uighur>
+      <transcript>GOVLA</transcript>
+      <definition>[S. guda, gola] n. Globe, sphere.</definition>
+      <page>385</page>
+      <examples>
+        <example>
+          <transcript>γazar un -- Terrestrial globe</transcript>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠤᠸᠯᠠ</unicode>
+      <definition>globe, sphère.</definition>
+      <page>2557</page>
+    </entry_item>
+  </entries>
+</entry>

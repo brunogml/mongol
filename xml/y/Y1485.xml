@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y1485">
+  <head>
+    <transcript>ǰakar</transcript>
+    <transcript2>yagar</transcript2>
+    <cyrillic>загар</cyrillic>
+  </head><see_also>
+    <ref>Y1486</ref>
+  
+    <ref>Y0483</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠠᠺᠠᠷ</unicode>
+      <uighur>ǰakar</uighur>
+      <cyrillic>загар</cyrillic>
+      <transcript>ZAKAR</transcript>
+      <definition>[T. rgya-gar = white plain or expanse] n.p. India (popular name frequent in Buddhist scriptures).</definition>
+      <page>1029</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠠᠺᠠᠷ ᠺᠡᠯᠡ</unicode>
+          <transcript>-- kele</transcript>
+          <definition> Sanskrit (popular name frequent in Buddhist scriptures).</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

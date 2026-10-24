@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q2994">
+  <head>
+    <unicode>ᠬᠠᠶᠢᠳᠠ</unicode>
+    <transcript>qayida</transcript>
+    <transcript2>gayida</transcript2>
+    <cyrillic>хайдаа</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q2999</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠢᠳᠠ</unicode>
+      <cyrillic>хайдаа</cyrillic>
+      <definition>〔名〕见 хадай.</definition>
+      <page>1278</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠶᠢᠳᠠ</unicode>
+      <cyrillic>ХАЙДАА</cyrillic>
+      <definition>ханин-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хайдаа[н]</cyrillic>
+      <definition>= ханин</definition>
+      <page>284</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠢᠳᠠᠬᠠᠢᠳᠠᠢ</unicode>
+      <cyrillic>хайдаа</cyrillic>
+      <definition>&lt;ургамал&gt;далайн усанд ургадаг, хэлбэр хавтгай, өнгө харвор ногоон нэгэн зүйл ногоо, хүнс ба эмнэлэгт хэрэглэдэг, ханин ч гэдэг.</definition>
+      <page>644</page>
+    </entry_item>
+  </entries>
+</entry>

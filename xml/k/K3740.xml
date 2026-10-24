@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K3740">
+  <head>
+    <unicode>ᠺᠥᠳᠡᠩᠲᠥᠺᠥ</unicode>
+    <transcript>küdengtükü</transcript>
+    <transcript2>gödengdögö</transcript2>
+    <cyrillic>хүдэнтэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K3741</ref>
+    <ref>K3739</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠦᠳᠡᠩᠲᠦᠬᠦ</unicode>
+      <cyrillic>хүдэнтэх</cyrillic>
+      <definition>〔动〕①尘土飞扬；②落上尘土.</definition>
+      <page>1450</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠳᠡᠩᠲᠥᠺᠥ</unicode>
+      <cyrillic>ХҮДЭНТЭХ</cyrillic>
+      <definition>стелиться (о тумане), покрываться туманом, туманиться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хүдэнтэх</cyrillic>
+      <definition>dunstig werden</definition>
+      <page>333</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠦᠳᠡᠩᠲᠦᠬᠦ</unicode>
+      <cyrillic>хүдэнтэх</cyrillic>
+      <definition>хүдэн татах, хүдэн тогтох, хүдэн суух.</definition>
+      <page>742</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K0728">
+  <head>
+    <unicode>ᠺᠠᠯᠠᠺᠴᠢ</unicode>
+    <transcript>kelegči</transcript>
+    <transcript2>gelegci</transcript2>
+    <cyrillic>хэлэгч</cyrillic>
+  </head><derivatives>
+    <ref>K0727</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠠᠯᠠᠺᠴᠢ</unicode>
+      <uighur>kelegči</uighur>
+      <cyrillic>хэлэгч</cyrillic>
+      <transcript>KELEGCI</transcript>
+      <definition>n. Speaker; predicate (' gram.).</definition>
+      <page>447</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠩ ᠤᠨ ᠺᠠᠯᠠᠺᠴᠢ</unicode>
+          <transcript>eng yn --, </transcript>
+          <definition>Simple predicate (gram).</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠯᠡᠭᠴᠢ</unicode>
+      <cyrillic>хэлэгч</cyrillic>
+      <definition>〔名〕说话者，发言人.</definition>
+      <page>1481</page>
+    </entry_item>
+  </entries>
+</entry>

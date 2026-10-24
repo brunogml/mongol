@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1398">
+  <head>
+    <unicode>ᠣᠲᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>otuγulqu</transcript>
+    <transcript2>odogolgo</transcript2>
+    <cyrillic>отуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U1396</ref>
+  </related_to>
+  <see_also>
+    <ref>U1397</ref>
+    <ref>U1399</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠲᠣᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>отуулах</cyrillic>
+      <definition>〔動〕отох 的使动态.</definition>
+      <page>827</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠲᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ОТУУЛАХ</cyrillic>
+      <definition>отох-ын үйлдүүл., заставлять подкарауливать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>отуулах</cyrillic>
+      <definition>отохын үйлдүүлэх хэв.</definition>
+      <page>427</page>
+    </entry_item>
+  </entries>
+</entry>

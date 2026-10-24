@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0422">
+  <head>
+    <unicode>ᠵᠠᠭᠠᠯᠳᠣᠬᠣ</unicode>
+    <transcript>ǰaγalduqu</transcript>
+    <transcript2>yagaldogo</transcript2>
+    <cyrillic>заалдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y0423</ref>
+    <ref>Y0424</ref>
+  </derivatives>
+  <see_also>
+    <ref>Y0422a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠠᠭᠠᠯᠳᠣᠬᠣ</unicode>
+      <uighur>ǰaγaldoqu</uighur>
+      <cyrillic>заалдах</cyrillic>
+      <transcript>ZAΓALDU-</transcript>
+      <definition>v. t. To litigate, sue; to accuse.</definition>
+      <page>1022</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠠᠭᠠᠯᠳᠣᠭᠰᠠᠨ ᠺᠦᠮᠦᠨ</unicode>
+          <transcript>--γsan kymyn</transcript>
+          <definition>Litigant, plaintiff.</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠠᠭᠠᠯᠳᠣᠬᠣ ᠶᠠᠪᠤᠳᠠᠯ</unicode>
+          <transcript>--xu jabudal</transcript>
+          <definition>Lawsuit, litigation.</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠠᠪᠠᠵᠤ ᠵᠠᠭᠠᠯᠳᠣᠬᠣ</unicode>
+          <transcript>dabazu --xu</transcript>
+          <definition>To appeal (legal).</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠠᠭᠠᠯᠳᠣᠬᠤ</unicode>
+      <definition>faire procès à qn., accuser, plaider.</definition>
+      <page>2247</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠠᠭᠠᠯᠳᠣᠭᠰᠠᠨ ᠺᠦᠮᠦᠨ</unicode>
+          <definition>celui qui accuse le premier, plaignant, plaiseur</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠵᠠᠭᠠᠯᠳᠣᠬᠣ</unicode>
+      <uighur>ǰaγaldoqu</uighur>
+      <definition>gerichtlich belangen, processiren, sich beklagen, eine Klagschrit einreichen.</definition>
+      <page>294</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠵᠠᠭᠠᠯᠳᠣᠬᠣ</unicode>
+      <uighur>ǰaγalduqu</uighur>
+      <definition>v.t. To accuse before a court. To go to law with someone. To present an indictment. To complain.</definition>
+      <page>1183</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠵᠠᠭᠠᠯᠳᠣᠬᠣ</unicode>
+      <uighur>ǰaγalduqsan kümün</uighur>
+      <definition>The prosecutor. The plaintiff</definition>
+      <page>1183</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠭᠠᠯᠳᠣᠬᠣ</unicode>
+      <cyrillic>ЗААЛДАХ</cyrillic>
+      <definition>заах I-ын үйлдэлд., судиться, иметь с кем-л. тяжбу, вести тяжбу; тягаться; давж заалдах хууль. а) апеллировать; подавать кассацию, обжаловать; б) апелляция, кассация, обжалование; в) кассационный, апелляционный; хэрэлдэж заалдахаа болих прекратить ссоры и тяжбы; заалдан мэдүүлэх обжаловать; заалдах бичиг заявление в суд, жалоба в суд; өргөн заалдсан бичиг письменная жалоба; заалдан тэмцэх судиться; та бүгдтэй заалдана судиться со всеми вами; чамтай заалдана судится с тобой; заалдсан хүн ответчик; истец.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>заалдах</cyrillic>
+      <definition>(Rez von заах
+3.) Jur klagen, Klage führen; prozessieren (gegen jmdm. -тай); давж ~ Berufung einlegen (gegen etw. -ыг)</definition>
+      <page>113</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠭᠠᠯᠳᠤᠬᠤ</unicode>
+      <cyrillic>заалдах</cyrillic>
+      <definition>тэмцэн заргалдах; амаар заалдах; бичгээр заалдах; давж заалдах.</definition>
+      <page>254</page>
+    </entry_item>
+  </entries>
+</entry>

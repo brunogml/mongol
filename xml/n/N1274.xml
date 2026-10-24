@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1274">
+  <head>
+    <unicode>ᠨᠠᠷᠠᠯᠠᠺᠥ</unicode>
+    <transcript>nerelekü</transcript>
+    <transcript2>nerelegö</transcript2>
+    <cyrillic>нэрлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>N1275</ref>
+    <ref>N1276</ref>
+    <ref>N1273</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠨᠠᠷᠠᠯᠠᠺᠥ</unicode>
+      <uighur>nerelekü</uighur>
+      <cyrillic>нэрлэх</cyrillic>
+      <transcript>NERELE-</transcript>
+      <definition>v.t. To name, call, refer to by name.</definition>
+      <page>576</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠠᠷᠠᠯᠡᠭᠴᠢ</unicode>
+          <transcript>--gci</transcript>
+          <definition> Naming, calling; nominative- case (gram)</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠠᠷᠠᠯᠡᠭᠴᠢ ᠲᠡᠶᠢᠨ ᠢᠯᠭᠠᠯ = ᠨᠠᠷᠠᠯᠠᠺᠦ ᠢᠯᠭᠠᠯ</unicode>
+          <transcript>--gci tein ilγal = --ky ilγal</transcript>
+          <definition> The nominative case (gram)</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠡᠷ᠎ᠡ ᠎ᠶᠢ ᠨᠠᠷᠠᠯᠠᠺᠦ</unicode>
+          <transcript>ner-e ji --ky</transcript>
+          <definition> To call or mention somebody by name; to invoke the name of</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠨᠡᠷᠡᠯᠡᠺᠦ</unicode>
+      <definition>nommer, appeler.</definition>
+      <page>644</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠴᠢᠭᠡ ᠎ᠵᠦᠭᠡᠨ ᠨᠡᠷ᠎ᠡ ᠎ᠶᠢ ᠨᠡᠷᠡᠯᠡᠺᠦ ᠦᠭᠡᠢ</unicode>
+          <definition>ne pas prononcer le nom de son père</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠨᠠᠷᠠᠯᠠᠺᠥ</unicode>
+      <uighur>nerelekü</uighur>
+      <definition>nennen; bei Namen nennen oder rufen.</definition>
+      <page>86</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠨᠠᠷᠠᠯᠠᠺᠥ</unicode>
+      <uighur>nerelekü</uighur>
+      <definition>v.t. To give a name to. To name. To call by name.</definition>
+      <page>342</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠡᠷᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>нэрлэх</cyrillic>
+      <definition>〔动〕①定名，称谓，起名，命名：чи хэн гэж ~в? 你叫什么名字？怎么称呼你？~ийн тийн ялгал 〈语〉主格；②叫名字，称呼.</definition>
+      <page>777</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠷᠠᠯᠠᠺᠥ</unicode>
+      <cyrillic>НЭРЛЭХ</cyrillic>
+      <definition>звать по имени, называть, величать, именовать, давать имя, название; чи хэн (юу) гэж нэрлэв? какое имя ты дал?, как ты назвал?; хүүхдийг Дорж гэж нэрлэв ребёнка назвали Дорж; сурагч гол гол хотыг нэрлэв ученик назвал главные города; нэрлэхийн тийн ялгал хэл.зүй. именительный падеж. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>нэрлэх</cyrillic>
+      <definition>[be]nennen, bezeichnen (als гэж); ~ийн тийн ялгал Gramm Nominativ m; энэ хотыг эсгий хот гэж нэрлэсэн ном diese Stadt wurde als Filzstadt bezeichnet</definition>
+      <page>165</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠡᠷᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>нэрлэх</cyrillic>
+      <definition>1. хүн, юмны нэрийг хэлэх, нэрээр нь нэрлэх;2. юманд нэр өгөх.</definition>
+      <page>399</page>
+    </entry_item>
+  </entries>
+</entry>

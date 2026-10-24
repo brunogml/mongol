@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1313">
+  <head>
+    <unicode>ᠬᠠᠰᠢᠬ</unicode>
+    <transcript>qasiq</transcript>
+    <transcript2>gasig</transcript2>
+    <cyrillic>хашиг</cyrillic>
+  </head>
+  <see_also>
+    <ref>Q1314</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠰᠢᠭ</unicode>
+      <cyrillic>хашиг</cyrillic>
+      <definition>〔名〕包庇，庇护.</definition>
+      <page>1330</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠰᠢᠬ</unicode>
+      <cyrillic>ХАШИГ</cyrillic>
+      <definition>защита, заступничество по родству или по дружбе. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠰᠢᠭ</unicode>
+      <cyrillic>хашиг</cyrillic>
+      <definition>хүний төрөл буюу дотно найртайн учир өмгөөлөн хамгаалах нь.</definition>
+      <page>673</page>
+    </entry_item>
+  </entries>
+</entry>

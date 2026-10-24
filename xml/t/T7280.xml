@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7280">
+  <head>
+    <unicode>ᠳᠣᠮᠳᠠᠳᠠᠬᠣ</unicode>
+    <transcript>dumdadaqu</transcript>
+    <transcript2>domdadago</transcript2>
+    <cyrillic>дунддах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T7281</ref>
+    <ref>T7282</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠮᠳᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>ДУНДДАХ</cyrillic>
+      <definition>быть ниже среднего, не достигать и середины; оказываться неполным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠤᠨᠳᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>дунддах</cyrillic>
+      <definition>дундуурдах, хэтэрхий дунд болох.</definition>
+      <page>210</page>
+    </entry_item>
+  </entries>
+</entry>

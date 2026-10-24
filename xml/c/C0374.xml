@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0374">
+  <head>
+    <unicode>ᠴᠠᠰᠣᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>časuraγulqu</transcript>
+    <transcript2>casoragolgo</transcript2>
+    <cyrillic>цасруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C0373</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠰᠤᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цасруулах</cyrillic>
+      <definition>〔动〕цасрах 的使动态.</definition>
+      <page>1523</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠰᠣᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦАСРУУЛАХ</cyrillic>
+      <definition>цасрах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠰᠤᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цасруулах</cyrillic>
+      <definition>цасрахын үйлдүүлэх хэв.</definition>
+      <page>785</page>
+    </entry_item>
+  </entries>
+</entry>

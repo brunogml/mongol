@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E1115">
+  <head>
+    <unicode>ᠡᠮᠨᠢᠭᠰᠢᠺᠦ</unicode>
+    <transcript>emnigsikü</transcript>
+    <transcript2>emnigsigö</transcript2>
+    <cyrillic>эмнэгших</cyrillic>
+  </head>
+  <derivatives>
+    <ref>E1116</ref>
+    <ref>E1114</ref>
+  </derivatives>
+  <see_also>
+    <ref>E1111a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠮᠨᠢᠭᠰᠢᠬᠦ</unicode>
+      <cyrillic>эмнэгших</cyrillic>
+      <definition>〔动〕（驯过的动物）变野，变暴躁；（土地）变荒.</definition>
+      <page>1696</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠮᠨᠢᠺᠰᠢᠺᠥ</unicode>
+      <cyrillic>ЭМНЭГШИХ</cyrillic>
+      <definition>дичать, снова становиться диким (о ездовом животном). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠮᠨᠢᠭᠰᠢᠬᠦ</unicode>
+      <cyrillic>эмнэгших</cyrillic>
+      <definition>эмнэг шинжтэй болох, эдэлгээнд сургасан малын дахин эмнэг болох.</definition>
+      <page>877</page>
+    </entry_item>
+  </entries>
+</entry>

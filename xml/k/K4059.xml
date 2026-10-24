@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4059">
+  <head>
+    <unicode>ᠺᠥᠯᠥᠺᠯᠢᠺ</unicode>
+    <transcript>külüglig</transcript>
+    <transcript2>gölöglig</transcript2>
+    <cyrillic>хүлэглэг</cyrillic>
+  </head>
+  <see_also>
+    <ref>K4060</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠦᠯᠦᠭᠯᠢᠭ</unicode>
+      <cyrillic>хүлэглэг</cyrillic>
+      <definition>〔名〕见 хөлөглөг.</definition>
+      <page>1453</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠯᠥᠺᠯᠢᠺ</unicode>
+      <cyrillic>ХҮЛЭГЛЭГ</cyrillic>
+      <definition>рысак, бегунец. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠦᠯᠦᠭᠯᠢᠭ</unicode>
+      <cyrillic>хүлэглэг</cyrillic>
+      <definition>хөлөглөг.</definition>
+      <page>744</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>K4051</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2227">
+  <head>
+    <unicode>ᠣᠶᠠᠭᠠᠰᠢᠷᠠᠬᠣ</unicode>
+    <transcript>uyaγasiraqu</transcript>
+    <transcript2>oyagasirago</transcript2>
+    <cyrillic>уяашрах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U2228</ref>
+    <ref>U2229</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠶᠠᠭᠠᠰᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>уяашрах</cyrillic>
+      <definition>〔动〕（马）习惯被拴.</definition>
+      <page>1222</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠶᠠᠭᠠᠰᠢᠷᠠᠬᠣ</unicode>
+      <cyrillic>УЯАШРАХ</cyrillic>
+      <definition>уяаших-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠶᠠᠭᠠᠰᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>уяашрах</cyrillic>
+      <definition>уяадаа харшиж шинж орох.</definition>
+      <page>611</page>
+    </entry_item>
+  </entries>
+</entry>

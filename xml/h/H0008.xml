@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="H0008">
+  <head>
+    <transcript>hlortai</transcript>
+    <transcript2>hlordai</transcript2>
+    <cyrillic>хлортой</cyrillic>
+  </head>
+  <see_also>
+    <ref>H0010</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠯᠣᠷᠲᠠᠢ</unicode>
+      <cyrillic>хлортой</cyrillic>
+      <definition>〔形〕〈化〉有氯的，有氯气的，氯化的.</definition>
+      <page>1344</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ХЛОРТОЙ</cyrillic>
+      <definition>хлорт-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠾᠯᠣᠷᠲᠠᠢ</unicode>
+      <cyrillic>хлортой</cyrillic>
+      <definition>хлорт.</definition>
+      <page>680</page>
+    </entry_item>
+  </entries>
+</entry>

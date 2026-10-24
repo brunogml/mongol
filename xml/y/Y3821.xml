@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3821">
+  <head>
+    <unicode>ᠵᠣᠨᠲᠣᠶᠢᠬᠣ</unicode>
+    <transcript>ǰontuyiqu</transcript>
+    <transcript2>yondoyigo</transcript2>
+    <cyrillic>жонтойх</cyrillic>
+  </head>
+  <see_also>
+    <ref>Y3820</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠣᠨᠲᠣᠢᠬᠤ</unicode>
+      <cyrillic>жонтойх</cyrillic>
+      <definition>〔动〕尖伸，突起，变尖高.</definition>
+      <page>516</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠨᠲᠣᠶᠢᠬᠣ</unicode>
+      <cyrillic>ЖОНТОЙХ</cyrillic>
+      <definition>жомбойх-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠣᠨᠲᠣᠢᠬᠤ</unicode>
+      <cyrillic>жонтойх</cyrillic>
+      <definition>жонтгор болох.</definition>
+      <page>250</page>
+    </entry_item>
+  </entries>
+</entry>

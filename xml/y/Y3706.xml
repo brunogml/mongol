@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3706">
+  <head>
+    <unicode>ᠵᠣᠣᠪᠠᠭᠠᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰoubaγardaγulqu</transcript>
+    <transcript2>yoobagardagolgo</transcript2>
+    <cyrillic>зуувгардуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y3704</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠤᠤᠪᠠᠭᠠᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зуувгардуулах</cyrillic>
+      <definition>〔动〕зуувгардах 的使动态.</definition>
+      <page>581</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠣᠪᠠᠭᠠᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗУУВГАРДУУЛАХ</cyrillic>
+      <definition>зуувгардах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠤᠤᠪᠠᠭᠠᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зуувгардуулах</cyrillic>
+      <definition>зуувгардахын үйлдүүлэх хэв.</definition>
+      <page>287</page>
+    </entry_item>
+  </entries>
+</entry>

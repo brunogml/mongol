@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1892a">
+  <head>
+    <unicode>ᠨᠢᠷᠪᠠᠲᠣᠬᠣ</unicode>
+    <transcript>nirbatuqu</transcript>
+    <transcript2>nirbadogo</transcript2>
+    <cyrillic>няравтах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠢᠷᠪᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>няравтах</cyrillic>
+      <definition>〔动〕当出纳员；当保管员，保管.</definition>
+      <page>783</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>няравтах</cyrillic>
+      <definition>verwalten; die Kasse führen</definition>
+      <page>166</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠢᠷᠪᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>няравтах</cyrillic>
+      <definition>бусдын юмыг нярав мэт эзэмших.</definition>
+      <page>403</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>N1889</ref>
+  </related_to>
+</entry>

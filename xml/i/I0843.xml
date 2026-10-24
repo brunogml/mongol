@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I0843">
+  <head>
+    <unicode>ᠢᠮᠠᠭᠠᠯᠢᠬ</unicode>
+    <transcript>imaγaliq</transcript>
+    <transcript2>imagalig</transcript2>
+    <cyrillic>ямаалаг</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠮᠠᠭᠠᠯᠢᠬ</unicode>
+      <cyrillic>ЯМААЛАГ</cyrillic>
+      <definition>I богатый козами. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠮᠠᠭᠠᠯᠢᠬ</unicode>
+      <cyrillic>ЯМААЛАГ</cyrillic>
+      <definition>II амьт. горный козёл, горный баран. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠮᠠᠭᠠᠯᠢᠬ</unicode>
+      <cyrillic>ЯМААЛАГ</cyrillic>
+      <definition>III не переносящий боли. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>ямаалаг</cyrillic>
+      <definition>1. wehleidig, schmerzempfindlich
+2. viele Ziegen habend</definition>
+      <page>414</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠮᠠᠭᠠᠯᠢᠭ</unicode>
+      <cyrillic>ямаалаг /1</cyrillic>
+      <definition>1. ямаараг;2. ямаа олонтой.</definition>
+      <page>906</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠮᠠᠭᠠᠯᠢᠭ</unicode>
+      <cyrillic>ямаалаг /2</cyrillic>
+      <definition>&lt;амьтан&gt;элжигтэй адилхан болоод морины сүүл мэт сүүлтэй, эвэр дүгрэгхэн урт нэг зүйл амьтан.</definition>
+      <page>906</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>I0837</ref>
+  </related_to>
+</entry>

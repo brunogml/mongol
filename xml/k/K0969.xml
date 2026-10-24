@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K0969">
+  <head>
+    <unicode>ᠺᠠᠮᠰᠢᠯ</unicode>
+    <transcript>gemsil</transcript>
+    <transcript2>gemsil</transcript2>
+    <cyrillic>гэмшил</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠡᠮᠰᠢᠯ</unicode>
+      <uighur>gemsil</uighur>
+      <cyrillic>гэмшил</cyrillic>
+      <transcript>GEMSIL</transcript>
+      <definition>n. Repentance, regret, contrition.</definition>
+      <page>376</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠡᠮᠰᠢᠯ</unicode>
+      <definition>1 outrage, offense; 
+2 faute: 
+3 le repentir , la repentance, pénitence.</definition>
+      <page>2485</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠠᠮᠰᠢᠯ ᠰᠡᠳᠺᠢᠯ ᠦᠭᠡᠢ</unicode>
+          <definition>endurcissement de coeur, état d'une âme insensible</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠠᠮᠰᠢᠯ ᠰᠡᠳᠺᠢᠯ ᠲᠥᠷᠥᠺᠦ</unicode>
+          <definition>s'affliger, se repentir de</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠺᠠᠮᠰᠢᠯ</unicode>
+      <uighur>kemsil</uighur>
+      <definition>die Reue, reuige Gedanken.</definition>
+      <page>198</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠺᠠᠮᠰᠢᠯ</unicode>
+      <uighur>kemsil</uighur>
+      <definition>n. Repentance.</definition>
+      <page>778</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠮᠰᠢᠯ</unicode>
+      <cyrillic>ГЭМШИЛ</cyrillic>
+      <definition>раскаяние, сожаление о чём-л., сокрушение, скорбь.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гэмшил</cyrillic>
+      <definition>Reue f, Gewissensbisse Pl, Bedauern n ◇ гэм нь урдаа, ~ нь хойноо erst der Frevel, dann die Reue</definition>
+      <page>84</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠡᠮᠰᠢᠯ</unicode>
+      <cyrillic>гэмшил</cyrillic>
+      <definition>гэмшгэлэн.</definition>
+      <page>169</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>K0970</ref>
+    <ref>K0971</ref>
+    <ref>K0972</ref>
+    <ref>K0973</ref>
+  </derivatives>
+</entry>

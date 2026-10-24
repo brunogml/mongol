@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="R0002">
+  <head>
+    <unicode>ᠷᠠᠬᠣ</unicode>
+    <transcript>raqu</transcript>
+    <transcript2>rago</transcript2>
+    <cyrillic>рах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1569</ref>
+    <ref>C1576</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠷᠠᠬᠣ</unicode>
+      <uighur>raqu</uighur>
+      <cyrillic>рах</cyrillic>
+      <transcript>RAXU</transcript>
+      <definition>[= ra-a hu] n. p. The demon Rahu ( enemy of the sun and the moon ), one of the asuri, q.v.</definition>
+      <page>651</page>
+      <examples>
+        <example>
+          <unicode>ᠷᠠᠬᠣ ᠪᠠᠷᠢᠬᠤ</unicode>
+          <transcript>-- barixu</transcript>
+          <definition>To be eclipsed</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠷᠠᠬᠤ</unicode>
+      <cyrillic>рах</cyrillic>
+      <definition>〔名〕〈天〉①罗？星；②天狗：~ барих 日月蚀.</definition>
+      <page>884</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠷᠠᠬᠣ</unicode>
+      <cyrillic>РАХ</cyrillic>
+      <definition>домог. Раху (чудовище, враждебное солнцу и луне, похищающее их и этим производящее затмение); рах барих үгчил. поймать Раху; затмение (о солнце и луне).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠷᠠᠬᠣ ~ ᠷᠠ ᠠ ᠾᠤ</unicode>
+      <definition>Râhou, daemon e Daityorum stirpe, serpenti posticâ corporis parte similis</definition>
+      <page>2657</page>
+      <examples>
+        <example>
+          <unicode>ᠷᠠᠬᠤ ᠎ᠶᠢ ᠠᠯᠠᠭᠴᠢ</unicode>
+          <definition>assassin du Râhou: Viçnou</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠷᠠᠬᠤ</unicode>
+      <cyrillic>рах</cyrillic>
+      <definition>нэг зүйл од.</definition>
+      <page>454</page>
+    </entry_item>
+  </entries>
+</entry>

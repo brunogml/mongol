@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T6460">
+  <head>
+    <unicode>ᠲᠣᠰᠢᠬᠣ</unicode>
+    <transcript>tusiqu</transcript>
+    <transcript2>dosigo</transcript2>
+    <cyrillic>туших</cyrillic>
+  </head><see_also>
+    <ref>T6424</ref>
+  
+    <ref>T6461</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠰᠢᠬᠣ</unicode>
+      <uighur>tusiqu</uighur>
+      <cyrillic>туших</cyrillic>
+      <transcript>TUSI-</transcript>
+      <definition>[= tuša-] v. t. To hobble; to put shackles on the feet.</definition>
+      <page>845</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠣᠷᠢ ᠲᠣᠰᠢᠬᠣ</unicode>
+          <transcript>mori --xu</transcript>
+          <definition> To hobble a horse.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠣᠰᠢᠬᠣ</unicode>
+      <uighur>dusiqu</uighur>
+      <definition>die Beine binden oder sperren (z. B. bei einem Pferde).</definition>
+      <page>256</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠣᠰᠢᠬᠣ</unicode>
+      <uighur>tusiqu</uighur>
+      <definition>v.t. To tie the legs of a horse together.</definition>
+      <page>1014</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠱᠠᠬᠤ</unicode>
+      <cyrillic>туших</cyrillic>
+      <definition>〔动〕①上绊子，拴绊绳，羁绊，绊住：үнээ ~ 绊住奶牛；②拴住驼鞍系绳；③上脚镣；④（转）束缚手脚，牵住，牵制，拖住.</definition>
+      <page>1126</page>
+    </entry_item>
+  </entries>
+</entry>

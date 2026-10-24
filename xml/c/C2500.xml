@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2500">
+  <head>
+    <unicode>ᠴᠣᠨᠳᠣᠬᠯᠠᠬᠣ</unicode>
+    <transcript>čonduγlaqu</transcript>
+    <transcript2>condoglago</transcript2>
+    <cyrillic>цондоглох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C2501</ref>
+    <ref>C2503</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠣᠨᠳᠣᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>цондоглох</cyrillic>
+      <definition>〔动〕用顶木稍撑高蒙古包顶.</definition>
+      <page>1533</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠨᠳᠣᠬᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЦОНДОГЛОХ</cyrillic>
+      <definition>приподнимать (нижний край палатки), подпирать стойкой (палатку). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цондоглох</cyrillic>
+      <definition>mit dem Stock die Filzklappe über der Rauchöffnung der Jurte öffnen od schließen</definition>
+      <page>356</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠣᠨᠳᠣᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>цондоглох</cyrillic>
+      <definition>цондгоор өрхийг дэндийлгэн тулах.</definition>
+      <page>790</page>
+    </entry_item>
+  </entries>
+</entry>

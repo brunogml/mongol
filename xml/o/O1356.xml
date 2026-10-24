@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1356">
+  <head>
+    <unicode>ᠥᠵᠥᠮᠥᠴᠢᠨ</unicode>
+    <transcript>üǰümüčin</transcript>
+    <transcript2>öcömöcin</transcript2>
+    <cyrillic>үзэмчин</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠦᠵᠦᠮᠦᠴᠢᠨ</unicode>
+      <definition>Udsumutchin , Udsemertchi , aimak dans la Mongolie centrale.</definition>
+      <page>549</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠵᠥᠮᠥᠴᠢᠨ</unicode>
+      <cyrillic>ҮЗЭМЧИН</cyrillic>
+      <definition>удзумчљны (одно из монгольских племён). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>үзэмчин</cyrillic>
+      <definition>1. Udsemtschin Pl mong. Volksgruppe
+2. Winzer m, Weinbauer m</definition>
+      <page>269</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠦᠵᠦᠮᠦᠴᠢᠨ</unicode>
+      <cyrillic>үзэмчин</cyrillic>
+      <definition>Өвөр монголын нэгэн аймаг.</definition>
+      <page>617</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>O1355</ref>
+  </related_to>
+  <see_also>
+    <ref>O1357</ref>
+  </see_also>
+</entry>

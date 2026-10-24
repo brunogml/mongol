@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2587">
+  <head>
+    <unicode>ᠪᠣᠨᠳᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>bundaγanaqu</transcript>
+    <transcript2>bondaganago</transcript2>
+    <cyrillic>бундганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B2588</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠤᠨᠳᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>бундганах</cyrillic>
+      <definition>〔动〕参见 бундалзах.</definition>
+      <page>208</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠨᠳᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>БУНДГАНАХ</cyrillic>
+      <definition>бондгонох-ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠨᠳᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>бундганах</cyrillic>
+      <definition>бундгар юмны үргэлжлэн хөдлөх байдал, бундга бундга хийх.</definition>
+      <page>108</page>
+    </entry_item>
+  </entries>
+</entry>

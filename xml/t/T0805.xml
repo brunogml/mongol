@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T0805">
+  <head>
+    <unicode>ᠲᠠᠭᠣᠷᠭ᠎ᠠ</unicode>
+    <transcript>taγurγ-a</transcript>
+    <transcript2>dagorga</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠭᠣᠷᠭ᠎ᠠ</unicode>
+      <uighur>taγurγ-a</uighur>
+      <transcript>TAΓURΓ-A</transcript>
+      <definition>Same as tuγurγ-a</definition>
+      <page>766</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠭᠣᠷᠭ᠎ᠠ ~ ᠳᠤᠭᠣᠷᠭ᠎ᠠ</unicode>
+      <definition>le tour de la tente en feutre</definition>
+      <page>1594</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠭᠣᠷᠭ᠎ᠠ ᠳᠡᠪᠡᠯ</unicode>
+          <definition>l&apos;habit de dessus, manteau, court manteau de feutre de laine</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="L0013">
+  <head>
+    <unicode>ᠯᠠᠨᠲᠣᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>lantuγanaγulqu</transcript>
+    <transcript2>landoganagolgo</transcript2>
+    <cyrillic>лантгануулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>L0012</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠯᠠᠨᠲᠤᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>лантгануулах</cyrillic>
+      <definition>〔动〕лантганах 的使动态.</definition>
+      <page>643</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠯᠠᠨᠲᠣᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЛАНТГАНУУЛАХ</cyrillic>
+      <definition>лантганах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠯᠠᠨᠲᠤᠭᠤᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>лантгануулах</cyrillic>
+      <definition>лантганахын үйлдүүлэх хэв.</definition>
+      <page>320</page>
+    </entry_item>
+  </entries>
+</entry>

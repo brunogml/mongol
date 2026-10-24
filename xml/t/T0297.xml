@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0297">
+  <head>
+    <unicode>ᠳᠠᠩᠺᠢᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>dangkiγanaqu</transcript>
+    <transcript2>danggiganago</transcript2>
+    <cyrillic>данхиганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T0298</ref>
+  </derivatives>
+  <see_also>
+    <ref>T0297a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠩᠬᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>данхиганах</cyrillic>
+      <definition>〔动〕（细长、细瘦物）摇晃、转动.</definition>
+      <page>391</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠩᠺᠢᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ДАНХИГАНАХ</cyrillic>
+      <definition>двигаться (о ком-чём-л. долговязом). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠩᠬᠢᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>данхиганах</cyrillic>
+      <definition>данхигар юмны данхига данхига хөдлөх.</definition>
+      <page>188</page>
+    </entry_item>
+  </entries>
+</entry>

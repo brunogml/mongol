@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4915">
+  <head>
+    <unicode>ᠬᠣᠪᠴᠠᠰᠣᠴᠢᠨ</unicode>
+    <transcript>qubčasučin</transcript>
+    <transcript2>gobcasocin</transcript2>
+    <cyrillic>хувцасчин</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠪᠴᠠᠰᠤᠴᠢᠨ</unicode>
+      <cyrillic>хувцасчин</cyrillic>
+      <definition>〔名〕裁缝.</definition>
+      <page>1420</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠪᠴᠠᠰᠣᠴᠢᠨ</unicode>
+      <cyrillic>ХУВЦАСЧИН</cyrillic>
+      <definition>хуучир. портной. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хувцасчин</cyrillic>
+      <definition>Schneider m</definition>
+      <page>325</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠪᠴᠠᠰᠤᠴᠢᠨ</unicode>
+      <cyrillic>хувцасчин</cyrillic>
+      <definition>хувцас хийдэг хүн, хувцас засварчин.</definition>
+      <page>722</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q4910</ref>
+  </related_to>
+</entry>

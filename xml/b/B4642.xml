@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4642">
+  <head>
+    <unicode>ᠪᠥᠺᠠᠰᠥᠲᠥᠺᠥᠯᠺᠥ</unicode>
+    <transcript>bögesütügülkü</transcript>
+    <transcript2>bögesödögölgö</transcript2>
+    <cyrillic>бөөстүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>B4641</ref>
+  </related_to>
+  <see_also>
+    <ref>B4639</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠭᠡᠰᠦᠲᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бөөстүүлэх</cyrillic>
+      <definition>〔动〕бөөстөх 的使动态.</definition>
+      <page>191</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠺᠠᠰᠥᠲᠥᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>БӨӨСТҮҮЛЭХ</cyrillic>
+      <definition>бөөстөх-ийн үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠥᠭᠡᠰᠦᠲᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бөөстүүлэх</cyrillic>
+      <definition>бөөстөхийн үйлдүүлэх хэв, бөөстөхөд хүрүүлэх.</definition>
+      <page>100</page>
+    </entry_item>
+  </entries>
+</entry>

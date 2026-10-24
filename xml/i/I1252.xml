@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="I1252">
+  <head>
+    <unicode>ᠢᠷᠮᠠ</unicode>
+    <transcript>irm-a</transcript>
+    <transcript2>irm-a</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠢᠷᠮ᠎ᠠ</unicode>
+      <uighur>irm-a</uighur>
+      <transcript>IRM-A</transcript>
+      <page>414</page>
+      <examples>
+        <example>
+          <unicode>ᠢᠷᠮ᠎ᠠ ᠮᠣᠳᠤ</unicode>
+          <transcript>-- modu</transcript>
+          <definition> [Ko.] Pepper tree (Ch. hua-chiao-shu)</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠢᠷᠮ᠎ᠠ ᠮᠣᠳᠤᠨ</unicode>
+      <definition>Poivrier, plante qui produit le poivre</definition>
+      <page>324</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠢᠷᠮᠠ</unicode>
+      <uighur>irm-a modu</uighur>
+      <definition>n. Cayenne pepper.</definition>
+      <page>156</page>
+    </entry_item>
+  </entries>
+</entry>

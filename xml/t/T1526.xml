@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1526">
+  <head>
+    <unicode>ᠲᠠᠲᠠᠭᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tataγalǰaγulqu</transcript>
+    <transcript2>dadagalcagolgo</transcript2>
+    <cyrillic>татгалзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T1525</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠲᠠᠭᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>татгалзуулах</cyrillic>
+      <definition>〔动〕татгалзах 的使动态.</definition>
+      <page>1039</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠲᠠᠭᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАТГАЛЗУУЛАХ</cyrillic>
+      <definition>татгалзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>татгалзуулах</cyrillic>
+      <definition>Kaus von татгалзах</definition>
+      <page>223</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠲᠠᠭᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>татгалзуулах</cyrillic>
+      <definition>татгалзахын үйлдүүлэх хэв.</definition>
+      <page>526</page>
+    </entry_item>
+  </entries>
+</entry>

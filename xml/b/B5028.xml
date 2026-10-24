@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B5028">
+  <head>
+    <unicode>ᠪᠥᠷᠲᠥᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>börtügenegülkü</transcript>
+    <transcript2>bördögenegölgö</transcript2>
+    <cyrillic>бөртөгнүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>B5027</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠷᠲᠥᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бөртөгнүүлэх</cyrillic>
+      <definition>〔动〕бөртөгнөх 的使动态.</definition>
+      <page>192</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠷᠲᠥᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>БӨРТГӨНҮҮЛЭХ</cyrillic>
+      <definition>бөртгөнөх-ийн үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠥᠷᠲᠥᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бөртөгнүүлэх</cyrillic>
+      <definition>бөртөгнөхийн үйлдүүлэх хэв.</definition>
+      <page>100</page>
+    </entry_item>
+  </entries>
+</entry>

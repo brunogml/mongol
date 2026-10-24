@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2590">
+  <head>
+    <unicode>ᠪᠣᠨᠳᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>bundalǰaqu</transcript>
+    <transcript2>bondalcago</transcript2>
+    <cyrillic>бундалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B2591</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠤᠨᠳᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>бундалзах</cyrillic>
+      <definition>〔动〕（小圆球形东西）频动，滚动，翻滚，鼓动.</definition>
+      <page>208</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠨᠳᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>БУНДАЛЗАХ</cyrillic>
+      <definition>бундганах-ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бундалзах</cyrillic>
+      <definition>= бумбаганах</definition>
+      <page>62</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠨᠳᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>бундалзах</cyrillic>
+      <definition>бундгар юмны байн байна хөдлөх байдал, бундас бундас хийх.</definition>
+      <page>108</page>
+    </entry_item>
+  </entries>
+</entry>

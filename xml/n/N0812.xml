@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N0812">
+  <head>
+    <unicode>ᠨᠠᠷᠠᠰᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>narasiγulqu</transcript>
+    <transcript2>narasigolgo</transcript2>
+    <cyrillic>наршуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>N0811</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠠᠷᠠᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>наршуулах</cyrillic>
+      <definition>〔动〕нарших 的使动态.</definition>
+      <page>732</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠷᠠᠰᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>НАРШУУЛАХ</cyrillic>
+      <definition>нарших-ийн үйлдүүл., перегревать на солнце. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠠᠷᠠᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>наршуулах</cyrillic>
+      <definition>наршихын үйлдүүлэх хэв.</definition>
+      <page>371</page>
+    </entry_item>
+  </entries>
+</entry>

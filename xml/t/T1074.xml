@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1074">
+  <head>
+    <unicode>ᠲᠠᠪᠢᠯᠠᠩᠲᠠᠢ</unicode>
+    <transcript>tabilangtai</transcript>
+    <transcript2>dabilangdai</transcript2>
+    <cyrillic>тавилантай</cyrillic>
+  </head>
+  <see_also>
+    <ref>T1074a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠪᠢᠯᠠᠩ ᠲᠠᠢ</unicode>
+      <cyrillic>тавилантай</cyrillic>
+      <definition>〔形〕有…命运的，有运气的：би ийм ~ хүн байжээ 我这人就这命.</definition>
+      <page>1005</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠪᠢᠯᠠᠩᠲᠠᠢ</unicode>
+      <cyrillic>ТАВИЛАНТАЙ</cyrillic>
+      <definition>имеющий какую-л. судьбу; ийм тавилантай аж такова значит судьба; муу тавилантай несчастлљвый; сайн тавилантай счастлљвый. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠪᠢᠯᠠᠩᠲᠠᠢ</unicode>
+      <cyrillic>тавилантай</cyrillic>
+      <definition>хувь учрал бүхий; би ийм тавилантай хүн байжээ.</definition>
+      <page>511</page>
+    </entry_item>
+  </entries>
+</entry>

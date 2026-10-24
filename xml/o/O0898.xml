@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="O0898">
+  <head>
+    <unicode>ᠥᠯᠢᠰᠢ</unicode>
+    <transcript>ülisi</transcript>
+    <transcript2>ölisi</transcript2>
+    <cyrillic>үлш</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠥᠯᠢᠰᠢ</unicode>
+      <uighur>ülisi</uighur>
+      <cyrillic>үлш</cyrillic>
+      <transcript>YLISI</transcript>
+      <page>1006</page>
+      <examples>
+        <example>
+          <unicode>ᠥᠯᠢᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Incomparable, unmatched, unrivaled; immeasurable, limitless.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠦᠯᠢᠰᠢ ᠦᠭᠡᠢ</unicode>
+      <definition>ce qu&apos;on ne saurait comparer ou mesurer, incommensurable, immense, vaste, illimité, innombrable</definition>
+      <page>525</page>
+      <examples>
+        <example>
+          <unicode>ᠦᠯᠢᠰᠢ ᠦᠭᠡᠢ ᠬᠠᠷᠰᠢ</unicode>
+          <definition>palais spacieux et magnifique</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠥᠯᠢᠰᠢ</unicode>
+      <uighur>ülisi ügei</uighur>
+      <definition>(u) Incomparable.</definition>
+      <page>280</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠯᠢᠰᠢ</unicode>
+      <cyrillic>ҮЛИШГҮЙ</cyrillic>
+      <definition>I 1) несравнљмый; 2) неизмерљмый, бесконечный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠯᠢᠰᠢ</unicode>
+      <cyrillic>ҮЛИШГҮЙ</cyrillic>
+      <definition>II тоо. десять в шестдесят четвёртой степени. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠯᠢᠰᠢ</unicode>
+      <cyrillic>ҮЛЭШГҮЙ</cyrillic>
+      <definition>үлишгүй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

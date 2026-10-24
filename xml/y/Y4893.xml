@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4893">
+  <head>
+    <unicode>ᠵᠣᠷᠪᠣᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰorbulǰaγulqu</transcript>
+    <transcript2>yorbolcagolgo</transcript2>
+    <cyrillic>жорволзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y4891</ref>
+  </related_to>
+  <see_also>
+    <ref>Y4892</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠷᠪᠣᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЖОРВОЛЗУУЛАХ</cyrillic>
+      <definition>жорволзох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠣᠷᠪᠣᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>жорволзуулах</cyrillic>
+      <definition>жорволзохын үйлдүүлэх хэв, жорволзоход хүрүүлэх.</definition>
+      <page>251</page>
+    </entry_item>
+  </entries>
+</entry>

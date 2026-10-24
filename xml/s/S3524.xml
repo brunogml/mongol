@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3524">
+  <head>
+    <unicode>ᠰᠢᠪᠠᠺᠠᠲᠥᠺᠥ</unicode>
+    <transcript>sibegetükü</transcript>
+    <transcript2>sibegedögö</transcript2>
+    <cyrillic>шивээтэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3523</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠪᠡᠭᠡᠲᠦᠬᠦ</unicode>
+      <cyrillic>шивээтэх</cyrillic>
+      <definition>〔动〕做栅栏，筑椿砦，竖阻塞栅；筑栅栏，筑围墙；把…围起来.</definition>
+      <page>1629</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠪᠠᠺᠠᠲᠥᠺᠥ</unicode>
+      <cyrillic>ШИВЭЭТЭХ</cyrillic>
+      <definition>обрастать, зарастать ковылём. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠪᠡᠭᠡᠲᠦᠬᠦ</unicode>
+      <cyrillic>шивээтэх</cyrillic>
+      <definition>шивээтэй болох; өвс шивээтэх; мал шивээтэх.</definition>
+      <page>843</page>
+    </entry_item>
+  </entries>
+</entry>

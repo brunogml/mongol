@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1945">
+  <head>
+    <unicode>ᠬᠠᠯᠢᠪᠳᠠᠬᠣ</unicode>
+    <transcript>qalibdaqu</transcript>
+    <transcript2>galibdago</transcript2>
+    <cyrillic>халивдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q1946</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠯᠢᠪᠳᠠᠬᠤ</unicode>
+      <cyrillic>халивдах</cyrillic>
+      <definition>〔动〕用螺丝刀（或螺丝起子、改锥）扭（拧，旋）.</definition>
+      <page>1289</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠯᠢᠪᠳᠠᠬᠣ</unicode>
+      <cyrillic>ХАЛИВДАХ</cyrillic>
+      <definition>ввинчивать, ввинчивать отвёрткой. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>халивдах</cyrillic>
+      <definition>mit einem Schraubenzieher schrauben</definition>
+      <page>287</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠯᠢᠪᠳᠠᠬᠤ</unicode>
+      <cyrillic>халивдах</cyrillic>
+      <definition>халиваар эрэгдэх.</definition>
+      <page>650</page>
+    </entry_item>
+  </entries>
+</entry>

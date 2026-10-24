@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5643">
+  <head>
+    <unicode>ᠲᠣᠭᠠᠴᠢᠬᠳᠠᠬᠣ</unicode>
+    <transcript>toγačiγdaqu</transcript>
+    <transcript2>dogacigdago</transcript2>
+    <cyrillic>тоочигдох</cyrillic>
+  </head>
+  <related_to>
+    <ref>T5642</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠭᠠᠴᠢᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>тоочигдох</cyrillic>
+      <definition>〔动〕тоочих 的被动态.</definition>
+      <page>1079</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠭᠠᠴᠢᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТООЧИГДОХ</cyrillic>
+      <definition>тоочих-ийн үйлдэгд., быть перечисленным, перечисляться, засчљтываться, причисляться к чему-л., считаться кем-чем-л. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠭᠠᠴᠢᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>тоочигдох</cyrillic>
+      <definition>тоочихын үйлдэлцэх хэв. та хоёр нэгнийхээ мууг тоочилцоод яах нь вэ.</definition>
+      <page>543</page>
+    </entry_item>
+  </entries>
+</entry>

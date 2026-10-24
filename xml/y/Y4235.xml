@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4235">
+  <head>
+    <unicode>ᠵᠣᠲᠠᠷᠠᠬᠣ</unicode>
+    <transcript>ǰutaraqu</transcript>
+    <transcript2>yodarago</transcript2>
+    <cyrillic>зутрах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y4238</ref>
+    <ref>Y4242</ref>
+  </derivatives>
+  <see_also>
+    <ref>Y4236</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠣᠲᠠᠷᠠᠬᠣ</unicode>
+      <uighur>ǰudaraqu</uighur>
+      <cyrillic>зутрах</cyrillic>
+      <transcript>ZUTARA-</transcript>
+      <definition>v.i. To be poverty-stricken.</definition>
+      <page>1081</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠣᠲᠠᠷᠠᠭᠰᠠᠨ ᠠᠮᠢᠲᠠᠨ</unicode>
+          <transcript>--γsan amitan</transcript>
+          <definition> Downtrodden creature, raga-muffin</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠤᠲᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>зутрах</cyrillic>
+      <definition>〔动〕疲惫，贫困，贫苦.</definition>
+      <page>580</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠲᠠᠷᠠᠬᠣ</unicode>
+      <cyrillic>ЗУТРАХ</cyrillic>
+      <definition>зутах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠤᠲᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>зутрах</cyrillic>
+      <definition>зуд гачигт хүн мал тохь алдаж зүдэх, гачигдах.</definition>
+      <page>286</page>
+    </entry_item>
+  </entries>
+</entry>

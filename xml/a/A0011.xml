@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A0011">
+  <head>
+    <unicode>ᠠᠤᠢᠲ᠋ᠤ᠋</unicode>
+    <transcript>auto</transcript>
+    <transcript2>aodo</transcript2>
+    <cyrillic>авто</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠤᠢᠲ᠋ᠤ᠋</unicode>
+      <uighur>aüTo</uighur>
+      <cyrillic>авто</cyrillic>
+      <transcript>AYTO</transcript>
+      <definition>n. and adj. Auto; automatic.</definition>
+      <page>60</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠤᠢᠲ᠋ᠤ᠋ ᠲᠡᠷᠭᠡ</unicode>
+          <transcript>-- terge</transcript>
+          <definition>Automobile.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠤᠢᠲ᠋ᠤ᠋ ᠳᠣᠺᠢᠶ᠎ᠠ</unicode>
+          <transcript>-- dokij-a</transcript>
+          <definition>Automatic signal.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠦ᠋ᠲ᠋ᠣ᠋</unicode>
+      <cyrillic>авто</cyrillic>
+      <definition>〔名〕①自动：~ винтов 自动步枪；~ дохио 自动信号；②汽车：~ машин 汽车；~ ба ердийн тээвэр 汽车及普通兽力运输；~ машины тээвэр 汽车运输；~ машины харилцаа 汽车交通；~ өртөө 汽车站；~ цуваа （汽）车队；~ зам 汽车路，公路；~ замын тээвэр 公路运输；~ тээврийн өөрийн өртөг 载重汽车运输成本；~ засварын бааз 汽车修理站；~ замын буудал 汽车旅行站；~ машины цаас 机制纸；~ телефон станц 自动电话台；~ техникийн хэргийг байцаах 汽车技术检查；~ тормос 汽车制动装置；~ тос 机车滑润油；~ түлхүүр 自动启闭器；~ тэргэнцэр 自动搬运车；自动小货车；~ угсраа 〈铁〉自动车钩；~ угсрааны дүүжин боолт 〈铁〉自动车钩摆吊；~ ул 汽车轮胎；~ хусуур 自动平地机；~ хувьсгуур 〈电〉自耦变压器；~ хуягт батальон 〈军〉汽车装甲营；~ буудлагын дивиз 摩托化步兵师；~ хуягт танкийн техник 汽车装甲车坦克技术；~ хэрэгсэл 自动元件；~ чарга 自动雪橇；~ чиргүүл 汽车拖车；~ чирэгч 汽车牵引机；~ штурман 自动领航员；~ механизмын анги 〈军〉机械化部队；~ рот 〈军〉汽车连；~ тээврий анги 〈军〉汽车运输部队；~ завод 汽车制造厂.</definition>
+      <page>12</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠤᠢᠲ᠋ᠤ᠋</unicode>
+      <cyrillic>АВТО</cyrillic>
+      <definition>1. авто-; авто агуулах автосклад; авто анги авточасть; авто анжис автоплуг; авто ба ердийн тээвэр автогужевой транспорт; 2. автомобиль; 3. авто-, автоматический, автомат.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠤᠢᠲ᠋ᠤ᠋</unicode>
+      <cyrillic>АВТО-ӨӨРГҮҮР</cyrillic>
+      <definition>автокран.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠤᠢᠲ᠋ᠤ᠋</unicode>
+      <cyrillic>АВТО-ӨРГҮҮРЧ(ИН)</cyrillic>
+      <definition>автокрановщик.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Bawden</dico>
+      <cyrillic>авто</cyrillic>
+      <definition>автын механикч motor mechanic</definition>
+      <page>4</page>
+    </entry_item>
+    <entry_item>
+      <dico>Bawden</dico>
+      <cyrillic>авто</cyrillic>
+      <definition>auto (adj.), авто үзэг  fountain-pen авто дэлгүүр  mobile shop, авто машин  (see автомашин), авто техник  (=авто уналга, авто хөсөг)motor vehicle, авто техникийн хэргийг шалган байцаах газар  motor vehicle inspectorate, авто тээврийн хэрэгсэл  goods vehicle,</definition>
+      <page>4</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>авто</cyrillic>
+      <definition>Auto-; ~ тээвэр Autotransport m; ~ чарга[н] Motorschlitten m</definition>
+      <page>21</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠦ᠋ᠲ᠋ᠣ᠋</unicode>
+      <cyrillic>авто</cyrillic>
+      <definition>автомашин, автомобиль; авто тээвэр.</definition>
+      <page>17</page>
+    </entry_item>
+  </entries>
+</entry>

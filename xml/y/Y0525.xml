@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y0525">
+  <head>
+    <unicode>ᠶᠠᠭᠣᠨᠠᠢ</unicode>
+    <transcript>yaγunai</transcript>
+    <transcript2>yagonai</transcript2>
+    <cyrillic>юунь</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠶᠠᠭᠣᠨᠠᠢ</unicode>
+      <uighur>yaγunai</uighur>
+      <cyrillic>юуны</cyrillic>
+      <transcript>JAΓUNAI</transcript>
+      <definition>adj. What kind of?.</definition>
+      <page>425</page>
+      <examples>
+        <example>
+          <unicode>ᠶᠠᠭᠣᠨᠠᠢ ᠺᠦᠮᠦᠨ</unicode>
+          <transcript>-- kymyn</transcript>
+          <definition> What kind of a man?.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠨᠡ ᠶᠠᠭᠣᠨᠠᠢ ᠶᠠᠭᠤᠮ᠎ᠠ ᠪᠠᠶᠢᠮᠤᠢ</unicode>
+          <transcript>ene -- jaγum-a baimui</transcript>
+          <definition> What kind of a thing is this?.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠠᠭᠤᠨᠠᠢ ~ ᠵᠠᠣᠨᠠᠢ</unicode>
+      <definition>cela serait - il ainsi&apos; non; cela ne se peut, comment pourrait - il arriver?</definition>
+      <page>2252</page>
+    </entry_item>
+  </entries>
+</entry>

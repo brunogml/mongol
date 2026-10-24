@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K1261">
+  <head>
+    <unicode>ᠭᠡᠭᠦᠨ</unicode>
+    <transcript>gegün</transcript>
+    <transcript2>gegön</transcript2>
+    <cyrillic>гүүн</cyrillic>
+  </head>
+  <see_also>
+    <ref>K1260</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠡᠺᠥᠨ</unicode>
+      <uighur>gegün</uighur>
+      <cyrillic>гүү(н)</cyrillic>
+      <transcript>GEGYN</transcript>
+      <definition>[=gegyy] n , Mare.</definition>
+      <page>374</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠡᠺᠥᠨ ᠺᠥᠺᠦ</unicode>
+          <transcript>-- køky</transcript>
+          <definition>Skullcap (bot.).</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠡᠺᠥᠨ ᠤ ᠠᠷᠠᠺᠢ</unicode>
+          <transcript>-- y araki</transcript>
+          <definition>Wine made of mare's milk.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠡᠺᠦ ~ ᠭᠡᠭᠦᠨ ~ ᠭᠡᠺᠦ ~ ᠭᠡᠦ</unicode>
+      <definition>jument, cavale.</definition>
+      <page>2499</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠡᠭᠦᠨ ᠤ ᠤᠨᠠᠭ᠎ᠠ</unicode>
+          <definition>poulain</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠺᠠᠺᠥᠨ</unicode>
+      <uighur>kegün</uighur>
+      <definition>die Stute</definition>
+      <page>197</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠺᠠᠺᠥᠨ</unicode>
+      <uighur>kegün</uighur>
+      <definition>n. A mare.</definition>
+      <page>777</page>
+    </entry_item>
+  </entries>
+</entry>

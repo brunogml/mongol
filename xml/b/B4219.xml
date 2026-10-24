@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B4219">
+  <head>
+    <unicode>ᠪᠥᠪᠠᠺᠠᠯᠵᠢ</unicode>
+    <transcript>böbegelǰi</transcript>
+    <transcript2>böbegelci</transcript2>
+    <cyrillic>бөвөөлж</cyrillic>
+  </head><see_also>
+    <ref>B4239</ref>
+  </see_also>
+  <variants>
+    <variant type="cyrillic">бөвөөлжин</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠥᠪᠠᠺᠠᠯᠵᠢᠨ</unicode>
+      <uighur>böbegelǰin</uighur>
+      <transcript>BØBEGELZIN</transcript>
+      <definition>See bybygelzin.</definition>
+      <page>123</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠦᠪᠡᠺᠡᠯᠵᠢᠨ</unicode>
+      <definition>un petit oiseau bigarré</definition>
+      <page>1226</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠪᠥᠪᠠᠺᠠᠯᠵᠢ</unicode>
+      <uighur>bübekelǰin</uighur>
+      <definition>ein kleiner bunter Waldvogel, das Waldhähnchen</definition>
+      <page>120</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠪᠠᠺᠠᠯᠵᠢ</unicode>
+      <cyrillic>БӨВӨӨЛЖ</cyrillic>
+      <definition>шувуу. удод.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠪᠠᠺᠠᠯᠵᠢ</unicode>
+      <cyrillic>БӨВӨӨЛЖИН</cyrillic>
+      <definition>бөвөөлж-ийг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠪᠡᠭᠡᠯᠵᠢᠨ</unicode>
+      <cyrillic>бөвөөлжин</cyrillic>
+      <definition>〔名〕〈动〉戴胜（鸟），山和尚.</definition>
+      <page>182</page>
+    </entry_item>
+  </entries>
+</entry>

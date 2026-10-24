@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3139">
+  <head>
+    <unicode>ᠲᠠᠨᠲᠠᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>tentegenegülkü</transcript>
+    <transcript2>dendegenegölgö</transcript2>
+    <cyrillic>тэнтгэнүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T3137</ref>
+  </related_to>
+  <see_also>
+    <ref>T3140</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠨᠲᠠᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ТЭНТГЭНҮҮЛЭХ</cyrillic>
+      <definition>тэнтгэнэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠨᠲᠡᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>тэнтэгнүүлэх</cyrillic>
+      <definition>тэнтэгнэхийн үйлдүүлэх хэв.</definition>
+      <page>577</page>
+    </entry_item>
+  </entries>
+</entry>

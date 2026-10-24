@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5762">
+  <head>
+    <unicode>ᠲᠣᠬᠣᠰᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>toqusilaγulqu</transcript>
+    <transcript2>dogosilagolgo</transcript2>
+    <cyrillic>тохошлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T5761</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠬᠣᠰᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тохошлуулах</cyrillic>
+      <definition>〔动〕тохошлох 的使动态.</definition>
+      <page>1089</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠬᠣᠰᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТОХОШЛУУЛАХ</cyrillic>
+      <definition>тохошлох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠬᠣᠰᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тохошлуулах</cyrillic>
+      <definition>тохошлохын үйлдүүлэх хэв.</definition>
+      <page>547</page>
+    </entry_item>
+  </entries>
+</entry>

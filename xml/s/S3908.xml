@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S3908">
+  <head>
+    <unicode>ᠰᠢᠯᠣᠰᠣ</unicode>
+    <transcript>silusu</transcript>
+    <transcript2>siloso</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠯᠤᠰᠤᠨ ~ ᠰᠢᠯᠣᠰᠤ</unicode>
+      <definition>salive, humeur, flegme</definition>
+      <page>1496</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠯᠤᠰᠤᠨ ᠬᠠᠵᠠᠬᠤ</unicode>
+          <definition>cela fait venir l&apos;eau à la bouche; désirer, envier</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠢᠯᠤᠰᠤᠨ ᠢᠶᠠᠷ ᠱᠠᠪᠰᠢᠬᠤ</unicode>
+          <definition>mouiller avec la salive</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠠᠩᠯᠡᠢ ᠳ᠋‍‍ᠤ‍ᠷ ᠰᠢᠯᠤᠰᠤᠨ ᠲᠥᠷᠺᠢᠺᠦ</unicode>
+          <definition>mouiller le front avec la salive</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠰᠢᠯᠣᠰᠣ</unicode>
+      <uighur>silusu</uighur>
+      <definition>der Speichel.</definition>
+      <page>359</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1001">
+  <head>
+    <unicode>ᠣᠪ</unicode>
+    <transcript>ub</transcript>
+    <transcript2>ob</transcript2>
+    <cyrillic>ув</cyrillic>
+  </head>
+  <see_also>
+    <ref>U1000</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠪ</unicode>
+      <uighur>ub</uighur>
+      <cyrillic>ув</cyrillic>
+      <transcript>UB</transcript>
+      <definition>Intensifying particle used before adj. and adv. with initial u.</definition>
+      <page>858</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠪ ᠤᠯᠠᠭᠠᠨ</unicode>
+          <transcript>-- ulaγan</transcript>
+          <definition> Completely red, quite red.</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠪ ᠤᠯᠠᠶᠢᠮ᠎ᠠ ᠲᠡᠮᠦᠷ</unicode>
+          <transcript>-- ulaim-a temyr</transcript>
+          <definition> Red-hot iron.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠪ</unicode>
+      <definition>particule pour renforcer la signification du mot qui la suit</definition>
+      <page>368</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠪ ᠤᠯᠠᠭᠠᠨ</unicode>
+          <definition>entièrement rouge, pourpre.</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠪ ᠣᠯᠠᠶᠢᠮᠠ ᠲᠡᠮᠦᠷ</unicode>
+          <definition>fer rougi au feu</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠪ</unicode>
+      <cyrillic>ув</cyrillic>
+      <definition>见（加强语气词，用在以"у"字母为首音节的词前）：~ улаан 鲜红的，血红的，红彤彤的.</definition>
+      <page>1170</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠪ</unicode>
+      <cyrillic>УВ</cyrillic>
+      <definition>I у-гаар эхлэсэн үгэнд хүч нэмэгдүүлэх сул үг (усилительная частица к словам с начальным “у”); ув улаан ярко-красный, совершенно красный; пунцовый, багровый; густокрасный, кровавого цвета; ув улаан уруул пунцовые губы; ув улаан хацар пунцовые щеки; ув улаан хошоонгор ург. клевер пунцовый; ув улайм төмөр раскалённое докрасна железо. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠪ</unicode>
+      <cyrillic>УВ</cyrillic>
+      <definition>II 1) растопка из сухой травы; сухая лучљна, щепки для разжигания; источник огня; 2) горелка, фитљль; 3) трут. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠪ</unicode>
+      <cyrillic>УВ</cyrillic>
+      <definition>III кратер, жерло вулкана. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>ув</cyrillic>
+      <definition>emphat Part: ~ улаан hochrot</definition>
+      <page>252</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠪ</unicode>
+      <cyrillic>ув</cyrillic>
+      <definition>хүч нэмэгдүүлэх үг, час; ув улаан хацартай.</definition>
+      <page>582</page>
+    </entry_item>
+  </entries>
+</entry>

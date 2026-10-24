@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8966">
+  <head>
+    <unicode>ᠲᠥᠺᠡᠢ</unicode>
+    <transcript>tögei</transcript>
+    <transcript2>dögei</transcript2>
+    <cyrillic>төгий</cyrillic>
+  </head>
+  <see_also>
+    <ref>T8965</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠥᠭᠡᠢ</unicode>
+      <cyrillic>төгий</cyrillic>
+      <definition>〔名〕挽具，轭.</definition>
+      <page>1092</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠺᠡᠢ</unicode>
+      <cyrillic>ТӨГИЙ</cyrillic>
+      <definition>деревянная дуга, соединяющая оглобли с хомутом. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠥᠭᠡᠢ</unicode>
+      <cyrillic>төгий</cyrillic>
+      <definition>тэрэгний тоног, тэргэнд хөллөх морины хүзүүн дээгүүр давуулж аралтай холбох махир мод.</definition>
+      <page>548</page>
+    </entry_item>
+  </entries>
+</entry>

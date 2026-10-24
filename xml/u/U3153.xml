@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="U3153">
+  <head>
+    <unicode>ᠣᠷᠴᠢᠯᠠᠩᠲᠣ</unicode>
+    <transcript>orčilangtu</transcript>
+    <transcript2>orcilangdo</transcript2>
+    <cyrillic>орчлонт</cyrillic>
+  </head>
+  <related_to>
+    <ref>U3152</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠷᠴᠢᠯᠠᠩᠲᠣ</unicode>
+      <uighur>orčilangdu</uighur>
+      <cyrillic>орчлонт</cyrillic>
+      <transcript>ORCILANGTU</transcript>
+      <page>617</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠷᠴᠢᠯᠠᠩᠲᠣ ᠶᠢᠷᠲᠢᠨᠴᠦ ᠎ᠶᠢᠨ</unicode>
+          <transcript>-- jirtincy jin</transcript>
+          <definition>Cosmic</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠷᠴᠢᠯᠠᠩᠲᠣ ᠶᠢᠷᠲᠢᠨᠴᠦ ᠎ᠶᠢᠨ ᠪᠠᠶᠢᠳᠠᠯ</unicode>
+          <transcript>-- jirtincy jin baidal</transcript>
+          <definition>Cosmography</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠷᠴᠢᠯᠠᠩᠲᠤ</unicode>
+      <cyrillic>орчлонт</cyrillic>
+      <definition>见 ~ ертөнц (1)宇宙，世界，环宇；(2)〈宗〉无常世界：~ ертөнцийн байдал (1)宇宙学（天文、地理、地质之总称），天地学；(2)宇宙志；宇宙状；~ ертөнцийн судлал 宇宙学.</definition>
+      <page>824</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠷᠴᠢᠯᠠᠩᠲᠣ</unicode>
+      <cyrillic>ОРЧЛОНТ</cyrillic>
+      <definition>: орчлонт ертөнцийн байдал космография.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

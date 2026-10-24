@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y2253">
+  <head>
+    <unicode>ᠶᠡᠺᠢᠷ</unicode>
+    <transcript>yekir</transcript>
+    <transcript2>yegir</transcript2>
+    <cyrillic>ехир</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠶᠡᠺᠢᠷ</unicode>
+      <uighur>ǰekir</uighur>
+      <transcript>ZEKIR</transcript>
+      <page>1044</page>
+      <examples>
+        <example>
+          <unicode>ᠶᠡᠺᠢᠷ ᠰᠡᠺᠢᠷ</unicode>
+          <transcript>-- sekir</transcript>
+          <definition> Quite irrelevant, absolutely unimportant.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠡᠺᠢᠷ ᠰᠡᠺᠢᠷ</unicode>
+      <definition>qui n&apos;a point de gravité, léger, volage.</definition>
+      <page>2320</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠡᠺᠢᠷ</unicode>
+      <cyrillic>ЕХИР</cyrillic>
+      <definition>: ехир сэхир хорш. всякая мелочь, дребедень, что попало. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

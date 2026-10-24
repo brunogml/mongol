@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A3706">
+  <head>
+    <unicode>ᠠᠶᠢᠮᠰᠢᠬ</unicode>
+    <transcript>ayimsiq</transcript>
+    <transcript2>ayimsig</transcript2>
+    <cyrillic>аймшиг</cyrillic>
+  </head><see_also>
+    <ref>A3755</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠶᠢᠮᠰᠢᠬ</unicode>
+      <uighur>ayimsiq</uighur>
+      <transcript>AIMSIГ</transcript>
+      <definition>See ajumsiγ</definition>
+      <page>21</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠢᠮᠰᠢᠭ</unicode>
+      <uighur>ayimsiq</uighur>
+      <definition>frayeur, effroi, terreur</definition>
+      <page>8</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠢᠮᠰᠢᠭ ᠦᠭᠡᠢ</unicode>
+          <uighur>ayimsiq ügei</uighur>
+          <definition>intrépidement, courageusement</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

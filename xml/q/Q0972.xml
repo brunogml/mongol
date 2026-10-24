@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0972">
+  <head>
+    <unicode>ᠬᠠᠪᠢᠲᠠᠬᠣ</unicode>
+    <transcript>qabitaqu</transcript>
+    <transcript2>gabidago</transcript2>
+    <cyrillic>хавьтах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q0973</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q0975</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠪᠢᠲᠠᠬᠣ</unicode>
+      <uighur>qabidaqu</uighur>
+      <cyrillic>хавьтах - хавьдах</cyrillic>
+      <transcript>XABIDA-</transcript>
+      <definition>v.i. To come close, near, come to the side of; to approach.</definition>
+      <page>897</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠪᠢᠲᠠᠬᠣ ᠦᠭᠡᠢ</unicode>
+          <transcript>--xu ygei</transcript>
+          <definition> Way off, not close.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠪᠢᠲᠠᠬᠣ ᠦᠭᠡᠢ ᠶᠡᠺᠡ</unicode>
+          <transcript>--xu ygei jeke</transcript>
+          <definition> Much more, much greater or bigger</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠭᠦᠨ ᠤ ᠺᠡᠯᠡᠭᠰᠡᠨ ᠦᠭᠡ ᠬᠠᠪᠢᠲᠠᠵᠤ ᠪᠠᠶᠢᠨ᠎ᠠ</unicode>
+          <transcript>tegyn y kelegsen yge --zu bain-a</transcript>
+          <definition> What he said is almost right.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠪᠢᠲᠠᠬᠤ</unicode>
+      <cyrillic>хавьтах</cyrillic>
+      <definition>1. хавьд очих, ойр очих, ойртох; хавьтаж ойртох; хавьтахад бэрхтэй;2. &lt;шилжсэн&gt;дотнолон ойртох.</definition>
+      <page>637</page>
+    </entry_item>
+  </entries>
+</entry>

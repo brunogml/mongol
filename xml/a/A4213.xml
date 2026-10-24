@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A4213">
+  <head>
+    <unicode>ᠠᠷᠭᠣᠮᠠᠬ</unicode>
+    <transcript>arγumaγ</transcript>
+    <transcript2>argomag</transcript2>
+    <cyrillic>аргамаг</cyrillic>
+  </head>
+  <see_also>
+    <ref>A4166</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠷᠭᠤᠮᠠᠬ</unicode>
+      <definition>voy argamaq</definition>
+      <page>155</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠷᠭᠤᠮᠠᠬ ᠰᠠᠷᠠᠯ</unicode>
+          <definition>un bon cheval couleur isabelle.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠷᠭᠤᠮᠠᠭ</unicode>
+      <cyrillic>аргамаг</cyrillic>
+      <definition>〔名〕体型健美的马，良种马，纯种马，良骥.</definition>
+      <page>73</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠷᠭᠤᠮᠠᠭ</unicode>
+      <cyrillic>аргамаг</cyrillic>
+      <definition>угтаа Дундад Азийн цэвэр угсааны морийг ийнхүү нэрлэж байсан, одоо гоёмсог цэвэр байдалтай морийг магтаж ийнхүү нэрлэнэ; аргамаг хүлэг; аргамаг саарал.</definition>
+      <page>50</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="ZM061">
+  <head>
+    <cyrillic>машинист</cyrillic>
+  </head>
+  <see_also>
+    <ref>ZM060</ref>
+    <ref>ZM062</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠰᠢᠨᠢᠰᠲ᠋</unicode>
+      <cyrillic>машинист</cyrillic>
+      <definition>〔名〕（机车等的）司机，司机员；机械工，机器技师.</definition>
+      <page>669</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠰᠢᠨᠢᠰᠲ᠋</unicode>
+      <cyrillic>машинист</cyrillic>
+      <definition>машинч; галт тэрэгний машинист.</definition>
+      <page>336</page>
+    </entry_item>
+  </entries>
+</entry>

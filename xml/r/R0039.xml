@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="R0039">
+  <head>
+    <transcript>redaktorlaqu</transcript>
+    <transcript2>redagdorlago</transcript2>
+    <cyrillic>редакторлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>R0040</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>РЕДАКТОРЛАХ</cyrillic>
+      <definition>1. редактљровать; гар бичмэл редакторлах редактљровать рукопись; 2. редактљрование. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>редакторлах</cyrillic>
+      <definition>redigieren</definition>
+      <page>189</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠷᠧᠳᠠᠺᠲ᠋ᠣᠷᠯᠠᠬᠤ</unicode>
+      <cyrillic>редакторлох</cyrillic>
+      <definition>хэвлэгдэх зүйлийг засварлан хянах; ном редакторлох.</definition>
+      <page>455</page>
+    </entry_item>
+  </entries>
+</entry>

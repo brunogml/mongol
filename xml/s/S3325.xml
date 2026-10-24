@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S3325">
+  <head>
+    <unicode>ᠰᠢᠭᠠᠷᠳᠠᠬᠣ</unicode>
+    <transcript>siγardaqu</transcript>
+    <transcript2>sigardago</transcript2>
+    <cyrillic>шаардах</cyrillic>
+  </head><derivatives>
+    <ref>S3327</ref>
+  
+    <ref>S3330</ref>
+  </derivatives><see_also>
+    <ref>S0453</ref>
+  
+    <ref>S3324</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠭᠠᠷᠳᠠᠬᠣ</unicode>
+      <uighur>siγardaqu</uighur>
+      <cyrillic>шаардах</cyrillic>
+      <transcript>SIΓARDA-</transcript>
+      <definition>[= saγarda-] v. t. To urge, drive, speed up; to insist, importune, demand; to press, compel.</definition>
+      <page>699</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠭᠠᠷᠳᠠᠨ ᠨᠡᠺᠡᠮᠵᠢᠯᠡᠺᠦ</unicode>
+          <transcript>--n nekemzileky</transcript>
+          <definition> To ask, insist, importune.</definition>
+        </example>
+        <example>
+          <unicode>... ᠭᠡᠵᠦ ᠰᠢᠭᠠᠷᠳᠠᠬᠤ</unicode>
+          <transcript> . . gezy --xu.</transcript>
+          <definition> To demand that .. .</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠠᠨ ᠤ ᠡᠮᠦᠨ᠎ᠡ ᠰᠢᠭᠠᠷᠳᠠᠵᠤ ᠪᠠᠶᠢᠬᠤ ᠶᠠᠪᠤᠳᠠᠯ</unicode>
+          <transcript>man u emyn-e --zu baixu jabudal</transcript>
+          <definition> A matter demanding our immediate attention.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠠᠶᠢᠵᠢᠷᠠᠭᠤᠯᠬᠤ ᠎ᠶᠢ ᠰᠢᠭᠠᠷᠳᠠᠬᠤ</unicode>
+          <transcript>saiziraγulxu ji --xu</transcript>
+          <definition> To demand or require improvement.</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠢᠳᠺᠦᠯ ᠢ ᠰᠢᠭᠠᠷᠳᠠᠬᠤ</unicode>
+          <transcript>zidkyl i --xu</transcript>
+          <definition> To require effort.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠭᠠᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>шаардах</cyrillic>
+      <definition>〔动〕①催，催促；督促，敦促：буцааж өгөхий нь ~ 催促其归还；②энэ тасалгааг дахин чимэглэхийг ~ж байна 要求（需要）将此房间重新布置一下.</definition>
+      <page>1602</page>
+    </entry_item>
+  </entries>
+</entry>

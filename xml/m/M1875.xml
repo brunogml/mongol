@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1875">
+  <head>
+    <unicode>ᠮᠣᠲᠣᠷᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>muturlaγulqu</transcript>
+    <transcript2>modorlagolgo</transcript2>
+    <cyrillic>мутарлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>M1874</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠤᠲᠤᠷᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>мутарлуулах</cyrillic>
+      <definition>〔動〕мутарлах 的使动态.</definition>
+      <page>696</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠲᠣᠷᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>МУТАРЛУУЛАХ</cyrillic>
+      <definition>мутарлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>мутарлуулах</cyrillic>
+      <definition>Kaus von мутарлах</definition>
+      <page>147</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠤᠲᠤᠷᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>мутарлуулах</cyrillic>
+      <definition>мутарлахын үйлдүүлэх хэв.</definition>
+      <page>350</page>
+    </entry_item>
+  </entries>
+</entry>

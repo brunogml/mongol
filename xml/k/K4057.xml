@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4057">
+  <head>
+    <unicode>ᠺᠥᠯᠥᠺᠡᠯᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>gölügelegülkü</transcript>
+    <transcript2>gölögelegölgö</transcript2>
+    <cyrillic>гөлөглүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K4056</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠥᠯᠥᠭᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>гөлөглүүлэх</cyrillic>
+      <definition>〔动〕гөлөглөх /1 的使动态.</definition>
+      <page>314</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠯᠥᠺᠡᠯᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ГӨЛӨГЛҮҮЛЭХ</cyrillic>
+      <definition>гөлөглөх I, II-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠥᠯᠥᠭᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>гөлөглүүлэх</cyrillic>
+      <definition>гөлөглөхийн үйлдүүлэх хэв.</definition>
+      <page>153</page>
+    </entry_item>
+  </entries>
+</entry>

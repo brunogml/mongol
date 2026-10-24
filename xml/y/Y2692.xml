@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y2692">
+  <head>
+    <unicode>ᠵᠢᠪᠡᠲᠥᠺᠥ</unicode>
+    <transcript>ǰibetükü</transcript>
+    <transcript2>yibedögö</transcript2>
+    <cyrillic>зэвтэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y2693</ref>
+    <ref>Y2691</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠪᠡᠲᠦᠬᠦ</unicode>
+      <cyrillic>зэвтэх</cyrillic>
+      <definition>〔动〕生锈，长锈.</definition>
+      <page>592</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠪᠡᠲᠥᠺᠥ</unicode>
+      <cyrillic>ЗЭВТЭХ</cyrillic>
+      <definition>зэврэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠪᠡᠲᠦᠬᠦ</unicode>
+      <cyrillic>зэвтэх</cyrillic>
+      <definition>юманд зэв тогтох. зэвтэй болох, зэврэх.</definition>
+      <page>294</page>
+    </entry_item>
+  </entries>
+</entry>

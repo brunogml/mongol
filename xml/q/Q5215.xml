@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q5215">
+  <head>
+    <unicode>ᠭᠣᠲᠣᠬ</unicode>
+    <transcript>γutuγ</transcript>
+    <transcript2>godog</transcript2>
+    <cyrillic>гутаг</cyrillic>
+  </head>
+  <see_also>
+    <ref>Q5214</ref>
+    <ref>Q5216</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠣᠲᠣᠬ</unicode>
+      <uighur>γutuq</uighur>
+      <cyrillic>гутаг</cyrillic>
+      <transcript>ΓUTUΓ</transcript>
+      <definition>n. Remorse, compunction.</definition>
+      <page>370</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠣᠲᠣᠬ ᠣᠯᠬᠤ</unicode>
+          <transcript>-- olxu</transcript>
+          <definition> To take one's own mistakes to heart.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠤᠲᠤᠭ</unicode>
+      <cyrillic>гутаг</cyrillic>
+      <definition>〔名〕①后悔，伤心，悲痛；②瑕疵，毛病，缺陷；伤残：~ суух(1)伤心；后悔；(2)留下瑕疵，造成缺陷，留下伤残.</definition>
+      <page>332</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠲᠣᠬ</unicode>
+      <cyrillic>ГУТАГ</cyrillic>
+      <definition>сокрушение, сожаление; удручённость; гутаг олох раскаиваться, сокрушаться; гутаг суух быть удручённым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠤᠲᠤᠭ</unicode>
+      <cyrillic>гутаг</cyrillic>
+      <definition>1. сэтгэлийн шаналал; гутаг олох;2. биед олсон ямар нэгэн согог; гутаг суух.</definition>
+      <page>161</page>
+    </entry_item>
+  </entries>
+</entry>

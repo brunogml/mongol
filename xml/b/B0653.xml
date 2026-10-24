@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0653">
+  <head>
+    <unicode>ᠪᠠᠲᠣᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>batunaγulqu</transcript>
+    <transcript2>badonagolgo</transcript2>
+    <cyrillic>батнуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B0652</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠲᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>батнуулах</cyrillic>
+      <definition>〔动〕батнах 的使动态.</definition>
+      <page>143</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠲᠣᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БАТНУУЛАХ</cyrillic>
+      <definition>батнах-ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠳᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>батнуулах</cyrillic>
+      <definition>батнахын үйлдүүлэх хэв.</definition>
+      <page>80</page>
+    </entry_item>
+  </entries>
+</entry>

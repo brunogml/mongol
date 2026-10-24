@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2034">
+  <head>
+    <unicode>ᠲᠠᠮᠣᠬᠣ</unicode>
+    <transcript>tamuqu</transcript>
+    <transcript2>damogo</transcript2>
+    <cyrillic>тамах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T2035</ref>
+    <ref>T2036</ref>
+    <ref>T2047</ref>
+  </derivatives>
+  <see_also>
+    <ref>T1998</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠮᠣᠬᠣ</unicode>
+      <uighur>tamoqu</uighur>
+      <cyrillic>тамах</cyrillic>
+      <transcript>TAMU-</transcript>
+      <definition>[= tomu-,1.] v. t. To twist or spin thread or rope.</definition>
+      <page>776</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠡᠭᠡᠰᠦ ᠲᠠᠮᠣᠬᠣ</unicode>
+          <transcript>degesy --xu</transcript>
+          <definition> To twist or splice a rope.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠮᠣᠬᠣ</unicode>
+      <uighur>tamuqu</uighur>
+      <definition>v.t. To twist ropes.</definition>
+      <page>913</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠮᠣᠬᠣ</unicode>
+      <cyrillic>ТАМАХ</cyrillic>
+      <definition>I сучљть (нитки), вить (верёвку), прясть; томох-ыг үз., дээс тамах вить, сучљть волосяную верёвку. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠮᠣᠬᠣ</unicode>
+      <cyrillic>ТОМОХ</cyrillic>
+      <definition>I прясть; сучљть, вить (нитки, верёвку); олс томох вить верёвку из коноплљ; ширхэг томох прясть волокно. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠲᠠᠮᠤᠬᠤ</unicode>
+      <definition>tordre</definition>
+      <page>1646</page>
+      <examples>
+        <example>
+          <unicode>ᠢᠭ ᠪᠠᠷᠢᠵᠤ ᠤᠳᠠᠰᠤ ᠳᠠᠮᠤᠬᠤ</unicode>
+          <definition>filer</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠮᠤᠬᠤ</unicode>
+      <cyrillic>тамах /1</cyrillic>
+      <definition>томох, утас тамах, дээс тамах.</definition>
+      <page>518</page>
+    </entry_item>
+  </entries>
+</entry>

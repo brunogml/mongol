@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4264">
+  <head>
+    <unicode>ᠬᠣᠩᠬᠣᠶᠢᠬᠣ</unicode>
+    <transcript>qongquyiqu</transcript>
+    <transcript2>gonggoyigo</transcript2>
+    <cyrillic>хонхойх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q4270</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠩᠬᠣᠶᠢᠬᠣ</unicode>
+      <uighur>qongquyiqu</uighur>
+      <cyrillic>хонхойх</cyrillic>
+      <transcript>XONGXUI-</transcript>
+      <definition>v. i. To have a hollow or depression; to be dented or sunken.</definition>
+      <page>963</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠩᠬᠣᠶᠢᠭᠰᠠᠨ</unicode>
+          <transcript>--γsan</transcript>
+          <definition> Concave, sunken.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠩᠬᠣᠶᠢᠵᠤ ᠣᠳᠬᠤ</unicode>
+          <transcript>--zu odxu</transcript>
+          <definition> To sink, go down.</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠠᠵᠠᠷ ᠬᠣᠩᠬᠣᠶᠢᠬᠣ</unicode>
+          <transcript>γazar --xu</transcript>
+          <definition> For the ground to sink.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠩᠬᠤᠶᠢᠬᠤ</unicode>
+      <definition>pratiquer un trou, faire une cavité; creuser, caver; rendre inégal</definition>
+      <page>871</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠩᠬᠤᠶᠢᠵᠤ ᠣᠳᠬᠤ</unicode>
+          <definition>marcher d'un pas inégal</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠩᠬᠤᠶᠢᠭᠰᠠᠨ</unicode>
+          <definition>cavé, creusé; inégal</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠣᠩᠬᠣᠢᠬᠤ</unicode>
+      <cyrillic>хонхойх</cyrillic>
+      <definition>〔动〕①内陷，内褶，成小坑，成凹地，成小涡：хацар нь ~ 两腮凹陷；дарахад ~но 按压时出现小坑；нүд ~ 眼球凹陷；~сон шарх 伤痕；②（转）消耗，减少.</definition>
+      <page>1364</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠩᠬᠣᠶᠢᠬᠣ</unicode>
+      <cyrillic>ХОНХОЙХ</cyrillic>
+      <definition>1) иметь ямку, углубление; быть впалым; осунуться; образовываться (о ямке, углублении); втягиваться, ввалиться; дарахад хонхойно при надавливании образуются углубления, вмятины; хацар нь хонхойдог а) образуются ямочки на щеках; б) образование ямки, углубления, выемки; хонхойж цонхойх иметь углубление, впадину, вмятину, вдавлину; өвчтэй хүний хацар нь хонхойжээ у больного ввалились (стали впалыми) щёки; 2) шилж. становиться редким; хонхойтол хорох сильно убавляться, становиться меньше; хонхойтол болов пропала всякая надежда. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хонхойх</cyrillic>
+      <definition>1. eine Vertiefung haben; hohl werden, einfall-, sich nach innen wölben; хонхойсон хацар eingefallene od hohle Wangen
+2. übertr abnehmen, sich vermindern, schwinden</definition>
+      <page>310</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠩᠬᠣᠢᠬᠤ</unicode>
+      <cyrillic>хонхойх</cyrillic>
+      <definition>1. хонхор болох;хонхойх цонхойх&lt;хорш&gt;; энэ хүүхдийн хацар хонхойх юм; дарахад хонхойх;2. &lt;шилжсэн&gt;хорох, хорогдох, бага болох, хотойх; хонхойхгүй баян сүрэг малтай.</definition>
+      <page>691</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3424">
+  <head>
+    <unicode>ᠴᠥᠨᠳᠥᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>čündügenekü</transcript>
+    <transcript2>cöndögenegö</transcript2>
+    <cyrillic>цүндэгнэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C3425</ref>
+    <ref>C3423</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠦᠨᠳᠦᠭᠦᠨᠡᠬᠦ</unicode>
+      <cyrillic>цүндэгнэх</cyrillic>
+      <definition>〔动〕大肚皮摇动，晃动，晃晃悠悠，颤颤悠悠.</definition>
+      <page>1557</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠥᠨᠳᠥᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>ЦҮНДЭГНЭХ</cyrillic>
+      <definition>двигаться, шевелиться постоянно, выпячиваясь. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠦᠭᠳᠦᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>цүндэгнэх</cyrillic>
+      <definition>цүндгэр юмны үргэлжлэн цүндэг цүндэг хөдлөх.</definition>
+      <page>802</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1012">
+  <head>
+    <unicode>ᠥᠯᠪᠠᠯᠵᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ülbelǰegülkü</transcript>
+    <transcript2>ölbelcegölgö</transcript2>
+    <cyrillic>үлбэлзүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>O1010</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠦᠯᠪᠡᠯᠵᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>үлбэлзүүлэх</cyrillic>
+      <definition>〔动〕үлбэлзэх 的使动态.</definition>
+      <page>1236</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠯᠪᠠᠯᠵᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ҮЛБЭЛЗҮҮЛЭХ</cyrillic>
+      <definition>үлбэлзэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠦᠯᠪᠡᠯᠵᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>үлбэлзүүлэх</cyrillic>
+      <definition>үлбэлзэхийн үйлдүүлэх хэв.</definition>
+      <page>619</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠦᠯᠪᠡᠯᠵᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>үрвэлзүүлэх</cyrillic>
+      <definition>үрвэлзэхийн үйлдүүлэх хэв.</definition>
+      <page>624</page>
+    </entry_item>
+  </entries>
+</entry>

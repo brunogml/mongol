@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1031">
+  <head>
+    <unicode>ᠲᠠᠪᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tabaraγulqu</transcript>
+    <transcript2>dabaragolgo</transcript2>
+    <cyrillic>тавруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T1024</ref>
+  </related_to>
+  <see_also>
+    <ref>T1032</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠪᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тавруулах</cyrillic>
+      <definition>〔 〕таврах 的使动态.</definition>
+      <page>1007</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠪᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАВРУУЛАХ</cyrillic>
+      <definition>таваргах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠪᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тавруулах</cyrillic>
+      <definition>таврахын үйлдүүлэх хэв, таврагах.</definition>
+      <page>512</page>
+    </entry_item>
+  </entries>
+</entry>

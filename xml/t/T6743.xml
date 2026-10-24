@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T6743">
+  <head>
+    <unicode>ᠳᠣᠲᠣᠷᠲᠣ</unicode>
+    <transcript>doturtu</transcript>
+    <transcript2>dodordo</transcript2>
+    <cyrillic>доторт</cyrillic>
+  </head><see_also>
+    <ref>T6742</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠣᠲᠣᠷᠲᠣ</unicode>
+      <uighur>doturtu</uighur>
+      <transcript>DOTURTU</transcript>
+      <definition>See dotrutai.</definition>
+      <page>265</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠳᠣᠷᠳᠤ ~ ᠳᠤᠳᠣᠷᠲᠠᠢ</unicode>
+      <definition>celui qui a le dedans, l'intérieur 2 intérieur; 3 doublé (habit).</definition>
+      <page>1846</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠷᠠ ᠳᠣᠲᠤᠷ ᠎ᠳᠤ ᠳᠠᠶᠢᠨᠰᠤᠨ</unicode>
+          <definition>ennemi à l'âme noire, méchant</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠣᠲᠤᠷᠠᠳᠤ ᠰᠠᠨᠳᠠᠯᠢ</unicode>
+          <definition>une chaise bourrée</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠣᠲᠣᠷᠠᠲᠤ ᠳᠡᠪᠡᠯ</unicode>
+          <definition>habit ouaté ou doublé</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K3306">
+  <head>
+    <unicode>ᠺᠥᠪᠡᠩ</unicode>
+    <transcript>köbeng</transcript>
+    <transcript2>göbeng</transcript2>
+    <cyrillic>хөвөн</cyrillic>
+  </head>
+  <see_also>
+    <ref>K3385</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠥᠪᠡᠩ</unicode>
+      <uighur>köbeng</uighur>
+      <transcript>KØBENG</transcript>
+      <definition>See købyng</definition>
+      <page>476</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠦᠪᠡᠩ</unicode>
+      <definition>coton en fil.</definition>
+      <page>2575</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠥᠪᠡᠩ ᠲᠣᠮᠤᠬᠤ</unicode>
+          <definition>filer le coton</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠥᠪᠡᠩ ᠮᠣᠳᠤᠨ</unicode>
+          <definition>cotonnier</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

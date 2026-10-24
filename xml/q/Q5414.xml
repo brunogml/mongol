@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q5414">
+  <head>
+    <unicode>ᠬᠣᠳᠳᠣᠬᠯᠠᠬᠣ</unicode>
+    <transcript>qudduγlaqu</transcript>
+    <transcript2>goddoglago</transcript2>
+    <cyrillic>худаглах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠳᠳᠤᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>худаглах</cyrillic>
+      <definition>〔动〕掘井，挖井.</definition>
+      <page>1423</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠳᠳᠣᠬᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХУДАГЛАХ</cyrillic>
+      <definition>хуучир. заключать, сажать в яму (вид наказания за тяжкое преступление в Монголии в XVII-XVIII ст.). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠳᠳᠤᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>худаглах</cyrillic>
+      <definition>худаг шиг нүх ухах; нүх худаглаж ухах.</definition>
+      <page>723</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q5413</ref>
+  </related_to>
+</entry>

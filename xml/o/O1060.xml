@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1060">
+  <head>
+    <unicode>ᠥᠯᠮᠠᠶᠢᠳᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ölmeyidegülkü</transcript>
+    <transcript2>ölmeyidegölgö</transcript2>
+    <cyrillic>өлмийдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>O1059</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠯᠮᠡᠢᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өлмийдүүлэх</cyrillic>
+      <definition>〔动〕өлмийдөх 的使动态.</definition>
+      <page>841</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠯᠮᠠᠶᠢᠳᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ӨЛМИЙДҮҮЛЭХ</cyrillic>
+      <definition>1) өлмийдөх-ийн үйлдүүл.; 2) быть схваченным за ногу в её подъёме. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠯᠮᠡᠢᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өлмийдүүлэх</cyrillic>
+      <definition>өлмийдөхийн үйлдүүлэх хэв.</definition>
+      <page>435</page>
+    </entry_item>
+  </entries>
+</entry>

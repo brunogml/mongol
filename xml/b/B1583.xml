@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1583">
+  <head>
+    <unicode>ᠪᠠᠷᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>barlaγulqu</transcript>
+    <transcript2>barlagolgo</transcript2>
+    <cyrillic>барлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B1582</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠷᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>барлуулах</cyrillic>
+      <definition>〔动〕①барлах 的使动态；②意同 барлагдах.</definition>
+      <page>138</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠷᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БАРЛУУЛАХ</cyrillic>
+      <definition>барлах-ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠷᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>барлуулах</cyrillic>
+      <definition>барлахын үйлдүүлэх хэв.</definition>
+      <page>78</page>
+    </entry_item>
+  </entries>
+</entry>

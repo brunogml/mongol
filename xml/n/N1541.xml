@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="N1541">
+  <head>
+    <unicode>ᠨᠢᠳᠥᠺᠥ</unicode>
+    <transcript>nidükü</transcript>
+    <transcript2>nidögö</transcript2>
+    <cyrillic>нүдэх</cyrillic>
+  </head><derivatives>
+    <ref>N1543</ref>
+  </derivatives><see_also>
+    <ref>N2578</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠨᠢᠳᠥᠺᠥ</unicode>
+      <uighur>nidükü</uighur>
+      <cyrillic>нүдэх</cyrillic>
+      <transcript>NIDY-</transcript>
+      <definition>[= nydy-] v.t. To pound, powder, crush, pulverize.</definition>
+      <page>578</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠠᠢ ᠨᠢᠳᠥᠺᠥ</unicode>
+          <transcript>cai --ky</transcript>
+          <definition> To pound brick tea.</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠡᠮᠺᠡᠷᠡᠲᠡᠯ᠎ᠡ ᠨᠢᠳᠥᠺᠥ</unicode>
+          <transcript>kemkeretel-e --ky</transcript>
+          <definition> To crush, powder, pulverize.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠨᠢᠳᠦᠺᠦ ~ ᠨᠦᠳᠦᠺᠦ</unicode>
+      <definition>piler.</definition>
+      <page>659</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠨᠢᠳᠥᠺᠥ</unicode>
+      <uighur>nidükü</uighur>
+      <definition>siehe nüdükü</definition>
+      <page>90</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T5027">
+  <head>
+    <unicode>ᠲᠢᠲᠢᠮᠲᠥ</unicode>
+    <transcript>titimtü</transcript>
+    <transcript2>didimdö</transcript2>
+    <cyrillic>титэмт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠢᠳᠢᠮᠳᠦ</unicode>
+      <definition>orné de diadème, couronné.</definition>
+      <page>1779</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠢᠳᠢᠮᠳᠦ ᠮᠠᠯᠠᠭᠠᠨ ᠎ᠶᠢ ᠡᠮᠦᠰᠺᠦ</unicode>
+          <definition>mettre le diadème ou la couronne</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠢᠲᠢᠮᠲᠦ</unicode>
+      <cyrillic>титэмт</cyrillic>
+      <definition>〔形〕冠状的：~ гортиг 鸭嘴笔式小圆规.</definition>
+      <page>1050</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠢᠲᠢᠮᠲᠥ</unicode>
+      <cyrillic>ТИТЭМТ</cyrillic>
+      <definition>имеющий диадему, увенчанный; венечный.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+<related_to><ref>T5025</ref></related_to></entry>

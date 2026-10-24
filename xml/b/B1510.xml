@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1510">
+  <head>
+    <unicode>ᠪᠠᠷᠣᠬᠴᠠᠭᠠᠯᠠᠬᠣ</unicode>
+    <transcript>baruγčaγalaqu</transcript>
+    <transcript2>barogcagalago</transcript2>
+    <cyrillic>барагцаалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B1511</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠠᠷᠣᠬᠴᠠᠭᠠᠯᠠᠬᠣ</unicode>
+      <uighur>baruqčaγalaqu</uighur>
+      <cyrillic>барагцаалах</cyrillic>
+      <transcript>BARUΓCAΓALA-</transcript>
+      <definition>v.t. To estimate, make a (rough) calculation.</definition>
+      <page>89</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠠᠷᠣᠬᠴᠠᠭᠠᠯᠠᠪᠠᠰᠤ</unicode>
+          <transcript>--basu</transcript>
+          <definition> Approximately, nearly, roughly.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠷᠤᠭᠴᠠᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>барагцаалах</cyrillic>
+      <definition>〔动〕①大约估计，大致计算，大约摸地说：~санорлого 预期收入；~сан тэмдэг 测向符号，定向符号；~сан халдад 视电感；~сан тоодоо 概算；~сан бодож гаргах 概算；~сан үнэ 参考价；②假设，推测，猜测.</definition>
+      <page>130</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠷᠣᠬᠴᠠᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>БАРАГЦААЛАХ</cyrillic>
+      <definition>1. 1) определять ориентировочно, приблизительно, мерить, прикидывать на глаз; барагцаалан хэмжих отмерить, прикинув на глаз; барагцаалсан тоолол грубый подсчёт; барагцаалсан тохируулга настройка грубая; 2) прикинуть в уме, составить себе общее представление, делать что-л. в общих чертах; 3) предполагать, догадываться; жил жилээр барагцаалан бодвоос представить себе приблизительно по годам; 2. барагцаалахуй-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠷᠣᠬᠴᠠᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>БАРАГЦААЛАХУЙ</cyrillic>
+      <definition>1) приблизительное определение, прикидывание; 2) предпологание.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠷᠣᠬᠴᠠᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>БАРАГЦААЛАН</cyrillic>
+      <definition>барагцаалах-ын хамж., приблизительно, в общем, примерно.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠷᠣᠬᠴᠠᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>БАРАГЦААЛВААС</cyrillic>
+      <definition>барагцаалбал-ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>барагцаалах</cyrillic>
+      <definition>schätzen, ungefähr bestimmen</definition>
+      <page>46</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠷᠤᠭᠴᠠᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>барагцаалах</cyrillic>
+      <definition>барагцаалах,тоймлох, баримжаалах, бүдүүвчлэх.</definition>
+      <page>74</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2077">
+  <head>
+    <unicode>ᠴᠢᠴᠠᠪᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>čičabaγanaqu</transcript>
+    <transcript2>cicabaganago</transcript2>
+    <cyrillic>чацавганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C2078</ref>
+    <ref>C2079</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠴᠠᠪᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>чацавганах</cyrillic>
+      <definition>〔动〕抽搐不止，不停颤抖，战栗不停.</definition>
+      <page>1582</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠴᠠᠪᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЧАЦАВГАНАХ</cyrillic>
+      <definition>вздрагивать, подрагивать то и дело (о щеке). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠴᠠᠪᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЧАЦВАГАНАХ</cyrillic>
+      <definition>чацвалзах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠴᠠᠪᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>чацавганах</cyrillic>
+      <definition>хүн амьтны биеийн чацав татав хийх; хацар чацавганах.</definition>
+      <page>815</page>
+    </entry_item>
+  </entries>
+</entry>

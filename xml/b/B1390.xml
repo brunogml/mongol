@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1390">
+  <head>
+    <unicode>ᠪᠠᠷᠢᠨᠲᠠᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>barintaγlaγulqu</transcript>
+    <transcript2>barindaglagolgo</transcript2>
+    <cyrillic>баринтаглуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B1389</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠷᠢᠨᠲᠠᠭᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>баринтаглуулах</cyrillic>
+      <definition>〔动〕баринтаглах 的使动态.</definition>
+      <page>137</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠷᠢᠨᠲᠠᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БАРИНТАГЛУУЛАХ</cyrillic>
+      <definition>баринтаглах-ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠷᠢᠨᠲᠠᠭᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>баринтаглуулах</cyrillic>
+      <definition>баринтаглахын үйлдүүлэх хэв.</definition>
+      <page>77</page>
+    </entry_item>
+  </entries>
+</entry>

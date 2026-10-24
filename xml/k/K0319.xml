@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K0319">
+  <head>
+    <unicode>ᠺᠠᠪᠠᠯᠢᠲᠥ</unicode>
+    <transcript>kebelitü</transcript>
+    <transcript2>gebelidö</transcript2>
+    <cyrillic>хэвэлт</cyrillic>
+  </head>
+  <see_also>
+    <ref>K0318</ref>
+  </see_also>
+  <related_to>
+    <ref>K0317</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠡᠪᠡᠯᠢᠳᠦ</unicode>
+      <definition>avec un ventre, ventru</definition>
+      <page>2451</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠡᠭᠰᠢ ᠺᠠᠪᠠᠯᠢᠲᠥ</unicode>
+          <definition>celui dont le ventre est plane, non proéminent</definition>
+        </example>
+        <example>
+          <unicode>ᠶᠡᠺᠡ ᠺᠠᠪᠠᠯᠢᠲᠥ</unicode>
+          <definition>à gros ventre, un gros ventru</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠪᠠᠯᠢᠲᠥ</unicode>
+      <cyrillic>ХЭВЭЛТ</cyrillic>
+      <definition>имеющий брюхо, брюхатый; беременная; их хэвэлт толстобрюхий, пузатый.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

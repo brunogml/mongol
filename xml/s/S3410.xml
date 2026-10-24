@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3410">
+  <head>
+    <unicode>ᠰᠢᠪ</unicode>
+    <transcript>sib</transcript>
+    <transcript2>sib</transcript2>
+    <cyrillic>шив</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠪ</unicode>
+      <uighur>sib</uighur>
+      <cyrillic>шив</cyrillic>
+      <transcript>SIB</transcript>
+      <definition>1 See under xob</definition>
+      <page>693</page>
+    </entry_item>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠪ</unicode>
+      <uighur>sib</uighur>
+      <cyrillic>шив</cyrillic>
+      <transcript>SIB</transcript>
+      <definition>2 Intensifying particle used before certain adj. and adv. beginning with si</definition>
+      <page>693</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠪ ᠰᠢᠨᠡᠺᠡᠨ</unicode>
+          <transcript>-- sineken</transcript>
+          <definition> Brand new.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠢᠪ ᠰᠢᠷ᠎ᠠ</unicode>
+          <transcript>-- sir-a</transcript>
+          <definition> Completely yellow.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠪ</unicode>
+      <definition>particule pour renforcer le sens du mot qui la suit.</definition>
+      <page>1472</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠪ ᠰᠢᠳᠤᠷᠭᠤ</unicode>
+          <definition>tout droit, raide</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠢᠪ ᠰᠢᠷᠠ</unicode>
+          <definition>très jaune, entièrement jaune</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠰᠢᠪ</unicode>
+      <uighur>sib sib-a</uighur>
+      <definition>Brand new.</definition>
+      <page>1427</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠪ</unicode>
+      <cyrillic>ШАВ</cyrillic>
+      <definition>I ша-гаар эхлэсэн үгэнд хүч нэмэгдүүлэх сул үг (усилительная частица к словам с начальным “ша”); шав шар совершенно жёлтый, яркожёлтый, совсем жёлтый, жёлтый-прежёлтый. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠪ</unicode>
+      <cyrillic>ШАВ</cyrillic>
+      <definition>II : шав хийсэн хүн! молодец! (как похвала). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠪ</unicode>
+      <cyrillic>ШИВ</cyrillic>
+      <definition>I шиг II 2)-ийг үз., бид өнөөдөр сайн ажиллах шив дээ мы, кажется, сегодня хорошо поработали. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠪ</unicode>
+      <cyrillic>ШИВ</cyrillic>
+      <definition>II ши-гээр эхлэсэн тэмдэг үгэнд хүч нэмэгдүүлэх сул үг (усилительная частица к прилагательным с начальным “ши”); шив шинэхэн совершенно новенький, “с иголочки”. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шив</cyrillic>
+      <definition>= шүү</definition>
+      <page>383</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠪ</unicode>
+      <cyrillic>шив /2</cyrillic>
+      <definition>хүч нэмэгдүүлэх үг, маш цоо; шив шинэ хувцас; шив шинэ ажил; шив шинэхэн ханилсан хоёр залуу.</definition>
+      <page>842</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠪ</unicode>
+      <cyrillic>шив /3</cyrillic>
+      <definition>мэт, шиг; бид өнөөдөр тун сүрхий ажиллах шив даа.</definition>
+      <page>842</page>
+    </entry_item>
+  </entries>
+</entry>

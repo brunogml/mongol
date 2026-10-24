@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0924">
+  <head>
+    <unicode>ᠴᠠᠪᠳᠠᠺᠰᠢᠺᠥ</unicode>
+    <transcript>čebdegsikü</transcript>
+    <transcript2>cebdegsigö</transcript2>
+    <cyrillic>цэвдэгших</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0925</ref>
+    <ref>C0923</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠪᠳᠡᠭᠰᠢᠬᠦ</unicode>
+      <cyrillic>цэвдэгших</cyrillic>
+      <definition>〔动〕（土壤）冻结起来，开始形成冻土.</definition>
+      <page>1559</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠪᠳᠠᠺᠰᠢᠺᠥ</unicode>
+      <cyrillic>ЦЭВДЭГШИХ</cyrillic>
+      <definition>делаться мерзлотным, обледенелым; образование толстого слоя льда. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цэвдэгших</cyrillic>
+      <definition>[ge]frieren, vereisen</definition>
+      <page>363</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠪᠳᠡᠭᠰᠢᠬᠦ</unicode>
+      <cyrillic>цэвдэгших</cyrillic>
+      <definition>цэвдэгрэх, цэвдэг шинжтэй болох.</definition>
+      <page>803</page>
+    </entry_item>
+  </entries>
+</entry>

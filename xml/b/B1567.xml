@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1567">
+  <head>
+    <unicode>ᠪᠠᠷᠳᠠᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>bardaγlaγulqu</transcript>
+    <transcript2>bardaglagolgo</transcript2>
+    <cyrillic>бартаглуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B1566</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠷᠲᠠᠭᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бартаглуулах</cyrillic>
+      <definition>〔动〕бартглах 的使动态.</definition>
+      <page>138</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠷᠳᠠᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БАРТАГЛУУЛАХ</cyrillic>
+      <definition>бартаглах-ын үйл­дүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠷᠲᠠᠭᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бартаглуулах</cyrillic>
+      <definition>бартаглахын үйлдүүлэх хэв.</definition>
+      <page>78</page>
+    </entry_item>
+  </entries>
+</entry>

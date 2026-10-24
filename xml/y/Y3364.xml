@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3364">
+  <head>
+    <unicode>ᠵᠢᠺᠳᠡᠯᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ǰigdelegülkü</transcript>
+    <transcript2>yigdelegölgö</transcript2>
+    <cyrillic>жигдлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y3363</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠢᠺᠳᠡᠯᠡᠺᠥᠯᠺᠥ</unicode>
+      <uighur>ǰikdelegülkü</uighur>
+      <cyrillic>жигдлүүлэх</cyrillic>
+      <transcript>ZIGDELEGYL-</transcript>
+      <definition>[v. caus. of zigdele-] To distribute evenly, assort.</definition>
+      <page>1051</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠢᠺᠳᠡᠯᠡᠭᠦᠯᠺᠦ</unicode>
+      <definition>égaliser, partager également, assortir, arranger, mettre en ordre.</definition>
+      <page>2358</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠢᠭᠳᠡᠯᠡᠭᠦᠯᠦᠨ ᠺᠢᠯᠭᠡᠺᠦ</unicode>
+          <definition>enfiler d'après les espèces</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠭᠳᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>жигдлүүлэх</cyrillic>
+      <definition>〔动〕жигдлэх 的使动态.</definition>
+      <page>505</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠺᠳᠡᠯᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЖИГДЛҮҮЛЭХ</cyrillic>
+      <definition>жигдлэх-ийн үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠭᠳᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>жигдлүүлэх</cyrillic>
+      <definition>жигдлэхийн үйлдүүлэх хэв, жигд болгуулах.</definition>
+      <page>243</page>
+    </entry_item>
+  </entries>
+</entry>

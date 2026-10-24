@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q3889">
+  <head>
+    <unicode>ᠬᠣᠣᠺᠢᠨᠠᠬᠣ</unicode>
+    <transcript>qoukinaqu</transcript>
+    <transcript2>googinago</transcript2>
+    <cyrillic>хуухинах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q3890</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q3889a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠣᠺᠢᠨᠠᠬᠤ</unicode>
+      <definition>murmurer (l'eau): 2 (parler) hardiment, (dire son sentiment) sans craindre personne</definition>
+      <page>860</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠤᠬᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>хуухинах</cyrillic>
+      <definition>〔动〕参见 хохинох.</definition>
+      <page>1446</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠣᠺᠢᠨᠠᠬᠣ</unicode>
+      <cyrillic>ХУУХИНАХ</cyrillic>
+      <definition>бурлить, громко журчать; хохинох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хуухинах</cyrillic>
+      <definition>= хохинох</definition>
+      <page>332</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠤᠬᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>хуухинах</cyrillic>
+      <definition>хохинох; хуухинан дуугарах; хуухинан амьсгаадах.</definition>
+      <page>739</page>
+    </entry_item>
+  </entries>
+</entry>

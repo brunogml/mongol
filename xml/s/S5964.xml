@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S5964">
+  <head>
+    <unicode>ᠰᠣᠮᠠᠭᠠᠨ</unicode>
+    <transcript>sumaγan</transcript>
+    <transcript2>somagan</transcript2>
+    <cyrillic>сумган</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠣᠮᠠᠭᠠᠨ</unicode>
+      <uighur>sumaγan</uighur>
+      <cyrillic>сумган</cyrillic>
+      <transcript>SUMAΓAN</transcript>
+      <definition>[= subaγan] adj. Oblong, oval.</definition>
+      <page>737</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠤᠮᠠᠭᠠᠨ ~ ᠰᠤᠪᠠᠭᠠᠨ</unicode>
+      <definition>oblong</definition>
+      <page>1403</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠤᠮᠠᠭᠠᠨ ᠨᠢᠳᠦᠨ</unicode>
+          <definition>yeux oblongs</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠤᠮᠠᠭᠠᠨ ᠺᠢᠯᠪᠡᠷᠢ</unicode>
+          <definition>figure ovale, oblongue</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠮᠠᠭᠠᠨ</unicode>
+      <cyrillic>сумган</cyrillic>
+      <definition>〔形〕卵形的；椭圆形的.</definition>
+      <page>960</page>
+    </entry_item>
+  </entries>
+</entry>

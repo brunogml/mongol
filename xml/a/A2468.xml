@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A2468">
+  <head>
+    <unicode>ᠠᠯᠬᠣᠳᠠᠯ</unicode>
+    <transcript>alqudal</transcript>
+    <transcript2>algodal</transcript2>
+    <cyrillic>алхдал</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠯᠬᠣᠳᠠᠯ</unicode>
+      <uighur>alqudal</uighur>
+      <transcript>ALXUDAL</transcript>
+      <definition>Same as alxuγ-a</definition>
+      <page>34</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠯᠬᠤᠳᠠᠯ</unicode>
+      <definition>le pas (d'un homme, d'un cheval), allure</definition>
+      <page>80</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠯᠬᠤᠳᠠᠯ ᠢ ᠠᠯᠬᠬᠤ</unicode>
+          <definition>marcher pas a pas, aller, marcher.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠯᠬᠤᠳᠠᠯ ᠶᠡᠺᠡ</unicode>
+          <definition>qui fait de grands pas.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠯᠬᠤᠳᠠᠯ ᠺᠡᠯᠳᠦᠷᠢᠺᠦ</unicode>
+          <definition>chanceler en marchant.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠠᠯᠬᠣᠳᠠᠯ</unicode>
+      <uighur>alqudal</uighur>
+      <definition>das Schreiten.</definition>
+      <page>12</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠠᠯᠬᠣᠳᠠᠯ</unicode>
+      <uighur>alqudal</uighur>
+      <definition>n. Pacing, stepping.</definition>
+      <page>47</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠯᠬᠤᠳᠠᠯ</unicode>
+      <cyrillic>алхдал</cyrillic>
+      <definition>〔名〕参见 алхаа.</definition>
+      <page>46</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠯᠬᠣᠳᠠᠯ</unicode>
+      <cyrillic>АЛХДАЛ</cyrillic>
+      <definition>шаг, походка, поступок, поступь; шагание; ход; алхдал их шагистый, широко ступающий (о лошади); алхдал сайн шаг большой (о лошади); ходкий; алхдал сайт хээр шагистый, ходкий гнедок; алхдал хэтрэх споткнуться, оступиться; алхдалыг алхах шагать, ступать, идти размашисто. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Mostaert</dico>
+      <unicode>ᠠᠯᠬᠣᠳᠠᠯ</unicode>
+      <definition>allure, pas</definition>
+      <page>16</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠯᠬᠤᠳᠠᠯ</unicode>
+      <cyrillic>алхдал</cyrillic>
+      <definition>алхаа; алхдал их, алхдал бага.</definition>
+      <page>35</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>A2469</ref>
+  </derivatives>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5790">
+  <head>
+    <unicode>ᠳᠣᠬᠣᠳᠠᠬᠣ</unicode>
+    <transcript>duqudaqu</transcript>
+    <transcript2>dogodago</transcript2>
+    <cyrillic>духдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T5791</ref>
+  </derivatives>
+  <see_also>
+    <ref>T5790a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠤᠬᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>духдах</cyrillic>
+      <definition>〔动〕①打额头，打后脑门儿；②〈方〉打后脑勺；③把帽子压在前额上.</definition>
+      <page>451</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠬᠣᠳᠠᠬᠣ</unicode>
+      <cyrillic>ДУХДАХ</cyrillic>
+      <definition>щёлкнуть по лбу; бить, ударять в лоб. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠤᠬᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>духдах</cyrillic>
+      <definition>дух дээр нь цохих, цохдох.</definition>
+      <page>215</page>
+    </entry_item>
+  </entries>
+</entry>

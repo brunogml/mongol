@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7817">
+  <head>
+    <unicode>ᠲᠣᠷᠭᠠᠬᠣ</unicode>
+    <transcript>torγaqu</transcript>
+    <transcript2>dorgago</transcript2>
+    <cyrillic>торгох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T7822</ref>
+    <ref>T7823</ref>
+    <ref>T7828</ref>
+  </derivatives>
+  <see_also>
+    <ref>T7839</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠷᠭᠠᠬᠣ</unicode>
+      <uighur>torγaqu</uighur>
+      <cyrillic>торгох</cyrillic>
+      <transcript>TORΓA-</transcript>
+      <definition>[= torγu- , v.caus. of tor-] To stop, hold, catch; to retard, impede; to entangle; to confuse; to tack, secure, fasten, or attach loosely or hastily; to fine, penalize.</definition>
+      <page>826</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠣᠷᠭᠠᠵᠤ ᠠᠪᠬᠤ</unicode>
+          <transcript>--zu abxu</transcript>
+          <definition> Collected as a fine.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠣᠷᠭᠠᠵᠤ ᠣᠶᠤᠬᠤ</unicode>
+          <transcript>--zu ojuxu</transcript>
+          <definition> To baste, sew loosely.</definition>
+        </example>
+        <example>
+          <unicode>ᠶᠠᠯᠠ ᠲᠣᠷᠭᠠᠬᠣ</unicode>
+          <transcript>jala --xu</transcript>
+          <definition> To impose a penalty, punishment.</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠥᠩᠭᠦ ᠲᠣᠷᠭᠠᠵᠤ ᠠᠪᠬᠤ</unicode>
+          <transcript>møpnggy --zu abxu</transcript>
+          <definition> To collect a fine.</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠨᠢ ᠎ᠶᠢ ᠺᠥᠪᠴᠢᠨ ᠳ᠋‍‍ᠤ‍ᠷ ᠲᠣᠷᠭᠠᠬᠣ</unicode>
+          <transcript>oni ji købcin dyr --xu</transcript>
+          <definition> To put the nock of an arrow against the string.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠳᠠᠰᠤᠨ ᠡᠴᠡ ᠲᠣᠷᠭᠠᠬᠣ</unicode>
+          <transcript>xadasun ece --xu</transcript>
+          <definition> To hang, suspend from a nail.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠷᠭᠠᠬᠤ ~ ᠳᠤᠷᠭᠣᠬᠤ</unicode>
+      <definition>arrêter, retenir; donner contre, accrocher: 2 chercher chicane à, agacer, piquer qn., attraper qn. par la ruse: 3 condamner à une amende.</definition>
+      <page>1892</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠤᠷᠭᠠᠵᠤ ᠠᠪᠤᠭᠰᠠᠨ ᠮᠥᠩᠺᠦ</unicode>
+          <definition>argent de l'amende</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠣᠷᠭᠠᠬᠣ</unicode>
+      <uighur>durγaqu</uighur>
+      <definition>aufhalten, zurückhalten</definition>
+      <page>253</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠣᠷᠭᠠᠬᠣ</unicode>
+      <uighur>turγaqu</uighur>
+      <definition>v.t. To hold up. To hold back. To delay, to restrain. To punish, to fine</definition>
+      <page>1006</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠷᠭᠠᠬᠣ</unicode>
+      <cyrillic>ТОРГОХ</cyrillic>
+      <definition>II 1) штрафовать, налагать штраф, пеню; арав давхарлан торгох штрафовать в десятикратном размере; малаар торгох штрафовать скотом; торгох ял пеня, штраф; 2) припутывать к делу, возводљть обвинение; уличать в противоречии, поймать на слове; төмөр тушаа торгох заковать в кандалы (ножные); 3) удерживать, задерживать, останавливать, преграждать; поймать, вовлечь (в западню, сети); торгох өөш тенёта, сеть. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠷᠭᠠᠬᠤ</unicode>
+      <cyrillic>торгох /1</cyrillic>
+      <definition>гэм буруутай явдал үйлдсэн хүнд ял болгож эд мөнгө авах; ял торгох; мөнгөөр торгох; малаар торгох.</definition>
+      <page>544</page>
+    </entry_item>
+  </entries>
+</entry>

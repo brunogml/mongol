@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3402">
+  <head>
+    <transcript>ǰiyad</transcript>
+    <transcript2>yiyad</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠢᠶᠠᠳ</unicode>
+      <uighur>ǰiyad</uighur>
+      <transcript>ZIJAD</transcript>
+      <page>1053</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠢᠶᠠᠳ ᠵᠢᠶᠠᠳ</unicode>
+          <transcript>-- zijad</transcript>
+          <definition> Onomat. particle describing cry of birds</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠢᠶᠠᠳ ᠵᠢᠶᠠᠳ</unicode>
+      <definition>le cri des oiseaux</definition>
+      <page>2351</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠶᠠᠳ</unicode>
+      <cyrillic>жад</cyrillic>
+      <definition>болдоор хийсэн хурц үзүүртэй хатгах зэвсэг; морины жад; бууны жад.</definition>
+      <page>240</page>
+    </entry_item>
+  </entries>
+</entry>

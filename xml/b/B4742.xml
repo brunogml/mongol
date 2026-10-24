@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B4742">
+  <head>
+    <unicode>ᠪᠥᠺᠠᠷᠠᠩᠺᠥᠢ</unicode>
+    <transcript>bügerengküi</transcript>
+    <transcript2>bögerenggöi</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠥᠺᠠᠷᠠᠩᠺᠥᠢ</unicode>
+      <uighur>bögerengküi</uighur>
+      <transcript>BØGERENGKYI</transcript>
+      <definition>Same as bøgerengkei</definition>
+      <page>125</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠦᠺᠡᠷᠡᠩᠭᠦᠢ ~ ᠪᠦᠺᠡᠷᠦᠩᠭᠦᠢ ~ ᠪᠦᠭᠦᠷᠦᠩᠭᠦᠢ</unicode>
+      <definition>rond, assez rond, arrondi, globuleux, sphêrique : motte, globe, boule.</definition>
+      <page>1246</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠦᠺᠡᠷᠡᠩᠭᠦᠢ ᠭᠦᠷᠡᠯ</unicode>
+          <definition>globe de bronze, un rond de bronze</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

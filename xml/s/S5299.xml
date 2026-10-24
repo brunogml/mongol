@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S5299">
+  <head>
+    <unicode>ᠰᠣᠭᠣᠯᠭ᠎ᠠ</unicode>
+    <transcript>suγulγ-a</transcript>
+    <transcript2>sogolga</transcript2>
+    <cyrillic>сугалаа</cyrillic>
+  </head><see_also>
+    <ref>S5294</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠣᠭᠣᠯᠭ᠎ᠠ</unicode>
+      <uighur>suγulγ-a</uighur>
+      <cyrillic>сугалаа</cyrillic>
+      <transcript>SUΓULΓ-A</transcript>
+      <definition>n. Drawing in a lottery, lottery ticket; lot.</definition>
+      <page>735</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠣᠭᠣᠯᠭ᠎ᠠ ᠲᠠᠲᠠᠬᠤ</unicode>
+          <transcript>-- tataxu</transcript>
+          <definition> To draw in a lottery, draw alot.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠩᠵᠢᠪᠤᠷᠢᠲᠠᠢ ᠰᠣᠭᠣᠯᠭ᠎ᠠ</unicode>
+          <transcript>xongziburitai --</transcript>
+          <definition> A lottery with prizes.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

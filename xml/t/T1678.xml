@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1678">
+  <head>
+    <unicode>ᠲᠠᠯᠠᠰᠲᠣᠬᠣ</unicode>
+    <transcript>talastuqu</transcript>
+    <transcript2>dalasdogo</transcript2>
+    <cyrillic>талстах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1679</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠯᠠᠰᠲᠤᠬᠤ</unicode>
+      <cyrillic>талстах</cyrillic>
+      <definition>〔动〕结晶，晶化，形成晶体；（转）定形，固定化：давс ~ 盐结晶.</definition>
+      <page>1019</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠯᠠᠰᠲᠣᠬᠣ</unicode>
+      <cyrillic>ТАЛСТАХ</cyrillic>
+      <definition>кристаллизоваться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>талстах</cyrillic>
+      <definition>= талстжих</definition>
+      <page>217</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠯᠠᠰᠲᠤᠬᠤ</unicode>
+      <cyrillic>талстах</cyrillic>
+      <definition>талстай болж тогтох, давс талстах.</definition>
+      <page>517</page>
+    </entry_item>
+  </entries>
+</entry>

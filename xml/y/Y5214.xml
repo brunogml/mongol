@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y5214">
+  <head>
+    <unicode>ᠵᠥᠯᠺᠡᠰᠢᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ǰülgesigülkü</transcript>
+    <transcript2>yölgesigölgö</transcript2>
+    <cyrillic>зүлэгшүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y5213</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠦᠯᠭᠡᠰᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>зүлэгшүүлэх</cyrillic>
+      <definition>〔动〕зүлэгших 的使动态.</definition>
+      <page>587</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠥᠯᠺᠡᠰᠢᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЗҮЛЭГШҮҮЛЭХ</cyrillic>
+      <definition>зүлэгших-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠦᠯᠭᠡᠰᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>зүлэгшүүлэх</cyrillic>
+      <definition>зүлгийн шинж орох, зүлэг бий болох.</definition>
+      <page>290</page>
+    </entry_item>
+  </entries>
+</entry>

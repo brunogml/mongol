@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0349">
+  <head>
+    <unicode>ᠭᠠᠩᠬᠣᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>γangquγanaqu</transcript>
+    <transcript2>ganggoganago</transcript2>
+    <cyrillic>ганхаганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q0350</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠠᠩᠬᠤᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>ганхаганах</cyrillic>
+      <definition>〔动〕参见 ганхалзах.</definition>
+      <page>279</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠩᠬᠣᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ГАНХАГАНАХ</cyrillic>
+      <definition>ганхалзах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠠᠩᠬᠤᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>ганхаганах</cyrillic>
+      <definition>ганхага ганхага хийх.</definition>
+      <page>137</page>
+    </entry_item>
+  </entries>
+</entry>

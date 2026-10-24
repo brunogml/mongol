@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5115">
+  <head>
+    <unicode>ᠱᠣᠩᠭᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šungγuγulqu</transcript>
+    <transcript2>songgogolgo</transcript2>
+    <cyrillic>шунгуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S5105</ref>
+  </related_to>
+  <see_also>
+    <ref>S5114</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠤᠩᠭᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шунгуулах</cyrillic>
+      <definition>〔动〕шунгах 的使动态.</definition>
+      <page>1661</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠩᠭᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШУНГУУЛАХ</cyrillic>
+      <definition>шунгах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шунгуулах</cyrillic>
+      <definition>= шумбуулах</definition>
+      <page>392</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠤᠩᠭᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шунгуулах</cyrillic>
+      <definition>шунгахын үйлдүүлэх хэв.</definition>
+      <page>860</page>
+    </entry_item>
+  </entries>
+</entry>

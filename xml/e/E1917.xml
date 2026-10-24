@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E1917">
+  <head>
+    <unicode>ᠡᠶᠢᠰᠢᠯᠡᠭᠦᠯᠺᠦ</unicode>
+    <transcript>eyisilegülkü</transcript>
+    <transcript2>eyisilegölgö</transcript2>
+    <cyrillic>ийшлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>E1916</ref>
+  </related_to>
+  <see_also>
+    <ref>I0007</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠶᠢᠰᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ИЙШЛҮҮЛЭХ</cyrillic>
+      <definition>ийшлэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠢᠰᠢᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>ийшлүүлэх</cyrillic>
+      <definition>ийшлэхийн үйлдүүлэх хэв.</definition>
+      <page>302</page>
+    </entry_item>
+  </entries>
+</entry>

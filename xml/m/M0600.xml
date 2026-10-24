@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0600">
+  <head>
+    <unicode>ᠮᠠᠯᠵᠢᠬᠣ</unicode>
+    <transcript>malǰiqu</transcript>
+    <transcript2>malcigo</transcript2>
+    <cyrillic>малжих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M0601</ref>
+    <ref>M0603</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠯᠵᠢᠬᠤ</unicode>
+      <cyrillic>малжих</cyrillic>
+      <definition>〔动〕变有牲畜；经营牧业，牧畜.</definition>
+      <page>656</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠯᠵᠢᠬᠣ</unicode>
+      <cyrillic>МАЛЖИХ</cyrillic>
+      <definition>обзаводиться скотом, наживать скот; малжнаа гэдэг тийм ч амар хэрэг биш... не простое это дело обзавестись скотом. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>малжих</cyrillic>
+      <definition>Vieh bekommen; sich Vieh anschaffen</definition>
+      <page>140</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠯᠵᠢᠬᠤ</unicode>
+      <cyrillic>малжих</cyrillic>
+      <definition>малтай болох.</definition>
+      <page>328</page>
+    </entry_item>
+  </entries>
+</entry>

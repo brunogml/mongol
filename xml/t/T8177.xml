@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T8177">
+  <head>
+    <unicode>ᠲᠥᠨᠠ</unicode>
+    <transcript>tüne</transcript>
+    <transcript2>döne</transcript2>
+    <cyrillic>түн</cyrillic>
+  </head><see_also>
+    <ref>T8176</ref>
+  
+    <ref>T8236</ref>
+  
+    <ref>T8178</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠦᠨᠡ ~ ᠲᠦᠨᠡᠨ</unicode>
+      <uighur>tüne - tünen</uighur>
+      <transcript>TYNE(N)</transcript>
+      <definition>[Ko.] adj. Dark, obscure.</definition>
+      <page>853</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠦᠨᠡᠨ ᠬᠠᠷ᠎ᠠ</unicode>
+          <transcript>--n xar-a</transcript>
+          <definition> Jet-black, completely dark.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠦᠨᠡᠨ ~ ᠳᠦᠨᠠ</unicode>
+      <definition>sombre, obscur.</definition>
+      <page>1902</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠦᠨᠡᠨ ᠬᠠᠷᠠ</unicode>
+          <definition>entièrement noir</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠨᠠ</unicode>
+      <cyrillic>ТҮН</cyrillic>
+      <definition>III : шөнийн түн ночное время (одна восьмой части сутки). </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

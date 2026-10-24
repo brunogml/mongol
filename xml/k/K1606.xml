@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K1606">
+  <head>
+    <unicode>ᠺᠠᠷᠰ</unicode>
+    <transcript>gers</transcript>
+    <transcript2>gers</transcript2>
+  </head><see_also>
+    <ref>K1606a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠡᠷᠰ</unicode>
+      <uighur>gers</uighur>
+      <transcript>GERS</transcript>
+      <page>379</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠡᠷᠰ ᠡᠪᠡᠷᠲᠦ</unicode>
+          <transcript>-- eberty</transcript>
+          <definition> See sery.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠠᠷᠰ</unicode>
+      <uighur>kers</uighur>
+      <transcript>KERS</transcript>
+      <definition>See kiris.</definition>
+      <page>458</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠡᠷᠰ ᠤᠨ ᠡᠪᠡᠷ</unicode>
+      <definition>la licorne (ch. khi - lin].</definition>
+      <page>2516</page>
+    </entry_item>
+  </entries>
+</entry>

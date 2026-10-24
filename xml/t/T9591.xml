@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9591">
+  <head>
+    <unicode>ᠳᠥᠷᠺᠢᠷᠠᠺᠥ</unicode>
+    <transcript>dürkirekü</transcript>
+    <transcript2>dörgiregö</transcript2>
+    <cyrillic>дүрхрэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T9592</ref>
+  </derivatives>
+  <see_also>
+    <ref>T9590</ref>
+    <ref>T9591a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠦᠷᠬᠢᠷᠡᠬᠦ</unicode>
+      <cyrillic>дүрхрэх</cyrillic>
+      <definition>〔动〕①轰响，震响；喧哗；②喧扰，騷动，动乱.</definition>
+      <page>457</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠥᠷᠺᠢᠷᠠᠺᠥ</unicode>
+      <cyrillic>ДҮРХРЭХ</cyrillic>
+      <definition>дүргэх I-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠦᠷᠬᠢᠷᠡᠬᠦ</unicode>
+      <cyrillic>дүрхрэх</cyrillic>
+      <definition>1. дүйвээнд доргих; дүрхрэх чимээ гарав;2. олны гэнэт хөдлөх, цуугих; дүрхрэн хэлэлцэх.</definition>
+      <page>218</page>
+    </entry_item>
+  </entries>
+</entry>

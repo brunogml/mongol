@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A1431">
+  <head>
+    <unicode>ᠠᠪᠢᠷᠠᠬᠣ</unicode>
+    <transcript>abiraqu</transcript>
+    <transcript2>abirago</transcript2>
+    <cyrillic>авирах</cyrillic>
+  </head>
+  <see_also>
+    <ref>A1359</ref>
+  </see_also>
+  <derivatives>
+    <ref>A1432</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠪᠢᠷᠠᠬᠣ</unicode>
+      <uighur>abiraqu</uighur>
+      <transcript>ABIRA-</transcript>
+      <definition>See abari-</definition>
+      <page>4</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠪᠢᠷᠠᠬᠤ ~ ᠠᠪᠠᠷᠢᠬᠤ</unicode>
+      <uighur>abiraqu</uighur>
+      <definition>voir abariqu</definition>
+      <page>15</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠠᠪᠢᠷᠠᠬᠣ</unicode>
+      <uighur>abiraqu</uighur>
+      <definition>hinansteigen, klettern</definition>
+      <page>4</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠠᠪᠢᠷᠠᠬᠣ</unicode>
+      <uighur>abiraqu</uighur>
+      <definition>v.i. To climb a ladder, a tree or a mountain, to ascend, to scale</definition>
+      <page>13</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠪᠢᠷᠠᠬᠣ ᠡᠪᠡᠰᠦ</unicode>
+          <definition>n. Virginia creeper.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠪᠠᠷᠢᠬᠤ</unicode>
+      <cyrillic>авирах</cyrillic>
+      <definition>〔动〕爬上，攀登，登高，上：мод өөд ~ 上树，爬树；уул өөд ~ 爬山，登山；~ өвс 〈植〉爬山虎.</definition>
+      <page>9</page>
+    </entry_item>
+  </entries>
+</entry>

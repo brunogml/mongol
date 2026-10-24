@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B3213">
+  <head>
+    <unicode>ᠪᠣᠯᠠᠰᠢ</unicode>
+    <transcript>bulasi</transcript>
+    <transcript2>bolasi</transcript2>
+    <cyrillic>булш</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠣᠯᠠᠰᠢ ~ ᠪᠤᠯᠠᠰᠢᠨ</unicode>
+      <uighur>bulasi - bulasin</uighur>
+      <cyrillic>булш</cyrillic>
+      <transcript>BULASI(N)</transcript>
+      <definition>n. Something buried; place where something is buried; grave, sepulchre, tomb, cemetery.</definition>
+      <page>133</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠣᠯᠠᠰᠢ ᠮᠠᠭᠤᠲᠠᠢ</unicode>
+          <transcript>- - maγu tai</transcript>
+          <definition> Not planted properly.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠣᠯᠠᠰᠢᠨ ᠭᠠᠵᠠᠷ</unicode>
+          <transcript>- -n γazar</transcript>
+          <definition> - Burial, ground.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠣᠯᠠᠰᠢᠨ ᠎ᠳᠤ ᠣᠷᠤᠰᠤᠭᠤᠯᠬᠤ</unicode>
+          <transcript>--n du orusiγulxu</transcript>
+          <definition>: To bury.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠤᠯᠠᠰᠢ ~ ᠪᠤᠯᠠᠰᠢᠨ</unicode>
+      <definition>tombeau; cimetière</definition>
+      <page>1186</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠡᠭᠦᠷ ᠢ ᠪᠤᠯᠠᠰᠢᠨ᠎ᠠ ᠣᠷᠣᠰᠢᠭᠤᠯᠬᠤ</unicode>
+          <definition>enterrer</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠪᠣᠯᠠᠰᠢ</unicode>
+      <uighur>bulasin</uighur>
+      <definition>der Begräbnissort, das Grab</definition>
+      <page>112</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠪᠣᠯᠠᠰᠢ</unicode>
+      <uighur>bolasin</uighur>
+      <definition>n. A grave. A tomb. A sepulchre. A burial-place.</definition>
+      <page>446</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠤᠯᠠᠰᠢ</unicode>
+      <cyrillic>булш</cyrillic>
+      <definition>〔名〕①坟墓，坟穴，冢；②埋藏的东西；③~ дарш 埋藏的东西，埋葬的古物.</definition>
+      <page>207</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠯᠠᠰᠢ</unicode>
+      <cyrillic>БУЛШ</cyrillic>
+      <definition>курган; могила, кладбище, погост, могильная насыпь; булш шарилыг сүйтгэх надругательство над могилой; булшин дээрх надгробный, надмогильный; булшин дээрх хөшөө надмогильный памятник.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠯᠠᠰᠢ</unicode>
+      <cyrillic>БУЛШНЫ</cyrillic>
+      <definition>булш(н)-ы харьяал., могильный; булшны дов могильный холм; булшны нүх могила; булшны нүх малтах рыть могилу.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>булш[ин]</cyrillic>
+      <definition>Grab n, Grabhügel m; Hünengrab n; ~ чулуу[н] Grabstein m</definition>
+      <page>62</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠯᠠᠰᠢ᠊ᠨ</unicode>
+      <cyrillic>булш</cyrillic>
+      <definition>1. үхсэн хүний хүүр оршуулсан газар;2. дарж булсан юм;булш дарш&lt;хорш&gt;; шинжилгээнийхэн булш малтаж үзэв; дөрвөлжин булш;хэрэгсүүр булш&lt;хорш&gt;.</definition>
+      <page>107</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>B3214</ref>
+  </derivatives>
+</entry>

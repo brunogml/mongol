@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q3854">
+  <head>
+    <unicode>ᠬᠣᠣᠮ</unicode>
+    <transcript>qoum</transcript>
+    <transcript2>goom</transcript2>
+  </head><see_also>
+    <ref>Q3855</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠣᠮ ~ ᠬᠣᠮ</unicode>
+      <definition>une espèce de bât que l'on met sur le dos du chameau</definition>
+      <page>860</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠣᠮ ᠬᠤᠮᠯᠠᠬᠤ</unicode>
+          <definition>mettre le collier, mettre le bât</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠣᠮ ᠮᠣᠯᠳᠣᠯ</unicode>
+          <definition>ôte le collier</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠮᠡᠭᠡᠨ᠎ᠡ ᠬᠣᠣᠮ ᠲᠤᠬᠤᠬᠤ</unicode>
+          <definition>mettre le bât sur le chameau</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

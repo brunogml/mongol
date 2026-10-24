@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2834">
+  <head>
+    <unicode>ᠪᠣᠬᠰᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>buγsiγulqu</transcript>
+    <transcript2>bogsigolgo</transcript2>
+    <cyrillic>бугшуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B2831</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠤᠭᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бугшуулах</cyrillic>
+      <definition>〔动〕бугших 的使动态.</definition>
+      <page>196</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠬᠰᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БУГШУУЛАХ</cyrillic>
+      <definition>бугших-ийн үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бугшуулах</cyrillic>
+      <definition>Kaus von бугших</definition>
+      <page>60</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠭᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бугшуулах</cyrillic>
+      <definition>бугшихын үйлдүүлэх хэв; бугшихад хүрүүлэх.</definition>
+      <page>102</page>
+    </entry_item>
+  </entries>
+</entry>

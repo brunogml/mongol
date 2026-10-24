@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1896">
+  <head>
+    <unicode>ᠶᠠᠷᠺᠢᠺᠥ</unicode>
+    <transcript>yarkikü</transcript>
+    <transcript2>yargigö</transcript2>
+    <cyrillic>ярхийх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1895</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠠᠷᠺᠢᠺᠥ</unicode>
+      <cyrillic>ЯРХИЙХ</cyrillic>
+      <definition>спорить, браниться, гневаться; рычать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>ярхийх</cyrillic>
+      <definition>1. klirren, poltern, krachen
+2. widerspenstig werden
+3. Hund knurren</definition>
+      <page>416</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠠᠷᠬᠢᠬᠦ</unicode>
+      <cyrillic>ярхийх /1</cyrillic>
+      <definition>зарим юмны унаж хэмхрэхэд гарах чимээ.</definition>
+      <page>910</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠠᠷᠬᠢᠬᠦ</unicode>
+      <cyrillic>ярхийх /2</cyrillic>
+      <definition>1. хүний хэвцэглэн эсэргүүцэх; урьдаас ярхийх хэрэг байна уу чамд?;2. нохой мэтийн уурсаж хуцах, архирах;ян шувуу ярхийх, ясан хүзүү гозог хийх&lt;оньсго&gt;.</definition>
+      <page>910</page>
+    </entry_item>
+  </entries>
+</entry>

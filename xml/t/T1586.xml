@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1586">
+  <head>
+    <unicode>ᠳᠠᠳᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>dadalǰaqu</transcript>
+    <transcript2>dadalcago</transcript2>
+    <cyrillic>дадалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1587</ref>
+  </derivatives>
+  <see_also>
+    <ref>T1585</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠳᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>дадалзах</cyrillic>
+      <definition>〔动〕参见 дадганах.</definition>
+      <page>375</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠳᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ДАДАЛЗАХ</cyrillic>
+      <definition>дадганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дадалзах</cyrillic>
+      <definition>= дагдганах</definition>
+      <page>89</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠳᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>дадалзах</cyrillic>
+      <definition>дадгар юмны дадга дадга хөдлөх.</definition>
+      <page>180</page>
+    </entry_item>
+  </entries>
+</entry>

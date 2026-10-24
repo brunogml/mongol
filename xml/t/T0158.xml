@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0158">
+  <head>
+    <unicode>ᠲᠠᠩᠨᠠᠶᠢᠯᠠᠬᠣ</unicode>
+    <transcript>tangnayilaqu</transcript>
+    <transcript2>dangnayilago</transcript2>
+    <cyrillic>тагнайлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T0159</ref>
+    <ref>T0160</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠩᠨᠠᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>тагнайлах</cyrillic>
+      <definition>〔动〕①打卯，凿卯；②作出腭状纹路.</definition>
+      <page>1011</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠩᠨᠠᠶᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ТАГНАЙЛАХ</cyrillic>
+      <definition>делать рисунок, напоминающий поверхность твёрдого нёба. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тагнайлах</cyrillic>
+      <definition>ein Fischgrätenmuster anfertigen</definition>
+      <page>216</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠩᠨᠠᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>тагнайлах</cyrillic>
+      <definition>тагнай гаргах.</definition>
+      <page>513</page>
+    </entry_item>
+  </entries>
+</entry>

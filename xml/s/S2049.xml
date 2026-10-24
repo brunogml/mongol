@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2049">
+  <head>
+    <unicode>ᠰᠠᠪᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>sebilegülkü</transcript>
+    <transcript2>sebilegölgö</transcript2>
+    <cyrillic>сэвлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S2048</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠪᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сэвлүүлэх</cyrillic>
+      <definition>〔动〕сэвлэх 的使动态.</definition>
+      <page>980</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠪᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>СЭВЛҮҮЛЭХ</cyrillic>
+      <definition>сэвлэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сэвлүүлэх</cyrillic>
+      <definition>Kaus von сэвлэх</definition>
+      <page>209</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠪᠢᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сэвлүүлэх</cyrillic>
+      <definition>сэвлэхийн үйлдүүлэх хэв.</definition>
+      <page>499</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K2424">
+  <head>
+    <unicode>ᠺᠢᠵᠢᠺ</unicode>
+    <transcript>kiǰig</transcript>
+    <transcript2>gicig</transcript2>
+    <cyrillic>хижиг</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠢᠵᠢᠺ</unicode>
+      <uighur>kizik</uighur>
+      <cyrillic>хижиг</cyrillic>
+      <transcript>KIZIG</transcript>
+      <definition>[=kezig] n. Epidemic, pestilence, infectious disease, infection</definition>
+      <page>475</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠢᠵᠢᠺ ᠡᠪᠡᠳᠴᠢᠨ</unicode>
+          <transcript>-- ebedcin</transcript>
+          <definition> Contagious disease.</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠢᠵᠢᠺ ᠺᠦᠷᠺᠦ</unicode>
+          <transcript>-- kyrky</transcript>
+          <definition> To contract a disease, fall ill.</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠡᠳᠡᠰᠦᠨ ᠤ ᠺᠢᠵᠢᠺ ᠡᠪᠡᠳᠴᠢᠨ</unicode>
+          <transcript>gedesyn y -- [ebedcin]</transcript>
+          <definition> Typhoid fever.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠤᠯᠤᠭᠠᠨ᠎ᠠ ᠺᠢᠵᠢᠺ</unicode>
+          <transcript>xuluγan-a --</transcript>
+          <definition> Bubonic plague.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠢᠵᠢᠺ</unicode>
+      <definition>épidémie, peste</definition>
+      <page>2543</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠺᠢᠵᠢᠺ</unicode>
+      <uighur>kiǰik</uighur>
+      <definition>die Seuche, Epidemie, ansteckende Krankheit</definition>
+      <page>159</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠺᠢᠵᠢᠺ</unicode>
+      <uighur>kiǰik</uighur>
+      <definition>n. Pestilence. Epidemic. Infectious diseases.</definition>
+      <page>622</page>
+      <examples>
+        <example>
+          <uighur>kiǰik tosuqu</uighur>
+          <definition>Getting infected in an epidemic.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠢᠵᠢᠭ᠌</unicode>
+      <cyrillic>хижиг</cyrillic>
+      <definition>〔名〕〈医〉伤寒病；瘟疫，流行病：~ гүвдрүү 粟粒状丘疹；~ төст 轻伤寒，类伤寒；~ тусах 患伤寒；染瘟疫；гэдэсний ~ 肠伤寒；эсэргэнт ~ 斑疹伤寒；дахидаг ~ 回归热；◊ ~ тахал 瘟疫，流行病.</definition>
+      <page>1335</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠵᠢᠺ</unicode>
+      <cyrillic>ХИЖИГ</cyrillic>
+      <definition>1) эпидемия; повальная болезнь; халдвар бүхий хижиг өвчин заразное заболевание; хижиг хүрэх / хижиг тусах схватить заразную болезнь; заразиться тифом; 2) тиф; бэжрүүт хижиг сыпной тиф; гэдэсний хижиг брюшной тиф; халуун хижиг горячка, лихорадка, тиф. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠢᠵᠢᠭ᠌</unicode>
+      <cyrillic>хижиг</cyrillic>
+      <definition>халдварт халуун өвчин;хижиг тахал&lt;хорш&gt;; хижиг тусах.</definition>
+      <page>675</page>
+    </entry_item>
+  </entries>
+</entry>

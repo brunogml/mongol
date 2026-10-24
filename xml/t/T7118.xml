@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7118">
+  <head>
+    <unicode>ᠲᠣᠮᠢᠶ ᠠ</unicode>
+    <transcript>tomiy-a</transcript>
+    <transcript2>domiy-a</transcript2>
+    <cyrillic>томьёо</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠮᠢᠶ᠎ᠠ ~ ᠲᠣᠮᠢᠶᠠᠨ</unicode>
+      <uighur>tomiy-a - tomiyan</uighur>
+      <cyrillic>томьёо(н)</cyrillic>
+      <transcript>TOMIJ-A(N)</transcript>
+      <definition>n. Term, expression; formula; mark, sign, symbol.</definition>
+      <page>822</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠣᠮᠢᠶᠠᠨ ᠤ ᠤᠬᠠᠭ᠎ᠠ</unicode>
+          <transcript>--n u uxaγan</transcript>
+          <definition>Algebra</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠡᠷ᠎ᠡ ᠲᠣᠮᠢᠶ᠎ᠠ</unicode>
+          <transcript>ner-e –</transcript>
+          <definition>Term, terminology</definition>
+        </example>
+        <example>
+          <unicode>ᠦᠭᠡ ᠦᠷ᠎ᠡ ᠎ᠶᠢᠨ ᠲᠣᠮᠢᠶ᠎ᠠ</unicode>
+          <transcript>yge yr-e jin --</transcript>
+          <definition>Definition of words, semantics</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠮᠢᠶ᠎ᠠ ~ ᠨᠡᠷᠡᠶᠢᠳᠺᠡᠯ</unicode>
+      <definition>sentence , arrêt , résolution, conclusion</definition>
+      <page>1861</page>
+      <examples>
+        <example>
+          <unicode>ᠦᠭᠡ ᠦᠷ᠎ᠡ ᠎ᠶᠢᠨ ᠳᠤᠮᠢᠶ᠎ᠠ</unicode>
+          <definition>détermination du sens des mots, définition des mots</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠤᠮᠢᠶ᠎ᠠ ᠦᠭᠡᠢ</unicode>
+          <definition>indéterminé, indéfini</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠮᠢᠶᠠ</unicode>
+      <cyrillic>ТОМЪЁО(Н)</cyrillic>
+      <definition>1) формула; нэр томъёо термин; нэр томъёоны толь терминологљческий словарь; химийн томъёо формула химљческая; 2) распределение по категориям, классификация, категория; 3) характер, сущность; 4) определение, формулировка, номенклатура, обозначение; томъёо болох быть точным, достоверным, ясным.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠮᠢᠶᠠ</unicode>
+      <cyrillic>ТОМЪЁОНЫ</cyrillic>
+      <definition>томъёо(н)-ы харьяал., алгебраљческий; томъёоны бодлого алгебраљческая задача; томъёоны дүн тоо. алгебраљческая сумма; томъёоны тэгшитгэл тоо. алгебраљческое уравнение; томъёоны ухаан алгебра; томъёоны ухааны алгебраљческий; томъёоны ухааны тэмдэг тоо. алгебраљческий знак; томъёоны хямцаа тоо. алгебраљческая лљния.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠮᠢᠶ᠎ᠠ</unicode>
+      <cyrillic>томьёо</cyrillic>
+      <definition>1. нэр;нэр томьёо&lt;хорш&gt;; шинэ нэр томьёо тогтоох; нэр томьёоны толь бичиг;2. тэмдэг;томьёо тэмдэг&lt;хорш&gt;;2. мэдээ мэдрэл; мэдээ томьёо барагдах; мэдээ томьёо алдах.</definition>
+      <page>539</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>T7119</ref>
+    <ref>T7120</ref>
+    <ref>T7121</ref>
+    <ref>T7128</ref>
+  </derivatives>
+</entry>

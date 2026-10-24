@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1823">
+  <head>
+    <unicode>ᠳᠠᠯᠪᠠᠬᠣ</unicode>
+    <transcript>dalbaqu</transcript>
+    <transcript2>dalbago</transcript2>
+    <cyrillic>далбах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1824</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠯᠪᠠᠬᠤ</unicode>
+      <cyrillic>далбах</cyrillic>
+      <definition>〔动〕飘荡，飘摇，飘卷，扇动，飘动；招展，摇荡不已：туг хийр ~ 旗帜招展；ачаа барааны бүтээлэг ~ 货物盖布一扇一扇地动；өрх салхинд ~ 蠓毡迎风飘动.</definition>
+      <page>382</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠯᠪᠠᠬᠣ</unicode>
+      <cyrillic>ДАЛБАХ</cyrillic>
+      <definition>1) взмахивать (крыльями); 2) развеваться, трепаться, трепыхаться, колыхаться (от ветра); салхинд өрх далбаж байна дымник юрты треплется на ветру; 3) перекинуться (о пламени). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>далбах</cyrillic>
+      <definition>im Wind flattern</definition>
+      <page>90</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠯᠪᠠᠬᠤ</unicode>
+      <cyrillic>далбах</cyrillic>
+      <definition>салхинд дэрвэгнэн хийсч хөдлөх; салхинд өрх далбах; тур хийр далбах; ачаа барааны бүтээлэг далбах.</definition>
+      <page>184</page>
+    </entry_item>
+  </entries>
+</entry>

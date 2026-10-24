@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1193">
+  <head>
+    <unicode>ᠨᠧᠶᠢ᠍ᠲ᠋ᠷᠥᠨ</unicode>
+    <transcript>neyitron</transcript>
+    <transcript2>neyidron</transcript2>
+    <cyrillic>нейтрон</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠧᠢᠲ᠋ᠷᠣᠨ</unicode>
+      <cyrillic>нейтрон</cyrillic>
+      <definition>〔名〕〈理〉中子；中子弹.</definition>
+      <page>734</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠧᠶᠢ᠍ᠲ᠋ᠷᠥᠨ</unicode>
+      <cyrillic>НЕЙТРОН</cyrillic>
+      <definition>нейтрон; нейтроны бөмбөг нейтронная бомба. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>нейтрон</cyrillic>
+      <definition>Phys Neutron n</definition>
+      <page>155</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠧᠢᠲ᠋ᠷᠣᠨ</unicode>
+      <cyrillic>нейтрон</cyrillic>
+      <definition>атомын цөмд ордог цахилгаан цэнэгээ алдсан материаллаг хэсэг.</definition>
+      <page>373</page>
+    </entry_item>
+  </entries>
+</entry>

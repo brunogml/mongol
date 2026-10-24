@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B1669">
+  <head>
+    <unicode>ᠫᠠᠩ</unicode>
+    <transcript>peng</transcript>
+    <transcript2>peng</transcript2>
+    <cyrillic>пин</cyrillic>
+  </head><see_also>
+    <ref>B2092</ref>
+  
+    <ref>B1670</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠫᠠᠩ</unicode>
+      <uighur>peng</uighur>
+      <transcript>PENG</transcript>
+      <definition>See peng.</definition>
+      <page>649</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠫᠡᠩ</unicode>
+      <definition>auvent, avant - toit en nattes.</definition>
+      <page>1269</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠩᠭᠤᠴᠠ ᠎ᠶᠢᠨ ᠫᠡᠩ</unicode>
+          <definition>voile; girouette</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

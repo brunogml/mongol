@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0853">
+  <head>
+    <unicode>ᠰᠠᠳᠣᠷᠬᠠᠬᠣ</unicode>
+    <transcript>sadurqaqu</transcript>
+    <transcript2>sadorgago</transcript2>
+    <cyrillic>садархах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S0854</ref>
+    <ref>S0855</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠳᠤᠷᠬᠠᠬᠤ</unicode>
+      <cyrillic>садархах</cyrillic>
+      <definition>〔动〕（亲戚）亲热相处；结为亲戚；拉亲戚关系.</definition>
+      <page>896</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠳᠣᠷᠬᠠᠬᠣ</unicode>
+      <cyrillic>САДАРХАХ</cyrillic>
+      <definition>проявлять чувство родства. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>садархах</cyrillic>
+      <definition>verwandtschaftlich tun</definition>
+      <page>191</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠳᠤᠷᠬᠠᠬᠤ</unicode>
+      <cyrillic>садархах</cyrillic>
+      <definition>садагнах, төрөлсөх.</definition>
+      <page>460</page>
+    </entry_item>
+  </entries>
+</entry>

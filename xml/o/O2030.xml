@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O2030">
+  <head>
+    <unicode>ᠥᠷᠥᠺᠥᠯ</unicode>
+    <transcript>örügül</transcript>
+    <transcript2>örögöl</transcript2>
+    <cyrillic>өрүүл</cyrillic>
+  </head>
+  <related_to>
+    <ref>O1911</ref>
+  </related_to>
+  <see_also>
+    <ref>O2029</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠷᠥᠭᠦᠯ</unicode>
+      <cyrillic>өрүүл</cyrillic>
+      <definition>〔名〕排字盘.</definition>
+      <page>863</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠷᠥᠺᠥᠯ</unicode>
+      <cyrillic>ӨРҮҮЛ</cyrillic>
+      <definition>хэвлэх. доска, служащая преградой набору. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠷᠥᠭᠦᠯ</unicode>
+      <cyrillic>өрүүл</cyrillic>
+      <definition>үсэг өрөхөд хэрэглэх хашлага.</definition>
+      <page>446</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y2392">
+  <head>
+    <unicode>ᠵᠡᠷᠯᠢᠺᠰᠢᠯ</unicode>
+    <transcript>ǰerligsil</transcript>
+    <transcript2>yerligsil</transcript2>
+    <cyrillic>зэрлэгшил</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠡᠷᠯᠢᠭᠰᠢᠯ</unicode>
+      <cyrillic>зэрлэгшил</cyrillic>
+      <definition>〔名〕变野，野蛮化（指家畜）.</definition>
+      <page>596</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠡᠷᠯᠢᠺᠰᠢᠯ</unicode>
+      <cyrillic>ЗЭРЛЭГШИЛ</cyrillic>
+      <definition>одичание. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зэрлэгшил</cyrillic>
+      <definition>Verwilderung f</definition>
+      <page>131</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠡᠷᠯᠢᠭᠰᠢᠯ</unicode>
+      <cyrillic>зэрлэгшил</cyrillic>
+      <definition>зэрлэгших үйлийн нэр.</definition>
+      <page>295</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Y2394</ref>
+  </related_to>
+</entry>

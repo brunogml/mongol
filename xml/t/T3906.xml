@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3906">
+  <head>
+    <unicode>ᠳᠠᠯᠢᠮ</unicode>
+    <transcript>delim</transcript>
+    <transcript2>delim</transcript2>
+    <cyrillic>дэлэм</cyrillic>
+  </head>
+  <see_also>
+    <ref>T3862</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠠᠯᠢᠮ</unicode>
+      <uighur>delim</uighur>
+      <cyrillic>дэлэм</cyrillic>
+      <transcript>DELIM</transcript>
+      <definition>n. The space necessary to stretch a bow, distance between the two ends of a stretched bow; a linear measure (from the tips of the fingers of an outstretched arm to the shoulder of the other arm), half an alda (fathom).</definition>
+      <page>250</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠯᠢᠮ ᠢᠶᠡᠨ ᠭᠦᠢᠴᠡᠲᠡᠯ᠎ᠡ ᠲᠠᠲᠠᠬᠤ</unicode>
+          <transcript>-- ijen gyicetel-e tataxu</transcript>
+          <definition> To draw ( a bow) to its full capacity.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠡᠯᠢᠮ</unicode>
+      <definition>distance nécéssaire pour tendre l'arc; demi toise</definition>
+      <page>1719</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠯᠳᠠ ᠳᠡᠯᠢᠮ</unicode>
+          <definition>demi toise</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠳᠠᠯᠢᠮ</unicode>
+      <uighur>delim</uighur>
+      <definition>so weit man den Bogen spannen kann; eine halbe Klafter</definition>
+      <page>277</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠳᠠᠯᠢᠮ</unicode>
+      <uighur>delim</uighur>
+      <definition>n. Half a fathom. Half the length of one's two outstretched arms</definition>
+      <page>1104</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠡᠯᠢᠮ</unicode>
+      <cyrillic>дэлэм</cyrillic>
+      <definition>〔量〕半庹（成人两臂平伸长度之半，约合二尺半）.</definition>
+      <page>472</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠯᠢᠮ</unicode>
+      <cyrillic>ДЭЛЭМ</cyrillic>
+      <definition>I дэлим (мера длины, равная половине маховой сажени); алд дэлэм хорш. а) сажень; б) саженный; алд дэлэм алдах зүйр. дать маху; убить бобра. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠯᠢᠮ</unicode>
+      <cyrillic>дэлэм</cyrillic>
+      <definition>нэг гарыг сунгаж, нөгөө гарыг нугалан хурууны үзүүрийг тэр талын мөр орчинд хүргэсэн хэмжээ; алдын хагас наяад см; алд дэлэм.</definition>
+      <page>226</page>
+    </entry_item>
+  </entries>
+</entry>

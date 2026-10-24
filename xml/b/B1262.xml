@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1262">
+  <head>
+    <unicode>ᠫᠠᠶᠢᠵᠠᠯᠠᠬᠣ</unicode>
+    <transcript>payiǰalaqu</transcript>
+    <transcript2>payicalago</transcript2>
+    <cyrillic>пайзлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B1263</ref>
+    <ref>B1264</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠫᠠᠢᠵᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>пайзлах</cyrillic>
+      <definition>〔动〕竖脾子，发牌照，挂标牌.</definition>
+      <page>870</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠫᠠᠶᠢᠵᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ПАЙЗЛАХ</cyrillic>
+      <definition>1) повесить вывеску, прибљть вывеску; 2) давать пайдзы. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠫᠠᠢᠵᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>пайзлах</cyrillic>
+      <definition>пайзтай болгох.</definition>
+      <page>450</page>
+    </entry_item>
+  </entries>
+</entry>

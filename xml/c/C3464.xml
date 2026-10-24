@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C3464">
+  <head>
+    <unicode>ᠴᠥᠪᠠᠩ</unicode>
+    <transcript>čübeng</transcript>
+    <transcript2>cöbeng</transcript2>
+    <cyrillic>цүүвэн</cyrillic>
+  </head><see_also>
+    <ref>C3746</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠥᠪᠠᠩ</unicode>
+      <uighur>čübeng</uighur>
+      <cyrillic>цүүвэн</cyrillic>
+      <transcript>CYBENG</transcript>
+      <definition>n. Rent; fee.</definition>
+      <page>209</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠩᠭᠤᠴᠠ ᠎ᠶᠢᠨ ᠴᠥᠪᠠᠩ</unicode>
+          <transcript>ongγuca jin --</transcript>
+          <definition>Boat fare.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠦᠪᠡᠩ</unicode>
+      <definition>les droits, l'octroye, la douane; prix du louage.</definition>
+      <page>2223</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠩᠭᠤᠴᠠ ᠎ᠶᠢᠨ ᠴᠥᠪᠠᠩ</unicode>
+          <definition>le prix du passage</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

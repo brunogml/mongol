@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C0205">
+  <head>
+    <unicode>ᠴᠠᠬᠣᠯᠠᠬᠣ</unicode>
+    <transcript>čaqulaqu</transcript>
+    <transcript2>cagolago</transcript2>
+    <cyrillic>цахлах</cyrillic>
+  </head><derivatives>
+    <ref>C0206</ref>
+  
+    <ref>C0207</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠬᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>цахлах</cyrillic>
+      <definition>〔动〕①支撑；②辞退.</definition>
+      <page>1525</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠬᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЦАХЛАХ</cyrillic>
+      <definition>I подпирать козлами, подпорками. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠬᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЦАХЛАХ</cyrillic>
+      <definition>II стремиться, силиться, трудиться. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

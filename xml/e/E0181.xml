@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E0181">
+  <head>
+    <unicode>ᠡᠪᠡᠰᠦᠲᠦᠺᠦ</unicode>
+    <transcript>ebesütükü</transcript>
+    <transcript2>ebesödögö</transcript2>
+    <cyrillic>өвстөх</cyrillic>
+  </head>
+  <see_also>
+    <ref>E0182</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠪᠠᠰᠥᠲᠥᠺᠥ</unicode>
+      <cyrillic>ӨВСТӨХ</cyrillic>
+      <definition>яриа. зарастать, покрываться травой. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠪᠡᠰᠦᠲᠦᠬᠦ</unicode>
+      <cyrillic>өвстөх</cyrillic>
+      <definition>тариаланд зэрлэг өвс хольцолдон ургах.</definition>
+      <page>430</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>E0177</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q6489">
+  <head>
+    <unicode>ᠬᠣᠶᠢᠨᠠᠬᠰᠢᠳᠠ</unicode>
+    <transcript>qoyinaγsida</transcript>
+    <transcript2>goyinagsida</transcript2>
+    <cyrillic>хойногшид</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠶᠢᠨᠠᠬᠰᠢᠳᠠ</unicode>
+      <uighur>qoyinaqsida</uighur>
+      <cyrillic>хойногшид</cyrillic>
+      <transcript>XOINAΓSIDA</transcript>
+      <definition>See xoisida.</definition>
+      <page>954</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠶᠢᠨᠠᠬᠰᠢᠳᠠ</unicode>
+      <definition>après, puis, ensuite, à l'avenir: 2 derrière. en arrière</definition>
+      <page>853</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠭᠦᠨ ᠡᠴᠡ ᠬᠣᠶᠢᠨᠠᠬᠰᠢᠳᠠ</unicode>
+          <definition>après cela, après, ensuite, à l'avenir</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠶᠢᠨᠠᠬᠰᠢᠳᠠ ᠪᠤᠴᠠᠬᠤ</unicode>
+          <definition>retourner, être de retour</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠠᠷᠯᠢᠭ ᠢᠶᠠᠷ ᠴᠢᠨᠤ ᠶᠠᠪᠤᠰᠤᠭᠠᠢ ᠪᠢᠳᠡ ᠬᠣᠶᠢᠨᠠᠬᠰᠢᠳᠠ</unicode>
+          <definition>à l'avenir nous agirons d'après vos ordres</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠣᠢᠨᠠᠭᠰᠢᠳᠠ</unicode>
+      <cyrillic>хойногшид</cyrillic>
+      <definition>〔副〕在以后，在今后，往后，将来.</definition>
+      <page>1350</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠶᠢᠨᠠᠬᠰᠢᠳᠠ</unicode>
+      <cyrillic>ХОЙНОГШИД</cyrillic>
+      <definition>хойногш-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠢᠨᠠᠭᠰᠢᠳᠠ</unicode>
+      <cyrillic>хойногшид</cyrillic>
+      <definition>хойногш, хойшид.</definition>
+      <page>684</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q6488</ref>
+  </related_to>
+</entry>

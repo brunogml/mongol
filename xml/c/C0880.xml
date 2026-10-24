@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0880">
+  <head>
+    <unicode>ᠴᠠᠩᠺᠠᠷᠳᠠᠺᠥ</unicode>
+    <transcript>čengkerdekü</transcript>
+    <transcript2>cenggerdegö</transcript2>
+    <cyrillic>цэнхэрдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0882</ref>
+    <ref>C0879</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠩᠬᠡᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>цэнхэрдэх</cyrillic>
+      <definition>〔动〕变浅蓝色.</definition>
+      <page>1565</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠩᠺᠠᠷᠳᠠᠺᠥ</unicode>
+      <cyrillic>ЦЭНХЭРДЭХ</cyrillic>
+      <definition>оказываться голубее чем надо, быть очень голубым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цэнхэрдэх</cyrillic>
+      <definition>zu bläulich od zu hellblau sein</definition>
+      <page>365</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠩᠬᠡᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>цэнхэрдэх</cyrillic>
+      <definition>хэтэрхий цэнхэр болох.</definition>
+      <page>806</page>
+    </entry_item>
+  </entries>
+</entry>

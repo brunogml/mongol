@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="H0000a">
+  <head>
+    <transcript>he</transcript>
+    <transcript2>he</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <uighur>hE</uighur>
+      <transcript>HE</transcript>
+      <page>395</page>
+      <examples>
+        <example>
+          <unicode>ᠾᠡ ᠪᠡᠢ</unicode>
+          <transcript>-- bei, </transcript>
+          <definition>Hopeh {province in China),</definition>
+        </example>
+        <example>
+          <unicode>ᠾᠡ ᠨᠠᠨ</unicode>
+          <transcript>-- nan</transcript>
+          <definition> Honan (province in China).</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

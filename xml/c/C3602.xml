@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C3602">
+  <head>
+    <unicode>ᠴᠥᠮᠥᠯᠠᠺᠥ</unicode>
+    <transcript>čömülekü</transcript>
+    <transcript2>cömölegö</transcript2>
+    <cyrillic>цөмлөх</cyrillic>
+  </head><see_also>
+    <ref>C3597</ref>
+  
+    <ref>C3607</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠥᠮᠥᠯᠠᠺᠥ</unicode>
+      <uighur>čömülekü</uighur>
+      <cyrillic>цөмлөх</cyrillic>
+      <transcript>CØMYLE-</transcript>
+      <definition>[=cømele-] v.t. To make dents or holes; to demolish.</definition>
+      <page>203</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠡᠷ ᠴᠥᠮᠥᠯᠠᠺᠥ</unicode>
+          <transcript>ger --ky</transcript>
+          <definition> To tear down or demolish a house.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠦᠢᠳᠺᠡᠵᠦ ᠴᠥᠮᠥᠯᠠᠺᠥ</unicode>
+          <transcript>syidkezy --ky</transcript>
+          <definition> To destroy.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠦᠮᠡᠯᠡᠺᠦ ~ ᠴᠦᠮᠦᠯᠡᠺᠦ</unicode>
+      <definition>arracher, détacher en brisant, briser, casser, détruire.</definition>
+      <page>2226</page>
+    </entry_item>
+  </entries>
+</entry>

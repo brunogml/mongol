@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9250">
+  <head>
+    <unicode>ᠳᠥᠷᠢᠰᠢᠺᠥ</unicode>
+    <transcript>dürisikü</transcript>
+    <transcript2>dörisigö</transcript2>
+    <cyrillic>дүрших</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T9251</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠦᠷᠢᠰᠢᠬᠦ</unicode>
+      <cyrillic>дүрших</cyrillic>
+      <definition>〔动〕具备形象，成…模样.</definition>
+      <page>457</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠥᠷᠢᠰᠢᠺᠥ</unicode>
+      <cyrillic>ДҮРШИХ</cyrillic>
+      <definition>проявление признака приобретения формы. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠦᠷᠢᠰᠢᠬᠦ</unicode>
+      <cyrillic>дүрших</cyrillic>
+      <definition>дүр орох шинж байдалтай болох.</definition>
+      <page>218</page>
+    </entry_item>
+  </entries>
+</entry>

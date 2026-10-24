@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1946">
+  <head>
+    <unicode>ᠬᠠᠯᠢᠪᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>qalibdaγulqu</transcript>
+    <transcript2>galibdagolgo</transcript2>
+    <cyrillic>халивдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q1945</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠯᠢᠪᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>халивдуулах</cyrillic>
+      <definition>халивдах 的使动态.</definition>
+      <page>1289</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠯᠢᠪᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХАЛИВДУУЛАХ</cyrillic>
+      <definition>халивдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>халивдуулах</cyrillic>
+      <definition>Kaus von халивдах</definition>
+      <page>287</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠯᠢᠪᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>халивдуулах</cyrillic>
+      <definition>халивдахын үйлдүүлэх хэв.</definition>
+      <page>650</page>
+    </entry_item>
+  </entries>
+</entry>

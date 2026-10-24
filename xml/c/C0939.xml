@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C0939">
+  <head>
+    <unicode>ᠴᠢᠰ</unicode>
+    <transcript>čis</transcript>
+    <transcript2>cis</transcript2>
+    <cyrillic>чэс</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠰ</unicode>
+      <cyrillic>чэс</cyrillic>
+      <definition>〔名〕〈植〉茄子.</definition>
+      <page>1600</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠰ</unicode>
+      <cyrillic>ЧЭС</cyrillic>
+      <definition>ург. баклажан.</definition>
+      <page>0</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>чэс</cyrillic>
+    <definition>Bot Aubergine f</definition>
+    <page>375</page>
+  </entry_item>
+  </entries>
+</entry>

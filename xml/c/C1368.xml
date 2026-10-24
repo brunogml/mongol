@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1368">
+  <head>
+    <unicode>ᠴᠢᠨᠠᠬᠰᠢᠳᠠᠬᠣ</unicode>
+    <transcript>činaγsidaqu</transcript>
+    <transcript2>cinagsidago</transcript2>
+    <cyrillic>чанагшдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1369</ref>
+    <ref>C1370</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠨᠠᠭᠰᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>чанагшдах</cyrillic>
+      <definition>〔动〕参见 цаашдах.</definition>
+      <page>1577</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠨᠠᠬᠰᠢᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЧАНАГШДАХ</cyrillic>
+      <definition>оказываться дальше чем следует, быть слишком далеко. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чанагшдах</cyrillic>
+      <definition>= цааадах</definition>
+      <page>368</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠨᠠᠭᠰᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>чанагшдах</cyrillic>
+      <definition>цаанадах, цаашдах.</definition>
+      <page>813</page>
+    </entry_item>
+  </entries>
+</entry>

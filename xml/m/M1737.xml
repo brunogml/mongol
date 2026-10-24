@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1737">
+  <head>
+    <unicode>ᠮᠣᠬᠣᠯᠢᠬ</unicode>
+    <transcript>moquliq</transcript>
+    <transcript2>mogolig</transcript2>
+    <cyrillic>мохлиг</cyrillic>
+  </head>
+  <see_also>
+    <ref>M1736</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠣᠬᠣᠯᠢᠭ</unicode>
+      <cyrillic>мохлиг</cyrillic>
+      <definition>见 бодох ~ 算盘.</definition>
+      <page>682</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠬᠣᠯᠢᠬ</unicode>
+      <cyrillic>МОХЛИГ</cyrillic>
+      <definition>: бодох мохлиг счёты; мохлиг сампин хорш. счёты. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠣᠬᠣᠯᠢᠭ</unicode>
+      <cyrillic>мохлиг</cyrillic>
+      <definition>бодох мохлиг сампин.</definition>
+      <page>342</page>
+    </entry_item>
+  </entries>
+</entry>

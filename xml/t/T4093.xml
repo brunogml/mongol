@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T4093">
+  <head>
+    <unicode>ᠲᠠᠮᠠᠴᠠᠺᠳᠠᠺᠥ</unicode>
+    <transcript>temečegdekü</transcript>
+    <transcript2>demecegdegö</transcript2>
+    <cyrillic>тэмцэгдэх</cyrillic>
+  </head><related_to>
+    <ref>T4091</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠡᠮᠡᠴᠡᠺᠳᠡᠺᠦ</unicode>
+      <definition>ètre disputé, controversé,</definition>
+      <page>1726</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠡᠮᠡᠴᠡᠺᠳᠡᠺᠦᠨ</unicode>
+          <definition>sujet de dispute ou de controverse</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠮᠠᠴᠠᠺᠳᠠᠺᠥ</unicode>
+      <cyrillic>ТЭМЦЭГДЭХ</cyrillic>
+      <definition>тэмцэх-ийн үйлдэгд., быть предметом борьбы, спора; оспариваться кем-л. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

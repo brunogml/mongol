@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5102">
+  <head>
+    <unicode>ᠲᠣᠣᠬᠠᠶᠢᠴᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>touqayičaγulqu</transcript>
+    <transcript2>doogayicagolgo</transcript2>
+    <cyrillic>туухайцуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T5101</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠤᠬᠠᠢᠴᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>туухайцуулах</cyrillic>
+      <definition>〔动〕туухайцах 的使动态.</definition>
+      <page>1123</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠣᠬᠠᠶᠢᠴᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТУУХАЙЦУУЛАХ</cyrillic>
+      <definition>туухайцах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠤᠬᠠᠢᠴᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>туухайцуулах</cyrillic>
+      <definition>туухайцахын үйлдүүлэх хэв.</definition>
+      <page>561</page>
+    </entry_item>
+  </entries>
+</entry>

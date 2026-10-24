@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q2556">
+  <head>
+    <unicode>ᠬᠠᠮᠺᠢᠬᠣ</unicode>
+    <transcript>qamkiqu</transcript>
+    <transcript2>gamgigo</transcript2>
+    <cyrillic>хамхих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q2557</ref>
+    <ref>Q2558</ref>
+    <ref>Q2560</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠮᠺᠢᠬᠣ</unicode>
+      <uighur>qamkiqu</uighur>
+      <cyrillic>хамхих</cyrillic>
+      <transcript>XAMKI-</transcript>
+      <definition>v. t. To shut, close, draw together (in order to close).</definition>
+      <page>924</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠨᠢᠰᠬ᠎ᠠ ᠬᠠᠮᠺᠢᠬᠣ</unicode>
+          <transcript>anisx-a --xu</transcript>
+          <definition> To shut the eyes.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠨᠠ ᠪᠡᠨ ᠬᠠᠮᠺᠢᠬᠣ</unicode>
+          <transcript>ama [ben] --xu</transcript>
+          <definition> To shut the mouth, be silent.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠤᠳᠤᠷ ᠢ ᠬᠠᠮᠺᠢᠬᠣ</unicode>
+          <transcript>sudur i --xu</transcript>
+          <definition> To close a book.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠮᠺᠢᠬᠤ</unicode>
+      <definition>fermer, serrer, joindre: 2 coller, joindre deux parties d'une même chose (p. e, d une porcelaine cassée], réunir.</definition>
+      <page>813</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠮᠠᠪᠠᠨ ᠬᠠᠮᠺᠢᠬᠤ</unicode>
+          <definition>fermer la bouche</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠷᠤᠭᠤᠯ ᠬᠠᠮᠺᠢᠬᠤ</unicode>
+          <definition>serrer les lèvres, fermer la bouche</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠢᠳᠦᠨ ᠤ ᠠᠨᠢᠰᠬᠠ ᠬᠠᠮᠺᠢᠬᠤ</unicode>
+          <definition>fermer les paupières, fermer les yeux</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠤᠳᠤᠷ ᠢ ᠬᠠᠮᠺᠢᠬᠤ</unicode>
+          <definition>fermer le livre</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠠᠮᠺᠢᠬᠣ</unicode>
+      <uighur>qamkiqu</uighur>
+      <definition>zuklappen, zuschliessen</definition>
+      <page>134</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠠᠮᠺᠢᠬᠣ</unicode>
+      <uighur>qamkiqu</uighur>
+      <definition>v.t. To close (door, book etc.). to lock. To fit seams together. To join a crack.</definition>
+      <page>532</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠮᠬᠢᠬᠤ</unicode>
+      <cyrillic>хамхих</cyrillic>
+      <definition>〔动〕掩，掩闭，合上，关闭：ам ~гүй ярих 不停嘴地说；үүдээ ~ж орхих 掩上门；关上门；хормой ~ 合上前襟.</definition>
+      <page>1300</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠮᠺᠢᠬᠣ</unicode>
+      <cyrillic>ХАМХИХ</cyrillic>
+      <definition>прикрывать; складывать; запахивать; смыкать, закрывать; ам хамхих закрывать рот; ам хамхихгүй ярих говорить не закрывая рта; болтать; ном хамхих закрыть книгу; сложить книги; үүд хамхих прикрывать дверь; хормой хамхих запахивать полу; хар нүдээ хамхилгүй не смыкая глаз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠮᠬᠢᠬᠤ</unicode>
+      <cyrillic>хамхих</cyrillic>
+      <definition>хавсран битүүлэх, хаах; ам хамхихгүй ярих; үүлээ хамхиж орхих.</definition>
+      <page>656</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1504">
+  <head>
+    <unicode>ᠺᠠᠷᠠᠴᠢᠯᠠᠺᠠ</unicode>
+    <transcript>gerečilege</transcript>
+    <transcript2>gerecilege</transcript2>
+    <cyrillic>гэрчилгээ</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠡᠷᠠᠴᠢᠯᠠᠺᠠ</unicode>
+      <uighur>gerečilelge</uighur>
+      <cyrillic>гэрчлэлгэ</cyrillic>
+      <transcript>GERECILELGE</transcript>
+      <definition>n. The act of gerecile-, ,</definition>
+      <page>378</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠡᠷᠠᠴᠢᠯᠠᠺᠠ ᠪᠣᠯᠭᠠᠬᠤ</unicode>
+          <transcript>-- bolγaxu</transcript>
+          <definition> To give testimony or proof, testify; to use as evidence.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠡᠷᠡᠴᠢᠯᠡᠭᠡ</unicode>
+      <cyrillic>гэрчилгээ</cyrillic>
+      <definition>〔名〕证明，证件，证据，凭据：сургууль төгссөн ~ 毕业证书；үндсэн захиргааны ~ 基层行政机关的证明；хүүхдийн ~ 小儿出生证.</definition>
+      <page>352</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠷᠠᠴᠢᠯᠠᠺᠠ</unicode>
+      <cyrillic>ГЭРЧИЛГЭЭ</cyrillic>
+      <definition>свидетельство; боловсролын гэрчилгээ / сургууль төгссөний гэрчилгээ аттестат зрелости; төрсний гэрчилгээ свидетельство о рождении. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠡᠷᠡᠴᠢᠯᠡᠯᠭᠡ</unicode>
+      <cyrillic>гэрчилгээ</cyrillic>
+      <definition>албан ёсны баримт тодорхойлолт. үндсэн захиргааны гэрчилгээ, төрөгсдийн гэрчилгээ, сургууль төгссөн гэрчилгээ.</definition>
+      <page>170</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>K1505</ref>
+  </related_to>
+</entry>

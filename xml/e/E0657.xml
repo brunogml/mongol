@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E0657">
+  <head>
+    <unicode>ᠡᠲᠡᠭᠡᠷ</unicode>
+    <transcript>eteger</transcript>
+    <transcript2>edeger</transcript2>
+    <cyrillic>этгэр</cyrillic>
+  </head>
+  <see_also>
+    <ref>E0703</ref>
+    <ref>E0658</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠲᠠᠺᠠᠷ</unicode>
+      <uighur>edeker</uighur>
+      <cyrillic>этгэр</cyrillic>
+      <transcript>ETEGER</transcript>
+      <definition>adj. Turned up, bent up, lifted up.</definition>
+      <page>335</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠲᠠᠺᠠᠷ ᠰᠢᠷᠡᠭᠡ</unicode>
+          <transcript>-- sirege</transcript>
+          <definition>Table with turned-up edges or ends.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠲᠠᠺᠠᠷ ᠤᠨᠢ</unicode>
+          <transcript>-- uni</transcript>
+          <definition>Rafters with turned-up ends.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠳᠡᠺᠡᠷ</unicode>
+      <definition>retroussé, plié en dedans, recourbé en dehors (p. e. les plumes sur la queue des canards mâles).</definition>
+      <page>199</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠳᠡᠺᠡᠷ ᠰᠢᠷᠡᠭᠡ</unicode>
+          <definition>table avec une planche aux coins recourbés</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠳᠡᠺᠡᠷ ᠣᠨᠢ</unicode>
+          <definition>chevrons aux bouts retroussés.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠲᠠᠺᠠᠷ</unicode>
+      <cyrillic>ЭТГЭР</cyrillic>
+      <definition>вздёрнутый, загнутый вверх; этгэр хоншоортой гутал сапоги с загнутыми вверх носками; этгэр унь стропила крыши, задранные кверху в китайском стиле; этгэр ширээ стол с задранной кверху у обоих концов доской.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>этгэр</cyrillic>
+      <definition>nach oben gebogen</definition>
+      <page>407</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠲᠡᠭᠡᠷ</unicode>
+      <cyrillic>этгэр</cyrillic>
+      <definition>нэгэн этгээд дээш өргүүхэн ээтний нь; этгэр хоншоортой гутал; этгэр үзүүртэй зүү.</definition>
+      <page>891</page>
+    </entry_item>
+  </entries>
+</entry>

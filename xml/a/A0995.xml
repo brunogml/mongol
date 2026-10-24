@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A0995">
+  <head>
+    <unicode>ᠠᠭᠣᠷᠬᠣ</unicode>
+    <transcript>aγurqu</transcript>
+    <transcript2>agorgo</transcript2>
+    <cyrillic>уурах</cyrillic>
+  </head><see_also>
+    <ref>U0783</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠭᠣᠷᠬᠣ</unicode>
+      <uighur>aγurqu</uighur>
+      <transcript>AГUR-</transcript>
+      <definition>Same as oγur-</definition>
+      <page>18</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠭᠣᠷᠬᠣ</unicode>
+      <uighur>aγurquO - uγurqu</uighur>
+      <definition>jeter, lancer; mettre de côté, abandonner</definition>
+      <page>38</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠥᠺᠡᠨ ᠳ᠋‍‍ᠤ‍ᠷ ᠠᠭᠤᠷᠬᠤ</unicode>
+          <definition>jeter dans une fosse</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠡᠩᠭᠡ ᠮᠥᠷᠡᠨ᠎ᠡ ᠠᠭᠤᠷᠪᠠᠢ</unicode>
+          <definition>ils jetÈrent dans le Gange</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

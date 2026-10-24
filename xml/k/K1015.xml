@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1015">
+  <head>
+    <unicode>ᠺᠠᠮᠵᠢᠺᠥᠷᠳᠠᠺᠥ</unicode>
+    <transcript>kemǰigürdekü</transcript>
+    <transcript2>gemcigördegö</transcript2>
+    <cyrillic>хэмжүүрдэх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠮᠵᠢᠭᠦᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>хэмжүүрдэх</cyrillic>
+      <definition>〔动〕测量，衡量，计量，测定.</definition>
+      <page>1483</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠮᠵᠢᠺᠥᠷᠳᠠᠺᠥ</unicode>
+      <cyrillic>ХЭМЖҮҮРДЭХ</cyrillic>
+      <definition>хэмжих-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хэмжүүрдэх</cyrillic>
+      <definition>= хэмжих</definition>
+      <page>343</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠮᠵᠢᠭᠦᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>хэмжүүрдэх</cyrillic>
+      <definition>хэмжүүр авах, хэмжих.</definition>
+      <page>761</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>K1013</ref>
+  </related_to>
+</entry>

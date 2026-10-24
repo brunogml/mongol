@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M2218">
+  <head>
+    <unicode>ᠮᠥᠯᠵᠢᠺᠥ</unicode>
+    <transcript>mölǰikü</transcript>
+    <transcript2>mölcigö</transcript2>
+    <cyrillic>мөлжих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M2219</ref>
+    <ref>M2223</ref>
+    <ref>M2216</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠮᠥᠯᠵᠢᠺᠥ</unicode>
+      <uighur>mölǰikü</uighur>
+      <cyrillic>мөлжих</cyrillic>
+      <transcript>MØLZI-</transcript>
+      <definition>v.t. To gnaw; to eat the bones clean; to exploit</definition>
+      <page>546</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠥᠯᠵᠢᠭᠴᠢ</unicode>
+          <transcript>--gci</transcript>
+          <definition> Exploiter.</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠥᠯᠵᠢᠨ ᠰᠣᠷᠤᠷᠴᠢ</unicode>
+          <transcript>--n sorurci</transcript>
+          <definition> Parasite.</definition>
+        </example>
+        <example>
+          <unicode>ᠶᠠᠰᠤ ᠮᠥᠯᠵᠢᠺᠦ</unicode>
+          <transcript>jasu --ky</transcript>
+          <definition> To gnaw or pick a bone clean.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠮᠥᠯᠵᠢᠺᠦ</unicode>
+      <definition>voler, piller; 2 vexer, opprimer , maltraiter qn., faire. tort à qn,</definition>
+      <page>2060</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠮᠥᠯᠵᠢᠺᠥ</unicode>
+      <uighur>mülǰikü</uighur>
+      <definition>rauben, an sich reissen, erpressen.</definition>
+      <page>222</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠮᠥᠯᠵᠢᠺᠥ</unicode>
+      <uighur>mölǰikü</uighur>
+      <definition>v.t. To rob. To squeeze. To extort money or things from.</definition>
+      <page>875</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠥᠯᠵᠢᠬᠦ</unicode>
+      <cyrillic>мөлжих</cyrillic>
+      <definition>〔动〕①啃骨头，剔肉：яс ~ 啃骨头；②（转）剥削：~н сорогч 剥削者，寄生虫；хүн хүнээ ~ ёсыг устгах 消灭人剥削人的制度；их хүүтэй зээллэсээр ~ 高利贷剥削.</definition>
+      <page>683</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠥᠯᠵᠢᠺᠥ</unicode>
+      <cyrillic>МӨЛЖИХ</cyrillic>
+      <definition>1. 1) глодать, обгладывать, обгрызать; яс мөлжих обгладывать, глодать кость; 2) шилж. эксплуатировать (чужой труд); сорон мөлжих эксплуатировать; шувт сорон мөлжих ограбить до основания, ограбить до нитки; эдийн засгийн талаар мөлжих подвергаться экономической эксплуатации; мөлжин идэх объедать, жить за чужой счёт; мөлжин сорогч паразит; нохой хотоо манадаг, ноён олноо мөлждөг зүйр. собака стойбище охраняет, а нойон всех обирает; 2. мөлжихүй-г үз.; 3. эксплуататорский; грабительский; мөлжих анги эксплуататорский класс; мөлжих харилцаа эксплуататорские отношения. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠥᠯᠵᠢᠺᠥ</unicode>
+      <cyrillic>МӨЛЖИХҮЙ</cyrillic>
+      <definition>1) эксплуатация; колоничлон мөлжихүй колониальная эксплуатация; 2) глодание, обгладывание, обгрызание. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠥᠯᠵᠢᠬᠦ</unicode>
+      <cyrillic>мөлжих</cyrillic>
+      <definition>1. яснаас махыг салган авах; яс мөлжих;2. &lt;шилжсэн&gt;бусдыг хохируулан ашиг үлэмж олох; дамын худалдаачин бусдыг мөлжиж амтшижээ; нийгэм журамт нийгэмлэг бол хүнээ мөлжих ёсыг үүрд устгав.</definition>
+      <page>343</page>
+    </entry_item>
+  </entries>
+</entry>

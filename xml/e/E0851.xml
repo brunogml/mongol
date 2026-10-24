@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E0851">
+  <head>
+    <unicode>ᠡᠯᠢᠭᠡᠯᠡᠺᠦ</unicode>
+    <transcript>eligelekü</transcript>
+    <transcript2>eligelegö</transcript2>
+    <cyrillic>элэглэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>E0852</ref>
+    <ref>E0850</ref>
+  </derivatives>
+  <see_also>
+    <ref>E0813</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠯᠢᠺᠠᠯᠠᠺᠥ</unicode>
+      <uighur>eligelekü</uighur>
+      <cyrillic>элэглэх</cyrillic>
+      <transcript>ELIGELE-</transcript>
+      <definition>v.i. and t. To lie on one's stomach; .to love tenderly, be attached to.</definition>
+      <page>309</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠯᠢᠭᠡᠯᠡᠵᠦ ᠺᠡᠪᠲᠡᠺᠦ</unicode>
+          <transcript>--zy kebteky</transcript>
+          <definition> To lie on one's stomach.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠯᠢᠺᠡᠯᠡᠺᠦ</unicode>
+      <definition>aimer tendrement (ses parens, ses proches, ses amis, sa patrie etc.].</definition>
+      <page>207</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠯᠢᠭᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>элэглэх /1</cyrillic>
+      <definition>1. хүүхэд багачуудын мөлхөж эхлэхийн урьд элгээр гулгалхийлан явах ба хүн элгээр гулгалхийлан гэтэх буюу мяраах;2. хүний түрүүлгээ харж элгээр юмыг дарах ба элгэнд тулгаж юм түлхэх үйлдэх;3. мал адгуусны шинэ ногоонд цадаж элэг нь амт орж том болох;4. зарим юмны элэгрэх; цавуу элэглэх; зуурсан шавар элэглэх.</definition>
+      <page>875</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠯᠢᠭᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>элэглэх /3</cyrillic>
+      <definition>элэгдэх /2.</definition>
+      <page>875</page>
+    </entry_item>
+  </entries>
+</entry>

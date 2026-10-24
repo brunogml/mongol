@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K3033">
+  <head>
+    <unicode>ᠺᠥᠨᠳᠡᠺᠥᠷᠯᠡᠺᠥ</unicode>
+    <transcript>köndegürlekü</transcript>
+    <transcript2>göndegörlegö</transcript2>
+    <cyrillic>хөндүүрлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K3034</ref>
+    <ref>K3032</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠨᠳᠡᠭᠦᠷᠯᠡᠬᠦ</unicode>
+      <cyrillic>хөндүүрлэх</cyrillic>
+      <definition>〔动〕〈医〉隐痛；疼痛：хоолой ~ 嗓子痛；~ мэдээ алдах 痛觉消失.</definition>
+      <page>1402</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠨᠳᠡᠺᠥᠷᠯᠡᠺᠥ</unicode>
+      <cyrillic>ХӨНДҮҮРЛЭХ</cyrillic>
+      <definition>побаливать; ощущать боль; быть чувствительным; быть болезненным на ощупь; хоолой хөндүүрлэнэ горло побаливает. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠨᠳᠡᠭᠦᠷᠯᠡᠬᠦ</unicode>
+      <cyrillic>хөндүүрлэх</cyrillic>
+      <definition>хөндүүр өвчин бүхий газар, хөдлөх хүрэлцэхийн зэрэгт эмзэглэх; хоолой хөндүүрлэх.</definition>
+      <page>712</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S2112">
+  <head>
+    <unicode>ᠰᠠᠪᠺᠢᠺᠥᠷᠢ</unicode>
+    <transcript>sebkigüri</transcript>
+    <transcript2>sebgigöri</transcript2>
+    <cyrillic>сэвхүүр</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠪᠺᠢᠺᠥᠷᠢ</unicode>
+      <uighur>sebkigüri</uighur>
+      <transcript>SEBKIGYRI</transcript>
+      <page>679</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠪᠺᠢᠺᠥᠷᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> [Ko.] Exhausted, fatigued; feeble, weak. [Go.] Unable to recover or recover one&apos;s breath quickly (of old or feeble people)</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠡᠪᠺᠢᠭᠦᠷᠢ ᠦᠭᠡᠢ</unicode>
+      <definition>épuisé, fatigué. affaibli</definition>
+      <page>1345</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠪᠺᠢᠺᠥᠷᠢ</unicode>
+      <cyrillic>СЭВХҮҮР</cyrillic>
+      <definition>: сэвхүүр сайн быстро приходящий в себя. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠪᠺᠢᠺᠥᠷᠢ</unicode>
+      <cyrillic>СЭВХҮҮРГҮЙ</cyrillic>
+      <definition>совершенно не отдохнувший, не могущий прийти в себя. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

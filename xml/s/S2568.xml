@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2568">
+  <head>
+    <unicode>ᠰᠠᠺᠰᠠᠯᠵᠠᠺᠥ</unicode>
+    <transcript>segselǰekü</transcript>
+    <transcript2>segselcegö</transcript2>
+    <cyrillic>сэгсэлзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S2569</ref>
+    <ref>S2567</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠭᠰᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>сэгсэлзэх</cyrillic>
+      <definition>〔动〕参见 сэгсэгнэх.</definition>
+      <page>983</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠺᠰᠠᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>СЭГСЭЛЗЭХ</cyrillic>
+      <definition>сэгсэгнэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сэгсэлзэх</cyrillic>
+      <definition>= сэгсэгнэх</definition>
+      <page>209</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠭᠰᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>сэгсэлзэх</cyrillic>
+      <definition>сэгсгэр юмны сэгсэс сэгсэс хийх.</definition>
+      <page>500</page>
+    </entry_item>
+  </entries>
+</entry>

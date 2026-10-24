@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4126">
+  <head>
+    <unicode>ᠭᠣᠨᠵᠢᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>γonǰiγanaγulqu</transcript>
+    <transcript2>gonciganagolgo</transcript2>
+    <cyrillic>гонжгонуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q4125</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠣᠨᠵᠢᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гонжгонуулах</cyrillic>
+      <definition>〔动〕гонжгонох 的使动态.</definition>
+      <page>307</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠨᠵᠢᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ГОНЖГОНУУЛАХ</cyrillic>
+      <definition>гонжгонох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠣᠨᠵᠢᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гонжгонуулах</cyrillic>
+      <definition>гонжгонохын үйлдүүлэх хэв.</definition>
+      <page>150</page>
+    </entry_item>
+  </entries>
+</entry>

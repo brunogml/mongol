@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q7071">
+  <head>
+    <unicode>ᠬᠣᠷᠭ᠎ᠠ</unicode>
+    <transcript>qorγ-a</transcript>
+    <transcript2>gorga</transcript2>
+    <cyrillic>хорго</cyrillic>
+  </head>
+  <see_also>
+    <ref>Q7081</ref>
+    <ref>Q7070</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠷᠭ᠎ᠠ</unicode>
+      <uighur>qorγ-a</uighur>
+      <cyrillic>хорго</cyrillic>
+      <transcript>XORΓ-A</transcript>
+      <definition>n. Fort, fortress; shelter, enclosure.</definition>
+      <page>965</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠷᠭ᠎ᠠ ᠎ᠶᠢᠨ ᠳᠠᠷᠤᠭ᠎ᠠ</unicode>
+          <transcript>-- jin daruγ-a</transcript>
+          <definition>Commander of afortress.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠷᠭ᠎ᠠ</unicode>
+      <definition>chateau, castel, fort, forteresse.</definition>
+      <page>968</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠷᠭ᠎ᠠ ᠎ᠶᠢᠨ ᠡᠵᠡᠨ</unicode>
+          <definition>maître d'un fort, d'un chateau</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠷᠭ᠎ᠠ ᠎ᠶᠢᠨ ᠪᠤᠭᠤᠯ</unicode>
+          <definition>esclave appartenant à un chateau, à un fort</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠷᠭ᠎ᠠ ᠎ᠶᠢᠨ ᠳᠠᠷᠤᠭ᠎ᠠ</unicode>
+          <definition>commandant d'une forteresse</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠠᠲᠤ ᠬᠣᠷᠭ᠎ᠠ</unicode>
+          <definition>chateau bien fortifié</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

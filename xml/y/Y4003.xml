@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4003">
+  <head>
+    <unicode>ᠵᠣᠭᠣᠷᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰoγurilaγulqu</transcript>
+    <transcript2>yogorilagolgo</transcript2>
+    <cyrillic>зоорилуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y4002</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠣᠭᠣᠷᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зоорилуулах</cyrillic>
+      <definition>〔动〕зоорилах 的使动态.</definition>
+      <page>560</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠭᠣᠷᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗООРИЛУУЛАХ</cyrillic>
+      <definition>зоорилох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зоорилуулах</cyrillic>
+      <definition>Kaus von зоорилох</definition>
+      <page>121</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠣᠭᠣᠷᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зоорилуулах</cyrillic>
+      <definition>зоорилохын үйлдүүлэх хэв.</definition>
+      <page>274</page>
+    </entry_item>
+  </entries>
+</entry>

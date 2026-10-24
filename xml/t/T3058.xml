@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3058">
+  <head>
+    <unicode>ᠲᠠᠥᠺᠠᠲᠥ</unicode>
+    <transcript>teüketü</transcript>
+    <transcript2>deögedö</transcript2>
+    <cyrillic>түүхт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠥᠺᠠᠲᠥ</unicode>
+      <uighur>teükedü</uighur>
+      <transcript>TEYKETY</transcript>
+      <definition>adj. Historic[al].</definition>
+      <page>808</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠥᠺᠠᠲᠥ ᠴᠢᠮᠠᠷ</unicode>
+          <transcript>-- cimar</transcript>
+          <definition> Historic nature, historicity.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠡᠦᠬᠡᠲᠦ</unicode>
+      <cyrillic>түүхт</cyrillic>
+      <definition>〔形〕历史的，历史性的，有历史意义的：~ хүн 历史人物；~ явдал 历史事件；~ ялалт 有历史意义的胜利，历史性的胜利；~ ач холбогдолтой 有历史意义的；~ өдөр 有历史意义的一天.</definition>
+      <page>1144</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠥᠺᠠᠲᠥ</unicode>
+      <cyrillic>ТҮҮХТ</cyrillic>
+      <definition>исторљческий; имеющий историю; түүхт гавъяа имеющий исторљческие заслуги; түүхт нөхцөл байдал исторљческая ситуация; түүхт явдал исторљческие дела; факт исторљческого значения; исторљческий процесс; история; эрт урьдын түүхт явдал ранняя, древняя история; түүхт ялалт исторљческая победа. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠦᠬᠡᠲᠦ</unicode>
+      <cyrillic>түүхт</cyrillic>
+      <definition>түүх бүхий; түүхт хүн; түүхт явдал; түүхт өдөр.</definition>
+      <page>570</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T3055</ref>
+  </related_to>
+  <see_also>
+    <ref>T3057</ref>
+  </see_also>
+</entry>

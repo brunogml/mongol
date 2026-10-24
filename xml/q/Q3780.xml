@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q3780">
+  <head>
+    <unicode>ᠬᠣᠣᠪᠢᠺᠥ</unicode>
+    <transcript>qoubikü</transcript>
+    <transcript2>goobigö</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠣᠣᠪᠢᠺᠥ</unicode>
+      <uighur>qoubikü</uighur>
+      <definition>tosen, brausen</definition>
+      <page>160</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠣᠣᠪᠢᠺᠥ</unicode>
+      <uighur>qoukikü</uighur>
+      <definition>Sound of rapidly flowing water.</definition>
+      <page>628</page>
+      <examples>
+        <example>
+          <uighur>qoukiǰu orosqu</uighur>
+          <definition>Sound of rapidly flowing water.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B5072">
+  <head>
+    <unicode>ᠪᠥᠷᠺᠥᠯ</unicode>
+    <transcript>bürkül</transcript>
+    <transcript2>börgöl</transcript2>
+  </head>
+  <derivatives>
+    <ref>B9028</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠥᠷᠺᠥᠯ</unicode>
+      <uighur>bürkül</uighur>
+      <transcript>BYRKYL</transcript>
+      <definition>See byrkygyl</definition>
+      <page>150</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠦᠷᠺᠦᠯ ~ ᠪᠦᠷᠭᠦᠭᠦᠯ</unicode>
+      <definition>couvercle, couverture: masque, tillac, etc.</definition>
+      <page>1262</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠪᠦᠷ ᠤᠨ ᠪᠦᠷᠺᠦᠯ</unicode>
+          <definition>serviette</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠢᠭᠤᠷ ᠤᠨ ᠪᠦᠷᠺᠦᠯ</unicode>
+          <definition>voile à cacher le visage</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠢᠷᠡᠭᠡᠨ ᠤ ᠪᠦᠷᠺᠦᠯ</unicode>
+          <definition>nappe</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠪᠥᠷᠺᠥᠯ</unicode>
+      <uighur>bürgüül</uighur>
+      <definition>n. A thin overcoat, a cloth cover for a coat.</definition>
+      <page>488</page>
+    </entry_item>
+  </entries>
+</entry>

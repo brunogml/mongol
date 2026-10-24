@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0567">
+  <head>
+    <unicode>ᠪᠠᠰᠣᠮᠵᠢᠯᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>basumǰilaγdaqu</transcript>
+    <transcript2>basomcilagdago</transcript2>
+    <cyrillic>басамжлагдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B0565</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠰᠤᠮᠵᠢᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>басамжлагдах</cyrillic>
+      <definition>〔动〕басамжлах 的被动态.</definition>
+      <page>141</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠰᠣᠮᠵᠢᠯᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>БАСАМЖЛАГДАХ</cyrillic>
+      <definition>басамжлах-ын үйлдэгд.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠰᠤᠮᠵᠢᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>басамжлагдах</cyrillic>
+      <definition>басамжлахын үйлдэгдэх хэв.</definition>
+      <page>79</page>
+    </entry_item>
+  </entries>
+</entry>

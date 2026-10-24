@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4120">
+  <head>
+    <unicode>ᠶᠣᠪᠣᠴᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>yobučiγulqu</transcript>
+    <transcript2>yobocigolgo</transcript2>
+    <cyrillic>ёвчуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y4119</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠣᠪᠣᠴᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ёвчуулах</cyrillic>
+      <definition>〔动〕①ёвчих 的使动态；②被时时轻推，被不断轻触，被推动.</definition>
+      <page>488</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠣᠪᠣᠴᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЁВЧУУЛАХ</cyrillic>
+      <definition>ёвчих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠣᠪᠴᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ёвчуулах</cyrillic>
+      <definition>1. ёвчихын үйлдүүлэх хэв;2. ёвчигдох.</definition>
+      <page>235</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1518">
+  <head>
+    <unicode>ᠬᠠᠳᠠᠭᠠᠰᠣᠯᠠᠬᠣ</unicode>
+    <transcript>qadaγasulaqu</transcript>
+    <transcript2>gadagasolago</transcript2>
+    <cyrillic>хадааслах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠳᠠᠭᠠᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>хадааслах</cyrillic>
+      <definition>〔动〕（用钉子）钉.</definition>
+      <page>1271</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠳᠠᠭᠠᠰᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХАДААСЛАХ</cyrillic>
+      <definition>прибить гвоздями.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠳᠠᠭᠠᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>хадааслах</cyrillic>
+      <definition>хадаасаар бэхлэн хадах.</definition>
+      <page>640</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q1514</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T5249">
+  <head>
+    <unicode>ᠲᠣᠨᠢᠯᠣᠰᠢ</unicode>
+    <transcript>tonilusi</transcript>
+    <transcript2>donilosi</transcript2>
+    <cyrillic>тонилош</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠨᠢᠯᠣᠰᠢ</unicode>
+      <uighur>tonilosi</uighur>
+      <cyrillic>тонилош</cyrillic>
+      <transcript>TONILUSI</transcript>
+      <page>825</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠣᠨᠢᠯᠣᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Doomed, hopeless</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠨᠢᠯᠣᠰᠢ ᠦᠭᠡᠢ</unicode>
+      <definition>celui qui ne peut être sauvé; 2 inévitable</definition>
+      <page>1789</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠨᠢᠯᠣᠰᠢ</unicode>
+      <cyrillic>ТОНИЛШ</cyrillic>
+      <definition>: тонилшгүй безнадёжный, обречённый, неизбежный. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O0361">
+  <head>
+    <unicode>ᠥᠨᠴᠥᠺᠴᠢ</unicode>
+    <transcript>önčügči</transcript>
+    <transcript2>öncögci</transcript2>
+    <cyrillic>өнцөгч</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠦᠨᠴᠦᠺᠴᠢ</unicode>
+      <definition>une équerre</definition>
+      <page>494</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠨᠴᠥᠭᠴᠢ</unicode>
+      <cyrillic>өнцөгч</cyrillic>
+      <definition>〔名〕①参见 өөнтөгч；②〈数〉直角尺，三角板.</definition>
+      <page>851</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠨᠴᠥᠺᠴᠢ</unicode>
+      <cyrillic>ӨНЦӨГЧ</cyrillic>
+      <definition>наугольник. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠨᠴᠥᠭᠴᠢ</unicode>
+      <cyrillic>өнцөгч</cyrillic>
+      <definition>өөнтөгч.</definition>
+      <page>441</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>O0350</ref>
+  </related_to>
+</entry>

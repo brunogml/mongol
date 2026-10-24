@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8973">
+  <head>
+    <unicode>ᠲᠥᠺᠡᠨᠡᠺᠳᠡᠺᠥ</unicode>
+    <transcript>tögenegdekü</transcript>
+    <transcript2>dögenegdegö</transcript2>
+    <cyrillic>төөнөгдөх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T8970</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠥᠭᠡᠨᠡᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>төөнөгдөх</cyrillic>
+      <definition>〔动〕төөнөх 的被动态.</definition>
+      <page>1099</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠺᠡᠨᠡᠺᠳᠡᠺᠥ</unicode>
+      <cyrillic>ТӨӨНӨГДӨХ</cyrillic>
+      <definition>төөнөх-ийн үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠥᠭᠡᠨᠡᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>төөнөгдөх</cyrillic>
+      <definition>төөнөхийн үйлдэгдэх хэв.</definition>
+      <page>551</page>
+    </entry_item>
+  </entries>
+</entry>

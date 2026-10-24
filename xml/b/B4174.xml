@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B4174">
+  <head>
+    <unicode>ᠪᠥᠨᠳᠥᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>böndügenekü</transcript>
+    <transcript2>böndögenegö</transcript2>
+    <cyrillic>бөндгөнөх</cyrillic>
+  </head><derivatives>
+    <ref>B4175</ref>
+  
+    <ref>B4173</ref>
+  </derivatives>
+  <variants>
+    <variant type="cyrillic">бөндөгнөх</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠨᠳᠥᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>бөндгөнөх</cyrillic>
+      <definition>〔动〕（球形物）动弹晃动，摇晃.</definition>
+      <page>188</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠨᠳᠥᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>БӨНДГӨНӨХ</cyrillic>
+      <definition>двигаться (о круглых предметах).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠨᠳᠥᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>бөндөгнөх</cyrillic>
+      <definition>〔动〕（球形物）动荡，摇晃；翻滚，滚动.</definition>
+      <page>188</page>
+    </entry_item>
+  </entries>
+</entry>

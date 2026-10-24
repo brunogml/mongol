@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5008">
+  <head>
+    <unicode>ᠰᠣᠨᠳᠣᠣᠲᠣ</unicode>
+    <transcript>sundoutu</transcript>
+    <transcript2>sondoodo</transcript2>
+    <cyrillic>сундуут</cyrillic>
+  </head>
+  <see_also>
+    <ref>S5007</ref>
+    <ref>S5006</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠨᠳᠤᠤᠲᠤ</unicode>
+      <cyrillic>сундуут</cyrillic>
+      <definition>〔形〕参见 сундуутай:~ хайлс 〈植〉刺榆.</definition>
+      <page>962</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠨᠳᠣᠣᠲᠣ</unicode>
+      <cyrillic>СУНДУУТ</cyrillic>
+      <definition>сундуутай-ийг үз., † сундуут хайлаас ург. ильм колючий. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сундуут,</cyrillic>
+      <definition>сундуутай Dorn-; dornig</definition>
+      <page>205</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠨᠳᠤᠤᠲᠤ</unicode>
+      <cyrillic>сундуут</cyrillic>
+      <definition>сундуутай.</definition>
+      <page>490</page>
+    </entry_item>
+  </entries>
+</entry>

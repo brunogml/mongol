@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0945">
+  <head>
+    <unicode>ᠪᠠᠯᠴᠢᠬᠲᠣᠬᠣ</unicode>
+    <transcript>balčiγtuqu</transcript>
+    <transcript2>balcigdogo</transcript2>
+    <cyrillic>балчигтах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0946</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠯᠴᠢᠭᠲᠤᠬᠤ</unicode>
+      <cyrillic>балчигтах</cyrillic>
+      <definition>〔动〕減上泥（水），沾上泥（水）.</definition>
+      <page>125</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠯᠴᠢᠬᠲᠣᠬᠣ</unicode>
+      <cyrillic>БАЛЧИГТАХ</cyrillic>
+      <definition>1. заболачиваться; запачкаться, загрязниться; 2. балчигтахуй-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠯᠴᠢᠬᠲᠣᠬᠣ</unicode>
+      <cyrillic>БАЛЧИГТАХУЙ</cyrillic>
+      <definition>заболачивание.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>балчигтах</cyrillic>
+      <definition>sumpfig od schlammig werden</definition>
+      <page>45</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠯᠴᠢᠭᠲᠤᠬᠤ</unicode>
+      <cyrillic>балчигтах</cyrillic>
+      <definition>балчигтай болох, балчиг тогтох.</definition>
+      <page>72</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>B0939</ref>
+  </related_to>
+</entry>

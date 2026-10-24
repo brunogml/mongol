@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A0292">
+  <head>
+    <unicode>ᠠᠩᠭ᠋ᠠᠭᠠᠨᠠᠬᠤ</unicode>
+    <transcript>angγaγanaqu</transcript>
+    <transcript2>anggaganago</transcript2>
+    <cyrillic>ангаганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>A0293</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠩᠭᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>ангаганах</cyrillic>
+      <definition>〔动〕一张一合，频频张开.</definition>
+      <page>60</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠩᠭ᠋ᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>АНГАГАНАХ</cyrillic>
+      <definition>ангавалзах–ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠩᠭᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>ангаганах</cyrillic>
+      <definition>ангархай юмны ангага ангага хийх.</definition>
+      <page>43</page>
+    </entry_item>
+  </entries>
+</entry>

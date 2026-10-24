@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N0052">
+  <head>
+    <unicode>ᠨᠠᠭᠠᠨᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>naγanadaγulqu</transcript>
+    <transcript2>naganadagolgo</transcript2>
+    <cyrillic>наанадуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>N0051</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠠᠭᠠᠨᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>наанадуулах</cyrillic>
+      <definition>〔动〕наандах 的使动态.</definition>
+      <page>713</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠭᠠᠨᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>НААНАДУУЛАХ</cyrillic>
+      <definition>наанадах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠠᠭᠠᠨᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>наанадуулах</cyrillic>
+      <definition>наанадахын үйлдүүлэх хэв, наана болгох.</definition>
+      <page>360</page>
+    </entry_item>
+  </entries>
+</entry>

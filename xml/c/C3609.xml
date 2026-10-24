@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C3609">
+  <head>
+    <unicode>ᠴᠥᠮᠥᠺᠠ</unicode>
+    <transcript>čömüge</transcript>
+    <transcript2>cömöge</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠥᠮᠥᠺᠠ</unicode>
+      <uighur>čömüge</uighur>
+      <transcript>CØMYGE(N)</transcript>
+      <definition>See cimyge</definition>
+      <page>203</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠦᠮᠦᠺᠡ ~ ᠴᠦᠮᠦ ~ ᠴᠦᠮ᠎ᠡ</unicode>
+      <definition>le noyau des fruits, pépin.</definition>
+      <page>2226</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠮᠲᠠᠲᠤ ᠴᠥᠮᠦᠭᠡ</unicode>
+          <definition>le noyau des fruits d'un goût exquis</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠢᠮᠢᠰ ᠤᠨ ᠴᠥᠮᠦᠭᠡ</unicode>
+          <definition>le noyau des fruits</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

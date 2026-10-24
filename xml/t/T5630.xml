@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5630">
+  <head>
+    <unicode>ᠲᠣᠭᠠᠴᠠᠯᠠᠬᠣ</unicode>
+    <transcript>toγačalaqu</transcript>
+    <transcript2>dogacalago</transcript2>
+    <cyrillic>тооцоолох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T5631</ref>
+    <ref>T5633</ref>
+    <ref>T5635</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠭᠠᠴᠠᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>тооцоолох</cyrillic>
+      <definition>〔动〕算账，核算，计算；清账，清算，清偿，付清：~н бодох 计算，核算；~н бодох автомат цахилган машин 电动计算机；~н бодох машин 计算机；~н бодох төв, ~н бодох төв газар 计算机中心；~н бодох электрон машин 电子计算机；~н дүгнэх 核定，核总.</definition>
+      <page>1078</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠭᠠᠴᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ТООЦООЛОХ</cyrillic>
+      <definition>вычислять, исчислять; рассчљтывать; тооцоолон бодох машин вычислљтельная машљна; калькулятор; компьютер. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тооцоолох</cyrillic>
+      <definition>беречnen; durchrechnen; тооцоолон бодох машин Computer m</definition>
+      <page>231</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠭᠠᠴᠠᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>тооцоолох</cyrillic>
+      <definition>тооцоо хийх, тооцоо бодох.</definition>
+      <page>543</page>
+    </entry_item>
+  </entries>
+</entry>

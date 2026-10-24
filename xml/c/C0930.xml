@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0930">
+  <head>
+    <unicode>ᠴᠠᠪᠳᠠᠺᠷᠠᠺᠥ</unicode>
+    <transcript>čebdegrekü</transcript>
+    <transcript2>cebdegregö</transcript2>
+    <cyrillic>цэвдэгрэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0931</ref>
+    <ref>C0929</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠪᠳᠡᠭᠷᠡᠬᠦ</unicode>
+      <cyrillic>цэвдэгрэх</cyrillic>
+      <definition>〔动〕（土壤）冻结，（土地）终年冻结，成冻土.</definition>
+      <page>1559</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠪᠳᠠᠺᠷᠠᠺᠥ</unicode>
+      <cyrillic>ЦЭВДЭГРЭХ</cyrillic>
+      <definition>становиться оледенелым, мёрзлым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цэвдэгрэх</cyrillic>
+      <definition>= цэвдэгших</definition>
+      <page>363</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠪᠳᠡᠭᠷᠡᠬᠦ</unicode>
+      <cyrillic>цэвдэгрэх</cyrillic>
+      <definition>цэвдэг болох.</definition>
+      <page>803</page>
+    </entry_item>
+  </entries>
+</entry>

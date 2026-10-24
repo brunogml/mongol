@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5370">
+  <head>
+    <unicode>ᠰᠣᠬᠣᠷᠭᠣᠯᠬᠣ</unicode>
+    <transcript>soqurγulqu</transcript>
+    <transcript2>sogorgolgo</transcript2>
+    <cyrillic>сохруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S5368</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠬᠣᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сохруулах</cyrillic>
+      <definition>〔动〕сохрох 的使动态.</definition>
+      <page>945</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠬᠣᠷᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>СОХРУУЛАХ</cyrillic>
+      <definition>сохрох-ын үйлдүүл., ослепить. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠬᠣᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сохруулах</cyrillic>
+      <definition>сохрохын үйлдүүлэх хэв, сохор болгох.</definition>
+      <page>482</page>
+    </entry_item>
+  </entries>
+</entry>

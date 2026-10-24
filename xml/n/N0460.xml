@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="N0460">
+  <head>
+    <unicode>ᠨᠠᠮᠣᠰᠣ</unicode>
+    <transcript>namusu</transcript>
+    <transcript2>namoso</transcript2>
+    <cyrillic>намс</cyrillic>
+  </head><see_also>
+    <ref>N0459</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠨᠠᠮᠤᠰᠤ ~ ᠨᠠᠮᠤᠰᠤᠨ</unicode>
+      <uighur>namusu - namusun</uighur>
+      <transcript>NAMUSU(N)</transcript>
+      <definition>[= namursu(n)] n. Herpes, tetter; dead tissue, scab; ulcer; ringworm</definition>
+      <page>564</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠠᠮᠤᠰᠤ ᠶᠠᠷ᠎ᠠ</unicode>
+          <transcript>-- jar-a</transcript>
+          <definition> Herpes, tetter (on the face); ulcer, eczema</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠢᠷᠬᠠᠨ ᠳᠡᠭᠡᠷᠡᠺᠢ ᠨᠠᠮᠤᠰᠤ</unicode>
+          <transcript>sirxan degereki -- </transcript>
+          <definition>Scab on a wound</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠨᠠᠮᠤᠰᠤᠨ ᠵᠡᠷᠡ ~ ᠨᠠᠮᠣᠰᠤ ᠵᠡᠷᠡ</unicode>
+      <definition>dartre (herpes).</definition>
+      <page>616</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠨᠠᠮᠤᠰᠤᠨ ᠠᠷ᠎ᠠ</unicode>
+      <uighur>namusun ar-a</uighur>
+      <definition>n. Eczema.</definition>
+      <page>324</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠮᠣᠰᠣ</unicode>
+      <cyrillic>НАМС</cyrillic>
+      <definition>II : намс яр прыщ, прыщи на лице. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

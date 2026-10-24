@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4552">
+  <head>
+    <unicode>ᠺᠥᠺᠡᠰᠥᠲᠥᠺᠥ</unicode>
+    <transcript>kögesütükü</transcript>
+    <transcript2>gögesödögö</transcript2>
+    <cyrillic>хөөстөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K4553</ref>
+    <ref>K4551</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠭᠡᠰᠦᠲᠦᠬᠦ</unicode>
+      <cyrillic>хөөстөх</cyrillic>
+      <definition>〔动〕参见 хөөсрөх.</definition>
+      <page>1407</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠺᠡᠰᠥᠲᠥᠺᠥ</unicode>
+      <cyrillic>ХӨӨСТӨХ</cyrillic>
+      <definition>хөөсрөх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хөөстөх</cyrillic>
+      <definition>= хөөсрөх</definition>
+      <page>321</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠭᠡᠰᠦᠲᠦᠬᠦ</unicode>
+      <cyrillic>хөөстөх</cyrillic>
+      <definition>хөөстэй болох, хөөс тогтох.</definition>
+      <page>715</page>
+    </entry_item>
+  </entries>
+</entry>

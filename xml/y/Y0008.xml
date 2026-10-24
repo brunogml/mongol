@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0008">
+  <head>
+    <unicode>ᠵᠠᠢ</unicode>
+    <transcript>yai</transcript>
+    <transcript2>yai</transcript2>
+    <cyrillic>яй</cyrillic>
+  </head>
+  <see_also>
+    <ref>Y0007</ref>
+    <ref>Y0006</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠠᠢ</unicode>
+      <definition>nom du poids chinois, la dixième de tchin,</definition>
+      <page>2233</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠠᠢ</unicode>
+      <cyrillic>яй</cyrillic>
+      <definition>〔量〕〈陈〉顷，一顷.</definition>
+      <page>1744</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠢ</unicode>
+      <cyrillic>ЯЙ</cyrillic>
+      <definition>хуучир. мера площади (одна сотая үр); үр-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠠᠢ</unicode>
+      <cyrillic>яй</cyrillic>
+      <definition>талбайн хэмжүүр, тариалангийн газрын зуун үрийн газар.</definition>
+      <page>902</page>
+    </entry_item>
+  </entries>
+</entry>

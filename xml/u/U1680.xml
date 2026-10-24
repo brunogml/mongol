@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1680">
+  <head>
+    <unicode>ᠣᠯᠢᠢᠬᠣ</unicode>
+    <transcript>oliiqu</transcript>
+    <transcript2>oliigo</transcript2>
+    <cyrillic>олийх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U1682</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠯᠢᠢᠬᠣ</unicode>
+      <uighur>oliiqu</uighur>
+      <cyrillic>олийх</cyrillic>
+      <transcript>OLII-</transcript>
+      <definition>v. i. To depart from the road; to take the wrong road; to give somebody an angry or distrustful look.</definition>
+      <page>609</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠯᠢᠢᠨ ᠶᠠᠪᠤᠬᠤ</unicode>
+          <transcript>--n jabuxu</transcript>
+          <definition> To deviate from a direct route; not to follow the road</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠦᠮᠦᠨ ᠢ ᠣᠯᠢᠢᠬᠤ</unicode>
+          <transcript>kymyn i --xu</transcript>
+          <definition> To look at a person angrily, scowl at</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠯᠢᠢᠬᠣ</unicode>
+      <cyrillic>ОЛИЙХ</cyrillic>
+      <definition>I 1) идти, ехать не по дороге; 2) отклоняться от дороги; олийн явах идти, ехать стороною (не по дороге). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠯᠢᠢᠬᠣ</unicode>
+      <cyrillic>ОЛИЙХ</cyrillic>
+      <definition>II становиться косоглазым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>олийх</cyrillic>
+      <definition>1. vom Weg abweichen od abbiegen
+2. äugen</definition>
+      <page>169</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠯᠢᠢᠬᠤ</unicode>
+      <cyrillic>олийх /1</cyrillic>
+      <definition>олигор болох;оньсого хэлбэл олийсон сохор болно; үлгэр хэлбэл өлийсөн сохор болно&lt;шог үг&gt;.</definition>
+      <page>412</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠯᠢᠢᠬᠤ</unicode>
+      <cyrillic>олийх /2</cyrillic>
+      <definition>замаас муруйн одох; чигээрээ явж байснаа гэнэт баруун тийш олийж явлаа.</definition>
+      <page>412</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4153">
+  <head>
+    <unicode>ᠺᠥᠯᠯᠥᠪᠥᠷᠢ</unicode>
+    <transcript>köllübüri</transcript>
+    <transcript2>göllöböri</transcript2>
+    <cyrillic>хөлөлбөр</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠯᠯᠡᠪᠦᠷᠢ</unicode>
+      <cyrillic>хөлөлбөр</cyrillic>
+      <definition>〔名〕挽具，马具.</definition>
+      <page>1395</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠯᠯᠥᠪᠥᠷᠢ</unicode>
+      <cyrillic>ХӨЛӨЛБӨР</cyrillic>
+      <definition>упряжь. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠯᠯᠡᠪᠦᠷᠢᠬᠥᠯᠪᠥᠷᠢ</unicode>
+      <cyrillic>хөлөлбөр</cyrillic>
+      <definition>тэрэг чарга зэргийн мал хөллөх хэрэглэл.</definition>
+      <page>709</page>
+    </entry_item>
+  </entries>
+</entry>

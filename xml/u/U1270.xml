@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1270">
+  <head>
+    <unicode>ᠣᠰᠬᠣᠷᠣᠣᠲᠣᠬᠣ</unicode>
+    <transcript>osquroutuqu</transcript>
+    <transcript2>osgoroodogo</transcript2>
+    <cyrillic>осгоруутах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U1271</ref>
+    <ref>U1272</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠰᠬᠣᠷᠤᠤᠲᠤᠬᠤ</unicode>
+      <cyrillic>осгоруутах</cyrillic>
+      <definition>〔动〕（由于寒风烈日等使皮肤）皴裂，燥裂，裂口： нүүр ~ 脸干裂，脸皴.</definition>
+      <page>825</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠰᠬᠣᠷᠣᠣᠲᠣᠬᠣ</unicode>
+      <cyrillic>ОСГОРУУТАХ</cyrillic>
+      <definition>осгортох-ыг үз., нүүр осгоруутав кожа на лице растрескалась. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>осгоруутах</cyrillic>
+      <definition>= осгортох</definition>
+      <page>176</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠰᠬᠣᠷᠤᠤᠲᠤᠬᠤ</unicode>
+      <cyrillic>осгоруутах</cyrillic>
+      <definition>агаар салхинд нүүр гарын арьс хатаж ширүүн болох; нүүр осгоруутах.</definition>
+      <page>426</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1591">
+  <head>
+    <unicode>ᠺᠠᠷᠥᠺᠠᠳᠠᠰᠥᠯᠠᠺᠥ</unicode>
+    <transcript>kerügedesülekü</transcript>
+    <transcript2>gerögedesölegö</transcript2>
+    <cyrillic>хэрээдэслэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K1592</ref>
+    <ref>K1590</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠡᠷᠦᠭᠡᠳᠡᠰᠦᠯᠡᠬᠦ</unicode>
+      <cyrillic>хэрээдэслэх</cyrillic>
+      <definition>〔动〕绕线束，缠线团，绕线球，缠线卷.</definition>
+      <page>1492</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠷᠥᠺᠠᠳᠠᠰᠥᠯᠠᠺᠥ</unicode>
+      <cyrillic>ХЭРЭЭДЭСЛЭХ</cyrillic>
+      <definition>мотать, наматывать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠡᠷᠦᠭᠡᠳᠡᠰᠦᠯᠡᠬᠦ</unicode>
+      <cyrillic>хэрээдэслэх</cyrillic>
+      <definition>хэрээдэс үйлдэх, хэрдэслэх.</definition>
+      <page>766</page>
+    </entry_item>
+  </entries>
+</entry>

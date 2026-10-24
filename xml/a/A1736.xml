@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A1736">
+  <head>
+    <unicode>ᠠᠰᠠᠭᠣᠴᠠᠭᠠᠬᠣ</unicode>
+    <transcript>asaγučaγaqu</transcript>
+    <transcript2>asagocagago</transcript2>
+    <cyrillic>асууцгах</cyrillic>
+  </head>
+  <variants>
+    <variant type="cyrillic">асууцгаах</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠰᠠᠭᠣᠴᠠᠭᠠᠬᠣ</unicode>
+      <cyrillic>АСУУЦГАХ</cyrillic>
+      <definition>асуух–ын үйлдэлц., расспрашивать (о многих).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠰᠠᠭᠤᠵᠠᠭᠠᠬᠤ</unicode>
+      <cyrillic>асууцгаах</cyrillic>
+      <definition>〔动〕асуух 的众动态.</definition>
+      <page>85</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6976a">
+  <head>
+    <unicode>ᠰᠥᠷᠠᠯᠯᠠᠺᠥ</unicode>
+    <transcript>sürellekü</transcript>
+    <transcript2>sörellegö</transcript2>
+    <cyrillic>сүрэллэх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠦᠷᠡᠯᠯᠡᠬᠦ</unicode>
+      <cyrillic>сүрэллэх</cyrillic>
+      <definition>〔动〕打谷，打麦，取秸秆.</definition>
+      <page>976</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠦᠷᠡᠯᠯᠡᠬᠦ</unicode>
+      <cyrillic>сүрэллэх</cyrillic>
+      <definition>тарианы иш сүрлийг салгах.</definition>
+      <page>497</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S6976</ref>
+  </related_to>
+</entry>

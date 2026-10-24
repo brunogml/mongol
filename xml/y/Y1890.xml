@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1890">
+  <head>
+    <unicode>ᠵᠠᠷᠴᠢᠮᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰarčimlaγulqu</transcript>
+    <transcript2>yarcimlagolgo</transcript2>
+    <cyrillic>зарчимлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y1889</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠷᠴᠢᠮᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зарчимлуулах</cyrillic>
+      <definition>〔动〕①зарчимлах 的使动态；②意同 зарчимлагдах.</definition>
+      <page>549</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠷᠴᠢᠮᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗАРЧИМЛУУЛАХ</cyrillic>
+      <definition>зарчимлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠷᠴᠢᠮᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зарчимлуулах</cyrillic>
+      <definition>1. зарчимлахын үйлдүүлэх хэв;2. зарчимлагдах.</definition>
+      <page>269</page>
+    </entry_item>
+  </entries>
+</entry>

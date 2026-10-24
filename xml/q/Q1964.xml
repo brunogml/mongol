@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q1964">
+  <head>
+    <unicode>ᠬᠠᠯᠢᠯᠲᠣ</unicode>
+    <transcript>qaliltu</transcript>
+    <transcript2>galildo</transcript2>
+    <cyrillic>халилт</cyrillic>
+  </head><see_also>
+    <ref>Q1962</ref>
+  
+    <ref>Q1963</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠯᠢᠯᠳᠤ ~ ᠬᠠᠯᠢᠯᠳᠠᠢ</unicode>
+      <definition>ayant des rives escarpées, à rivages escarpés</definition>
+      <page>793</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠯᠢᠯᠳᠤ ᠬᠠᠲᠠᠨ</unicode>
+          <definition>roc, rocher escarpé</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1377">
+  <head>
+    <unicode>ᠲᠠᠰᠢᠮᠠᠭᠠᠶᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tasimaγayilaγulqu</transcript>
+    <transcript2>dasimagayilagolgo</transcript2>
+    <cyrillic>ташимгайлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T1375</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠰᠢᠮᠠᠭᠠᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ташимгайлуулах</cyrillic>
+      <definition>〔动〕ташимгайлах 的使动态.</definition>
+      <page>1044</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠰᠢᠮᠠᠭᠠᠶᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАШИМГАЙЛУУЛАХ</cyrillic>
+      <definition>ташимгайлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠰᠢᠮᠠᠭᠠᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ташимгайлуулах</cyrillic>
+      <definition>ташимгайлахын үйлдүүлэх хэв.</definition>
+      <page>529</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1939">
+  <head>
+    <unicode>ᠨᠣᠣᠷᠠᠬᠯᠠᠬᠣ</unicode>
+    <transcript>nouraγlaqu</transcript>
+    <transcript2>nooraglago</transcript2>
+    <cyrillic>ноороглох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>N1940</ref>
+    <ref>N1941</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠣᠣᠷᠠᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>ноороглох</cyrillic>
+      <definition>〔动〕起草，打草稿.</definition>
+      <page>748</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠣᠣᠷᠠᠬᠯᠠᠬᠣ</unicode>
+      <cyrillic>НООРОГЛОХ</cyrillic>
+      <definition>делать набросок, черновик. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠣᠣᠷᠠᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>ноороглох</cyrillic>
+      <definition>ноорог болгох; бичгийн эх ноороглох.</definition>
+      <page>382</page>
+    </entry_item>
+  </entries>
+</entry>

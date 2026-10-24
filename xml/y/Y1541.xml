@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1541">
+  <head>
+    <unicode>ᠶᠠᠺᠢᠷᠳᠠᠬᠣ</unicode>
+    <transcript>yakirdaqu</transcript>
+    <transcript2>yagirdago</transcript2>
+    <cyrillic>яхирдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1543</ref>
+    <ref>Y1544</ref>
+  </derivatives>
+  <see_also>
+    <ref>Y1542</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠠᠬᠢᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>яхирдах</cyrillic>
+      <definition>〔动〕挑剔，刁难，刁钻，吹毛求疵.</definition>
+      <page>1762</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠠᠺᠢᠷᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЯХИРДАХ</cyrillic>
+      <definition>быть слишком осторожным, капризничать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>яхирдах</cyrillic>
+      <definition>übervorsichtig od zu pingelig sein</definition>
+      <page>417</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠠᠬᠢᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>яхирдах</cyrillic>
+      <definition>хэтэрхий яхир болох.</definition>
+      <page>911</page>
+    </entry_item>
+  </entries>
+</entry>

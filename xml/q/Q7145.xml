@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q7145">
+  <head>
+    <unicode>ᠭᠣᠷᠪᠠᠯᠵᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>γurbalǰilaγulqu</transcript>
+    <transcript2>gorbalcilagolgo</transcript2>
+    <cyrillic>гурвалжлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q7144</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠤᠷᠪᠠᠯᠵᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гурвалжлуулах</cyrillic>
+      <definition>〔动〕 гурвалжлах 的使动态.</definition>
+      <page>330</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠷᠪᠠᠯᠵᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ГУРВАЛЖЛУУЛАХ</cyrillic>
+      <definition>гурвалжлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠤᠷᠪᠠᠯᠵᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гурвалжлуулах</cyrillic>
+      <definition>гурвалжлахын үйлдүүлэх хэв.</definition>
+      <page>160</page>
+    </entry_item>
+  </entries>
+</entry>

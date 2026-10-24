@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1006">
+  <head>
+    <unicode>ᠱᠠᠯᠬᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>šalqaγanaqu</transcript>
+    <transcript2>salgaganago</transcript2>
+    <cyrillic>шалхганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1008</ref>
+    <ref>S1009</ref>
+  </derivatives>
+  <see_also>
+    <ref>S1005</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠯᠬᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>шалхганах</cyrillic>
+      <definition>〔动〕参见 шалхалзах.</definition>
+      <page>1615</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠯᠬᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ШАЛХГАНАХ</cyrillic>
+      <definition>1) нависать, отвисать; быть слишком широким, болтаться; шалхалзах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шалхганах</cyrillic>
+      <definition>= шалхалзах</definition>
+      <page>379</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠯᠴᠢᠭᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>шалхганах</cyrillic>
+      <definition>шалхгар юмны шалхга шалхга хөдлөх.</definition>
+      <page>834</page>
+    </entry_item>
+  </entries>
+</entry>

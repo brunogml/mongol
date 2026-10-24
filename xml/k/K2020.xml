@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K2020">
+  <head>
+    <unicode>ᠺᠢᠯᠠᠰ</unicode>
+    <transcript>gilas</transcript>
+    <transcript2>gilas</transcript2>
+    <cyrillic>гялс</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠢᠯᠠᠰ</unicode>
+      <uighur>gilas</uighur>
+      <cyrillic>гялс</cyrillic>
+      <transcript>GILAS</transcript>
+      <definition>[=gilus] adv. With a flash.</definition>
+      <page>382</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠢᠯᠠᠰ ᠺᠢᠺᠦ</unicode>
+          <transcript>-- kiky</transcript>
+          <definition> To flash.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠢᠯᠠᠰ</unicode>
+      <cyrillic>гялс</cyrillic>
+      <definition>见 гялас.</definition>
+      <page>359</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠯᠠᠰ</unicode>
+      <cyrillic>ГЯЛС</cyrillic>
+      <definition>: гялс гялс хийх мерцать, сверкать. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

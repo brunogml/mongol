@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8789">
+  <head>
+    <unicode>ᠳᠥᠯᠥᠺᠥ</unicode>
+    <transcript>dölükü</transcript>
+    <transcript2>dölögö</transcript2>
+    <cyrillic>дөлөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T8793</ref>
+  </derivatives>
+  <see_also>
+    <ref>T8790</ref>
+    <ref>T8791</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠥᠯᠥᠺᠥ</unicode>
+      <uighur>döglükü</uighur>
+      <cyrillic>дөлөх</cyrillic>
+      <transcript>DØLY-</transcript>
+      <definition>v.i. To be timid, not to dare.</definition>
+      <page>267</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠯᠳᠠᠵᠤ ᠴᠢᠳᠠᠬᠤ ᠦᠭᠡᠢ ᠳᠥᠯᠥᠺᠥ</unicode>
+          <transcript>xaldazu cidaxu ygei –ky</transcript>
+          <definition> Not to dare to approach</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠥᠯᠥᠬᠦ</unicode>
+      <cyrillic>дөлөх</cyrillic>
+      <definition>〔动〕躲闪，畏避，逃避：халдаж чадахгүй ~ 不敢触犯而逃避.</definition>
+      <page>428</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠥᠯᠥᠺᠥ</unicode>
+      <cyrillic>ДӨЛӨХ</cyrillic>
+      <definition>робеть, стесняться; не осмеливаться; не решаться; избегать; халдаж чадахгүй дөлөх не осмеливаться подойти. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠥᠯᠥᠬᠦ</unicode>
+      <cyrillic>дөлөх</cyrillic>
+      <definition>юманд халж халдаж ядан зайцах, цэрвэх; ойртож чадахгүй дөлж байв; холуур дөлж явах.</definition>
+      <page>205</page>
+    </entry_item>
+  </entries>
+</entry>

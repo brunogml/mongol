@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T8373">
+  <head>
+    <unicode>ᠲᠥᠪᠠᠩ</unicode>
+    <transcript>töbeng</transcript>
+    <transcript2>döbeng</transcript2>
+    <cyrillic>төбөн</cyrillic>
+  </head><see_also>
+    <ref>T8373a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠥᠪᠠᠩ</unicode>
+      <uighur>töbeng</uighur>
+      <transcript>TØBENG</transcript>
+      <definition>See tøbyng.</definition>
+      <page>831</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠦᠪᠡᠩ ~ ᠲᠦᠪᠦᠨ</unicode>
+      <definition>gueule, gorge, larynx, organe digestif.</definition>
+      <page>1906</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠦᠪᠡᠩ ᠡᠪᠡᠳᠴᠢᠨ</unicode>
+          <definition>mal de gorge</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠦᠪᠡᠩ ᠳ᠋‍‍ᠤ‍ᠷ ᠵᠠᠯᠺᠢᠬᠤ</unicode>
+          <definition>avaler</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

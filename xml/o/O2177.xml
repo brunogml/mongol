@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O2177">
+  <head>
+    <unicode>ᠥᠷᠺᠠᠰᠺᠥ</unicode>
+    <transcript>örgeskü</transcript>
+    <transcript2>örgesgö</transcript2>
+    <cyrillic>өргөсөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>O2175</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠷᠭᠡᠰᠬᠦ</unicode>
+      <cyrillic>өргөсөх</cyrillic>
+      <definition>〔动〕参见 өргөтөх.</definition>
+      <page>858</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠷᠺᠠᠰᠺᠥ</unicode>
+      <cyrillic>ӨРГӨСӨХ</cyrillic>
+      <definition>расшириться; жалга өргөсөв овраг расширился; зам өргөсөв дорога расширилась; нүх өргөсөв отверстие расширилось. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠷᠭᠡᠰᠬᠦ</unicode>
+      <cyrillic>өргөсөх</cyrillic>
+      <definition>өргөдөх.</definition>
+      <page>444</page>
+    </entry_item>
+  </entries>
+</entry>

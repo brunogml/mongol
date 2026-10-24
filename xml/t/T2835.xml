@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2835">
+  <head>
+    <unicode>ᠳᠠᠷᠪᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>darbaγanaqu</transcript>
+    <transcript2>darbaganago</transcript2>
+    <cyrillic>дарваганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T2836</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠷᠪᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>дарваганах</cyrillic>
+      <definition>〔动〕见 даравганах.</definition>
+      <page>394</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠷᠪᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ДАРВАГАНАХ</cyrillic>
+      <definition>1) двигаться, шевелиться о чём-л. широком; 2) двигать, шевелить толстыми губами; 3) развеваться (по ветру). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дарваганах</cyrillic>
+      <definition>klaffen; sich zur Wulst wölben</definition>
+      <page>92</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠷᠪᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>даравганах</cyrillic>
+      <definition>даравгар юмны дарвага дарвага хөдлөх.</definition>
+      <page>188</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T2833</ref>
+  </related_to>
+</entry>

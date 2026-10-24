@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2502">
+  <head>
+    <unicode>ᠰᠠᠺᠥᠲᠠᠯᠵᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>segütelǰegülkü</transcript>
+    <transcript2>segödelcegölgö</transcript2>
+    <cyrillic>сүүтэлзүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S2500</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠭᠦᠲᠡᠯᠵᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сүүтэлзүүлэх</cyrillic>
+      <definition>〔动〕сүүтэлззх 的使动态.</definition>
+      <page>979</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠺᠥᠲᠠᠯᠵᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>СҮҮТЭЛЗҮҮЛЭХ</cyrillic>
+      <definition>сүүтэлзэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠭᠦᠲᠡᠯᠵᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сүүтэлзүүлэх</cyrillic>
+      <definition>сүүтэлзэхийн үйлдүүлэх хэв.</definition>
+      <page>498</page>
+    </entry_item>
+  </entries>
+</entry>

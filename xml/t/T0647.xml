@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0647">
+  <head>
+    <unicode>ᠲᠠᠭᠠᠷᠯᠠᠬᠣ</unicode>
+    <transcript>taγarlaqu</transcript>
+    <transcript2>dagarlago</transcript2>
+    <cyrillic>таарлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T0648</ref>
+    <ref>T0649</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠭᠠᠷᠯᠠᠬᠤ</unicode>
+      <cyrillic>таарлах</cyrillic>
+      <definition>〔动〕①装入粗麻袋；②（用粗布、粗麻布）盖上，蒙上.</definition>
+      <page>1002</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠭᠠᠷᠯᠠᠬᠣ</unicode>
+      <cyrillic>ТААРЛАХ</cyrillic>
+      <definition>заворачивать что-л. в дерюгу, класть что-л. в мешок из дерюги. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠭᠠᠷᠯᠠᠬᠤ</unicode>
+      <cyrillic>таарлах</cyrillic>
+      <definition>таараар бүрэх, таар хүүдийд хийх.</definition>
+      <page>509</page>
+    </entry_item>
+  </entries>
+</entry>

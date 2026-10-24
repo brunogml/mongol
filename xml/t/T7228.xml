@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7228">
+  <head>
+    <unicode>ᠲᠣᠮᠪᠠᠯᠠᠶᠢᠳᠠᠬᠣ</unicode>
+    <transcript>tumbalayidaqu</transcript>
+    <transcript2>dombalayidago</transcript2>
+    <cyrillic>тумбалайдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T7229</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠮᠪᠠᠯᠠᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>тумбалайдах</cyrillic>
+      <definition>〔动〕参见 тумлайдах.</definition>
+      <page>1112</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠮᠪᠠᠯᠠᠶᠢᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТУМБАЛАЙДАХ</cyrillic>
+      <definition>тумлайдах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠮᠪᠠᠯᠠᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>тумбалайдах</cyrillic>
+      <definition>тумлайдах.</definition>
+      <page>556</page>
+    </entry_item>
+  </entries>
+</entry>

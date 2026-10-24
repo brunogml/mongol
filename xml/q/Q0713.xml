@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0713">
+  <head>
+    <unicode>ᠬᠠᠭᠣᠯᠪᠣᠷᠢᠯᠠᠬᠣ</unicode>
+    <transcript>qaγulburilaqu</transcript>
+    <transcript2>gagolborilago</transcript2>
+    <cyrillic>хуулбарлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q0715</ref>
+    <ref>Q0718</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠭᠤᠯᠪᠤᠷᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>хуулбарлах</cyrillic>
+      <definition>〔动〕①抄录，照抄，抄写，抄袭；复印，复制：~ газар 翻印室，复印室；~ негативын арга 底版复制法；~ хүрээ 描图框；②模仿，仿照，摹拟.</definition>
+      <page>1442</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠭᠣᠯᠪᠣᠷᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХУУЛБАРЛАХ</cyrillic>
+      <definition>копировать; дублировать; калькировать; хуулбарлан зохиох калькирование. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хуулбарлах</cyrillic>
+      <definition>kopieren, reproduzieren; dublieren; entlehnen</definition>
+      <page>331</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠭᠤᠯᠪᠤᠷᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>хуулбарлах</cyrillic>
+      <definition>хуулж буулгах.</definition>
+      <page>737</page>
+    </entry_item>
+  </entries>
+</entry>

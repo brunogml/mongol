@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3073">
+  <head>
+    <unicode>ᠴᠣᠮᠬᠠᠨ</unicode>
+    <transcript>čomqan</transcript>
+    <transcript2>comgan</transcript2>
+    <cyrillic>цумхан</cyrillic>
+  </head>
+  <see_also>
+    <ref>C3074</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠤᠮᠬᠠᠨ</unicode>
+      <cyrillic>цумхан</cyrillic>
+      <definition>〔形〕见 цомхон.</definition>
+      <page>1550</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠮᠬᠠᠨ</unicode>
+      <cyrillic>ЦУМХАН</cyrillic>
+      <definition>цомхон-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠤᠮᠬᠠᠨ</unicode>
+      <cyrillic>цумхан</cyrillic>
+      <definition>цомхон, авсаархан.</definition>
+      <page>798</page>
+    </entry_item>
+  </entries>
+</entry>

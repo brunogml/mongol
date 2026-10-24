@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1275">
+  <head>
+    <unicode>ᠣᠰᠬᠣᠷᠲᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>osqurtuγulqu</transcript>
+    <transcript2>osgordogolgo</transcript2>
+    <cyrillic>осгортуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U1274</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠰᠬᠣᠷᠲᠣᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>осгортуулах</cyrillic>
+      <definition>〔动〕осгортох 的使动态.</definition>
+      <page>825</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠰᠬᠣᠷᠲᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ОСГОРТУУЛАХ</cyrillic>
+      <definition>осгортох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠰᠬᠣᠷᠲᠣᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>осгортуулах</cyrillic>
+      <definition>осгортохын үйлдүүлэх хэв.</definition>
+      <page>426</page>
+    </entry_item>
+  </entries>
+</entry>

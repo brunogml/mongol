@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1369">
+  <head>
+    <unicode>ᠴᠢᠨᠠᠬᠰᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>činaγsidaγulqu</transcript>
+    <transcript2>cinagsidagolgo</transcript2>
+    <cyrillic>чанагшдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C1368</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠨᠠᠭᠰᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>чанагшдуулах</cyrillic>
+      <definition>〔动〕чанагшдах 的使动态.</definition>
+      <page>1577</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠨᠠᠬᠰᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЧАНАГШДУУЛАХ</cyrillic>
+      <definition>чанагшдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠨᠠᠭᠰᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>чанагшдуулах</cyrillic>
+      <definition>чанагшдахын үйлдүүлэх хэв.</definition>
+      <page>813</page>
+    </entry_item>
+  </entries>
+</entry>

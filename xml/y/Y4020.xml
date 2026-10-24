@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4020">
+  <head>
+    <unicode>ᠵᠣᠬᠰᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰoγsuγulqu</transcript>
+    <transcript2>yogsogolgo</transcript2>
+    <cyrillic>зогсуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y4019</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠣᠭᠰᠣᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зогсуулах</cyrillic>
+      <definition>〔动〕参见 зогсоох.</definition>
+      <page>556</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠬᠰᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗОГСУУЛАХ</cyrillic>
+      <definition>зогсоох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зогсуулах</cyrillic>
+      <definition>Kaus von зогсох</definition>
+      <page>120</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠣᠭᠰᠣᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зогсуулах</cyrillic>
+      <definition>зогсоход хүрүүлэх, зогсоох.</definition>
+      <page>273</page>
+    </entry_item>
+  </entries>
+</entry>

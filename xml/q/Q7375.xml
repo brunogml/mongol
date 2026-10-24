@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q7375">
+  <head>
+    <unicode>ᠭᠣᠸᠠᠩᠵᠠᠳᠠᠬᠣ</unicode>
+    <transcript>γuvangǰadaqu</transcript>
+    <transcript2>govangcadago</transcript2>
+    <cyrillic>гуанздах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q7376</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠸᠠᠩᠵᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>ГУАНЗДАХ</cyrillic>
+      <definition>яриа. 1. питаться, есть в столовой, ресторане; 2. столованье. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гуанздах</cyrillic>
+      <definition>ein Lokal od Restaurant besuchen, einkehren</definition>
+      <page>80</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠤᠸᠠᠩᠵᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>гуанздах /1</cyrillic>
+      <definition>гуанзанд орж хооллох, хоол идэх.</definition>
+      <page>155</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠤᠸᠠᠨᠵᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>гуанздах /2</cyrillic>
+      <definition>гуанз хөгжим дуугаргах.</definition>
+      <page>155</page>
+    </entry_item>
+  </entries>
+</entry>

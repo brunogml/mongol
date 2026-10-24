@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2763">
+  <head>
+    <unicode>ᠴᠣᠬᠯᠠᠪᠣᠷᠢ</unicode>
+    <transcript>čuγlaburi</transcript>
+    <transcript2>coglabori</transcript2>
+    <cyrillic>цуглавар</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C2761</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠤᠭᠯᠠᠪᠤᠷᠢ</unicode>
+      <cyrillic>цуглавар</cyrillic>
+      <definition>〔名〕聚合物，汇集物，集合物.</definition>
+      <page>1547</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠬᠯᠠᠪᠣᠷᠢ</unicode>
+      <cyrillic>ЦУГЛАВАР</cyrillic>
+      <definition>что-либо собранное вместе; собрание чего-л. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠤᠭᠯᠠᠪᠤᠷᠢ</unicode>
+      <cyrillic>цуглавар</cyrillic>
+      <definition>цугласан юм.</definition>
+      <page>797</page>
+    </entry_item>
+  </entries>
+</entry>

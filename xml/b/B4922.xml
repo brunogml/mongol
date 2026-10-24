@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B4922">
+  <head>
+    <unicode>ᠪᠥᠺᠺᠥᠮᠠᠯ</unicode>
+    <transcript>büggümel</transcript>
+    <transcript2>böggömel</transcript2>
+    <cyrillic>бүгмэл</cyrillic>
+  </head>
+  <variants>
+    <variant type="cyrillic">бүгэмэл</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠦᠭᠭᠦᠮᠡᠯ</unicode>
+      <cyrillic>бүгмэл</cyrillic>
+      <definition>〔形〕埋伏的，潜伏的.</definition>
+      <page>222</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠺᠺᠥᠮᠠᠯ</unicode>
+      <cyrillic>БҮГМЭЛ</cyrillic>
+      <definition>скрытый.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠦᠭᠭᠦᠮᠡᠯ</unicode>
+      <cyrillic>бүгэмэл</cyrillic>
+      <definition>〔形〕埋伏的，潜伏的，隐藏的.</definition>
+      <page>223</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1191">
+  <head>
+    <unicode>ᠪᠠᠶᠢᠪᠠᠩᠳᠠᠬᠣ</unicode>
+    <transcript>bayibangdaqu</transcript>
+    <transcript2>bayibangdago</transcript2>
+    <cyrillic>байвандах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B1192</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠢᠪᠠᠩᠳᠠᠬᠤ</unicode>
+      <cyrillic>байвандах</cyrillic>
+      <definition>〔动〕（用明矾水）擦，涂擦，擦亮.</definition>
+      <page>113</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠶᠢᠪᠠᠩᠳᠠᠬᠣ</unicode>
+      <cyrillic>БАЙВАНДАХ</cyrillic>
+      <definition>натирать раствором купороса, чистить купоросом.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠢᠹᠠᠩᠳᠠᠬᠤ</unicode>
+      <cyrillic>байвандах</cyrillic>
+      <definition>юмыг байвантай усанд буцалгаж өнгө оруулах.</definition>
+      <page>67</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>B1190</ref>
+  </related_to>
+</entry>

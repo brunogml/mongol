@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4319">
+  <head>
+    <unicode>ᠵᠣᠯᠠᠷᠠᠬᠣ</unicode>
+    <transcript>ǰularaqu</transcript>
+    <transcript2>yolarago</transcript2>
+    <cyrillic>зулрах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y4320</ref>
+    <ref>Y4322</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠣᠯᠠᠷᠠᠬᠣ</unicode>
+      <uighur>ǰularaqu</uighur>
+      <cyrillic>зулрах</cyrillic>
+      <transcript>ZULARA-</transcript>
+      <definition>v. i. To swerve.</definition>
+      <page>1078</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠣᠷᠢ ᠵᠣᠯᠠᠷᠠᠬᠣ</unicode>
+          <transcript>mori --xu</transcript>
+          <definition> For a horse to swerve.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠤᠯᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>зулрах</cyrillic>
+      <definition>〔动〕①逃跑，跑掉；②丢失，丢掉，消失.</definition>
+      <page>576</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠯᠠᠷᠠᠬᠣ</unicode>
+      <cyrillic>ЗУЛРАХ</cyrillic>
+      <definition>1) убегать, удирать, обращаться в бегство; 2) сбиваться с правильного пути, сбиваться с толку. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠤᠯᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>зулрах</cyrillic>
+      <definition>1. зайлах, зугадах; хүрэн морь зулран зугадав;2. гулрах, явдлаа алдах, завхрах; нэгмөсөн зуларсан амьтан болжээ.</definition>
+      <page>284</page>
+    </entry_item>
+  </entries>
+</entry>

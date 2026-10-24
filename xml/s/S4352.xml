@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S4352">
+  <head>
+    <unicode>ᠰᠢᠺᠥᠯ</unicode>
+    <transcript>sigül</transcript>
+    <transcript2>sigöl</transcript2>
+    <cyrillic>шүүл</cyrillic>
+  </head><related_to>
+    <ref>S2944</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠭᠦᠯ ᠦᠭᠡᠺᠦᠢ᠎ᠡ</unicode>
+      <definition>sans l'investigation, sans forme de procès,</definition>
+      <page>1514</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠺᠥᠯ</unicode>
+      <cyrillic>ШҮҮЛГҮЙ</cyrillic>
+      <definition>без рассмотрения, без расследования, без суда. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

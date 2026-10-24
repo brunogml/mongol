@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="V0024">
+  <head>
+    <unicode>ᠸᠠᠭᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>vaγalaγulqu</transcript>
+    <transcript2>vagalagolgo</transcript2>
+    <cyrillic>ваалуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>V0023</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠸᠠᠭᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ваалуулах</cyrillic>
+      <definition>〔动〕ваалах 的使动态.</definition>
+      <page>255</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠸᠠᠭᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ВААЛУУЛАХ</cyrillic>
+      <definition>ваалах I, II-ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>ваалуулах</cyrillic>
+      <definition>Kaus von ваалах</definition>
+      <page>70</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠸᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ваалуулах</cyrillic>
+      <definition>ваалахын үйлдүүлэх хэв.</definition>
+      <page>126</page>
+    </entry_item>
+  </entries>
+</entry>

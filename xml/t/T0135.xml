@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0135">
+  <head>
+    <unicode>ᠳᠠᠩᠨᠠᠭᠠᠰᠣᠯᠠᠬᠣ</unicode>
+    <transcript>dangnaγasulaqu</transcript>
+    <transcript2>dangnagasolago</transcript2>
+    <cyrillic>дагнааслах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T0136</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠩᠨᠠᠭᠠᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>дагнааслах</cyrillic>
+      <definition>〔动〕画彩色线条，蚀镂.</definition>
+      <page>374</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠩᠨᠠᠭᠠᠰᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ДАГНААСЛАХ</cyrillic>
+      <definition>разрисовывать, класть разноцветные узоры. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дагнааслах</cyrillic>
+      <definition>den Spektralbereich einer Farbe malen</definition>
+      <page>88</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠩᠨᠠᠭᠠᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>дагнааслах</cyrillic>
+      <definition>дагнаас гаргаж будаж.</definition>
+      <page>179</page>
+    </entry_item>
+  </entries>
+</entry>

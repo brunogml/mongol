@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1889">
+  <head>
+    <unicode>ᠨᠢᠷᠪᠠ</unicode>
+    <transcript>nirba</transcript>
+    <transcript2>nirba</transcript2>
+    <cyrillic>нярав</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠨᠢᠷᠪᠠ</unicode>
+      <uighur>nirba</uighur>
+      <cyrillic>нярав - нярва</cyrillic>
+      <transcript>NIRBA</transcript>
+      <definition>[T. nyer pa , storekeeper, steward] n. Cashier, bookkeepér. steward (usually in a monastery)</definition>
+      <page>585</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠠᠷᠠᠭᠠᠨ ᠤ ᠨᠢᠷᠪᠠ</unicode>
+          <transcript>baraγn u -- </transcript>
+          <definition> Storekeeper</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠥᠩᠭᠦᠨ ᠤ ᠨᠢᠷᠪᠠ</unicode>
+          <transcript>mønggyn y --</transcript>
+          <definition> Treasurer</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠨᠢᠷᠪᠠ</unicode>
+      <definition>intendant, inspecteur</definition>
+      <page>673</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠢᠷᠪᠠ</unicode>
+      <cyrillic>нярав</cyrillic>
+      <definition>〔名〕出纳员；保管员：мөнгөний ~ 出纳员；барааны ~ 保管员；~ хийх 搞出纳工作；从事保管工作.</definition>
+      <page>783</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠢᠷᠪᠠ</unicode>
+      <cyrillic>НЯРАВ</cyrillic>
+      <definition>тө. казначей; кассир; управляющий, смотритель, завхоз; барааны нярав / агуулахын нярав кладовщик; мөнгөний нярав кассир; угаашийн нярав / цагаан хэрэглэлийн нярав кастелянша; эдийн нярав заведующий хозяйством, завхоз; нярав хийх / нярав суух работать казначеем, кассиром, кладовщиком; гүзээ ихт нь нярав болно зүйр. большебрюхий монастырским казначеем будет. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>нярав</cyrillic>
+      <definition>Verwalter m; Kassierer m; Mil Zahlmeister m; hist Schatzmeister m; барааны ~ Lagerverwalter m</definition>
+      <page>166</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠢᠷᠪᠠ</unicode>
+      <cyrillic>нярав</cyrillic>
+      <definition>эд хогшил, хөрөнгө зөөрийн эрхлэгч, сан хадгалагч; барааны нярав; мөнгөний нярав.</definition>
+      <page>403</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>N1890</ref>
+    <ref>N1892a</ref>
+    <ref>N1892b</ref>
+  </derivatives>
+</entry>

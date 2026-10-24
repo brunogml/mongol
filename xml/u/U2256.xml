@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2256">
+  <head>
+    <unicode>ᠣᠶᠠᠯᠭᠠᠯᠠᠬᠣ</unicode>
+    <transcript>uyalγalaqu</transcript>
+    <transcript2>oyalgalago</transcript2>
+    <cyrillic>уялгалах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠶᠠᠯᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>уялгалах</cyrillic>
+      <definition>〔动〕撰写引言，写序言，写前言.</definition>
+      <page>1222</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠶᠠᠯᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>УЯЛГАЛАХ</cyrillic>
+      <definition>кратко трактовать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠶᠠᠯᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>уялгалах</cyrillic>
+      <definition>бичиг зохиолын өмнө хураангуй үг сэдэвлэн гаргах.</definition>
+      <page>611</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>U2253</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0591">
+  <head>
+    <unicode>ᠮᠠᠯᠯᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>mallaγdaqu</transcript>
+    <transcript2>mallagdago</transcript2>
+    <cyrillic>маллагдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>M0589</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠯᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>маллагдах</cyrillic>
+      <definition>〔动〕маллах 的被动态.</definition>
+      <page>657</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠯᠯᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>МАЛЛАГДАХ</cyrillic>
+      <definition>маллах II-ын үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠯᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>маллагдах</cyrillic>
+      <definition>маллахын үйлдэгдэх хэв, маллуулах.</definition>
+      <page>328</page>
+    </entry_item>
+  </entries>
+</entry>

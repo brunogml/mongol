@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4096">
+  <head>
+    <unicode>ᠺᠥᠯᠰᠡᠺ</unicode>
+    <transcript>kölseg</transcript>
+    <transcript2>gölseg</transcript2>
+    <cyrillic>хөлсөг</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠯᠰᠡᠭ</unicode>
+      <cyrillic>хөлсөг</cyrillic>
+      <definition>〔形〕热闹的，喧闹的，熙熙攘攘的；騷乱的，杂乱的.</definition>
+      <page>1396</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠯᠰᠡᠺ</unicode>
+      <cyrillic>ХӨЛСӨГ</cyrillic>
+      <definition>оживлённый, людный, шумный; хөлсөг газар людное место. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠯᠰᠡᠭ</unicode>
+      <cyrillic>хөлсөг</cyrillic>
+      <definition>хөл үймээн ихтэй, хөлөрхүү.</definition>
+      <page>709</page>
+    </entry_item>
+  </entries>
+</entry>

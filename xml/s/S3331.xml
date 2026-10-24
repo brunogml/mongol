@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S3331">
+  <head>
+    <unicode>ᠰᠢᠬᠣᠢ</unicode>
+    <transcript>siqui</transcript>
+    <transcript2>sigoi</transcript2>
+    <cyrillic>шохой</cyrillic>
+  </head><see_also>
+    <ref>S5187</ref>
+  
+    <ref>S3332</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠬᠣᠢ</unicode>
+      <uighur>siqoi</uighur>
+      <cyrillic>шохой</cyrillic>
+      <transcript>SIXUI</transcript>
+      <definition>[= šoxui = coxui] n. Lime, chalk.</definition>
+      <page>722</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠬᠣᠢ ᠎ᠶᠢᠨ ᠴᠢᠯᠠᠭᠤ</unicode>
+          <transcript>-- jin cilavu</transcript>
+          <definition> Limestone.</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠠᠯᠳᠠᠭᠰᠠᠨ ᠰᠢᠬᠣᠢ</unicode>
+          <transcript>γaldaγsan -- </transcript>
+          <definition> Air-slaked lime, burned lime.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠦᠭᠦᠺᠡᠯ ᠰᠢᠬᠣᠢ</unicode>
+          <transcript>tygykel -- </transcript>
+          <definition> Limestone; chalk-stone.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠬᠣᠢ</unicode>
+      <definition>chaux.</definition>
+      <page>1468</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠬᠣᠢ</unicode>
+      <cyrillic>ШОХОЙ</cyrillic>
+      <definition>известь; мел; штукатурка; болсон шохой гашёная известь; галдсан шохой гашёная известь; түлмэл шохой жжёная известь; түүхий шохой негашённая известь; хахуун шохой едкая, гашёная известь; хлорийн шохой хлорная известь; цагаан шохой мел; шохой шатаах выжечь известь; шохойгоор бичих писать мелом. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

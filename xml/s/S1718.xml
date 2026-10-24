@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1718">
+  <head>
+    <unicode>ᠰᠠᠷᠢᠰᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sarisulaγulqu</transcript>
+    <transcript2>sarisolagolgo</transcript2>
+    <cyrillic>сарьслуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S1717</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠷᠢᠰᠤᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сарьслуулах</cyrillic>
+      <definition>〔动〕сарьслах 的使动态.</definition>
+      <page>921</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠷᠢᠰᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>САРЬСЛУУЛАХ</cyrillic>
+      <definition>сарьслах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сарьслуулах</cyrillic>
+      <definition>Kaus von сарьслах</definition>
+      <page>197</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠷᠢᠰᠤᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сарьслуулах</cyrillic>
+      <definition>сарьслахын үйлдүүлэх хэв.</definition>
+      <page>472</page>
+    </entry_item>
+  </entries>
+</entry>

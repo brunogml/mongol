@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="V0031">
+  <head>
+    <unicode>ᠸᠠᠭᠠᠷᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>vaγarlaγulqu</transcript>
+    <transcript2>vagarlagolgo</transcript2>
+    <cyrillic>ваарлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>V0030</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠸᠠᠭᠠᠷᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ваарлуулах</cyrillic>
+      <definition>〔动〕ваарлах 的使动态.</definition>
+      <page>255</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠸᠠᠭᠠᠷᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ВААРЛУУЛАХ</cyrillic>
+      <definition>ваарлах-ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠸᠠᠭᠠᠷᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>ваарлуулах</cyrillic>
+      <definition>ваарлахын үйлдүүлэх хэв.</definition>
+      <page>126</page>
+    </entry_item>
+  </entries>
+</entry>

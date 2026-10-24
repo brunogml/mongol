@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C2647">
+  <head>
+    <unicode>ᠴᠣᠭᠣᠵᠢ</unicode>
+    <transcript>čoγuǰi</transcript>
+    <transcript2>cogoci</transcript2>
+    <cyrillic>цоож</cyrillic>
+  </head><see_also>
+    <ref>C2441</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠣᠭᠣᠵᠢ</unicode>
+      <uighur>čoγuǰi</uighur>
+      <cyrillic>цоож</cyrillic>
+      <transcript>COΓUZI</transcript>
+      <definition>[= couzi] n. Lock</definition>
+      <page>196</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠠᠮᠠᠭ ᠴᠣᠭᠣᠵᠢ</unicode>
+          <transcript>zamaγ -- </transcript>
+          <definition>Gun lock</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠤᠭᠤᠵᠢ ~ ᠴᠣᠣᠵᠢ ~ ᠴᠣᠷᠭ᠎ᠠ</unicode>
+      <definition>une serrure</definition>
+      <page>2199</page>
+    </entry_item>
+  </entries>
+</entry>

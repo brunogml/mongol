@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1856">
+  <head>
+    <unicode>ᠲᠠᠯᠪᠢᠭᠣᠳᠠᠬᠣ</unicode>
+    <transcript>talbiγudaqu</transcript>
+    <transcript2>dalbigodago</transcript2>
+    <cyrillic>талбиудах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1858</ref>
+    <ref>T1859</ref>
+  </derivatives>
+  <see_also>
+    <ref>T1857</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠯᠪᠢᠭᠣᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТАВИУДАХ</cyrillic>
+      <definition>быть слљшком широким, просторным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠯᠪᠢᠭᠣᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТАЛБИУДАХ</cyrillic>
+      <definition>быть широким, обшљрным, свободным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠯᠪᠢᠭᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>тавиудах</cyrillic>
+      <definition>хэтэрхий тавиу болох.</definition>
+      <page>511</page>
+    </entry_item>
+  </entries>
+</entry>

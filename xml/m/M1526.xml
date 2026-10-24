@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1526">
+  <head>
+    <unicode>ᠮᠣᠨᠣᠬᠯᠠᠬᠣ</unicode>
+    <transcript>munuγlaqu</transcript>
+    <transcript2>monoglago</transcript2>
+    <cyrillic>мунаглах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M1527</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠤᠨᠤᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>мунаглах</cyrillic>
+      <definition>〔动〕老糊涂，老昏，老朽.</definition>
+      <page>694</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠨᠣᠬᠯᠠᠬᠣ</unicode>
+      <cyrillic>МУНАГЛАХ</cyrillic>
+      <definition>1) дряхлеть, впадать в детство, выживать из ума; 2) пылать похотью. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠤᠨᠤᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>мунаглах</cyrillic>
+      <definition>1. зөнөглөх;2. буруугаар өтлөх.</definition>
+      <page>349</page>
+    </entry_item>
+  </entries>
+</entry>

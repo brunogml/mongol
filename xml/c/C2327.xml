@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2327">
+  <head>
+    <unicode>ᠴᠢᠷᠥᠺᠥᠯᠺᠥ</unicode>
+    <transcript>čirügülkü</transcript>
+    <transcript2>cirögölgö</transcript2>
+    <cyrillic>чирүүлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C2331</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠷᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>чирүүлэх</cyrillic>
+      <definition>〔动〕①чирэх 的使动态；②意同 чирэгдэх.</definition>
+      <page>1592</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠷᠥᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЧИРҮҮЛЭХ</cyrillic>
+      <definition>чирэх-ийн үйлдүүл., втягивать, тащить. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠷᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>чирүүлэх</cyrillic>
+      <definition>1. чирэхийн үйлдүүлэх хэв;2. чирэгдэх.</definition>
+      <page>820</page>
+    </entry_item>
+  </entries>
+</entry>

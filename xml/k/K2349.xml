@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K2349">
+  <head>
+    <unicode>ᠺᠢᠮᠰᠠᠭᠠᠷᠳᠠᠬᠣ</unicode>
+    <transcript>kimsaγardaqu</transcript>
+    <transcript2>gimsagardago</transcript2>
+    <cyrillic>хямсгардах</cyrillic>
+  </head>
+  <see_also>
+    <ref>K2350</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠢᠮᠰᠠᠭᠠᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>хямсгардах</cyrillic>
+      <definition>〔动〕变得过于自高自大、过于傲慢、目中无人.</definition>
+      <page>1502</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠮᠰᠠᠭᠠᠷᠳᠠᠬᠣ</unicode>
+      <cyrillic>ХЯМСГАРДАХ</cyrillic>
+      <definition>быть слишком надменным, кичливым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠢᠮᠰᠠᠭᠠᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>хямсгардах</cyrillic>
+      <definition>хэтэрхий хямсгар болох.</definition>
+      <page>772</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>K2347</ref>
+  </related_to>
+  <derivatives>
+    <ref>K2350</ref>
+  </derivatives>
+</entry>

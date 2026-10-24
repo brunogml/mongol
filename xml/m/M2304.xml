@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M2304">
+  <head>
+    <unicode>ᠮᠥᠴᠢᠷᠺᠠᠺᠥ</unicode>
+    <transcript>möčirkekü</transcript>
+    <transcript2>möcirgegö</transcript2>
+    <cyrillic>мөчирхөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M2302</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠥᠴᠢᠷᠬᠡᠬᠦ</unicode>
+      <cyrillic>мөчирхөх</cyrillic>
+      <definition>〔动〕炫耀自己的四肢长，夸耀自己个子高.</definition>
+      <page>691</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠥᠴᠢᠷᠺᠠᠺᠥ</unicode>
+      <cyrillic>МӨЧИРХӨХ</cyrillic>
+      <definition>превосходить ростом, иметь преимущество в росте, длине конечностей. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠥᠴᠢᠷᠬᠡᠬᠦ</unicode>
+      <cyrillic>мөчирхөх</cyrillic>
+      <definition>мөчирхөг байдлаа гайхуулах, мөчирхөг байдлаараа давуурхах, мөч чац сайтай.</definition>
+      <page>347</page>
+    </entry_item>
+  </entries>
+</entry>

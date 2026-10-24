@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1524">
+  <head>
+    <unicode>ᠪᠠᠷᠣᠷᠠ</unicode>
+    <transcript>barura</transcript>
+    <transcript2>barora</transcript2>
+    <cyrillic>барур</cyrillic>
+  </head>
+  <variants>
+    <variant type="cyrillic">барүр</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠠᠷᠣᠷᠠ ~ ᠪᠠᠷᠣᠷ᠎ᠠ</unicode>
+      <definition>arbre, myrobolan beleri,1 terminalia belerica,</definition>
+      <page>1108</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠷᠤᠷ᠎ᠠ</unicode>
+      <cyrillic>барур</cyrillic>
+      <definition>见 ~ цэцг 〈植〉楝花.</definition>
+      <page>138</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠷᠣᠷᠠ</unicode>
+      <cyrillic>БАРУР</cyrillic>
+      <definition>ург. дерево Мелиа; барурын цэцэг цветы дерева Мелиа (из которых добывается сырьё для выделки бельевого мыла).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠷᠤᠷ᠎ᠠ</unicode>
+      <cyrillic>барүр</cyrillic>
+      <definition>〔名〕〈植〉楝子：~ цэцэг 楝花.</definition>
+      <page>139</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠷᠤᠷ᠎ᠠ</unicode>
+      <cyrillic>барур</cyrillic>
+      <definition>&lt;ургамал&gt;ус шороо тохирсон дулаан газар ургадаг мод; үр нь мөхлөг, амт эхүүн, дотроо хар хальстай тослог идээтэй эмэнд хэрэглэнэ.</definition>
+      <page>78</page>
+    </entry_item>
+  </entries>
+</entry>

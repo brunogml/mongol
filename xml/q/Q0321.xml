@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0321">
+  <head>
+    <unicode>ᠭᠠᠩᠭᠠᠮᠰᠣᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>γangγamsuγlaγulqu</transcript>
+    <transcript2>ganggamsoglagolgo</transcript2>
+    <cyrillic>гангамсаглуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q0320</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠠᠩᠭᠠᠮᠰᠤᠭᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гангамсаглуулах</cyrillic>
+      <definition>〔动〕гангамсаглах 的使动态.</definition>
+      <page>276</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠩᠭᠠᠮᠰᠣᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ГАНГАМСАГЛУУЛАХ</cyrillic>
+      <definition>гангамсаглах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠠᠩᠭᠠᠮᠰᠤᠭᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гангамсаглуулах</cyrillic>
+      <definition>гангамсаглахын үйлдүүлэх хэв.</definition>
+      <page>136</page>
+    </entry_item>
+  </entries>
+</entry>

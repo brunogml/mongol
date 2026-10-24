@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I1202">
+  <head>
+    <unicode>ᠢᠷᠪᠠᠭᠠᠨᠠᠭᠣᠷ</unicode>
+    <transcript>irbaγanaγur</transcript>
+    <transcript2>irbaganagor</transcript2>
+    <cyrillic>ярвагануур</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠷᠪᠠᠭᠠᠨᠠᠭᠤᠷ</unicode>
+      <cyrillic>ярвагануур</cyrillic>
+      <definition>〔形〕①作怪相的，作鬼脸的；②自高自大的，目空一切的.</definition>
+      <page>1756</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠷᠪᠠᠭᠠᠨᠠᠭᠣᠷ</unicode>
+      <cyrillic>ЯРВАГАНУУР</cyrillic>
+      <definition>1. гримасник; 2. шилж. высокомерный, надменный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠷᠪᠠᠭᠠᠨᠠᠭᠤᠷ</unicode>
+      <cyrillic>яравгануур</cyrillic>
+      <definition>их зантай. яравгар.</definition>
+      <page>908</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>I1200</ref>
+  </related_to>
+</entry>

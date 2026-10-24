@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B5027">
+  <head>
+    <unicode>ᠪᠥᠷᠲᠥᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>börtügenekü</transcript>
+    <transcript2>bördögenegö</transcript2>
+    <cyrillic>бөртөгнөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B5028</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠷᠲᠥᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>бөртөгнөх</cyrillic>
+      <definition>〔动〕①朦胧不清：голын наагуур хүн ~ 、н хөдөлж байв 河这边人影若隐若现地晃动；②暗中出现.</definition>
+      <page>192</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠷᠲᠥᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>БӨРТГӨНӨХ</cyrillic>
+      <definition>мелькать; шевелиться; неясно виднеться в темноте; рябить, пестрить (в глазах от движения предмета); алсад нэг юм бөртөгнөнө вдали что-то мелькает. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бөртөгнөх,</cyrillic>
+      <definition>бөртөлзөх etw. undeutlich zu Erkennendes sich (schemenhaft) bewegen</definition>
+      <page>59</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠥᠷᠲᠥᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>бөртөгнөх</cyrillic>
+      <definition>бөртгөр юмны үргэлжлэн хөдлөх буюу нүдэнд үзэгдэх эсэхийн төдий харагдах; голын наагуур хүн бөртөгнөн хөдөлж байв.</definition>
+      <page>100</page>
+    </entry_item>
+  </entries>
+</entry>

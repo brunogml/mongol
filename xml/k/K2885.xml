@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K2885">
+  <head>
+    <unicode>ᠭᠦᠢᠴᠡᠰᠢ</unicode>
+    <transcript>güičesi</transcript>
+    <transcript2>göicesi</transcript2>
+    <cyrillic>гүйцэш</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠥᠢᠴᠡᠰᠢ</unicode>
+      <uighur>güičesi</uighur>
+      <cyrillic>гүйцэш</cyrillic>
+      <transcript>GYICESI</transcript>
+      <page>390</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠥᠢᠴᠡᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- yget</transcript>
+          <definition>Unattainable, unrealizable, infeasible, inexhaustible, interminable.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠦᠢᠴᠡᠰᠢ ᠦᠭᠡᠢ</unicode>
+      <definition>inabordable , inaccessible, incompréhensible, inexécutable,</definition>
+      <page>2561</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠡᠯᠡᠵᠦ ᠭᠦᠢᠴᠡᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <definition>ineffable, indicible, inénarrable</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠢᠴᠡᠰᠢ</unicode>
+      <cyrillic>ГҮЙЦЭШГҮЙ</cyrillic>
+      <definition>1. недостижимый, невыполнимый; 2. недостижимо, невыполнимо.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

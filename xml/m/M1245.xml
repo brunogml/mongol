@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1245">
+  <head>
+    <unicode>ᠮᠠᠷᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>meregülkü</transcript>
+    <transcript2>meregölgö</transcript2>
+    <cyrillic>мэрүүлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M1234</ref>
+  </derivatives>
+  <related_to>
+    <ref>M1244</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠡᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>мэрүүлэх</cyrillic>
+      <definition>〔动〕①мэрэх 的使动态；②意同 мэрэгдэх.</definition>
+      <page>707</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠷᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>МЭРҮҮЛЭХ</cyrillic>
+      <definition>мэрэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠡᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>мэрүүлэх</cyrillic>
+      <definition>1. мэрэхийн үйлдүүлэх хэв;2. мэрэгдэх.</definition>
+      <page>356</page>
+    </entry_item>
+  </entries>
+</entry>

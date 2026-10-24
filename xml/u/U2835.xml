@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2835">
+  <head>
+    <unicode>ᠣᠷᠣᠯᠭᠠᠳᠠᠬᠣ</unicode>
+    <transcript>orolγadaqu</transcript>
+    <transcript2>orolgadago</transcript2>
+    <cyrillic>орлогодох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U2836</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠷᠣᠯᠭᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>орлогодох</cyrillic>
+      <definition>〔动〕作为收入，算为收入.</definition>
+      <page>816</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠷᠣᠯᠭᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>ОРЛОГОДОХ</cyrillic>
+      <definition>получать прибыль; приносить прибыль. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠷᠣᠯᠭᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>орлогодох</cyrillic>
+      <definition>орлого болгох, орлогод авах.</definition>
+      <page>421</page>
+    </entry_item>
+  </entries>
+</entry>

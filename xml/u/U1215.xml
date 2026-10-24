@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1215">
+  <head>
+    <unicode>ᠣᠰᠣᠲᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>usutuγulqu</transcript>
+    <transcript2>osodogolgo</transcript2>
+    <cyrillic>устуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U1214</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠰᠤᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>устуулах</cyrillic>
+      <definition>〔动〕устах /2 的使动态.</definition>
+      <page>1209</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠰᠣᠲᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>УСТУУЛАХ</cyrillic>
+      <definition>устах II-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>устуулах</cyrillic>
+      <definition>Kaus von устах
+2.</definition>
+      <page>261</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠰᠤᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>устуулах</cyrillic>
+      <definition>устах /2-ын үйлдүүлэх хэв.</definition>
+      <page>603</page>
+    </entry_item>
+  </entries>
+</entry>

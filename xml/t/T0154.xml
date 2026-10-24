@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T0154">
+  <head>
+    <unicode>ᠲᠠᠩᠨᠠᠶᠢᠰᠢᠬᠣ</unicode>
+    <transcript>tangnayisiqu</transcript>
+    <transcript2>dangnayisigo</transcript2>
+    <cyrillic>тагнайших</cyrillic>
+  </head><derivatives>
+    <ref>T0155</ref>
+  
+    <ref>T0156</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠩᠨᠠᠢᠰᠢᠬᠤ</unicode>
+      <cyrillic>тагнайших</cyrillic>
+      <definition>〔动〕腭化：тагнайшсан гийгүүлэгч 〈语〉腭化辅音；тагнайшсан 腭化的；тагнайшсан эгшиг 腭化元音，软化元音；тагнайшаагүй гийгүүлэгч 非腭化辅音.</definition>
+      <page>1011</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠩᠨᠠᠶᠢᠰᠢᠬᠣ</unicode>
+      <cyrillic>ТАГНАЙШИХ</cyrillic>
+      <definition>хэл.шинж. 1. палатализљроваться, палатализоваться; 2. тагнайшихуй-г үз.; 3. палатализованный; тагнайшсан гийгүүлэгч палатализованный согласный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠩᠨᠠᠶᠢᠰᠢᠬᠣ</unicode>
+      <cyrillic>ТАГНАЙШИХУЙ</cyrillic>
+      <definition>палатализация. </definition>
+      <page>0</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>тагнайших</cyrillic>
+    <definition>Phon palatalisiert werden; тагнайшсан эгшиг palatalisierter Vokal</definition>
+    <page>216</page>
+  </entry_item>
+  </entries>
+</entry>

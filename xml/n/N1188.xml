@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1188">
+  <head>
+    <unicode>ᠨᠡᠶᠢ᠍ᠳᠬᠡᠭᠥ</unicode>
+    <transcript>neyitgekü</transcript>
+    <transcript2>neyidgegö</transcript2>
+    <cyrillic>нийтгэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>N1189</ref>
+    <ref>N1186</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠨᠡᠶᠢ᠍ᠳᠬᠡᠭᠥ</unicode>
+      <uighur>neyidkekü</uighur>
+      <cyrillic>нийтгэх</cyrillic>
+      <transcript>NEIDKE-</transcript>
+      <definition>v.t. To unite, join, connect; to spin or twist (as thread)</definition>
+      <page>570</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠡᠭᠡᠰᠦ ᠨᠡᠶᠢ᠍ᠳᠬᠡᠭᠥ</unicode>
+          <transcript>degesy(n) --</transcript>
+          <definition> To twist or splice a rope.</definition>
+        </example>
+        <example>
+          <unicode>ᠤᠲᠠᠰᠤ ᠨᠡᠶᠢ᠍ᠳᠬᠡᠭᠥ</unicode>
+          <transcript>utasu --ky</transcript>
+          <definition> To twist several strands into a thread, splice.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠨᠡᠶᠢᠳᠺᠡᠺᠦ</unicode>
+      <definition>unir, réunir, joindre;. 2 corder. tordre (du fil, de la soie).</definition>
+      <page>627</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠳᠠᠰᠤᠨ ᠨᠡᠶᠢᠳᠺᠡᠺᠦ</unicode>
+          <definition>tordre du fil</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠨᠡᠶᠢ᠍ᠳᠬᠡᠭᠥ</unicode>
+      <uighur>neyidkekü</uighur>
+      <definition>verbinden, vereinigen: zwisten, zwei oder drei Fäden zusammendrehen.</definition>
+      <page>84</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠨᠡᠶᠢ᠍ᠳᠬᠡᠭᠥ</unicode>
+      <uighur>neyidgekü</uighur>
+      <definition>v.t. To unite. To join. To twine or twist two or more threads together.</definition>
+      <page>334</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠡᠶᠢ᠍ᠳᠬᠡᠭᠥ</unicode>
+      <cyrillic>НИЙТГЭХ</cyrillic>
+      <definition>нийтэх-ийн үйлдүүл., 1) ссучить, скрутить нитки; утас нийтгэх сучить нитки; 2) соединять, приводить к единству, к одному итогу. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠡᠢᠳᠬᠡᠬᠦ</unicode>
+      <cyrillic>нийтгэх</cyrillic>
+      <definition>имрэн эрчилж томох; утас нийтгэх.</definition>
+      <page>376</page>
+    </entry_item>
+  </entries>
+</entry>

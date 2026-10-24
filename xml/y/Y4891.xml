@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4891">
+  <head>
+    <unicode>ᠵᠣᠷᠪᠣᠯᠵᠠᠬᠣ</unicode>
+    <transcript>ǰorbulǰaqu</transcript>
+    <transcript2>yorbolcago</transcript2>
+    <cyrillic>жорволзох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y4893</ref>
+  </derivatives>
+  <see_also>
+    <ref>Y4890</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠷᠪᠣᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ЖОРВОЛЗОХ</cyrillic>
+      <definition>жорвойх-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠣᠷᠪᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>жорволзох</cyrillic>
+      <definition>жоровгор юмны байн байн хөдлөх, цорволзох, шорволзох.</definition>
+      <page>251</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1750">
+  <head>
+    <unicode>ᠳᠠᠯᠢᠣᠳᠠᠬᠣ</unicode>
+    <transcript>daliudaqu</transcript>
+    <transcript2>daliodago</transcript2>
+    <cyrillic>далиудах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T1752</ref>
+  </derivatives>
+  <see_also>
+    <ref>T1751</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠯᠢᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>далиудах</cyrillic>
+      <definition>〔动〕①变得过于偏斜、过于歪，过于不正；②显得很不对称，显得很不相称.</definition>
+      <page>385</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠯᠢᠣᠳᠠᠬᠣ</unicode>
+      <cyrillic>ДАЛИУДАХ</cyrillic>
+      <definition>1) оказываться изогнутым, перекошенным, кривым; 2) оказываться несимметричным, неодинаковым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>далиудах</cyrillic>
+      <definition>zu schief od ungleichmäßig sein</definition>
+      <page>90</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠯᠢᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>далиудах</cyrillic>
+      <definition>хэтэрхий далиу болох.</definition>
+      <page>185</page>
+    </entry_item>
+  </entries>
+</entry>

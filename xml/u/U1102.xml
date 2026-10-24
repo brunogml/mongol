@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1102">
+  <head>
+    <unicode>ᠣᠪᠣᠬᠯᠠᠬᠣ</unicode>
+    <transcript>obuγlaqu</transcript>
+    <transcript2>oboglago</transcript2>
+    <cyrillic>овоглох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U1103</ref>
+    <ref>U1104</ref>
+    <ref>U1106</ref>
+    <ref>U1105</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠪᠣᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>овоглох</cyrillic>
+      <definition>〔动〕(хэнээр-юугаар)以…为姓：хойт эцгээрээ ~ 以继父的名字为姓.</definition>
+      <page>786</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠪᠣᠬᠯᠠᠬᠣ</unicode>
+      <cyrillic>ОВОГЛОХ</cyrillic>
+      <definition>1) носить чью-н. фамилию; хойт эцгээрээ овоглох носить фамилию отчима; тэр эмэгтэй нөхрөөрөө овоглодог она носит фамилию мужа; 2) давать фамилию; 3) писать по фамилии. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>овоглох</cyrillic>
+      <definition>einen Familien- od Vatersnamen tragen; эцгээрээ ~ nach seinem Vater genannt werden</definition>
+      <page>167</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠪᠣᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>овоглох</cyrillic>
+      <definition>овгий нь дагалдуулан нэрлэх, овгий нь хэрэглэх; хойт эцгээрээ овоглох.</definition>
+      <page>405</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>U1058</ref>
+  </related_to>
+</entry>

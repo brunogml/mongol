@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4556">
+  <head>
+    <unicode>ᠪᠥᠮᠪᠥᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>bömbügenegülkü</transcript>
+    <transcript2>bömbögenegölgö</transcript2>
+    <cyrillic>бөмбөгнүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>B4554</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠮᠪᠥᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бөмбөгнүүлэх</cyrillic>
+      <definition>〔动〕бөмбөгнөх 的使动态.</definition>
+      <page>187</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠮᠪᠥᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>БӨМБӨГНҮҮЛЭХ</cyrillic>
+      <definition>бөмбөгнөх-ийн үйл­дүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠥᠮᠪᠥᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бөмбөгнүүлэх</cyrillic>
+      <definition>бөмбөгнөхийн үйлдүүлэх хэв.</definition>
+      <page>98</page>
+    </entry_item>
+  </entries>
+</entry>

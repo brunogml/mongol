@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1668">
+  <head>
+    <unicode>ᠵᠠᠶᠢᠴᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰayičaγulqu</transcript>
+    <transcript2>yayicagolgo</transcript2>
+    <cyrillic>зайцуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y1667</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠢᠴᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зайцуулах</cyrillic>
+      <definition>〔动〕зайцах 的使动态.</definition>
+      <page>534</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠶᠢᠴᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗАЙЦУУЛАХ</cyrillic>
+      <definition>зайцах-ын үйлдүүл., удалять, отклонять. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠢᠴᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зайцуулах</cyrillic>
+      <definition>зайцахын үйлдүүлэх хэв.</definition>
+      <page>261</page>
+    </entry_item>
+  </entries>
+</entry>

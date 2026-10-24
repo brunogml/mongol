@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4721">
+  <head>
+    <unicode>ᠰᠢᠷᠪᠥᠰᠥᠲᠥᠺᠥ</unicode>
+    <transcript>sirbüsütükü</transcript>
+    <transcript2>sirbösödögö</transcript2>
+    <cyrillic>шөрмөстөх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠷᠪᠥᠰᠥᠲᠦᠬᠦ</unicode>
+      <cyrillic>шөрмөстөх</cyrillic>
+      <definition>〔动〕变为有力，强壮起来，变为结实，变为健壮.</definition>
+      <page>1654</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠷᠪᠥᠰᠥᠲᠥᠺᠥ</unicode>
+      <cyrillic>ШӨРМӨСТӨХ</cyrillic>
+      <definition>становиться жилистым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шөрмөстөх</cyrillic>
+      <definition>sehnig od kräftig werden</definition>
+      <page>390</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠷᠪᠥᠰᠥᠲᠦᠬᠦ</unicode>
+      <cyrillic>шөрмөстөх</cyrillic>
+      <definition>шөрмөстэй болох.</definition>
+      <page>856</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S4718</ref>
+  </related_to>
+</entry>

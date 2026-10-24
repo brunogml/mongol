@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1193">
+  <head>
+    <unicode>ᠲᠠᠪᠰᠠᠩ</unicode>
+    <transcript>tabsang</transcript>
+    <transcript2>dabsang</transcript2>
+    <cyrillic>тавсан</cyrillic>
+  </head>
+  <see_also>
+    <ref>T1193a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠪᠰᠠᠩ</unicode>
+      <transcript>TABCANG, TABSANG </transcript>
+      <page>1184</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠪᠰᠠᠩ ᠳᠡᠪᠢᠰᠺᠡᠷ</unicode>
+          <transcript>debisker; </transcript>
+          <definition>T. gdan; S. āsana. Seat, manner of sitting</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠪᠰᠠᠩ ~ ᠳᠠᠪᠴᠠᠩ</unicode>
+      <definition>trône : 2 plateau d'ane montagne, dégrés de l'autel.</definition>
+      <page>1608</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠪᠰᠠᠩ</unicode>
+      <cyrillic>ТАВСАН</cyrillic>
+      <definition>I вышка; харуулын тавсан сторожевая вышка. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠪᠰᠠᠩ</unicode>
+      <cyrillic>ТАВСАН</cyrillic>
+      <definition>II 1) дальнозоркий; 2) вљдимый издалека. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тавсан</cyrillic>
+      <definition>= тавсгар</definition>
+      <page>215</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠪᠰᠠᠩ</unicode>
+      <cyrillic>тавсан /1</cyrillic>
+      <definition>холыг харахад зориулан хийсэн өндөр тай.</definition>
+      <page>512</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠪᠰᠠᠩ</unicode>
+      <cyrillic>тавсан /2</cyrillic>
+      <definition>дээд тал нь хавтгай; тавсан толгойтой.</definition>
+      <page>512</page>
+    </entry_item>
+  </entries>
+</entry>

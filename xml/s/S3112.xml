@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3112">
+  <head>
+    <unicode>ᠰᠢᠨᠲᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sintalǰaγulqu</transcript>
+    <transcript2>sindalcagolgo</transcript2>
+    <cyrillic>шанталзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S3111</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠨᠲᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шанталзуулах</cyrillic>
+      <definition>〔动〕шанталзах 的使动态.</definition>
+      <page>1619</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠨᠲᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАНТАЛЗУУЛАХ</cyrillic>
+      <definition>шанталзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠨᠲᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шанталзуулах</cyrillic>
+      <definition>шанталзахын үйлдүүлэх хэв.</definition>
+      <page>837</page>
+    </entry_item>
+  </entries>
+</entry>

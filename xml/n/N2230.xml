@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="N2230">
+  <head>
+    <unicode>ᠨᠣᠳᠯᠠᠬᠣ</unicode>
+    <transcript>notlaqu</transcript>
+    <transcript2>nodlago</transcript2>
+    <cyrillic>ноотлох</cyrillic>
+  </head><derivatives>
+    <ref>N2231</ref>
+  
+    <ref>N2232</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠣᠲᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>ноотлох</cyrillic>
+      <definition>〔动〕见 нотлох.</definition>
+      <page>749</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠣᠳᠯᠠᠬᠣ</unicode>
+      <cyrillic>НООТЛОХ</cyrillic>
+      <definition>положить текст на ноты; дууны ая ноотлох переложить мелодию песни на ноты. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U0773">
+  <head>
+    <unicode>ᠣᠭᠣᠺᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>uγugiγulqu</transcript>
+    <transcript2>ogogigolgo</transcript2>
+    <cyrillic>уугиулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U0772</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠭᠤᠭᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>уугиулах</cyrillic>
+      <definition>〔动〕уугих 的使动态.</definition>
+      <page>1211</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠭᠣᠺᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>УУГИУЛАХ</cyrillic>
+      <definition>уугих-ийн үйлдүүл., дымљть, пускать дым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠭᠤᠭᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>уугиулах</cyrillic>
+      <definition>уугихын үйлдүүлэх хэв.</definition>
+      <page>604</page>
+    </entry_item>
+  </entries>
+</entry>

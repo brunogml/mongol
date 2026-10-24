@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="L0400">
+  <head>
+    <unicode>ᠯᠣᠬᠵᠢᠩᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>luqǰingnaγulqu</transcript>
+    <transcript2>logcingnagolgo</transcript2>
+    <cyrillic>лужигнуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>L0399</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠯᠤᠵᠢᠭᠢᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>лужигнуулах</cyrillic>
+      <definition>〔动〕лужигнах 的使动态.</definition>
+      <page>647</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠯᠣᠬᠵᠢᠩᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЛУЖИГНУУЛАХ</cyrillic>
+      <definition>лужигнах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠯᠤᠵᠢᠭᠢᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>лужигнуулах</cyrillic>
+      <definition>лужигнахын үйлдүүлэх хэв.</definition>
+      <page>322</page>
+    </entry_item>
+  </entries>
+</entry>

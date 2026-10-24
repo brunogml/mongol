@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1562">
+  <head>
+    <unicode>ᠵᠠᠶᠠᠳᠠᠬᠣ</unicode>
+    <transcript>ǰayadaqu</transcript>
+    <transcript2>yayadago</transcript2>
+    <cyrillic>заядах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1563</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠶᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>заядах</cyrillic>
+      <definition>〔动〕〈牧〉挤（不喂犊的乳牛的）奶.</definition>
+      <page>553</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠶᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЗАЯДАХ</cyrillic>
+      <definition>давать сосать чужую матку нескольким телятам. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>заядах</cyrillic>
+      <definition>einer Kuh die Kälber anderer Kühe anlegen, damit diese gemolken werden können</definition>
+      <page>120</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠶᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>заядах</cyrillic>
+      <definition>нэг үнээнд хэд хэдэн тугал хөхүүлж тэдгээр тугалын эхийг хайдагшуулан саах.</definition>
+      <page>271</page>
+    </entry_item>
+  </entries>
+</entry>

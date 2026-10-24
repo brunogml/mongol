@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T2800">
+  <head>
+    <unicode>ᠲᠠᠷᠬᠠᠭᠣᠣ</unicode>
+    <transcript>tarqaγou</transcript>
+    <transcript2>dargagoo</transcript2>
+    <cyrillic>тархуу</cyrillic>
+  </head><see_also>
+    <ref>T2799</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠷᠬᠠᠭᠣᠤ</unicode>
+      <definition>dissipé, disséminé, dispersé, jeté çà et là.</definition>
+      <page>1678</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠷᠬᠠᠭᠣᠤ ᠠᠶᠢᠯ</unicode>
+          <definition>endroit peuplé</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠷᠬᠠᠭᠤ</unicode>
+      <cyrillic>тархуу</cyrillic>
+      <definition>〔形〕参见 таруу.</definition>
+      <page>1033</page>
+    </entry_item>
+  </entries>
+</entry>

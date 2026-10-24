@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4079">
+  <head>
+    <unicode>ᠬᠣᠨᠳᠠᠭᠠᠯᠠᠬᠣ</unicode>
+    <transcript>qundaγalaqu</transcript>
+    <transcript2>gondagalago</transcript2>
+    <cyrillic>хундагалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q4080</ref>
+    <ref>Q4082</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠨᠳᠠᠭᠠᠯᠠᠬᠣ</unicode>
+      <uighur>qundaγalaqu</uighur>
+      <cyrillic>хундгалах</cyrillic>
+      <transcript>XUNDAΓALA-</transcript>
+      <definition>v.t To fill a glass or goblet</definition>
+      <page>986</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠷᠠᠺᠢ ᠬᠣᠨᠳᠠᠭᠠᠯᠠᠬᠣ</unicode>
+          <transcript>araki --</transcript>
+          <definition> To pour wine or liquor.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠨᠳᠠᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>хундагалах</cyrillic>
+      <definition>〔动〕斟酒，注入杯内：архи ~ 斟酒.</definition>
+      <page>1431</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠨᠳᠠᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХУНДАГАЛАХ</cyrillic>
+      <definition>наливать в рюмку, в бокал, в чарку. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хундагалах</cyrillic>
+      <definition>in die Becher od Gläser aus- od einschenken; дарс ~ Wein ausschenken</definition>
+      <page>328</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠨᠳᠠᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>хундагалах</cyrillic>
+      <definition>хундаганд юм агуулах, хийх; архи хундагалах.</definition>
+      <page>729</page>
+    </entry_item>
+  </entries>
+</entry>

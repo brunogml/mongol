@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0483">
+  <head>
+    <unicode>ᠮᠠᠲᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>matalǰaγulqu</transcript>
+    <transcript2>madalcagolgo</transcript2>
+    <cyrillic>маталзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>M0482</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠲᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>маталзуулах</cyrillic>
+      <definition>маталзах 的使动态.</definition>
+      <page>666</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠲᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>МАТАЛЗУУЛАХ</cyrillic>
+      <definition>маталзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠲᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>маталзуулах</cyrillic>
+      <definition>маталзахын үйлдэгдэх хэв.</definition>
+      <page>334</page>
+    </entry_item>
+  </entries>
+</entry>

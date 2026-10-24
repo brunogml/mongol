@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1998">
+  <head>
+    <unicode>ᠺᠢᠲᠥᠺᠡ</unicode>
+    <transcript>kitüge</transcript>
+    <transcript2>gidöge</transcript2>
+    <cyrillic>хитэг</cyrillic>
+  </head>
+  <see_also>
+    <ref>K1971</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠢᠲᠥᠺᠡ</unicode>
+      <uighur>kitüge</uighur>
+      <cyrillic>хитэг</cyrillic>
+      <transcript>KITYGE</transcript>
+      <definition>n. The stern of a shipe or boat.</definition>
+      <page>474</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠢᠲᠥᠺᠡ ᠪᠠᠷᠢᠬᠤ</unicode>
+          <transcript>-- barixu</transcript>
+          <definition>To steer (a ship)</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠢᠳᠦᠺᠡ</unicode>
+      <definition>la pouppe du vaisseau ou de la barque.</definition>
+      <page>2528</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠢᠲᠦᠭᠡ ᠪᠠᠷᠢᠬᠤ</unicode>
+          <definition>gouverner (le vaisseau)</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠺᠢᠲᠥᠺᠡ</unicode>
+      <uighur>kidüke</uighur>
+      <definition>das Hintertheil eines Schiffes oder Fahrzeuges</definition>
+      <page>158</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠺᠢᠲᠥᠺᠡ</unicode>
+      <uighur>kidüke</uighur>
+      <definition>n. The stern of a vessel.</definition>
+      <page>620</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠢᠲᠦᠭᠡ</unicode>
+      <cyrillic>хитэг</cyrillic>
+      <definition>〔名〕船尾，船艄：~ барих 操舵.</definition>
+      <page>1342</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠲᠥᠺᠡ</unicode>
+      <cyrillic>ХИТЭГ</cyrillic>
+      <definition>I корма (судна, лодки); онгоцны хитэг корма судна; рёбра оcтова лодки, перекладины, скрепляющие борта лодки; хитэг барих править рулём.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠢᠲᠦᠭᠡ</unicode>
+      <cyrillic>хитэг</cyrillic>
+      <definition>суман онгоцны хойт тал.</definition>
+      <page>679</page>
+    </entry_item>
+  </entries>
+</entry>

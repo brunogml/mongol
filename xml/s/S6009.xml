@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6009">
+  <head>
+    <unicode>ᠱᠣᠮᠪᠣᠭᠣᠨᠠᠬᠣ</unicode>
+    <transcript>šombuγunaqu</transcript>
+    <transcript2>sombogonago</transcript2>
+    <cyrillic>шомбогонох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6010</ref>
+    <ref>S6012</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠣᠮᠪᠣᠭᠣᠨᠠᠬᠤ</unicode>
+      <cyrillic>шомбогонох</cyrillic>
+      <definition>〔动〕参见 шомболзох.</definition>
+      <page>1647</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠮᠪᠣᠭᠣᠨᠠᠬᠣ</unicode>
+      <cyrillic>ШОМБОГОНОХ</cyrillic>
+      <definition>выдвигаться вперёд, выпячиваться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шомбогонох</cyrillic>
+      <definition>etw. Kegelförmiges sich bewegen</definition>
+      <page>389</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠣᠮᠪᠣᠭᠣᠨᠠᠬᠤ</unicode>
+      <cyrillic>шомбогонох</cyrillic>
+      <definition>шомбогор юмны шомбого шомбого хөдлөх.</definition>
+      <page>853</page>
+    </entry_item>
+  </entries>
+</entry>

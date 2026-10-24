@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6940">
+  <head>
+    <unicode>ᠲᠣᠯᠣᠯᠳᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tululduγulqu</transcript>
+    <transcript2>dololdogolgo</transcript2>
+    <cyrillic>тулалдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T6939</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠯᠤᠯᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тулалдуулах</cyrillic>
+      <definition>〔动〕тулалдах 的使动态.</definition>
+      <page>1109</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠯᠣᠯᠳᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТУЛАЛДУУЛАХ</cyrillic>
+      <definition>тулалдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тулалдуулах</cyrillic>
+      <definition>Kaus von тулалдах</definition>
+      <page>238</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠯᠤᠯᠳᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тулалдуулах</cyrillic>
+      <definition>тулалдахын үйлдүүлэх хэв, тулалдахад хүрүүлэх.</definition>
+      <page>555</page>
+    </entry_item>
+  </entries>
+</entry>

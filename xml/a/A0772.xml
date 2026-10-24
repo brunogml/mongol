@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A0772">
+  <head>
+    <unicode>ᠠᠭᠣᠰᠬᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>aγusqaγulqu</transcript>
+    <transcript2>agosgagolgo</transcript2>
+    <cyrillic>уусгуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>A0771</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠭᠣᠰᠬᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>уусгуулах</cyrillic>
+      <definition>〔动〕уусгах 的使动态.</definition>
+      <page>1216</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠣᠰᠬᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>УУСГУУЛАХ</cyrillic>
+      <definition>уусгах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠭᠤᠰᠬᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>уусгуулах</cyrillic>
+      <definition>уусгахын үйлдүүлэх хэв.</definition>
+      <page>607</page>
+    </entry_item>
+  </entries>
+</entry>

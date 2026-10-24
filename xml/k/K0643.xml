@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K0643">
+  <head>
+    <unicode>ᠭᠡᠳᠦᠷᠭᠡ</unicode>
+    <transcript>gedürge</transcript>
+    <transcript2>gedörge</transcript2>
+  </head>
+  <see_also>
+    <ref>K0642</ref>
+    <ref>K0644</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠡᠳᠦᠷᠭᠡ ~ ᠭᠡᠳᠡᠷᠭᠡ ~ ᠭᠡᠳᠡᠷᠭᠦ ~ ᠭᠡᠳᠦᠷᠭᠦ</unicode>
+      <definition>en arrière, à reculons, par derrière, sur le dos, à la renverse, de retours</definition>
+      <page>2468</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠡᠳᠦᠷᠭᠡ ᠤᠭᠤᠰᠤᠷ</unicode>
+          <definition>la sangle d'une selle</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠡᠳᠦᠷᠭᠡ ᠬᠠᠷᠠᠬᠤ</unicode>
+          <definition>regarder derrrière soi</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠡᠳᠦᠷᠭᠡ ᠪᠤᠴᠠᠬᠤ</unicode>
+          <definition>revenir, retourner</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠡᠳᠦᠷᠭᠡ ᠭᠡᠪᠳᠡᠺᠦ</unicode>
+          <definition>être couché sur le dos</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠺᠠᠳᠥᠷᠺᠠ</unicode>
+      <uighur>kedürke</uighur>
+      <definition>siehe ᠺᠡᠲᠡᠷᠺᠡᠨ</definition>
+      <page>199</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠺᠠᠳᠥᠷᠺᠠ</unicode>
+      <uighur>kedürke</uighur>
+      <definition>Backwards.</definition>
+      <page>785</page>
+      <examples>
+        <example>
+          <uighur>kedürke uγusur</uighur>
+          <definition>n. A cord of leather. Trace (for harness).</definition>
+        </example>
+        <example>
+          <uighur>kedürke bučaqu</uighur>
+          <definition>To return. To come back again.</definition>
+        </example>
+        <example>
+          <uighur>kedürke qaraqu</uighur>
+          <definition>To look back.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

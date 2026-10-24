@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2737">
+  <head>
+    <unicode>ᠪᠣᠭᠣᠯᠣᠬ</unicode>
+    <transcript>buγuluγ</transcript>
+    <transcript2>bogolog</transcript2>
+    <cyrillic>бугалаг</cyrillic>
+  </head>
+  <see_also>
+    <ref>B2732</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠣᠭᠣᠯᠣᠬ</unicode>
+      <uighur>buγuluq</uighur>
+      <transcript>BUΓULUΓ</transcript>
+      <definition>See buγulaγ</definition>
+      <page>131</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠤᠭᠣᠯᠠᠬ ~ ᠪᠤᠭᠣᠯᠣᠬ</unicode>
+      <definition>humerus, de l'épaule au coude: 2 toute la main.</definition>
+      <page>1164</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠤᠭᠣᠯᠣᠬ ᠴᠢᠮᠦᠭᠡᠨ</unicode>
+          <definition>humérus, de l'épaule au coude; os qui s'emboite dans celui de la cuisse</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠪᠣᠭᠣᠯᠣᠬ</unicode>
+      <uighur>buγuluq čimüge</uighur>
+      <definition>The marrow-pipes of the arm above the elbow.</definition>
+      <page>441</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠤᠭᠤᠯᠤᠭ</unicode>
+      <cyrillic>бугалаг</cyrillic>
+      <definition>〔名〕见 бугалга.</definition>
+      <page>195</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠭᠣᠯᠣᠬ</unicode>
+      <cyrillic>БУГАЛГА</cyrillic>
+      <definition>бие.зүй. плечевая, ременная кость, плечо; бугалга чөмөг плечевая кость.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠭᠣᠯᠣᠬ</unicode>
+      <cyrillic>БУГАЛГАНЫ</cyrillic>
+      <definition>бугалга(н)-ы харьяал., плечевой; бугалганы үе плечевой сустав.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠭᠤᠯᠤᠭ</unicode>
+      <cyrillic>бугалга</cyrillic>
+      <definition>агтаал; бугалга чөмөг.</definition>
+      <page>102</page>
+    </entry_item>
+  </entries>
+</entry>

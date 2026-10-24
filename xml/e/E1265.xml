@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E1265">
+  <head>
+    <unicode>ᠡᠵᠡᠨᠲᠦ</unicode>
+    <transcript>eǰentü</transcript>
+    <transcript2>ecendö</transcript2>
+    <cyrillic>эзэнт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠵᠠᠨᠲᠥ</unicode>
+      <uighur>eǰendü</uighur>
+      <cyrillic>эзэнт</cyrillic>
+      <transcript>EZENTY</transcript>
+      <definition>See ezentei.</definition>
+      <page>337</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠵᠠᠨᠲᠥ ᠤᠯᠤᠰ</unicode>
+          <transcript>-- ulus</transcript>
+          <definition> Empire, kingdom, autocratic state.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠵᠠᠨᠲᠥ ᠵᠠᠰᠠᠭ</unicode>
+          <transcript>-- zasaγ</transcript>
+          <definition> Monarchy.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠵᠡᠨᠲᠦ</unicode>
+      <cyrillic>эзэнт</cyrillic>
+      <definition>〔形〕有君主的，有帝王的：~ засгийн ёс 君主制；~ эзэрхэг засаг 君主专制；~ улс 帝国；君主国，宗主国.</definition>
+      <page>1686</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠵᠠᠨᠲᠥ</unicode>
+      <cyrillic>ЭЗЭНТ</cyrillic>
+      <definition>имеющий повелителя; эзэнт улс империя. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>эзэнт</cyrillic>
+      <definition>mit einem Herrscher; ~ ёс[он] Autokratie f; ~ улс Kaiserreich n, Imperium n</definition>
+      <page>397</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠵᠡᠨᠲᠦ</unicode>
+      <cyrillic>эзэнт</cyrillic>
+      <definition>эзэн хаан бүхий; эзэнт улс.</definition>
+      <page>872</page>
+    </entry_item>
+  </entries>
+</entry>

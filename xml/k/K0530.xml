@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K0530">
+  <head>
+    <unicode>ᠺᠠᠳᠠᠰᠥᠲᠠᠢ</unicode>
+    <transcript>gedesütei</transcript>
+    <transcript2>gedesödei</transcript2>
+    <cyrillic>гэдэстэй</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠡᠳᠠᠰᠥᠲᠠᠢ</unicode>
+      <uighur>gedesüdei</uighur>
+      <cyrillic>гэдэстэй</cyrillic>
+      <transcript>GEDESYTEI</transcript>
+      <definition>adj. Having a belly; pregnant (of women).</definition>
+      <page>373</page>
+      <examples>
+        <example>
+          <unicode>ᠶᠡᠺᠡ ᠭᠡᠳᠠᠰᠥᠲᠠᠢ</unicode>
+          <transcript>jeke --</transcript>
+          <definition> Pregnant (woman).</definition>
+        </example>
+        <example>
+          <unicode>ᠸᠠᠭᠠᠷᠤ ᠭᠡᠳᠠᠰᠥᠲᠠᠢ</unicode>
+          <transcript>vaγaru --</transcript>
+          <definition> Potbellied.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠡᠳᠡᠰᠦᠲᠡᠢ</unicode>
+      <cyrillic>гэдэстэй</cyrillic>
+      <definition>〔形〕大肚子的，有身孕的.</definition>
+      <page>348</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K5227">
+  <head>
+    <unicode>ᠺᠦᠷᠭᠡᠭᠦᠯ</unicode>
+    <transcript>kürgegül</transcript>
+    <transcript2>görgegöl</transcript2>
+    <cyrillic>хүргүүл</cyrillic>
+  </head>
+  <related_to>
+    <ref>K5216</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠦᠷᠭᠡᠭᠦᠯ</unicode>
+      <uighur>kürkegül</uighur>
+      <transcript>KYRGEGYL</transcript>
+      <definition>n. Conductor, guide; escort, convoy; leader.</definition>
+      <page>505</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠠᠮ ᠤᠨ ᠺᠥᠷᠺᠡᠺᠥᠯ</unicode>
+          <transcript>zam un --</transcript>
+          <definition>Conductor, guide; convoy, escort</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠦᠷᠭᠡᠭᠦᠯ</unicode>
+      <cyrillic>ХҮРГҮҮЛ</cyrillic>
+      <definition>сопровождающий, провожатый, проводник.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠦᠷᠭᠡᠭᠦᠯ</unicode>
+      <definition>conducteur, guide, convoi, escorte</definition>
+      <page>2652</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠠᠮ ᠤᠨ ᠺᠦᠷᠭᠡᠭᠦᠯ</unicode>
+          <definition>conducteur, guide, convoi, escorte</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

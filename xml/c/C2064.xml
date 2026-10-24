@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2064">
+  <head>
+    <unicode>ᠴᠢᠴᠠᠣᠷᠠᠬᠣ</unicode>
+    <transcript>čičauraqu</transcript>
+    <transcript2>cicaorago</transcript2>
+    <cyrillic>чацуурах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C2065</ref>
+    <ref>C2066</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <cyrillic>чацуурах</cyrillic>
+      <definition>〔动〕变相等，变一样.</definition>
+      <page>1583</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠴᠠᠣᠷᠠᠬᠣ</unicode>
+      <cyrillic>ЧАЦУУРАХ</cyrillic>
+      <definition>стать равным, одинаковым, сравняться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чацуурах</cyrillic>
+      <definition>gleich werden</definition>
+      <page>369</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠴᠠᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>чацуурах</cyrillic>
+      <definition>чацуу болох.</definition>
+      <page>816</page>
+    </entry_item>
+  </entries>
+</entry>

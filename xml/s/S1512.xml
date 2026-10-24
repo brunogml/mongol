@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1512">
+  <head>
+    <unicode>ᠱᠠᠺᠢᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šakinaγulqu</transcript>
+    <transcript2>saginagolgo</transcript2>
+    <cyrillic>шахинуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S1511</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠠᠬᠢᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шахинуулах</cyrillic>
+      <definition>〔动〕шахинах 的使动态.</definition>
+      <page>1626</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠠᠺᠢᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАХИНУУЛАХ</cyrillic>
+      <definition>шахинах-ын үйлдүүл., скрипеть; хаалга шахинуулах скрипеть (воротами). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠠᠬᠢᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шахинуулах</cyrillic>
+      <definition>шахинахын үйлдүүлэх хэв.</definition>
+      <page>841</page>
+    </entry_item>
+  </entries>
+</entry>

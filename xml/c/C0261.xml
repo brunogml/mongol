@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0261">
+  <head>
+    <unicode>ᠴᠠᠪᠠᠣᠳᠠᠬᠣ</unicode>
+    <transcript>čabaudaqu</transcript>
+    <transcript2>cabaodago</transcript2>
+    <cyrillic>цавуудах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0262</ref>
+    <ref>C0263</ref>
+    <ref>C0265</ref>
+    <ref>C0264</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠪᠠᠣᠳᠠᠬᠣ</unicode>
+      <uighur>čabaudaqu</uighur>
+      <cyrillic>цавуудах</cyrillic>
+      <transcript>CABAUDA-</transcript>
+      <definition>[=cabaγuda-] v .t.To glue.</definition>
+      <page>154</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠠᠪᠠᠣᠳᠠᠵᠤ ᠨᠠᠭᠠᠬᠤ</unicode>
+          <transcript>--zu naγaxu, </transcript>
+          <definition>To glue together</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠣᠳᠤ ᠴᠠᠪᠠᠣᠳᠠᠬᠤ</unicode>
+          <transcript>modu --xu</transcript>
+          <definition> To glue wood.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠠᠪᠠᠣᠳᠠᠬᠤ</unicode>
+      <definition>coller, se servir de colle, coller à, encoller, coller ensemble</definition>
+      <page>2091</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠴᠠᠪᠠᠣᠳᠠᠬᠣ</unicode>
+      <uighur>čabaudaqu</uighur>
+      <definition>leimen , anleimen, festleimen</definition>
+      <page>316</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠴᠠᠪᠠᠣᠳᠠᠬᠣ</unicode>
+      <uighur>čabaudaqu</uighur>
+      <definition>v.t. To glue. To fasten with glue.</definition>
+      <page>1271</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠪᠠᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>цавуудах</cyrillic>
+      <definition>〔动〕抹浆糊，抹胶：~н наах 黏合，胶合.</definition>
+      <page>1509</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠪᠠᠣᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЦАВУУДАХ</cyrillic>
+      <definition>намазывать что-л. клеем, клеить, склеивать, приклеивать, заклеивать; цавуудан наах клеить, склеивать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цавуудах</cyrillic>
+      <definition>kleben, leimen (mit etw. -аар; an etw. -д)</definition>
+      <page>350</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠪᠠᠤᠳᠠᠬᠤ</unicode>
+      <cyrillic>цавуудах</cyrillic>
+      <definition>юманд цавуу түрхэж наалдуулах.</definition>
+      <page>776</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>C0257</ref>
+  </related_to>
+</entry>

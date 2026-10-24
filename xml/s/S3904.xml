@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3904">
+  <head>
+    <unicode>ᠰᠢᠯᠣᠭᠣᠷᠠᠬᠣ</unicode>
+    <transcript>siluγuraqu</transcript>
+    <transcript2>silogorago</transcript2>
+    <cyrillic>шулуурах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3905</ref>
+    <ref>S3906</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠯᠤᠭᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>шулуурах</cyrillic>
+      <definition>〔动〕①变直，成直的；②进展顺利，一帆风顺：энэ ажил ~в 此项工作进展顺利.</definition>
+      <page>1659</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠯᠣᠭᠣᠷᠠᠬᠣ</unicode>
+      <cyrillic>ШУЛУУРАХ</cyrillic>
+      <definition>шулуусах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шулуурах,</cyrillic>
+      <definition>шулуусах = шулуудах</definition>
+      <page>391</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠯᠤᠭᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>шулуурах</cyrillic>
+      <definition>1. шулуун болох;2. үйл явдалд саад тотгоргүй болох; энэ ажил ч одоо шулуурав.</definition>
+      <page>859</page>
+    </entry_item>
+  </entries>
+</entry>

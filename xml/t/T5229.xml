@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5229">
+  <head>
+    <unicode>ᠲᠣᠨ</unicode>
+    <transcript>ton</transcript>
+    <transcript2>don</transcript2>
+    <cyrillic>тонн</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲ᠋ᠣᠨ</unicode>
+      <cyrillic>тонн</cyrillic>
+      <definition>〔量〕吨（重量单位，等于一千公斤）：таван ~ улаан буудай 五吨小麦；хоёр тоннын даацтай 有两吨载重量的；гурван тоннын машин 载重量为三吨的汽车.</definition>
+      <page>1072</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠨ</unicode>
+      <cyrillic>ТОНН</cyrillic>
+      <definition>тонна; гурван тоннын машин автомобљль грузоподъёмностью в три тонны. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тонн</cyrillic>
+      <definition>Gewichtseinheit Tonne f (Abk t)</definition>
+      <page>229</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠨ</unicode>
+      <cyrillic>тонна</cyrillic>
+      <definition>хүндийн хэмжээ, нэг мянган килограмм; гурван тоннын машин; хоёр тоннын даацтай.</definition>
+      <page>540</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1306">
+  <head>
+    <unicode>ᠴᠠᠷᠮᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>čermegülkü</transcript>
+    <transcript2>cermegölgö</transcript2>
+    <cyrillic>цэрмүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>C1305</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠷᠮᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>цэрмүүлэх</cyrillic>
+      <definition>〔动〕цэрмэх 的使动态.</definition>
+      <page>1567</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠷᠮᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЦЭРМҮҮЛЭХ</cyrillic>
+      <definition>цэрмэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цэрмүүлэх</cyrillic>
+      <definition>Kaus von цэрмэх</definition>
+      <page>365</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠷᠮᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>цэрмүүлэх</cyrillic>
+      <definition>цэрмэхийн үйлдүүлэх хэв.</definition>
+      <page>807</page>
+    </entry_item>
+  </entries>
+</entry>

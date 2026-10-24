@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3726">
+  <head>
+    <unicode>ᠲᠠᠰᠪᠥᠷᠢ</unicode>
+    <transcript>tesbüri</transcript>
+    <transcript2>desböri</transcript2>
+    <cyrillic>тэсвэр</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠰᠪᠥᠷᠢ</unicode>
+      <uighur>tesbüri</uighur>
+      <cyrillic>тэсвэр</cyrillic>
+      <transcript>TESBYRI</transcript>
+      <definition>[= tedbyri] n. Patience, endurance.</definition>
+      <page>806</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠰᠪᠥᠷᠢ ᠶᠡᠺᠡᠲᠡᠢ</unicode>
+          <transcript>-- jeketei </transcript>
+          <definition> Having great patience, long-suffering.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠰᠪᠥᠷᠢ ᠮᠠᠭᠤᠲᠠᠢ</unicode>
+          <transcript>-- maγutai</transcript>
+          <definition> Impatient; of poor endurance.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠰᠪᠥᠷᠢ ᠰᠠᠶᠢᠲᠠᠢ</unicode>
+          <transcript>-- saitai</transcript>
+          <definition> Patient, enduring, durable.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠡᠰᠪᠦᠷᠢ ~ ᠳᠡᠳᠦᠪᠦᠷᠢ</unicode>
+      <definition>patience, souffrance, affliction, 2 souci, inquiétude, peine: a essai.</definition>
+      <page>1712</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠡᠰᠪᠦᠷᠢ</unicode>
+      <cyrillic>тэсвэр</cyrillic>
+      <definition>〔名〕忍耐，耐性，刚毅性，坚韧，坚忍性，耐久力；耐心：~ хатуужил 坚毅，坚韧，顽强；~ хатуужилтай тэмцэх 顽强战斗，艰苦奋斗；~ муутай 不能忍耐的，不坚韧的，不持久的；~ээ алдах 失去忍耐力，失去耐性，坚持不住.</definition>
+      <page>1164</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠰᠪᠥᠷᠢ</unicode>
+      <cyrillic>ТЭСВЭР</cyrillic>
+      <definition>терпение; выносливость, стойкость; тэсвэр муутай невыносливый, нестойкий; тэсвэр сайтай выносливый, стойкий. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠰᠪᠥᠷᠢ</unicode>
+      <cyrillic>ТЭСВЭРГҮЙ</cyrillic>
+      <definition>нетерпелљвый; невыносливый, нестойкий. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тэсвэр</cyrillic>
+      <definition>Ausdauer f, Geduld f, Toleranz f; Widerstandsfähigkeit f; ~ муутай = тэсвэргүй; ~ сайтай = тэсвэртэй</definition>
+      <page>250</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠰᠪᠦᠷᠢ</unicode>
+      <cyrillic>тэсвэр</cyrillic>
+      <definition>хатуужил, хүлцэл, хүлцэнгүй, тэвчээр; зүдрэх цагт тэсвэр хэрэгтэй; тэсвэр муутай амьтан; тэсвэрээ алдах.</definition>
+      <page>579</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>T3727</ref>
+    <ref>T3728</ref>
+    <ref>T3733</ref>
+    <ref>T3735</ref>
+  </derivatives>
+</entry>

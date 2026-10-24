@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6680">
+  <head>
+    <unicode>ᠳᠣᠲᠣᠬᠰᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>dotuγsidaγulqu</transcript>
+    <transcript2>dodogsidagolgo</transcript2>
+    <cyrillic>дотогшдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T6678</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠣᠲᠣᠭᠰᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дотогшдуулах</cyrillic>
+      <definition>〔动〕дотогшдох 的使动态.</definition>
+      <page>424</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠲᠣᠬᠰᠢᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДОТОГШДУУЛАХ</cyrillic>
+      <definition>дотогшдох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠣᠲᠣᠭᠰᠢᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дотогшдуулах</cyrillic>
+      <definition>дотогшдохын үйлдүүлэх хэв.</definition>
+      <page>203</page>
+    </entry_item>
+  </entries>
+</entry>

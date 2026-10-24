@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B4141">
+  <head>
+    <unicode>ᠪᠥᠥᠳᠠᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>büüdegenekü</transcript>
+    <transcript2>böödegenegö</transcript2>
+    <cyrillic>бүүдгэнэх</cyrillic>
+  </head><derivatives>
+    <ref>X0279</ref>
+  </derivatives>
+  <variants>
+    <variant type="cyrillic">бүүдэгнэх</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠦᠦᠳᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>бүүдгэнэх</cyrillic>
+      <definition>〔动〕变阴暗；模糊起来.</definition>
+      <page>238</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠥᠳᠠᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>БҮҮДГЭНЭХ</cyrillic>
+      <definition>хмуриться (о небе).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠦᠦᠳᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>бүүдэгнэх</cyrillic>
+      <definition>〔动〕见 бүүдгэнэх.</definition>
+      <page>238</page>
+    </entry_item>
+  </entries>
+</entry>

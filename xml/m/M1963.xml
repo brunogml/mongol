@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1963">
+  <head>
+    <unicode>ᠮᠣᠺᠢᠷ</unicode>
+    <transcript>mukir</transcript>
+    <transcript2>mogir</transcript2>
+    <cyrillic>мухир</cyrillic>
+  </head>
+  <see_also>
+    <ref>M1963a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠤᠬᠢᠷ</unicode>
+      <cyrillic>мухир</cyrillic>
+      <definition>〔形〕弯曲的，弯斜的：тахир ~ 弯曲的，弯斜的.</definition>
+      <page>699</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠺᠢᠷ</unicode>
+      <cyrillic>МУХИР</cyrillic>
+      <definition>: тахир мухир хорш. а) кривой, изогнутый; б) еле-еле, кое-как; мухир тахир гудамж изогнутая улица. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠤᠬᠢᠷ</unicode>
+      <cyrillic>мухир</cyrillic>
+      <definition>тахир;тахир мухир&lt;хорш&gt;; мухир гудамж.</definition>
+      <page>352</page>
+    </entry_item>
+  </entries>
+</entry>

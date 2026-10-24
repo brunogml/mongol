@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B0956">
+  <head>
+    <unicode>ᠪᠠᠯᠴᠢᠷᠣᠣ</unicode>
+    <transcript>balčirou</transcript>
+    <transcript2>balciroo</transcript2>
+    <cyrillic>балцруу</cyrillic>
+  </head>
+  <variants>
+    <variant type="cyrillic">балчируу</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠯᠴᠢᠷᠣᠣ</unicode>
+      <cyrillic>БАЛЦРУУ</cyrillic>
+      <definition>заболевание копыт дзерена.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠯᠴᠢᠷᠤᠤ</unicode>
+      <cyrillic>балчируу</cyrillic>
+      <definition>〔名〕脚气.</definition>
+      <page>125</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0376">
+  <head>
+    <unicode>ᠮᠠᠭᠣᠯᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>maγulaγdaqu</transcript>
+    <transcript2>magolagdago</transcript2>
+    <cyrillic>муулагдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>M0374</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠭᠤᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>муулагдах</cyrillic>
+      <definition>〔动〕муулах 的被动态.</definition>
+      <page>697</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠭᠣᠯᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>МУУЛАГДАХ</cyrillic>
+      <definition>муулах-ын үйлдэгд., быть на плохом счету. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠭᠤᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>муулагдах</cyrillic>
+      <definition>муулахын үйлдэгдэх хэв.</definition>
+      <page>350</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K3951">
+  <head>
+    <unicode>ᠺᠥᠯᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>kölegülkü</transcript>
+    <transcript2>gölegölgö</transcript2>
+    <cyrillic>хөөлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K3950</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хөөлүүлэх</cyrillic>
+      <definition>〔动〕①хөөлөх 的使动态；②意同 хөөлөгдөх.</definition>
+      <page>1404</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠯᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ХӨӨЛҮҮЛЭХ</cyrillic>
+      <definition>хөөлөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хөөлүүлэх</cyrillic>
+      <definition>Kaus von хөөлөх</definition>
+      <page>321</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хөөлүүлэх</cyrillic>
+      <definition>хөөлөхийн үйлдүүлэх хэв.</definition>
+      <page>713</page>
+    </entry_item>
+  </entries>
+</entry>

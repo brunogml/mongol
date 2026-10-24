@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5233">
+  <head>
+    <unicode>ᠳᠣᠨᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>dunalǰaγulqu</transcript>
+    <transcript2>donalcagolgo</transcript2>
+    <cyrillic>дуналзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T5232</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠤᠨᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дуналзуулах</cyrillic>
+      <definition>〔动〕дналзах 的使动态.</definition>
+      <page>438</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠨᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ДУНАЛЗУУЛАХ</cyrillic>
+      <definition>дуналзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠤᠨᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>дуналзуулах</cyrillic>
+      <definition>дуналзахын үйлдүүлэх хэв.</definition>
+      <page>210</page>
+    </entry_item>
+  </entries>
+</entry>

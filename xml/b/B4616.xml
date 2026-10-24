@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4616">
+  <head>
+    <unicode>ᠪᠥᠵᠢᠺᠯᠠᠺᠥ</unicode>
+    <transcript>böǰiglekü</transcript>
+    <transcript2>böciglegö</transcript2>
+    <cyrillic>бөжиглөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B4618</ref>
+  </derivatives>
+  <see_also>
+    <ref>B4617</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠦᠵᠢᠺᠯᠡᠺᠦ</unicode>
+      <definition>danser</definition>
+      <page>1241</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠦᠵᠢᠺᠯᠡᠨ ᠨᠠᠭᠠᠳᠬᠤ</unicode>
+          <definition>danse, s'amuser à danser</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠦᠵᠢᠺᠯᠡᠨ ᠬᠠᠷᠢᠶᠠᠬᠤ</unicode>
+          <definition>sauter, danser</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠪᠥᠵᠢᠺᠯᠠᠺᠥ</unicode>
+      <uighur>büǰiklekü</uighur>
+      <definition>tanzen.</definition>
+      <page>124</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠵᠢᠭᠯᠡᠬᠦ</unicode>
+      <cyrillic>бөжиглөх</cyrillic>
+      <definition>〔动〕见 бүжиглэх.</definition>
+      <page>185</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠵᠢᠺᠯᠠᠺᠥ</unicode>
+      <cyrillic>БӨЖИГЛӨХ</cyrillic>
+      <definition>бүжиглэх-ийг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бөжиглөх</cyrillic>
+      <definition>= бүжиглэх</definition>
+      <page>58</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠥᠵᠢᠭᠯᠡᠬᠦ</unicode>
+      <cyrillic>бөжиглөх</cyrillic>
+      <definition>бүжиглэх.</definition>
+      <page>97</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠥᠵᠢᠭᠯᠡᠬᠦ</unicode>
+      <cyrillic>бүжиглэх</cyrillic>
+      <definition>бүжиг хийх; би та нарт нэг бүжиг хийж үзүүлье гэв.</definition>
+      <page>115</page>
+    </entry_item>
+  </entries>
+</entry>

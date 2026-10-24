@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6333">
+  <head>
+    <unicode>ᠰᠣᠷᠲᠠᠯᠳᠠᠬᠣ</unicode>
+    <transcript>surtaldaqu</transcript>
+    <transcript2>sordaldago</transcript2>
+    <cyrillic>сурталдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6334</ref>
+    <ref>S6335</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠷᠲᠠᠯᠳᠠᠬᠤ</unicode>
+      <cyrillic>сурталдах</cyrillic>
+      <definition>〔动〕①谆谆教导；②宣传，鼓动，激励；使信服，说服.</definition>
+      <page>965</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠷᠲᠠᠯᠳᠠᠬᠣ</unicode>
+      <cyrillic>СУРТАЛДАХ</cyrillic>
+      <definition>агитировать, убеждать в чём-л. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сурталдах</cyrillic>
+      <definition>agitieren; überreden (zu -ахаар)</definition>
+      <page>206</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠷᠲᠠᠯᠳᠠᠬᠤ</unicode>
+      <cyrillic>сурталдах</cyrillic>
+      <definition>байн байн сургаж ятгах; сурталдаж байгаад сургаалдаа оруулав.</definition>
+      <page>491</page>
+    </entry_item>
+  </entries>
+</entry>

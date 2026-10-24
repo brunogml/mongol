@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A1002">
+  <head>
+    <unicode>ᠠᠭᠣᠷᠰᠢᠬᠣ</unicode>
+    <transcript>aγursiqu</transcript>
+    <transcript2>agorsigo</transcript2>
+    <cyrillic>уурших</cyrillic>
+  </head>
+  <derivatives>
+    <ref>A1005</ref>
+    <ref>A1011</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠭᠣᠷᠰᠢᠬᠣ</unicode>
+      <cyrillic>уурших</cyrillic>
+      <definition>〔动〕汽化，蒸发.</definition>
+      <page>1215</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠣᠷᠰᠢᠬᠣ</unicode>
+      <cyrillic>УУРШИХ</cyrillic>
+      <definition>1. превращаться в пар, испарљться, улетучиваться; ус ууршив вода испарљлась; 2. ууршихуй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠣᠷᠰᠢᠬᠣᠢ</unicode>
+      <cyrillic>УУРШИХУЙ</cyrillic>
+      <definition>испарение; выпаривание. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>уурших</cyrillic>
+      <definition>intr [ver]dampfen, verdunsten; ус уурших байна das Wasser dampft</definition>
+      <page>264</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠭᠤᠷᠰᠢᠬᠤ</unicode>
+      <cyrillic>уурших</cyrillic>
+      <definition>уур болох.</definition>
+      <page>607</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4611">
+  <head>
+    <unicode>ᠭᠣᠬᠴᠣᠭᠠᠯᠳᠣᠬᠣ</unicode>
+    <transcript>γoγčuγalduqu</transcript>
+    <transcript2>gogcogaldogo</transcript2>
+    <cyrillic>гогцоолдох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q4612</ref>
+    <ref>Q4613</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠣᠭᠴᠣᠭᠠᠯᠳᠤᠬᠤ</unicode>
+      <cyrillic>гогцоолдох</cyrillic>
+      <definition>〔动〕参见 гогцоодох.</definition>
+      <page>299</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠬᠴᠣᠭᠠᠯᠳᠣᠬᠣ</unicode>
+      <cyrillic>ГОГЦООЛДОХ</cyrillic>
+      <definition>заматывать, обматывать, складывать петлёй; завязывать петлёй. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠣᠭᠴᠣᠭᠠᠯᠳᠠᠬᠤ</unicode>
+      <cyrillic>гогцоолдох</cyrillic>
+      <definition>утас, сур, дээс зэргийн оосрыг гэлдрэн уях; үүнийг гогцоолдон уявал сайн.</definition>
+      <page>146</page>
+    </entry_item>
+  </entries>
+</entry>

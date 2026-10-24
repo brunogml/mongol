@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="O2026">
+  <head>
+    <unicode>ᠥᠷᠥᠺᠥᠥ</unicode>
+    <transcript>örügüü</transcript>
+    <transcript2>örögöö</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠥᠷᠥᠺᠥᠥ</unicode>
+      <uighur>örügüü</uighur>
+      <transcript>ØRYGYY</transcript>
+      <definition>Same as eregyy, 2.</definition>
+      <page>644</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠦᠷᠦᠭᠦᠦ ~ ᠡᠷᠡᠭᠦᠦ ~ ᠡᠷᠦ</unicode>
+      <definition>menton: 2 mâchoire.</definition>
+      <page>586</page>
+      <examples>
+        <example>
+          <unicode>ᠦᠷᠦᠭᠦᠦ ᠬᠤᠭᠤᠷᠬᠤ</unicode>
+          <definition>casser la mâchoire</definition>
+        </example>
+        <example>
+          <unicode>ᠦᠷᠦᠭᠦᠦ ᠮᠥᠯᠳᠦᠷᠺᠦ</unicode>
+          <definition>démettre la mâchoire</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

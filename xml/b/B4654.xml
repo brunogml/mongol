@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4654">
+  <head>
+    <unicode>ᠪᠥᠺᠠᠳᠠᠶᠢᠳᠠᠺᠥ</unicode>
+    <transcript>bögedeyidekü</transcript>
+    <transcript2>bögedeyidegö</transcript2>
+    <cyrillic>бөөдийдөх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠭᠡᠳᠡᠢᠳᠡᠬᠦ</unicode>
+      <cyrillic>бөөдийдөх</cyrillic>
+      <definition>〔动〕弄得很邋遢，弄得很脏，很令人厌恶.</definition>
+      <page>189</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠺᠠᠳᠠᠶᠢᠳᠠᠺᠥ</unicode>
+      <cyrillic>БӨӨДИЙДӨХ</cyrillic>
+      <definition>быть слишком неопрятным, неряшливым, грязным.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠥᠭᠡᠳᠡᠢᠳᠡᠬᠦ</unicode>
+      <cyrillic>бөөдийдөх</cyrillic>
+      <definition>хэтэрхий бөөдий болох.</definition>
+      <page>99</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>B4648</ref>
+  </related_to>
+</entry>

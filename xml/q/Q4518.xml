@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4518">
+  <head>
+    <unicode>ᠬᠣᠭᠣᠴᠠᠬᠣ</unicode>
+    <transcript>quγučaqu</transcript>
+    <transcript2>gogocago</transcript2>
+    <cyrillic>хугацах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q4519</ref>
+    <ref>Q4520</ref>
+    <ref>Q4521</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠭᠣᠴᠠᠬᠣ</unicode>
+      <uighur>quγučaqu</uighur>
+      <cyrillic>хугацах</cyrillic>
+      <transcript>XUΓUCA-</transcript>
+      <definition>v.t. To set a time or term; to relieve of an obligation or service completely or partially.</definition>
+      <page>981</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠭᠤᠴᠠᠬᠤ</unicode>
+      <definition>arrêter un jour, fixer un jour.</definition>
+      <page>886</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠭᠤᠴᠠᠭᠰᠠᠨ ᠡᠳᠦᠷ</unicode>
+          <definition>le jour fixé, le terme, le jour arrêté</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠣᠭᠣᠴᠠᠬᠣ</unicode>
+      <uighur>quγučaqu</uighur>
+      <definition>bestimmen, feststellen (einen Tag oder Termin).</definition>
+      <page>165</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠣᠭᠣᠴᠠᠬᠣ</unicode>
+      <uighur>quγučaqu</uighur>
+      <definition>To appoint or fix a day, term or time. To fix a day limit</definition>
+      <page>650</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠭᠣᠴᠠᠬᠣ</unicode>
+      <cyrillic>ХУГАЦАХ</cyrillic>
+      <definition>1) назначать срок, устанавливать срок; нэг жилээр хугацах устанавливать срок на один год, устанавливать годичный срок; өдөр хугацах назначать день; 2) полностью или частично снимать повинность; алба хугацах исключить из списка налогоплательщиков. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хугацах</cyrillic>
+      <definition>1. terminlich festlegen; befristen
+2. Strafe, Steuern erlassen</definition>
+      <page>326</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠭᠤᠴᠠᠬᠤ</unicode>
+      <cyrillic>хугацах /1</cyrillic>
+      <definition>хугацаа тогтоож өгөх; хоног хугацаж ажиллуулах хэрэгтэй.</definition>
+      <page>723</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠭᠤᠴᠠᠬᠤ</unicode>
+      <cyrillic>хугацах /2</cyrillic>
+      <definition>хөнгөтгөх, хэлтрүүлэх; ял хугацах; татвар хугацах.</definition>
+      <page>723</page>
+    </entry_item>
+  </entries>
+</entry>

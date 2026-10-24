@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y2683">
+  <head>
+    <unicode>ᠵᠢᠪᠠᠷᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰibarlaγulqu</transcript>
+    <transcript2>yibarlagolgo</transcript2>
+    <cyrillic>жаварлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y2682</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠪᠠᠷᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>жаварлуулах</cyrillic>
+      <definition>〔动〕жаварлах 的使动态.</definition>
+      <page>497</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠪᠠᠷᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЖАВАРЛУУЛАХ</cyrillic>
+      <definition>жаварлах I-ын үйлдүүл., попадать под ветер-верховик. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠪᠠᠷᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>жаварлуулах</cyrillic>
+      <definition>жаварлахын үйлдүүлэх хэв.</definition>
+      <page>239</page>
+    </entry_item>
+  </entries>
+</entry>

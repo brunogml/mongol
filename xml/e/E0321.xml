@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E0321">
+  <head>
+    <unicode>ᠡᠪᠥᠯᠵᠢᠶᠡᠯᠡᠺᠦ</unicode>
+    <transcript>ebölǰiyelekü</transcript>
+    <transcript2>ebölciyelegö</transcript2>
+    <cyrillic>өвөлжөөлөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>E0322</ref>
+    <ref>E0320</ref>
+    <ref>E0323</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠪᠥᠯᠵᠢᠶᠠᠯᠠᠺᠥ</unicode>
+      <uighur>ebülǰiyelekü</uighur>
+      <cyrillic>өвөлжөөлөх</cyrillic>
+      <transcript>EBYLZIJELE-</transcript>
+      <definition>v.i. To move to a winter' camp or winter quarters.</definition>
+      <page>290</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠪᠦᠯᠵᠢᠶᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>өвөлжөөлөх</cyrillic>
+      <definition>〔动〕〈牧〉迁到冬营地；在冬营地过冬，在冬牧地过冬.</definition>
+      <page>831</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠪᠥᠯᠵᠢᠶᠠᠯᠠᠺᠥ</unicode>
+      <cyrillic>ӨВӨЛЖӨӨЛӨХ</cyrillic>
+      <definition>располагаться на зимовке; перекочевать в зимник, жить в зимнике. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠪᠦᠯᠵᠢᠶᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>өвөлжөөлөх</cyrillic>
+      <definition>хүйтэн улирал болоход өвөлжөөнд буудаллах, буух.</definition>
+      <page>429</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>E0319</ref>
+  </related_to>
+</entry>

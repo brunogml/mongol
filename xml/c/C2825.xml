@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C2825">
+  <head>
+    <unicode>ᠴᠣᠪᠣᠭᠣ</unicode>
+    <transcript>čubuγu</transcript>
+    <transcript2>cobogo</transcript2>
+    <cyrillic>цувуу</cyrillic>
+  </head><see_also>
+    <ref>C2824</ref>
+  
+    <ref>C2826</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠣᠪᠣᠭᠣ</unicode>
+      <uighur>čobuγu</uighur>
+      <transcript>COBUΓU</transcript>
+      <definition>See cobuγ-a,</definition>
+      <page>193</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠣᠪᠤᠭᠤ</unicode>
+      <definition>coulant, rapide; agile, prompt, alerte.</definition>
+      <page>2201</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠣᠪᠤᠭᠤ ᠦᠭᠡ</unicode>
+          <definition>un discours coulant</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠪᠣᠭᠣ</unicode>
+      <cyrillic>ЦУВУУ</cyrillic>
+      <definition>1. друг за другом, непрерывно, подряд; 2. плавный; 3. длинный ряд.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

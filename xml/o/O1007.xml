@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1007">
+  <head>
+    <unicode>ᠥᠯᠥᠷᠺᠠᠺᠥ</unicode>
+    <transcript>ölörkekü</transcript>
+    <transcript2>ölörgegö</transcript2>
+    <cyrillic>өлөрхөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>O1008</ref>
+    <ref>O1005</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠯᠥᠷᠬᠡᠬᠦ</unicode>
+      <cyrillic>өлөрхөх</cyrillic>
+      <definition>〔动〕（因饥饿而）觅食.</definition>
+      <page>841</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠯᠥᠷᠺᠠᠺᠥ</unicode>
+      <cyrillic>ӨЛӨРХӨХ</cyrillic>
+      <definition>голодать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠯᠥᠷᠬᠡᠬᠦ</unicode>
+      <cyrillic>өлөрхөх</cyrillic>
+      <definition>өлсч өл хоол эрэх.</definition>
+      <page>435</page>
+    </entry_item>
+  </entries>
+</entry>

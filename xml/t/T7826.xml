@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T7826">
+  <head>
+    <unicode>ᠲᠣᠷᠭᠠᠮᠰᠣᠬ</unicode>
+    <transcript>torγamsuγ</transcript>
+    <transcript2>dorgamsog</transcript2>
+    <cyrillic>торгомсог</cyrillic>
+  </head><see_also>
+    <ref>T7847</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠷᠭᠠᠮᠰᠣᠬ</unicode>
+      <uighur>torγamsoq</uighur>
+      <cyrillic>торгомсог</cyrillic>
+      <transcript>TORΓAMSUΓ</transcript>
+      <definition>[= cyse, 2.] n. Type of Chinese textile, nankeen.</definition>
+      <page>826</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠷ ᠎ᠲᠠᠢ ᠲᠣᠷᠭᠠᠮᠰᠣᠬ</unicode>
+          <transcript>ar tai -- </transcript>
+          <definition> Silk cloth with design.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠰᠡᠨ ᠲᠣᠷᠭᠠᠮᠰᠣᠬ</unicode>
+          <transcript>esen -- </transcript>
+          <definition> Taffeta.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠷᠭᠠᠮᠰᠣᠬ ᠴᠦᠰᠡ</unicode>
+      <definition>espèce d'étoffe chinoise</definition>
+      <page>1892</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠷᠳᠠᠢ ᠳᠤᠷᠭᠠᠮᠰᠣᠬ</unicode>
+          <definition>étoffe parsemée de bouquets</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠰᠡᠨ ᠳᠤᠷᠭᠠᠮᠰᠣᠬ</unicode>
+          <definition>taffetas, étoffe de soie</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B3777">
+  <head>
+    <unicode>ᠪᠣᠺᠢᠶᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>bokiyaraγulqu</transcript>
+    <transcript2>bogiyaragolgo</transcript2>
+    <cyrillic>бохиоруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B3776</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠣᠬᠢᠶᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бохиоруулах</cyrillic>
+      <definition>〔动〕бохиорох 的使动态.</definition>
+      <page>181</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠺᠢᠶᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БОХИОРУУЛАХ</cyrillic>
+      <definition>бохиорох-ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠣᠬᠢᠶᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бохиоруулах</cyrillic>
+      <definition>бохирохын үйлдүүлэх хэв; бохио болгох.</definition>
+      <page>95</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1024">
+  <head>
+    <unicode>ᠴᠠᠯᠺᠠᠯᠵᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>čelkelǰegülkü</transcript>
+    <transcript2>celgelcegölgö</transcript2>
+    <cyrillic>цэлхэлзүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>C1023</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠯᠬᠡᠯᠵᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>цэлхэлзүүлэх</cyrillic>
+      <definition>〔动〕цэлхэлзэх 的使动态.</definition>
+      <page>1563</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠯᠺᠠᠯᠵᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЦЭЛХЭЛЗҮҮЛЭХ</cyrillic>
+      <definition>цэлхэлзэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠯᠬᠡᠯᠵᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>цэлхэлзүүлэх</cyrillic>
+      <definition>цэлхэлзэхийн үйлдүүлэх хэв.</definition>
+      <page>805</page>
+    </entry_item>
+  </entries>
+</entry>

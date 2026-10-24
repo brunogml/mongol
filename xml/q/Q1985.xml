@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1985">
+  <head>
+    <unicode>ᠬᠠᠯᠢᠶᠠᠲᠣᠬᠣ</unicode>
+    <transcript>qaliyatuqu</transcript>
+    <transcript2>galiyadogo</transcript2>
+    <cyrillic>халиатах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q1986</ref>
+    <ref>Q1987</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠯᠢᠶᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>халиатах</cyrillic>
+      <definition>〔动〕①水在冰上流动，流淹凌水；②结冰锥.</definition>
+      <page>1288</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠯᠢᠶᠠᠲᠣᠬᠣ</unicode>
+      <cyrillic>ХАЛИАТАХ</cyrillic>
+      <definition>течь по льду (о воде); образоваться (о наледи). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>халиатах</cyrillic>
+      <definition>Wasser über Eis fließen</definition>
+      <page>287</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠯᠢᠶᠠᠲᠤᠬᠤ</unicode>
+      <cyrillic>халиатах</cyrillic>
+      <definition>халиа тогтох.</definition>
+      <page>649</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5480">
+  <head>
+    <unicode>ᠳᠣᠩᠬᠣᠶᠢᠯᠭᠠᠬᠣ</unicode>
+    <transcript>dongquyilγaqu</transcript>
+    <transcript2>donggoyilgago</transcript2>
+    <cyrillic>донхойлгох</cyrillic>
+  </head>
+  <see_also>
+    <ref>T5479</ref>
+    <ref>T5481</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠣᠩᠬᠣᠢᠯᠭᠠᠬᠤ</unicode>
+      <cyrillic>донхойлгох</cyrillic>
+      <definition>〔动〕донхойх 的使动态.</definition>
+      <page>416</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠩᠬᠣᠶᠢᠯᠭᠠᠬᠣ</unicode>
+      <cyrillic>ДОНХОЙЛГОХ</cyrillic>
+      <definition>донхойх-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠣᠩᠬᠣᠢᠯᠭᠠᠬᠤ</unicode>
+      <cyrillic>донхойлгох</cyrillic>
+      <definition>донхойхын үйлдүүлэх хэв; донхгор болгох.</definition>
+      <page>200</page>
+    </entry_item>
+  </entries>
+</entry>

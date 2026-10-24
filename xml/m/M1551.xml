@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1551">
+  <head>
+    <transcript>montaǰlaqu</transcript>
+    <transcript2>mondaclago</transcript2>
+    <cyrillic>монтажлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M1552</ref>
+    <ref>M1553</ref>
+    <ref>M1555</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠣᠨᠲ᠋ᠠᠵᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>монтажлах</cyrillic>
+      <definition>〔动〕安装，装置，装配.</definition>
+      <page>679</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>МОНТАЖЛАХ</cyrillic>
+      <definition>делать монтаж, монтировать; кино монтажлах монтировать фильм; машин монтажлах монтировать машину. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>монтажлах</cyrillic>
+      <definition>montieren; anpassen</definition>
+      <page>144</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠣᠨᠲ᠋ᠠᠵᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>монтажлах</cyrillic>
+      <definition>монтаж хийх; зураг монтажлах.</definition>
+      <page>340</page>
+    </entry_item>
+  </entries>
+</entry>

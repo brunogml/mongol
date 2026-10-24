@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5522">
+  <head>
+    <unicode>ᠰᠣᠪᠢᠳᠠᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>subidaγlaγulqu</transcript>
+    <transcript2>sobidaglagolgo</transcript2>
+    <cyrillic>сувдаглуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S5521</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠪᠳᠠᠭᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сувдаглуулах</cyrillic>
+      <definition>〔动〕сувдаглах 的使动态.</definition>
+      <page>953</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠪᠢᠳᠠᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>СУВДАГЛУУЛАХ</cyrillic>
+      <definition>сувдаглах-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сувдаглуулах</cyrillic>
+      <definition>Kaus von сувдаглах</definition>
+      <page>203</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠪᠢᠳᠠᠭᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сувьдаглуулах</cyrillic>
+      <definition>сувьдаглахын үйлдүүлэх хэв.</definition>
+      <page>486</page>
+    </entry_item>
+  </entries>
+</entry>

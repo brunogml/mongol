@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8566">
+  <head>
+    <unicode>ᠲᠥᠰᠥᠺᠠᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>tösügelegülkü</transcript>
+    <transcript2>dösögelegölgö</transcript2>
+    <cyrillic>төсөөлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T8565</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠥᠰᠥᠭᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>төсөөлүүлэх</cyrillic>
+      <definition>〔动〕төсөөлөх 的使动态.</definition>
+      <page>1104</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠰᠥᠺᠠᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ТӨСӨӨЛҮҮЛЭХ</cyrillic>
+      <definition>төсөөлөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠥᠰᠥᠭᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>төсөөлүүлэх</cyrillic>
+      <definition>төсөөлөхийн үйлдүүлэх хэв.</definition>
+      <page>553</page>
+    </entry_item>
+  </entries>
+</entry>

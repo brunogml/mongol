@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q1734">
+  <head>
+    <unicode>ᠭᠠᠳᠣᠰᠣ</unicode>
+    <transcript>γadusu</transcript>
+    <transcript2>gadoso</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠠᠳᠣᠰᠣᠨ ~ ᠭᠠᠳᠣᠰᠤ</unicode>
+      <definition>voy. gadasun</definition>
+      <page>993</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠭᠠᠳᠣᠰᠣ</unicode>
+      <uighur>γadoson</uighur>
+      <definition>der Pflock, der kurze Pfahl</definition>
+      <page>194</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠭᠠᠳᠣᠰᠣ</unicode>
+      <uighur>γadusu</uighur>
+      <definition>n. A wooden peg, a tent-peg. A nail.</definition>
+      <page>765</page>
+      <examples>
+        <example>
+          <uighur>γadasun siγaqu</uighur>
+          <definition>v.t. To drive in a tent-peg or a nail.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

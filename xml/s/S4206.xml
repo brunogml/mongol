@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4206">
+  <head>
+    <unicode>ᠰᠢᠵᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>siǰaraγulqu</transcript>
+    <transcript2>sicaragolgo</transcript2>
+    <cyrillic>шазруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S4203</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠵᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шазруулах</cyrillic>
+      <definition>〔动〕шазрах 的使动态.</definition>
+      <page>1609</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠵᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАЗРУУЛАХ</cyrillic>
+      <definition>шазрах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠵᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шазруулах</cyrillic>
+      <definition>шазрахын үйлдүүлэх хэв.</definition>
+      <page>831</page>
+    </entry_item>
+  </entries>
+</entry>

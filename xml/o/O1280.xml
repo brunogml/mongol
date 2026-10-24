@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1280">
+  <head>
+    <unicode>ᠥᠵᠠᠮᠵᠢᠲᠥ</unicode>
+    <transcript>üǰemǰitü</transcript>
+    <transcript2>öcemcidö</transcript2>
+    <cyrillic>үзэмжт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠥᠵᠠᠮᠵᠢᠲᠥ</unicode>
+      <uighur>üǰemǰidü</uighur>
+      <cyrillic>үзэмжит</cyrillic>
+      <transcript>YZEMZITY</transcript>
+      <definition>See yzemzitei.</definition>
+      <page>1017</page>
+      <examples>
+        <example>
+          <unicode>ᠥᠵᠠᠮᠵᠢᠲᠥ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Unseen before, exceptional; ugly, disgusting.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠦᠵᠡᠮᠵᠢᠳᠦ ~ ᠦᠵᠡᠮᠵᠢᠳᠡᠢ</unicode>
+      <definition>visible; 2 d'une belle taille, beau, charmant, gentil.</definition>
+      <page>545</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠵᠠᠮᠵᠢᠲᠥ</unicode>
+      <cyrillic>ҮЗЭМЖИТ</cyrillic>
+      <definition>үзэмжтэй-г үз., † үзэмжит шарилж ург. полынь красљвая. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠦᠵᠡᠮᠵᠢᠲᠦ</unicode>
+      <cyrillic>үзэмжит</cyrillic>
+      <definition>үзэмж буй, гоё; үзэмжит сайхан нутаг.</definition>
+      <page>617</page>
+    </entry_item>
+  </entries>
+</entry>

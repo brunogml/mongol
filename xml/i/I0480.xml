@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="I0480">
+  <head>
+    <unicode>ᠢᠯ</unicode>
+    <transcript>il</transcript>
+    <transcript2>il</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠢᠯ</unicode>
+      <uighur>il</uighur>
+      <transcript>IL</transcript>
+      <definition>See el.</definition>
+      <page>401</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠢᠯ ~ ᠡᠯ</unicode>
+      <page>294</page>
+      <examples>
+        <example>
+          <unicode>ᠢᠯ ᠤᠯᠤᠰ</unicode>
+          <definition>les coalisés, amis.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

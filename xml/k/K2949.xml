@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K2949">
+  <head>
+    <unicode>ᠺᠥᠥᠺᠯᠡᠺᠥ</unicode>
+    <transcript>kööglekü</transcript>
+    <transcript2>gööglegö</transcript2>
+    <cyrillic>хөөглөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K2950</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠥᠭᠯᠡᠬᠦ</unicode>
+      <cyrillic>хөөглөх</cyrillic>
+      <definition>〔动〕吆喝着赶牲畜.</definition>
+      <page>1403</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠥᠺᠯᠡᠺᠥ</unicode>
+      <cyrillic>ХӨӨГЛӨХ</cyrillic>
+      <definition>произносить хок, окрикнуть на быков и верблюдов. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠥᠭᠯᠡᠬᠦ</unicode>
+      <cyrillic>хөөглөх</cyrillic>
+      <definition>малыг хөөг хөөг гэж зандах.</definition>
+      <page>713</page>
+    </entry_item>
+  </entries>
+</entry>

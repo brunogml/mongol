@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="M1234">
+  <head>
+    <unicode>ᠮᠠᠺᠳᠠᠷᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>megderegülkü</transcript>
+    <transcript2>megderegölgö</transcript2>
+    <cyrillic>мэгдрүүлэх</cyrillic>
+  </head><related_to>
+    <ref>M1233</ref>
+  
+    <ref>M1245</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠡᠭᠳᠡᠷᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>мэгдрүүлэх</cyrillic>
+      <definition>〔动〕мэгдрэх 的使动态.</definition>
+      <page>700</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠺᠳᠠᠷᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>МЭГДРҮҮЛЭХ</cyrillic>
+      <definition>мэгдрэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S2145">
+  <head>
+    <unicode>ᠰᠠᠳᠠᠷᠠᠺᠠᠢ</unicode>
+    <transcript>sederekei</transcript>
+    <transcript2>sederegei</transcript2>
+    <cyrillic>сэдэрхий</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠳᠠᠷᠠᠺᠠᠢ</unicode>
+      <uighur>sederekei</uighur>
+      <transcript>SETEREKEI</transcript>
+      <definition>see seterkei,</definition>
+      <page>692</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠡᠳᠡᠷᠡᠺᠡᠢ</unicode>
+      <definition>coupé, décousu. découpê, déchiré, rompu</definition>
+      <page>1347</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠡᠳᠡᠷᠡᠺᠡᠢ ᠣᠷᠤᠭᠤᠯᠲᠤ</unicode>
+          <definition>qui a les lèvres coupées, bec de lièvre</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠡᠳᠡᠷᠡᠺᠡᠢ ᠬᠠᠪᠤᠷᠲᠤ</unicode>
+          <definition>dont les narines sont coupées</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠳᠠᠷᠠᠺᠠᠢ</unicode>
+      <cyrillic>СЭДЭРХИЙ</cyrillic>
+      <definition>раздражающийся. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

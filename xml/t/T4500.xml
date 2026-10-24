@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T4500">
+  <head>
+    <unicode>ᠳᠠᠺᠢᠺᠥᠷᠳᠠᠺᠥ</unicode>
+    <transcript>degigürdekü</transcript>
+    <transcript2>degigördegö</transcript2>
+    <cyrillic>дэхүүрдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T4501</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠡᠺᠢᠭᠦᠷᠳᠡᠺᠦ ~ ᠳᠡᠪᠢᠭᠦᠷᠳᠡᠺᠦ</unicode>
+      <definition>s'éventer.</definition>
+      <page>1749</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠡᠬᠡᠭᠦᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>дэхүүрдэх</cyrillic>
+      <definition>〔动〕（用掸子）掸，拂.</definition>
+      <page>478</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠺᠢᠺᠥᠷᠳᠠᠺᠥ</unicode>
+      <cyrillic>ДЭХҮҮРДЭХ</cyrillic>
+      <definition>обмахиваться веером. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠬᠢᠭᠦᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>дэхүүрдэх</cyrillic>
+      <definition>дэхүүрээр дэвэлхийлэх, дэвүүрдэх.</definition>
+      <page>230</page>
+    </entry_item>
+  </entries>
+</entry>

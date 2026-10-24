@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U0465">
+  <head>
+    <unicode>ᠣᠩᠭᠣᠬᠣ</unicode>
+    <transcript>ungγuqu</transcript>
+    <transcript2>onggogo</transcript2>
+    <cyrillic>унгах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U0467</ref>
+    <ref>U0506</ref>
+  </derivatives>
+  <see_also>
+    <ref>U0439</ref>
+    <ref>U0466</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠩᠭᠤᠬᠤ</unicode>
+      <cyrillic>унгах</cyrillic>
+      <definition>〔动〕放屁.</definition>
+      <page>1192</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠩᠭᠣᠬᠣ</unicode>
+      <cyrillic>УНГАХ</cyrillic>
+      <definition>выпускать кишечный газ; страдать газоиспусканием. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠩᠭᠤᠬᠤ</unicode>
+      <cyrillic>унгах</cyrillic>
+      <definition>хэвэл доторхи хий доош гарах.</definition>
+      <page>593</page>
+    </entry_item>
+  </entries>
+</entry>

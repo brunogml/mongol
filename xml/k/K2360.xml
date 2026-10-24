@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K2360">
+  <head>
+    <unicode>ᠺᠢᠮᠳᠠᠳᠠᠬᠣ</unicode>
+    <transcript>kimdadaqu</transcript>
+    <transcript2>gimdadago</transcript2>
+    <cyrillic>хямддах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K2361</ref>
+    <ref>K2362</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠢᠮᠳᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>хямддах</cyrillic>
+      <definition>〔动〕①变贱，变便宜；②变得简单，变容易，变简便.</definition>
+      <page>1501</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠮᠳᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>ХЯМДДАХ</cyrillic>
+      <definition>оказываться слишком дешёвым, быть очень дешёвым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хямддах</cyrillic>
+      <definition>1. zu billig sein
+2. zu einfach sein</definition>
+      <page>347</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠢᠮᠳᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>хямддах</cyrillic>
+      <definition>хэтэрхий хямд болох.</definition>
+      <page>771</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠢᠮᠳᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>хямддуулах</cyrillic>
+      <definition>хямддахын үйлдүүлэх хэв.</definition>
+      <page>771</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5888">
+  <head>
+    <unicode>ᠱᠣᠯᠭᠣᠷᠠᠬᠣ</unicode>
+    <transcript>šulγuraqu</transcript>
+    <transcript2>solgorago</transcript2>
+    <cyrillic>шулгарах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5889</ref>
+    <ref>S5890</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠤᠯᠭᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>шулгарах</cyrillic>
+      <definition>〔动〕（表皮）剥落、脱落.</definition>
+      <page>1658</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠯᠭᠣᠷᠠᠬᠣ</unicode>
+      <cyrillic>ШУЛГАРАХ</cyrillic>
+      <definition>сдираться (о коже), получить ссадину, царапину. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шулгарах</cyrillic>
+      <definition>Haut u. ä. sich [ab]lösen</definition>
+      <page>391</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠤᠯᠭᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>шулгарах</cyrillic>
+      <definition>арьс зэрэг юм зулгарах, шалбарах.</definition>
+      <page>858</page>
+    </entry_item>
+  </entries>
+</entry>

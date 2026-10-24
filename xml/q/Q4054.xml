@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4054">
+  <head>
+    <unicode>ᠬᠣᠨᠣᠬᠣ</unicode>
+    <transcript>qonuqu</transcript>
+    <transcript2>gonogo</transcript2>
+    <cyrillic>хонох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q4055</ref>
+    <ref>Q4070</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠨᠣᠬᠣ</unicode>
+      <uighur>qonoqu</uighur>
+      <cyrillic>хонох</cyrillic>
+      <transcript>XONU-</transcript>
+      <definition>v.i. To spend the night</definition>
+      <page>964</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠨᠣᠬᠣ ᠭᠠᠵᠠᠷ</unicode>
+          <transcript>--xu γazar</transcript>
+          <definition> Lodging, shelter for the night.</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠤᠷᠪᠠ ᠬᠣᠨᠣᠬᠣ</unicode>
+          <transcript>γurba --xu</transcript>
+          <definition> To pass three nights, stay over three days.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠨᠣᠬᠤ</unicode>
+      <definition>passer la nuit</definition>
+      <page>867</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠣᠨᠣᠬᠣ</unicode>
+      <uighur>qunoqu</uighur>
+      <definition>übernachten.</definition>
+      <page>161</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠣᠨᠣᠬᠣ</unicode>
+      <uighur>qunuqu</uighur>
+      <definition>v.i. To lodge for the night. To pass the night.</definition>
+      <page>632</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠣᠨᠣᠬᠤ</unicode>
+      <cyrillic>хонох</cyrillic>
+      <definition>〔动〕住宿，过夜；寄宿，借宿：нэг ~ 住一宿，过一夜；айлд ~ 住在村落里，住在人家家里；хээр ~ 在草地上过夜，露宿.</definition>
+      <page>1363</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠨᠣᠬᠣ</unicode>
+      <cyrillic>ХОНОХ</cyrillic>
+      <definition>ночевать, проводить ночь; исчислять время в сутках; гэрт (айлд) хонох заночевать в юрте; гурав хонох проводить трое суток; гурав хоноод проведя три ночи, через трое суток; гурав хоносны хойно по истечении трёх суток; гурав хонотол в течение трёх суток; нүд анилгүй хонох проводить ночь не смыкая глаз; хүйтэн хонох проводить холодную ночь; хээр хонох ночевать в степи, под открытым небом; хонох газар ночлег; хонохоор буух остановиться для ночёвки; бид тав хонож ирлээ мы ездили пять суток. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хонох</cyrillic>
+      <definition>übernachten, über Nacht bleiben, nächtigen (bei jmdm. ~ынд; in -д); ~ газар Nachtlager n, Nachtquartier n; би хоёр хонож ирлэзэ ich war zwei Tage unterwegs; нүд анилан хонох während der Nacht kein Auge zutun; хэзэр ~ in der Steppe übernachten</definition>
+      <page>310</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠨᠣᠬᠤ</unicode>
+      <cyrillic>хонох</cyrillic>
+      <definition>шөнийг өнгөрөөх, нөхцөөх; нэг хонох; хээр хонох; хонон өнжин явах; зуур хонох; айлд хонох.</definition>
+      <page>690</page>
+    </entry_item>
+  </entries>
+</entry>

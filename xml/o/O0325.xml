@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O0325">
+  <head>
+    <unicode>ᠥᠨᠳᠥᠷᠳᠠᠺᠥ</unicode>
+    <transcript>öndürdekü</transcript>
+    <transcript2>öndördegö</transcript2>
+    <cyrillic>өндөрдөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>O0327</ref>
+    <ref>O0324</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠥᠨᠳᠥᠷᠳᠠᠺᠥ</unicode>
+      <uighur>öndürdekü</uighur>
+      <transcript>ØNDYRDE-</transcript>
+      <definition>Same as øndyrid-.</definition>
+      <page>637</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠨᠳᠥᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>өндөрдөх</cyrillic>
+      <definition>〔动〕变高，变得太高.</definition>
+      <page>849</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠨᠳᠥᠷᠳᠠᠺᠥ</unicode>
+      <cyrillic>ӨНДӨРДӨХ</cyrillic>
+      <definition>быть чрезмерно высоким; багана нь өндөрдсөн майхан шатёр с непомерно высокими подпорками. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠨᠳᠥᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>өндөрдөх</cyrillic>
+      <definition>хэтэрхий өндөр болох; багана нь өндөрдсөн майхан.</definition>
+      <page>439</page>
+    </entry_item>
+  </entries>
+</entry>

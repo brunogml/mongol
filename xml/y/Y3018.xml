@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3018">
+  <head>
+    <unicode>ᠵᠢᠯᠢᠢᠳᠡᠺᠥ</unicode>
+    <transcript>ǰiliidekü</transcript>
+    <transcript2>yiliidegö</transcript2>
+    <cyrillic>жилийдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y3019</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠯᠢᠢᠳᠡᠬᠦ</unicode>
+      <cyrillic>жилийдэх</cyrillic>
+      <definition>〔动〕涂擦松脂，抹松香，擦树腊.</definition>
+      <page>509</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠯᠢᠢᠳᠡᠺᠥ</unicode>
+      <cyrillic>ЖИЛИЙДЭХ</cyrillic>
+      <definition>натирать канифолью, канифолить. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠯᠢᠢᠳᠡᠬᠦ</unicode>
+      <cyrillic>жилийдэх</cyrillic>
+      <definition>юманд жилий түрхэх.</definition>
+      <page>246</page>
+    </entry_item>
+  </entries>
+</entry>

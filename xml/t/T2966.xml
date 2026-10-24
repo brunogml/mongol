@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2966">
+  <head>
+    <unicode>ᠲᠠᠷᠮᠠᠭᠣᠷᠳᠠᠬᠣ</unicode>
+    <transcript>tarmaγurdaqu</transcript>
+    <transcript2>darmagordago</transcript2>
+    <cyrillic>тармуурдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T2967</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠷᠮᠠᠭᠤᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>тармуурдах</cyrillic>
+      <definition>〔动〕参见 тармах.</definition>
+      <page>1032</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠷᠮᠠᠭᠣᠷᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТАРМУУРДАХ</cyrillic>
+      <definition>грестљ граблями. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тармуурдах</cyrillic>
+      <definition>harken, rechen</definition>
+      <page>221</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠷᠮᠠᠭᠤᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>тармуурдах</cyrillic>
+      <definition>тармуураар хамах, тармуулдах.</definition>
+      <page>523</page>
+    </entry_item>
+  </entries>
+</entry>

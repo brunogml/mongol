@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q3039">
+  <head>
+    <unicode>ᠬᠠᠶᠢᠯᠣᠮᠠᠬᠲᠣᠬᠣ</unicode>
+    <transcript>qayilumaγtuqu</transcript>
+    <transcript2>gayilomagdogo</transcript2>
+    <cyrillic>хайлмагтах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q3040</ref>
+    <ref>Q3041</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠶᠢᠯᠣᠮᠠᠬᠲᠣᠬᠣ</unicode>
+      <cyrillic>ХАЙЛМАГТАХ</cyrillic>
+      <definition>становиться плавким, расплавляться; растаивать, подтаивать; цас хайлмагтана снег подтаивает. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хайлмагтах,</cyrillic>
+      <definition>хайлмагших zerschmelzen, zerfließen, zerlaufen</definition>
+      <page>284</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠢᠯᠮᠠᠭᠲᠤᠬᠤ</unicode>
+      <cyrillic>хайлмагтах</cyrillic>
+      <definition>хайлмаг янзтай болох.</definition>
+      <page>644</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q3037</ref>
+  </related_to>
+</entry>

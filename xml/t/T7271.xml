@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7271">
+  <head>
+    <unicode>ᠳᠣᠮᠳᠠᠭᠣᠷᠳᠠᠬᠣ</unicode>
+    <transcript>dumdaγurdaqu</transcript>
+    <transcript2>domdagordago</transcript2>
+    <cyrillic>дундуурдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T7273</ref>
+    <ref>T7274</ref>
+    <ref>T7272</ref>
+  </derivatives>
+  <see_also>
+    <ref>T7272</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠮᠳᠠᠭᠣᠷᠳᠠᠬᠣ</unicode>
+      <cyrillic>ДУМДУУРДАХ</cyrillic>
+      <definition>дундуурдах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠮᠳᠠᠭᠣᠷᠳᠠᠬᠣ</unicode>
+      <cyrillic>ДУНДУУРДАХ</cyrillic>
+      <definition>быть только наполовину, на середине. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠤᠮᠳᠠᠭᠤᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>дундуурдах</cyrillic>
+      <definition>нэндүү дундуур болох.</definition>
+      <page>211</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T7269</ref>
+  </related_to>
+</entry>

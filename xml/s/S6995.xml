@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6995">
+  <head>
+    <unicode>ᠰᠥᠷᠥᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>sörülegülkü</transcript>
+    <transcript2>sörölegölgö</transcript2>
+    <cyrillic>сөрлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S6994</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠥᠷᠥᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сөрлүүлэх</cyrillic>
+      <definition>〔动〕сөрлөх 的使动态.</definition>
+      <page>949</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠥᠷᠥᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>СӨРЛҮҮЛЭХ</cyrillic>
+      <definition>сөрлөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠥᠷᠥᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сөрлүүлэх</cyrillic>
+      <definition>сөрлөхийн үйлдүүлэх хэв.</definition>
+      <page>484</page>
+    </entry_item>
+  </entries>
+</entry>

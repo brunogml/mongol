@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4656">
+  <head>
+    <unicode>ᠪᠥᠺᠠᠳᠠᠶᠢᠺᠥ</unicode>
+    <transcript>bögedeyikü</transcript>
+    <transcript2>bögedeyigö</transcript2>
+    <cyrillic>бөөдийх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠭᠡᠳᠡᠢᠬᠦ</unicode>
+      <cyrillic>бөөдийх</cyrillic>
+      <definition>〔动〕变得小而难看，变猥琐.</definition>
+      <page>189</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠺᠠᠳᠠᠶᠢᠺᠥ</unicode>
+      <cyrillic>БӨӨДИЙХ</cyrillic>
+      <definition>становиться неприглядным, выглядеть неопрятным, грязным.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠥᠭᠡᠳᠡᠢᠬᠦ</unicode>
+      <cyrillic>бөөдийх</cyrillic>
+      <definition>бөөдгөр болох, бөөдийж харагдах.</definition>
+      <page>99</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>B4648</ref>
+  </related_to>
+</entry>

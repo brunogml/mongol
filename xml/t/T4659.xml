@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T4659">
+  <head>
+    <unicode>ᠲᠠᠺᠳᠠᠯᠵᠠᠺᠥ</unicode>
+    <transcript>tegdelǰekü</transcript>
+    <transcript2>degdelcegö</transcript2>
+    <cyrillic>тэгдэлзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T4661</ref>
+  </derivatives>
+  <see_also>
+    <ref>T4658</ref>
+    <ref>T4660</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠡᠭᠳᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>тэгдэлзэх</cyrillic>
+      <definition>〔动〕参见 тогдгонох.</definition>
+      <page>1148</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠺᠳᠠᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>ТЭГДЭЛЗЭХ</cyrillic>
+      <definition>тэгдгэнэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠭᠳᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>тэгдэлзэх</cyrillic>
+      <definition>тэгдгэр юмны байн байн хөдлөх.</definition>
+      <page>573</page>
+    </entry_item>
+  </entries>
+</entry>

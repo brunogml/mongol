@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A1291">
+  <head>
+    <unicode>ᠠᠬᠷᠣᠨᠣᠮᠢᠴᠢ</unicode>
+    <transcript>agronomiči</transcript>
+    <transcript2>agronomici</transcript2>
+    <cyrillic>агрономч</cyrillic>
+  </head>
+  <see_also>
+    <ref>A3475</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠬᠷᠣᠨᠣᠮᠢᠴᠢ</unicode>
+      <cyrillic>АГРОНОМЧ</cyrillic>
+      <definition>агроном; газар тариалангийн мэргэжилтэн–г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Bawden</dico>
+      <cyrillic>агрономч</cyrillic>
+      <definition>agronomist</definition>
+      <page>5</page>
+    </entry_item>
+  </entries>
+</entry>

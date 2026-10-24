@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1745">
+  <head>
+    <unicode>ᠰᠠᠷᠨᠠᠶᠢᠬᠣ</unicode>
+    <transcript>sarnayiqu</transcript>
+    <transcript2>sarnayigo</transcript2>
+    <cyrillic>сарнайх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1747</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠷᠨᠠᠢᠬᠤ</unicode>
+      <cyrillic>сарнайх</cyrillic>
+      <definition>〔动〕长成朝天鼻；长成大鼻孔；鼻孔肿胀.</definition>
+      <page>919</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠷᠨᠠᠶᠢᠬᠣ</unicode>
+      <cyrillic>САРНАЙХ</cyrillic>
+      <definition>раздуваться (о ноздрях). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сарнайх</cyrillic>
+      <definition>= сартайх</definition>
+      <page>196</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠷᠨᠠᠢᠬᠤ</unicode>
+      <cyrillic>сарнайх</cyrillic>
+      <definition>сарнагар болох.</definition>
+      <page>471</page>
+    </entry_item>
+  </entries>
+</entry>

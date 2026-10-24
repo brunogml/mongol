@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2225">
+  <head>
+    <unicode>ᠰᠠᠯᠢᠪᠠᠯᠵᠠᠺᠥ</unicode>
+    <transcript>selibelǰekü</transcript>
+    <transcript2>selibelcegö</transcript2>
+    <cyrillic>сэлбэлзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S2226</ref>
+    <ref>S2224</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠯᠪᠢᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>сэлбэлзэх</cyrillic>
+      <definition>〔动〕东张西望，左顾右盼.</definition>
+      <page>985</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠯᠢᠪᠠᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>СЭЛБЭЛЗЭХ</cyrillic>
+      <definition>смотреть большими глазами; стрелять глазами. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сэлбэлзэх</cyrillic>
+      <definition>mit großen Augen schauen</definition>
+      <page>210</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠯᠪᠢᠴᠡᠬᠦ</unicode>
+      <cyrillic>сэлбэлзэх</cyrillic>
+      <definition>хүн амьтны ийш тийш сэртвэлзэн хялбалзан хөдлөх, харах.</definition>
+      <page>502</page>
+    </entry_item>
+  </entries>
+</entry>

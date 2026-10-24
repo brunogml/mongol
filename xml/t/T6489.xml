@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6489">
+  <head>
+    <unicode>ᠳᠣᠰᠢᠷᠠᠬᠣ</unicode>
+    <transcript>dosiraqu</transcript>
+    <transcript2>dosirago</transcript2>
+    <cyrillic>дошрох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T6490</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠣᠰᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>дошрох</cyrillic>
+      <definition>〔动〕成小丘，成小土堆.</definition>
+      <page>426</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠰᠢᠷᠠᠬᠣ</unicode>
+      <cyrillic>ДОШРОХ</cyrillic>
+      <definition>оледенеть (о ледяной горке). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠣᠱᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>дошрох</cyrillic>
+      <definition>дош болох; ус доширсон байв.</definition>
+      <page>204</page>
+    </entry_item>
+  </entries>
+</entry>

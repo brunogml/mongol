@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1723">
+  <head>
+    <unicode>ᠵᠠᠶᠢᠷᠲᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰayirtuγulqu</transcript>
+    <transcript2>yayirdogolgo</transcript2>
+    <cyrillic>зайртуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y1722</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠢᠷᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зайртуулах</cyrillic>
+      <definition>〔动〕зайртах 的使动态.</definition>
+      <page>534</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠶᠢᠷᠲᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗАЙРТУУЛАХ</cyrillic>
+      <definition>зайртах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠢᠷᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зайртуулах</cyrillic>
+      <definition>зайртахын үйлдүүлэх хэв.</definition>
+      <page>261</page>
+    </entry_item>
+  </entries>
+</entry>

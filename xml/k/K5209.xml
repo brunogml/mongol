@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K5209">
+  <head>
+    <unicode>ᠺᠥᠷᠴᠢᠺᠢᠨᠡᠺᠥ</unicode>
+    <transcript>kürčiginekü</transcript>
+    <transcript2>görciginegö</transcript2>
+    <cyrillic>хүрчигнэх</cyrillic>
+  </head>
+  <see_also>
+    <ref>K5210</ref>
+  </see_also>
+  <derivatives>
+    <ref>K5212</ref>
+    <ref>K5207</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠦᠷᠴᠢᠭᠢᠨᠡᠬᠦ</unicode>
+      <cyrillic>хүрчигнэх</cyrillic>
+      <definition>〔动〕不断轰鸣，轰隆隆响，接连发出霹雷声.</definition>
+      <page>1460</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠷᠴᠢᠺᠢᠨᠡᠺᠥ</unicode>
+      <cyrillic>ХҮРЧИГНЭХ</cyrillic>
+      <definition>продолжительно, длительно грохотать, рычать.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠦᠷᠴᠢᠭᠢᠨᠡᠺᠦ</unicode>
+      <definition>faire du bruit, grogner, bouillonner</definition>
+      <page>2651</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠦᠷᠴᠢᠭᠢᠨᠡᠵᠦ ᠳᠠᠭᠤ ᠭᠠᠷᠬᠤ</unicode>
+          <definition>un roulement de tonnerre prolongé</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хүрчигнэх</cyrillic>
+      <definition>= хүржигнэх</definition>
+      <page>336</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠦᠷᠴᠢᠭᠢᠨᠡᠬᠦ</unicode>
+      <cyrillic>хүрчигнэх</cyrillic>
+      <definition>өтгөн ихээхэн дууны үргэлжлэн дуугарах, хүржигнэх; аянгын дуу үргэлжлэн хүрчигнэх.</definition>
+      <page>748</page>
+    </entry_item>
+  </entries>
+</entry>

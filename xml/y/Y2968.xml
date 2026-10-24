@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y2968">
+  <head>
+    <unicode>ᠵᠢᠲᠭᠦᠯᠭᠡ</unicode>
+    <transcript>ǰitgülge</transcript>
+    <transcript2>yidgölge</transcript2>
+    <cyrillic>зүтгэлгэ</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠢᠳᠭᠦᠯᠺᠡ ~ ᠵᠢᠳᠭᠦᠯᠭᠡᠨ</unicode>
+      <uighur>ǰidgülke - ǰidgülgen</uighur>
+      <cyrillic>зүтгэлгэ</cyrillic>
+      <transcript>ZIDKYLGE(N)</transcript>
+      <definition>n. Diligence, application, zeal, earnestness; endeavor</definition>
+      <page>1049</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠢᠳᠭᠦᠯᠺᠡ ᠢᠯᠡᠷᠡᠺᠦ</unicode>
+          <transcript>-- ilereky</transcript>
+          <definition>For one's efforts to show results.</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠢᠳᠭᠦᠯᠺᠡᠨ ᠢ ᠡᠭᠦᠰᠭᠡᠺᠦ</unicode>
+          <transcript>--n i egysgeky</transcript>
+          <definition>To start an endeavor.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠢᠳᠭᠦᠯᠺᠡ ~ ᠵᠢᠳᠭᠦᠯᠺᠡᠨ</unicode>
+      <definition>diligence, effort que l'on fait pour acquérir qc., application, zèle, empressement</definition>
+      <page>2343</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠢᠲᠭᠦᠯᠭᠡᠨ ᠢ ᠡᠭᠦᠰᠭᠡᠺᠦ</unicode>
+          <definition>s'efforcer de, faire ses efforts pour, témoigner son zèle</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠢᠲᠭᠦᠯᠭᠡ ᠢᠯᠡᠷᠡᠺᠦ</unicode>
+          <definition>montrer par ses actions son zèle pour le service, se distinguer par son zèle</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <uighur>ǰidgülke</uighur>
+      <definition>n. Exertion. Effort.</definition>
+      <page>1230</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠳᠬᠦᠯᠭᠡ</unicode>
+      <cyrillic>зүтгэлгэ</cyrillic>
+      <definition>〔名〕参见 зүтгэлэг.</definition>
+      <page>589</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ЗҮТГЭЛЭГ</cyrillic>
+      <definition>усердие, старание; зүтгэл-ийг үз.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+<related_to><ref>Y2962</ref></related_to><derivatives><ref>Y2969</ref></derivatives></entry>

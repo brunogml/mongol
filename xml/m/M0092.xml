@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="M0092">
+  <head>
+    <unicode>ᠮᠠᠨᠳᠣᠯᠢᠨᠳᠠᠬᠣ</unicode>
+    <transcript>mandolindaqu</transcript>
+    <transcript2>mandolindago</transcript2>
+    <cyrillic>мандолиндах</cyrillic>
+  </head><derivatives>
+    <ref>M0093</ref>
+  
+    <ref>M0095</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠨᠳᠤᠯᠢᠨᠳᠠᠬᠤ</unicode>
+      <cyrillic>мандолиндах</cyrillic>
+      <definition>〔动〕弹奏曼陀铃.</definition>
+      <page>660</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠨᠳᠣᠯᠢᠨᠳᠠᠬᠣ</unicode>
+      <cyrillic>МАНДОЛИНДАХ</cyrillic>
+      <definition>играть на мандолине. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

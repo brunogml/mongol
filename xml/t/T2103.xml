@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2103">
+  <head>
+    <unicode>ᠲᠠᠮᠰᠢᠶᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tamsiyalaγulqu</transcript>
+    <transcript2>damsiyalagolgo</transcript2>
+    <cyrillic>тамшаалуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T2102</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠮᠰᠢᠶᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тамшаалуулах</cyrillic>
+      <definition>〔动〕тамшаалах 的使动态.</definition>
+      <page>1023</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠮᠰᠢᠶᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАМШААЛУУЛАХ</cyrillic>
+      <definition>тамшаалах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠮᠰᠢᠶᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тамшаалуулах</cyrillic>
+      <definition>тамшаалахын үйлдүүлэх хэв.</definition>
+      <page>519</page>
+    </entry_item>
+  </entries>
+</entry>

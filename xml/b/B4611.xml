@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4611">
+  <head>
+    <unicode>ᠪᠥᠵᠢᠺᠥ</unicode>
+    <transcript>büǰikü</transcript>
+    <transcript2>böcigö</transcript2>
+    <cyrillic>бүжих</cyrillic>
+  </head>
+  <see_also>
+    <ref>B4610</ref>
+  </see_also>
+  <variants>
+    <variant type="cyrillic">бөжих</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠥᠵᠢᠺᠥ</unicode>
+      <uighur>büǰikü</uighur>
+      <cyrillic>бүжих</cyrillic>
+      <transcript>BYZI-</transcript>
+      <definition>Same as byzigle-</definition>
+      <page>153</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠦᠵᠢᠺᠦ</unicode>
+      <definition>danser,</definition>
+      <page>1240</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠢᠯᠠᠭᠤ ᠪᠡᠷ ᠪᠦᠵᠢᠺᠦ ᠺᠦᠮᠦᠨ</unicode>
+          <definition>sauteur</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠦᠵᠢᠨ ᠬᠠᠷᠢᠶᠠᠯᠠᠬᠤ</unicode>
+          <definition>sauter, danser</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠦᠵᠢᠨ ᠳᠠᠭᠤᠯᠭᠠᠴᠢ</unicode>
+          <definition>saltimbanque, bouffon</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠦᠵᠢᠺᠦ ᠪᠠᠷᠢᠶ᠎ᠠ</unicode>
+          <definition>bâton dont on se sert en dansant</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠵᠢᠬᠦ</unicode>
+      <cyrillic>бүжих</cyrillic>
+      <definition>〔动〕卷曲，团簇.</definition>
+      <page>225</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠵᠢᠺᠥ</unicode>
+      <cyrillic>БҮЖИХ</cyrillic>
+      <definition>1. танцевать, плясать; бүжин дуулагч танцовщица, баядерка; бүжин харайлах танцевать, плясать; 2. бүжихүй-г үз.; † бүжих бэрээ хуучир. древко, к которому прикрепляется знамя. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠵᠢᠺᠥ</unicode>
+      <cyrillic>БҮЖИХҮЙ</cyrillic>
+      <definition>пляска.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠵᠢᠬᠦ</unicode>
+      <cyrillic>бөжих</cyrillic>
+      <definition>〔动〕见 бүжих.</definition>
+      <page>185</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠥᠵᠢᠬᠦ</unicode>
+      <cyrillic>бүжих</cyrillic>
+      <definition>бүжиглэх.</definition>
+      <page>115</page>
+    </entry_item>
+  </entries>
+</entry>

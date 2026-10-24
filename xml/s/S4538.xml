@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4538">
+  <head>
+    <unicode> ᠰᠢᠷᠢᠯᠳᠥᠭᠥᠯᠭᠥ</unicode>
+    <transcript>sirildügülkü</transcript>
+    <transcript2>sirildögölgö</transcript2>
+    <cyrillic>ᠰᠢᠷᠢᠯᠳᠥᠺᠥᠯᠺᠥ</cyrillic>
+  </head>
+  <related_to>
+    <ref>S4537</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠷᠢᠯᠳᠦᠭᠦᠯᠺᠦ</unicode>
+      <definition>faire un pâturage d'un champ defriché,</definition>
+      <page>1525</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠷᠢᠯᠳᠦᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>ширэлдүүлэх</cyrillic>
+      <definition>ширэлдэхийн үйлдүүлэх хэв.</definition>
+      <page>851</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T4105">
+  <head>
+    <unicode>ᠲᠠᠮᠠᠺᠠᠵᠢᠺᠥ</unicode>
+    <transcript>temegeǰikü</transcript>
+    <transcript2>demegecigö</transcript2>
+    <cyrillic>тэмээжих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T4106</ref>
+    <ref>T4104</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠮᠠᠺᠠᠵᠢᠺᠥ</unicode>
+      <uighur>temekeǰikü</uighur>
+      <cyrillic>тэмээжих</cyrillic>
+      <transcript>TEMEGEZI-</transcript>
+      <definition>v. i. To be[come] rich in or well provided with camels.</definition>
+      <page>800</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠡᠮᠡᠭᠡᠵᠢᠬᠦ</unicode>
+      <cyrillic>тэмээжих</cyrillic>
+      <definition>〔动〕骆驼繁殖，驼群增殖.</definition>
+      <page>1155</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠮᠠᠺᠠᠵᠢᠺᠥ</unicode>
+      <cyrillic>ТЭМЭЭЖИХ</cyrillic>
+      <definition>обзаводљться верблюдами; обогащаться верблюдами. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠮᠡᠭᠡᠵᠢᠬᠦ</unicode>
+      <cyrillic>тэмээжих</cyrillic>
+      <definition>тэмээ олонтой болох.</definition>
+      <page>576</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T4097</ref>
+  </related_to>
+</entry>

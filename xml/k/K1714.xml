@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K1714">
+  <head>
+    <unicode>ᠺᠢ</unicode>
+    <transcript>gi</transcript>
+    <transcript2>gi</transcript2>
+    <cyrillic>ги</cyrillic>
+  </head>
+  <see_also>
+    <ref>K1713</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠢ</unicode>
+      <uighur>gi</uighur>
+      <transcript>GI</transcript>
+      <page>381</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠢ ᠪᠤᠭᠤ</unicode>
+          <transcript>-- buγu, n</transcript>
+          <definition>Small horned antelope.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠢ ~ ᠳᠡᠮᠳᠡᠺᠯᠡᠯ</unicode>
+      <definition>mémorial, agenda,</definition>
+      <page>2519</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠢ ᠪᠤᠭᠤ</unicode>
+          <definition>petite antilope. "espèce de daim dont le corps est fort petit; il a les cornes du cerf". Amiot.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢ</unicode>
+      <cyrillic>ГИ</cyrillic>
+      <definition>I аялга., хуучир. ой!, ох!, о!</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢ</unicode>
+      <cyrillic>ГИ</cyrillic>
+      <definition>II: ги буга амьт. китайская малая кабарга.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

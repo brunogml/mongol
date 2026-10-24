@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q5297">
+  <head>
+    <unicode>ᠬᠣᠲᠣᠯᠵᠠᠬᠣ</unicode>
+    <transcript>qotulǰaqu</transcript>
+    <transcript2>godolcago</transcript2>
+    <cyrillic>хотолзох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q5300</ref>
+    <ref>Q5304</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q5298</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠣᠲᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>хотолзох</cyrillic>
+      <definition>〔动〕参见 хотгонох.</definition>
+      <page>1379</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠲᠣᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ХОТОЛЗОХ</cyrillic>
+      <definition>хотгонох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хотолзох</cyrillic>
+      <definition>= хотгонох</definition>
+      <page>314</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠲᠣᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>хотолзох</cyrillic>
+      <definition>хотгор юмны хотос хотос хийх.</definition>
+      <page>699</page>
+    </entry_item>
+  </entries>
+</entry>

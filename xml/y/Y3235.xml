@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3235">
+  <head>
+    <unicode>ᠵᠢᠺᠡᠯᠡᠳᠡᠺᠴᠢ</unicode>
+    <transcript>ǰigeledegči</transcript>
+    <transcript2>yigeledegci</transcript2>
+    <cyrillic>зээлдэгч</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠭᠡᠯᠡᠳᠦᠭᠴᠢ</unicode>
+      <cyrillic>зээлдэгч</cyrillic>
+      <definition>〔名〕债务人，负债者：бараа ~ 贷货方；нэр ~ 冒名者.</definition>
+      <page>599</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠺᠡᠯᠡᠳᠡᠺᠴᠢ</unicode>
+      <cyrillic>ЗЭЭЛДЭГЧ</cyrillic>
+      <definition>получающий что-либо в долг; нэр зээлдэгч самозванец. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠭᠡᠯᠡᠳᠦᠭᠴᠢ</unicode>
+      <cyrillic>зээлдэгч</cyrillic>
+      <definition>зээл авагч этгээд; мөнгө зээлдэгч; бараа зээлдэгч.</definition>
+      <page>297</page>
+    </entry_item>
+  </entries>
+</entry>

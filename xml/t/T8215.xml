@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8215">
+  <head>
+    <unicode>ᠳᠥᠨᠳᠥᠶᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>döndüyilegülkü</transcript>
+    <transcript2>döndöyilegölgö</transcript2>
+    <cyrillic>дөндийлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T8214</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠥᠨᠳᠥᠢᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дөндийлүүлэх</cyrillic>
+      <definition>〔动〕дөндийлөх 的使动态.</definition>
+      <page>429</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠥᠨᠳᠥᠶᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ДӨНДИЙЛҮҮЛЭХ</cyrillic>
+      <definition>дөндийлөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠥᠨᠳᠥᠢᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дөндийлүүлэх</cyrillic>
+      <definition>дөндийлөхийн үйлдүүлэх хэв.</definition>
+      <page>205</page>
+    </entry_item>
+  </entries>
+</entry>

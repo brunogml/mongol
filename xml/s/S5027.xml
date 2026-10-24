@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5027">
+  <head>
+    <unicode>ᠰᠣᠨᠳᠣᠭᠣᠶᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sonduγuyiraγulqu</transcript>
+    <transcript2>sondogoyiragolgo</transcript2>
+    <cyrillic>сондгойруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S5026</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠨᠳᠣᠭᠣᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сондгойруулах</cyrillic>
+      <definition>〔动〕сондгойрох 的使动态.</definition>
+      <page>937</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠨᠳᠣᠭᠣᠶᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>СОНДГОЙРУУЛАХ</cyrillic>
+      <definition>сондгойрох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠨᠳᠣᠭᠣᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сондгойруулах</cyrillic>
+      <definition>сондгойрохын үйлдүүлэх хэв, сондгой болгох.</definition>
+      <page>479</page>
+    </entry_item>
+  </entries>
+</entry>

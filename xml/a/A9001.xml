@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A9001">
+  <head>
+    <unicode>ᠠᠲ᠋ᠠᠺᠯᠠᠬᠤ</unicode>
+    <transcript>ataklaqu</transcript>
+    <transcript2>adaglago</transcript2>
+    <cyrillic>атаклах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>A9000</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠲ᠋ᠠᠺᠯᠠᠬᠤ</unicode>
+      <cyrillic>атаклах</cyrillic>
+      <definition>〔动〕攻击，突击，冲锋：явдлаас ~ 〈军〉行进中进攻；~ объект 进攻目标.</definition>
+      <page>86</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>атаклах</cyrillic>
+      <definition>attackieren</definition>
+      <page>36</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠲ᠋ᠠᠺᠯᠠᠬᠤ</unicode>
+      <cyrillic>атаклах</cyrillic>
+      <definition>дайсанд довтлон орох.</definition>
+      <page>56</page>
+    </entry_item>
+  </entries>
+</entry>

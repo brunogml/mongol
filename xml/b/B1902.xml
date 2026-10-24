@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B1902">
+  <head>
+    <unicode>ᠪᠠᠺᠠᠷᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>begerilegülkü</transcript>
+    <transcript2>begerilegölgö</transcript2>
+    <cyrillic>бээрлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>B1901</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠡᠭᠡᠷᠢᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бээрлүүлэх</cyrillic>
+      <definition>〔动〕бээрлэх 的使动态.</definition>
+      <page>250</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠺᠠᠷᠢᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>БЭЭРЛҮҮЛЭХ</cyrillic>
+      <definition>бээрлэх-ийн үйлдүүл., нагнаивать.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бээрүүлэх</cyrillic>
+      <definition>Kaus von бээрэх</definition>
+      <page>69</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S2972">
+  <head>
+    <unicode> ᠰᠢᠢᠳᠬᠡᠪᠥᠷᠢ</unicode>
+    <transcript>siitgebüri</transcript>
+    <transcript2>siidgeböri</transcript2>
+    <cyrillic>шийтгэвэр</cyrillic>
+  </head><see_also>
+    <ref>S3811</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠢᠳᠬᠡᠪᠥᠷᠢ</unicode>
+      <uighur>siidkebüri</uighur>
+      <cyrillic>шийтгэвэр</cyrillic>
+      <transcript>SIIDKEBYRI</transcript>
+      <definition>n. Judgment, decision, sentence, resolution; ordinance</definition>
+      <page>704</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠢᠳᠬᠡᠪᠥᠷᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Without judgment or decision.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠢᠭᠦᠺᠦ ᠎ᠶᠢᠨ ᠰᠢᠢᠳᠬᠡᠪᠥᠷᠢ</unicode>
+          <transcript>sigyky jin -- </transcript>
+          <definition> Court decision.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

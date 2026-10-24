@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="U0666">
+  <head>
+    <unicode>ᠣᠭᠣᠬᠣ</unicode>
+    <transcript>uγuqu</transcript>
+    <transcript2>ogogo</transcript2>
+    <cyrillic>уух</cyrillic>
+  </head><derivatives>
+    <ref>U0671</ref>
+  </derivatives><see_also>
+    <ref>U0026</ref>
+  
+    <ref>U0665</ref>
+  
+    <ref>U0667</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠭᠣᠬᠣ</unicode>
+      <uighur>uγoqu</uighur>
+      <cyrillic>уух</cyrillic>
+      <transcript>UΓU-</transcript>
+      <definition>[= uu-, aγu-, 2, uuγu-] v.t. To drink; to eat liquid food; to absorb liquids; to smoke tobacco</definition>
+      <page>864</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠭᠣᠬᠣ ᠤᠰᠤ</unicode>
+          <transcript>--xu usu</transcript>
+          <definition> Drinking water.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠡᠺᠡ ᠣᠭᠣᠳᠠᠭ ᠴᠠᠭᠠᠰᠤ</unicode>
+          <transcript>beke --daγ caγasu</transcript>
+          <definition> Blotting paper</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠠᠢ ᠣᠭᠣᠬᠣ</unicode>
+          <transcript>cai --xu</transcript>
+          <definition> To drink tea.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠮ ᠣᠭᠣᠬᠣ</unicode>
+          <transcript>em --xu</transcript>
+          <definition> To take medicine.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠢᠯᠦ ᠣᠭᠣᠬᠣ</unicode>
+          <transcript>sily --xu, </transcript>
+          <definition>To eat soup</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠭᠣᠬᠤ</unicode>
+      <definition>boire</definition>
+      <page>363</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠷᠠᠺᠢ ᠣᠭᠣᠪᠠᠰᠤ, ᠦᠭᠡ ᠣᠯᠠᠨ᠎ᠠ ᠥᠭᠦᠯᠡᠮᠦᠢ</unicode>
+          <definition>celui qui boit du vin, devient causeur (le vin délie la langue).</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠣᠭᠣᠬᠣ</unicode>
+      <uighur>uγuqu</uighur>
+      <definition>trinken.</definition>
+      <page>48</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠣᠭᠣᠬᠣ</unicode>
+      <uighur>uγuqu</uighur>
+      <definition>(oo)v.t. To drink.</definition>
+      <page>187</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠤᠭᠤᠬᠤ</unicode>
+      <cyrillic>уух</cyrillic>
+      <definition>〔动〕①喝，饮：сүү ~ 喝奶；эм ~ 服药；шөл ~ 喝汤；ус ~ 喝水，饮水；②吸收：бэх ~даг цаас 吸墨纸.</definition>
+      <page>1216</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T1356">
+  <head>
+    <unicode>ᠲᠠᠰᠢᠬᠳᠠᠬᠣ</unicode>
+    <transcript>tasiγdaqu</transcript>
+    <transcript2>dasigdago</transcript2>
+    <cyrillic>ташигдах</cyrillic>
+  </head><related_to>
+    <ref>T1331</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠰᠢᠬᠳᠠᠬᠤ</unicode>
+      <definition>être éloigné, détourné.</definition>
+      <page>1622</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠰᠢᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>ташигдах</cyrillic>
+      <definition>〔动〕таших 的被动态.</definition>
+      <page>1044</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠰᠢᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТАШИГДАХ</cyrillic>
+      <definition>таших-ийн үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

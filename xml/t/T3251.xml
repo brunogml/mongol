@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3251">
+  <head>
+    <unicode>ᠲᠠᠩᠰᠠᠺᠳᠠᠺᠥ</unicode>
+    <transcript>tengsegdekü</transcript>
+    <transcript2>dengsegdegö</transcript2>
+    <cyrillic>тэнсэгдэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T3247</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠡᠩᠰᠡᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>тэнсэгдэх</cyrillic>
+      <definition>〔动〕тэнсэх 的被动态.</definition>
+      <page>1158</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠩᠰᠠᠺᠳᠠᠺᠥ</unicode>
+      <cyrillic>ТЭНСЭГДЭХ</cyrillic>
+      <definition>тэнсэх-ийн үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тэнсэгдэх</cyrillic>
+      <definition>Pass von тэнсэх</definition>
+      <page>249</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠩᠰᠡᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>тэнсэгдэх</cyrillic>
+      <definition>тэнсэхийн үйлдэгдэх хэв.</definition>
+      <page>577</page>
+    </entry_item>
+  </entries>
+</entry>

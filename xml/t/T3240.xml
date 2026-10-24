@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T3240">
+  <head>
+    <unicode>ᠳᠠᠩᠰᠠᠯᠺᠠᠲᠠᠢ</unicode>
+    <transcript>dengselgetei</transcript>
+    <transcript2>dengselgedei</transcript2>
+    <cyrillic>дэнсэлгтэй</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠠᠩᠰᠠᠯᠺᠠᠲᠠᠢ</unicode>
+      <uighur>dengselgetei</uighur>
+      <cyrillic>дэнслэгтэй</cyrillic>
+      <transcript>DENGSELGETEI</transcript>
+      <definition>adj. Jerking, jolting; swinging, swaying.</definition>
+      <page>252</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠩᠰᠠᠯᠺᠠᠲᠠᠢ ᠲᠡᠷᠭᠡ</unicode>
+          <transcript>-- terge</transcript>
+          <definition> Swaying, jolting cart.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠡᠩᠰᠡᠯᠺᠡᠲᠡᠢ</unicode>
+      <definition>cahotant.</definition>
+      <page>1692</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠩᠰᠠᠯᠺᠠᠲᠠᠢ</unicode>
+      <cyrillic>ДЭНСЭЛГЭЭТЭЙ</cyrillic>
+      <definition>тряский (о телеге). </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

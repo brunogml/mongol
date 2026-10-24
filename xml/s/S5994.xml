@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5994">
+  <head>
+    <unicode>ᠰᠣᠮᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sumulaγulqu</transcript>
+    <transcript2>somolagolgo</transcript2>
+    <cyrillic>сумлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S5993</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠮᠤᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сумлуулах</cyrillic>
+      <definition>〔动〕сумлах 的使动态.</definition>
+      <page>961</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠮᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>СУМЛУУЛАХ</cyrillic>
+      <definition>сумлах-ын үйлдүүл., заряжать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сумлуулах</cyrillic>
+      <definition>Kaus von сумлах</definition>
+      <page>205</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠮᠤᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сумлуулах</cyrillic>
+      <definition>сумлахын үйлдүүлэх хэв.</definition>
+      <page>489</page>
+    </entry_item>
+  </entries>
+</entry>

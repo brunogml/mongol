@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C3728">
+  <head>
+    <unicode>ᠴᠥᠺᠠᠺᠠᠺᠥ</unicode>
+    <transcript>čügegekü</transcript>
+    <transcript2>cögegegö</transcript2>
+  </head><derivatives>
+    <ref>C3729</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠦᠺᠡᠺᠡᠺᠦ</unicode>
+      <definition>chasser, pousser dehors, persécuter</definition>
+      <page>2228</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠣᠷᠠᠨ ᠢ ᠴᠦᠭᠡᠭᠡᠺᠦ</unicode>
+          <definition>faire perdre l'envie</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠦᠭᠡᠭᠡᠨ ᠭᠠᠷᠭᠠᠬᠤ</unicode>
+          <definition>chasser, pousser dehors, exiler</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠴᠥᠺᠠᠺᠠᠺᠥ</unicode>
+      <uighur>čügegekü</uighur>
+      <definition>vertreiben, verjagen, verfolgen</definition>
+      <page>335</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠴᠥᠺᠠᠺᠠᠺᠥ</unicode>
+      <uighur>čökekekü</uighur>
+      <definition>v.t. To drive out or away, to expel. To persecute.</definition>
+      <page>1352</page>
+    </entry_item>
+  </entries>
+</entry>

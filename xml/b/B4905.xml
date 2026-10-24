@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B4905">
+  <head>
+    <unicode>ᠪᠥᠺᠴᠥᠯᠵᠠᠺᠥ</unicode>
+    <transcript>bögčülǰekü</transcript>
+    <transcript2>bögcölcegö</transcript2>
+    <cyrillic>бөгцөлзөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B4906</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠭᠴᠥᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>бөгцөлзөх</cyrillic>
+      <definition>〔动〕参见 бөгдгөнөх.</definition>
+      <page>185</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠥᠺᠴᠥᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>БӨГЦӨЛЗӨХ</cyrillic>
+      <definition>сгибаться, сутулиться, горбиться.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠥᠭᠴᠥᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>бөгцөлзөх</cyrillic>
+      <definition>бөгцгөр юмны бөгцөс бөгцөс хийх.</definition>
+      <page>97</page>
+    </entry_item>
+  </entries>
+</entry>

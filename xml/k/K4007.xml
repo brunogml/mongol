@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4007">
+  <head>
+    <unicode>ᠺᠥᠯᠢᠺᠥ</unicode>
+    <transcript>külikü</transcript>
+    <transcript2>göligö</transcript2>
+    <cyrillic>хүлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K4008</ref>
+    <ref>K4010</ref>
+    <ref>K3991</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠥᠯᠢᠺᠥ</unicode>
+      <uighur>külikü</uighur>
+      <cyrillic>хүлэх</cyrillic>
+      <transcript>KYLI-</transcript>
+      <definition>y.t. To bind, tie, tighten.</definition>
+      <page>499</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠥᠯᠢᠺᠦᠢ ᠎ᠶᠢᠨ ᠭᠡᠷ</unicode>
+          <transcript>--kyi jin ger</transcript>
+          <definition>Prison, jail.</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠥᠯᠢᠵᠦ ᠤᠶᠠᠬᠤ</unicode>
+          <transcript>--zy ujaxu</transcript>
+          <definition>To tie, bind</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠢᠩᠳᠠ ᠺᠥᠯᠢᠺᠦ</unicode>
+          <transcript>cingda --ky</transcript>
+          <definition>To tie solidly</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠦᠯᠢᠺᠦ</unicode>
+      <definition>lier , attacher.</definition>
+      <page>2602</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠠᠲᠤᠯᠠ ᠺᠦᠯᠢᠺᠦ = ᠴᠢᠩᠲᠡ ᠺᠦᠯᠢᠺᠦ</unicode>
+          <definition>lier fortement</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠡᠰᠢᠭᠦᠨ ᠢ ᠲᠡᠭᠡᠰᠦᠨ ᠢᠶᠡᠷ ᠺᠦᠯᠢᠺᠦ</unicode>
+          <definition>lier les membres avec une corde</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠦᠯᠢᠨ ᠦᠢᠯᠡᠳᠦᠭᠴᠢ</unicode>
+          <definition>charmante, ravissante; femme, bayadère</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠦᠯᠢᠺᠦ ᠲᠡᠭᠡᠰᠦᠨ</unicode>
+          <definition>corde avec laquelle on lie</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠦᠯᠢᠺᠦᠢ ᠎ᠶᠢᠨ ᠭᠡᠷ</unicode>
+          <definition>prison</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠺᠥᠯᠢᠺᠥ</unicode>
+      <uighur>külikü</uighur>
+      <definition>binden, fesseln</definition>
+      <page>183</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠺᠥᠯᠢᠺᠥ</unicode>
+      <uighur>kölikü</uighur>
+      <definition>v.t. To bind, to tie. To fetter. To harness. To get a cart ready.</definition>
+      <page>720</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠦᠯᠢᠬᠦ</unicode>
+      <cyrillic>хүлэх</cyrillic>
+      <definition>〔动〕结，系，捆，绑缚，束：ачаа олсоор ~ 用麻绳捆货物.</definition>
+      <page>1454</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠯᠢᠺᠥ</unicode>
+      <cyrillic>ХҮЛЭХ</cyrillic>
+      <definition>связывать, вязать, стягивать; спутывать; ачааг олсоор хүлэх связывать, стягивать груз верёвкой.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хүлэх</cyrillic>
+      <definition>fesseln, festbinden, verschnüren (mit etw. -аар)</definition>
+      <page>334</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠦᠯᠢᠬᠦ</unicode>
+      <cyrillic>хүлэх</cyrillic>
+      <definition>юмыг боох баглах, агдлах; хүнийг агдалж хүлэх; морь малыг хүлэх; юмыг баглаж хүлэх.</definition>
+      <page>744</page>
+    </entry_item>
+  </entries>
+</entry>

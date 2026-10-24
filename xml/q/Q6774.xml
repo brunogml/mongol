@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q6774">
+  <head>
+    <unicode>ᠭᠣᠷᠠᠩᠬᠣᠯᠠᠬᠣ</unicode>
+    <transcript>γurangqulaqu</transcript>
+    <transcript2>goranggolago</transcript2>
+    <cyrillic>гуранхлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q6776</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q6775</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠤᠷᠠᠩᠬᠤᠯᠬᠤ</unicode>
+      <cyrillic>гуранхлах</cyrillic>
+      <definition>〔动〕见 гуринхлах.</definition>
+      <page>330</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠷᠠᠩᠬᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ГУРАНХЛАХ</cyrillic>
+      <definition>переголодать, изголодаться до того, что не быть в состоянии есть от истощения. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠷᠠᠩᠬᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ГУРИНХЛАХ</cyrillic>
+      <definition>быть голодным, тощим (о собаке, волке); обессилеть от голода. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠤᠷᠠᠩᠬᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>гуранхлах</cyrillic>
+      <definition>амьтны өлсч маш доройтох; нохой гуранхлах; морь гуранхлах.</definition>
+      <page>160</page>
+    </entry_item>
+  </entries>
+</entry>

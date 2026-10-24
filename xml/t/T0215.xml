@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0215">
+  <head>
+    <unicode>ᠲᠠᠩᠭᠠᠷᠢᠬᠯᠠᠬᠣ</unicode>
+    <transcript>tangγariγlaqu</transcript>
+    <transcript2>danggariglago</transcript2>
+    <cyrillic>тангараглах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T0216</ref>
+    <ref>T0220</ref>
+    <ref>T0217</ref>
+    <ref>T0218</ref>
+    <ref>T0219</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠩᠭᠠᠷᠢᠬᠯᠠᠬᠣ</unicode>
+      <uighur>tangγariqlaqu</uighur>
+      <cyrillic>тангараглах</cyrillic>
+      <transcript>TANGΓARIΓLA-</transcript>
+      <definition>v. i. To take an oath, make a vow, swear.</definition>
+      <page>777</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠩᠷᠢ ᠪᠡᠷ ᠲᠠᠩᠭᠠᠷᠢᠬᠯᠠᠬᠣ</unicode>
+          <transcript>tngri ber --xu</transcript>
+          <definition> To swear by Heaven.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠩᠭᠠᠷᠢᠬᠯᠠᠬᠤ</unicode>
+      <definition>prêter serment, jurer, faire voeu</definition>
+      <page>1566</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠩᠭᠠᠷᠢᠬᠯᠠᠬᠣ</unicode>
+      <uighur>dangγariqlaqu</uighur>
+      <definition>schwären, geloben, ein Gelübde ablegen</definition>
+      <page>228</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠩᠭᠠᠷᠢᠬᠯᠠᠬᠣ</unicode>
+      <uighur>tangγariqlaqu</uighur>
+      <definition>v.i. To take an oath. To swear. To pledge.</definition>
+      <page>897</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠩᠭᠠᠷᠢᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>тангараглах</cyrillic>
+      <definition>〔动〕宣誓，起誓：бид эх орондоо хязгааргүй үнэнч гэж ~в 我们宣誓：无限忠于祖国；~н тушаал хүлээх 宣誓就职.</definition>
+      <page>1024</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠩᠭᠠᠷᠢᠬᠯᠠᠬᠣ</unicode>
+      <cyrillic>ТАНГАРАГЛАХ</cyrillic>
+      <definition>давать клятву, клясться; присягать; тангараглан батлах клятвенно подтверждать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠩᠭᠠᠷᠢᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>тангараглах</cyrillic>
+      <definition>ам алдах, тангараг тавих, эх орондоо үнэнч зүтгэнэ гэж тангараглав.</definition>
+      <page>520</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T0211</ref>
+  </related_to>
+</entry>

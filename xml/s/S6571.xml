@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6571">
+  <head>
+    <unicode>ᠱᠥᠪᠺᠠᠯᠠᠺᠥ</unicode>
+    <transcript>šöbkelekü</transcript>
+    <transcript2>söbgelegö</transcript2>
+    <cyrillic>шөвхлөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6572</ref>
+    <ref>S6570</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠥᠪᠬᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>шөвхлөх</cyrillic>
+      <definition>〔动〕弄尖，弄尖利；削尖，磨尖.</definition>
+      <page>1653</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠥᠪᠺᠠᠯᠠᠺᠥ</unicode>
+      <cyrillic>ШӨВХЛӨХ</cyrillic>
+      <definition>заострять; шовхлох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠥᠪᠬᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>шөвхлөх</cyrillic>
+      <definition>шөвх болгох.</definition>
+      <page>856</page>
+    </entry_item>
+  </entries>
+</entry>

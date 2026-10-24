@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2298">
+  <head>
+    <unicode>ᠴᠢᠷᠠᠯᠠᠬᠣ</unicode>
+    <transcript>čiralaqu</transcript>
+    <transcript2>ciralago</transcript2>
+    <cyrillic>чарлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C2299</ref>
+    <ref>C2305</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠢᠷᠠᠯᠠᠬᠣ</unicode>
+      <uighur>čiralaqu</uighur>
+      <cyrillic>чарлах</cyrillic>
+      <transcript>CIRALA-</transcript>
+      <definition>v.i. To squeak, scream, cry; to grunt; to roar.</definition>
+      <page>191</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠷᠢᠯᠠᠬᠤ ᠴᠢᠷᠠᠯᠠᠬᠣ</unicode>
+          <transcript>orilaxu –xu</transcript>
+          <definition> To roar</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠷᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>чарлах</cyrillic>
+      <definition>〔动〕尖声叫，尖声哭嚎，尖声哭喊.</definition>
+      <page>1581</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠷᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЧАРЛАХ</cyrillic>
+      <definition>1. кричать, орать; визжать; реветь; взвизгивать; вопить; бархиран чарлах хорш. кричать, орать; реветь; орилон чарлах хорш. реветь; чарлаж гангинах пронзительно визжать; чарлаж эхлэх завизжать; 2. чарлахуй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠷᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЧАРЛАХУЙ</cyrillic>
+      <definition>визг; писк. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чарлах</cyrillic>
+      <definition>kreischen, schreien; heulen, plärren</definition>
+      <page>369</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠷᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>чарлах</cyrillic>
+      <definition>бархирах, орилох;орилох чарлах&lt;хорш&gt;,бархирах чарлах&lt;хорш&gt;; хүүхэд чарлах.</definition>
+      <page>815</page>
+    </entry_item>
+  </entries>
+</entry>

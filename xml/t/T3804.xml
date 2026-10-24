@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3804">
+  <head>
+    <unicode>ᠲᠡᠳᠭᠦᠮᠵᠢ</unicode>
+    <transcript>tetgümǰi</transcript>
+    <transcript2>dedgömci</transcript2>
+    <cyrillic>тэтгэмж</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠡᠳᠺᠦᠮᠵᠢ</unicode>
+      <uighur>tedkümǰi</uighur>
+      <cyrillic>тэтгэмж</cyrillic>
+      <transcript>TEDKYMZI</transcript>
+      <definition>n. Support, assistance, help; pension.</definition>
+      <page>791</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠡᠶᠢᠭᠡᠮ ᠤᠨ ᠲᠡᠳᠺᠦᠮᠵᠢ</unicode>
+          <transcript>neigem yn --</transcript>
+          <definition>Social assistance.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠡᠳᠬᠦᠮᠵᠢ</unicode>
+      <cyrillic>тэтгэмж</cyrillic>
+      <definition>〔名〕①补助，补助金，救济，救济金，养老金，抚恤，抚恤金，赈济：~ мөнгө 救济金，捐助金；~ олгох 发津贴费，发补助金，支付津贴；②帮助，支持，援助.</definition>
+      <page>1167</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ТЭТГЭМЖ</cyrillic>
+      <definition>1) пособие, пенсия; 2) помощь, поддержка; тусламж тэтгэмж хорш. помощь, пособие; 3) опека; призрение.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тэтгэмж</cyrillic>
+      <definition>Beihilfe f, Unterhalt m, Unterstützung f; ~ олтох Unterhalt od Unterstützung gewähren (jmdm. -д)</definition>
+      <page>251</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠳᠬᠦᠮᠵᠢ</unicode>
+      <cyrillic>тэтгэмж</cyrillic>
+      <definition>тэтгэсэн зүйл, тусламж, тэтгэвэр, тэтгэлт; дүүгийнхээ тэтгэмжээр хөл дээрээ босов.</definition>
+      <page>580</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>T3805</ref>
+    <ref>T3806</ref>
+  </derivatives>
+</entry>

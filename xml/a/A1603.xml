@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A1603">
+  <head>
+    <unicode>ᠠᠪᠳᠠᠮ᠎ᠠ</unicode>
+    <transcript>abtam-a</transcript>
+    <transcript2>abdam-a</transcript2>
+    <cyrillic>автам</cyrillic>
+  </head><derivatives>
+    <ref>A1596</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠪᠳᠠᠮ᠎ᠠ</unicode>
+      <cyrillic>АВТАМ</cyrillic>
+      <definition>^ охватывающий, одержимый.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠪᠳᠠᠮ᠎ᠠ ᠦᠭᠡᠢ</unicode>
+      <cyrillic>АВТАМГҮЙ</cyrillic>
+      <definition>не сразу охватывающийся.</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

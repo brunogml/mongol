@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="U3131">
+  <head>
+    <unicode>ᠣᠷᠵᠢ</unicode>
+    <transcript>urǰi</transcript>
+    <transcript2>orci</transcript2>
+    <cyrillic>уржи</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠷᠵᠢ</unicode>
+      <uighur>urǰi</uighur>
+      <transcript>URZI</transcript>
+      <page>887</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠷᠵᠢ ᠡᠳᠦᠷ = ᠤᠷᠵᠢᠳᠤᠷ, ᠤᠷᠵᠢᠭᠳᠤᠷ</unicode>
+          <transcript>-- edyr [=urzidur, urziγdur]</transcript>
+          <definition> Day before yesterday.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠣᠷᠵᠢ</unicode>
+      <uighur>urǰi edür</uighur>
+      <definition>(oo)n. The day before yesterday.</definition>
+      <page>228</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠷᠵᠢ</unicode>
+      <cyrillic>УРЖИ</cyrillic>
+      <definition>позапрошлый. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠷᠵᠢ</unicode>
+      <cyrillic>УРЖИЙН:</cyrillic>
+      <definition>уржийн цаад өдөр яриа. урждарын цаад өдөр / уржигдарын цаад өдөр-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

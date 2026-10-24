@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0854">
+  <head>
+    <unicode>ᠫᠠᠯᠬᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>palqalǰaqu</transcript>
+    <transcript2>palgalcago</transcript2>
+    <cyrillic>палхалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0856</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠫᠠᠯᠬᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>палхалзах</cyrillic>
+      <definition>〔动〕（矮胖或矮而壮健物）频频动作.</definition>
+      <page>871</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠫᠠᠯᠬᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ПАЛХАЛЗАХ</cyrillic>
+      <definition>двљгаться, ходљть (о невысоком толстом человеке). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠫᠠᠯᠬᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>палхалзах</cyrillic>
+      <definition>палхгар юмны палхас палхас хөдлөх.</definition>
+      <page>450</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1062">
+  <head>
+    <unicode>ᠥᠯᠮᠠᠶᠢᠯᠲᠥᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ölmeyiltügülkü</transcript>
+    <transcript2>ölmeyildögölgö</transcript2>
+    <cyrillic>өлмийлдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>O1061</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠯᠮᠡᠢᠯᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өлмийлдүүлэх</cyrillic>
+      <definition>〔动〕өлмийлдөх 的使动态.</definition>
+      <page>841</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠯᠮᠠᠶᠢᠯᠲᠥᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ӨЛМИЙЛДҮҮЛЭХ</cyrillic>
+      <definition>өлмийлдөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠯᠮᠡᠢᠯᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өлмийлдүүлэх</cyrillic>
+      <definition>өлдмийлдөхийн үйлдүүлэх хэв.</definition>
+      <page>435</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="N0157">
+  <head>
+    <unicode>ᠨᠠᠪ</unicode>
+    <transcript>nab</transcript>
+    <transcript2>nab</transcript2>
+    <cyrillic>нав</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠨᠠᠪ</unicode>
+      <uighur>nab</uighur>
+      <cyrillic>нав</cyrillic>
+      <transcript>NAB</transcript>
+      <definition>intensifying particle used before certain adj. and adv. beginning with the syllable na</definition>
+      <page>555</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠠᠪ ᠨᠠᠷᠢᠨ</unicode>
+          <transcript>-- narin</transcript>
+          <definition> Very fine (as opposed to coarse, thick); narrow.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠨᠠᠪ</unicode>
+      <transcript>NAB </transcript>
+      <page>1177</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠠᠪ ᠨᠠᠷᠢᠨ ᠲᠣᠭᠤᠰᠤᠨ = ᠮᠠᠰᠢ ᠨᠠᠷᠢᠨ</unicode>
+          <transcript>narin toγusun = masi narin ; </transcript>
+          <definition>T. rdul phra rab; S. paramanu. Finest dust, smallest particle imaginable, &apos;atom.&apos;</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠨᠠᠪ</unicode>
+      <definition>particule qui renforce la signification du mot qui la suit</definition>
+      <page>607</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠠᠪ ᠨᠠᠷᠢᠨ</unicode>
+          <definition>très-fin, très subtil</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠪ</unicode>
+      <cyrillic>НАВ</cyrillic>
+      <definition>на-гаар эхлэсэн үгэнд хүч нэмэгдүүлэх сул үг (усилительная частица, присоединяемая к словам, начинающимся с “на”); нав нарийн очень тонкий. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

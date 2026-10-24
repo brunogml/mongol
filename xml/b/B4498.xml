@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B4498">
+  <head>
+    <unicode>ᠪᠥᠯᠲᠥᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>bültügenekü</transcript>
+    <transcript2>böldögenegö</transcript2>
+    <cyrillic>бүлтэгнэх</cyrillic>
+  </head><see_also>
+    <ref>B4484</ref>
+  </see_also>
+  <variants>
+    <variant type="cyrillic">бөлтөгнөх</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠥᠯᠲᠥᠺᠠᠨᠠᠺᠥ</unicode>
+      <uighur>bültügenekü</uighur>
+      <transcript>BYLTYGENE-</transcript>
+      <definition>See byltegene-</definition>
+      <page>147</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠦᠯᠲᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>бүлтэгнэх</cyrillic>
+      <definition>〔动〕见 бүлтгэнэх.</definition>
+      <page>226</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠥᠯᠲᠥᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>бөлтөгнөх</cyrillic>
+      <definition>〔动〕见 бүлтэгнэх.</definition>
+      <page>185</page>
+    </entry_item>
+  </entries>
+</entry>

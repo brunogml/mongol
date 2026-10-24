@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1318">
+  <head>
+    <unicode>ᠲᠠᠰᠠᠮᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tasamadaγulqu</transcript>
+    <transcript2>dasamadagolgo</transcript2>
+    <cyrillic>тасамдуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T1317</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠰᠠᠮᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тасамдуулах</cyrillic>
+      <definition>〔动〕тасамдах 的使动态.</definition>
+      <page>1035</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠰᠠᠮᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАСАМДУУЛАХ</cyrillic>
+      <definition>тасамдах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠰᠠᠮᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тасамдуулах</cyrillic>
+      <definition>тасамдахын үйлдүүлэх хэв.</definition>
+      <page>524</page>
+    </entry_item>
+  </entries>
+</entry>

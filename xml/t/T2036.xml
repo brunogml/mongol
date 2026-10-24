@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T2036">
+  <head>
+    <unicode>ᠲᠠᠮᠣᠬᠳᠠᠬᠣ</unicode>
+    <transcript>tamuγdaqu</transcript>
+    <transcript2>damogdago</transcript2>
+    <cyrillic>тамагдах</cyrillic>
+  </head><related_to>
+    <ref>T2034</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠮᠣᠬᠳᠠᠬᠣ</unicode>
+      <uighur>tamoqdaqu</uighur>
+      <cyrillic>тамагдах</cyrillic>
+      <transcript>TAMUΓDA-</transcript>
+      <definition>v. pass. of tamu-</definition>
+      <page>776</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠣᠷᠢ ᠎ᠶᠢᠨ ᠺᠥᠯ ᠲᠠᠮᠣᠬᠳᠠᠵᠤ ᠪᠠᠶᠢᠨ᠎ᠠ</unicode>
+          <transcript>mori jin køl --zu bain-a</transcript>
+          <definition> The horse is staggering, walking crosslegged (from fatigue).</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠮᠤᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>тамагдах</cyrillic>
+      <definition>〔动〕тамах /1 的被动态.</definition>
+      <page>1020</page>
+    </entry_item>
+  </entries>
+</entry>

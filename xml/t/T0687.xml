@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T0687">
+  <head>
+    <unicode>ᠳᠠᠭᠣᠰᠣᠰᠢ</unicode>
+    <transcript>daγususi</transcript>
+    <transcript2>dagososi</transcript2>
+    <cyrillic>дуусаш</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠠᠭᠣᠰᠣᠰᠢ</unicode>
+      <uighur>daγususi</uighur>
+      <cyrillic>дуусаш</cyrillic>
+      <transcript>DAΓUSUSI</transcript>
+      <page>220</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠭᠣᠰᠣᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Endless, unfinishable.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠭᠣᠰᠣᠰᠢ ᠦᠭᠡᠢ</unicode>
+      <definition>inachevé, qui n&apos;est pas terminé; sans fin, infini, immense</definition>
+      <page>1587</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠭᠣᠰᠣᠰᠢ ᠦᠭᠡᠢ ᠰᠤᠪᠤᠷᠭᠠᠨ</unicode>
+          <definition>une pyramide inachevée</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠭᠣᠰᠣᠰᠢ</unicode>
+      <cyrillic>ДУУСАШГҮЙ</cyrillic>
+      <definition>нескончаемый, неиссякаемый; бесконечный; дуусашгүй маргаан нескончаемые споры. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

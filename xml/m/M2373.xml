@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="M2373">
+  <head>
+    <unicode>ᠮᠥᠺᠥᠷᠢᠺ</unicode>
+    <transcript>mökürig</transcript>
+    <transcript2>mögörig</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠮᠥᠺᠥᠷᠢᠺ</unicode>
+      <uighur>mökürik</uighur>
+      <transcript>MØKYRIG</transcript>
+      <definition>Same as møkylig.</definition>
+      <page>546</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠮᠥᠺᠦᠷᠢᠺ ~ ᠮᠥᠷᠺᠦᠯᠢᠺ ~ ᠳᠦᠺᠦᠷᠢᠺ</unicode>
+      <definition>boule, rond, grain: 2 rond, circulaire</definition>
+      <page>2066</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠥᠺᠦᠷᠢᠭ ᠬᠤᠷᠤᠭᠤᠨ</unicode>
+          <definition>les doigts ronds</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠡᠷᠡᠯ ᠤᠨ ᠮᠥᠺᠦᠷᠢᠭ</unicode>
+          <definition>rond clair, cercle rond</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

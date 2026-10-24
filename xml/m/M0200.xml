@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0200">
+  <head>
+    <unicode>ᠮᠠᠩᠯᠠᠶᠢᠯᠠᠬᠣ</unicode>
+    <transcript>manglayilaqu</transcript>
+    <transcript2>manglayilago</transcript2>
+    <cyrillic>манлайлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M0201</ref>
+    <ref>M0205</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠮᠠᠩᠯᠠᠶᠢᠯᠠᠬᠣ</unicode>
+      <uighur>manglayilaqu</uighur>
+      <cyrillic>манлайлах</cyrillic>
+      <transcript>MANGLAILA-</transcript>
+      <definition>v.t. and i. To lead, guide, direct, head; to be in the vanguard</definition>
+      <page>527</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠠᠩᠯᠠᠶᠢᠯᠠᠨ ᠤᠳᠤᠷᠢᠳᠬᠤ</unicode>
+          <transcript>--n uduridxu</transcript>
+          <definition> To lead, guide</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠩᠯᠠᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>манлайлах</cyrillic>
+      <definition>〔动〕①领先，居首位，带领，打先锋，带头，为首：~н удирдагч 领导者，首领；②成为高级的，为最好的.</definition>
+      <page>661</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠩᠯᠠᠶᠢᠯᠠᠬᠣ</unicode>
+      <cyrillic>МАНЛАЙЛАХ</cyrillic>
+      <definition>возглавлять; превосходить всех, первенствовать; главенствовать; руководить; быть гегемоном; удирдан манлайлах возглавлять, руководить; цэрэг манлайлах предводительствовать войсками; манлайлан гаргах выводить под своим предводительством; манлайлан удирдагч гегемон; манлайлан явах идти во главе, в авангарде; манлайлан явагч идущий в авангарде; авангард. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>манлайлах</cyrillic>
+      <definition>vorherrschen; anführen; die Vorhut bilden (von -ыг)</definition>
+      <page>141</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠩᠯᠠᠢᠯᠠᠬᠤ</unicode>
+      <cyrillic>манлайлах</cyrillic>
+      <definition>1. манлай болох, тэргүүлэх; пролетарийн манлайлах удирдлага;2. дээд сайн, тэргүүн зэрэгт тооцогдох; манлайлж гарах.</definition>
+      <page>331</page>
+    </entry_item>
+  </entries>
+</entry>

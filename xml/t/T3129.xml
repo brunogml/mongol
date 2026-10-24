@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3129">
+  <head>
+    <unicode>ᠲᠠᠨᠲᠠᠯᠵᠠᠺᠥ</unicode>
+    <transcript>tentelǰekü</transcript>
+    <transcript2>dendelcegö</transcript2>
+    <cyrillic>тэнтэлзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T3131</ref>
+  </derivatives>
+  <see_also>
+    <ref>T3128</ref>
+    <ref>T3130</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠡᠨᠲᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>тэнтэлзэх</cyrillic>
+      <definition>〔动〕参见 тэнтэгнэх.</definition>
+      <page>1158</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠨᠲᠠᠯᠵᠠᠺᠥ</unicode>
+      <cyrillic>ТЭНТЭЛЗЭХ</cyrillic>
+      <definition>тэнтгэнэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠨᠲᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>тэнтэлзэх</cyrillic>
+      <definition>тэнтгэр юмны байн байн хөдлөх.</definition>
+      <page>577</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1518a">
+  <head>
+    <unicode>ᠬᠠᠳᠠᠭᠠᠰᠣᠷᠠᠬᠣ</unicode>
+    <transcript>qadaγasuraqu</transcript>
+    <transcript2>gadagasorago</transcript2>
+    <cyrillic>хадаасрах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠳᠠᠭᠠᠰᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>хадаасрах</cyrillic>
+      <definition>〔动〕呈钉子状.</definition>
+      <page>1271</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠳᠠᠭᠠᠰᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>хадаасрах</cyrillic>
+      <definition>хадаас мэт болох; мод хадаасрах.</definition>
+      <page>640</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q1514</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3473">
+  <head>
+    <unicode>ᠴᠥᠪᠥᠳᠠᠯᠷᠠᠺᠥ</unicode>
+    <transcript>čöbüdelrekü</transcript>
+    <transcript2>cöbödelregö</transcript2>
+    <cyrillic>цөвдөлрөх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠥᠪᠥᠳᠡᠯᠷᠡᠬᠦ</unicode>
+      <cyrillic>цөвдөлрөх</cyrillic>
+      <definition>〔动〕变成碎末，变成碎片，变成碎屑.</definition>
+      <page>1541</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠥᠪᠥᠳᠠᠯᠷᠠᠺᠥ</unicode>
+      <cyrillic>ЦӨВДӨЛРӨХ</cyrillic>
+      <definition>осыпаться, падать само по себе. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠥᠪᠥᠳᠡᠯᠦᠷᠡᠬᠦ</unicode>
+      <cyrillic>цөвдөлрөх</cyrillic>
+      <definition>цөвдөл болох.</definition>
+      <page>794</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>C3469</ref>
+  </related_to>
+</entry>

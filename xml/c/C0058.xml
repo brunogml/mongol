@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0058">
+  <head>
+    <unicode>ᠴᠠᠩᠲᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čangtuγulqu</transcript>
+    <transcript2>cangdogolgo</transcript2>
+    <cyrillic>цантуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C0057</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠩᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цантуулах</cyrillic>
+      <definition>〔动〕цантах 的使动态.</definition>
+      <page>1519</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠩᠲᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦАНТУУЛАХ</cyrillic>
+      <definition>цантах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цантуулах</cyrillic>
+      <definition>Kaus von цантах</definition>
+      <page>353</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠩᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цантуулах</cyrillic>
+      <definition>цантахын үйлдүүлэх хэв.</definition>
+      <page>782</page>
+    </entry_item>
+  </entries>
+</entry>

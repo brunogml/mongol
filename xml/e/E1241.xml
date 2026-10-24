@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E1241">
+  <head>
+    <unicode>ᠡᠮᠺᠢᠯᠡᠺᠦ</unicode>
+    <transcript>emkilekü</transcript>
+    <transcript2>emgilegö</transcript2>
+    <cyrillic>эмхлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>E1242</ref>
+    <ref>E1243</ref>
+    <ref>E1240</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠮᠺᠢᠯᠠᠺᠥ</unicode>
+      <uighur>emkilekü</uighur>
+      <cyrillic>эмхлэх</cyrillic>
+      <transcript>EMKILE-</transcript>
+      <definition>v. t. To put in order, arrange, organize, systematize.</definition>
+      <page>313</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠮᠺᠢᠯᠠᠭᠴᠢ</unicode>
+          <transcript>--gci</transcript>
+          <definition> Organizer.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠠᠭᠠᠵᠠ ᠬᠠᠤᠯᠢ ᠡᠮᠺᠢᠯᠠᠺᠦ</unicode>
+          <transcript>caγaza xauli --ky</transcript>
+          <definition> the law.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠮᠬᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>эмхлэх</cyrillic>
+      <definition>〔动〕整理，整顿，规整，弄条理；组织，安排，使之系统化.</definition>
+      <page>1697</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠮᠺᠢᠯᠠᠺᠥ</unicode>
+      <cyrillic>ЭМХЛЭХ</cyrillic>
+      <definition>1) приводить в порядок, упорядочивать, налаживать, систематизировать; гэрээ эмхлэх приводить свой дом в порядок; 2) формировать, создавать, организовывать; составлять; эмхлэн байгуулах хорш. формировать, организовать; засгийн газар эмхлэн байгуулах формировать правительство. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>эмхлэх</cyrillic>
+      <definition>ordnen, in Ordnung bringen; systematisieren; эмхлэн байгуулах formieren, etablieren</definition>
+      <page>399</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠮᠬᠢᠯᠡᠬᠦ</unicode>
+      <cyrillic>эмхлэх</cyrillic>
+      <definition>цэгцтэй, эмхтэй болгох; хөдөө авч явах юмаа эмхлэх; нүүх гэж гэр зуурын юмаа эмхэлж байв.</definition>
+      <page>877</page>
+    </entry_item>
+  </entries>
+</entry>

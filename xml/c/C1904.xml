@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1904">
+  <head>
+    <unicode>ᠴᠢᠯᠪᠠᠩ</unicode>
+    <transcript>čilbang</transcript>
+    <transcript2>cilbang</transcript2>
+    <cyrillic>чалбан</cyrillic>
+  </head>
+  <see_also>
+    <ref>C1903</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠢᠯᠪᠠᠩ</unicode>
+      <uighur>čilbang</uighur>
+      <cyrillic>чалбан(г)</cyrillic>
+      <transcript>CILBANG</transcript>
+      <definition>n. and adj.. Albino (of animals); albinic.</definition>
+      <page>182</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠯᠪᠠᠩ ᠴᠠᠭᠠᠨ</unicode>
+          <transcript>-- caγan,</transcript>
+          <definition>White with a reddish muzzle</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠢᠯᠪᠠᠩ ᠨᠢᠳᠦᠨ</unicode>
+          <transcript>- - nidyn,</transcript>
+          <definition>Albinic eyes, red eyes</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠢᠯᠪᠡᠩ</unicode>
+      <definition>rouge, injecté de sang, sujet à l'inflammation.</definition>
+      <page>2166</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠯᠪᠠᠩ ᠨᠢᠳᠦᠨ</unicode>
+          <definition>qui a le bord des yeux rouge</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠢᠯᠪᠠᠩ ᠴᠠᠭᠠᠨ ᠮᠣᠷᠢᠨ</unicode>
+          <definition>un cheval blanc avec le museau rougeâtre</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠴᠢᠯᠪᠠᠩ</unicode>
+      <uighur>čilbang nidü</uighur>
+      <definition>Red inflamed eyes. Sore eyelids.</definition>
+      <page>1324</page>
+      <examples>
+        <example>
+          <uighur>čilbang čaγan mori</uighur>
+          <definition>n. A white horse with red nose.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠯᠪᠠᠩ</unicode>
+      <cyrillic>ЧАЛБАН(Г)</cyrillic>
+      <definition>II шувуу. альбинос.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠯᠪᠠᠩ</unicode>
+      <cyrillic>чалбан</cyrillic>
+      <definition>нүдний тар улангир болсны нь.</definition>
+      <page>812</page>
+    </entry_item>
+  </entries>
+</entry>

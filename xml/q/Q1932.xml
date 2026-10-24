@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1932">
+  <head>
+    <unicode>ᠬᠠᠯᠢᠭᠣᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>qaliγuraγulqu</transcript>
+    <transcript2>galigoragolgo</transcript2>
+    <cyrillic>халиуруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q1931</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠯᠢᠭᠤᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>халиуруулах</cyrillic>
+      <definition>〔动〕халиурах 的使动态.</definition>
+      <page>1290</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠯᠢᠭᠣᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХАЛИУРУУЛАХ</cyrillic>
+      <definition>халиурах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠯᠢᠭᠤᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>халиуруулах</cyrillic>
+      <definition>халиурахын үйлдүүлэх хэв.</definition>
+      <page>650</page>
+    </entry_item>
+  </entries>
+</entry>

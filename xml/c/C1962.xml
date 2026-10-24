@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C1962">
+  <head>
+    <unicode>ᠴᠢᠮ ᠠ</unicode>
+    <transcript>čim-e</transcript>
+    <transcript2>cim-e</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠢᠮ᠎ᠡ</unicode>
+      <uighur>čim-e</uighur>
+      <transcript>CIM-E</transcript>
+      <definition>See cimege(n).</definition>
+      <page>184</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠢᠮ᠎ᠡ ~ ᠴᠢᠮᠡᠺᠡ</unicode>
+      <definition>cri, bruit, son, rumeur.</definition>
+      <page>2167</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠮ ᠡ ᠠᠪᠬᠤ</unicode>
+          <definition>cesser de parler, se taire</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠢᠮ ᠡ ᠦᠭᠡᠢ</unicode>
+          <definition>silencieusement, sans bruit</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

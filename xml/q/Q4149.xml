@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4149">
+  <head>
+    <unicode>ᠭᠣᠨᠵᠢᠯᠵᠠᠬᠣ</unicode>
+    <transcript>γonǰilǰaqu</transcript>
+    <transcript2>goncilcago</transcript2>
+    <cyrillic>гонжилзох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q4150</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q4148</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠣᠨᠵᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>гонжилзох</cyrillic>
+      <definition>〔动〕参见 гонжгонох.</definition>
+      <page>307</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠨᠵᠢᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ГОНЖИЛЗОХ</cyrillic>
+      <definition>гонжгонох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠣᠨᠵᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>гонжилзох</cyrillic>
+      <definition>гонжгор юмны байн байн хөдлөх.</definition>
+      <page>150</page>
+    </entry_item>
+  </entries>
+</entry>

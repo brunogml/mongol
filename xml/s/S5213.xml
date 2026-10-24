@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5213">
+  <head>
+    <unicode>ᠱᠣᠬᠣᠭᠣᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>šoquγuraγulqu</transcript>
+    <transcript2>sogogoragolgo</transcript2>
+    <cyrillic>шохооруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S5212</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠣᠬᠣᠭᠣᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шохооруулах</cyrillic>
+      <definition>〔动〕шохоорох 的使动态.</definition>
+      <page>1652</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠬᠣᠭᠣᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШОХООРУУЛАХ</cyrillic>
+      <definition>шохоорох-ын үйлдүүл., заинтриговать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠣᠬᠣᠭᠣᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шохооруулах</cyrillic>
+      <definition>шохоорохын үйлдүүлэх хэв.</definition>
+      <page>855</page>
+    </entry_item>
+  </entries>
+</entry>

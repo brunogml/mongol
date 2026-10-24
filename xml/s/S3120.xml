@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S3120">
+  <head>
+    <unicode>ᠰᠢᠨᠲᠠᠷᠠᠰᠢ</unicode>
+    <transcript>sintarasi</transcript>
+    <transcript2>sindarasi</transcript2>
+    <cyrillic>шантраш</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠨᠲᠠᠷᠠᠰᠢ</unicode>
+      <uighur>sindarasi</uighur>
+      <cyrillic>шантраш</cyrillic>
+      <transcript>SINTARASI</transcript>
+      <page>713</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠨᠲᠠᠷᠠᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Imperturbable, unyielding, invincible</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠨᠲᠠᠷᠠᠰᠢ</unicode>
+      <cyrillic>ШАНТАРШГҮЙ</cyrillic>
+      <definition>несломленный. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2036">
+  <head>
+    <unicode>ᠣᠮᠳᠠᠰᠬᠣ</unicode>
+    <transcript>umdasqu</transcript>
+    <transcript2>omdasgo</transcript2>
+    <cyrillic>ундсах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠮᠳᠠᠰᠬᠤ</unicode>
+      <definition>avoir soif.</definition>
+      <page>415</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠮᠳᠠᠰᠬᠤ</unicode>
+      <cyrillic>ундсах</cyrillic>
+      <definition>〔动〕参见 ундаасах.</definition>
+      <page>1192</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠮᠳᠠᠰᠬᠣ</unicode>
+      <cyrillic>УНДСАХ</cyrillic>
+      <definition>ундаасах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>ундсах</cyrillic>
+      <definition>= үндаасах</definition>
+      <page>257</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠮᠳᠠᠰᠠᠬᠤ</unicode>
+      <cyrillic>ундсах</cyrillic>
+      <definition>унд хүсэх, ундаасах.</definition>
+      <page>594</page>
+    </entry_item>
+  </entries>
+</entry>

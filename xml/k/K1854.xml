@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1854">
+  <head>
+    <unicode>ᠺᠢᠬᠣᠲᠣᠨᠠᠬᠣ</unicode>
+    <transcript>kiqutunaqu</transcript>
+    <transcript2>gigodonago</transcript2>
+    <cyrillic>хяхтнах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K1855</ref>
+    <ref>K1856</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠢᠬᠤᠲᠤᠨᠠᠬᠤ</unicode>
+      <cyrillic>хяхтнах</cyrillic>
+      <definition>〔动〕①（车轮等）咯吱咯吱响；②（嗓子）发嘶哑声.</definition>
+      <page>1505</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠬᠣᠲᠣᠨᠠᠬᠣ</unicode>
+      <cyrillic>ХЯХТНАХ</cyrillic>
+      <definition>хрипеть; скрипеть, поскрипывать; хаалга хяхтнана дверь скрипит. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠢᠬᠤᠲᠤᠨᠠᠬᠤ</unicode>
+      <cyrillic>хяхтнах</cyrillic>
+      <definition>хяхнах чимээ гарах.</definition>
+      <page>774</page>
+    </entry_item>
+  </entries>
+</entry>

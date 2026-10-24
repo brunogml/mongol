@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q1009">
+  <head>
+    <unicode>ᠬᠠᠪᠢᠶᠠᠯᠠᠬᠣ</unicode>
+    <transcript>qabiyalaqu</transcript>
+    <transcript2>gabiyalago</transcript2>
+    <cyrillic>хавьяалах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠪᠢᠶᠠᠯᠠᠬᠣ</unicode>
+      <uighur>qabiyalaqu</uighur>
+      <cyrillic>хавьяалах</cyrillic>
+      <transcript>XABIJALA-</transcript>
+      <definition>v.t. To employ with profit, put to good use.</definition>
+      <page>897</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠪᠢᠶᠠᠯᠠᠨ ᠺᠡᠷᠡᠭᠯᠡᠺᠦ</unicode>
+          <transcript>--n keregleky</transcript>
+          <definition> To use with profit, put to profitable use.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠪᠢᠶᠠᠯᠠᠬᠤ</unicode>
+      <definition>employer avec profit, pour l&apos;utile.</definition>
+      <page>754</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠪᠢᠶᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>хавьяалах</cyrillic>
+      <definition>〔动〕善于使用，善于运用.</definition>
+      <page>1268</page>
+    </entry_item>
+  </entries>
+</entry>

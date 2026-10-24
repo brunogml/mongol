@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1906">
+  <head>
+    <unicode>ᠪᠠᠺᠢᠳᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>bekidegülkü</transcript>
+    <transcript2>begidegölgö</transcript2>
+    <cyrillic>бэхдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>B1905</ref>
+  </related_to>
+  <see_also>
+    <ref>B1875</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠺᠢᠳᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>БЭХДҮҮЛЭХ</cyrillic>
+      <definition>II бэхдэх II-ийн үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠡᠬᠢᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>бэхдүүлэх /2</cyrillic>
+      <definition>бэхдэх /2-ийн үйлдүүлэх хэв.</definition>
+      <page>124</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="ZA099">
+  <head>
+    <cyrillic>асфальт</cyrillic>
+  </head>
+  <see_also>
+    <ref>ZA098</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠰᠹᠠᠯᠢᠲ᠋</unicode>
+      <cyrillic>асфальт</cyrillic>
+      <definition>〔名〕煤焦油，沥青，柏油.</definition>
+      <page>85</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>асфальт</cyrillic>
+      <definition>Min Asphalt m</definition>
+      <page>36</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠰᠹᠠᠯᠢᠲ᠋</unicode>
+      <cyrillic>асфальт</cyrillic>
+      <definition>цардас.</definition>
+      <page>55</page>
+    </entry_item>
+  </entries>
+</entry>

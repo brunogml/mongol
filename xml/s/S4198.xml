@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S4198">
+  <head>
+    <unicode>ᠰᠢᠵᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>siǰalǰaγulqu</transcript>
+    <transcript2>sicalcagolgo</transcript2>
+    <cyrillic>шазалзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S4197</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠵᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шазалзуулах</cyrillic>
+      <definition>〔动〕шазалзах 的使动态.</definition>
+      <page>1609</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠵᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАЗАЛЗУУЛАХ</cyrillic>
+      <definition>шазалзах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠵᠠᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шазалзуулах</cyrillic>
+      <definition>шазалзахын үйлдүүлэх хэв.</definition>
+      <page>831</page>
+    </entry_item>
+  </entries>
+</entry>

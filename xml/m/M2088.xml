@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M2088">
+  <head>
+    <unicode>ᠮᠥᠩᠺᠠᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>möngkelegülkü</transcript>
+    <transcript2>mönggelegölgö</transcript2>
+    <cyrillic>мөнхлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>M2087</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠥᠩᠬᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>мөнхлүүлэх</cyrillic>
+      <definition>〔动〕мөнхлех 的使动态.</definition>
+      <page>686</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠥᠩᠺᠠᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>МӨНХЛҮҮЛЭХ</cyrillic>
+      <definition>мөнхлөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠥᠩᠬᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>мөнхлүүлэх</cyrillic>
+      <definition>мөнхдөхийн үйлдүүлэх хэв, мөнх болгуулах.</definition>
+      <page>345</page>
+    </entry_item>
+  </entries>
+</entry>

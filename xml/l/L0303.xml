@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="L0303">
+  <head>
+    <transcript>litrlekü</transcript>
+    <transcript2>lidrlegö</transcript2>
+    <cyrillic>литрлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>L0304</ref>
+    <ref>L0302</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠯᠢᠲ᠋ᠷᠯᠡᠬᠦ</unicode>
+      <cyrillic>литрлэх</cyrillic>
+      <definition>〔动〕以公升量：сүү ~ 以公升量牛奶.</definition>
+      <page>645</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ЛИТРЛЭХ</cyrillic>
+      <definition>измерять вес какой-л. жидкости в литрах, литровать; сүү литрлэх измерять объём молока в литрах. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>литрлэх</cyrillic>
+      <definition>nach Liter abmessen</definition>
+      <page>139</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠯᠢᠲ᠋ᠧᠷᠯᠡᠬᠦ</unicode>
+      <cyrillic>литрлэх</cyrillic>
+      <definition>литрээр хэмжих; сүү литрлэх.</definition>
+      <page>321</page>
+    </entry_item>
+  </entries>
+</entry>

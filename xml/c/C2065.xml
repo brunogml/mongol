@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2065">
+  <head>
+    <unicode>ᠴᠢᠴᠠᠣᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čičauraγulqu</transcript>
+    <transcript2>cicaoragolgo</transcript2>
+    <cyrillic>чацууруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C2064</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <cyrillic>чацууруулах</cyrillic>
+      <definition>〔动〕чацуурах 的使动态.</definition>
+      <page>1583</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠴᠠᠣᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЧАЦУУРУУЛАХ</cyrillic>
+      <definition>чацуурах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠴᠠᠤᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>чацууруулах</cyrillic>
+      <definition>чацуурахын үйлдүүлэх хэв.</definition>
+      <page>816</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T1243">
+  <head>
+    <unicode>ᠳᠠᠪᠲᠠᠰᠢ</unicode>
+    <transcript>dabtasi</transcript>
+    <transcript2>dabdasi</transcript2>
+    <cyrillic>давташ</cyrillic>
+  </head><derivatives>
+    <ref>T1237</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠪᠳᠠᠰᠢ ᠦᠭᠡᠢ</unicode>
+      <definition>qui n'est pas malléable ou ductile</definition>
+      <page>1610</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠪᠲᠠᠰᠢ</unicode>
+      <cyrillic>ДАВТАШГҮЙ</cyrillic>
+      <definition>I не поддающийся, непригодный для ковки. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠪᠲᠠᠰᠢ</unicode>
+      <cyrillic>ДАВТАШГҮЙ</cyrillic>
+      <definition>II неповторимый, не подлежащий повторению. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

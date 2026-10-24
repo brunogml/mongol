@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3029">
+  <head>
+    <unicode>ᠰᠢᠨᠠᠰᠺᠠᠺᠥ</unicode>
+    <transcript>sinesgekü</transcript>
+    <transcript2>sinesgegö</transcript2>
+    <cyrillic>шинэсгэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3030</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠨᠡᠰᠬᠡᠬᠦ</unicode>
+      <cyrillic>шинэсгэх</cyrillic>
+      <definition>〔动〕шинэсэх 的使动态；革新，振兴，改善.</definition>
+      <page>1639</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠨᠠᠰᠺᠠᠺᠥ</unicode>
+      <cyrillic>ШИНЭСГЭХ</cyrillic>
+      <definition>шинэсэх-ийн үйлдүүл., обновлять. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠨᠡᠰᠬᠡᠬᠦ</unicode>
+      <cyrillic>шинэсгэх</cyrillic>
+      <definition>шинэсэхийн үйлдүүлэх хэв, шинэ болгох.</definition>
+      <page>849</page>
+    </entry_item>
+  </entries>
+</entry>

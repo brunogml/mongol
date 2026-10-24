@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0813">
+  <head>
+    <unicode> ᠰᠠᠳ᠋</unicode>
+    <transcript>sad</transcript>
+    <transcript2>sad</transcript2>
+    <cyrillic>сад</cyrillic>
+  </head>
+  <see_also>
+    <ref>S0815</ref>
+    <ref>S0814</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode> ᠰᠠᠳ᠋</unicode>
+      <uighur>sad</uighur>
+      <transcript>SAD</transcript>
+      <definition>Same as sed.</definition>
+      <page>655</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode> ᠰᠠᠳ᠋</unicode>
+      <uighur>sad</uighur>
+      <definition>Measure. A watch.</definition>
+      <page>1388</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode> ᠰᠠᠳ᠋</unicode>
+      <cyrillic>САД</cyrillic>
+      <definition>II хуучир. карманные часы; мөнгөн сад серебряные карманные часы. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠳ᠋</unicode>
+      <cyrillic>сад /2</cyrillic>
+      <definition>цаг; алтан сад; мөнгөн сад.</definition>
+      <page>459</page>
+    </entry_item>
+  </entries>
+</entry>

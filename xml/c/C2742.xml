@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2742">
+  <head>
+    <unicode>ᠴᠣᠬᠰᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čoγsiγulqu</transcript>
+    <transcript2>cogsigolgo</transcript2>
+    <cyrillic>цогшуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C2741</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠣᠭᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цогшуулах</cyrillic>
+      <definition>〔动〕цогших 的使动态.</definition>
+      <page>1530</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠬᠰᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦОГШУУЛАХ</cyrillic>
+      <definition>цогших-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цогшуулах</cyrillic>
+      <definition>Kaus von цогших</definition>
+      <page>355</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠣᠭᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цогшуулах</cyrillic>
+      <definition>цогшихын үйлдүүлэх хэв.</definition>
+      <page>788</page>
+    </entry_item>
+  </entries>
+</entry>

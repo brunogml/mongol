@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q1992">
+  <head>
+    <unicode>ᠬᠠᠯᠢᠷ</unicode>
+    <transcript>qalir</transcript>
+    <transcript2>galir</transcript2>
+    <cyrillic>халир</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠯᠢᠷ</unicode>
+      <uighur>qalir</uighur>
+      <cyrillic>халир</cyrillic>
+      <transcript>XALIR</transcript>
+      <definition>adj . Squinting; squint-eyed.</definition>
+      <page>920</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠯᠢᠷ ᠨᠢᠳᠦ ᠎ᠲᠡᠢ</unicode>
+          <transcript>-- nidy tei</transcript>
+          <definition> Squint-eyed.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠯᠢᠷ</unicode>
+      <definition>de travers</definition>
+      <page>794</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠠᠯᠢᠷ</unicode>
+      <uighur>qalir</uighur>
+      <definition>siehe kilar</definition>
+      <page>136</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠯᠢᠷ</unicode>
+      <cyrillic>халир</cyrillic>
+      <definition>〔形〕斜视的，斜眼的.</definition>
+      <page>1289</page>
+    </entry_item>
+  </entries>
+</entry>

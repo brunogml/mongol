@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0012">
+  <head>
+    <unicode>ᠮᠠᠨᠠᠨᠲᠣᠬᠣ</unicode>
+    <transcript>manantuqu</transcript>
+    <transcript2>manandogo</transcript2>
+    <cyrillic>манантах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M0013</ref>
+    <ref>M0014</ref>
+  </derivatives>
+  <see_also>
+    <ref>M0011</ref>
+    <ref>M0017</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠨᠠᠨᠲᠣᠬᠣ</unicode>
+      <cyrillic>МАНАНТАХ</cyrillic>
+      <definition>застилаться, обволакиваться, покрываться туманом, затуманиваться; уул манантав горы покрылись туманом; холуур утаа манантана дым туманит даль. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠨᠠᠨᠲᠤᠬᠤ</unicode>
+      <cyrillic>манантах</cyrillic>
+      <definition>манан татаж түгээмэл болох.</definition>
+      <page>329</page>
+    </entry_item>
+  </entries>
+</entry>

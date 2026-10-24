@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1740">
+  <head>
+    <unicode>ᠰᠠᠷᠣᠶᠢᠬᠣ</unicode>
+    <transcript>saruyiqu</transcript>
+    <transcript2>saroyigo</transcript2>
+    <cyrillic>сарийх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1742</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠷᠤᠢᠬᠤ</unicode>
+      <cyrillic>сарийх</cyrillic>
+      <definition>〔动〕弯曲，歪斜，歪扭.</definition>
+      <page>918</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠷᠣᠶᠢᠬᠣ</unicode>
+      <cyrillic>САРИЙХ</cyrillic>
+      <definition>кривляться, быть кривым; муруйж сарийх хорш. быть кривым, искривляться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сарийх,</cyrillic>
+      <definition>auch мурүйж ~ krumm werden</definition>
+      <page>196</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠷᠤᠢᠬᠤ</unicode>
+      <cyrillic>саруйх</cyrillic>
+      <definition>саруй болох, муруйх.</definition>
+      <page>472</page>
+    </entry_item>
+  </entries>
+</entry>

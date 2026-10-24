@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0148">
+  <head>
+    <unicode>ᠪᠠᠭᠠᠰᠣᠲᠣᠬᠣ</unicode>
+    <transcript>baγasutuqu</transcript>
+    <transcript2>bagasodogo</transcript2>
+    <cyrillic>баастах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0149</ref>
+    <ref>B0150</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠭᠠᠰᠤᠲᠤᠬᠤ</unicode>
+      <cyrillic>баастах</cyrillic>
+      <definition>〔动〕成为粪便，成污物.</definition>
+      <page>103</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠭᠠᠰᠣᠲᠣᠬᠣ</unicode>
+      <cyrillic>БААСТАХ</cyrillic>
+      <definition>1) замараться, запачкаться в навозе; 2) унавоживаться.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠭᠠᠰᠤᠲᠤᠬᠤ</unicode>
+      <cyrillic>баастах</cyrillic>
+      <definition>баас тогтох; хот баастчихжээ.</definition>
+      <page>63</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>B0142</ref>
+  </related_to>
+</entry>

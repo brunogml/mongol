@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3210">
+  <head>
+    <unicode>ᠰᠢᠩᠺᠠᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>singgelegülkü</transcript>
+    <transcript2>singgelegölgö</transcript2>
+    <cyrillic>шингэлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S3209</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠩᠭᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>шингэлүүлэх</cyrillic>
+      <definition>〔动〕шингэлэх 的使动态.</definition>
+      <page>1637</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠩᠺᠠᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ШИНГЭЛҮҮЛЭХ</cyrillic>
+      <definition>шингэлэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шингэлүүлэх</cyrillic>
+      <definition>Kaus von шингэлэх</definition>
+      <page>386</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠩᠭᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>шингэлүүлэх</cyrillic>
+      <definition>шингэлэхийн үйлдүүлэх хэв, шингэн болгуулах.</definition>
+      <page>848</page>
+    </entry_item>
+  </entries>
+</entry>

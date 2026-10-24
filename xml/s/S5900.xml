@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5900">
+  <head>
+    <unicode>ᠰᠣᠯᠪᠠᠶᠢᠯᠭᠠᠬᠣ</unicode>
+    <transcript>sulbayilγaqu</transcript>
+    <transcript2>solbayilgago</transcript2>
+    <cyrillic>сулбайлгах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠯᠪᠠᠢᠯᠭᠠᠬᠤ</unicode>
+      <cyrillic>сулбайлгах</cyrillic>
+      <definition>〔动〕сулбайх 的使动态.</definition>
+      <page>958</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠯᠪᠠᠶᠢᠯᠭᠠᠬᠣ</unicode>
+      <cyrillic>СУЛБАЙЛГАХ</cyrillic>
+      <definition>сулбайх-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сулбайлгах</cyrillic>
+      <definition>Kaus von сулбайх</definition>
+      <page>204</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠯᠪᠠᠢᠯᠭᠠᠬᠤ</unicode>
+      <cyrillic>сулбайлгах</cyrillic>
+      <definition>сулбайхын үйлдүүлэх хэв.</definition>
+      <page>488</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1883">
+  <head>
+    <unicode>ᠰᠠᠷᠵᠠᠶᠢᠬᠣ</unicode>
+    <transcript>sarǰayiqu</transcript>
+    <transcript2>sarcayigo</transcript2>
+    <cyrillic>сарзайх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1885</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠷᠵᠠᠢᠬᠤ</unicode>
+      <cyrillic>сарзайх</cyrillic>
+      <definition>〔动〕①变稀疏，变稀薄，呈网状；②变不平滑，变粗糙，变不整齐.</definition>
+      <page>917</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠷᠵᠠᠶᠢᠬᠣ</unicode>
+      <cyrillic>САРЗАЙХ</cyrillic>
+      <definition>1) быть редким, сетчатым; 2) быть неровным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сарзайх</cyrillic>
+      <definition>spärlich vorkommen, dünn sein</definition>
+      <page>196</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠷᠵᠠᠢᠬᠤ</unicode>
+      <cyrillic>сарзайх</cyrillic>
+      <definition>сарзгар болох, арзгар болох.</definition>
+      <page>471</page>
+    </entry_item>
+  </entries>
+</entry>

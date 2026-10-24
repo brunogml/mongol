@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2404">
+  <head>
+    <unicode>ᠰᠠᠵᠢᠺᠳᠠᠺᠥ</unicode>
+    <transcript>seǰigdekü</transcript>
+    <transcript2>secigdegö</transcript2>
+    <cyrillic>сэжигдэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S2396</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠵᠢᠺᠳᠠᠺᠥ</unicode>
+      <cyrillic>СЭЖИГДЭХ</cyrillic>
+      <definition>сэжих-ийн үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сэжигдэх</cyrillic>
+      <definition>Pass von сэжих</definition>
+      <page>210</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠵᠢᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>сэжигдэх /1</cyrillic>
+      <definition>сэжихийн үйлдэгдэх хэв.</definition>
+      <page>501</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠵᠢᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>сэжигдэх /2</cyrillic>
+      <definition>сэжиг санах.</definition>
+      <page>501</page>
+    </entry_item>
+  </entries>
+</entry>

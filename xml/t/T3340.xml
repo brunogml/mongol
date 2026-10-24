@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3340">
+  <head>
+    <unicode>ᠳᠠᠩᠺᠠᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>dengkegenekü</transcript>
+    <transcript2>denggegenegö</transcript2>
+    <cyrillic>дэнхгэнэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T3341</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠩᠺᠠᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>ДЭНХГЭНЭХ</cyrillic>
+      <definition>двигаться, ходить (о ком-чём-л. очень высоком, рослом). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠩᠬᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>дэнхэгнэх</cyrillic>
+      <definition>дэнхгэр юмны үргэлжлэн хөдлөх.</definition>
+      <page>228</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T3339</ref>
+  </related_to>
+</entry>

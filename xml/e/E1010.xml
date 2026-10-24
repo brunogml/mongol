@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E1010">
+  <head>
+    <unicode>ᠡᠯᠭᠡᠭ</unicode>
+    <transcript>elgeg</transcript>
+    <transcript2>elgeg</transcript2>
+    <cyrillic>элгэг</cyrillic>
+  </head>
+  <see_also>
+    <ref>E1011</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠯᠺᠠᠺ</unicode>
+      <uighur>elkeg</uighur>
+      <cyrillic>элхэг</cyrillic>
+      <transcript>ELKEG</transcript>
+      <definition>n. Sieve, sifter, strainer, boiter.</definition>
+      <page>310</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠯᠺᠠᠺ ᠤᠨ ᠴᠠᠭᠠᠷᠢᠬ</unicode>
+          <transcript>-- yn caγariγ, </transcript>
+          <definition>The round frame of a sieve</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠢᠯᠭᠠᠰᠤᠨ ᠡᠯᠺᠠᠺ</unicode>
+          <transcript>kilγasun --</transcript>
+          <definition> Hair sieve.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠣᠷᠭᠠᠨ ᠡᠯᠺᠠᠺ</unicode>
+          <transcript>torγan --</transcript>
+          <definition> Silk sieve.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠯᠺᠡᠭ</unicode>
+      <definition>crible, sas, bluteau, tamis</definition>
+      <page>212</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠠᠯᠺᠠᠺ</unicode>
+      <uighur>elkek</uighur>
+      <definition>das Sieb, der Siebbeutel</definition>
+      <page>29</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠡᠯᠺᠠᠺ</unicode>
+      <uighur>elkeg</uighur>
+      <definition>n. A sieve. An open flat basket for grain.</definition>
+      <page>111</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠯᠭᠡᠭ</unicode>
+      <cyrillic>элгэг</cyrillic>
+      <definition>〔名〕筛箩：~ шигшүүр 筛箩.</definition>
+      <page>1689</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠯᠭᠡᠭ</unicode>
+      <cyrillic>элгэг</cyrillic>
+      <definition>юмыг нарийлан шигших шигшүүр;элгэг шигшүүр&lt;хорш&gt;.</definition>
+      <page>873</page>
+    </entry_item>
+  </entries>
+</entry>

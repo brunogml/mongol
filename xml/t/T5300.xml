@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5300">
+  <head>
+    <unicode>ᠲᠣᠨᠣᠳᠠᠰᠣ</unicode>
+    <transcript>tunudasu</transcript>
+    <transcript2>donodaso</transcript2>
+    <cyrillic>тундас</cyrillic>
+  </head>
+  <see_also>
+    <ref>T5319</ref>
+    <ref>T5300a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠨᠣᠳᠠᠰᠣ</unicode>
+      <uighur>tunodasu</uighur>
+      <cyrillic>тундас</cyrillic>
+      <transcript>TUNUDASU(N)</transcript>
+      <definition>n. Sediment; precipitation (meteorol. ).</definition>
+      <page>843</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠨᠣᠳᠠᠰᠣ</unicode>
+      <cyrillic>ТУНАДАС</cyrillic>
+      <definition>тундас I, II-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠨᠤᠳᠠᠰᠤ</unicode>
+      <cyrillic>тундас /1</cyrillic>
+      <definition>газар дээр бороо, цас болж буух агаарын нойт; агаарын тундас.</definition>
+      <page>557</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠨᠤᠳᠠᠰᠤ</unicode>
+      <cyrillic>тундас /2</cyrillic>
+      <definition>шингэн зүйлээс тунаж үлдсэн юм; дарсны тунадас.</definition>
+      <page>557</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y2599">
+  <head>
+    <unicode>ᠵᠢᠭᠣᠬᠣ</unicode>
+    <transcript>ǰiγuqu</transcript>
+    <transcript2>yigogo</transcript2>
+    <cyrillic>зуух</cyrillic>
+  </head>
+  <see_also>
+    <ref>Y0532</ref>
+    <ref>Y3677</ref>
+    <ref>Y2600</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠢᠭᠣᠬᠣ</unicode>
+      <uighur>ǰiγuqu</uighur>
+      <cyrillic>зуух</cyrillic>
+      <transcript>ZIΓU-</transcript>
+      <definition>1</definition>
+      <page>1051</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠮᠢ ᠵᠢᠭᠣᠬᠣ</unicode>
+          <transcript>ami -- </transcript>
+          <definition> To live, exist, obtain means of livelihood</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠢᠭᠣᠬᠣ</unicode>
+      <uighur>ǰiγuqu</uighur>
+      <transcript>ZIΓU-</transcript>
+      <definition>2 See ziγuxu.</definition>
+      <page>1051</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠭᠤᠬᠤ</unicode>
+      <cyrillic>зуух /3</cyrillic>
+      <definition>амь зуух, аж зуух ажил хөдөлмөр хийж амиа тэжээх.</definition>
+      <page>288</page>
+    </entry_item>
+  </entries>
+</entry>

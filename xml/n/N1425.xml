@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="N1425">
+  <head>
+    <unicode>ᠨᠢᠪ</unicode>
+    <transcript>nib</transcript>
+    <transcript2>nib</transcript2>
+    <cyrillic>нив</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠨᠢᠪ</unicode>
+      <uighur>nib</uighur>
+      <cyrillic>нив</cyrillic>
+      <transcript>NIB</transcript>
+      <definition>Particle intensifying the following adj. or adv. beginning with ni.</definition>
+      <page>577</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠢᠪ ᠨᠢᠮᠡᠭᠡᠨ</unicode>
+          <transcript>-- nimegen</transcript>
+          <definition> Very thin.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠨᠢᠪ ᠨᠢᠺᠡᠨ</unicode>
+      <definition>tout seul</definition>
+      <page>651</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠢᠪ</unicode>
+      <cyrillic>нив</cyrillic>
+      <definition>见 ~ нимгэн 非常薄.</definition>
+      <page>735</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠢᠪ</unicode>
+      <cyrillic>НИВ</cyrillic>
+      <definition>ни - гээр эхлэсэн үгэнд хүч нэмэгдүүлэх сул үг (усилительная частица к словам с начальным “ни”); нив нимгэн очень тонкий; нежный; нив нэгэн один одинёшенек; нив хийж унах тяжело, грузно падать (о тяжёлых вещах). </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

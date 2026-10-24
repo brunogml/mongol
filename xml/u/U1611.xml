@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1611">
+  <head>
+    <unicode>ᠣᠯᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ulalaγulqu</transcript>
+    <transcript2>olalagolgo</transcript2>
+    <cyrillic>уллуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U1610</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠯᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>уллуулах</cyrillic>
+      <definition>〔动〕уллах /1 的使动态.</definition>
+      <page>1186</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠯᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>УЛЛУУЛАХ</cyrillic>
+      <definition>уллах I, II-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>уллуулах</cyrillic>
+      <definition>Kaus von уллах
+1.</definition>
+      <page>255</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠯᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>уллуулах</cyrillic>
+      <definition>уллахын үйлдүүлэх хэв, ул суурьтай болгох.</definition>
+      <page>591</page>
+    </entry_item>
+  </entries>
+</entry>

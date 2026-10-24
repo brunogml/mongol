@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2589">
+  <head>
+    <unicode>ᠴᠣᠬᠣᠰᠺᠢᠺᠥ</unicode>
+    <transcript>čuquskikü</transcript>
+    <transcript2>cogosgigö</transcript2>
+    <cyrillic>цухасхийх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠬᠣᠰᠺᠢᠺᠥ</unicode>
+      <cyrillic>ЦУХАСХИЙХ</cyrillic>
+      <definition>показываться и исчезать (мгновенно, неожиданно). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠤᠬᠤᠰᠬᠢᠬᠦ</unicode>
+      <cyrillic>цухасхийх</cyrillic>
+      <definition>түр ба гэнэт цухуйх.</definition>
+      <page>801</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>C2587</ref>
+  </related_to>
+</entry>

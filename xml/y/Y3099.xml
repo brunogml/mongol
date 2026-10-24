@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3099">
+  <head>
+    <unicode>ᠶᠢᠯᠸᠢᠳᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>yilvidegülkü</transcript>
+    <transcript2>yilvidegölgö</transcript2>
+    <cyrillic>илбэдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y3098</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠢᠯᠸᠢᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>илбэдүүлэх</cyrillic>
+      <definition>〔动〕①илбэдэх 的使动态；②意同 илбэдэгдэх.</definition>
+      <page>610</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠢᠯᠸᠢᠳᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ИЛБЭДҮҮЛЭХ</cyrillic>
+      <definition>илбэдэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠧᠯᠸᠢᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>илбэдүүлэх</cyrillic>
+      <definition>1. илбэдэхийн үйлдүүлэх хэв;2. илбэдэгдэх.</definition>
+      <page>302</page>
+    </entry_item>
+  </entries>
+</entry>

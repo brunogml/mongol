@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="E1947">
+  <head>
+    <unicode>ᠡᠷᠡᠰᠦ</unicode>
+    <transcript>eresü</transcript>
+    <transcript2>eresö</transcript2>
+    <cyrillic>эрс</cyrillic>
+  </head><see_also>
+    <ref>E1943</ref>
+  
+    <ref>E2218</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠷᠠᠰᠥ</unicode>
+      <uighur>eresü</uighur>
+      <cyrillic>эрс</cyrillic>
+      <transcript>ERESY</transcript>
+      <definition>[=ersy] adj. and n, Of both sexes, hermaphrodite; of both genders, neuter.</definition>
+      <page>323</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠷᠠᠰᠥ ᠡᠭᠡᠰᠢᠭ</unicode>
+          <transcript>-- egesig</transcript>
+          <definition> Neuter vowel (the vowel i ).</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠷᠠᠰᠥ ᠺᠦᠢᠰᠦ</unicode>
+          <transcript>-- kyisy</transcript>
+          <definition> Neuter gender.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠮ᠎ᠡ ᠡᠷᠠᠰᠥ</unicode>
+          <transcript>em-e --</transcript>
+          <definition> Hermaphrodite with preponderantly female characteristics,</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠷ᠎ᠡ ᠡᠷᠠᠰᠥ</unicode>
+          <transcript>er-e --</transcript>
+          <definition> Hermaphrodite with preponderantly male characteristics.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠷᠡᠰᠦ ~ ᠡᠷᠰᠦ</unicode>
+      <definition>des deux genres; neutre; hermaphrodite</definition>
+      <page>248</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠷ᠎ᠡ ᠡᠷᠡᠰᠦ</unicode>
+          <definition>hermaphrodite</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

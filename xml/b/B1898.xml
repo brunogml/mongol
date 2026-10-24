@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B1898">
+  <head>
+    <unicode>ᠪᠠᠺᠠᠷᠠᠺᠥ</unicode>
+    <transcript>begerekü</transcript>
+    <transcript2>begeregö</transcript2>
+    <cyrillic>бээрэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B1899</ref>
+    <ref>B1898a</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠠᠺᠠᠷᠠᠺᠥ</unicode>
+      <uighur>begerekü</uighur>
+      <cyrillic>бээрэх</cyrillic>
+      <transcript>BEGERE-</transcript>
+      <definition>v.i To suffer extremely from frost, freeze, become stiff or numb from cold. ,</definition>
+      <page>94</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠠᠺᠠᠷᠠᠨ ᠳᠠᠭᠠᠷᠠᠬᠤ</unicode>
+          <transcript>--n daγaraxu,</transcript>
+          <definition>To feel cold, suffer from cold</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠠᠷ ᠪᠠᠺᠠᠷᠠᠺᠥ</unicode>
+          <transcript>γar --ky</transcript>
+          <definition>The hands become numb from cold.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠡᠺᠡᠷᠡᠺᠦ</unicode>
+      <definition>avoir extrêmement froid. devenir roide</definition>
+      <page>1124</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠪᠠᠺᠠᠷᠠᠺᠥ</unicode>
+      <uighur>bekerekü</uighur>
+      <definition>heftig an Händen und Füssen frieren</definition>
+      <page>105</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠡᠭᠡᠷᠡᠬᠦ</unicode>
+      <cyrillic>бээрэх</cyrillic>
+      <definition>〔动〕受冻，冻僵，感觉冷：миний гар бээрчихжээ 我的手已经冻僵了； даарах ~ 受冻，发冷.</definition>
+      <page>250</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠺᠠᠷᠠᠺᠥ</unicode>
+      <cyrillic>БЭЭРЭХ</cyrillic>
+      <definition>зябнуть, мёрзнуть, коченеть, деревенеть (от холода); миний гар бээрчихлээ у меня одеревенели руки; бээрсэн ялаа шиг как сонная муха.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠡᠭᠡᠷᠡᠬᠦ</unicode>
+      <cyrillic>бээрэх</cyrillic>
+      <definition>хүйтэнд даарч биеийн хөдлөл муудах; даарах бээрэх.</definition>
+      <page>124</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бээрэх</cyrillic>
+      <definition>vor Kälte erstarren; Gliedmaßen einschlafen</definition>
+      <page>69</page>
+    </entry_item>
+  </entries>
+</entry>

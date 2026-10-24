@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1903">
+  <head>
+    <unicode>ᠨᠢᠷᠺᠠᠺᠥ</unicode>
+    <transcript>nirgekü</transcript>
+    <transcript2>nirgegö</transcript2>
+    <cyrillic>ниргэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>N1904</ref>
+    <ref>N1905</ref>
+    <ref>N1902</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠨᠢᠷᠺᠠᠺᠥ</unicode>
+      <uighur>nirkekü</uighur>
+      <cyrillic>нэргэх</cyrillic>
+      <transcript>NIRGE-</transcript>
+      <definition>v.t. To strike ( as lightning); to rumble, roll.</definition>
+      <page>585</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠩᠷᠢ ᠨᠢᠷᠺᠠᠺᠥ</unicode>
+          <transcript>tngri --ky</transcript>
+          <definition> To be punished by heaven.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠢᠷᠭᠡᠬᠦ</unicode>
+      <cyrillic>ниргэх</cyrillic>
+      <definition>〔动〕①雷击，雷劈，霹雳；②轰击，击毁，摧毁：бут ~ 粉碎，击破，歼灭.</definition>
+      <page>741</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠢᠷᠺᠠᠺᠥ</unicode>
+      <cyrillic>НИРГЭХ</cyrillic>
+      <definition>1) сверкать, ударять (о молнии); тэнгэр ниргэх ударить (о молнии); 2) шилж. громить; с грохотом разбить; бут ниргэх разгромить. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠢᠷᠭᠡᠬᠦ</unicode>
+      <cyrillic>ниргэх</cyrillic>
+      <definition>1. цахилгаан цохих, аянга дайрах; цахилгаан ниргэх; аянга ниргэх; тэнгэр ниргэх;2. цохих, дарах; буруутныг бут ниргэх; уруутныг устган ниргэх.</definition>
+      <page>377</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y2381">
+  <head>
+    <unicode>ᠵᠡᠷᠲᠡᠯᠵᠡᠺᠥ</unicode>
+    <transcript>ǰertelǰekü</transcript>
+    <transcript2>yerdelcegö</transcript2>
+    <cyrillic>зэртэлзэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y2382</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠡᠷᠲᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>зэртэлзэх</cyrillic>
+      <definition>〔动〕（动物竖起的双耳）频频动弹，一耸一耸.</definition>
+      <page>596</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠡᠷᠲᠡᠯᠵᠡᠺᠥ</unicode>
+      <cyrillic>ЗЭРТЭЛЗЭХ</cyrillic>
+      <definition>сэртэлзэх, зэртгэнэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зэртэлзэх</cyrillic>
+      <definition>= зэртгэнэх</definition>
+      <page>131</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠡᠷᠲᠡᠯᠵᠡᠬᠦ</unicode>
+      <cyrillic>зэртэлзэх</cyrillic>
+      <definition>зэртгэр юмны байн байн хөдлөх.</definition>
+      <page>296</page>
+    </entry_item>
+  </entries>
+</entry>

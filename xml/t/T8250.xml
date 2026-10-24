@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8250">
+  <head>
+    <unicode>ᠳᠥᠩᠨᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>düngnegülkü</transcript>
+    <transcript2>döngnegölgö</transcript2>
+    <cyrillic>дүгнүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T8249</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠥᠩᠨᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ДҮГНҮҮЛЭХ</cyrillic>
+      <definition>дүгнэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дүгнүүлэх</cyrillic>
+      <definition>Kaus von дүгнэх</definition>
+      <page>101</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳ᠋ᠦᠩᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>дүгнүүлэх</cyrillic>
+      <definition>дүгнэхийн үйлдүүлэх хэв; ажлаа дүгнүүлэх.</definition>
+      <page>215</page>
+    </entry_item>
+  </entries>
+</entry>

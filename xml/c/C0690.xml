@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0690">
+  <head>
+    <unicode>ᠴᠠᠷᠠᠶᠢᠴᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čarayičilaγulqu</transcript>
+    <transcript2>carayicilagolgo</transcript2>
+    <cyrillic>царайчлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C0689</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠷᠠᠢᠴᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>царайчлуулах</cyrillic>
+      <definition>〔动〕царайчлах 的使动态.</definition>
+      <page>1520</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠷᠠᠶᠢᠴᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦАРАЙЧЛУУЛАХ</cyrillic>
+      <definition>царайчлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>царайчлуулах</cyrillic>
+      <definition>Kaus von царайчлах</definition>
+      <page>353</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠷᠠᠢᠴᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>царайчлуулах</cyrillic>
+      <definition>царайчлахын үйлдүүлэх хэв.</definition>
+      <page>783</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T2607">
+  <head>
+    <unicode>ᠳᠠᠷᠠᠰᠣ</unicode>
+    <transcript>darasu</transcript>
+    <transcript2>daraso</transcript2>
+    <cyrillic>дарс</cyrillic>
+  </head><see_also>
+    <ref>T2731</ref>
+  
+    <ref>T2606</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠠᠷᠠᠰᠤ ~ ᠳᠠᠷᠠᠰᠤᠨ</unicode>
+      <cyrillic>дарс(ан)</cyrillic>
+      <transcript>DARASU(N)</transcript>
+      <definition>n. Sweet wine made from fruit or grain.</definition>
+      <page>232</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠷᠠᠰᠣᠨ ᠴᠢᠯᠠᠭᠤ</unicode>
+          <transcript>--n cilaγu</transcript>
+          <definition> Tartar (substance)'</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠷᠢᠺᠢ ᠳᠠᠷᠠᠰᠣ</unicode>
+          <transcript>ariki -- </transcript>
+          <definition> Alcoholic beverages.</definition>
+        </example>
+        <example>
+          <unicode>ᠤᠯᠠᠭᠠᠨ ᠳᠠᠷᠠᠰᠣ</unicode>
+          <transcript>ulaγan --</transcript>
+          <definition> Red wine.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠷᠠᠰᠤᠨ ~ ᠳᠠᠷᠠᠰᠤ</unicode>
+      <definition>des boissons fortes; vin ordinaire fait avec des grains, vin jaune</definition>
+      <page>1664</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠷᠠᠰᠤ ᠤᠭᠤᠷᠬᠤ</unicode>
+          <definition>cracher le vin</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠠᠷᠠᠰᠤ ᠪᠡᠯᠡᠳᠺᠦ ᠪᠠᠯᠭᠠᠳ</unicode>
+          <definition>bureau de vin</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠳᠠᠷᠠᠰᠣ</unicode>
+      <uighur>darason</uighur>
+      <definition>berauschendes Getränk; Branntwein von Reis u. s, W.</definition>
+      <page>270</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠳᠠᠷᠠᠰᠣ</unicode>
+      <uighur>daresu</uighur>
+      <definition>n. Fermented liquor. Intoxicating drink. Brandy.</definition>
+      <page>1078</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠷᠠᠰᠣ</unicode>
+      <cyrillic>ДАРС(АН)</cyrillic>
+      <definition>I 1) фруктовое вино; идээшмэл дарс наливка; настойка; 2) продукт брожения (риса, проса и т.п. но не перегонный); архи дарс хорш. спиртные напитки, вино; бор дарс молочное вино; † дарсан чулуу винный камень. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+<derivatives><ref>T2608</ref><ref>T2609</ref></derivatives></entry>

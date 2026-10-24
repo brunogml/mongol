@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="ZT0109">
+  <head>
+    <cyrillic>диагноз</cyrillic>
+  </head>
+  <see_also>
+    <ref>ZT0108</ref>
+    <ref>ZT0110</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳ᠋ᠢᠶᠠᠭᠨᠣᠽ</unicode>
+      <cyrillic>диагноз</cyrillic>
+      <definition>〔名〕〈医〉诊断.</definition>
+      <page>403</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>диагноз</cyrillic>
+      <definition>Diagnose f</definition>
+      <page>93</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳ᠋ᠢᠶᠠᠭᠨᠣᠰ</unicode>
+      <cyrillic>диагноз</cyrillic>
+      <definition>онош.</definition>
+      <page>194</page>
+    </entry_item>
+  </entries>
+</entry>

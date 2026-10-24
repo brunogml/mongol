@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q084a5">
+  <head>
+    <unicode>ᠬᠠᠭᠣᠷᠮᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>qaγurmaγdaqu</transcript>
+    <transcript2>gagormagdago</transcript2>
+    <cyrillic>хуурмагдах</cyrillic>
+  </head>
+  <see_also>
+    <ref>Q0815</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠭᠤᠷᠮᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>хуурмагдах</cyrillic>
+      <definition>〔动〕变得过于虚伪，变得过于虚假.</definition>
+      <page>1445</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хуурмагдах</cyrillic>
+      <definition>= хуурамчдах</definition>
+      <page>332</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠭᠤᠷᠮᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>хуурмагдах</cyrillic>
+      <definition>хэтэрхий хуурмаг болох.</definition>
+      <page>739</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q0812</ref>
+  </related_to>
+  <derivatives>
+    <ref>Q0815</ref>
+  </derivatives>
+</entry>

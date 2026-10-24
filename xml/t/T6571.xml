@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6571">
+  <head>
+    <unicode>ᠲᠣᠰᠬᠣᠷ</unicode>
+    <transcript>tosqur</transcript>
+    <transcript2>dosgor</transcript2>
+    <cyrillic>тосгор</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠰᠬᠣᠷ</unicode>
+      <uighur>tosqur</uighur>
+      <cyrillic>тосгор</cyrillic>
+      <transcript>TOSXUR</transcript>
+      <definition>See tosxuγur</definition>
+      <page>828</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠰᠬᠤᠭᠤᠷ ~ ᠳᠤᠰᠬᠣᠷ</unicode>
+      <definition>plateau, soucoupe.</definition>
+      <page>1832</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠠᠷ ᠤᠨ ᠳᠤᠰᠬᠣᠷ</unicode>
+          <definition>cuvette, aiguière</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠤᠰᠬᠣᠷ ᠤᠨ ᠪᠠᠭᠠᠨᠠ</unicode>
+          <definition>colonne de pierre avec un dragon sculpté, près de la porte du palais</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠤᠰᠬᠣᠷ ᠰᠢᠨᠠᠭᠠᠨ</unicode>
+          <definition>un puisoir, une coupe</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠰᠭᠣᠷ</unicode>
+      <cyrillic>тосгор</cyrillic>
+      <definition>〔名〕参见 тосгуур /1、/2.</definition>
+      <page>1084</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠰᠬᠤᠷ</unicode>
+      <cyrillic>тосгуур /1</cyrillic>
+      <definition>1. тоссон юм;2. ингийн доод чулуу.</definition>
+      <page>546</page>
+    </entry_item>
+  </entries>
+</entry>

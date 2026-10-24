@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2026">
+  <head>
+    <unicode>ᠰᠠᠪᠠᠯᠵᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>sebelǰegülkü</transcript>
+    <transcript2>sebelcegölgö</transcript2>
+    <cyrillic>сэвэлзүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S2025</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠡᠪᠢᠯᠵᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сэвэлзүүлэх</cyrillic>
+      <definition>〔动〕сэвэлзэх 的使动态.</definition>
+      <page>981</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠪᠠᠯᠵᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>СЭВЭЛЗҮҮЛЭХ</cyrillic>
+      <definition>сэвэлзэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠪᠡᠯᠵᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>сэвэлзүүлэх</cyrillic>
+      <definition>сэвэлзэхийн үйлдүүлэх хэв.</definition>
+      <page>499</page>
+    </entry_item>
+  </entries>
+</entry>

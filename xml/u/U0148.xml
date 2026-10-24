@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U0148">
+  <head>
+    <unicode>ᠣᠨᠢᠰᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>onisulaγulqu</transcript>
+    <transcript2>onisolagolgo</transcript2>
+    <cyrillic>оньслуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U0147</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠣᠨᠢᠰᠣᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <definition>faire cadenasser</definition>
+      <page>343</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠭᠦᠳᠡᠨ ᠢ ᠣᠨᠢᠰᠣᠯᠠᠭᠤᠯᠬᠤ</unicode>
+          <definition>ordonner de fermer la porte a clef.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠣᠨᠢᠰᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <uighur>unisulaγulqu</uighur>
+      <definition>unter Schloss legen lassen</definition>
+      <page>44</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠣᠨᠢᠰᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <uighur>onisulaγulqu</uighur>
+      <definition>To cause or permit locking up.</definition>
+      <page>172</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠨᠢᠰᠣᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>оньслуулах</cyrillic>
+      <definition>〔动〕оньслох 的使动态.</definition>
+      <page>811</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠨᠢᠰᠣᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ОНЬСЛУУЛАХ</cyrillic>
+      <definition>оньслох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>оньслуулах</cyrillic>
+      <definition>Kaus von оньслох</definition>
+      <page>172</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠨᠢᠰᠣᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>оньслуулах</cyrillic>
+      <definition>оньслохын үйлдүүлэх хэв.</definition>
+      <page>419</page>
+    </entry_item>
+  </entries>
+</entry>

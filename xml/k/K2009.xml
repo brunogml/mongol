@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K2009">
+  <head>
+    <unicode>ᠺᠢᠯᠠᠭᠠᠯᠠᠬᠣ</unicode>
+    <transcript>kilaγalaqu</transcript>
+    <transcript2>gilagalago</transcript2>
+    <cyrillic>хялаалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K2010</ref>
+    <ref>K2011</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠢᠯᠠᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>хялаалах</cyrillic>
+      <definition>〔动〕下霰，下小雪珠.</definition>
+      <page>1499</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠯᠠᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХЯЛААЛАХ</cyrillic>
+      <definition>падать, порошить (о мелком снеге, падающем при солнечном сиянии). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хялаалах</cyrillic>
+      <definition>Schnee in feinen Flocken fallen</definition>
+      <page>347</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠢᠯᠠᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>хялаалах</cyrillic>
+      <definition>хялаа буух, бурганах.</definition>
+      <page>770</page>
+    </entry_item>
+  </entries>
+</entry>

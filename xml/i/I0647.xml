@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I0647">
+  <head>
+    <unicode>ᠢᠯᠬᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>ilqaγanaqu</transcript>
+    <transcript2>ilgaganago</transcript2>
+    <cyrillic>ялхганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>I0648</ref>
+    <ref>I0649</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠯᠬᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>ялхганах</cyrillic>
+      <definition>〔动〕①（圆胖物）频频动，摇动，颤动；②（黏稀物）黏黏乎乎，黏连胶着.</definition>
+      <page>1750</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠢᠯᠬᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЯЛХГАНАХ</cyrillic>
+      <definition>двигаться (о ком-чем-л. толстом). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠯᠬᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>ялхганах</cyrillic>
+      <definition>ялхгар юмны ялхга ялхга хөдлөх.</definition>
+      <page>905</page>
+    </entry_item>
+  </entries>
+</entry>

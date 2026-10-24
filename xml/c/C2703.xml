@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2703">
+  <head>
+    <unicode>ᠴᠣᠭᠣᠷᠭᠠᠯᠠᠬᠣ</unicode>
+    <transcript>čuγurγalaqu</transcript>
+    <transcript2>cogorgalago</transcript2>
+    <cyrillic>цуургалах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C2704</ref>
+    <ref>C2705</ref>
+    <ref>C2707</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠣᠭᠣᠷᠭᠠᠯᠠᠬᠣ</unicode>
+      <uighur>čuγurγalaqu</uighur>
+      <transcript>CUΓURΓALA-</transcript>
+      <definition>v; t, To lock, latch, .</definition>
+      <page>206</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠭᠦᠳᠡᠨ ᠢ ᠴᠣᠭᠣᠷᠭᠠᠯᠠᠬᠣ</unicode>
+          <transcript>egyden i --xu</transcript>
+          <definition>To lock a door.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠤᠭᠤᠷᠭᠠᠯᠠᠬᠤ</unicode>
+      <definition>fermer à clef</definition>
+      <page>2200</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠭᠦᠳᠡᠨ ᠢ ᠴᠤᠭᠤᠷᠭᠠᠯᠠᠬᠤ</unicode>
+          <definition>fermer la porte à clef</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠭᠤᠷᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>цуургалах</cyrillic>
+      <definition>〔动〕①上锁，闭锁；②上门闩鼻，上扣环.</definition>
+      <page>1554</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠣᠭᠣᠷᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЦУУРГАЛАХ</cyrillic>
+      <definition>замкнуть, запереть на замок, щеколду.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цуургалах</cyrillic>
+      <definition>dial verschließen, verriegeln, zusperren</definition>
+      <page>361</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠭᠤᠷᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>цуургалах</cyrillic>
+      <definition>1. цуургыг цүүд оруулан дарж оньслох;оньслох цуургалах&lt;хорш&gt;;2. цоожлох;цоожлох цуургалах&lt;хорш&gt;.</definition>
+      <page>800</page>
+    </entry_item>
+  </entries>
+</entry>

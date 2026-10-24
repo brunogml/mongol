@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K1553a">
+  <head>
+    <transcript>keristos</transcript>
+    <transcript2>gerisdos</transcript2>
+    <cyrillic>христос</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠡᠷᠢᠰᢐᠣᠰ</unicode>
+      <uighur>kerisTos</uighur>
+      <cyrillic>христос</cyrillic>
+      <transcript>KERISTOS</transcript>
+      <definition>n. p. Christ</definition>
+      <page>458</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠡᠷᠢᠰᢐᠣᠰ ᠤᠨ ᠰᠦᠮ᠎ᠡ ᠺᠡᠶᠢᠳ</unicode>
+          <transcript>-- un sym-e keid </transcript>
+          <definition>Christian church[es]</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠡᠷᠢᠰᢐᠣᠰ ᠤᠨ ᠮᠥᠷᠭᠦᠯᠲᠡᠨ </unicode>
+          <transcript>-- un mørgylten, </transcript>
+          <definition>Christians</definition>
+        </example>
+      </examples>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>Христос</cyrillic>
+    <definition>Rel Christus m</definition>
+    <page>324</page>
+  </entry_item>
+  </entries>
+</entry>

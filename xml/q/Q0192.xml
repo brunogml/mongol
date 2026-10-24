@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q0192">
+  <head>
+    <unicode>ᠬᠠᠨᠲᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>qantaraγulqu</transcript>
+    <transcript2>gandaragolgo</transcript2>
+    <cyrillic>хантруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q0190</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠨᠲᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хантруулах</cyrillic>
+      <definition>〔动〕хантрах 的使动态.</definition>
+      <page>1305</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠨᠲᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХАНТРУУЛАХ</cyrillic>
+      <definition>хантрах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠨᠲᠠᠷᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хантруулах</cyrillic>
+      <definition>хантрахын үйлдүүлэх хэв.</definition>
+      <page>659</page>
+    </entry_item>
+  </entries>
+</entry>

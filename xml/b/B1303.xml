@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B1303">
+  <head>
+    <unicode>ᠪᠠᠶᠣᠣ</unicode>
+    <transcript>bayou</transcript>
+    <transcript2>bayoo</transcript2>
+    <cyrillic>бааюу</cyrillic>
+  </head>
+  <variants>
+    <variant type="cyrillic">бааюун</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠶᠣᠣ</unicode>
+      <cyrillic>БААЮУ</cyrillic>
+      <definition>туйпуу-г үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠶᠤᠤ</unicode>
+      <cyrillic>бааюу(н)</cyrillic>
+      <definition>〔名〕①柏油，沥青：~ өрөгч 铺柏油工人；②车轴油泥.</definition>
+      <page>104</page>
+    </entry_item>
+  </entries>
+</entry>

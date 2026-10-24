@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1338">
+  <head>
+    <unicode>ᠴᠢᠢᠯᠠᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>čiilegenegülkü</transcript>
+    <transcript2>ciilegenegölgö</transcript2>
+    <cyrillic>цийлэгнүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>C1337</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠢᠯᠡᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>цийлэгнүүлэх</cyrillic>
+      <definition>〔动〕цийлэгнэх 的使动态.</definition>
+      <page>1528</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠢᠯᠠᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЦИЙЛЭГНҮҮЛЭХ</cyrillic>
+      <definition>цийлэгнэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠢᠯᠡᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>цийлэгнүүлэх</cyrillic>
+      <definition>цийлэгнэхийн үйлдүүлэх хэв.</definition>
+      <page>787</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q5981">
+  <head>
+    <unicode>ᠬᠣᠮᠠᠺᠢ</unicode>
+    <transcript>qumaki</transcript>
+    <transcript2>gomagi</transcript2>
+    <cyrillic>хумхи</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠮᠠᠺᠢ</unicode>
+      <uighur>qumaki</uighur>
+      <cyrillic>хумхи</cyrillic>
+      <transcript>XUMAKI</transcript>
+      <definition>n. Grit, fine sand, dust.</definition>
+      <page>985</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠮᠠᠺᠢ ᠎ᠶᠢᠨ ᠲᠣᠭᠤᠰᠤ</unicode>
+          <transcript>-- jin toγusu</transcript>
+          <definition> Fine dust, dust.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠯᠲᠠᠨ ᠬᠣᠮᠠᠺᠢ</unicode>
+          <transcript>altan -- </transcript>
+          <definition> Gold dust, grains of gold.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠮᠠᠺᠢ</unicode>
+      <definition>sable fin, grains de sable: 2 poussière d'eau</definition>
+      <page>934</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠯᠲᠠᠨ ᠬᠣᠮᠠᠺᠢ</unicode>
+          <definition>poussière d'or, des grains d'or</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠮᠠᠺᠢ ᠎ᠶᠢᠨ ᠭᠡᠷ</unicode>
+          <definition>maison de sable (que font les enfants pour se divertir)</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠬᠣᠮᠠᠺᠢ</unicode>
+      <uighur>qumaki</uighur>
+      <definition>feiner Sand, Stäubchen; Wasserstaub.</definition>
+      <page>166</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠣᠮᠠᠺᠢ</unicode>
+      <uighur>qumaki</uighur>
+      <definition>Fine sand, powder, dust. Corruption. Water-spray</definition>
+      <page>652</page>
+      <examples>
+        <example>
+          <uighur>qumaki altan</uighur>
+          <definition>n. Gold-dust .</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠮᠠᠬᠢ</unicode>
+      <cyrillic>хумхи</cyrillic>
+      <definition>〔名〕尘埃，细尘：~йн тоос 尘土；~йн наанги шороо 陶土.</definition>
+      <page>1431</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠮᠠᠺᠢ</unicode>
+      <cyrillic>ХУМХИ</cyrillic>
+      <definition>1. песчинка, пылинка; мельчайшие частицы; молекула, атом; элсэн хумхи песчинка; хумхийн тоос мельчайшие частицы, пылинки, молекула; хумхийн төдий ч тамхи алга нет ни капельки табаку; 2. песчаный; хумхин гэр домик из песка (делаемый детьми для забавы); † хумхин нугас шувуу. порода уток; хумхин үхэр амьт. бизон. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠮᠠᠺᠢ</unicode>
+      <cyrillic>ХУМХИЙН</cyrillic>
+      <definition>хумхи-ийн харьяал., песчаный; хумхийн уул песчаная гора. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠮᠠᠬᠢ</unicode>
+      <cyrillic>хумхи</cyrillic>
+      <definition>нарны гэрлийн туяанд үзэгдэх нарийн тоос; хумхийн наанги шороо; нарийн хумхи.</definition>
+      <page>729</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>Q5982</ref>
+    <ref>Q5983</ref>
+  </derivatives>
+</entry>

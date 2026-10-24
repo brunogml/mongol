@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O2079">
+  <head>
+    <unicode>ᠥᠷᠪᠥᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>örbügenegülkü</transcript>
+    <transcript2>örbögenegölgö</transcript2>
+    <cyrillic>өрвөгнүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>O2078</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠷᠪᠥᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өрвөгнүүлэх</cyrillic>
+      <definition>〔动〕өрвөгнөх 的使动态.</definition>
+      <page>856</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠷᠪᠥᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ӨРВӨГНҮҮЛЭХ</cyrillic>
+      <definition>өрвөгнөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠷᠪᠥᠭᠡᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өрвөгнүүлэх</cyrillic>
+      <definition>өрвөгнөхийн үйлдүүлэх хэв.</definition>
+      <page>443</page>
+    </entry_item>
+  </entries>
+</entry>

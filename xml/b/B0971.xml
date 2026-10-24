@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0971">
+  <head>
+    <unicode>ᠪᠠᠮᠪᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>bambaγanaqu</transcript>
+    <transcript2>bambaganago</transcript2>
+    <cyrillic>бамбаганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0973</ref>
+    <ref>B0975</ref>
+  </derivatives>
+  <variants>
+    <variant type="cyrillic">бамбагнах</variant>
+  </variants>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠮᠪᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>бамбаганах</cyrillic>
+      <definition>〔动〕参见 бамбагалзах.</definition>
+      <page>125</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠮᠪᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>БАМБАГАНАХ</cyrillic>
+      <definition>колыхаться, трястись, пружинить (о трясине); быть мягким, пружинистым, быть пушистым.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠮᠪᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>бамбагнах</cyrillic>
+      <definition>〔动〕（软绵物）频频动弹，微微颤动.</definition>
+      <page>125</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бамбаганах</cyrillic>
+      <definition>etw. Weiches u. Dickes sich bewegen; federn, nachgeben; бамбалзуур газар бамбаганана der morastige Boden gibt nach</definition>
+      <page>45</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠮᠪᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>бамбаганах</cyrillic>
+      <definition>бамбагар юмны бамбага бамбага хийх байдал; бамбалзуур газар бамбаганана; орны пүрш бамбаганана.</definition>
+      <page>72</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E2304">
+  <head>
+    <unicode>ᠡᠷᠴᠢᠮᠨᠡᠺᠦ</unicode>
+    <transcript>erčimnekü</transcript>
+    <transcript2>ercimnegö</transcript2>
+    <cyrillic>эрчимнэх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠷᠴᠢᠮᠨᠠᠺᠥ</unicode>
+      <cyrillic>эрчимнэх</cyrillic>
+      <definition>〔动〕参见 эрчимлэх /1、/2.</definition>
+      <page>1715</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠡᠷᠴᠢᠮᠨᠠᠺᠥ</unicode>
+      <cyrillic>ЭРЧИМНЭХ</cyrillic>
+      <definition>стараться, прилагать усилия. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠷᠴᠢᠮᠨᠡᠬᠦ</unicode>
+      <cyrillic>эрчимнэх</cyrillic>
+      <definition>эрчимлэх.</definition>
+      <page>888</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>E2303</ref>
+  </related_to>
+</entry>

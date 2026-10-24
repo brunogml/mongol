@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8011">
+  <head>
+    <unicode>ᠳᠣᠷᠺᠢᠬᠣ</unicode>
+    <transcript>durgiqu</transcript>
+    <transcript2>dorgigo</transcript2>
+    <cyrillic>дургих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T8014</ref>
+    <ref>T8030</ref>
+  </derivatives>
+  <see_also>
+    <ref>T8010</ref>
+    <ref>T8012</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠤᠷᠭᠢᠬᠤ</unicode>
+      <cyrillic>дургих</cyrillic>
+      <definition>〔动〕任意发作，为所欲为.</definition>
+      <page>442</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠷᠺᠢᠬᠣ</unicode>
+      <cyrillic>ДУРГИХ</cyrillic>
+      <definition>самовольничать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠤᠷᠭᠢᠬᠤ</unicode>
+      <cyrillic>дургих</cyrillic>
+      <definition>дур зоргоор аашлах; дураараа дургиж, дунд чөмгөөр гишгэх хууч.</definition>
+      <page>212</page>
+    </entry_item>
+  </entries>
+</entry>

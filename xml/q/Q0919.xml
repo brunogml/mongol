@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q0919">
+  <head>
+    <unicode>ᠬᠠᠪᠠᠩᠭᠣ</unicode>
+    <transcript>qabangγu</transcript>
+    <transcript2>gabanggo</transcript2>
+  </head>
+  <see_also>
+    <ref>Q0918</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠪᠠᠩᠭᠣ</unicode>
+      <uighur>qabangγu</uighur>
+      <transcript>XABANGΓU</transcript>
+      <definition>See xabang, 1.</definition>
+      <page>895</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠪᠠᠩᠭ᠎ᠠ ~ ᠬᠠᠪᠠᠩᠭᠤ</unicode>
+      <definition>enflure</definition>
+      <page>750</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠰᠤᠨ ᠬᠠᠪᠠᠩᠭᠤ</unicode>
+          <definition>hydropisie</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠪᠠᠩᠭᠤ ᠡᠪᠡᠳᠴᠢᠨ</unicode>
+          <definition>hydropisie</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠣᠤ᠎ᠠ ᠬᠠᠪᠠᠩᠭᠤ</unicode>
+          <definition>hydropisie</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

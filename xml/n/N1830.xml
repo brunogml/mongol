@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1830">
+  <head>
+    <unicode>ᠨᠢᠺᠥᠷᠠᠯᠳᠥᠺᠥ</unicode>
+    <transcript>nigüreldükü</transcript>
+    <transcript2>nigöreldögö</transcript2>
+    <cyrillic>нүүрэлдэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>N1831</ref>
+    <ref>N1829</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠢᠭᠤᠷᠤᠯᠳᠠᠬᠤ</unicode>
+      <cyrillic>нүүрэлдэх</cyrillic>
+      <definition>〔动〕参见 нүүрдэх.</definition>
+      <page>768</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠢᠺᠥᠷᠠᠯᠳᠥᠺᠥ</unicode>
+      <cyrillic>НҮҮРЭЛДЭХ</cyrillic>
+      <definition>нүүрдэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>нүүрэлдэх</cyrillic>
+      <definition>gegenübergestellt werden (Dat -тай); konfrontiert werden (mit -тай)</definition>
+      <page>163</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠢᠭᠤᠷᠤᠯᠳᠠᠬᠤ</unicode>
+      <cyrillic>нүүрэлдэх</cyrillic>
+      <definition>нүүрдэх.</definition>
+      <page>394</page>
+    </entry_item>
+  </entries>
+</entry>

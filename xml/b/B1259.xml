@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1259">
+  <head>
+    <unicode>ᠪᠠᠶᠢᠴᠠᠬᠣ</unicode>
+    <transcript>bayičaqu</transcript>
+    <transcript2>bayicago</transcript2>
+    <cyrillic>байцах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>X0610</ref>
+    <ref>B1260</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠢᠴᠠᠬᠤ</unicode>
+      <cyrillic>байцах</cyrillic>
+      <definition>〔动〕参见 байцаах.</definition>
+      <page>119</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠶᠢᠴᠠᠬᠣ</unicode>
+      <cyrillic>БАЙЦАХ</cyrillic>
+      <definition>байцаах-ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠢᠴᠠᠬᠤ</unicode>
+      <cyrillic>байцах</cyrillic>
+      <definition>байцаах хянах, шалгах.</definition>
+      <page>69</page>
+    </entry_item>
+  </entries>
+</entry>

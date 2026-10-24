@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0872">
+  <head>
+    <unicode>ᠪᠠᠯᠪᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>balbaγanaqu</transcript>
+    <transcript2>balbaganago</transcript2>
+    <cyrillic>балбаганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0873</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠯᠪᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>балбаганах</cyrillic>
+      <definition>〔动〕①频频动荡，摇动，颤动，晃动，（上下）颠动；大腹便便，扭扭晃晃；②蹒跚而行.</definition>
+      <page>121</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠯᠪᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>БАЛБАГАНАХ</cyrillic>
+      <definition>балбалзах-ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠯᠪᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>балбаганах</cyrillic>
+      <definition>балбагар юмны балбага балбага хийх.</definition>
+      <page>70</page>
+    </entry_item>
+  </entries>
+</entry>

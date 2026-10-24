@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="E1314">
+  <head>
+    <unicode>ᠡᠵᠡᠯᠢᠭ</unicode>
+    <transcript>eǰelig</transcript>
+    <transcript2>ecelig</transcript2>
+    <cyrillic>ээлэг</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠵᠠᠯᠢᠺ</unicode>
+      <uighur>eǰelik</uighur>
+      <cyrillic>эзлэг</cyrillic>
+      <transcript>EZELIG</transcript>
+      <definition>adj. Ruling, sovereign.</definition>
+      <page>336</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠵᠠᠯᠢᠺ ᠢᠵᠠᠭᠤᠷ</unicode>
+          <transcript>-- izaγur</transcript>
+          <definition> Princely or noble descent; high or royal birth or heritage; dynasty.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠵᠠᠯᠢᠺ ᠢᠵᠠᠭᠤᠷᠲᠤ</unicode>
+          <transcript>-- izaγurtu</transcript>
+          <definition> Of princely or noble descent.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠵᠡᠯᠢᠺ ᠢᠵᠠᠭᠤᠷ</unicode>
+      <definition>caste régnante, dynastie régnante</definition>
+      <page>226</page>
+    </entry_item>
+  </entries>
+</entry>

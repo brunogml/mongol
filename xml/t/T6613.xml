@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6613">
+  <head>
+    <unicode>ᠳᠣᠲᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>dutaγdaqu</transcript>
+    <transcript2>dodagdago</transcript2>
+    <cyrillic>дутагдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T6605</ref>
+  </related_to>
+  <derivatives>
+    <ref>T6615</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠣᠲᠠᠬᠳᠠᠬᠣ</unicode>
+      <uighur>dutaqdaqu</uighur>
+      <cyrillic>дутагдах</cyrillic>
+      <transcript>DUTAΓDA-</transcript>
+      <definition>[v. pass. of duta-] To be insufficient, defective, faulty, missing, lacking, absent.</definition>
+      <page>277</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠣᠲᠠᠬᠳᠠᠬᠣ ᠲᠥᠯᠦᠪ</unicode>
+          <transcript>--xu tølyb</transcript>
+          <definition> See under tølyb.</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠣᠭᠤᠰ ᠳᠣᠲᠠᠬᠳᠠᠬᠣ</unicode>
+          <transcript>zoγus --xu</transcript>
+          <definition> To be short of funds.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠤᠲᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>дутагдах</cyrillic>
+      <definition>〔动〕дутах 的被动态；感到缺乏，不足，短少，短缺：~ж байгаа зүйл 缺乏的物品；мөнгөөр ~в 钱款不足.</definition>
+      <page>445</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠲᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ДУТАГДАХ</cyrillic>
+      <definition>дутах-ын үйлдэгд., 1. 1) быть недостаточным, становиться дефицитным, оказываться в недостатке; не досчитаться; 2) не хватать, не доставать, ощущаться (о недостатке); отсутствовать; ажилчин дутагдах рабочих не хватает; үл дутагдах не испытывать недостатка, иметь полностью, быть в полном составе; чадал дутагдах не хватать силы; хэрэглэгдэхүүн дутагдав не хватало материалов; 2. дутагдахуй-г үз.; 3. недостающий. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠲᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ДУТАГДАХУЙ</cyrillic>
+      <definition>нехватка, недостача, дефицит; ажлын хүч дутагдахуй нехватка рабочей силы. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дутагдах</cyrillic>
+      <definition>fehlen, mangeln, ungenügend vorhanden sein; ~ мөнгийг нeхex das fehlende Geld ersetzen</definition>
+      <page>100</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠤᠲᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>дутагдах</cyrillic>
+      <definition>дутахын үйлдэгдэх хэв, дутах; дутагдаж байгаа зүйл; мөнгөөр дутагдаж явжээ.</definition>
+      <page>213</page>
+    </entry_item>
+  </entries>
+</entry>

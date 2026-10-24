@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q6011">
+  <head>
+    <unicode>ᠬᠣᠮᠣᠬᠠᠶᠢᠳᠠᠬᠣ</unicode>
+    <transcript>qomuqayidaqu</transcript>
+    <transcript2>gomogayidago</transcript2>
+    <cyrillic>хомхойдох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q6012</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠣᠮᠣᠬᠠᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>хомхойдох</cyrillic>
+      <definition>〔动〕贪赛，变得贪心，显得贪馋，贪得无厌，显得贪欲；吝啬.</definition>
+      <page>1360</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠮᠣᠬᠠᠶᠢᠳᠠᠬᠣ</unicode>
+      <cyrillic>ХОМХОЙДОХ</cyrillic>
+      <definition>быть слишком жадным, ненасытным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хомхойдох</cyrillic>
+      <definition>zu [be]gierig od zu habsüchtig sein</definition>
+      <page>309</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠮᠣᠬᠠᠢᠳᠠᠬᠤ</unicode>
+      <cyrillic>хомхойдох</cyrillic>
+      <definition>дэндүү хомхой болох.</definition>
+      <page>688</page>
+    </entry_item>
+  </entries>
+</entry>

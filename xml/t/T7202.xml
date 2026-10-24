@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7202">
+  <head>
+    <unicode>ᠲᠣᠮᠣᠷᠬᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tomurqaγulqu</transcript>
+    <transcript2>domorgagolgo</transcript2>
+    <cyrillic>томорхуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T7201</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠮᠣᠷᠬᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>томорхуулах</cyrillic>
+      <definition>〔动〕томорхох 的使动态.</definition>
+      <page>1069</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠮᠣᠷᠬᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТОМОРХУУЛАХ</cyrillic>
+      <definition>томорхох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠮᠣᠷᠬᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>томорхуулах</cyrillic>
+      <definition>томорхохын үйлдүүлэх хэв.</definition>
+      <page>539</page>
+    </entry_item>
+  </entries>
+</entry>

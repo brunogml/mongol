@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A0285">
+  <head>
+    <unicode>ᠠᠩᠭ᠋ᠠ</unicode>
+    <transcript>angγ-a</transcript>
+    <transcript2>angγa</transcript2>
+    <cyrillic>анга</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠩᠭ᠋ᠠ</unicode>
+      <uighur>angγ-a</uighur>
+      <cyrillic>анга</cyrillic>
+      <transcript>ANGГ-A</transcript>
+      <definition>n. Bifurcation, branch.</definition>
+      <page>43</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠩᠭ᠎ᠠ ᠰᠤᠮᠤ</unicode>
+          <transcript>-- sumu,</transcript>
+          <definition>Two-pointed arrow</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠩᠭ᠋ᠠ</unicode>
+      <uighur>angγa</uighur>
+      <definition>division d'une branche, bifurcation</definition>
+      <page>17</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠩᠭ᠎ᠠ ᠰᠤᠮᠤ</unicode>
+          <uighur>angγa sumu</uighur>
+          <definition>flèche à deux pointes, bifurquée, en forme de fourchette</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠩᠭ᠎ᠠ</unicode>
+      <cyrillic>анга /1</cyrillic>
+      <definition>〔名〕空隙，裂口，裂纹，裂缝.</definition>
+      <page>60</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠩᠭ᠎ᠠ</unicode>
+      <cyrillic>анга /2</cyrillic>
+      <definition>见 ~ сум 叉披箭.</definition>
+      <page>60</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠩᠭ᠋ᠠ</unicode>
+      <cyrillic>АНГА</cyrillic>
+      <definition>I щель, узкое отверстие, расщелина.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠩᠭ᠋ᠠ</unicode>
+      <cyrillic>АНГА</cyrillic>
+      <definition>II 1. развилина, развилка, развилок; 2. вилообразный; анга мөчир вилообразная ветвь; анга сум вилообразная раздвоенная стрела, стрела с развилиной.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠩᠭ᠎ᠠ</unicode>
+      <cyrillic>анга /1</cyrillic>
+      <definition>ац, завсар, салаа, ан гав.</definition>
+      <page>43</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠩᠭ᠎ᠠ</unicode>
+      <cyrillic>анга /2</cyrillic>
+      <definition>анга сум нумны ацтай сум.</definition>
+      <page>43</page>
+    </entry_item>
+  </entries>
+</entry>

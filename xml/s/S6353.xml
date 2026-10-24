@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6353">
+  <head>
+    <unicode>ᠰᠣᠷᠲᠣᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sortulǰaγulqu</transcript>
+    <transcript2>sordolcagolgo</transcript2>
+    <cyrillic>сортолзуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S6352</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠷᠲᠣᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сортолзуулах</cyrillic>
+      <definition>〔动〕сортолзох 的使动态.</definition>
+      <page>943</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠷᠲᠣᠯᠵᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>СОРТОЛЗУУЛАХ</cyrillic>
+      <definition>сортолзох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠷᠲᠣᠯᠵᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>сортолзуулах</cyrillic>
+      <definition>сортолзохын үйлдүүлэх хэв.</definition>
+      <page>481</page>
+    </entry_item>
+  </entries>
+</entry>

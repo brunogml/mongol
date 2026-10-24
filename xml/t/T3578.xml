@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3578">
+  <head>
+    <unicode>ᠳᠠᠪᠲᠥᠮᠠᠯ</unicode>
+    <transcript>debtümel</transcript>
+    <transcript2>debdömel</transcript2>
+    <cyrillic>дэвтмэл</cyrillic>
+  </head>
+  <see_also>
+    <ref>T3552</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠡᠪᠳᠦᠮᠡᠯ ~ ᠳᠡᠪᠳᠡᠮᠡᠯ</unicode>
+      <definition>mouillé, trempé; gonflé par l'humidité</definition>
+      <page>1706</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠡᠪᠳᠦᠮᠡᠯ ᠬᠠᠪᠠᠷ</unicode>
+          <definition>le nez rouge et gonflé d'ivrognerie</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠡᠪᠲᠦᠮᠡᠯ</unicode>
+      <cyrillic>дэвтмэл</cyrillic>
+      <definition>〔形〕浸湿的，浸润的，浸透的，泡软的：~ шир 泡软的皮子.</definition>
+      <page>462</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠪᠲᠥᠮᠠᠯ</unicode>
+      <cyrillic>ДЭВТМЭЛ</cyrillic>
+      <definition>размоченный (в жидкости), пропитанный (чем-л. жидкостью); разбухший; дэвтмэл хамар красный нос (у пьяницы). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠡᠪᠲᠦᠮᠡᠯ</unicode>
+      <cyrillic>дэвтмэл</cyrillic>
+      <definition>дэвтсэн юм; дэвтмэл шир; дэвтмэл үдээр.</definition>
+      <page>221</page>
+    </entry_item>
+  </entries>
+</entry>

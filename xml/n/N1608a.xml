@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1608a">
+  <head>
+    <unicode>ᠨᠢᠯᠪᠣᠯᠠᠬᠣ</unicode>
+    <transcript>nilbulaqu</transcript>
+    <transcript2>nilbolago</transcript2>
+    <cyrillic>нулимлах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>нулимлах</cyrillic>
+      <definition>= нулималах</definition>
+      <page>160</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠢᠯᠪᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>нулмалах</cyrillic>
+      <definition>байн байн нулимах.</definition>
+      <page>388</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠢᠯᠪᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>нялмалах</cyrillic>
+      <definition>байн байн нялмах.</definition>
+      <page>402</page>
+    </entry_item>
+  </entries>
+</entry>

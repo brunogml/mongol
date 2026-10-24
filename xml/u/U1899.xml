@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1899">
+  <head>
+    <unicode>ᠣᠯᠵᠢᠢᠬᠣ</unicode>
+    <transcript>ulǰiiqu</transcript>
+    <transcript2>olciigo</transcript2>
+    <cyrillic>улжийх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U1901</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠯᠵᠢᠢᠬᠤ</unicode>
+      <cyrillic>улжийх</cyrillic>
+      <definition>〔动〕变虚弱，变软弱，变稀松，变差.</definition>
+      <page>1185</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠯᠵᠢᠢᠬᠣ</unicode>
+      <cyrillic>УЛЖИЙХ</cyrillic>
+      <definition>улбайх-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>улжийх</cyrillic>
+      <definition>= улбайх</definition>
+      <page>255</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠯᠵᠢᠢᠬᠤ</unicode>
+      <cyrillic>улжийх</cyrillic>
+      <definition>улжгар болох.</definition>
+      <page>590</page>
+    </entry_item>
+  </entries>
+</entry>

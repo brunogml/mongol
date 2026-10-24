@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2525">
+  <head>
+    <unicode>ᠣᠷᠠᠢ</unicode>
+    <transcript>urai</transcript>
+    <transcript2>orai</transcript2>
+    <cyrillic>урай</cyrillic>
+  </head>
+  <see_also>
+    <ref>U2525a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠷᠠᠢ</unicode>
+      <uighur>urai</uighur>
+      <cyrillic>урай</cyrillic>
+      <transcript>URAI</transcript>
+      <definition>n. and interj. Hurrah.</definition>
+      <page>879</page>
+      <examples>
+        <example>
+          <unicode>ᠣᠷᠠᠢ ᠬᠠᠰᠺᠢᠷᠬᠤ</unicode>
+          <transcript>-- xaskirxu</transcript>
+          <definition> To shout hurrahs.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠷᠠᠢ</unicode>
+      <cyrillic>урай</cyrillic>
+      <definition>〔名〕乌拉，万岁：~ хашгарах 高呼万岁；~ хийгээд дайрав 高呼着“乌拉”向前冲过去.</definition>
+      <page>1197</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠷᠠᠢ</unicode>
+      <cyrillic>УРАЙ</cyrillic>
+      <definition>ура; урай хашгирах кричать ура; урай хийгээд дайрав атаковали с крљками ура. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>урай</cyrillic>
+      <definition>Interj hurra!; ~ хашгирах hurra schreien</definition>
+      <page>258</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠷᠠᠢ</unicode>
+      <cyrillic>урай</cyrillic>
+      <definition>цэргийн дайрах болон ерөөс цог жавхлантайг үзүүлэхэд дуудан хашгирах үг; урай хашгиран дайрах; урай хийх.</definition>
+      <page>596</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3382">
+  <head>
+    <unicode>ᠲᠠᠪ</unicode>
+    <transcript>teb</transcript>
+    <transcript2>deb</transcript2>
+    <cyrillic>тэв</cyrillic>
+  </head>
+  <see_also>
+    <ref>T3383</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠪ</unicode>
+      <uighur>teb</uighur>
+      <cyrillic>тэв</cyrillic>
+      <transcript>TEB</transcript>
+      <definition>lntensifying particle used before certain adj. or adv. beginning with the syllable te.</definition>
+      <page>789</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠪ ᠲᠡᠭᠰᠢ</unicode>
+          <transcript>-- tegsi</transcript>
+          <definition> Completely even, equal, or uniform.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠪ ᠲᠡᠨᠡᠭ</unicode>
+          <transcript>-- teneg</transcript>
+          <definition> Complete fool.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠡᠪ</unicode>
+      <definition>une particule dont on se sert pour renforcer la signification du mot suivant.</definition>
+      <page>1697</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠡᠪ ᠳᠡᠪ ᠢᠶᠡᠷ = ᠳᠡᠪ ᠳᠡᠪᠡᠷ</unicode>
+          <definition>nonobstant, en dépit de; 2 l'un sur l'autre</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠪ ᠳᠡᠭᠡᠷᠡ</unicode>
+          <definition>très haut; 2 tpout à l'haure, d'abord, tout récemment, aussitôt, dès que</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠪ ᠳᠡᠭᠡᠷᠡ ᠮᠡᠳᠡᠭᠡᠳ</unicode>
+          <definition>à peine il sentit</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠪ ᠳᠡᠭᠡᠰᠢ</unicode>
+          <definition>tout à fait égal</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠪ</unicode>
+      <uighur>teb deksi</uighur>
+      <definition>adj. Very plain or level.</definition>
+      <page>946</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠪ</unicode>
+      <cyrillic>ТЭВ</cyrillic>
+      <definition>I авиа.дуур. тук, тук (звукоподражание шуму, стуку); тэв тэв алхлах а) грузно шагать; б) ровно, твёрдо шагать, уверенно шагать; тэв хийж галопом; тэв хийтэл рывком. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠪ</unicode>
+      <cyrillic>ТЭВ</cyrillic>
+      <definition>II “тэ”-гээр эхлэсэн үгэнд хүч нэмэгдүүлэх сул үг (усилительная частица к словам с начальным “тэ”); тэв тэвхэр абсолютно квадратный; тэв тэгш совершенно ровный, совсем ровный, точно поровну. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠪ</unicode>
+      <cyrillic>ТЭВ</cyrillic>
+      <definition>III: Тэв Тэнгэр түүх. Тэб-тэнгри (имя шамана, боровшегося против чингисхана). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тэв</cyrillic>
+      <definition>1.: ~ ~ алхах onomat leichtfüßig gehen od schreiten; ~ хийтэл idiom ordentlich, geordnet biegen ~ ;
+2. emphat Part absolut, völlig, ganz; ~ тэгш völlig gleichmäßig</definition>
+      <page>246</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠪ</unicode>
+      <cyrillic>тэв /1</cyrillic>
+      <definition>тэв тав хийх,тэв тав алхлах хөнгөн гавшгай байдалтай алхах, хөдлөх; тав тэв хийтэл алхалсан сүрхий өвгөн байна.</definition>
+      <page>571</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠪ</unicode>
+      <cyrillic>тэв /2</cyrillic>
+      <definition>хүч нэмэгдүүлэх үг, тэв тэгш, тэв тэвхэр.</definition>
+      <page>571</page>
+    </entry_item>
+  </entries>
+</entry>

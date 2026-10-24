@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1647">
+  <head>
+    <unicode>ᠬᠠᠳᠠᠮᠠᠯᠯᠠᠬᠣ</unicode>
+    <transcript>qadamallaqu</transcript>
+    <transcript2>gadamallago</transcript2>
+    <cyrillic>хадмаллах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q1648</ref>
+    <ref>Q1649</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠳᠠᠮᠠᠯᠯᠠᠬᠤ</unicode>
+      <cyrillic>хадмаллах</cyrillic>
+      <definition>〔动〕（用其他文字）加注，注解.</definition>
+      <page>1273</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠳᠠᠮᠠᠯᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХАДМАЛЛАХ</cyrillic>
+      <definition>повторять уже написанное в иных выражениях, писать одно и то же на нескольких языках параллельно. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хадмаллах</cyrillic>
+      <definition>zwischen den Zeilen schreiben; Einfügungen machen</definition>
+      <page>283</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠳᠠᠮᠠᠯᠯᠠᠬᠤ</unicode>
+      <cyrillic>хадмаллах</cyrillic>
+      <definition>бичиг номын зүйлд хадмал бичих.</definition>
+      <page>641</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q1645</ref>
+  </related_to>
+</entry>

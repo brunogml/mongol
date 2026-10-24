@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1805">
+  <head>
+    <unicode>ᠵᠠᠷᠣᠯᠭᠠᠳᠠᠬᠣ</unicode>
+    <transcript>ǰarulγadaqu</transcript>
+    <transcript2>yarolgadago</transcript2>
+    <cyrillic>зарлагадах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1806</ref>
+    <ref>Y1808</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠷᠤᠯᠭᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>зарлагадах</cyrillic>
+      <definition>〔动〕报销.</definition>
+      <page>547</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠷᠣᠯᠭᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЗАРЛАГАДАХ</cyrillic>
+      <definition>списать в расход, расходовать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠷᠣᠯᠭᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>ЗАРЛАГДАХ</cyrillic>
+      <definition>зарлах-ын үйлдэгд., быть объявленным, объявляться, анонсироваться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>зарлагадах</cyrillic>
+      <definition>Fin gutschreiben</definition>
+      <page>118</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠷᠤᠯᠭᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>зарлагадах</cyrillic>
+      <definition>зарлагад гаргах.</definition>
+      <page>268</page>
+    </entry_item>
+  </entries>
+</entry>

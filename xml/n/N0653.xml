@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N0653">
+  <head>
+    <unicode>ᠨᠠᠺᠢᠶᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>nakiyalaγulqu</transcript>
+    <transcript2>nagiyalagolgo</transcript2>
+    <cyrillic>нахиалуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>N0652</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠠᠬᠢᠶᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нахиалуулах</cyrillic>
+      <definition>〔動〕нахиалах 的使动态.</definition>
+      <page>733</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠠᠺᠢᠶᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>НАХИАЛУУЛАХ</cyrillic>
+      <definition>нахиалах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠠᠬᠢᠶᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нахиалуулах</cyrillic>
+      <definition>нахиалахын үйлдүүлэх хэв.</definition>
+      <page>372</page>
+    </entry_item>
+  </entries>
+</entry>

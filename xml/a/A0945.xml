@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A0945">
+  <head>
+    <unicode>ᠠᠭᠣᠵᠢᠷᠠᠬᠣ</unicode>
+    <transcript>aγuǰiraqu</transcript>
+    <transcript2>agocirago</transcript2>
+    <cyrillic>уужирах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>A0946</ref>
+    <ref>A0949</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠭᠣᠵᠢᠷᠠᠬᠣ</unicode>
+      <uighur>aγuǰiraqu</uighur>
+      <cyrillic>уужрах</cyrillic>
+      <transcript>AГUZIRA-</transcript>
+      <definition>v, 1. To be[come] wide or spacious; to calm down, be relieved.</definition>
+      <page>19</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠣᠲᠤᠷ ᠠᠭᠤᠵᠢᠷᠠᠬᠤ</unicode>
+          <transcript>dotur --xu</transcript>
+          <definition> To calm down, be relieved.</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠡᠷ ᠠᠭᠤᠵᠢᠷᠠᠬᠤ</unicode>
+          <transcript>ger --xu</transcript>
+          <definition> For a room or house to become more spacious.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠣᠵᠢᠷᠠᠬᠣ</unicode>
+      <cyrillic>УУЖРАХ</cyrillic>
+      <definition>1) становљться шљре, быть просторным; 2) шилж. успокаиваться; чувствовать облегчение; амьсгаа уужрах шиг чувствовать облегчение при дыхании; ~ как рукой сняло; дотор уужирлаа от сердца отлегло; сэтгэл уужрав успокоился. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠭᠤᠵᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>уужрах</cyrillic>
+      <definition>1. уужим болох, намжих;2. &lt;шилжсэн&gt;тайвшрах, тайван болох; дотор уужрах; сэтгэл уужрах.</definition>
+      <page>605</page>
+    </entry_item>
+  </entries>
+</entry>

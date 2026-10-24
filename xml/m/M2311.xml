@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="M2311">
+  <head>
+    <unicode>ᠮᠥᠺᠠᠷᠠᠰᠥ</unicode>
+    <transcript>mögeresü</transcript>
+    <transcript2>mögeresö</transcript2>
+    <cyrillic>мөгөөрс</cyrillic>
+  </head><see_also>
+    <ref>M2321</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠮᠥᠺᠡᠷᠡᠰᠦ ~ ᠮᠦᠺᠡᠷᠡᠰᠦᠨ</unicode>
+      <uighur>mökeresü - mükeresün</uighur>
+      <cyrillic>мөгөөрс(өн)</cyrillic>
+      <transcript>MØGERESY(N)</transcript>
+      <definition>n. Cartilage, gristle.</definition>
+      <page>545</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠥᠺᠡᠷᠡᠰᠦ ᠬᠣᠭᠤᠯᠠᠢ</unicode>
+          <transcript>-- xoγulai</transcript>
+          <definition>Windpipe, trachea</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠥᠺᠡᠷᠡᠰᠦ ᠬᠣᠭᠤᠯᠠᠢ ᠎ᠶᠢᠨ ᠬᠠᠯᠠᠭᠤᠨ</unicode>
+          <transcript>-- xoγulai jin xalaγun</transcript>
+          <definition>Bronchitis.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠪᠴᠢᠭᠦᠨ ᠤ ᠮᠥᠺᠡᠷᠡᠰᠦ</unicode>
+          <transcript>ebcigyn y --</transcript>
+          <definition>Cartilage on both sides of the sternum.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠮᠥᠺᠡᠷᠡᠰᠦᠨ ~ ᠮᠥᠺᠡᠷᠡᠰᠦ</unicode>
+      <definition>cartilage.</definition>
+      <page>2064</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠯᠤᠨ ᠤ ᠮᠥᠭᠡᠷᠡᠰᠦᠨ</unicode>
+          <definition>cartilage de l'omoplate</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠥᠭᠡᠷᠡᠰᠦ ᠬᠤᠭᠤᠯᠠᠢ</unicode>
+          <definition>la trachée-artère</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠮᠥᠺᠠᠷᠠᠰᠥ</unicode>
+      <uighur>mögeresü</uighur>
+      <definition>der Knorpel</definition>
+      <page>221</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠮᠥᠺᠠᠷᠠᠰᠥ</unicode>
+      <uighur>mökeresü</uighur>
+      <definition>n. Cartilage. Gristle.</definition>
+      <page>873</page>
+      <examples>
+        <example>
+          <uighur>möngresün quγulai</uighur>
+          <definition>n. The trachea, the windpipe</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

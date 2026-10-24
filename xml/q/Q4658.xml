@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q4658">
+  <head>
+    <unicode>ᠬᠣᠪᠢᠨᠠᠬᠣ</unicode>
+    <transcript>qubinaqu</transcript>
+    <transcript2>gobinago</transcript2>
+    <cyrillic>хувинах</cyrillic>
+  </head><derivatives>
+    <ref>Q4659</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠣᠪᠢᠨᠠᠬᠣ</unicode>
+      <uighur>qubinaqu</uighur>
+      <cyrillic>хувинах</cyrillic>
+      <transcript>XUBINA-</transcript>
+      <definition>v. i. To whisper.</definition>
+      <page>978</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠪᠢᠨᠠᠨ ᠮᠠᠭᠤᠳᠬᠠᠬᠤ</unicode>
+          <transcript>--n maγudxaxu</transcript>
+          <definition> To blame secretly.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠣᠪᠢᠨᠠᠬᠤ</unicode>
+      <definition>chuchoter, parler bas à l'oreille de.</definition>
+      <page>891</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠪᠢᠨᠠᠨ ᠮᠠᠭᠤᠳᠬᠠᠬᠤ</unicode>
+          <definition>blamer secrètement</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠪᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>хувинах</cyrillic>
+      <definition>〔动〕耳语，低语，小声地嘟嘟.</definition>
+      <page>1419</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠪᠢᠨᠠᠬᠣ</unicode>
+      <cyrillic>ХУВИНАХ</cyrillic>
+      <definition>шептать. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

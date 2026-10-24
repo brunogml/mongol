@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0086">
+  <head>
+    <unicode>ᠴᠠᠭᠠᠨᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čaγanadaγulqu</transcript>
+    <transcript2>caganadagolgo</transcript2>
+    <cyrillic>цаанадуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C0085</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠭᠠᠨᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цаанадуулах</cyrillic>
+      <definition>〔动〕цаанадах 的使动态.</definition>
+      <page>1507</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠭᠠᠨᠠᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЦААНАДУУЛАХ</cyrillic>
+      <definition>цаанадах-ын үйлдүүл., отдалять, удалять. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цаанадуулах</cyrillic>
+      <definition>1. Kaus von цаанадах
+2. zu weit entfernen (von -аас)</definition>
+      <page>349</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠭᠠᠨᠠᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>цаанадуулах</cyrillic>
+      <definition>цаанадахын үйлдүүлэх хэв.</definition>
+      <page>775</page>
+    </entry_item>
+  </entries>
+</entry>

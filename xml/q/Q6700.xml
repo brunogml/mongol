@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q6700">
+  <head>
+    <unicode>ᠭᠣᠶᠣᠬᠴᠢ</unicode>
+    <transcript>γuyuγči</transcript>
+    <transcript2>goyogci</transcript2>
+    <cyrillic>гуйгч</cyrillic>
+  </head>
+  <see_also>
+    <ref>Q6699</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠤᠶᠤᠭᠴᠢ</unicode>
+      <cyrillic>гуйгч</cyrillic>
+      <definition>〔名〕①乞讨者，乞丐；②请求者，申请者.</definition>
+      <page>322</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠶᠣᠬᠴᠢ</unicode>
+      <cyrillic>ГУЙГЧ</cyrillic>
+      <definition>проситель; юм гуйгч эмэгтэй просительница. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠤᠶᠤᠭᠴᠢ</unicode>
+      <cyrillic>гуйгч</cyrillic>
+      <definition>гуйсан этгээд.</definition>
+      <page>157</page>
+    </entry_item>
+  </entries>
+</entry>

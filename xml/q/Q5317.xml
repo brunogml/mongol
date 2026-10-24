@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q5317">
+  <head>
+    <unicode>ᠭᠣᠳᠣᠮᠵᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>γudumǰilaγulqu</transcript>
+    <transcript2>godomcilagolgo</transcript2>
+    <cyrillic>гудамжлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q5316</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠤᠳᠤᠮᠵᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гудамжлуулах</cyrillic>
+      <definition>〔动〕гудамжлах 的使动态.</definition>
+      <page>320</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠳᠣᠮᠵᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ГУДАМЖЛУУЛАХ</cyrillic>
+      <definition>гудамжлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠤᠳᠤᠮᠵᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гудамжлуулах</cyrillic>
+      <definition>гудамжлахын үйлдүүлэх хэв, гудамж болгох.</definition>
+      <page>156</page>
+    </entry_item>
+  </entries>
+</entry>

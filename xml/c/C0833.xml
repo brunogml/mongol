@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0833">
+  <head>
+    <transcript>čentner</transcript>
+    <transcript2>cendner</transcript2>
+    <cyrillic>центнер</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠼᠧᠨ᠋ᠲ᠋ᠨᠧᠷ</unicode>
+      <cyrillic>центнер</cyrillic>
+      <definition>〔名〕公担（一百公斤）.</definition>
+      <page>1527</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ЦЕНТНЕР</cyrillic>
+      <definition>центнер. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>центнер</cyrillic>
+      <definition>Doppelzentner m</definition>
+      <page>355</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠼᠧᠨ᠋ᠲ᠋ᠨᠧᠷ</unicode>
+      <cyrillic>центнер</cyrillic>
+      <definition>100 кг-тай тэнцэх хүндийн хэмжээ.</definition>
+      <page>787</page>
+    </entry_item>
+  </entries>
+</entry>

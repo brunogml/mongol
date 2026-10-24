@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1662">
+  <head>
+    <unicode>ᠰᠠᠷᠠᠭᠣᠯᠬᠠᠨ</unicode>
+    <transcript>saraγulqan</transcript>
+    <transcript2>saragolgan</transcript2>
+    <cyrillic>саруулхан</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠷᠠᠭᠣᠯᠬᠠᠨ</unicode>
+      <uighur>saraγulqan</uighur>
+      <cyrillic>саруулхан</cyrillic>
+      <transcript>SARAΓULXAN</transcript>
+      <definition>adj. [Somewhat] clear or open.</definition>
+      <page>674</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠷᠠᠭᠣᠯᠬᠠᠨ ᠰᠥᠨᠢ</unicode>
+          <transcript>-- søni</transcript>
+          <definition> [Rather] clear night.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠠᠷᠠᠭᠣᠯᠬᠠᠨ</unicode>
+      <definition>assez clair, assez clair - semé. un peu découvert.</definition>
+      <page>1333</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠷᠠᠭᠤᠯᠬᠠᠨ</unicode>
+      <cyrillic>саруулхан</cyrillic>
+      <definition>〔形〕саруул 的称，光明些的，明亮些的，较明朗的，较明静的，较晴朗的；较明晰的；较敞亮的.</definition>
+      <page>920</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠷᠠᠭᠣᠯᠬᠠᠨ</unicode>
+      <cyrillic>САРУУЛХАН</cyrillic>
+      <definition>более светлый, ясный; саруулхан болох становиться более светлым, ясным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>саруулхан</cyrillic>
+      <definition>(Dim von саруул) ziemlich hell; ~ шɵнɵ ziemlich helle Nacht</definition>
+      <page>196</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠷᠠᠭᠤᠯᠬᠠᠨ</unicode>
+      <cyrillic>саруулхан</cyrillic>
+      <definition>арай саруул, нилээд саруул.</definition>
+      <page>472</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S1661</ref>
+  </related_to>
+</entry>

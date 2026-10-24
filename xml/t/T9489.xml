@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9489">
+  <head>
+    <unicode>ᠳᠥᠷᠳᠠᠺᠠᠨᠠᠺᠥ</unicode>
+    <transcript>dördegenekü</transcript>
+    <transcript2>dördegenegö</transcript2>
+    <cyrillic>дөрдгөнөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T9490</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠥᠷᠳᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>дөрдгөнөх</cyrillic>
+      <definition>〔动〕①不断突出，时时露出；②一卷一缩，不断皱起，一曲一弯，翻卷不停.</definition>
+      <page>430</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠥᠷᠳᠠᠺᠠᠨᠠᠺᠥ</unicode>
+      <cyrillic>ДӨРДГӨНӨХ</cyrillic>
+      <definition>бросать взгляды, всматриваться, быть беспокойным (о взгляде). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠥᠷᠳᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>дөрдөгнөх</cyrillic>
+      <definition>дөрдгөр юмны үргэлжлэн хөдлөх.</definition>
+      <page>206</page>
+    </entry_item>
+  </entries>
+</entry>

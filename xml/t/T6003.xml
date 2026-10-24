@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T6003">
+  <head>
+    <unicode>ᠳᠣᠭᠣᠷᠢᠬᠳᠠᠭᠣ</unicode>
+    <transcript>duγuriγdaγu</transcript>
+    <transcript2>dogorigdago</transcript2>
+    <cyrillic>дугаригдуу</cyrillic>
+  </head>
+  <see_also>
+    <ref>T6001</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠤᠭᠤᠷᠢᠭᠳᠠᠭᠤ</unicode>
+      <cyrillic>дугаригдуу</cyrillic>
+      <definition>〔形〕圆形的，圆的.</definition>
+      <page>434</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠣᠭᠣᠷᠢᠬᠳᠠᠭᠣ</unicode>
+      <cyrillic>ДУГАРИГДУУ</cyrillic>
+      <definition>слегка округлый. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠤᠭᠤᠷᠢᠭᠳᠠᠭᠤ</unicode>
+      <cyrillic>дугаригдуу</cyrillic>
+      <definition>дугуй байдалтай.</definition>
+      <page>208</page>
+    </entry_item>
+  </entries>
+</entry>

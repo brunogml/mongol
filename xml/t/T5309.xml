@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5309">
+  <head>
+    <unicode>ᠲᠣᠨᠣᠷᠠᠬᠣ</unicode>
+    <transcript>tunuraqu</transcript>
+    <transcript2>donorago</transcript2>
+    <cyrillic>тунарах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T5310</ref>
+    <ref>T5311</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠤᠨᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>тунарах</cyrillic>
+      <definition>〔动〕①沉淀，澄清；②剩下，留下；③精选出，提炼出.</definition>
+      <page>1113</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠨᠣᠷᠠᠬᠣ</unicode>
+      <cyrillic>ТУНАРАХ</cyrillic>
+      <definition>тунах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тунарах</cyrillic>
+      <definition>1. sich absetzen od abscheiden in einer Flüssigkeit
+2. sich stauen; sich zusammenziehen; ажил нь сарын эцэс рүү тунарчэж die Arbeit staute sich gegen Monatsende [an]; ойдол нь тунарч байна die Naht kräuselt sich</definition>
+      <page>239</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠤᠨᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>тунарах</cyrillic>
+      <definition>тунаж үлдэх, хоцрох; оёдол нь тунарах.</definition>
+      <page>557</page>
+    </entry_item>
+  </entries>
+</entry>

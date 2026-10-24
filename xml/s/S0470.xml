@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S0470">
+  <head>
+    <unicode>ᠰᠠᠭᠠᠷᠮᠠᠬᠵᠢᠬᠣ</unicode>
+    <transcript>saγarmaqǰiqu</transcript>
+    <transcript2>sagarmagcigo</transcript2>
+    <cyrillic>саармагжих</cyrillic>
+  </head><derivatives>
+    <ref>S0472</ref>
+  
+    <ref>S0474</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠭᠠᠷᠮᠠᠭᠵᠢᠬᠤ</unicode>
+      <cyrillic>саармагжих</cyrillic>
+      <definition>〔动〕〈理、化〉中和：~ урвал 中和反应.</definition>
+      <page>890</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠭᠠᠷᠮᠠᠬᠵᠢᠬᠣ</unicode>
+      <cyrillic>СААРМАГЖИХ</cyrillic>
+      <definition>нейтрализовываться; саармагжих нөхцөл условие нейтральности. </definition>
+      <page>0</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>саармагжих</cyrillic>
+    <definition>sich neutralisieren</definition>
+    <page>190</page>
+  </entry_item>
+  </entries>
+</entry>

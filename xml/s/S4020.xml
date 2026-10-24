@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S4020">
+  <head>
+    <unicode>ᠰᠢᠯᠳᠠᠰᠣ</unicode>
+    <transcript>sildasu</transcript>
+    <transcript2>sildaso</transcript2>
+    <cyrillic>шалдас</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠯᠳᠠᠰᠤ ~ ᠰᠢᠯᠳᠠᠰᠤᠨ</unicode>
+      <uighur>sildasu - sildasun</uighur>
+      <cyrillic>шалдас</cyrillic>
+      <transcript>SILDASU(N)</transcript>
+      <page>705</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠢᠯᠳᠠᠰᠤ ᠮᠣᠳᠤ</unicode>
+          <transcript>-- [modu]</transcript>
+          <definition> [Go.] Oak which has a single stem, quercu palm tree. [Ri.] Lonely tree, single tree.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠯᠳᠠᠰᠤ</unicode>
+      <definition>palmier.</definition>
+      <page>1501</page>
+    </entry_item>
+  </entries>
+</entry>

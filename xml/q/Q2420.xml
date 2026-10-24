@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q2420">
+  <head>
+    <unicode>ᠬᠠᠮᠣᠷᠬᠣ</unicode>
+    <transcript>qamurqu</transcript>
+    <transcript2>gamorgo</transcript2>
+    <cyrillic>хамрах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q2422</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q2413</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠮᠤᠷᠠᠬᠤ ~ ᠬᠠᠮᠤᠷᠬᠤ</unicode>
+      <definition>prendre, qc. avec avidité, emporter, voler, piller, extorquer, ravir, dévaliser.</definition>
+      <page>809</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠯᠲᠠᠨ ᠢ ᠬᠠᠮᠤᠷᠤᠨ ᠬᠤᠷᠢᠶᠠᠬᠤ</unicode>
+          <definition>rassembler tout l'or avidement</definition>
+        </example>
+        <example>
+          <unicode>ᠢᠳᠡᠭᠡᠨ ᠢ ᠬᠠᠮᠤᠷᠨ ᠠᠪᠬᠤ</unicode>
+          <definition>prendre tous les mets, manger avec avidité</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠮᠤᠷᠬᠤ</unicode>
+      <cyrillic>хамрах</cyrillic>
+      <definition>〔动〕①包含，包括，囊括，包罗，吸收，吸纳；列入，收入，席卷，使参加：нийтээр нь ~ 全部席卷进去，全部包含进去；сургуульд ~н оруулах 全部吸收人学；залуучуудыг олон нийтийн ажилд ~н оруулах 使青年人都参加社会工作；②聚拢，聚敛，收集，收聚，搂成堆.</definition>
+      <page>1299</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠮᠣᠷᠬᠣ</unicode>
+      <cyrillic>ХАМРАХ</cyrillic>
+      <definition>охватывать, вовлекать; включать; хватать забирать; загребать; хамран авах захватывать, охватывать; залуучуудыг олон нийтийн ажилд хамран оруулах охватывать молодёжь общественной работой; хамран хүрээлэх охватывать; хамран шүүрэх захватывать, подбирать всё (что попадает под руку). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠮᠤᠷᠬᠤ</unicode>
+      <cyrillic>хамрах</cyrillic>
+      <definition>олныг нийтээр дайрах, нийтээр багтаан хамж аваачих; нийтээр нь хамрах; сургуульд хамран оруулах.</definition>
+      <page>655</page>
+    </entry_item>
+  </entries>
+</entry>

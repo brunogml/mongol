@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1500">
+  <head>
+    <unicode>ᠴᠢᠩᠭᠠᠰᠬᠠᠬᠣ</unicode>
+    <transcript>čingγasqaqu</transcript>
+    <transcript2>cinggasgago</transcript2>
+    <cyrillic>чангасгах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠩᠭᠠᠰᠬᠠᠬᠤ</unicode>
+      <cyrillic>чангасгах</cyrillic>
+      <definition>〔动〕чангасах 的使动态.</definition>
+      <page>1579</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠩᠭᠠᠰᠬᠠᠬᠣ</unicode>
+      <cyrillic>ЧАНГАСГАХ</cyrillic>
+      <definition>чангасах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠩᠭᠠᠰᠬᠠᠬᠤ</unicode>
+      <cyrillic>чангасгах</cyrillic>
+      <definition>чангасахад хүрүүлэх, чангатгах.</definition>
+      <page>814</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5026">
+  <head>
+    <unicode>ᠰᠣᠨᠳᠣᠭᠣᠶᠢᠷᠠᠬᠣ</unicode>
+    <transcript>sonduγuyiraqu</transcript>
+    <transcript2>sondogoyirago</transcript2>
+    <cyrillic>сондгойрох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5027</ref>
+    <ref>S5029</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣᠨᠳᠣᠭᠣᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>сондгойрох</cyrillic>
+      <definition>〔动〕①成单，变奇数，不成双；②变孤单，孤立，变孤独，分散：~ үзэл 孤立主义，分散主义.</definition>
+      <page>937</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠨᠳᠣᠭᠣᠶᠢᠷᠠᠬᠣ</unicode>
+      <cyrillic>СОНДГОЙРОХ</cyrillic>
+      <definition>становиться нечётным, лишним, без пары; нэг хүн сондгойрлоо один человек остался без пары. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сондгойрох,</cyrillic>
+      <definition>сондойх Zahl ungerade werden; übrigbleiben; нэг хүн сондгойрлоо einer ist übriggeblieben</definition>
+      <page>200</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠣᠨᠳᠣᠭᠣᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>сондгойрох</cyrillic>
+      <definition>сондгой болох.</definition>
+      <page>479</page>
+    </entry_item>
+  </entries>
+</entry>

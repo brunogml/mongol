@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U2192">
+  <head>
+    <unicode>ᠣᠺᠢᠶᠠᠳᠠᠰᠣᠯᠠᠬᠣ</unicode>
+    <transcript>ugiyadasulaqu</transcript>
+    <transcript2>ogiyadasolago</transcript2>
+    <cyrillic>угаадаслах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠣᠺᠢᠶᠠᠳᠠᠰᠣᠯᠠᠬᠣ</unicode>
+      <uighur>ukiyadasolaqu</uighur>
+      <cyrillic>угаадаслах</cyrillic>
+      <transcript>UGIJADASULA-</transcript>
+      <definition>v.t. To wash grain</definition>
+      <page>865</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠬᠢᠶᠠᠳᠠᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>угаадаслах</cyrillic>
+      <definition>〔动〕洗，洗濯，刷洗，洗涤.</definition>
+      <page>1171</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠺᠢᠶᠠᠳᠠᠰᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>УГААДАСЛАХ</cyrillic>
+      <definition>полоскать, промывать (напр. крупу), перемывать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠬᠢᠶᠠᠳᠠᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>угаадаслах</cyrillic>
+      <definition>угаах.</definition>
+      <page>582</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>U2191</ref>
+  </related_to>
+</entry>

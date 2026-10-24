@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T8272">
+  <head>
+    <unicode>ᠲᠥᠩᠰᠢᠺᠳᠠᠺᠥ</unicode>
+    <transcript>tüngsigdekü</transcript>
+    <transcript2>döngsigdegö</transcript2>
+    <cyrillic>түншигдэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T8266</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠦᠩᠰᠢᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>түншигдэх</cyrillic>
+      <definition>〔动〕түнших 的被动态.</definition>
+      <page>1136</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠩᠰᠢᠺᠳᠠᠺᠥ</unicode>
+      <cyrillic>ТҮНШИГДЭХ</cyrillic>
+      <definition>түнших-ийн үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠦᠩᠰᠢᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>түншигдэх</cyrillic>
+      <definition>түншихийн үйлдэгдэх хэв.</definition>
+      <page>567</page>
+    </entry_item>
+  </entries>
+</entry>

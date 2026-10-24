@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C2753">
+  <head>
+    <unicode>ᠴᠣᠬᠯᠠᠭᠠᠷ</unicode>
+    <transcript>čuγlaγar</transcript>
+    <transcript2>coglagar</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠤᠬᠯᠠᠭᠠᠷ</unicode>
+      <definition>assemblée, réunion, diète</definition>
+      <page>2217</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠤᠬᠯᠠᠭᠠᠷ ᠤᠨ ᠭᠡᠷ</unicode>
+          <definition>maison de l'assemblée</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠴᠣᠬᠯᠠᠭᠠᠷ</unicode>
+      <uighur>čuqlaγar</uighur>
+      <definition>die Versammlung</definition>
+      <page>332</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠴᠣᠬᠯᠠᠭᠠᠷ</unicode>
+      <uighur>čuqlaγar</uighur>
+      <definition>Assembly.</definition>
+      <page>1342</page>
+      <examples>
+        <example>
+          <uighur>čuqlaγar-un ker</uighur>
+          <definition>n. A house, hall or yurt, where people gather.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

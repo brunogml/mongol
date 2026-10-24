@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1715">
+  <head>
+    <unicode>ᠬᠠᠳᠣᠣᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>qadouraγulqu</transcript>
+    <transcript2>gadooragolgo</transcript2>
+    <cyrillic>хадууруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q1714</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠳᠤᠤᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хадууруулах</cyrillic>
+      <definition>〔动〕хадуурах 的使动态.</definition>
+      <page>1274</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠳᠣᠣᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХАДУУРУУЛАХ</cyrillic>
+      <definition>хадуурах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠳᠤᠤᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хадууруулах</cyrillic>
+      <definition>хадуурахын үйлдүүлэх хэв.</definition>
+      <page>641</page>
+    </entry_item>
+  </entries>
+</entry>

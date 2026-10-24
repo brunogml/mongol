@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B2377">
+  <head>
+    <unicode>ᠪᠢᠯᠴᠠᠯᠬᠣ</unicode>
+    <transcript>bilčalqu</transcript>
+    <transcript2>bilcalgo</transcript2>
+    <cyrillic>бялцалах</cyrillic>
+  </head><see_also>
+    <ref>B2376</ref>
+  
+    <ref>B2394</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠢᠯᠴᠠᠯᠬᠣ</unicode>
+      <uighur>bilčalqu</uighur>
+      <cyrillic>бялцлах</cyrillic>
+      <transcript>BILCAL-</transcript>
+      <definition>v.t. To flatten completely, squash into a pulp; to crush.</definition>
+      <page>104</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠮᠤ ᠪᠢᠯᠴᠠᠯᠬᠣ</unicode>
+          <transcript>amu --xu</transcript>
+          <definition> To pound millet.</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠢᠳᠦᠵᠦ ᠪᠢᠯᠴᠠᠯᠬᠣ</unicode>
+          <transcript>nidyzy --xu</transcript>
+          <definition> To pound.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

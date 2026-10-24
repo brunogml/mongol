@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0515">
+  <head>
+    <unicode>ᠮᠠᠳᠯᠠᠬᠣ</unicode>
+    <transcript>madlaqu</transcript>
+    <transcript2>madlago</transcript2>
+    <cyrillic>мадлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M0516</ref>
+    <ref>M0517</ref>
+    <ref>M0518</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠮᠠᠳᠯᠠᠬᠣ</unicode>
+      <uighur>madlaqu</uighur>
+      <cyrillic>мадлах</cyrillic>
+      <transcript>MADLA-</transcript>
+      <definition>v.t. To checkmate (in chess); to corner, place in a predicament.</definition>
+      <page>519</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠳᠯᠠᠬᠤ</unicode>
+      <cyrillic>мадлах</cyrillic>
+      <definition>〔动〕①（下棋）将死；②逼入绝境；（把人说得）哑口无言，无以对答.</definition>
+      <page>654</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠳᠯᠠᠬᠣ</unicode>
+      <cyrillic>МАДЛАХ</cyrillic>
+      <definition>1) шатар. делать мат; гурав нүүгээд мадлах сделать мат в три хода; 2) шилж. поставить в безвыходное положение; үгээр мадлах словами поставить в тупик кого-л.; хэлэх үггүй болтол мадлах прищемить язык кому-л. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>мадлах</cyrillic>
+      <definition>Schach matt setzen (jmdm. -д)</definition>
+      <page>140</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠳᠯᠠᠬᠤ</unicode>
+      <cyrillic>мадлах</cyrillic>
+      <definition>1. шатраар тоглож мад хийх;2. бусдыг үгээр мохоон давж мад тавих.</definition>
+      <page>326</page>
+    </entry_item>
+  </entries>
+</entry>

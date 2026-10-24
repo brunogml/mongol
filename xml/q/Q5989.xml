@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q5989">
+  <head>
+    <unicode>ᠬᠣᠮᠢᠬᠳᠠᠬᠣ</unicode>
+    <transcript>qumiγdaqu</transcript>
+    <transcript2>gomigdago</transcript2>
+    <cyrillic>хумигдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q5987</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠤᠮᠢᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>хумигдах</cyrillic>
+      <definition>〔动〕хумих 的被动态.</definition>
+      <page>1430</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠮᠢᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ХУМИГДАХ</cyrillic>
+      <definition>хумих-ийн үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠤᠮᠢᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>хумигдах</cyrillic>
+      <definition>хумихын үйлдэгдэх хэв.</definition>
+      <page>729</page>
+    </entry_item>
+  </entries>
+</entry>

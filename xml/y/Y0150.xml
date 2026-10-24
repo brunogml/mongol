@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y0150">
+  <head>
+    <unicode>ᠶᠠᠩᠭᠣᠯᠠᠬᠣ</unicode>
+    <transcript>yangγulaqu</transcript>
+    <transcript2>yanggolago</transcript2>
+    <cyrillic>янгуулах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y0153</ref>
+  </derivatives>
+  <see_also>
+    <ref>Y0151</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠠᠩᠭᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЯНГУУЛАХ</cyrillic>
+      <definition>I одевать сверх шубы нарядный летний халат. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠠᠩᠭᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ЯНГУУЛАХ</cyrillic>
+      <definition>II янгуурхах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠠᠩᠭᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>янгуулах /1</cyrillic>
+      <definition>янгууч зан байдал гаргах, эрх эмзэг байдад гаргаж тунирхах.</definition>
+      <page>907</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠠᠩᠭᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>янгуулах /2</cyrillic>
+      <definition>хувцасны гадуур, өнгө болгож дан хувцас өмсөх.</definition>
+      <page>907</page>
+    </entry_item>
+  </entries>
+</entry>

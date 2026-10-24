@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C2204">
+  <head>
+    <unicode>ᠴᠢᠺᠢᠺᠲᠥ</unicode>
+    <transcript>čigigtü</transcript>
+    <transcript2>cigigdö</transcript2>
+    <cyrillic>чийгт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠢᠺᠢᠺᠲᠥ</unicode>
+      <uighur>čigiktü</uighur>
+      <cyrillic>чийгт</cyrillic>
+      <transcript>CIGIGTY</transcript>
+      <definition>See cigigtei.</definition>
+      <page>179</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠢᠺᠢᠺᠳᠦ ~ ᠴᠢᠺᠢᠺᠲᠡᠢ</unicode>
+      <definition>humide.</definition>
+      <page>2180</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠭᠢᠭᠲᠦ ᠠᠭᠤᠷ</unicode>
+          <definition>air humide, vapeur humide, temps humide (ch. che-ki)</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠭᠢᠭᠲᠦ</unicode>
+      <cyrillic>чийгт</cyrillic>
+      <definition>〔形〕参见 чийгтэй.</definition>
+      <page>1586</page>
+    </entry_item>
+  </entries>
+</entry>

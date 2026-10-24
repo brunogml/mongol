@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0211">
+  <head>
+    <unicode>ᠮᠠᠩᠺᠢᠰᠣ</unicode>
+    <transcript>manggisu</transcript>
+    <transcript2>manggiso</transcript2>
+    <cyrillic>мангис</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠮᠠᠩᠺᠢᠰᠤ ~ ᠮᠠᠩᠭᠢᠰᠤᠨ</unicode>
+      <uighur>mangkisu - manggisun</uighur>
+      <cyrillic>мангис</cyrillic>
+      <transcript>MANGGISU(N)</transcript>
+      <definition>n. Badger (Meles vulgaris).</definition>
+      <page>527</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠠᠩᠭᠢᠰᠤᠨ ᠤ ᠰᠡᠭᠦᠯ</unicode>
+          <transcript>--n u segyl</transcript>
+          <definition> Name of a wild plant</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠮᠠᠩᠺᠢᠰᠤᠨ ~ ᠮᠠᠩᠺᠢᠰᠤ</unicode>
+      <definition>blaireau, taissou (meles vulgaris).</definition>
+      <page>1978</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠠᠩᠺᠢᠰᠤᠨ ᠤ ᠰᠡᠭᠦᠯ</unicode>
+          <definition>nom d'une plante sauvage</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠮᠠᠩᠺᠢᠰᠣ</unicode>
+      <uighur>mengkisün</uighur>
+      <definition>der Dachs</definition>
+      <page>214</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠩᠭᠢᠰᠤ</unicode>
+      <cyrillic>мангис</cyrillic>
+      <definition>〔名〕〈动〉獾.</definition>
+      <page>659</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠩᠺᠢᠰᠣ</unicode>
+      <cyrillic>МАНГИС</cyrillic>
+      <definition>I амьт. барсук (самец). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠩᠺᠢᠰᠣ</unicode>
+      <cyrillic>МАНГИС</cyrillic>
+      <definition>II ург. черемша, лук-черемша; мангисын сүүл ург. кисти черемши. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>мангис</cyrillic>
+      <definition>Dachsmännchen n</definition>
+      <page>141</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠩᠭᠢᠰᠤ᠊ᠨ</unicode>
+      <cyrillic>мангис /1</cyrillic>
+      <definition>дорго.</definition>
+      <page>330</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠩᠭᠢᠰᠤ᠊ᠨ</unicode>
+      <cyrillic>мангис /2</cyrillic>
+      <definition>&lt;ургамал&gt;мангирын нэгэн зүйл.</definition>
+      <page>330</page>
+    </entry_item>
+  </entries>
+</entry>

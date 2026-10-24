@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3100">
+  <head>
+    <unicode>ᠶᠢᠯᠸᠢᠴᠢ</unicode>
+    <transcript>yilviči</transcript>
+    <transcript2>yilvici</transcript2>
+    <cyrillic>илбэч</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y3096</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠶᠢᠯᠸᠢᠴᠢ</unicode>
+      <uighur>ǰilviči</uighur>
+      <definition>der Gaukler, Zauberer</definition>
+      <page>290</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠶᠢᠯᠸᠢᠴᠢ</unicode>
+      <uighur>ǰilviči</uighur>
+      <definition>n. A hypnotizer. A magician</definition>
+      <page>1166</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠢᠯᠸᠢᠴᠢ</unicode>
+      <cyrillic>ИЛБЭЧИН</cyrillic>
+      <definition>фокусник; иллюзионист; трансформатор; фигляр.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠧᠯᠸᠢᠴᠢ</unicode>
+      <cyrillic>илбэч</cyrillic>
+      <definition>илбэ ховстой хүн.</definition>
+      <page>302</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3472">
+  <head>
+    <unicode>ᠴᠥᠪᠥᠳᠠᠯᠯᠠᠺᠥ</unicode>
+    <transcript>čöbüdellekü</transcript>
+    <transcript2>cöbödellegö</transcript2>
+    <cyrillic>цөвдөллөх</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠥᠪᠥᠳᠡᠯᠯᠡᠬᠦ</unicode>
+      <cyrillic>цөвдөллөх</cyrillic>
+      <definition>〔动〕去掉碎末（碎屑，碎片）.</definition>
+      <page>1541</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠥᠪᠥᠳᠠᠯᠯᠠᠺᠥ</unicode>
+      <cyrillic>ЦӨВДӨЛЛӨХ</cyrillic>
+      <definition>отделять по частям, сортировать что-л. мелкое. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠥᠪᠥᠳᠡᠯᠯᠡᠬᠦ</unicode>
+      <cyrillic>цөвдөллөх</cyrillic>
+      <definition>цөвдлий нь ялгах.</definition>
+      <page>794</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>C3469</ref>
+  </related_to>
+</entry>

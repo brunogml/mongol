@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T4540">
+  <head>
+    <unicode>ᠲᠠᠺᠥᠳᠠᠺ</unicode>
+    <transcript>tegüdeg</transcript>
+    <transcript2>degödeg</transcript2>
+    <cyrillic>түүдэг</cyrillic>
+  </head><see_also>
+    <ref>T9035</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠺᠥᠳᠠᠺ</unicode>
+      <uighur>tegüdeg</uighur>
+      <cyrillic>түүдэг</cyrillic>
+      <transcript>TEGYDEG</transcript>
+      <definition>[= tygydeg] n. Ear of grain; bundle of cotton; cluster; ball or spindle of thread</definition>
+      <page>795</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠲᠠᠰᠤᠨ ᠤ ᠲᠠᠺᠥᠳᠠᠺ</unicode>
+          <transcript>utasun u – </transcript>
+          <definition>A ball of thread</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠡᠭᠦᠳᠡᠭ</unicode>
+      <definition>peloton (de fils, etc ) 2 un paquet de coton, 3 un épi</definition>
+      <page>1754</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠳᠠᠰᠤᠨ ᠤ ᠳᠡᠭᠦᠳᠡᠭ</unicode>
+          <definition>un peloton de fil</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠡᠭᠦᠳᠡᠭ ᠢ ᠡᠪᠭᠡᠺᠦ</unicode>
+          <definition>dévider</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

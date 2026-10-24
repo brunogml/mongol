@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1144">
+  <head>
+    <unicode>ᠵᠠᠯᠠᠷᠠᠭᠣᠯᠭ᠎ᠠ</unicode>
+    <transcript>ǰalaraγulγ-a</transcript>
+    <transcript2>yalaragolga</transcript2>
+    <cyrillic>залруулга</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠠᠯᠠᠷᠠᠭᠤᠯᠭ᠎ᠠ</unicode>
+      <cyrillic>залруулга</cyrillic>
+      <definition>〔名〕修正，纠正，改正，校正，勘误：номын ~ 书之勘误表.</definition>
+      <page>537</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠠᠯᠠᠷᠠᠭᠣᠯᠭ᠎ᠠ</unicode>
+      <cyrillic>ЗАЛРУУЛГА</cyrillic>
+      <definition>коррекция, исправление, поправка. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>залруулга</cyrillic>
+      <definition>Korrektur f</definition>
+      <page>116</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠠᠯᠠᠷᠠᠭᠤᠯᠭ᠎ᠠ</unicode>
+      <cyrillic>залруулга</cyrillic>
+      <definition>залруулсан юм.</definition>
+      <page>262</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Y1146</ref>
+  </related_to>
+</entry>

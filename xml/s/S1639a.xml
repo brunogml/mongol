@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1639a">
+  <head>
+    <unicode>ᠰᠠᠶᠢᠷᠳᠠᠬᠣ</unicode>
+    <transcript>sayirdaqu</transcript>
+    <transcript2>sayirdago</transcript2>
+    <cyrillic>сайрдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1640</ref>
+    <ref>S1641</ref>
+  </derivatives>
+  <see_also>
+    <ref>S1639</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠢᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>сайрдах</cyrillic>
+      <definition>〔动〕（手、脚）起皴很多.</definition>
+      <page>898</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠶᠢᠷᠳᠠᠬᠣ</unicode>
+      <cyrillic>САЙРДАХ</cyrillic>
+      <definition>быть обильным щебнем. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠢᠷᠳᠠᠬᠤ</unicode>
+      <cyrillic>сайрдах</cyrillic>
+      <definition>хэтэрхий сайртай болох.</definition>
+      <page>461</page>
+    </entry_item>
+  </entries>
+</entry>

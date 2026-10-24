@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0373">
+  <head>
+    <unicode>ᠴᠠᠰᠣᠷᠠᠬᠣ</unicode>
+    <transcript>časuraqu</transcript>
+    <transcript2>casorago</transcript2>
+    <cyrillic>цасрах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0374</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠰᠣᠷᠠᠬᠣ</unicode>
+      <uighur>časuraqu</uighur>
+      <cyrillic>цасрах</cyrillic>
+      <transcript>CASURA-</transcript>
+      <definition>v : i, To snow. .</definition>
+      <page>166</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠠᠰᠣᠷᠠᠵᠤ ᠪᠠᠶᠢᠨ᠎ᠠ</unicode>
+          <transcript>--zu bain-a, </transcript>
+          <definition>it is snowing.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠠᠰᠣᠷᠠᠬᠤ</unicode>
+      <definition>il neige, neiger</definition>
+      <page>2096</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠰᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>цасрах</cyrillic>
+      <definition>〔动〕降雪，下雪：одоо цасарч байна 现在下雪了.</definition>
+      <page>1523</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠰᠣᠷᠠᠬᠣ</unicode>
+      <cyrillic>ЦАСРАХ</cyrillic>
+      <definition>выпадать, идти (о снеге); одоо цасраж байна сейчас идёт снег. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цасрах</cyrillic>
+      <definition>schneien; цасарч байна es schneit</definition>
+      <page>354</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠰᠤᠷᠠᠬᠤ</unicode>
+      <cyrillic>цасрах</cyrillic>
+      <definition>цас орох; одоо цасарч байна.</definition>
+      <page>785</page>
+    </entry_item>
+  </entries>
+</entry>

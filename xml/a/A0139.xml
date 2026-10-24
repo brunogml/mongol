@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A0139">
+  <head>
+    <unicode>ᠠᠨᠢᠯᠵᠠᠬᠤ</unicode>
+    <transcript>anilǰaqu</transcript>
+    <transcript2>anilcago</transcript2>
+    <cyrillic>анилзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>A0140</ref>
+    <ref>A0142</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠨᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>анилзах</cyrillic>
+      <definition>〔动〕参见 анивалзах.</definition>
+      <page>64</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠨᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>АНИЛЗАХ</cyrillic>
+      <definition>подмигивать; перемигиваться.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠨᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>анилзах</cyrillic>
+      <definition>анивалзах.</definition>
+      <page>45</page>
+    </entry_item>
+  </entries>
+</entry>

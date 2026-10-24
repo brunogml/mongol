@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1112">
+  <head>
+    <unicode>ᠣᠪᠣᠳᠠᠬᠣ</unicode>
+    <transcript>obudaqu</transcript>
+    <transcript2>obodago</transcript2>
+    <cyrillic>овоодох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>U1113</ref>
+    <ref>U1114</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠣᠪᠣᠭᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>овоодох</cyrillic>
+      <definition>〔动〕抓住动物的头顶部.</definition>
+      <page>787</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠪᠣᠳᠠᠬᠣ</unicode>
+      <cyrillic>ОВООДОХ</cyrillic>
+      <definition>хватать за загривок. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>овоодох</cyrillic>
+      <definition>ein Tier an der Kopfhaut packen</definition>
+      <page>167</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠣᠪᠣᠭᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>овоодох</cyrillic>
+      <definition>амьтны овоо дээрээс нь барих, шүүрэх; Дугар баатар гэгч барсыг овоодож аваад өвдөг дороо хийж орхижээ &lt;домог&gt;.</definition>
+      <page>405</page>
+    </entry_item>
+  </entries>
+</entry>

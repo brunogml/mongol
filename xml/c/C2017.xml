@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2017">
+  <head>
+    <unicode>ᠴᠢᠮᠴᠢᠺᠢᠨᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>čimčiginegülkü</transcript>
+    <transcript2>cimciginegölgö</transcript2>
+    <cyrillic>чимчигнүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>C2016</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠮᠴᠢᠭᠢᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>чимчигнүүлэх</cyrillic>
+      <definition>〔动〕чимчигнэх 的使动态.</definition>
+      <page>1589</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠮᠴᠢᠺᠢᠨᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЧИМЧИГНҮҮЛЭХ</cyrillic>
+      <definition>чимчигнэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠮᠴᠢᠭᠢᠨᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>чимчигнүүлэх</cyrillic>
+      <definition>чимчигнэхийн үйлдүүлэх хэв.</definition>
+      <page>819</page>
+    </entry_item>
+  </entries>
+</entry>

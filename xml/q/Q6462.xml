@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q6462">
+  <head>
+    <unicode>ᠭᠣᠶᠠᠴᠢ</unicode>
+    <transcript>γoyači</transcript>
+    <transcript2>goyaci</transcript2>
+    <cyrillic>гоёч</cyrillic>
+  </head>
+  <see_also>
+    <ref>Q6743</ref>
+    <ref>Q6462a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠣᠶᠠᠴᠢ</unicode>
+      <uighur>γoyači</uighur>
+      <cyrillic>гойч</cyrillic>
+      <transcript>ΓOJACI</transcript>
+      <definition>n, and adj. Bias, partiality, hypocrite; hypocritical.</definition>
+      <page>358</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠣᠶᠠᠴᠢ ᠺᠦᠰᠡᠯ</unicode>
+          <transcript>-- kysel</transcript>
+          <definition> Partiality.</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠣᠶᠠᠴᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Unbiased, impartial.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠤᠶᠠᠴᠢ</unicode>
+      <definition>partialité.</definition>
+      <page>1036</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠤᠶᠠᠴᠢ ᠦᠭᠡᠢ</unicode>
+          <definition>impartialité</definition>
+        </example>
+        <example>
+          <unicode>ᠭᠤᠶᠠᠴᠢ ᠺᠦᠰᠡᠯ</unicode>
+          <definition>amour-propre, amour de soi, égoisme</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠭᠣᠶᠠᠴᠢ</unicode>
+      <uighur>γuyači</uighur>
+      <definition>Private. Secret.</definition>
+      <page>810</page>
+      <examples>
+        <example>
+          <uighur>γuyači ügei</uighur>
+          <definition>Impartial</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠣᠶᠠᠴᠢ</unicode>
+      <cyrillic>гоёч</cyrillic>
+      <definition>1. зүйг дагахгүй, шударга бусаар засдаг хүн;2. тал тохой татах заншилтай.</definition>
+      <page>148</page>
+    </entry_item>
+  </entries>
+</entry>

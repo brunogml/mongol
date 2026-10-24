@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y1650">
+  <head>
+    <unicode>ᠵᠠᠶᠢᠯᠣᠳᠣᠰᠣ</unicode>
+    <transcript>ǰayiludusu</transcript>
+    <transcript2>yayilodoso</transcript2>
+    <cyrillic>зайлдас</cyrillic>
+  </head><see_also>
+    <ref>Y1654</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠠᠶᠢᠯᠣᠳᠣᠰᠣ</unicode>
+      <uighur>ǰayilodosu</uighur>
+      <cyrillic>зайлдас</cyrillic>
+      <transcript>ZAILUDUSU</transcript>
+      <definition>n. Gargle, rinse.</definition>
+      <page>1027</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠠᠶᠢᠯᠣᠳᠣᠰᠤ</unicode>
+      <definition>rinçure, gargarisme</definition>
+      <page>2236</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠮᠠᠨ ᠤ ᠵᠠᠶᠢᠯᠤᠳᠤᠰᠤ ᠠᠰᠬᠠᠬᠤ</unicode>
+          <definition>verser l'eau avec laquelle on a rincé la bouche</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S1950a">
+  <head>
+    <unicode>ᠰᠠᠨᠠᠲ</unicode>
+    <transcript>senat</transcript>
+    <transcript2>senad</transcript2>
+    <cyrillic>сенат</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠨᠠᠲ</unicode>
+      <uighur>senad</uighur>
+      <transcript>SENAD</transcript>
+      <definition>[fr. R. сенат]</definition>
+      <page>688</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠠᠨᠠᠲ ᠶᠠᠮᠤᠨ</unicode>
+          <transcript>-- jamun</transcript>
+          <definition> Senate (obs.)</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠧᠨᠠᠲ᠋</unicode>
+      <cyrillic>сенат</cyrillic>
+      <definition>〔名〕①参议院，上议院；②（古罗马的）元老院.</definition>
+      <page>925</page>
+    </entry_item>
+  </entries>
+</entry>

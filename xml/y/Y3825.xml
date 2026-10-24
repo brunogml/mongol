@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3825">
+  <head>
+    <unicode>ᠶᠣᠨᠳᠣᠶᠢᠯᠭᠠᠬᠣ</unicode>
+    <transcript>yonduyilγaqu</transcript>
+    <transcript2>yondoyilgago</transcript2>
+    <cyrillic>ёндойлгох</cyrillic>
+  </head>
+  <see_also>
+    <ref>Y3824</ref>
+    <ref>Y3826</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠣᠨᠳᠣᠢᠯᠭᠠᠬᠤ</unicode>
+      <cyrillic>ёндойлгох</cyrillic>
+      <definition>〔动〕ёндойх 的使动态.</definition>
+      <page>491</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠣᠨᠳᠣᠶᠢᠯᠭᠠᠬᠣ</unicode>
+      <cyrillic>ЁНДОЙЛГОХ</cyrillic>
+      <definition>ёндойх-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠣᠨᠳᠣᠢᠯᠭᠠᠬᠤ</unicode>
+      <cyrillic>ёндойлгох</cyrillic>
+      <definition>ёндойхын үйлдүүлэх хэв, ёндгор болгох.</definition>
+      <page>236</page>
+    </entry_item>
+  </entries>
+</entry>

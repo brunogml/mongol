@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B2989">
+  <head>
+    <unicode>ᠪᠣᠳᠠᠩ</unicode>
+    <transcript>budang</transcript>
+    <transcript2>bodang</transcript2>
+    <cyrillic>будан</cyrillic>
+  </head>
+  <see_also>
+    <ref>B3069</ref>
+  </see_also>
+  <derivatives>
+    <ref>B2990</ref>
+    <ref>B2991</ref>
+    <ref>B2992</ref>
+    <ref>B2993</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠣᠳᠠᠩ</unicode>
+      <uighur>budang</uighur>
+      <cyrillic>будан(г)</cyrillic>
+      <transcript>BUDANG</transcript>
+      <definition>n. Fog, mist. haze.</definition>
+      <page>129</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠣᠳᠠᠩ ᠠᠷᠢᠯᠪᠠ</unicode>
+          <transcript>-- arilba</transcript>
+          <definition>The fog has dispersed.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠣᠳᠠᠩ ᠰᠡᠺᠦᠺᠦ</unicode>
+          <transcript>-- sekyky</transcript>
+          <definition>The fog lifts.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠣᠳᠠᠩ ᠲᠠᠲᠠᠬᠤ</unicode>
+          <transcript>-- tataxu</transcript>
+          <definition>To be[come] foggy.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠣᠳᠠᠩ ᠲᠤᠨᠤᠪᠠ</unicode>
+          <transcript>-- tunuba,</transcript>
+          <definition>The fog has settled</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠤᠳᠠᠩ</unicode>
+      <definition>brouillard, vapeur épaisse dans l'air</definition>
+      <page>1174</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠤᠳᠠᠩ ᠠᠷᠢᠯᠤᠭᠰᠠᠨ</unicode>
+          <definition>le brouillard se dissipe</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠤᠳᠠᠩ ᠣᠨᠠᠮᠤᠢ</unicode>
+          <definition>le brouillard est tombé</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠤᠳᠠᠩ ᠰᠡᠭᠦᠪᠡ</unicode>
+          <definition>le brouillard s'est dissipé</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠤᠳᠠᠩ ᠲᠡᠩᠵᠢᠪᠡ</unicode>
+          <definition>le brouillard a monté</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠤᠳᠠᠩ ᠲᠣᠨᠤᠪᠠ</unicode>
+          <definition>le brouillard est tombé</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠪᠣᠳᠠᠩ</unicode>
+      <uighur>budang</uighur>
+      <definition>der Nebel</definition>
+      <page>117</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠪᠣᠳᠠᠩ</unicode>
+      <uighur>butang</uighur>
+      <definition>n. Fog. Mist</definition>
+      <page>465</page>
+      <examples>
+        <example>
+          <uighur>butang unaqu</uighur>
+          <definition>The descending of fog.</definition>
+        </example>
+        <example>
+          <uighur>butang dengǰikü</uighur>
+          <definition>The rising or lifting of fog or mist.</definition>
+        </example>
+        <example>
+          <uighur>butang donuqu</uighur>
+          <definition>The dispersing or disappearing of mist or fog.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠳᠠᠩ</unicode>
+      <cyrillic>будан</cyrillic>
+      <definition>усны уур хуралдсаны улмаас агаарын хий дээд талаараа тунгалаг, доод талаараа бүдэг бүрхэг болох.</definition>
+      <page>103</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>будан[г]</cyrillic>
+      <definition>leichter Nebel; ~ татаж байна leichter Nebel zieht auf</definition>
+      <page>60</page>
+    </entry_item>
+  </entries>
+</entry>

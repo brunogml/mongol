@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3520">
+  <head>
+    <unicode>ᠰᠢᠪᠠᠺᠠᠰᠥᠯᠠᠺᠥ</unicode>
+    <transcript>sibegesülekü</transcript>
+    <transcript2>sibegesölegö</transcript2>
+    <cyrillic>шивээслэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3521</ref>
+    <ref>S3519</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠪᠡᠭᠡᠰᠦᠯᠡᠬᠦ</unicode>
+      <cyrillic>шивээслэх</cyrillic>
+      <definition>〔动〕刺穿，扎孔，扎眼；文身.</definition>
+      <page>1629</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠪᠠᠺᠠᠰᠥᠯᠠᠺᠥ</unicode>
+      <cyrillic>ШИВЭЭСЛЭХ</cyrillic>
+      <definition>1) прокалывать; 2) татуировать, клеймить, таврить. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠪᠡᠭᠡᠰᠦᠯᠡᠬᠦ</unicode>
+      <cyrillic>шивээслэх</cyrillic>
+      <definition>шивэх, шивээс гаргах.</definition>
+      <page>843</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q6490">
+  <head>
+    <unicode>ᠬᠣᠶᠢᠨᠠᠳᠠᠬᠣ</unicode>
+    <transcript>qoyinadaqu</transcript>
+    <transcript2>goyinadago</transcript2>
+    <cyrillic>хойнодох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q6491</ref>
+    <ref>Q6492</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠣᠢᠨᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>хойнодох</cyrillic>
+      <definition>〔动〕①在北方，在北部；在后面；②太靠北；太靠后，过于往后.</definition>
+      <page>1350</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠶᠢᠨᠠᠳᠠᠬᠣ</unicode>
+      <cyrillic>ХОЙНОДОХ</cyrillic>
+      <definition>1) быть севернее чем нужно, быть далеко на севере; 2) быть слишком далеко сзади, позади. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хойнодох</cyrillic>
+      <definition>1. zu [weit] nördlich sein
+2. zu weit hinten sein</definition>
+      <page>306</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠢᠨᠠᠳᠠᠬᠤ</unicode>
+      <cyrillic>хойнодох</cyrillic>
+      <definition>хэтэрхий хойно болох.</definition>
+      <page>684</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q6486</ref>
+  </related_to>
+</entry>

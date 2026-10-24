@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q6885">
+  <head>
+    <unicode>ᠬᠣᠷᠢᠯ</unicode>
+    <transcript>qoril</transcript>
+    <transcript2>goril</transcript2>
+    <cyrillic>хорил</cyrillic>
+  </head><derivatives>
+    <ref>Q6855</ref>
+  </derivatives><see_also>
+    <ref>Q6884</ref>
+  
+    <ref>Q6886</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠷᠢᠯ</unicode>
+      <cyrillic>ХОРИЛ</cyrillic>
+      <definition>запрещение, запрет, удерживание от чего-л. нежелательного. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠷᠢᠯ</unicode>
+      <cyrillic>ХОРИЛГҮЙ</cyrillic>
+      <definition>не запрещая; не возбраняя. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

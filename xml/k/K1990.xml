@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1990">
+  <head>
+    <unicode>ᠺᠢᠳᠣᠯᠳᠣᠬᠣ</unicode>
+    <transcript>kidulduqu</transcript>
+    <transcript2>gidoldogo</transcript2>
+    <cyrillic>хядалдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K1991</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠢᠳᠤᠯᠳᠤᠬᠤ</unicode>
+      <cyrillic>хядалдах</cyrillic>
+      <definition>〔动〕хядах 的互动态；互相残杀，互相杀戮.</definition>
+      <page>1498</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠳᠣᠯᠳᠣᠬᠣ</unicode>
+      <cyrillic>ХЯДАЛДАХ</cyrillic>
+      <definition>хядах-ын үйлдэлд., убивать, истреблять друг друга. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хядалдах</cyrillic>
+      <definition>(Rez von хядах) einander töten, sich gegenseitig niedermetzeln</definition>
+      <page>347</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠢᠳᠤᠯᠳᠤᠬᠤ</unicode>
+      <cyrillic>хядалдах</cyrillic>
+      <definition>хядахын үйлдэлдэх хэв.</definition>
+      <page>770</page>
+    </entry_item>
+  </entries>
+</entry>

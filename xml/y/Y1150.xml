@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y1150">
+  <head>
+    <unicode>ᠶᠠᠯᠢ</unicode>
+    <transcript>yali</transcript>
+    <transcript2>yali</transcript2>
+    <cyrillic>яли</cyrillic>
+  </head><see_also>
+    <ref>Y1149</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠶᠠᠯᠢ</unicode>
+      <uighur>yali</uighur>
+      <cyrillic>яли</cyrillic>
+      <transcript>JALI</transcript>
+      <page>426</page>
+      <examples>
+        <example>
+          <unicode>ᠶᠠᠯᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Unimportant, insignificant, trifling.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠠᠯᠢ</unicode>
+      <cyrillic>ЯЛЬГҮЙ</cyrillic>
+      <definition>незначительный, маловажный, ничтожный, не стоящий; яльгүй зүйлээр оролдох заниматься пустяками. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="E0291">
+  <head>
+    <unicode>ᠡᠪᠦᠦ</unicode>
+    <transcript>ebüü</transcript>
+    <transcript2>eböö</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠡᠪᠥᠥ</unicode>
+      <uighur>ebüü</uighur>
+      <transcript>EBYY</transcript>
+      <definition>See ebei.</definition>
+      <page>291</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠡᠪᠦᠦ</unicode>
+      <definition>interj. ah! hélas</definition>
+      <page>180</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠪᠦᠦ ᠪᠡᠷᠡᠮ ᠡᠮᠡᠺᠡᠨ</unicode>
+          <definition>ah, pauvre vieille.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

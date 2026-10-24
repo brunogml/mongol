@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0072">
+  <head>
+    <unicode>ᠪᠠᠩᠬᠣᠭᠠᠷ</unicode>
+    <transcript>bangquγar</transcript>
+    <transcript2>banggogar</transcript2>
+    <cyrillic>банхгар</cyrillic>
+  </head>
+  <see_also>
+    <ref>B0073</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠩᠬᠣᠭᠠᠷ</unicode>
+      <cyrillic>БАНХГАР</cyrillic>
+      <definition>банхар-ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠩᠬᠤᠭᠠᠷ</unicode>
+      <cyrillic>банхгар</cyrillic>
+      <definition>банхар.</definition>
+      <page>73</page>
+    </entry_item>
+  </entries>
+</entry>

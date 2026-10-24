@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K3030">
+  <head>
+    <unicode>ᠺᠥᠨᠳᠡᠺᠥᠷᠳᠡᠺᠥ</unicode>
+    <transcript>köndegürdekü</transcript>
+    <transcript2>göndegördegö</transcript2>
+    <cyrillic>хөндүүрдэх</cyrillic>
+  </head><derivatives>
+    <ref>K3031</ref>
+  
+    <ref>K3029</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠨᠳᠡᠭᠦᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>хөндүүрдэх</cyrillic>
+      <definition>〔动〕强烈地隐痛，强烈地疼痛.</definition>
+      <page>1402</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠨᠳᠡᠺᠥᠷᠳᠡᠺᠥ</unicode>
+      <cyrillic>ХӨНДҮҮРДЭХ</cyrillic>
+      <definition>быть очень болезненным при нажиме. </definition>
+      <page>0</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>хөндүүрдэх</cyrillic>
+    <definition>zu empfindlich od zu reizbar sein</definition>
+    <page>320</page>
+  </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1100">
+  <head>
+    <unicode>ᠴᠠᠵᠠᠶᠢᠺᠥ</unicode>
+    <transcript>čeǰeyikü</transcript>
+    <transcript2>ceceyigö</transcript2>
+    <cyrillic>цэзийх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1099</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠵᠡᠢᠬᠦ</unicode>
+      <cyrillic>цэзийх</cyrillic>
+      <definition>〔动〕变矮胖，变小而肥.</definition>
+      <page>1562</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠵᠠᠶᠢᠺᠥ</unicode>
+      <cyrillic>ЦЭЗИЙХ</cyrillic>
+      <definition>цэдийх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цэзийх</cyrillic>
+      <definition>rundlich od korpulent werden</definition>
+      <page>364</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠵᠡᠢᠬᠦ</unicode>
+      <cyrillic>цэзийх</cyrillic>
+      <definition>цэзгэр болох.</definition>
+      <page>805</page>
+    </entry_item>
+  </entries>
+</entry>

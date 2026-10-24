@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0503">
+  <head>
+    <unicode>ᠪᠠᠪᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>babaγanaqu</transcript>
+    <transcript2>babaganago</transcript2>
+    <cyrillic>бавганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0504</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠪᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>бавганах</cyrillic>
+      <definition>〔动〕参见 бавалзах.</definition>
+      <page>104</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠪᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>БАВГАНАХ</cyrillic>
+      <definition>трясти лохмами, коcмами; бавнах-ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бавганах</cyrillic>
+      <definition>= бавалзах</definition>
+      <page>40</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠪᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>бавганах</cyrillic>
+      <definition>бавгар юмны бавга бавга хийх.</definition>
+      <page>63</page>
+    </entry_item>
+  </entries>
+</entry>

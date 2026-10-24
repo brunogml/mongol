@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0444">
+  <head>
+    <unicode>ᠫᠠᠬᠲᠠᠶᠢᠬᠣ</unicode>
+    <transcript>paγtayiqu</transcript>
+    <transcript2>pagdayigo</transcript2>
+    <cyrillic>пагдайх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B0446</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠫᠠᠭᠳᠠᠢᠬᠤ</unicode>
+      <cyrillic>пагдайх</cyrillic>
+      <definition>〔动〕变矮小，变短小.</definition>
+      <page>870</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠫᠠᠬᠲᠠᠶᠢᠬᠣ</unicode>
+      <cyrillic>ПАГДАЙХ</cyrillic>
+      <definition>становљться приземистым. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠫᠠᠭᠳᠠᠢᠬᠤ</unicode>
+      <cyrillic>пагдайх</cyrillic>
+      <definition>пагдгар болох.</definition>
+      <page>450</page>
+    </entry_item>
+  </entries>
+</entry>

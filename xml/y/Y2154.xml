@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y2154">
+  <head>
+    <unicode>ᠵᠡᠺᠡᠲᠥᠥᠳᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ǰeketüüdegülkü</transcript>
+    <transcript2>yegedöödegölgö</transcript2>
+    <cyrillic>зээтүүдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y2153</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠡᠭᠡᠲᠦᠦᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>зээтүүдүүлэх</cyrillic>
+      <definition>〔动〕зээтүүдэх 的使动态.</definition>
+      <page>600</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠡᠺᠡᠲᠥᠥᠳᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ЗЭЭТҮҮДҮҮЛЭХ</cyrillic>
+      <definition>зээтүүдэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠡᠭᠡᠲᠦᠦᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>зээтүүдүүлэх</cyrillic>
+      <definition>зээтүүдэхийн үйлдүүлэх хэв.</definition>
+      <page>298</page>
+    </entry_item>
+  </entries>
+</entry>

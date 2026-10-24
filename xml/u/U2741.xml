@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="U2741">
+  <head>
+    <unicode>ᠣᠷᠣᠭᠣᠯᠰᠢᠬᠣ</unicode>
+    <transcript>uruγulsiqu</transcript>
+    <transcript2>orogolsigo</transcript2>
+    <cyrillic>уруулших</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠷᠤᠭᠤᠯᠰᠢᠬᠤ</unicode>
+      <cyrillic>уруулших</cyrillic>
+      <definition>〔动〕〈语〉唇化：уруулшсан авиа 唇化音.</definition>
+      <page>1204</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠷᠣᠭᠣᠯᠰᠢᠬᠣ</unicode>
+      <cyrillic>УРУУЛШИХ</cyrillic>
+      <definition>огубление, лабиализация; уруулшин татагдах ёс хэл.шинж. лабиализация. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠷᠣᠭᠣᠯᠰᠢᠬᠣ</unicode>
+      <cyrillic>УРУУЛШСАН</cyrillic>
+      <definition>огубленный, лабиализованный; уруулшсан авиа огубленный звук, лабиализованный звук; уруулшсан гийгүүлэгч лабиализованный согласный; уруулшсан эгшиг лабиализованный гласный, огубленный гласный. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+<related_to><ref>U2731</ref></related_to><derivatives><ref>U2742</ref><ref>U2743</ref></derivatives></entry>

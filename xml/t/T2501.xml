@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2501">
+  <head>
+    <unicode>ᠲᠠᠶᠢᠯᠣᠯ</unicode>
+    <transcript>tayilul</transcript>
+    <transcript2>dayilol</transcript2>
+    <cyrillic>тайлал</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T2500</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠶᠢᠯᠣᠯ</unicode>
+      <cyrillic>ТАЙЛАЛ</cyrillic>
+      <definition>1) интерпретация; разъяснение; толкование, растолкование; объяснение; туужийн үйл явдлын тайлал развязка сюжета повести; үгийн сүлжээний тайлал интерпретация кроссворда; хадны бичээсийн тайлал расшифровка наскальных надписей; 2) отгадывание. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠶᠢᠯᠣᠯ</unicode>
+      <cyrillic>ТАЙЛАЛГҮЙ</cyrillic>
+      <definition>1) не развязывая; не снимая (одежду); 2) не разъясняя. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тайлал</cyrillic>
+      <definition>Lösung f, Entschlüsselung f, Dechiffrierung f, Dekodierung f</definition>
+      <page>216</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠢᠯᠤᠯ</unicode>
+      <cyrillic>тайлал</cyrillic>
+      <definition>тайлах үйлийн нэр; оньсгын тайлал; үгийн сүлжээний тайлал.</definition>
+      <page>515</page>
+    </entry_item>
+  </entries>
+</entry>

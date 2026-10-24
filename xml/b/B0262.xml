@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B0262">
+  <head>
+    <unicode>ᠪᠠᠭᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>baγaraγulqu</transcript>
+    <transcript2>bagaragolgo</transcript2>
+    <cyrillic>бааруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B0261</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠭᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бааруулах</cyrillic>
+      <definition>〔动〕баарах 的使动态.</definition>
+      <page>102</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠭᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БААРУУЛАХ</cyrillic>
+      <definition>баарах-ын үйлдүүл, 1. осекаться; 2. осечка.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠭᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бааруулах</cyrillic>
+      <definition>1. баарахын үйлдүүлэх хэв;2. сааруулах, хойшлуулах.</definition>
+      <page>62</page>
+    </entry_item>
+  </entries>
+</entry>

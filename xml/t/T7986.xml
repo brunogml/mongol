@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7986">
+  <head>
+    <unicode>ᠲᠣᠷᠮᠣᠴᠯᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>tormučlaγdaqu</transcript>
+    <transcript2>dormoclagdago</transcript2>
+    <cyrillic>тормозлогдох</cyrillic>
+  </head>
+  <related_to>
+    <ref>T7984</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠷᠮᠣᠵᠠᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>тормозлогдох</cyrillic>
+      <definition>〔动〕参见 тоормослогдох.</definition>
+      <page>1082</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠷᠮᠣᠴᠯᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ТОРМОЗЛОГДОХ</cyrillic>
+      <definition>тормозлох-ын үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠷᠮᠣᠵᠠᠯᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>тормозлогдох</cyrillic>
+      <definition>тоормослогдох.</definition>
+      <page>544</page>
+    </entry_item>
+  </entries>
+</entry>

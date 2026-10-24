@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T0905">
+  <head>
+    <unicode>ᠳᠠᠬᠵᠢᠬᠣ</unicode>
+    <transcript>daqǰiqu</transcript>
+    <transcript2>dagcigo</transcript2>
+    <cyrillic>дагжих</cyrillic>
+  </head><derivatives>
+    <ref>T0910</ref>
+  </derivatives><see_also>
+    <ref>T0908</ref>
+  
+    <ref>T0907</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠠᠬᠵᠢᠬᠣ</unicode>
+      <uighur>daqǰiqu</uighur>
+      <cyrillic>дагжих</cyrillic>
+      <transcript>DAΓZI-</transcript>
+      <definition>v.t. To tremble, quiver, shake ; to chatter, rattle</definition>
+      <page>221</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠶᠤᠵᠤ ᠳᠠᠬᠵᠢᠬᠣ</unicode>
+          <transcript>ajuzu --xu</transcript>
+          <definition> To tremble with fear.</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠠᠭᠠᠷᠠᠵᠤ ᠳᠠᠬᠵᠢᠬᠣ</unicode>
+          <transcript>daγarazu --xu</transcript>
+          <definition> To tremble with cold.</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠢᠳᠦ ᠳᠠᠬᠵᠢᠬᠣ</unicode>
+          <transcript>sidy –xu </transcript>
+          <definition>For the teeth to chatter</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠬᠵᠢᠬᠤ</unicode>
+      <definition>trembler, frémir</definition>
+      <page>1663</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠳᠠᠬᠵᠢᠬᠣ</unicode>
+      <uighur>daqǰiqu</uighur>
+      <definition>zittern , beben; klappern (vor Frost oder Furcht},</definition>
+      <page>268</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠳᠠᠬᠵᠢᠬᠣ</unicode>
+      <uighur>daqǰiqu</uighur>
+      <definition>v.i. To shiver, to shake (from cold)</definition>
+      <page>1069</page>
+    </entry_item>
+  </entries>
+</entry>

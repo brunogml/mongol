@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q6015">
+  <head>
+    <unicode>ᠬᠣᠮᠣᠬᠠᠶᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>qomuqayiraγulqu</transcript>
+    <transcript2>gomogayiragolgo</transcript2>
+    <cyrillic>хомхойруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q6014</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠣᠮᠣᠬᠠᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хомхойруулах</cyrillic>
+      <definition>〔动〕хомхойрох 的使动态.</definition>
+      <page>1360</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠣᠮᠣᠬᠠᠶᠢᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХОМХОЙРУУЛАХ</cyrillic>
+      <definition>хомхойрох-ын үйлдүүл., вызывать волчий голод. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хомхойруулах</cyrillic>
+      <definition>Kaus von хомхойрох</definition>
+      <page>309</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠣᠮᠣᠬᠠᠢᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>хомхойруулах</cyrillic>
+      <definition>хомхойрохын үйлдүүлэх хэв.</definition>
+      <page>689</page>
+    </entry_item>
+  </entries>
+</entry>

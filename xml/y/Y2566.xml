@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Y2566">
+  <head>
+    <unicode>ᠵᠢᠭᠠᠲᠣᠨᠠᠬᠣ</unicode>
+    <transcript>ǰiγatunaqu</transcript>
+    <transcript2>yigadonago</transcript2>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠢᠭᠠᠲᠣᠨᠠᠬᠣ</unicode>
+      <uighur>ǰiγadonaqu</uighur>
+      <transcript>ZIΓATUNA-</transcript>
+      <definition>Same as zaγatuna-.</definition>
+      <page>1050</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠢᠭᠠᠳᠣᠨᠠᠬᠤ ~ ᠵᠠᠭᠠᠳᠣᠨᠠᠬᠤ</unicode>
+      <definition>avoir une démangeaison, démanger.</definition>
+      <page>2332</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠯᠠᠭᠤᠴᠠᠨ ᠵᠢᠭᠠᠲᠤᠨᠠᠬᠤ</unicode>
+          <definition>être épuisé ou étouffé par la chaleur</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

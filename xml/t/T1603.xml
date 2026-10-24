@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T1603">
+  <head>
+    <unicode>ᠲᠠᠲᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>tataraγulqu</transcript>
+    <transcript2>dadaragolgo</transcript2>
+    <cyrillic>татруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T1602</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠲᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>татруулах</cyrillic>
+      <definition>〔动〕татрах 的使动态.</definition>
+      <page>1040</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠲᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТАТРУУЛАХ</cyrillic>
+      <definition>татрах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>татруулах</cyrillic>
+      <definition>Kaus von татрах</definition>
+      <page>223</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠲᠠᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>татруулах</cyrillic>
+      <definition>татрахын үйлдүүлэх хэв.</definition>
+      <page>527</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1690">
+  <head>
+    <unicode>ᠴᠢᠪᠳᠠᠬᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čibdaqraγulqu</transcript>
+    <transcript2>cibdagragolgo</transcript2>
+    <cyrillic>чавдагруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C1689</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠪᠳᠠᠭᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>чавдагруулах</cyrillic>
+      <definition>〔动〕чавдаграх 的使动态.</definition>
+      <page>1572</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠪᠳᠠᠬᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЧАВДАГРУУЛАХ</cyrillic>
+      <definition>чавдаграх-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠪᠳᠠᠭᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>чавдагруулах</cyrillic>
+      <definition>чавдаграхын үйлдүүлэх хэв.</definition>
+      <page>810</page>
+    </entry_item>
+  </entries>
+</entry>

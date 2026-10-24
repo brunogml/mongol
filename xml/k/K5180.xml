@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K5180">
+  <head>
+    <unicode>ᠺᠥᠷᠮᠡᠺ</unicode>
+    <transcript>körmeg</transcript>
+    <transcript2>görmeg</transcript2>
+    <cyrillic>хөрмөг</cyrillic>
+  </head>
+  <see_also>
+    <ref>K5179</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠷᠮᠡᠭ</unicode>
+      <cyrillic>хөрмөг</cyrillic>
+      <definition>〔名〕（落在地上的）树叶，落叶层.</definition>
+      <page>1408</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠷᠮᠡᠺ</unicode>
+      <cyrillic>ХӨРМӨГ</cyrillic>
+      <definition>слой опавших листьев на почве. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠷᠮᠡᠭ</unicode>
+      <cyrillic>хөрмөг</cyrillic>
+      <definition>модны навч намар цаг зулгарч газарт дэвсэн унасны нь; цэцэрлэгийн улиасны хөрмөг маш зузаан болжээ.</definition>
+      <page>716</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B1410">
+  <head>
+    <unicode>ᠪᠠᠷᠢᠬᠳᠠᠰᠢ</unicode>
+    <transcript>bariγdasi</transcript>
+    <transcript2>barigdasi</transcript2>
+    <cyrillic>баригдаш</cyrillic>
+  </head>
+  <related_to>
+    <ref>B1422</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠠᠷᠢᠬᠳᠠᠰᠢ</unicode>
+      <uighur>bariqdasi</uighur>
+      <cyrillic>баригдаш</cyrillic>
+      <transcript>BARIГDASI</transcript>
+      <page>86</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠠᠷᠢᠬᠳᠠᠰᠢ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition>Unseizable.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠷᠢᠬᠳᠠᠰᠢ</unicode>
+      <cyrillic>БАРИГДАШГҮЙ</cyrillic>
+      <definition>неуловимый.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠷᠢᠭᠳᠠᠰᠢ᠎ᠦᠭᠡᠢ</unicode>
+      <cyrillic>баригдашгүй</cyrillic>
+      <definition>〔动〕①抓不住的，不可捉摸的；②洒脱的，放荡不羁的.</definition>
+      <page>134</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>баригдашгүй</cyrillic>
+      <definition>nicht zu ergreifen, nicht einzufangen</definition>
+      <page>47</page>
+    </entry_item>
+  </entries>
+</entry>

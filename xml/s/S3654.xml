@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3654">
+  <head>
+    <unicode>ᠰᠢᠪᠲᠣᠴᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>sibtučiγulqu</transcript>
+    <transcript2>sibdocigolgo</transcript2>
+    <cyrillic>шувтчуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S3653</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠪᠲᠤᠴᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шувтчуулах</cyrillic>
+      <definition>〔动〕шувтчих 的使动态.</definition>
+      <page>1656</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠪᠲᠣᠴᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШУВТЧУУЛАХ</cyrillic>
+      <definition>шувтчих I-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠪᠲᠤᠴᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шувтчуулах</cyrillic>
+      <definition>шувтчихын үйлдүүлэх хэв.</definition>
+      <page>857</page>
+    </entry_item>
+  </entries>
+</entry>

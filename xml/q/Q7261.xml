@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q7261">
+  <head>
+    <unicode>ᠭᠣᠷᠮᠣᠰᠣᠯᠠᠬᠣ</unicode>
+    <transcript>γurmusulaqu</transcript>
+    <transcript2>gormosolago</transcript2>
+    <cyrillic>гурамслах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q7262</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q7147</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠭᠣᠷᠮᠣᠰᠣᠯᠠᠬᠣ</unicode>
+      <uighur>γurmusulaqu</uighur>
+      <cyrillic>гурамслах</cyrillic>
+      <transcript>ΓURMUSULA-</transcript>
+      <definition>[=γurbamusula-] v, t. To triple, twist three threads together.</definition>
+      <page>369</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠣᠷᠮᠣᠰᠣᠯᠠᠵᠤ ᠲᠠᠮᠤᠬᠤ</unicode>
+          <transcript>--zu tamuxu,</transcript>
+          <definition> To splice three strands.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠤᠷᠮᠣᠰᠣᠯᠠᠬᠤ</unicode>
+      <definition>tripler, tordre trois fils ensemble</definition>
+      <page>1042</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠤᠷᠮᠣᠰᠣᠯᠠᠵᠤ ᠳᠣᠮᠤᠬᠤ</unicode>
+          <definition>tordre trois fils ensemble</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠭᠣᠷᠮᠣᠰᠣᠯᠠᠬᠣ</unicode>
+      <uighur>γurmosolaqu</uighur>
+      <definition>etwas dreifach behandeln oder machen</definition>
+      <page>205</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠭᠣᠷᠮᠣᠰᠣᠯᠠᠬᠣ</unicode>
+      <uighur>γurmosolaqu</uighur>
+      <definition>To treble something</definition>
+      <page>808</page>
+      <examples>
+        <example>
+          <uighur>γurmosolaǰu domuqu</uighur>
+          <definition>To twist threefold.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠤᠷᠮᠤᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>гурамслах</cyrillic>
+      <definition>〔动〕合三为一，将三股拧在一起.</definition>
+      <page>330</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠷᠮᠣᠰᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ГУРМАСЛАХ</cyrillic>
+      <definition>вить верёвку из трёх прядей; сучить в три нитки; утроить, сделать тройным (напр. верёвку). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠤᠷᠮᠤᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>гурамслах</cyrillic>
+      <definition>юмыг гурамсан болгох.</definition>
+      <page>160</page>
+    </entry_item>
+  </entries>
+</entry>

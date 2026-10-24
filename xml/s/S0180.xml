@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0180">
+  <head>
+    <unicode>ᠰᠠᠨᠵᠢᠯᠵᠠᠬᠣ</unicode>
+    <transcript>sanǰilǰaqu</transcript>
+    <transcript2>sancilcago</transcript2>
+    <cyrillic>санжилзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S0181</ref>
+    <ref>S0182</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠨᠵᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>санжилзах</cyrillic>
+      <definition>〔动〕参见 санжганах.</definition>
+      <page>913</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠨᠵᠢᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>САНЖИЛЗАХ</cyrillic>
+      <definition>санжганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>санжилзах</cyrillic>
+      <definition>= санжганах</definition>
+      <page>195</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠨᠵᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>санжилзах</cyrillic>
+      <definition>унжин санжин хөдлөх.</definition>
+      <page>469</page>
+    </entry_item>
+  </entries>
+</entry>

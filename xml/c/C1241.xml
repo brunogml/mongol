@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1241">
+  <head>
+    <unicode>ᠴᠠᠺᠴᠠᠯᠠᠺᠥ</unicode>
+    <transcript>čegčelekü</transcript>
+    <transcript2>cegcelegö</transcript2>
+    <cyrillic>цэгцлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1242</ref>
+    <ref>C1243</ref>
+    <ref>C1240</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠺᠴᠠᠯᠠᠺᠥ</unicode>
+      <uighur>čegčelekü</uighur>
+      <cyrillic>цэгцлэх</cyrillic>
+      <transcript>CEGCELE-</transcript>
+      <definition>v. t, To put in order.</definition>
+      <page>169</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠠᠺᠴᠠᠯᠠᠨ ᠭᠦᠢᠴᠡᠳᠺᠡᠺᠦ</unicode>
+          <transcript>-n gyicedkeky</transcript>
+          <definition> To put in order.</definition>
+        </example>
+        <example>
+          <unicode>ᠴᠠᠺᠴᠠᠯᠠᠨ ᠵᠠᠰᠠᠬᠤ</unicode>
+          <transcript>--n zasaxu</transcript>
+          <definition> To put in order.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠭᠴᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>цэгцлэх</cyrillic>
+      <definition>〔动〕整顿，整理，调整：стилийг ~ 整风；гэрээ ~ 整理屋子；~н механикжуулах 全盘机械化；~ бүдүүвч 分类示意图.</definition>
+      <page>1561</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠺᠴᠠᠯᠠᠺᠥ</unicode>
+      <cyrillic>ЦЭГЦЛЭХ</cyrillic>
+      <definition>1. упорядочивать, приводить в порядок что-л.; перебирать; систематизировать; гэрээ цэгцлэх приводить квартиру (үгчил. юрту) в порядок; хэрэг цэгцлэх наладить дело; шүүгээн дэх номыг цэгцлэх прибрать книги в шкафу; эмхлэн цэгцлэх систематизировать; цэгцлэн гүйцэтгэх наводить порядок; цэгцлэн засах исправлять, приводить в порядок; үсээ цэгцэлж засах уложить волосы; 2. цэгцлэхүй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠺᠴᠠᠯᠠᠺᠥ</unicode>
+      <cyrillic>ЦЭГЦЛЭХҮЙ</cyrillic>
+      <definition>упорядочивание, систематизирование; переборка. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цэгцлэх</cyrillic>
+      <definition>ordnen, regeln, systematisieren</definition>
+      <page>363</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠭᠴᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>цэгцлэх</cyrillic>
+      <definition>юмыг цэгцтэй журамтай, эмхтэй болгох, цэгцтэй болгох; хураалттай номоо цэгцлэх.</definition>
+      <page>805</page>
+    </entry_item>
+  </entries>
+</entry>

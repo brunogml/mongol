@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1935">
+  <head>
+    <unicode>ᠭᠠᠯᠢᠬᠯᠠᠬᠣ</unicode>
+    <transcript>γaliγlaqu</transcript>
+    <transcript2>galiglago</transcript2>
+    <cyrillic>галиглах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q1936</ref>
+    <ref>Q1938</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠠᠯᠢᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>галиглах</cyrillic>
+      <definition>〔动〕〈语〉写成音标，标音标，注音标.</definition>
+      <page>273</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠯᠢᠬᠯᠠᠬᠣ</unicode>
+      <cyrillic>ГАЛИГЛАХ</cyrillic>
+      <definition>1. транскрибироваться; харь хүний нэрийг галиглах транскрибировать иностранную фамилию; 2. галиглахуй-г үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠯᠢᠬᠯᠠᠬᠣ</unicode>
+      <cyrillic>ГАЛИГЛАХУЙ</cyrillic>
+      <definition>транскрипция, транслитерация; транскрибирование; герег үсгийг латин үсгээр галиглахуй транскрипция греческих букв латинскими буквами. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>галиглах,</cyrillic>
+      <definition>галигчилах transkribieren</definition>
+      <page>73</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠠᠯᠢᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>галиглах</cyrillic>
+      <definition>галиг болгох.</definition>
+      <page>135</page>
+    </entry_item>
+  </entries>
+</entry>

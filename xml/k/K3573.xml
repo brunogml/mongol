@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K3573">
+  <head>
+    <unicode>ᠺᠥᠪᠴᠢᠳᠡᠺᠥ</unicode>
+    <transcript>köbčidekü</transcript>
+    <transcript2>göbcidegö</transcript2>
+    <cyrillic>хөвчдөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K3574</ref>
+    <ref>K3572</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠥᠪᠴᠢᠳᠡᠺᠥ</unicode>
+      <uighur>köbčidekü</uighur>
+      <cyrillic>хөвчдөх</cyrillic>
+      <transcript>KØBCIDE-</transcript>
+      <definition>V. t. To draw a bow-string; , to fluff cotton with a special bow; to strangle</definition>
+      <page>475</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠥᠪᠴᠢᠳᠡᠨ ᠠᠯᠠᠬᠤ</unicode>
+          <transcript>--n alaxu</transcript>
+          <definition>To strangle, execute by strangulation</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠦᠪᠴᠢᠳᠡᠺᠦ</unicode>
+      <definition>1 carder (la laine, le coton): 
+
+2 battre ou pincer un instrument à corde: 
+
+3 tordre, corder: 
+
+4 étrangler qn.</definition>
+      <page>2581</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠥᠪᠴᠢᠳᠡᠨ ᠠᠯᠠᠬᠤ</unicode>
+          <definition>étrangler quelqu'un</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠺᠥᠪᠴᠢᠳᠡᠺᠥ</unicode>
+      <uighur>kübčidekü</uighur>
+      <definition>drehen, zusammendrehen ; stranguliren, hängen (einen VerLrecher).</definition>
+      <page>181</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠺᠥᠪᠴᠢᠳᠡᠺᠥ</unicode>
+      <uighur>kübčidekü</uighur>
+      <definition>To twist together. To hang a criminal. To draw a bow.</definition>
+      <page>707</page>
+      <examples>
+        <example>
+          <uighur>kübčiden alaqu</uighur>
+          <definition>To kill by wrapping a rope around the neck and twisting.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠪᠴᠢᠳᠡᠺᠥ</unicode>
+      <cyrillic>ХӨВЧДӨХ</cyrillic>
+      <definition>бить, разбивать, трепать тетивой (напр. шерсть, хлопок); † хөвчдөн алах түүх. удавить петлей.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хөвчдөх</cyrillic>
+      <definition>1. zu waldreich zu sein
+2. Wolle, Haar auflockern, mit einem Spezialkamm bearbeiten
+3.: хөвчлон алах alt strangulieren, erdrosseln</definition>
+      <page>316</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠪᠴᠢᠳᠡᠬᠦ</unicode>
+      <cyrillic>хөвчдөх /1</cyrillic>
+      <definition>хэтэрхий хөвч болох.</definition>
+      <page>703</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠪᠴᠢᠳᠡᠬᠦ</unicode>
+      <cyrillic>хөвчдөх /2</cyrillic>
+      <definition>хөвөн, ноос үс зэргийг нумны хөвчинд онуулан тавьж хөвчийг хөдөлгөн сэмчүүлж боловсруулах, унгас нумдах ч гэдэг; ноос хөвчдөх.</definition>
+      <page>703</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>K3570</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4718">
+  <head>
+    <unicode>ᠵᠣᠺᠢᠰᠲᠣ</unicode>
+    <transcript>ǰokistu</transcript>
+    <transcript2>yogisdo</transcript2>
+    <cyrillic>зохист</cyrillic>
+  </head>
+  <see_also>
+    <ref>Y4716</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠵᠣᠺᠢᠰᠲᠣ</unicode>
+      <uighur>ǰokisdu</uighur>
+      <cyrillic>зохист</cyrillic>
+      <transcript>ZOKISTU</transcript>
+      <definition>See zokistai.</definition>
+      <page>1069</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠣᠺᠢᠰᠲᠣ ᠰᠠᠯᠺᠢᠨ</unicode>
+          <transcript>-- salkin</transcript>
+          <definition>Favorable wind.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠵᠣᠺᠢᠰᠳᠠᠢ ~ ᠵᠣᠺᠢᠰᠳᠤ</unicode>
+      <definition>convenable. décent, bienséant ; conforme à l'ordre, à l'usage.</definition>
+      <page>2396</page>
+      <examples>
+        <example>
+          <unicode>ᠨᠣᠮ ᠳ᠋‍‍ᠤ‍ᠷ ᠵᠣᠺᠢᠰᠲᠤ ᠨᠥᠺᠦᠷ</unicode>
+          <definition>un compagnon pieux, religieux</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠣᠺᠢᠰᠲᠤ ᠠᠶᠠᠯᠭᠤ ᠎ᠶᠢᠨ ᠲᠣᠯᠢ</unicode>
+          <definition>le miroir de la langue pure</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠣᠺᠢᠰᠲᠤ ᠰᠡᠯᠺᠢᠨ</unicode>
+          <definition>un vent favorable</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠣᠺᠢᠰᠲᠤ ᠶᠠᠪᠤᠳᠠᠯᠲᠤ</unicode>
+          <definition>d'une bonne conduite</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠺᠢᠰᠲᠣ</unicode>
+      <cyrillic>ЗОХИСТ</cyrillic>
+      <definition>зохистой-г үз., байдал зохист намар цаг благодатная осенняя пора; зохист аялгууны толь хэл.шинж. зерцало соответствующей речи (название диалектологического словаря).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠣᠬᠢᠰᠲᠤ</unicode>
+      <cyrillic>зохист</cyrillic>
+      <definition>зохистой.</definition>
+      <page>277</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Y4709</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1902">
+  <head>
+    <unicode>ᠵᠡ</unicode>
+    <transcript>ǰe</transcript>
+    <transcript2>ye</transcript2>
+    <cyrillic>зээ</cyrillic>
+  </head>
+  <see_also>
+    <ref>Y3221</ref>
+    <ref>Y1901</ref>
+    <ref>Y1903</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠡ</unicode>
+      <cyrillic>ЗЭЭ</cyrillic>
+      <definition>I заа-г үз., зээ би мартахгүй ладно, я не забуду. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠧ</unicode>
+      <cyrillic>зээ /1</cyrillic>
+      <definition>бусдын хэлснийг хүлээн зөвшөөрөхөд хэрэглэх аялга үг; зээ мэдлээ; би мартахгүй.</definition>
+      <page>297</page>
+    </entry_item>
+  </entries>
+</entry>

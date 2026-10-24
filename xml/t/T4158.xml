@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T4158">
+  <head>
+    <unicode>ᠲᠠᠮᠳᠠᠺᠲᠠᠢ</unicode>
+    <transcript>temdegtei</transcript>
+    <transcript2>demdegdei</transcript2>
+    <cyrillic>тэмдэгтэй</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠮᠳᠠᠺᠲᠠᠢ</unicode>
+      <uighur>temdekdei</uighur>
+      <cyrillic>тэмдэгтэй</cyrillic>
+      <transcript>TEMDEGTEI</transcript>
+      <definition>[= temdeglelty] adj. Remarkable, significant, noteworthy.</definition>
+      <page>799</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠮᠳᠠᠺᠲᠠᠢ ᠡᠳᠦᠷ</unicode>
+          <transcript>-- edyr</transcript>
+          <definition> Significant or memorable day.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠡᠮᠳᠡᠺᠳᠡᠢ ~ ᠳᠡᠮᠳᠡᠺᠳᠦ</unicode>
+      <definition>avec un signe, avec une marque, marqué, signé, etc.</definition>
+      <page>1731</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠡᠮᠳᠡᠺᠳᠡᠢ᠎ᠡ</unicode>
+          <definition>distinctement, évidemment, clairement, visiblement</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠠᠮᠳᠠᠺᠲᠠᠢ</unicode>
+      <uighur>demdekdei</uighur>
+      <definition>bezeichnet, kenntlich</definition>
+      <page>243</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠮᠳᠠᠺᠲᠠᠢ</unicode>
+      <uighur>temdekdei</uighur>
+      <definition>adj. Marked. Labeled.</definition>
+      <page>961</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠡᠮᠳᠡᠭᠲᠡᠢ</unicode>
+      <cyrillic>тэмдэгтэй</cyrillic>
+      <definition>〔形〕参见 тэмдэгт.</definition>
+      <page>1154</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠮᠳᠠᠺᠲᠠᠢ</unicode>
+      <cyrillic>ТЭМДЭГТЭЙ</cyrillic>
+      <definition>тэмдэгт 1.-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тэмдэгтэй</cyrillic>
+      <definition>gezeichnet, markiert, mit Zeichen versehen</definition>
+      <page>248</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠡᠮᠳᠡᠭᠲᠡᠢ</unicode>
+      <cyrillic>тэмдэгтэй</cyrillic>
+      <definition>тэмдэг бүхий.</definition>
+      <page>575</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>T4156</ref>
+  </related_to>
+</entry>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="K0261">
+  <head>
+    <unicode>ᠺᠠᠨᠴᠢᠷ ᠠ</unicode>
+    <transcript>kenčir-e</transcript>
+    <transcript2>gencir-e</transcript2>
+    <cyrillic>хэнчир</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠠᠨᠴᠢᠷ᠎ᠡ</unicode>
+      <uighur>keečir-e</uighur>
+      <transcript>KENCIR-E</transcript>
+      <definition>n. Fault, error.</definition>
+      <page>453</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠠᠨᠴᠢᠷ᠎ᠡ ᠦᠭᠡᠢ</unicode>
+          <transcript>-- ygei</transcript>
+          <definition> Without fault, without defect.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠡᠨᠴᠢᠷ᠎ᠡ ᠦᠭᠡᠢ</unicode>
+      <definition>sans défaut, sans fautes, exactement</definition>
+      <page>2446</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠠᠨᠴᠢᠷ ᠠ</unicode>
+      <cyrillic>ХЭНЧИР</cyrillic>
+      <definition>: хэнчиргүй совершенно отличный, резко обособленный. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

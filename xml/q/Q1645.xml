@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1645">
+  <head>
+    <unicode>ᠬᠠᠲᠠᠮᠠᠯ</unicode>
+    <transcript>qadamal</transcript>
+    <transcript2>gadamal</transcript2>
+    <cyrillic>хадмал</cyrillic>
+  </head>
+  <see_also>
+    <ref>Q1644</ref>
+    <ref>Q1646</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠲᠠᠮᠠᠯ</unicode>
+      <uighur>qadamal</uighur>
+      <cyrillic>хадмал</cyrillic>
+      <transcript>XADAMAL</transcript>
+      <definition>[n.d. of xada-] adj. Hammered in; nailed; attached, affixed; sewed.</definition>
+      <page>903</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠲᠠᠮᠠᠯ ᠦᠭᠡ</unicode>
+          <transcript>-- yge</transcript>
+          <definition> Interlinear or marginal notes.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠳᠠᠮᠠᠯ</unicode>
+      <definition>enfoncé (clou): 2 cousu, attaché; 3 réuni, lié</definition>
+      <page>780</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠳᠠᠮᠠᠯ ᠦᠭᠡ</unicode>
+          <definition>explication, interprétation, traduction en regard</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠳᠠᠮᠠᠯ ᠦᠭᠡ ᠎ᠶᠢᠨ ᠰᠦᠯᠪᠢᠭᠡ</unicode>
+          <definition>accompagné d'une traduction complète</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠬᠠᠲᠠᠮᠠᠯ</unicode>
+      <uighur>qadamal üge</uighur>
+      <definition>An inserted word at the side of a line.</definition>
+      <page>566</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠳᠠᠮᠠᠯ</unicode>
+      <cyrillic>хадмал</cyrillic>
+      <definition>〔形〕①割的，刈的：~ өвс 割的草；②钉的，钉装的；③脚注的，注解的：төвдөөр ~ 藏文注解的；~ толь 注解词典；~ үг 脚注，注释.</definition>
+      <page>1273</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠲᠠᠮᠠᠯ</unicode>
+      <cyrillic>ХАДМАЛ</cyrillic>
+      <definition>1) подстрочный; хадмал бичиг полиглотта, книга, написанная на нескольких языках сразу с паралельным текстом; хадмал орчуулга подстрочный перевод; хадмал үг подстрочный текст; 2) приколоченный, прибитый, пришитый; прикреплённый; хадмал нэр прозвище, кличка. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хадмал</cyrillic>
+      <definition>interlinear, zwischenzeilig; beigefügt; ~ орчуулга Interlinearübersetzung f; Rohübersetzung f</definition>
+      <page>283</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠳᠠᠮᠠᠯ</unicode>
+      <cyrillic>хадмал</cyrillic>
+      <definition>бичиг номд өөр хэл, үсгээр хавсарган бичсэн үг тайлбар; төвдөөр хадмал; хадмал толь; хадмал үгзүүмэл, зүүсэн, зүүж бичсэн үг.</definition>
+      <page>641</page>
+    </entry_item>
+  </entries>
+  <derivatives>
+    <ref>Q1647</ref>
+  </derivatives>
+</entry>

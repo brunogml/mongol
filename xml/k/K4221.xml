@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4221">
+  <head>
+    <unicode>ᠺᠥᠯᠭᠡᠯᠡᠺᠦ</unicode>
+    <transcript>kölgelekü</transcript>
+    <transcript2>gölgelegö</transcript2>
+    <cyrillic>хөлөглөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K4222</ref>
+    <ref>K4220</ref>
+    <ref>K4219</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠥᠯᠭᠡᠯᠡᠺᠦ</unicode>
+      <uighur>kölkelekü</uighur>
+      <cyrillic>хөлөглөх</cyrillic>
+      <transcript>KØLGELE-</transcript>
+      <definition>v.t. To ride or travel by any means of transportation (elevated style).</definition>
+      <page>485</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠥᠯᠺᠡᠯᠡᠺᠥᠢ ᠮᠣᠷᠢ</unicode>
+          <transcript>--kyi mori</transcript>
+          <definition>A mount for the use of an eminent person</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠭᠦᠯᠡᠨ ᠳᠡᠭᠡᠭᠦᠷ ᠺᠥᠯᠺᠡᠯᠡᠺᠥ</unicode>
+          <transcript>egylen degegyr --ky</transcript>
+          <definition>To ride on clouds (elevated style).</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠺᠥᠯᠺᠡᠯᠡᠺᠥ</unicode>
+      <uighur>külkelekü</uighur>
+      <definition>reiten.</definition>
+      <page>184</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠺᠥᠯᠺᠡᠯᠡᠺᠥ</unicode>
+      <uighur>kölkelekü</uighur>
+      <definition>To ride.</definition>
+      <page>724</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠯᠭᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>хөлөглөх</cyrillic>
+      <definition>〔动〕〈敬〉乘马；乘坐：ерөнхий сайдын ~сөн нисэх онгоц 总理乘坐过的飞机.</definition>
+      <page>1395</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠯᠺᠡᠯᠡᠺᠥ</unicode>
+      <cyrillic>ХӨЛӨГЛӨХ</cyrillic>
+      <definition>I хуучир. ездить на коне (о высокопоставленных лицах); закладывать экипаж, запрягать.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠯᠺᠡᠯᠡᠺᠥ</unicode>
+      <cyrillic>ХӨЛӨГЛӨХ</cyrillic>
+      <definition>II пробиваться (о лучах солнца через тучи).</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠺᠥᠯᠭᠡᠯᠡᠺᠦ</unicode>
+      <definition>1 monter; 
+2 atteler</definition>
+      <page>2609</page>
+      <examples>
+        <example>
+          <unicode>ᠵᠡᠷᠯᠢᠭ ᠪᠤᠬᠠ ᠎ᠶᠢ ᠺᠥᠯᠭᠡᠯᠡᠺᠦᠢ ᠪᠣᠯᠪᠠᠢ</unicode>
+          <definition>il pouvait monter un taureau sauvage</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠥᠯᠭᠡᠯᠡᠺᠦᠢ ᠮᠣᠷᠢᠨ</unicode>
+          <definition>cheval de selle, de monture, ou celui à atteler</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хөлөглөх</cyrillic>
+      <definition>ehrerb reiten; ein Transportmittel benutzen</definition>
+      <page>318</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠯᠭᠡᠯᠡᠬᠦ</unicode>
+      <cyrillic>хөлөглөх</cyrillic>
+      <definition>эрхэм хүмүүсийн морь унаа унах; морь хөлөглөн явав.</definition>
+      <page>709</page>
+    </entry_item>
+  </entries>
+</entry>

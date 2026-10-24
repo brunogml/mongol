@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="E1841">
+  <head>
+    <unicode>ᠡᠭᠳᠡᠭᠦᠷᠺᠡᠺᠦ</unicode>
+    <transcript>egdegürkekü</transcript>
+    <transcript2>egdegörgegö</transcript2>
+    <cyrillic>эгдүүрхэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>E1839</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠡᠭᠳᠡᠭᠦᠷᠬᠡᠬᠦ</unicode>
+      <cyrillic>эгдүүрхэх</cyrillic>
+      <definition>〔动〕参见 эгдүүцэх.</definition>
+      <page>1679</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠺᠳᠠᠺᠥᠷᠺᠠᠺᠥ</unicode>
+      <cyrillic>ЭГДҮҮРХЭХ</cyrillic>
+      <definition>1) возмущаться, раздражаться; 2) питать страсть. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠡᠭᠳᠡᠭᠦᠷᠬᠡᠬᠦ</unicode>
+      <cyrillic>эгдүүрхэх</cyrillic>
+      <definition>эгдүү хүрэх, сэтгэлд зэвүү төрөх, зэвүүрхэх.</definition>
+      <page>868</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T3001">
+  <head>
+    <unicode>ᠳᠠᠷᠵᠢᠺᠢᠨᠠᠬᠣ</unicode>
+    <transcript>darǰiginaqu</transcript>
+    <transcript2>darciginago</transcript2>
+    <cyrillic>даржигнах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T3003</ref>
+  </derivatives>
+  <see_also>
+    <ref>T3000</ref>
+    <ref>T3001a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠷᠵᠢᠭᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>даржигнах</cyrillic>
+      <definition>〔动〕①颤动；震响；②哗哗飘动，喀嚓响，咯吱作响：байшингийн орой дээр хатгасан далбаа ~н хийсч байв 插在房顶上的旗子哗哗飘动.</definition>
+      <page>396</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠷᠵᠢᠺᠢᠨᠠᠬᠣ</unicode>
+      <cyrillic>ДАРЖИГНАХ</cyrillic>
+      <definition>1) дребезжать; дрожать; 2) звенеть, трещать, хрустеть. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>даржигнах</cyrillic>
+      <definition>knarren, knirschen</definition>
+      <page>92</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠷᠵᠢᠭᠢᠨᠠᠬᠤ</unicode>
+      <cyrillic>даржигнах</cyrillic>
+      <definition>даржгар юмны даржиг даржиг чимээ гарах; байшингийн орой дээр хатгасан далбаа даржигнан хийсч байв.</definition>
+      <page>190</page>
+    </entry_item>
+  </entries>
+</entry>

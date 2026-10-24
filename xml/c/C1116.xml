@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1116">
+  <head>
+    <unicode>ᠴᠠᠴᠠᠷᠯᠢᠺᠵᠢᠺᠥ</unicode>
+    <transcript>čečerligǰikü</transcript>
+    <transcript2>cecerligcigö</transcript2>
+    <cyrillic>цэцэрлэгжих</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C1119</ref>
+    <ref>C1115</ref>
+    <ref>C1117</ref>
+    <ref>C1118</ref>
+    <ref>C1120</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠴᠡᠷᠯᠢᠭᠵᠢᠬᠦ</unicode>
+      <cyrillic>цэцэрлэгжих</cyrillic>
+      <definition>〔动〕设立公园，园林化；绿化，美化.</definition>
+      <page>1569</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠴᠠᠷᠯᠢᠺᠵᠢᠺᠥ</unicode>
+      <cyrillic>ЦЭЦЭРЛЭГЖИХ</cyrillic>
+      <definition>обзаводиться садами, парками. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цэцэрлэгжих</cyrillic>
+      <definition>mit Gärten od Parks ausgestattet werden</definition>
+      <page>366</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠴᠡᠷᠯᠢᠭᠵᠢᠬᠦ</unicode>
+      <cyrillic>цэцэрлэгжих</cyrillic>
+      <definition>цэцэрлэгтэй болох.</definition>
+      <page>809</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>C1111</ref>
+  </related_to>
+</entry>

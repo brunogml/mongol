@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3500">
+  <head>
+    <unicode>ᠴᠥᠳᠠᠩᠵᠠ</unicode>
+    <transcript>čüdengǰe</transcript>
+    <transcript2>cödengce</transcript2>
+    <cyrillic>чүдэнз</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠥᠳᠠᠩᠵᠠ</unicode>
+      <uighur>čüdengǰe</uighur>
+      <cyrillic>цүдэнз</cyrillic>
+      <transcript>CYDENGZE</transcript>
+      <definition>Same as cydeng.</definition>
+      <page>209</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чүдэнз[эн]</cyrillic>
+      <definition>Streichholz n, Zündholz n; ~ зурах od хавирах ein Streichholz anstreichen</definition>
+      <page>375</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠦᠳᠡᠨᠵᠡ</unicode>
+      <cyrillic>чүдэнз</cyrillic>
+      <definition>ноцоолго, зуруул; нэг багц чүдэнз; толгой зүдэнз.</definition>
+      <page>825</page>
+    </entry_item>
+  </entries>
+</entry>

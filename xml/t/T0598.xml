@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0598">
+  <head>
+    <unicode>ᠲᠠᠭᠠᠷᠠᠯᠳᠣᠬᠣ</unicode>
+    <transcript>taγaralduqu</transcript>
+    <transcript2>dagaraldogo</transcript2>
+    <cyrillic>тааралдах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T0599</ref>
+    <ref>T0600</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠭᠠᠷᠠᠯᠳᠣᠬᠣ</unicode>
+      <uighur>taγaraldoqu</uighur>
+      <cyrillic>тааралдах</cyrillic>
+      <transcript>TAΓARALDU-</transcript>
+      <definition>[v. rec. of taγara-] To meet each other, run into; to hit upon.</definition>
+      <page>765</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠢᠯᠠᠭᠤ ᠲᠠᠭᠠᠷᠠᠯᠳᠣᠬᠣ</unicode>
+          <transcript>cilaγu --xu</transcript>
+          <definition> To hit a stone (e.g. in digging).</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠳᠠᠭᠠᠰᠤ ᠲᠠᠭᠠᠷᠠᠯᠳᠣᠬᠣ</unicode>
+          <transcript>xadaγasu --xu</transcript>
+          <definition> To get caught on a nail.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠭᠠᠷᠠᠯᠳᠤᠬᠤ</unicode>
+      <cyrillic>тааралдах</cyrillic>
+      <definition>〔动〕①таарах /1 的互动态；②遇见，会见，会面，碰见：би зах дээр ахтай ~в 我在市场上碰见了哥哥.</definition>
+      <page>1001</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠭᠠᠷᠠᠯᠳᠣᠬᠣ</unicode>
+      <cyrillic>ТААРАЛДАХ</cyrillic>
+      <definition>таарах-ын үйлдэлд., 1) встречаться, попадаться; натыкаться; хадаас тааралдах наткнуться на гвоздь; би чиний ахтай өчигдөр Сүхбаатарын талбай дээр тааралдав вчера я встретился с твољм братом на площади СухЇ-Батора; би хэдэн удаа ирсэн, чамтай ер тааралдсангүй хотя я несколько раз приходљл, с тобой обычно не встречался; 2) совпадать; чиний ирсэн миний байхгүй байхтай тааралджээ твой приход, оказывается, совпал с мољм отсутствием; 3) быть с кем-л. согласным, соответствовать друг другу; быть одинаковым, соразмерным; сходљться, взаљмно подходљть. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тааралдах</cyrillic>
+      <definition>1. begegnen (jmdm. -тай), zusammentreffen (mit jmdm. -тай); би чиний аавтай тааралджзэ ich bin deinem Vater begegnet; хадааc ~ auf einen Nagel stoßen
+2. zusammenfallen (mit etw. -тай)</definition>
+      <page>213</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠭᠠᠷᠠᠯᠳᠤᠬᠤ</unicode>
+      <cyrillic>тааралдах</cyrillic>
+      <definition>1. таарах;2. тохиолдох, дайралдах, онолдох; би зах дээр ахтай тааралдав; би хэдэн удаа ирсэн, чамтай ер тааралдсангүй.</definition>
+      <page>509</page>
+    </entry_item>
+  </entries>
+</entry>

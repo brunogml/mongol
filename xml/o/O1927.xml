@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1927">
+  <head>
+    <unicode>ᠥᠷᠥᠪᠲᠥᠯ</unicode>
+    <transcript>örübtül</transcript>
+    <transcript2>öröbdöl</transcript2>
+    <cyrillic>өрөвтөл</cyrillic>
+  </head>
+  <see_also>
+    <ref>O1926</ref>
+    <ref>O1928</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <cyrillic>өрөвтөл</cyrillic>
+      <definition>〔名〕（锉木头的）大锉，粗锉.</definition>
+      <page>860</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠷᠥᠪᠲᠥᠯ</unicode>
+      <cyrillic>ӨРӨВТӨЛ</cyrillic>
+      <definition>рашпиль; нарийн өрөвтөл надфиль. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠷᠥᠪᠲᠥᠯ</unicode>
+      <cyrillic>өрөвтөл</cyrillic>
+      <definition>мод зэргийг үрж засах багаж; нарийн өрөвтөл; бүдүүн өрөвтөл.</definition>
+      <page>445</page>
+    </entry_item>
+  </entries>
+</entry>

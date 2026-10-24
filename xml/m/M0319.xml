@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M0319">
+  <head>
+    <unicode>ᠮᠠᠭᠠᠷᠠᠬᠣ</unicode>
+    <transcript>maγaraqu</transcript>
+    <transcript2>magarago</transcript2>
+    <cyrillic>маарах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M0322</ref>
+  </derivatives>
+  <see_also>
+    <ref>M0318</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠠᠭᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>маарах</cyrillic>
+      <definition>〔动〕闲暇，逍遥.</definition>
+      <page>651</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠠᠭᠠᠷᠠᠬᠣ</unicode>
+      <cyrillic>МААРАХ</cyrillic>
+      <definition>бездельничать, болтаться без дела, лоботрясничать; маарч суух хэрэг юу вэ? зачем болтаться без дела? </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠠᠭᠠᠷᠠᠬᠤ</unicode>
+      <cyrillic>маарах</cyrillic>
+      <definition>хэрэг зориггүй дэмий сул байх.</definition>
+      <page>325</page>
+    </entry_item>
+  </entries>
+</entry>

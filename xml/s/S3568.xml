@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3568">
+  <head>
+    <unicode>ᠰᠢᠪᠥᠺᠠᠳᠠᠺᠥ</unicode>
+    <transcript>sibügedekü</transcript>
+    <transcript2>sibögedegö</transcript2>
+    <cyrillic>шөвөгдөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S3569</ref>
+    <ref>S3570</ref>
+    <ref>S3567</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠪᠥᠺᠠᠳᠠᠺᠥ</unicode>
+      <uighur>sibükedekü</uighur>
+      <cyrillic>шөвөгдөх</cyrillic>
+      <transcript>SIBYGEDE-</transcript>
+      <definition>v. t. To pierce with an awl; (fig.) to spur, provoke.</definition>
+      <page>696</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠦᠮᠦᠨ ᠢ ᠰᠢᠪᠥᠺᠠᠳᠠᠺᠥ</unicode>
+          <transcript>kymyn i --ky</transcript>
+          <definition> To spur a person on.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠪᠦᠺᠡᠳᠡᠺᠦ ~ ᠰᠢᠪᠦᠺᠡᠯᠡᠺᠦ</unicode>
+      <definition>percer avec une alêne, avec un vilbrequin.</definition>
+      <page>1478</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠪᠥᠭᠡᠳᠡᠬᠦ</unicode>
+      <cyrillic>шөвөгдөх</cyrillic>
+      <definition>〔动〕①（用锥子）锥，扎孔，剌孔，穿孔；②触犯，侵犯（他人）.</definition>
+      <page>1652</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠪᠥᠺᠠᠳᠠᠺᠥ</unicode>
+      <cyrillic>ШӨВӨГДӨХ</cyrillic>
+      <definition>колоть, прокалывать шилом. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠪᠥᠭᠡᠳᠡᠬᠦ</unicode>
+      <cyrillic>шөвөгдөх</cyrillic>
+      <definition>1. шөвгөөр хатгаж нүхлэх;2. бусдыг өдөөж хатгах.</definition>
+      <page>855</page>
+    </entry_item>
+  </entries>
+</entry>

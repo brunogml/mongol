@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B3438">
+  <head>
+    <unicode>ᠪᠣᠯᠪᠠᠰᠣᠷᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>bolbasuraγdaqu</transcript>
+    <transcript2>bolbasoragdago</transcript2>
+    <cyrillic>боловсрогдох</cyrillic>
+  </head>
+  <related_to>
+    <ref>B3432</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠣᠯᠪᠠᠰᠤᠷᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>боловсрогдох</cyrillic>
+      <definition>〔动〕боловсрох 的被动态.</definition>
+      <page>168</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠯᠪᠠᠰᠣᠷᠠᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>БОЛОВСРОГДОХ</cyrillic>
+      <definition>боловсрох-ын үйлдэгд., разрабатываться; обрабатываться.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠣᠯᠪᠠᠰᠤᠷᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>боловсрогдох</cyrillic>
+      <definition>боловсрохын үйлдэгдэх хэв.</definition>
+      <page>89</page>
+    </entry_item>
+  </entries>
+</entry>

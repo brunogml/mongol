@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y1696">
+  <head>
+    <unicode>ᠶᠠᠶᠢᠵᠢᠯᠵᠠᠬᠣ</unicode>
+    <transcript>yayiǰilǰaqu</transcript>
+    <transcript2>yayicilcago</transcript2>
+    <cyrillic>яйжилзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y1697</ref>
+    <ref>Y1698</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠶᠠᠢᠵᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>яйжилзах</cyrillic>
+      <definition>〔动〕参见 яйжганах.</definition>
+      <page>1745</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠶᠠᠶᠢᠵᠢᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>ЯЙЖИЛЗАХ</cyrillic>
+      <definition>яйжганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>яйжилзах</cyrillic>
+      <definition>= яйжганах</definition>
+      <page>413</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠶᠠᠢᠵᠢᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>яйжилзах</cyrillic>
+      <definition>яйжгар юмны яйжис яйжис хөдлөх.</definition>
+      <page>903</page>
+    </entry_item>
+  </entries>
+</entry>

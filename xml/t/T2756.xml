@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T2756">
+  <head>
+    <unicode>ᠳᠠᠷᠣᠮᠠ</unicode>
+    <transcript>darum-a</transcript>
+    <transcript2>darom-a</transcript2>
+    <cyrillic>дарам</cyrillic>
+  </head>
+  <see_also>
+    <ref>T2615</ref>
+    <ref>T2961</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠠᠷᠣᠮ᠎ᠠ</unicode>
+      <uighur>darum-a</uighur>
+      <cyrillic>дарам</cyrillic>
+      <transcript>DARUM-A</transcript>
+      <page>235</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠯᠠᠭ᠎ᠠ ᠳᠠᠷᠣᠮ᠎ᠠ</unicode>
+          <transcript>alaγ-a -- </transcript>
+          <definition> The width of the palm of the hand.</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠤᠷᠤᠭᠤ ᠳᠠᠷᠣᠮ᠎ᠠ</unicode>
+          <transcript>xuruγu -- </transcript>
+          <definition> The width of the finger.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠷᠣᠮ᠎ᠠ</unicode>
+      <definition>endroit masqué.</definition>
+      <page>1674</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠯᠠᠭ᠎ᠠ ᠳᠠᠷᠣᠮ᠎ᠠ</unicode>
+          <definition>largeur de la main; empan court</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠷᠣᠮᠠ</unicode>
+      <cyrillic>ДАРАМ</cyrillic>
+      <definition>II : алга дарам шириной с ладонь; хуруу дарам а) на один палец; шириной с палец; б) шилж. малочисленный; немного. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠷᠤᠮ᠎ᠠ</unicode>
+      <cyrillic>дарам /2</cyrillic>
+      <definition>хэмжээс.</definition>
+      <page>189</page>
+    </entry_item>
+  </entries>
+</entry>

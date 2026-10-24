@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A3222">
+  <head>
+    <unicode>ᠠᠵᠢᠭᠠᠨ᠎ᠠ</unicode>
+    <transcript>aǰiγana</transcript>
+    <transcript2>acigana</transcript2>
+    <cyrillic>ажигана</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠵᠢᠭᠠᠨ᠎ᠠ</unicode>
+      <cyrillic>ажигана</cyrillic>
+      <definition>〔名〕〈植〉繁缕属.</definition>
+      <page>26</page>
+    </entry_item>
+    <entry_item>
+      <dico>Bawden</dico>
+      <cyrillic>ажигана</cyrillic>
+      <definition>Stitchwort, Chickweed, Stellaria</definition>
+      <page>7</page>
+      <examples>
+        <example>
+          <cyrillic>Амуухай ажигана</cyrillic>
+          <definition>Lesser Stitchwort, S. graminea,</definition>
+        </example>
+        <example>
+          <cyrillic>Ацан ажигана</cyrillic>
+          <definition>S. dichotoma</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

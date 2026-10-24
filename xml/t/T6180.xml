@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T6180">
+  <head>
+    <unicode>ᠳᠣᠬᠲᠣᠶᠢᠲᠣ</unicode>
+    <transcript>duγtuyitu</transcript>
+    <transcript2>dogdoyido</transcript2>
+    <cyrillic>дугтуйт</cyrillic>
+  </head><see_also>
+    <ref>T6179</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠳᠣᠬᠲᠣᠶᠢᠲᠣ</unicode>
+      <uighur>duqduyitu</uighur>
+      <cyrillic>дугтуйт</cyrillic>
+      <transcript>DUΓTUITU</transcript>
+      <definition>See duγtuitai.</definition>
+      <page>271</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠬᠳᠣᠶᠢᠳᠤ</unicode>
+      <definition>ce qui est en étui, en fourreau, en paquet, etc.</definition>
+      <page>1876</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠤᠬᠳᠣᠶᠢᠳᠤ ᠪᠤᠷᠴᠠᠬ</unicode>
+          <definition>pois de gousse</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

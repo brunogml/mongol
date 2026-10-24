@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S5170">
+  <head>
+    <unicode>ᠰᠣᠬ</unicode>
+    <transcript>suγ</transcript>
+    <transcript2>sog</transcript2>
+    <cyrillic>суг</cyrillic>
+  </head><see_also>
+    <ref>S5171</ref>
+  <ref>S5172</ref></see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠤᠬ</unicode>
+      <definition>la coupe: 2 aveu.</definition>
+      <page>1407</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠮᠠᠨ ᠤ ᠰᠤᠬ</unicode>
+          <definition>la coupe de la bouche; 2 aveu</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠭ</unicode>
+      <cyrillic>суг</cyrillic>
+      <definition>见 ~ ~ хийх 嗖嗖地；噌噌地；◊ ~ цангуу 〈植〉柱腺独行菜.</definition>
+      <page>954</page>
+    </entry_item>
+  </entries>
+</entry>

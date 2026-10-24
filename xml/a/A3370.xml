@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="A3370">
+  <head>
+    <unicode>ᠠᠵᠢᠷ</unicode>
+    <transcript>aǰir</transcript>
+    <transcript2>acir</transcript2>
+    <cyrillic>ажир</cyrillic>
+  </head><derivatives>
+    <ref>A0895</ref>
+  </derivatives><see_also>
+    <ref>A3369</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠵᠢᠷ</unicode>
+      <uighur>aǰir</uighur>
+      <cyrillic>ажир</cyrillic>
+      <transcript>AZIR</transcript>
+      <page>62</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠵᠢᠷ ᠨᠤᠷᠤᠰᠤ</unicode>
+          <transcript>-- nurusu, </transcript>
+          <definition>Teal, Anas crecca</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠵᠢᠷ ᠨᠤᠭᠤᠰᠤ</unicode>
+      <definition>espèce de canard sauvage</definition>
+      <page>124</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠵᠢᠷ</unicode>
+      <cyrillic>ажир</cyrillic>
+      <definition>见 ~ нугас 〈动〉水胡芦（鸭名）.</definition>
+      <page>29</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠵᠢᠷ</unicode>
+      <cyrillic>АЖИР</cyrillic>
+      <definition>: ажир нугас шувуу. чирок (вид дикой утки).</definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6559">
+  <head>
+    <unicode>ᠱᠥᠪᠥᠺᠠᠷᠳᠠᠺᠥ</unicode>
+    <transcript>šöbügerdekü</transcript>
+    <transcript2>söbögerdegö</transcript2>
+    <cyrillic>шөвгөрдөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6561</ref>
+    <ref>S6558</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠥᠪᠥᠭᠡᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>шөвгөрдөх</cyrillic>
+      <definition>〔动〕变得非常尖，变得过于尖，显得太尖，显得太尖削.</definition>
+      <page>1652</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠥᠪᠥᠺᠠᠷᠳᠠᠺᠥ</unicode>
+      <cyrillic>ШӨВГӨРДӨХ</cyrillic>
+      <definition>быть слишком торчащим, чересчур выдаваться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠥᠪᠥᠭᠡᠷᠳᠡᠬᠦ</unicode>
+      <cyrillic>шөвгөрдөх</cyrillic>
+      <definition>хэтэрхий шөвгөр болох.</definition>
+      <page>855</page>
+    </entry_item>
+  </entries>
+</entry>

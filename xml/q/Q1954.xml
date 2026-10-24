@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1954">
+  <head>
+    <unicode>ᠬᠠᠯᠢᠰᠣᠯᠠᠬᠣ</unicode>
+    <transcript>qalisulaqu</transcript>
+    <transcript2>galisolago</transcript2>
+    <cyrillic>хальслах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q1955</ref>
+    <ref>Q1956</ref>
+    <ref>Q1957</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠯᠢᠰᠣᠯᠠᠬᠣ</unicode>
+      <uighur>qalisolaqu</uighur>
+      <cyrillic>хальслах</cyrillic>
+      <transcript>XALISULA-</transcript>
+      <definition>v.t. To peel, remove the skin, shell, rind, etc.</definition>
+      <page>921</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠯᠢᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>хальслах</cyrillic>
+      <definition>〔动〕剥外壳，剥皮，除表皮，刮鳞；剥膜：~сан амуу 碾过的米，粗碾过之莽麦，整粒米.</definition>
+      <page>1294</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠯᠢᠰᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХАЛЬСЛАХ</cyrillic>
+      <definition>очищать, удалять, отделять кожицу, кожуру корку, шелуху, скорлупу; хальсалсан амуу ядрица. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠯᠢᠰᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХАЛЬСАЛСАН</cyrillic>
+      <definition>очищенный от кожицы, корки. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хальслах</cyrillic>
+      <definition>Hülle, Haut, Schale u. ä. entfernen; [ab]schälen, abrinden; хальсласан амуу[н] Buchweizengrrütze f</definition>
+      <page>289</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠯᠢᠰᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>хальслах</cyrillic>
+      <definition>хальсыг хуулах.</definition>
+      <page>653</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>Q1948</ref>
+  </related_to>
+</entry>

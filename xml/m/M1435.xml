@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1435">
+  <head>
+    <unicode>ᠮᠢᠯᠵᠠᠩᠲᠣᠬᠣ</unicode>
+    <transcript>milǰangtuqu</transcript>
+    <transcript2>milcangdogo</transcript2>
+    <cyrillic>мялзантах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M1436</ref>
+    <ref>M1437</ref>
+  </derivatives>
+  <see_also>
+    <ref>M1433</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠢᠯᠵᠠᠩᠲᠤᠬᠤ</unicode>
+      <cyrillic>мялзантах</cyrillic>
+      <definition>〔动〕参见 мялантах.</definition>
+      <page>710</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠢᠯᠵᠠᠩᠲᠣᠬᠣ</unicode>
+      <cyrillic>МЯЛЗАНТАХ</cyrillic>
+      <definition>мялантах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠢᠯᠵᠠᠩᠲᠤᠬᠤ</unicode>
+      <cyrillic>мялзантах</cyrillic>
+      <definition>мялзан өвчин тохиох.</definition>
+      <page>358</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0961">
+  <head>
+    <unicode>ᠴᠠᠳᠠᠶᠢᠺᠥ</unicode>
+    <transcript>čedeyikü</transcript>
+    <transcript2>cedeyigö</transcript2>
+    <cyrillic>цэдийх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0960</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠳᠡᠢᠬᠦ</unicode>
+      <cyrillic>цэдийх</cyrillic>
+      <definition>〔动〕肚子肿胀、鼓胀起来，变得大腹便便.</definition>
+      <page>1562</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠳᠠᠶᠢᠺᠥ</unicode>
+      <cyrillic>ЦЭДИЙХ</cyrillic>
+      <definition>распухать; надуваться, становиться пузатым; выпячиваться, торчать вперёд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цэдийх</cyrillic>
+      <definition>= цзийх</definition>
+      <page>364</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠳᠡᠢᠬᠦ</unicode>
+      <cyrillic>цэдийх</cyrillic>
+      <definition>цэдгэр болох.</definition>
+      <page>805</page>
+    </entry_item>
+  </entries>
+</entry>

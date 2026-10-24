@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T1329">
+  <head>
+    <unicode>ᠲᠠᠰᠢᠭᠠᠢ</unicode>
+    <transcript>tasiγai</transcript>
+    <transcript2>dasigai</transcript2>
+    <cyrillic>ташгай</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠠᠰᠢᠭᠠᠢ</unicode>
+      <uighur>tasiγai</uighur>
+      <cyrillic>ташгай</cyrillic>
+      <transcript>TASIΓAI</transcript>
+      <definition>adj. and adv. Crosswise, obliquely, on a bias; that which slopes</definition>
+      <page>783</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠠᠰᠢᠭᠠᠢ ᠭᠠᠵᠠᠷ</unicode>
+          <transcript>-- γazar </transcript>
+          <definition>Sloping terrain</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠠᠰᠢᠭᠠᠢ ᠥᠨᠴᠦᠭ</unicode>
+          <transcript>-- øncyg</transcript>
+          <definition> Oblique angle</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠰᠢᠭᠠᠢ</unicode>
+      <definition>de travers, oblique , de biais, qui va en pente</definition>
+      <page>1618</page>
+      <examples>
+        <example>
+          <unicode>ᠳᠠᠰᠢᠭᠠᠢ ᠦᠨᠴᠦᠭ</unicode>
+          <definition>angle obtus</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠠᠰᠢᠭᠠᠢ ᠭᠠᠵᠠᠷ</unicode>
+          <definition>terrain inégal, terrain entrecoupé de montagnes</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠠᠰᠢᠭᠠᠢ</unicode>
+      <uighur>tasiγai γaǰar</uighur>
+      <definition>Place with sloping cliffs</definition>
+      <page>933</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠰᠢᠭᠠᠢ</unicode>
+      <cyrillic>ТАШГАЙ</cyrillic>
+      <definition>косой, покатый, наклонный; кливаж; ташгай газар покатость; местность, понижающаяся в одну сторону; ташгай өнцөг острый угол. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

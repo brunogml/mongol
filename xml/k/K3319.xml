@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K3319">
+  <head>
+    <unicode>ᠺᠥᠪᠡᠺᠡᠯᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>köbegelegülkü</transcript>
+    <transcript2>göbegelegölgö</transcript2>
+    <cyrillic>хөвөөлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K3318</ref>
+  </related_to>
+  <see_also>
+    <ref>K3431</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠪᠡᠺᠡᠯᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ХӨВӨӨЛҮҮЛЭХ</cyrillic>
+      <definition>хөвөөлөх II-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠪᠡᠭᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хөвөөлүүлэх</cyrillic>
+      <definition>хөвөөлөхийн үйлдүүлэх хэв.</definition>
+      <page>702</page>
+    </entry_item>
+  </entries>
+</entry>

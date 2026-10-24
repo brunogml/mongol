@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0387">
+  <head>
+    <unicode>ᠰᠠᠭᠠᠮᠠᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>saγamaγanaqu</transcript>
+    <transcript2>sagamaganago</transcript2>
+    <cyrillic>саамганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S0388</ref>
+    <ref>S0389</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠭᠠᠮᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>саамганах</cyrillic>
+      <definition>〔动〕 (хэнтэй - юутай)胡闹，胡缠，鬼混，乱搞.</definition>
+      <page>889</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠭᠠᠮᠠᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>СААМГАНАХ</cyrillic>
+      <definition>маасганах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠭᠠᠮᠠᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>саамганах</cyrillic>
+      <definition>маасганах, сэртэндэх, аалигүйтэх.</definition>
+      <page>456</page>
+    </entry_item>
+  </entries>
+</entry>

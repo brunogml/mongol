@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T0052">
+  <head>
+    <unicode>ᠲᠠᠨᠢᠯᠳᠣᠬᠣ</unicode>
+    <transcript>tanilduqu</transcript>
+    <transcript2>danildogo</transcript2>
+    <cyrillic>танилдах</cyrillic>
+  </head><derivatives>
+    <ref>T0053</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠠᠨᠢᠯᠳᠣᠬᠤ</unicode>
+      <definition>connaître , reconnaître l'un l'autre, faire connaissance.</definition>
+      <page>1560</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠢᠷᠠᠮᠠᠨ ᠤ ᠡᠮ᠎ᠡ ᠠᠨᠤ ᠨᠢᠭᠡᠨ ᠰᠢᠮᠠᠭᠴᠠ ᠎ᠯᠤᠭ᠎ᠠ ᠳᠠᠨᠢᠯᠳᠣᠭᠰᠠᠨ ᠪᠦᠯᠦᠭᠡ</unicode>
+          <definition>l'épouse d'un brahmane a été connue avec une religieuse</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠨᠢᠯᠳᠣᠬᠣ</unicode>
+      <cyrillic>ТАНИЛДАХ</cyrillic>
+      <definition>таних-ын үйлдэлд., 1) познакомиться друг с другом; узнавать друг друга; танилцах-ыг үз.; 2) злоупотребљть знакомством. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+<related_to><ref>T0050</ref></related_to></entry>

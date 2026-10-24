@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B2888">
+  <head>
+    <unicode>ᠪᠣᠪᠠᠯᠵᠠᠬᠣ</unicode>
+    <transcript>bubalǰaqu</transcript>
+    <transcript2>bobalcago</transcript2>
+    <cyrillic>бувалзах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>B2889</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠤᠪᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>бувалзах</cyrillic>
+      <definition>〔动〕（毛发蓬乱物）动弹.</definition>
+      <page>194</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠪᠠᠯᠵᠠᠬᠣ</unicode>
+      <cyrillic>БУВАЛЗАХ</cyrillic>
+      <definition>бувганах-ыг үз.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>бувалзах,</cyrillic>
+      <definition>бувар бувар хийх Bart rauschen</definition>
+      <page>59</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠪᠠᠯᠵᠠᠬᠤ</unicode>
+      <cyrillic>бувалзах</cyrillic>
+      <definition>бувгар юмны бувас бувас, бувар бувар хийх.</definition>
+      <page>101</page>
+    </entry_item>
+  </entries>
+</entry>

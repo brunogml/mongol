@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="ZT0099">
+  <head>
+    <cyrillic>декан</cyrillic>
+  </head>
+  <see_also>
+    <ref>ZT0098</ref>
+    <ref>ZT0100</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳ᠋ᠧᠺᠠᠨ</unicode>
+      <cyrillic>декан</cyrillic>
+      <definition>〔名〕系主任.</definition>
+      <page>403</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>декан</cyrillic>
+      <definition>Dekan m</definition>
+      <page>93</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳ᠋ᠧᠺᠠᠨ</unicode>
+      <cyrillic>декан</cyrillic>
+      <definition>дээд сургуулиудын факультетын дарга; нийгмийн ухааны факультетын декан.</definition>
+      <page>193</page>
+    </entry_item>
+  </entries>
+</entry>

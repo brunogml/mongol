@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S0493">
+  <head>
+    <unicode> ᠰᠠᠭᠣᠳᠬᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>saγutqaγulqu</transcript>
+    <transcript2>sagodgagolgo</transcript2>
+    <cyrillic>суутгуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S0492</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠭᠤᠳᠬᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>суутгуулах</cyrillic>
+      <definition>〔动〕суутгах 的使动态.</definition>
+      <page>969</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode> ᠰᠠᠭᠣᠳᠬᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>СУУТГУУЛАХ</cyrillic>
+      <definition>суутгах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠭᠤᠳᠬᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>суутгуулах</cyrillic>
+      <definition>суутгахын үйлдүүлэх хэв.</definition>
+      <page>493</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S2782">
+  <head>
+    <unicode>ᠰᠠᠷᠢᠯ</unicode>
+    <transcript>seril</transcript>
+    <transcript2>seril</transcript2>
+    <cyrillic>сэрэл</cyrillic>
+  </head><see_also>
+    <ref>S2740</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠷᠢᠯ</unicode>
+      <uighur>seril</uighur>
+      <transcript>SERIL</transcript>
+      <definition>Same as serel.</definition>
+      <page>691</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠡᠷᠢᠯ ~ ᠰᠡᠷᠡᠯ</unicode>
+      <definition>sensation. sensibilité , sensation accompagnée de cennaisances 2 attention, vigilance.</definition>
+      <page>1371</page>
+      <examples>
+        <example>
+          <unicode>ᠰᠡᠷᠢᠯ ᠦᠭᠡᠢ</unicode>
+          <definition>insensible; 2 sans attention, sans souci, indolemment</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

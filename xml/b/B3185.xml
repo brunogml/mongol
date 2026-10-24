@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B3185">
+  <head>
+    <unicode> ᠪᠣᠲᠾᠠ</unicode>
+    <transcript>budha</transcript>
+    <transcript2>bodha</transcript2>
+    <cyrillic>будда</cyrillic>
+  </head><see_also>
+    <ref>B3184</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode> ᠪᠣᠲᠾᠠ</unicode>
+      <uighur>budha</uighur>
+      <cyrillic>будда</cyrillic>
+      <transcript>BUDHA</transcript>
+      <definition>n. Buddha.</definition>
+      <page>130</page>
+      <examples>
+        <example>
+          <unicode> ᠪᠣᠲᠾᠠ ᠎ᠶᠢᠨ ᠱᠠᠰᠢᠨ</unicode>
+          <transcript>-- jin sasin</transcript>
+          <definition> Buddhism.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠤᠷᠬᠠᠨ  ᠪᠣᠲᠾᠠ</unicode>
+          <transcript>burxan --, </transcript>
+          <definition>Buddha</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠤᠳ᠋ᠳ᠋ᠬᠠ</unicode>
+      <cyrillic>будда</cyrillic>
+      <definition>〔名〕〈宗〉佛：буддын шашин 佛教.</definition>
+      <page>197</page>
+    </entry_item>
+  </entries>
+</entry>

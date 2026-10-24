@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S2978">
+  <head>
+    <unicode> ᠰᠢᠢᠳᠬᠡᠭᠳᠡᠭᠥ</unicode>
+    <transcript>siitgegdekü</transcript>
+    <transcript2>siidgegdegö</transcript2>
+    <cyrillic>шийтгэгдэх</cyrillic>
+  </head><related_to>
+    <ref>S2976</ref>
+  </related_to><see_also>
+    <ref>S3819</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠢᠳᠬᠡᠭᠳᠡᠭᠥ</unicode>
+      <uighur>siidkekdekü</uighur>
+      <cyrillic>шийтгэгдэх</cyrillic>
+      <transcript>SIIDKEGDE-</transcript>
+      <definition>[v. pass. of siidke-] To be tried, sentenced or decided</definition>
+      <page>704</page>
+    </entry_item>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠢᠳᠺᠡᠭᠴᠢ</unicode>
+      <uighur>siidkekči</uighur>
+      <cyrillic>шийтгэгч</cyrillic>
+      <transcript>SIIDKEGCI</transcript>
+      <definition>n. One who makes decisions or passes judgments</definition>
+      <page>704</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠷᠺᠢᠯᠡᠨ ᠰᠢᠢᠳᠺᠡᠭᠴᠢ</unicode>
+          <transcript>erkilen -- </transcript>
+          <definition> Director, governor, president of an institution; board of directors.</definition>
+        </example>
+        <example>
+          <unicode>ᠵᠠᠯᠬᠠᠭᠠᠨ ᠰᠢᠢᠳᠺᠡᠭᠴᠢ</unicode>
+          <transcript>zalxaγan -- </transcript>
+          <definition> Head or member of a punitive expedition.</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

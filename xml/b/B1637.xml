@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B1637">
+  <head>
+    <unicode>ᠪᠠᠷᠺᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>bargiγulqu</transcript>
+    <transcript2>bargigolgo</transcript2>
+    <cyrillic>баргиулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B1636</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠷᠭᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>баргиулах</cyrillic>
+      <definition>〔动〕баргих 的使动态.</definition>
+      <page>132</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠷᠺᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БАРГИУЛАХ</cyrillic>
+      <definition>баргих-ын үйлдүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠠᠷᠭᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>баргиулах</cyrillic>
+      <definition>баргихын үйлдүүлэх хэв.</definition>
+      <page>75</page>
+    </entry_item>
+  </entries>
+</entry>

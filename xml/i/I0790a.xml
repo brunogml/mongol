@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="I0790a">
+  <head>
+    <unicode>ᠢᠯᠵᠠᠮᠠᠬᠳᠠᠬᠣ</unicode>
+    <transcript>ilǰamaγdaqu</transcript>
+    <transcript2>ilcamagdago</transcript2>
+    <cyrillic>ялзмагдах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠢᠯᠵᠠᠮᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>ялзмагдах</cyrillic>
+      <definition>〔动〕腐烂，霉烂，腐朽透顶.</definition>
+      <page>1749</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠢᠯᠵᠠᠮᠠᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>ялзмагдах</cyrillic>
+      <definition>хэтэрхий ялзмаг болох.</definition>
+      <page>905</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>I0789</ref>
+  </related_to>
+</entry>

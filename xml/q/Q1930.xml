@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q1930">
+  <head>
+    <unicode>ᠬᠠᠯᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>qaliγulqu</transcript>
+    <transcript2>galigolgo</transcript2>
+    <cyrillic>халиулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q1927</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠯᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>халиулах</cyrillic>
+      <definition>〔动〕халих /1、/2、/3、/4 的使动态.</definition>
+      <page>1289</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠯᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ХАЛИУЛАХ</cyrillic>
+      <definition>халих I-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>халиулах</cyrillic>
+      <definition>Stute falb</definition>
+      <page>287</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠯᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>халиулах</cyrillic>
+      <definition>халихын үйлдүүлэх хэв, халихад хүрүүлэх.</definition>
+      <page>650</page>
+    </entry_item>
+  </entries>
+</entry>

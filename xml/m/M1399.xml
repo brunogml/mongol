@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1399">
+  <head>
+    <unicode>ᠮᠢᠯᠠᠨᠲᠣᠭᠣᠯᠬᠣ</unicode>
+    <transcript>milantuγulqu</transcript>
+    <transcript2>milandogolgo</transcript2>
+    <cyrillic>мялантуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>M1398</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠢᠯᠠᠩᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>мялантуулах</cyrillic>
+      <definition>〔动〕мялантах 的使动态.</definition>
+      <page>710</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠢᠯᠠᠨᠲᠣᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>МЯЛАНТУУЛАХ</cyrillic>
+      <definition>мялантах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠢᠯᠠᠩᠲᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>мялантуулах</cyrillic>
+      <definition>мялантахын үйлдүүлэх хэв.</definition>
+      <page>358</page>
+    </entry_item>
+  </entries>
+</entry>

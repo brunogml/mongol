@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5932">
+  <head>
+    <unicode>ᠱᠣᠯᠳᠠᠩ</unicode>
+    <transcript>šuldang</transcript>
+    <transcript2>soldang</transcript2>
+    <cyrillic>шулдан</cyrillic>
+  </head>
+  <see_also>
+    <ref>S5931a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠤᠯᠳᠠᠩ</unicode>
+      <cyrillic>шулдан</cyrillic>
+      <definition>〔形〕①刮了肉的（骨头）；去了皮（壳）的；②空手的，无附带物的.</definition>
+      <page>1658</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠯᠳᠠᠩ</unicode>
+      <cyrillic>ШУЛДАН</cyrillic>
+      <definition>отделяющий, отрезанный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠤᠯᠳᠠᠩ</unicode>
+      <cyrillic>шулдан</cyrillic>
+      <definition>шулсан юм; шулдан хаа.</definition>
+      <page>859</page>
+    </entry_item>
+  </entries>
+</entry>

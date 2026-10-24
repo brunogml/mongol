@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3754">
+  <head>
+    <unicode>ᠰᠢᠳᠠᠺᠳᠠᠺᠥ</unicode>
+    <transcript>sidegdekü</transcript>
+    <transcript2>sidegdegö</transcript2>
+    <cyrillic>шидэгдэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S3752</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠳᠡᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>шидэгдэх</cyrillic>
+      <definition>〔动〕шидэх /1、/2 的被动态.</definition>
+      <page>1630</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠳᠠᠺᠳᠠᠺᠥ</unicode>
+      <cyrillic>ШИДЭГДЭХ</cyrillic>
+      <definition>шидэх II-ийн үйлдэгд. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шидэгдэх</cyrillic>
+      <definition>Pass von шидэх</definition>
+      <page>384</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠳᠡᠭᠳᠡᠬᠦ</unicode>
+      <cyrillic>шидэгдэх</cyrillic>
+      <definition>шидэхийн үйлдэгдэх хэв.</definition>
+      <page>844</page>
+    </entry_item>
+  </entries>
+</entry>

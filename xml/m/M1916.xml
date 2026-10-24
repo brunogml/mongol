@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1916">
+  <head>
+    <unicode>ᠮᠣᠯᠲᠣᠷᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>multuraγulqu</transcript>
+    <transcript2>moldoragolgo</transcript2>
+    <cyrillic>мултруулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>M1915</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠤᠯᠲᠤᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>мултруулах</cyrillic>
+      <definition>〔动〕мултрах 的使动态.</definition>
+      <page>694</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠯᠲᠣᠷᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>МУЛТРУУЛАХ</cyrillic>
+      <definition>мултрах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠤᠯᠲᠤᠷᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>мултруулах</cyrillic>
+      <definition>мултрахын үйлдүүлэх хэв, мултрахад хүрүүлэх.</definition>
+      <page>349</page>
+    </entry_item>
+  </entries>
+</entry>

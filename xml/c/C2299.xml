@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C2299">
+  <head>
+    <unicode>ᠴᠢᠷᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>čiralaγulqu</transcript>
+    <transcript2>ciralagolgo</transcript2>
+    <cyrillic>чарлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>C2298</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠷᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>чарлуулах</cyrillic>
+      <definition>〔动〕чарлах 的使动态.</definition>
+      <page>1581</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠷᠠᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЧАРЛУУЛАХ</cyrillic>
+      <definition>чарлах-ын үйлдүүл., пиликать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чарлуулах</cyrillic>
+      <definition>Kaus von чарлах</definition>
+      <page>369</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠷᠠᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>чарлуулах</cyrillic>
+      <definition>чарлахын үйлдүүлэх хэв.</definition>
+      <page>815</page>
+    </entry_item>
+  </entries>
+</entry>

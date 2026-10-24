@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N2519">
+  <head>
+    <unicode>ᠨᠣᠷᠰᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>nursiγulqu</transcript>
+    <transcript2>norsigolgo</transcript2>
+    <cyrillic>нуршуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>N2513</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠤᠷᠱᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нуршуулах</cyrillic>
+      <definition>〔动〕нурших 的使动态.</definition>
+      <page>761</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠣᠷᠰᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>НУРШУУЛАХ</cyrillic>
+      <definition>нурших-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>нуршуулах</cyrillic>
+      <definition>Kaus von нуршиx</definition>
+      <page>161</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠤᠷᠱᠤᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>нуршуулах</cyrillic>
+      <definition>нуршихын үйлдүүлэх хэв, нуршихад хүрүүлэх.</definition>
+      <page>390</page>
+    </entry_item>
+  </entries>
+</entry>

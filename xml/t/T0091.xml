@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0091">
+  <head>
+    <unicode>ᠳᠠᠨᠳᠠᠢ</unicode>
+    <transcript>dandai</transcript>
+    <transcript2>dandai</transcript2>
+    <cyrillic>дандай</cyrillic>
+  </head>
+  <see_also>
+    <ref>T0090</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠠᠩᠳᠠᠢ</unicode>
+      <cyrillic>дандай</cyrillic>
+      <definition>见 ~ хийх （下棋）连续将军.</definition>
+      <page>389</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠠᠨᠳᠠᠢ</unicode>
+      <cyrillic>ДАНДАЙ</cyrillic>
+      <definition>шатар. вечный шах; дандай хийх ставить короля в безвыходное положение. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>дандай</cyrillic>
+      <definition>Dauerschach n</definition>
+      <page>91</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠠᠨᠳᠠᠢ</unicode>
+      <cyrillic>дандай</cyrillic>
+      <definition>шатардахад ноёныг цөхрөлтгүй шалах шалаа.</definition>
+      <page>187</page>
+    </entry_item>
+  </entries>
+</entry>

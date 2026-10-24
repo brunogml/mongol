@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B1516">
+  <head>
+    <unicode>ᠪᠠᠷᠣᠰ</unicode>
+    <transcript>barus</transcript>
+    <transcript2>baros</transcript2>
+    <cyrillic>барас</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠪᠠᠷᠣᠰ</unicode>
+      <uighur>barus</uighur>
+      <transcript>BARUS</transcript>
+      <page>90</page>
+      <examples>
+        <example>
+          <unicode>ᠪᠠᠷᠣᠰ ᠪᠤᠷᠤᠰ</unicode>
+          <transcript>-- burus</transcript>
+          <definition>Obscurely, confusedly, indistinctly.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠪᠠᠷᠣᠰ ᠪᠠᠷᠣᠰ</unicode>
+      <definition>obscurément, confusément, voir trouble.</definition>
+      <page>1108</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠠᠷᠤᠰ</unicode>
+      <cyrillic>барас</cyrillic>
+      <definition>见 ~ бүрэс(1)（神志）迷迷糊糊的，恍恍惚惚的；(2)（物体）忽隐忽现：харанхуйд нэг юм ~ бурэс хийв 黑暗中一个东西忽隐忽现.</definition>
+      <page>131</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠠᠷᠣᠰ</unicode>
+      <cyrillic>БАРАС</cyrillic>
+      <definition>: барас бүрэс хорш. неясно, смутно.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>барас</cyrillic>
+      <definition>~ бүрэс хийх auftauchen und wieder verschwinden; ухаан ~ бүрэс болох Gedächtnislükken bekommen</definition>
+      <page>46</page>
+    </entry_item>
+  </entries>
+</entry>

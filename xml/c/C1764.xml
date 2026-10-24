@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C1764">
+  <head>
+    <unicode>ᠴᠢᠳᠠᠯᠠᠷᠬᠠᠣ</unicode>
+    <transcript>čidalarqau</transcript>
+    <transcript2>cidalargao</transcript2>
+    <cyrillic>чадлархуу</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠢᠳᠠᠯᠠᠷᠬᠠᠭᠤ</unicode>
+      <cyrillic>чадлархуу</cyrillic>
+      <definition>〔形〕参见 чадлархаг.</definition>
+      <page>1575</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠢᠳᠠᠯᠠᠷᠬᠠᠣ</unicode>
+      <cyrillic>ЧАДЛАРХУУ</cyrillic>
+      <definition>чадлархаг-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>чадлархуу</cyrillic>
+      <definition>= чадлархаг</definition>
+      <page>367</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠢᠳᠠᠯᠠᠷᠬᠠᠤ</unicode>
+      <cyrillic>чадлархуу</cyrillic>
+      <definition>чадлархаг.</definition>
+      <page>812</page>
+    </entry_item>
+  </entries>
+  <see_also>
+    <ref>C1765</ref>
+  </see_also>
+</entry>

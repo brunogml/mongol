@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0030">
+  <head>
+    <unicode>ᠴᠠᠩᠨᠠᠬᠣ</unicode>
+    <transcript>čangnaqu</transcript>
+    <transcript2>cangnago</transcript2>
+    <cyrillic>цагнах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠩᠨᠠᠬᠣ</unicode>
+      <uighur>čangnaqu</uighur>
+      <cyrillic>цагнах</cyrillic>
+      <transcript>CANGNA-</transcript>
+      <definition>Same as cangtu-</definition>
+      <page>164</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠠᠩᠨᠠᠬᠤ</unicode>
+      <definition>être fatigué, perdre ses forces, s'épuiser</definition>
+      <page>2079</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠠᠩᠨᠠᠬᠤ</unicode>
+      <cyrillic>цагнах</cyrillic>
+      <definition>〔动〕打钹.</definition>
+      <page>1513</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠩᠨᠠᠬᠣ</unicode>
+      <cyrillic>ЦАГНАХ</cyrillic>
+      <definition>цантах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цагнах</cyrillic>
+      <definition>= цантах</definition>
+      <page>351</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠠᠩᠨᠠᠬᠤ</unicode>
+      <cyrillic>цагнах</cyrillic>
+      <definition>цантах, цан хүүрэг цохих.</definition>
+      <page>779</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>C0028</ref>
+  </related_to>
+</entry>

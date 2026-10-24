@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S6001">
+  <head>
+    <unicode>ᠱᠣᠮᠣᠶᠢᠬᠣ</unicode>
+    <transcript>šomuyiqu</transcript>
+    <transcript2>somoyigo</transcript2>
+    <cyrillic>шомойх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S6003</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠱᠣᠮᠣᠢᠬᠤ</unicode>
+      <cyrillic>шомойх</cyrillic>
+      <definition>〔动〕（生长不良的作物的果实）变得有皱纹，起皱纹，干瘪，不饱满.</definition>
+      <page>1648</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠱᠣᠮᠣᠶᠢᠬᠣ</unicode>
+      <cyrillic>ШОМОЙХ</cyrillic>
+      <definition>коробиться; морщиться; мяться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шомойх</cyrillic>
+      <definition>runzelig werden, verschrumpeln</definition>
+      <page>389</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠱᠣᠮᠣᠢᠬᠤ</unicode>
+      <cyrillic>шомойх</cyrillic>
+      <definition>шомгор байдалтайболох.</definition>
+      <page>853</page>
+    </entry_item>
+  </entries>
+</entry>

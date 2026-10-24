@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7321">
+  <head>
+    <unicode>ᠲᠣᠵᠢᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>toǰiγanaγulqu</transcript>
+    <transcript2>dociganagolgo</transcript2>
+    <cyrillic>тожгонуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T7320</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠵᠢᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тожгонуулах</cyrillic>
+      <definition>〔动〕тожгонох 的使动态.</definition>
+      <page>1061</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠵᠢᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТОЖГОНУУЛАХ</cyrillic>
+      <definition>тожгонох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠵᠢᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тожгонуулах</cyrillic>
+      <definition>тожгонохын үйлдүүлэх хэв.</definition>
+      <page>535</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠵᠢᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тожигнуулах</cyrillic>
+      <definition>тожигнохын үйлдүүлэх хэв.</definition>
+      <page>535</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q1417">
+  <head>
+    <unicode>ᠬᠠᠰᠣᠬᠴᠢ</unicode>
+    <transcript>qasuγči</transcript>
+    <transcript2>gasogci</transcript2>
+    <cyrillic>хасагч</cyrillic>
+  </head><derivatives>
+    <ref>Q1414</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠰᠤᠭᠴᠢ</unicode>
+      <cyrillic>хасагч</cyrillic>
+      <definition>〔名・形〕①〈数〉减数：~ тоо 减数；②减去的，缩减的，减少的，减退的，缩短的；裁减的；扣除的；剥夺的.</definition>
+      <page>1322</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠰᠣᠬᠴᠢ</unicode>
+      <cyrillic>ХАСАГЧ</cyrillic>
+      <definition>тоо. вычитаемое. </definition>
+      <page>0</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>хасагч</cyrillic>
+    <definition>Math Minuend m</definition>
+    <page>297</page>
+  </entry_item>
+  </entries>
+</entry>

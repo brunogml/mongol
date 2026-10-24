@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5058">
+  <head>
+    <unicode>ᠳᠢᠺᠯᠢᠮᠰᠢᠺᠥ</unicode>
+    <transcript>diglimsikü</transcript>
+    <transcript2>diglimsigö</transcript2>
+    <cyrillic>дэглэмших</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T5059</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳᠢᠭᠯᠢᠮᠰᠢᠬᠦ</unicode>
+      <cyrillic>дэглэмших</cyrillic>
+      <definition>〔动〕建立起规章制度，有秩序起来.</definition>
+      <page>466</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠳᠢᠺᠯᠢᠮᠰᠢᠺᠥ</unicode>
+      <cyrillic>ДЭГЛЭМШИХ</cyrillic>
+      <definition>придерживаться порядка, распорядка; строго соблюдать режим. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳᠢᠭᠯᠢᠮᠰᠢᠬᠦ</unicode>
+      <cyrillic>дэглэмших</cyrillic>
+      <definition>дэглэмтэй болох, журамших.</definition>
+      <page>223</page>
+    </entry_item>
+  </entries>
+</entry>

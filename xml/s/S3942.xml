@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3942">
+  <head>
+    <unicode>ᠰᠢᠯᠥᠺᠴᠢ</unicode>
+    <transcript>silügči</transcript>
+    <transcript2>silögci</transcript2>
+    <cyrillic>шүлэгч</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠢᠯᠥᠺᠴᠢ</unicode>
+      <uighur>silükči</uighur>
+      <cyrillic>шүлэгч</cyrillic>
+      <transcript>SILYGCI</transcript>
+      <definition>n. Poet</definition>
+      <page>708</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠷᠠᠨ ᠰᠢᠯᠥᠺᠴᠢ</unicode>
+          <transcript>uran -- </transcript>
+          <definition>Poet</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠢᠯᠦᠺᠴᠢ</unicode>
+      <definition>poëte, versificateur</definition>
+      <page>1497</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠯᠦᠭᠴᠢ</unicode>
+      <cyrillic>шүлэгч</cyrillic>
+      <definition>〔名〕诗人.</definition>
+      <page>1667</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠯᠥᠺᠴᠢ</unicode>
+      <cyrillic>ШҮЛЭГЧ</cyrillic>
+      <definition>поэт, стихотворец; пиит; трубадур. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>шүлэгч</cyrillic>
+      <definition>Dichter m, Lyriker m; poet Poet m</definition>
+      <page>393</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠯᠦᠭᠴᠢ</unicode>
+      <cyrillic>шүлэгч</cyrillic>
+      <definition>шүлэг зохиохдоо чадамгай; зохиолч шүлэгч нар.</definition>
+      <page>862</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>S3919</ref>
+  </related_to>
+</entry>

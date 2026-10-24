@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q1006">
+  <head>
+    <unicode>ᠬᠠᠪᠢᠶᠠᠲᠣ</unicode>
+    <transcript>qabiyatu</transcript>
+    <transcript2>gabiyado</transcript2>
+    <cyrillic>хавьяат</cyrillic>
+  </head><see_also>
+    <ref>Q1007</ref>
+  
+    <ref>Q1002</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠪᠢᠶᠠᠲᠣ</unicode>
+      <uighur>qabiyadu</uighur>
+      <cyrillic>хавьяат</cyrillic>
+      <transcript>XABIJATU</transcript>
+      <definition>See xabijatai.</definition>
+      <page>897</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠬᠠᠪᠢᠶᠠᠲᠤ ~ ᠬᠠᠪᠢᠶᠠᠲᠠᠢ</unicode>
+      <definition>utile, avantageux</definition>
+      <page>754</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠮᠢᠨ ᠬᠠᠪᠢᠶᠠᠲᠤ ᠨᠠᠰᠤᠲᠤ</unicode>
+          <definition>vivant, celui qui jouit de la vie, destiné à une longue vie. L'épithète de quelques uns des disciples de Câkyamuni, particulièrement de Sûputi</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠪᠢᠶᠠᠲᠤ ᠎ᠶᠢ ᠬᠠᠪᠢᠶᠠᠲᠤ ᠪᠣᠭᠠᠪᠠᠢ</unicode>
+          <definition>il a rendu tout le monde utile</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C3598">
+  <head>
+    <unicode>ᠴᠥᠮᠥ</unicode>
+    <transcript>čömü</transcript>
+    <transcript2>cömö</transcript2>
+    <cyrillic>цөм</cyrillic>
+  </head>
+  <see_also>
+    <ref>C3592</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠥᠮᠥ</unicode>
+      <uighur>čömü</uighur>
+      <transcript>CØMY</transcript>
+      <definition>1 See cøm-e</definition>
+      <page>202</page>
+    </entry_item>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠥᠮᠥ</unicode>
+      <uighur>čömü</uighur>
+      <cyrillic>цөм</cyrillic>
+      <transcript>CØMY</transcript>
+      <definition>2 Intensifying adverbial particle descriptive of breaking, denting, or collapsing.</definition>
+      <page>202</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠥᠮᠥ ᠴᠣᠺᠢᠬᠤ</unicode>
+          <transcript>-- cokixu</transcript>
+          <definition> To make a dent.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠦᠮ᠎ᠡ ~ ᠴᠦᠮᠦ</unicode>
+      <definition>le noyau des fruits, pépin.</definition>
+      <page>2226</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠥᠮᠥ</unicode>
+      <cyrillic>ЦӨМ</cyrillic>
+      <definition>III : өм цөм хорш. оторванный кусками. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠥᠮᠥ</unicode>
+      <cyrillic>цөм /2</cyrillic>
+      <definition>өм;өм цөм&lt;хорш&gt;; цөм татах; цөм цохих; цөм хатгах.</definition>
+      <page>794</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠥᠮᠥ</unicode>
+      <cyrillic>цөм /4</cyrillic>
+      <definition>цөмөө.</definition>
+      <page>794</page>
+    </entry_item>
+  </entries>
+</entry>

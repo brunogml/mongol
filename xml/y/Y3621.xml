@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y3621">
+  <head>
+    <unicode>ᠵᠢᠷᠮᠡᠺᠡᠨᠡᠺᠥ</unicode>
+    <transcript>ǰirmegenekü</transcript>
+    <transcript2>yirmegenegö</transcript2>
+    <cyrillic>жирмэгнэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y3622</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠢᠷᠮᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>жирмэгнэх</cyrillic>
+      <definition>〔动〕眼晴不停眯缝，一吊一吊，吊眼频频转动.</definition>
+      <page>513</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠢᠷᠮᠡᠺᠡᠨᠡᠺᠥ</unicode>
+      <cyrillic>ЖИРМЭГНЭХ</cyrillic>
+      <definition>жирмэлзэх-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠢᠷᠮᠡᠭᠡᠨᠡᠬᠦ</unicode>
+      <cyrillic>жирмэгнэх</cyrillic>
+      <definition>жирэмгэр юмны үргэлжлэн хөдлөх.</definition>
+      <page>248</page>
+    </entry_item>
+  </entries>
+</entry>

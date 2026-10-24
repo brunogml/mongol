@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="Q2672">
+  <head>
+    <unicode>ᠭᠠᠵᠠᠷᠳᠠᠭᠣᠯᠭ᠎ᠠ</unicode>
+    <transcript>γaǰardaγulγ-a</transcript>
+    <transcript2>gacardagolga</transcript2>
+    <cyrillic>газардуулга</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠠᠵᠠᠷᠳᠠᠭᠤᠯᠭ᠎ᠠ</unicode>
+      <cyrillic>газардуулга</cyrillic>
+      <definition>〔名〕〈电〉接地：~ утас 地线；газардуулгын гүйдэл 接地电流；газардуулгын ялтас 接地线板；~гүй утас 无交接地线；газардуулгын гэдрэг хэлхээ 接地反演电流.</definition>
+      <page>269</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠵᠠᠷᠳᠠᠭᠣᠯᠭ᠎ᠠ</unicode>
+      <cyrillic>ГАЗАРДУУЛГА</cyrillic>
+      <definition>цахил. заземление, провод заземления, замыкание на землю; ажиллах газардуулга цахил. рабочее заземление. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠵᠠᠷᠳᠠᠭᠣᠯᠭ᠎ᠠ</unicode>
+      <cyrillic>ГАЗАРДУУЛГАГҮЙ</cyrillic>
+      <definition>цахил. незаземлённый; газардуулгагүй утас цахил. незаземлённый провод. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠠᠵᠠᠷᠳᠠᠭᠣᠯᠭ᠎ᠠ</unicode>
+      <cyrillic>ГАЗАРДУУЛГЫН</cyrillic>
+      <definition>газардуулга-ын харьяал., заземляющий; газардуулгын гүйдэл цахил. ток заземления; газардуулгын утас цахил. заземлённый трос; заземляющий провод; газардуулгын эсэргүүцэл цахил. сопротивление заземления; газардуулгын ялтас цахил. пластинка заземляющяя. </definition>
+      <page>0</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>газардуулга</cyrillic>
+    <definition>Tech Erdung f</definition>
+    <page>72</page>
+  </entry_item>
+  </entries>
+<related_to><ref>Q2674</ref></related_to></entry>

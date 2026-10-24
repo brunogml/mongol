@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S2552">
+  <head>
+    <unicode>ᠰᠠᠺᠥᠺᠥ</unicode>
+    <transcript>sekükü</transcript>
+    <transcript2>segögö</transcript2>
+    <cyrillic>сөхөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S2553</ref>
+    <ref>S2555</ref>
+  </derivatives>
+  <see_also>
+    <ref>S6853a</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠺᠥᠺᠥ</unicode>
+      <uighur>segükü</uighur>
+      <cyrillic>сөхөх</cyrillic>
+      <transcript>SEKY-</transcript>
+      <definition>[= søky-] v.t. To raise, lift up, open by lifting up</definition>
+      <page>685</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠣᠩᠬᠤ ᠰᠠᠺᠥᠺᠥ</unicode>
+          <transcript>congxu --ky</transcript>
+          <definition> To raise the window.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠭᠦᠳᠡ ᠰᠠᠺᠥᠺᠥ</unicode>
+          <transcript>egyde --ky</transcript>
+          <definition> To lift up the felt curtain in front of the door.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠷᠦᠺᠡ ᠰᠠᠺᠥᠺᠥ</unicode>
+          <transcript>eryke --ky</transcript>
+          <definition> To lift (raise, open) the covering of the smoke hole in a yurt</definition>
+        </example>
+        <example>
+          <unicode>ᠨᠣᠮ ᠰᠠᠺᠥᠺᠥ</unicode>
+          <transcript>nom --ky</transcript>
+          <definition> To open a book.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠡᠭᠦᠺᠦ</unicode>
+      <definition>lever, relever (p. e. un habit de devant, ses manches), rouler (des habits , une couverture de lit).</definition>
+      <page>1365</page>
+      <examples>
+        <example>
+          <unicode>ᠮᠣᠳᠤᠨ ᠤ ᠨᠠᠪᠴᠢᠳ ᠢ ᠲᠡᠭᠡᠭᠰᠢ ᠰᠡᠭᠦᠪᠡᠢ</unicode>
+          <definition>(le vent) souleva les feuilles des arbres</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠰᠠᠺᠥᠺᠥ</unicode>
+      <uighur>sekükü</uighur>
+      <definition>aufheben, aufschürzen</definition>
+      <page>347</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠰᠠᠺᠥᠺᠥ</unicode>
+      <uighur>segükü</uighur>
+      <definition>v.t. To gather together. To tuck up, to tuck up the clothes.</definition>
+      <page>1398</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠡᠬᠦᠬᠦ</unicode>
+      <cyrillic>сөхөх</cyrillic>
+      <definition>1. унжуулсан юмыг өөд нь болгох шуух; хаяа сөхөх;2. юмны хавхаг, таглаа зэргийг өөд нь болгох буюу онгойлгох нээх; авдрын хавхаг нээх;3. дарагдсан хэргийг гаргах.</definition>
+      <page>484</page>
+    </entry_item>
+  </entries>
+</entry>

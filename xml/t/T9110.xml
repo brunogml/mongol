@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T9110">
+  <head>
+    <unicode>ᠲᠥᠺᠥᠷᠡᠺᠳᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>tügüregdegülkü</transcript>
+    <transcript2>dögöregdegölgö</transcript2>
+    <cyrillic>түүрэгдүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>T9109</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠦᠭᠦᠷᠡᠭᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>түүрэгдүүлэх</cyrillic>
+      <definition>〔动〕түүрэгдэх 的使动态.</definition>
+      <page>1143</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠥᠺᠥᠷᠡᠺᠳᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ТҮҮРЭГДҮҮЛЭХ</cyrillic>
+      <definition>түүрэгдэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠦᠭᠦᠷᠡᠭᠳᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>түүрэгдүүлэх</cyrillic>
+      <definition>түүрэгдэхийн үйлдүүлэх хэв.</definition>
+      <page>570</page>
+    </entry_item>
+  </entries>
+</entry>

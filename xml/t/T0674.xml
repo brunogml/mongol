@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T0674">
+  <head>
+    <unicode>ᠲᠠᠭᠣᠪᠣᠷᠢᠰᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>taγuburisiγulqu</transcript>
+    <transcript2>dagoborisigolgo</transcript2>
+    <cyrillic>тууваршуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T0673</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠠᠭᠤᠪᠤᠷᠢᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тууваршуулах</cyrillic>
+      <definition>〔动〕тууварших 的使动态.</definition>
+      <page>1121</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠠᠭᠣᠪᠣᠷᠢᠰᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТУУВАРШУУЛАХ</cyrillic>
+      <definition>тууварших-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠠᠭᠤᠪᠤᠷᠢᠰᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тууваршуулах</cyrillic>
+      <definition>тууваршихын үйлдүүлэх хэв.</definition>
+      <page>560</page>
+    </entry_item>
+  </entries>
+</entry>

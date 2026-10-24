@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="ZB069">
+  <head>
+    <cyrillic>бентос</cyrillic>
+  </head>
+  <see_also>
+    <ref>ZB068</ref>
+    <ref>ZB070</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠧᠨ᠋ᠲ᠋ᠣᠰ</unicode>
+      <cyrillic>бентос</cyrillic>
+      <definition>〔名〕水底生物.</definition>
+      <page>149</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠧᠨ᠋ᠲᠣᠰ</unicode>
+      <cyrillic>бентос</cyrillic>
+      <definition>гүн далайн ёроолын амьтад ба ургамлуудын ерөнхий нэр; бентосны зарим нь далайн ёроолд бэхлэгдсэн орших ба зарим нь чөлөөтэйгээр явж чадна.</definition>
+      <page>82</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q2361">
+  <head>
+    <unicode>ᠬᠠᠮᠠᠷᠯᠠᠬᠣ</unicode>
+    <transcript>qamarlaqu</transcript>
+    <transcript2>gamarlago</transcript2>
+    <cyrillic>хамарлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q2362</ref>
+    <ref>Q2363</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠮᠠᠷᠯᠠᠬᠤ</unicode>
+      <cyrillic>хамарлах</cyrillic>
+      <definition>〔动〕①作隔板，设间壁，砌隔墙；②沿山鼻梁走，沿小山丘走，沿高地走.</definition>
+      <page>1296</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠮᠠᠷᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХАМАРЛАХ</cyrillic>
+      <definition>I сделать перегородку. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠮᠠᠷᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХАМАРЛАХ</cyrillic>
+      <definition>II идти по хребтам, по горам, по возвышенному месту. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хамарлах</cyrillic>
+      <definition>1. anbauen, angrenzend plazieren; хашаа ~ eine Umzäunung anbauen
+2. übertr über einen Bergkamm gehen</definition>
+      <page>290</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠮᠠᠷᠯᠠᠬᠤ</unicode>
+      <cyrillic>хамарлах /1</cyrillic>
+      <definition>юманд хамар хийх; хашаа хамарлах.</definition>
+      <page>654</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠮᠠᠷᠯᠠᠬᠤ</unicode>
+      <cyrillic>хамарлах /2</cyrillic>
+      <definition>уулын хамрыг даган явах; тэр уулыг хамарлаж яваарай.</definition>
+      <page>654</page>
+    </entry_item>
+  </entries>
+</entry>

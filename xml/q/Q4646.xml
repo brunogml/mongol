@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q4646">
+  <head>
+    <unicode>ᠭᠣᠪᠠᠵᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>γubaǰilaγulqu</transcript>
+    <transcript2>gobacilagolgo</transcript2>
+    <cyrillic>гувжлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Q4645</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠤᠪᠠᠵᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гувжлуулах</cyrillic>
+      <definition>〔动〕①гувжлах 的使动态；②意同 гувжлагдах.</definition>
+      <page>319</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠭᠣᠪᠠᠵᠢᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ГУВЖЛУУЛАХ</cyrillic>
+      <definition>гувжлах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠭᠤᠪᠠᠵᠢᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>гувжлуулах</cyrillic>
+      <definition>гувжлахын үйлдүүлэх хэв.</definition>
+      <page>155</page>
+    </entry_item>
+  </entries>
+</entry>

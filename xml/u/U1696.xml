@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="U1696">
+  <head>
+    <unicode>ᠣᠯᠢᠭᠣᠯᠬᠣ</unicode>
+    <transcript>uliγulqu</transcript>
+    <transcript2>oligolgo</transcript2>
+    <cyrillic>улиулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>U1693</ref>
+  </related_to>
+  <see_also>
+    <ref>U1697</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠤᠯᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>улиулах</cyrillic>
+      <definition>〔动〕улих 的使动态.</definition>
+      <page>1186</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠯᠢᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>УЛИУЛАХ</cyrillic>
+      <definition>улих-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>улиулах</cyrillic>
+      <definition>Kaus von улих</definition>
+      <page>255</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠤᠯᠢᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>улиулах</cyrillic>
+      <definition>улихын үйлдүүлэх хэв.</definition>
+      <page>591</page>
+    </entry_item>
+  </entries>
+</entry>

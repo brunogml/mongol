@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7509">
+  <head>
+    <unicode>ᠲᠣᠶᠢᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>toyiγlaγulqu</transcript>
+    <transcript2>doyiglagolgo</transcript2>
+    <cyrillic>тойглуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>T7508</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠢᠭᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тойглуулах</cyrillic>
+      <definition>〔动〕①тойглох /1、/2 的使动态；②意同 тойглогдох.</definition>
+      <page>1062</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠶᠢᠬᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ТОЙГЛУУЛАХ</cyrillic>
+      <definition>тойглох I, II-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠢᠭᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>тойглуулах</cyrillic>
+      <definition>1. тойглохын үйлдүүлэх хэв;2. тойглогдох.</definition>
+      <page>536</page>
+    </entry_item>
+  </entries>
+</entry>

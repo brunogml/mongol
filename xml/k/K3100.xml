@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K3100">
+  <head>
+    <unicode>ᠺᠥᠨᠳᠥᠯᠡᠺᠥ</unicode>
+    <transcript>kündülekü</transcript>
+    <transcript2>göndölegö</transcript2>
+    <cyrillic>хүндлэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K3101</ref>
+    <ref>K3102</ref>
+    <ref>K3099</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠥᠨᠳᠥᠯᠡᠺᠥ</unicode>
+      <uighur>kündülekü</uighur>
+      <cyrillic>хүндлэх</cyrillic>
+      <transcript>KYNDYLE-</transcript>
+      <definition>v. t. To show respect, revere, honor; to be polite; to treat, regale, entertain.</definition>
+      <page>502</page>
+      <examples>
+        <example>
+          <unicode>ᠺᠥᠨᠳᠥᠯᠡᠨ ᠡᠷᠭᠦᠺᠦ</unicode>
+          <transcript>--n ergyky</transcript>
+          <definition>To respect and honor</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠥᠨᠳᠥᠯᠡᠨ ᠲᠠᠺᠢᠬᠤ</unicode>
+          <transcript>--n takixu</transcript>
+          <definition>To sacrifice with devotion</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠡᠶ᠎ᠡ ᠪᠡᠨ ᠺᠥᠨᠳᠥᠯᠡᠺᠦ</unicode>
+          <transcript>bej-e ben --ky</transcript>
+          <definition>To respect oneself, show self-respect.</definition>
+        </example>
+        <example>
+          <unicode>ᠡᠷᠭᠦᠨ ᠺᠥᠨᠳᠥᠯᠡᠺᠦ</unicode>
+          <transcript>ergyn --ky</transcript>
+          <definition>To respect, show deference to</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠭᠦᠨᠳᠦᠯᠡᠺᠦ</unicode>
+      <definition>respecter , traiter avec honneur qu., faire politesse</definition>
+      <page>2570</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠣᠸᠠᠷᠠᠬ ᠤᠳ ᠢ ᠡᠷᠭᠦᠨ ᠺᠦᠨᠳᠦᠯᠡᠺᠦ</unicode>
+          <definition>traiter avec honneur le clergé</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠺᠥᠨᠳᠥᠯᠡᠺᠥ</unicode>
+      <uighur>kündülekü</uighur>
+      <definition>ehren, Ehre erzeigen</definition>
+      <page>179</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠺᠥᠨᠳᠥᠯᠡᠺᠥ</unicode>
+      <uighur>kündülekü</uighur>
+      <definition>v.t. To honour. To render or show honour. To exalt, to reverence, to respect.</definition>
+      <page>701</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠦᠨᠳᠦᠯᠡᠬᠦ</unicode>
+      <cyrillic>хүндлэх</cyrillic>
+      <definition>〔动〕①尊敬，尊重，敬重：настныг ~ 尊敬老人；②招待，款待：зочдыг ~ 款待客人.</definition>
+      <page>1456</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠨᠳᠥᠯᠡᠺᠥ</unicode>
+      <cyrillic>ХҮНДЛЭХ</cyrillic>
+      <definition>1) уважать, почитать, чествовать; относиться с уважением, оказывать почтение; гүнээ хүндлэх глубоко уважать; относиться с уважением; хүндлэхийн орон объект уважения, предмет поклонения; 2) угощать, потчевать.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хүндлэх</cyrillic>
+      <definition>achten, respektieren, [ver]ehren; schätzen, in Ehren halten, würdigen; гүнзэз ~ tief verehren</definition>
+      <page>335</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠦᠨᠳᠦᠯᠡᠬᠦ</unicode>
+      <cyrillic>хүндлэх</cyrillic>
+      <definition>хүндтэйд үзэж ёс журмыг гүйцэтгэх; эцэг эхийг хүндлэх; эрдэмтнийг хүндлэх; настныг хүндлэх; ахмад тушаалтныг хүндлэх; зочдыг хүндлэх.</definition>
+      <page>746</page>
+    </entry_item>
+  </entries>
+</entry>

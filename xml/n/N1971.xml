@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N1971">
+  <head>
+    <unicode>ᠨᠣᠬᠠᠶᠢᠲᠣᠬᠣ</unicode>
+    <transcript>noqayituqu</transcript>
+    <transcript2>nogayidogo</transcript2>
+    <cyrillic>нохойтох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>N1972</ref>
+    <ref>N1973</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠣᠬᠠᠢᠲᠤᠬᠤ</unicode>
+      <cyrillic>нохойтох</cyrillic>
+      <definition>〔动〕耍赖，耍无赖.</definition>
+      <page>751</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠣᠬᠠᠶᠢᠲᠣᠬᠣ</unicode>
+      <cyrillic>НОХОЙТОХ</cyrillic>
+      <definition>яриа. плутовать, поступать как плут, хитрить, обманывать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>нохойтох</cyrillic>
+      <definition>= нохойрхох</definition>
+      <page>159</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠣᠬᠠᠢᠲᠤᠬᠤ</unicode>
+      <cyrillic>нохойтох</cyrillic>
+      <definition>заль мэх гаргах, нохой зан гаргах.</definition>
+      <page>383</page>
+    </entry_item>
+  </entries>
+</entry>

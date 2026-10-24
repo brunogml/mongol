@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A3393">
+  <head>
+    <unicode>ᠠᠵᠣᠭᠣ</unicode>
+    <transcript>aǰuγu</transcript>
+    <transcript2>acogo</transcript2>
+    <cyrillic>ажгуу</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠵᠣᠭᠣ</unicode>
+      <uighur>aǰuγu</uighur>
+      <cyrillic>ажгуу</cyrillic>
+      <transcript>AZUГU</transcript>
+      <definition>[= azi, past tense of a-] It was, there was or were</definition>
+      <page>63</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠡᠶᠢᠮᠦ ᠠᠵᠣᠭᠣ</unicode>
+          <transcript>teimy --</transcript>
+          <definition>It was so</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠷᠡ ᠶᠠᠪᠤᠭᠰᠠᠨ ᠠᠵᠣᠭᠣ</unicode>
+          <transcript>tere jabuγsan—</transcript>
+          <definition>He has gone</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠠᠵᠣᠭᠤ ~ ᠠᠵᠢᠭᠤ</unicode>
+      <definition>est, il semble, n'est-ce pas? (à la fin de la période).</definition>
+      <page>125</page>
+      <examples>
+        <example>
+          <unicode>ᠤᠰᠤᠨ ᠳ᠋‍‍ᠤ‍ᠷ ᠤᠨᠠᠵᠤ ᠥᠭᠦᠭᠰᠡᠨ ᠦᠨᠡᠨ ᠠᠵᠤᠭᠤ ᠺᠡᠮᠡᠨ ᠰᠡᠳᠺᠢᠪᠡᠢ</unicode>
+          <definition>l'on croyait qu'elle's étaient véritablement noyées.</definition>
+        </example>
+        <example>
+          <unicode>ᠲᠡᠷᠭᠡᠨ ᠤ ᠳᠣᠲᠣᠷ᠎ᠠ ᠨᠢᠭᠡᠨ ᠭᠣᠤ᠎ᠠ ᠦᠵᠡᠰᠺᠦᠯᠡᠩ ᠎ᠲᠦ ᠥᠺᠢᠨ ᠪᠤᠢ ᠠᠵᠤᠭᠤ</unicode>
+          <definition>sur le char se trouve une tres jolie fille</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠠᠵᠣᠭᠣ</unicode>
+      <uighur>aǰuγu</uighur>
+      <definition>es ist, es scheint zu seyn</definition>
+      <page>20</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠠᠵᠣᠭᠣ</unicode>
+      <uighur>aǰuγu</uighur>
+      <definition>There is, looks like. Appear as if ...</definition>
+      <page>75</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠵᠤᠭᠤ</unicode>
+      <cyrillic>ажгуу</cyrillic>
+      <definition>〔感〕〈书〉哦，啊：ийм ~ 原来如此啊！</definition>
+      <page>26</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠵᠣᠭᠣ</unicode>
+      <cyrillic>АЖГУУ</cyrillic>
+      <definition>бичг. оказывается, оказалось; түүний үгийг хүн үл дагах агсан ажгуу оказывается, никто не должен был ослушаться его слов.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠵᠣᠭᠣ</unicode>
+      <cyrillic>АЖЭЭ</cyrillic>
+      <definition>аж–ийн өнгөрсөн цаг.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Bawden</dico>
+      <cyrillic>ажгуу</cyrillic>
+      <definition>"ажгуу</definition>
+      <page>########was, were"####7</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠵᠤᠭᠤ</unicode>
+      <cyrillic>ажуу</cyrillic>
+      <definition>〔动〕参见 ажээ.</definition>
+      <page>29</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠵᠤᠭᠤ</unicode>
+      <cyrillic>ажээ</cyrillic>
+      <definition>аж гэдэг дутмаг үйл үгийн өнгөрсөн цагийн хэлбэр.</definition>
+      <page>25</page>
+    </entry_item>
+  </entries>
+</entry>

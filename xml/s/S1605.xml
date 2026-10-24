@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1605">
+  <head>
+    <unicode>ᠰᠠᠶᠢᠮᠰᠢᠷᠠᠬᠣ</unicode>
+    <transcript>sayimsiraqu</transcript>
+    <transcript2>sayimsirago</transcript2>
+    <cyrillic>саймшрах</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠢᠮᠰᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>саймшрах</cyrillic>
+      <definition>〔动〕参见 саймсрах.</definition>
+      <page>897</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠶᠢᠮᠰᠢᠷᠠᠬᠣ</unicode>
+      <cyrillic>САЙМШРАХ</cyrillic>
+      <definition>саймсрах-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠢᠮᠰᠢᠷᠠᠬᠤ</unicode>
+      <cyrillic>саймшрах</cyrillic>
+      <definition>зулгуйдаж дотно сайн байгаа шинж гаргах.</definition>
+      <page>460</page>
+    </entry_item>
+  </entries>
+</entry>

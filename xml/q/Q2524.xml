@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Q2524">
+  <head>
+    <unicode>ᠬᠠᠮᠲᠣᠯᠠᠬᠣ</unicode>
+    <transcript>qamtulaqu</transcript>
+    <transcript2>gamdolago</transcript2>
+    <cyrillic>хамтлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Q2525</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠬᠠᠮᠲᠣᠯᠠᠬᠣ</unicode>
+      <uighur>qamdolaqu</uighur>
+      <cyrillic>хамтлах</cyrillic>
+      <transcript>XAMTULA-</transcript>
+      <definition>v.t. To unite, join; to do simultaneously; to socialize.</definition>
+      <page>925</page>
+      <examples>
+        <example>
+          <unicode>ᠬᠠᠮᠲᠣᠯᠠᠨ ᠪᠠᠷᠢᠭᠤᠯᠬᠤ</unicode>
+          <transcript>--n bariγulxu</transcript>
+          <definition> To submit simultaneously.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠠᠮᠲᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>хамтлах</cyrillic>
+      <definition>〔动〕参见 хамтатгах.</definition>
+      <page>1300</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠬᠠᠮᠲᠣᠯᠠᠬᠣ</unicode>
+      <cyrillic>ХАМТЛАХ</cyrillic>
+      <definition>объединять; обобществлять. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хамтлах</cyrillic>
+      <definition>verbinden, zusammenlegen; vergesellschaften</definition>
+      <page>291</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠠᠮᠲᠤᠯᠠᠬᠤ</unicode>
+      <cyrillic>хамтлах</cyrillic>
+      <definition>хамтатгах, нэгэн хамт болгох; нэр хамтлах.</definition>
+      <page>655</page>
+    </entry_item>
+  </entries>
+</entry>

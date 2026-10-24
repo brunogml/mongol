@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3674">
+  <head>
+    <unicode>ᠰᠢᠪᠺᠠᠯᠠᠺᠥᠯᠺᠥ</unicode>
+    <transcript>sibkelegülkü</transcript>
+    <transcript2>sibgelegölgö</transcript2>
+    <cyrillic>шивхлүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>S3673</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠪᠬᠢᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>шивхлүүлэх</cyrillic>
+      <definition>〔动〕шивхлэх 的使动态.</definition>
+      <page>1628</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠪᠺᠠᠯᠠᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ШИВХЛҮҮЛЭХ</cyrillic>
+      <definition>шивхлэх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠪᠬᠡᠯᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>шивхлүүлэх</cyrillic>
+      <definition>шивхлэхийн үйлдүүлэх хэв.</definition>
+      <page>843</page>
+    </entry_item>
+  </entries>
+</entry>

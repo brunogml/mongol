@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="B3463">
+  <head>
+    <unicode>ᠪᠣᠯᠲᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>bultaγanaγulqu</transcript>
+    <transcript2>boldaganagolgo</transcript2>
+    <cyrillic>бултгануулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>B3462</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠪᠤᠯᠲᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бултгануулах</cyrillic>
+      <definition>〔动〕бултганах 的使动态.</definition>
+      <page>204</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠪᠣᠯᠲᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>БУЛТГАНУУЛАХ</cyrillic>
+      <definition>бултганах-ын үйл­дүүл.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠪᠤᠯᠲᠠᠭᠠᠨᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>бултгануулах</cyrillic>
+      <definition>бултганахын үйлдүүлэх хэв.</definition>
+      <page>106</page>
+    </entry_item>
+  </entries>
+</entry>

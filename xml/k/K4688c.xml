@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K4688c">
+  <head>
+    <unicode>ᠺᠥᠺᠡᠷᠺᠡᠳᠡᠺᠥ</unicode>
+    <transcript>kögergedekü</transcript>
+    <transcript2>gögergedegö</transcript2>
+    <cyrillic>хөөрөгдөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>K4689</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠺᠥᠺᠡᠷᠺᠡᠳᠡᠺᠥ</unicode>
+      <uighur>kökerkedekü</uighur>
+      <cyrillic>хөөрөгдөх</cyrillic>
+      <transcript>KØGERGEDE-</transcript>
+      <definition>[= køgerde-, 2, kegyrgede-.] vt. To blow with bellows.</definition>
+      <page>480</page>
+      <examples>
+        <example>
+          <unicode>ᠭᠠᠯ ᠢ ᠺᠥᠺᠡᠷᠺᠡᠳᠡᠺᠥ</unicode>
+          <transcript>γal i – ky </transcript>
+          <definition>To blow the fire with bellows</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠺᠥᠺᠡᠷᠺᠡᠳᠡᠺᠥ</unicode>
+      <uighur>kükerkedekü</uighur>
+      <definition>mit dem Blasbalg blasen</definition>
+      <page>181</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠭᠡᠷᠭᠡᠳᠡᠬᠦ</unicode>
+      <cyrillic>хөөрөгдөх</cyrillic>
+      <definition>〔动〕①拉风箱；鼓风：салхи ~ （转）风劲吹；②风从小孔吹入；③暗中诽谤；挑拨是非，煽动.</definition>
+      <page>1405</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠭᠡᠷᠭᠡᠳᠡᠬᠦ</unicode>
+      <cyrillic>хөөрөгдөх</cyrillic>
+      <definition>1. гал зэргийн юмыг хөөргөөр үлээлгэх; гал хөөрөгдөж ноцоох;2. нүх сүвээр салхи үлээх; гэрийн хаяагаар аалхи. хөрөгдөх;3. бусдыг далдуур муутган ховлох; далдуур хөөрөгдөж явдаг даан ч муухай зантай хүн.</definition>
+      <page>714</page>
+    </entry_item>
+  </entries>
+</entry>

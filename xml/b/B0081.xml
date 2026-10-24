@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="B0081">
+  <head>
+    <unicode>ᠫᠠᠩᠰᠠ</unicode>
+    <transcript>pangsa</transcript>
+    <transcript2>pangsa</transcript2>
+    <cyrillic>панс</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠫᠠᠩᠰᠠ</unicode>
+      <uighur>pangsa</uighur>
+      <cyrillic>панс</cyrillic>
+      <transcript>PANGSA</transcript>
+      <definition>[Ch. fang-sha;] n. Type of Chinese silk</definition>
+      <page>648</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠫᠠᠩᠰᠠ</unicode>
+      <definition>espèce de taffetas chinois.</definition>
+      <page>1268</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠷᠳᠠᠢ ᠫᠠᠩᠰᠠ</unicode>
+          <definition>taffetas parsemé de fleurs</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠢᠯᠤᠭᠤᠨ ᠫᠠᠩᠰᠠ</unicode>
+          <definition>taffetas sans fleurs</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠫᠠᠩᠰᠠ</unicode>
+      <cyrillic>ПАНС(АН)</cyrillic>
+      <definition>1. фанза (тонкая шёлковая ткань); 2. шёлковый; пансан алчуур шёлковый платок. </definition>
+      <page>0</page>
+    </entry_item>
+  
+  <entry_item>
+    <dico>Vietze</dico>
+    <cyrillic>панс[ан]</cyrillic>
+    <definition>chinesische Seide</definition>
+    <page>187</page>
+  </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="N2699">
+  <head>
+    <unicode>ᠨᠥᠺᠥᠴᠠᠯᠲᠠᠢ</unicode>
+    <transcript>nöküčeltei</transcript>
+    <transcript2>nögöceldei</transcript2>
+    <cyrillic>нөхцөлтэй</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠨᠥᠬᠥᠴᠡᠯᠲᠡᠢ</unicode>
+      <cyrillic>нөхцөлтэй</cyrillic>
+      <definition>〔形〕有可能的，有条件的，可望的.</definition>
+      <page>755</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠨᠥᠺᠥᠴᠠᠯᠲᠠᠢ</unicode>
+      <cyrillic>НӨХЦӨЛТЭЙ</cyrillic>
+      <definition>возможный, осуществимый; ийм асуулт гарах бүрэн нөхцөлтэй постановка такого вопроса вполне возможна; нөхцөлтэй зүйл что-либо возможное; нөхцөлтэй төсөл осуществимый проект. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠨᠥᠬᠥᠴᠡᠯᠲᠡᠢ</unicode>
+      <cyrillic>нөхцөлтэй</cyrillic>
+      <definition>боломжтой, аргатай, найдвартай; бид төлөвлөгөөгөө биелүүлэх нөхцөлтэй байна.</definition>
+      <page>386</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>N2698</ref>
+  </related_to>
+  <see_also>
+    <ref>N2700</ref>
+  </see_also>
+</entry>

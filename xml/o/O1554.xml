@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="O1554">
+  <head>
+    <unicode>ᠥᠺᠢᠷᠠᠰᠢᠺᠥᠯᠺᠥ</unicode>
+    <transcript>ögiresigülkü</transcript>
+    <transcript2>ögiresigölgö</transcript2>
+    <cyrillic>өгөршүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>O1553</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠥᠭᠢᠷᠡᠰᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өгөршүүлэх</cyrillic>
+      <definition>〔动〕өгөрших 的使动态.</definition>
+      <page>834</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠥᠺᠢᠷᠠᠰᠢᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ӨГӨРШҮҮЛЭХ</cyrillic>
+      <definition>өгөрших-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠥᠭᠢᠷᠡᠰᠢᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>өгөршүүлэх</cyrillic>
+      <definition>өгөршихийн үйлдүүлэх хэв.</definition>
+      <page>431</page>
+    </entry_item>
+  </entries>
+</entry>

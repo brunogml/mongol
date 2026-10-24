@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5981">
+  <head>
+    <unicode>ᠰᠣᠮᠢᠶᠠ</unicode>
+    <transcript>sumiy-a</transcript>
+    <transcript2>somiy-a</transcript2>
+    <cyrillic>сумъяа</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠣᠮᠢᠶ᠎ᠠ</unicode>
+      <uighur>sumiy-a</uighur>
+      <cyrillic>сумьяа</cyrillic>
+      <transcript>SUMIJ-A</transcript>
+      <definition>[S. saumya, "belonging to the moon"] n. Moon; Monday (obs. ).</definition>
+      <page>737</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠰᠣᠮᠢᠶᠠ</unicode>
+      <uighur>sumiy-a</uighur>
+      <definition>Monday</definition>
+      <page>1476</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠮᠢᠶᠠ</unicode>
+      <cyrillic>СУМЪЯА</cyrillic>
+      <definition>са. 1) луна; 2) понедельник. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠮᠢᠶ᠎ᠠ</unicode>
+      <cyrillic>сумьяа</cyrillic>
+      <definition>Даваа гараг, саран гараг.</definition>
+      <page>489</page>
+    </entry_item>
+  </entries>
+  <see_also>
+    <ref>S5971</ref>
+  </see_also>
+</entry>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1001">
+  <head>
+    <unicode>ᠰᠠᠯᠭᠠᠨᠠᠬᠣ</unicode>
+    <transcript>salγanaqu</transcript>
+    <transcript2>salganago</transcript2>
+    <cyrillic>салганах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1002</ref>
+    <ref>S1004</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠰᠠᠯᠭᠠᠨᠠᠬᠣ</unicode>
+      <uighur>salγanaqu</uighur>
+      <cyrillic>салганах</cyrillic>
+      <transcript>SALΓANA-</transcript>
+      <definition>v.i. To tremble, quiver, shake, shudder.</definition>
+      <page>665</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠯᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>салганах</cyrillic>
+      <definition>〔动〕战栗，发抖，震颤，摇晃；不停地打颤：гар ~ 手不停地发抖.</definition>
+      <page>902</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠯᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>САЛГАНАХ</cyrillic>
+      <definition>1. дрожать, трястись; салганаж эхлэх задрожать; гар нь салганав руки дрожали; 2. частая дрожь. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠯᠭᠠᠨᠠᠬᠣ</unicode>
+      <cyrillic>САЛГАНАСАН</cyrillic>
+      <definition>1) трепетный; дрожащий, трясущийся; 2) дряхлый. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>салганах</cyrillic>
+      <definition>zittern</definition>
+      <page>192</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠯᠭᠠᠨᠠᠬᠤ</unicode>
+      <cyrillic>салганах</cyrillic>
+      <definition>багашиг салгалах, салгалан хөдлөх; гар нь салганав.</definition>
+      <page>463</page>
+    </entry_item>
+  </entries>
+</entry>

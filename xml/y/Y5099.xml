@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y5099">
+  <head>
+    <unicode>ᠵᠥᠪᠳᠡᠺᠥ</unicode>
+    <transcript>ǰöbdekü</transcript>
+    <transcript2>yöbdegö</transcript2>
+    <cyrillic>зөвдөх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>Y5100</ref>
+    <ref>Y5098</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠥᠪᠳᠡᠺᠥ</unicode>
+      <cyrillic>ЗӨВДӨХ</cyrillic>
+      <definition>I оправдаться. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠥᠪᠳᠡᠺᠥ</unicode>
+      <cyrillic>ЗӨВДӨХ</cyrillic>
+      <definition>II обсуждать, советоваться; порешить что-л.; зөвдөн хэлэлцэх сговариваться; зөвлөх, зөвших-ийг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠥᠪᠳᠡᠬᠦ</unicode>
+      <cyrillic>зөвдөх /1</cyrillic>
+      <definition>1. хүний үйл явдал зүйтэй нийлэмжтэй болох;2. буруугаар явснаа оорч зөвт орох.</definition>
+      <page>277</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠥᠪᠳᠡᠬᠦ</unicode>
+      <cyrillic>зөвдөх /2</cyrillic>
+      <definition>зөвших, зөвлөлдөх; зөвдөн хэлэлцэх, ярилцах.</definition>
+      <page>277</page>
+    </entry_item>
+  </entries>
+</entry>

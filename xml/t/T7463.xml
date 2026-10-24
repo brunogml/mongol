@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T7463">
+  <head>
+    <transcript>doktor</transcript>
+    <transcript2>dogdor</transcript2>
+    <cyrillic>доктор</cyrillic>
+  </head>
+  <see_also>
+    <ref>T6188</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠳ᠋ᠣᠺᠲ᠋ᠣᠷ</unicode>
+      <cyrillic>доктор</cyrillic>
+      <definition>〔名〕①医生，大夫；②博士.</definition>
+      <page>410</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <cyrillic>ДОКТОР</cyrillic>
+      <definition>доктор; эмч доктор хорш. врач, доктор; эрдэмтэн доктор хорш. учёный, доктор (учёная степень). </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>доктор</cyrillic>
+      <definition>(Abk д-р) wiss Grad Doktor der Wissenschaften (Abk Dr. sc., Dr. habil.); ~ын зэрэг хамгаалах sich habilitieren</definition>
+      <page>94</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠳ᠋ᠣᠺᠲ᠋ᠣᠷ</unicode>
+      <cyrillic>доктор</cyrillic>
+      <definition>1. эмч;2. эрдмийн дээд зэрэг.</definition>
+      <page>197</page>
+    </entry_item>
+  </entries>
+</entry>

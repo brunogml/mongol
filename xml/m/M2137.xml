@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M2137">
+  <head>
+    <unicode>ᠮᠥᠰᠥᠲᠥᠺᠥᠯᠺᠥ</unicode>
+    <transcript>mösütügülkü</transcript>
+    <transcript2>mösödögölgö</transcript2>
+    <cyrillic>мөстүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>M2136</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠥᠰᠥᠲᠥᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>мөстүүлэх</cyrillic>
+      <definition>〔动〕мөстөх 的使动态.</definition>
+      <page>690</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠥᠰᠥᠲᠥᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>МӨСТҮҮЛЭХ</cyrillic>
+      <definition>мөстөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠥᠰᠥᠲᠥᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>мөстүүлэх</cyrillic>
+      <definition>мөстөхийн үйлдүүлэх хэв.</definition>
+      <page>347</page>
+    </entry_item>
+  </entries>
+</entry>

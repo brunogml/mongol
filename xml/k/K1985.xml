@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1985">
+  <head>
+    <unicode>ᠺᠢᠳᠣᠬᠳᠠᠬᠣ</unicode>
+    <transcript>kiduγdaqu</transcript>
+    <transcript2>gidogdago</transcript2>
+    <cyrillic>хядагдах</cyrillic>
+  </head>
+  <related_to>
+    <ref>K1982</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠢᠳᠤᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>хядагдах</cyrillic>
+      <definition>〔动〕хядах 的被动态.</definition>
+      <page>1498</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠳᠣᠬᠳᠠᠬᠣ</unicode>
+      <cyrillic>ХЯДАГДАХ</cyrillic>
+      <definition>хядах-ын үйлдэгд., быть истреблённым, уничтоженным. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хядагдах</cyrillic>
+      <definition>Pass von хядах</definition>
+      <page>347</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠢᠳᠤᠭᠳᠠᠬᠤ</unicode>
+      <cyrillic>хядагдах</cyrillic>
+      <definition>хядахын үйлдэгдэх хэв.</definition>
+      <page>769</page>
+    </entry_item>
+  </entries>
+</entry>

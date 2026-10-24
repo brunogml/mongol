@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="M1587">
+  <head>
+    <unicode>ᠮᠣᠨᠴᠣᠭᠣᠨᠠᠬᠣ</unicode>
+    <transcript>mončuγunaqu</transcript>
+    <transcript2>moncogonago</transcript2>
+    <cyrillic>монцгонох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>M1588</ref>
+    <ref>M1589</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠮᠣᠨᠴᠣᠭᠣᠨᠠᠬᠤ</unicode>
+      <cyrillic>монцгонох</cyrillic>
+      <definition>〔动〕块状（团状）的东西不断活动.</definition>
+      <page>680</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠮᠣᠨᠴᠣᠭᠣᠨᠠᠬᠣ</unicode>
+      <cyrillic>МОНЦГОНОХ</cyrillic>
+      <definition>монхгонох-ыг үз. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠮᠣᠨᠴᠣᠭᠣᠨᠠᠬᠤ</unicode>
+      <cyrillic>монцгонох</cyrillic>
+      <definition>монцгор юмны монцго монцго хөдлөх.</definition>
+      <page>341</page>
+    </entry_item>
+  </entries>
+</entry>

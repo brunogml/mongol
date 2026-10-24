@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S5521">
+  <head>
+    <unicode>ᠰᠣᠪᠢᠳᠠᠬᠯᠠᠬᠣ</unicode>
+    <transcript>subidaγlaqu</transcript>
+    <transcript2>sobidaglago</transcript2>
+    <cyrillic>сувдаглах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S5522</ref>
+    <ref>S5523</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠤᠪᠳᠠᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>сувдаглах</cyrillic>
+      <definition>〔动〕参见 сувьдаглах.</definition>
+      <page>953</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣᠪᠢᠳᠠᠬᠯᠠᠬᠣ</unicode>
+      <cyrillic>СУВДАГЛАХ</cyrillic>
+      <definition>проявлять корыстолюбие, жадничать. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>сувдаглах</cyrillic>
+      <definition>Habsucht zeigen, gieren (nach -д)</definition>
+      <page>203</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠪᠳᠠᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>сувдаглах</cyrillic>
+      <definition>сувдаг болох, сувдаг зан гаргах.</definition>
+      <page>485</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠤᠪᠢᠳᠠᠭᠯᠠᠬᠤ</unicode>
+      <cyrillic>сувьдаглах</cyrillic>
+      <definition>сувьдаг зан гаргах.</definition>
+      <page>486</page>
+    </entry_item>
+  </entries>
+</entry>

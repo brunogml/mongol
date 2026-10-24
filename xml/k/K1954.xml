@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K1954">
+  <head>
+    <unicode>ᠺᠢᠲᠠᠳᠵᠢᠬᠣ</unicode>
+    <transcript>kitadǰiqu</transcript>
+    <transcript2>gidadcigo</transcript2>
+    <cyrillic>хятаджих</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠢᠲᠠᠳᠵᠢᠬᠤ</unicode>
+      <cyrillic>хятаджих</cyrillic>
+      <definition>〔动〕①中国化；汉化；②成为中国人；成为汉人.</definition>
+      <page>1505</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠢᠲᠠᠳᠵᠢᠬᠣ</unicode>
+      <cyrillic>ХЯТАДЖИХ</cyrillic>
+      <definition>китаизация; китаизм. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хятаджих</cyrillic>
+      <definition>chinesisch werden</definition>
+      <page>349</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠢᠲᠠᠳᠵᠢᠬᠦ</unicode>
+      <cyrillic>хятаджих</cyrillic>
+      <definition>1. хятад болох;2. хятадтай болох.</definition>
+      <page>774</page>
+    </entry_item>
+  </entries>
+  <related_to>
+    <ref>K1952</ref>
+  </related_to>
+</entry>

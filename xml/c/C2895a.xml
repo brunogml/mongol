@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C2895a">
+  <head>
+    <unicode>ᠴᠣᠳ</unicode>
+    <transcript>čud</transcript>
+    <transcript2>cod</transcript2>
+    <cyrillic>чууд</cyrillic>
+  </head><see_also>
+    <ref>C2895</ref>
+  
+    <ref>C2896</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠣᠳ</unicode>
+      <uighur>čud</uighur>
+      <cyrillic>чууд - чүүд</cyrillic>
+      <transcript>-CUD, -CYD</transcript>
+      <definition>A plural suffix used only on words that refer to human beings.</definition>
+      <page>205</page>
+      <examples>
+        <example>
+          <unicode>ᠡᠮᠡᠭᠲᠡᠶᠢᠴᠦᠳ</unicode>
+          <transcript>emegteicyd</transcript>
+          <definition> Women.</definition>
+        </example>
+        <example>
+          <unicode>ᠮᠣᠩᠭᠤᠯᠴᠤᠳ</unicode>
+          <transcript>mongyulcud</transcript>
+          <definition> The. Mongols</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

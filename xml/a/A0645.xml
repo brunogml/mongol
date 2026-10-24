@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="A0645">
+  <head>
+    <unicode>ᠠᠭᠠᠵᠢᠭᠣᠳᠬᠣ</unicode>
+    <transcript>aγaǰiγudqu</transcript>
+    <transcript2>agacigodgo</transcript2>
+    <cyrillic>аажуудах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>A0646</ref>
+  </derivatives>
+  <see_also>
+    <ref>A0637</ref>
+    <ref>A0644</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠠᠭᠠᠵᠢᠭᠣᠳᠬᠣ</unicode>
+      <uighur>aγaǰiγudqu</uighur>
+      <cyrillic>аажуудах</cyrillic>
+      <transcript>AГAZIГUD-</transcript>
+      <definition>v.i To be too slow or sluggish; to dawdle, idle</definition>
+      <page>13</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠠᠭᠠᠵᠢᠭᠤᠳᠬᠤ</unicode>
+      <cyrillic>аажуутах</cyrillic>
+      <definition>улам аажуу болох.</definition>
+      <page>12</page>
+    </entry_item>
+  </entries>
+</entry>

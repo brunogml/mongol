@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S4802">
+  <head>
+    <unicode>ᠰᠣ</unicode>
+    <transcript>so</transcript>
+    <transcript2>so</transcript2>
+    <cyrillic>со</cyrillic>
+  </head><derivatives>
+    <ref>S5430</ref>
+  </derivatives><see_also>
+    <ref>S4803</ref>
+  <ref>S4804</ref></see_also>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠤ ᠦᠳᠡᠺᠡ</unicode>
+      <definition>un grand ours de couleur jaune</definition>
+      <page>1376</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠣ᠋</unicode>
+      <cyrillic>со</cyrillic>
+      <definition>见 ~ өтөг 〈动〉黑.</definition>
+      <page>928</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠣ</unicode>
+      <cyrillic>СО</cyrillic>
+      <definition>: со өтөг амьт. особый вид жёлтого медведя (в китайской провинции Сычуань). </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

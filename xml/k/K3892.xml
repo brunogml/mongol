@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="K3892">
+  <head>
+    <unicode>ᠺᠥᠲᠥᠯᠴᠡᠺᠥᠯᠺᠥ</unicode>
+    <transcript>kötülčegülkü</transcript>
+    <transcript2>gödölcegölgö</transcript2>
+    <cyrillic>хөтөлцүүлэх</cyrillic>
+  </head>
+  <related_to>
+    <ref>K3888</ref>
+  </related_to>
+  <see_also>
+    <ref>K3893</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠥᠲᠥᠯᠴᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хөтөлцүүлэх</cyrillic>
+      <definition>〔动〕хөтөлцөх 的使动态.</definition>
+      <page>1411</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠲᠥᠯᠴᠡᠺᠥᠯᠺᠥ</unicode>
+      <cyrillic>ХӨТӨЛЦҮҮЛЭХ</cyrillic>
+      <definition>хөтөлцөх-ийн үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠥᠲᠥᠯᠴᠡᠭᠦᠯᠬᠦ</unicode>
+      <cyrillic>хөтөлцүүлэх</cyrillic>
+      <definition>хөтөлцөхийн үйлдүүлэх хэв.</definition>
+      <page>717</page>
+    </entry_item>
+  </entries>
+</entry>

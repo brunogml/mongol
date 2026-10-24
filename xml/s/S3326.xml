@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S3326">
+  <head>
+    <unicode>ᠰᠢᠬᠠᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>siqardaγulqu</transcript>
+    <transcript2>sigardagolgo</transcript2>
+    <cyrillic>шахардуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>S3324</ref>
+  </related_to>
+  <see_also>
+    <ref>S3327</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠢᠬᠠᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шахардуулах</cyrillic>
+      <definition>〔动〕шахардах 的使动态.</definition>
+      <page>1625</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠢᠬᠠᠷᠳᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ШАХАРДУУЛАХ</cyrillic>
+      <definition>шахардах-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠢᠬᠠᠷᠳᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>шахардуулах</cyrillic>
+      <definition>шахардахын үйлдүүлэх хэв.</definition>
+      <page>841</page>
+    </entry_item>
+  </entries>
+</entry>

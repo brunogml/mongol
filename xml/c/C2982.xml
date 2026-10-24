@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="C2982">
+  <head>
+    <unicode>ᠴᠣᠯᠮᠠᠨ</unicode>
+    <transcript>čolman</transcript>
+    <transcript2>colman</transcript2>
+    <cyrillic>цолмон</cyrillic>
+  </head><see_also>
+    <ref>C2983</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠣᠯᠮᠠ</unicode>
+      <uighur>čolman</uighur>
+      <transcript>COLMAN</transcript>
+      <definition>See colmun</definition>
+      <page>197</page>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠴᠣᠯᠮᠠᠨ ᠎~ ᠴᠣᠯᠮᠤᠨ ~ ᠴᠣᠯᠮᠠ ~ ᠴᠣᠯᠪᠤᠨ</unicode>
+      <definition>l'étoile du matin, venus, aurore</definition>
+      <page>2206</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠣᠯᠮᠠᠨ ᠭᠠᠷᠬᠤ</unicode>
+          <definition>apparition de l'étoile du  matin; commencer à faire jour</definition>
+        </example>
+      </examples>
+    </entry_item>
+  </entries>
+</entry>

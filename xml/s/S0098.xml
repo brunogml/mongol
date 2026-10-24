@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="S0098">
+  <head>
+    <unicode>ᠰᠠᠨᠳᠠᠯᠢᠲᠣ</unicode>
+    <transcript>sandalitu</transcript>
+    <transcript2>sandalido</transcript2>
+    <cyrillic>сандалт</cyrillic>
+  </head>
+  <entries>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠰᠠᠨᠳᠠᠯᠢᠳᠤ</unicode>
+      <definition>qui a une chaise ou le trône.</definition>
+      <page>1288</page>
+      <examples>
+        <example>
+          <unicode>ᠦᠰᠦᠨ ᠰᠠᠨᠳᠠᠯᠢᠳᠤ ᠬᠠᠭᠠᠨ</unicode>
+          <definition>Ti-dsong-dé, roi tibétain n. 866, m. 901</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠨᠳᠠᠯᠢᠲᠣ</unicode>
+      <cyrillic>САНДАЛТ</cyrillic>
+      <definition>имеющий трон, восседающий на троне; † үсэн сандалт хаан түүх. имя тибетского царя, жившего в 866-901 гг. н.э. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+<related_to><ref>S0097</ref></related_to></entry>

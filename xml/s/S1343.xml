@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="S1343">
+  <head>
+    <unicode>ᠰᠠᠮᠪᠠᠷᠠᠯᠠᠬᠣ</unicode>
+    <transcript>sambaralaqu</transcript>
+    <transcript2>sambaralago</transcript2>
+    <cyrillic>самбарлах</cyrillic>
+  </head>
+  <derivatives>
+    <ref>S1344</ref>
+    <ref>S1345</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠰᠠᠮᠪᠠᠷᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>самбарлах</cyrillic>
+      <definition>〔动〕做黑板，做板，做薄板，做门板.</definition>
+      <page>906</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠰᠠᠮᠪᠠᠷᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>САМБАРЛАХ</cyrillic>
+      <definition>1) делать плиту из досок; 2) обшивать тёсом, обивать досками. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠰᠠᠮᠪᠠᠷᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>самбарлах</cyrillic>
+      <definition>самбар болгох.</definition>
+      <page>465</page>
+    </entry_item>
+  </entries>
+</entry>

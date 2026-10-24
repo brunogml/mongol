@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="C0813">
+  <head>
+    <unicode>ᠴᠠᠨᠠᠺᠯᠠᠺᠥ</unicode>
+    <transcript>čeneglekü</transcript>
+    <transcript2>ceneglegö</transcript2>
+    <cyrillic>цэнэглэх</cyrillic>
+  </head>
+  <derivatives>
+    <ref>C0814</ref>
+    <ref>C0815</ref>
+    <ref>C0811</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠴᠠᠨᠠᠺᠯᠠᠺᠥ</unicode>
+      <uighur>čeneglekü</uighur>
+      <cyrillic>цэнэглэх</cyrillic>
+      <transcript>CENEGLE-</transcript>
+      <definition>v.t. To load, charge (of a firearm).</definition>
+      <page>171</page>
+      <examples>
+        <example>
+          <unicode>ᠴᠠᠨᠠᠺᠯᠠᠭᠡ ᠦᠭᠡᠢ ᠰᠤᠮᠤ</unicode>
+          <transcript>--ge ygei sumu</transcript>
+          <definition> Blank cartridge.</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠤᠤ ᠴᠠᠨᠠᠺᠯᠠᠺᠦ</unicode>
+          <transcript>buu --ky</transcript>
+          <definition> To load a firearm.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠴᠡᠨᠡᠭᠯᠡᠬᠦ</unicode>
+      <cyrillic>цэнэглэх</cyrillic>
+      <definition>〔动〕〈电〉充电，装电池；〈军〉装火药；装弹药；装弹：буу ~ 装上子弹，装上炮弹；гар чийдэн ~ 往手电里装电池；галын хор ~ 填装灭火器；~ төхөөрөмж 充电器.</definition>
+      <page>1566</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠴᠠᠨᠠᠺᠯᠠᠺᠥ</unicode>
+      <cyrillic>ЦЭНЭГЛЭХ</cyrillic>
+      <definition>1. заряжать; буу цэнэглэх заряжать ружьё; дахин цэнэглэх перезаряжать; буу дахин цэнэглэх перезарядить ружьё; гар чийдэн цэнэглэх заряжать электрический фонарь; галын хор цэнэглэх заряжать огнетушитель; 2. подзаряд; цэнэглэх үеийн саатал задержка при заряжении; 3. зарядный; цэнэглэх гүйдэл ток зарядный. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>цэнэглэх</cyrillic>
+      <definition>El, Mil laden; ~ гүйдэл Ladestrom m; бүү ~ ein Gewehr laden; гал унтраагч ~ einen Feuerlöscher füllen; зай ~ eine Batterie [auf]laden</definition>
+      <page>365</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠴᠡᠨᠡᠭᠯᠡᠬᠦ</unicode>
+      <cyrillic>цэнэглэх</cyrillic>
+      <definition>сум зэрэг тэсрэх дэлбэрэх зүйлийг цэнэгтэй болгох; буу цэнэглэх; гар чийдэн цэнэглэх; галын хор цэнэглэх.</definition>
+      <page>807</page>
+    </entry_item>
+  </entries>
+</entry>

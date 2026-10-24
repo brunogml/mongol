@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry ref="T5044">
+  <head>
+    <unicode>ᠲᠢᠺ</unicode>
+    <transcript>tig</transcript>
+    <transcript2>dig</transcript2>
+    <cyrillic>тиг</cyrillic>
+  </head><see_also>
+    <ref>T5045</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠢᠺ</unicode>
+      <uighur>tik</uighur>
+      <cyrillic>тэг</cyrillic>
+      <transcript>TIG</transcript>
+      <definition>[= teg, 1. T. thig[le] = S. bindu] n. Line, circular mark in writing; punctuation mark; zero, cipher, naught; small circle on top of a Tibetan or Mongolian letter in transcriptions from Sanskrit, indicating nasalization, as in the familiar Sanskrit word OM; emptiness; reed pen.</definition>
+      <page>809</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠢᠺ ᠤᠨ ᠤᠲᠠᠰᠤ</unicode>
+          <transcript>utasu</transcript>
+          <definition> Carpenter's marking string.</definition>
+        </example>
+        <example>
+          <unicode>ᠠᠰᠬ᠎ᠠ ᠲᠢᠺ</unicode>
+          <transcript>asx-a -- </transcript>
+          <definition> Crayon, slate-pencil.</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠤᠮᠳᠠ ᠲᠢᠺ</unicode>
+          <transcript>dumda -- </transcript>
+          <definition> Diameter, meridian.</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠷᠤᠢ ᠎ᠶᠢᠨ ᠲᠢᠺ</unicode>
+          <transcript>orui jin -- </transcript>
+          <definition> Equator.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠢᠭ ~ ᠰᠢᠭᠤᠮ ~ ᠱᠣᠭᠣᠮ</unicode>
+      <definition>ligne, trace, mesure</definition>
+      <page>1780</page>
+      <examples>
+        <example>
+          <unicode>ᠠᠰᠬ᠎ᠠ ᠳᠢᠭ</unicode>
+          <definition>crayon d'ardoire, crayon</definition>
+        </example>
+        <example>
+          <unicode>ᠣᠷᠤᠢ ᠎ᠶᠢᠨ ᠳᠢᠭ</unicode>
+          <definition>éqauteur</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠠᠷᠠ ᠳᠢᠭ = ᠬᠠᠷᠠ ᠰᠢᠭᠤᠮ</unicode>
+          <definition>une partie de l'enfer où on coupe les condamnés liés avec des chaines de fer brûlantes</definition>
+        </example>
+        <example>
+          <unicode>ᠪᠡᠭᠡᠨ ᠳᠢᠭ</unicode>
+          <definition>ligne noire, tracée avec de l'encre</definition>
+        </example>
+        <example>
+          <unicode>ᠰᠢᠩᠬᠤᠨ ᠳᠢᠭ</unicode>
+          <definition>ligne rouge tracée avec le minium</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠢᠭ ᠤᠨ ᠤᠳᠠᠰᠤᠨ</unicode>
+          <definition>cordon de charpentier</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠢᠭ ᠤᠨ ᠺᠡᠮᠵᠢᠶ᠎ᠡ</unicode>
+          <definition>mesure, proportion</definition>
+        </example>
+        <example>
+          <unicode>ᠳᠤᠮᠳᠠ ᠳᠢᠭ</unicode>
+          <definition>diamètre; ligne méridionale, méridien</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠡᠮᠵᠢᠶ᠎ᠡ ᠦᠭᠡᠢ ᠳᠢᠭ</unicode>
+          <definition>ligne disproportionnée</definition>
+        </example>
+        <example>
+          <unicode>ᠺᠡᠮᠵᠢᠶᠡᠲᠦ ᠳᠢᠭ</unicode>
+          <definition>ligne proportionnée</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠢᠭ(ᠲᠢᠭ)</unicode>
+      <cyrillic>тиг</cyrillic>
+      <definition>〔名〕①比例尺；②字体；③体裁.</definition>
+      <page>1048</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠢᠺ</unicode>
+      <cyrillic>ТИГ</cyrillic>
+      <definition>I лљния, черта; тигийн утас плотничий шнур; тигийн хэмжээ симметрия, пропорция; † дунд тиг а) поперечник; б) меридиан; оройн тиг экватор; хар тиг шашин. второй отдел горячего ада. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠢᠺ</unicode>
+      <cyrillic>ТИГ</cyrillic>
+      <definition>II 1) нуль; тэг-ийг үз., 2) шрифт; асга тиг грљфель; 3) сто тысяч биллионов. </definition>
+      <page>0</page>
+    </entry_item>
+  </entries>
+</entry>

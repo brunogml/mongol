@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="T5600">
+  <head>
+    <unicode>ᠲᠣᠭᠠᠯᠠᠬᠣ</unicode>
+    <transcript>toγalaqu</transcript>
+    <transcript2>dogalago</transcript2>
+    <cyrillic>тоолох</cyrillic>
+  </head>
+  <derivatives>
+    <ref>T5601</ref>
+    <ref>T5605</ref>
+    <ref>T5614</ref>
+  </derivatives>
+  <see_also>
+    <ref>T5599</ref>
+  </see_also>
+  <entries>
+    <entry_item>
+      <dico>Lessing</dico>
+      <unicode>ᠲᠣᠭᠠᠯᠠᠬᠣ</unicode>
+      <uighur>toγalaqu</uighur>
+      <cyrillic>тоолох</cyrillic>
+      <transcript>TOΓALA-</transcript>
+      <definition>v. t. To count, calculate, enumerate.</definition>
+      <page>814</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠣᠯᠤᠭᠠᠢ ᠲᠣᠭᠠᠯᠠᠨ</unicode>
+          <transcript>toluγai --n</transcript>
+          <definition> One by one, all together (lit. counting every head).</definition>
+        </example>
+        <example>
+          <unicode>ᠬᠤᠷᠤᠭᠤ ᠳᠠᠷᠤᠵᠤ ᠲᠣᠭᠠᠯᠠᠬᠣ</unicode>
+          <transcript>xuruγu daruzu --xu</transcript>
+          <definition> To count by bending the fingers.</definition>
+        </example>
+      </examples>
+    </entry_item>
+    <entry_item>
+      <dico>Kowalewski</dico>
+      <unicode>ᠳᠤᠭᠠᠯᠠᠬᠤ ~ ᠳᠤᠭᠣᠯᠣᠬᠤ</unicode>
+      <definition>calculer, compter.</definition>
+      <page>1802</page>
+    </entry_item>
+    <entry_item>
+      <dico>Schmidt</dico>
+      <unicode>ᠲᠣᠭᠠᠯᠠᠬᠣ</unicode>
+      <uighur>duγalaqu</uighur>
+      <definition>zählen, rechnen.</definition>
+      <page>249</page>
+    </entry_item>
+    <entry_item>
+      <dico>Boberg</dico>
+      <unicode>ᠲᠣᠭᠠᠯᠠᠬᠣ</unicode>
+      <uighur>tuγalaqu</uighur>
+      <definition>v.t. To count, to reckon. To calculate, to estimate. To enumerate.</definition>
+      <page>987</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠲᠣᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>тоолох</cyrillic>
+      <definition>〔动〕①点数，清点，计算，算数：тоо ~ 数数，点数；读数；мал ~ 数牲畜头数；тоолж барагдахгүй 数不尽的；~ дон 〈医〉计算狂；②算进，算入…数内；算为，作为，认为；枚举，列举：чамайг сайн хүн гэж тоолоход бэрх 很难把你当作好人；сургуультайд ~ 算是上过学的，算作是受过训练的；зардалд ~ 加算到经费中.</definition>
+      <page>1075</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ТООЛОХ</cyrillic>
+      <definition>1. 1) считать, пересчљтывать; исчислять; бүртгэн тоолох учљтывать; брать на учёт; гарсанд тоолох считать выбывшим; төгс тоолох полностью перечљслить; хуруу дарж тоолох пересчљтывать по пальцам; эрхи тоолох перебирать чётки (во время молитвы); аравтаар тоолох ёс тоо. десятљчная система счисления; тоолж барагдашгүй не поддающийся исчислению; тоолж барахгүй неисчислљмый, бесчљсленный; тоолж оруулах включать в число; тоолж хэлэх подробно рассказывать, перечислять; 2) считать кем-чем-л., причислять к чему-л.; принимать за кого-что-л.; зачислять (с дательно-местным падежом или с “гэж”); уважать; зардалд тоолох причислять сумму к расходу; оюутанд тоолох зачислить студентом; сайн хүнд тоолох считать хорошим человеком; түүнийг хэн гэж тоолбол зохих вэ? за кого следует его принимать?; би чиний зөв гэж тоолно считаю, что ты прав; жил тоолон каждый год; толгой тоолон поголовно, всё целиком; 2. тоолохуй-г үз., мал тоолох учёт стада. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠲᠣᠭᠠᠯᠠᠬᠣ</unicode>
+      <cyrillic>ТООЛОХУЙ</cyrillic>
+      <definition>счет. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тоолох</cyrillic>
+      <definition>1. rechnen, zählen; мал ~ Vieh zählen; хуруу дарж ~ an den Fingern abzählen
+2. einordnen; hal-ten (für -θ гэж); түүнийг сайн хүнд тоолbol зохих вэ? wie soll man ihn einordnen?; für wen soll man ihn halten?</definition>
+      <page>230</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠲᠣᠭᠠᠯᠠᠬᠤ</unicode>
+      <cyrillic>тоолох</cyrillic>
+      <definition>1. юмны чухам хэд хичнээн болохын тоог авах; тоо тоолох; мал тоолох; тоолж барагдахгүй юм;2. тооцох, бүртгэх, оролцуулах; чамайг сайн хүн гэж тоолоход бэрх, таныхыг зөв гэж тоолох хэрэгтэй; сургуультайд тоолох.</definition>
+      <page>542</page>
+    </entry_item>
+  </entries>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry ref="Y4053">
+  <head>
+    <unicode>ᠵᠣᠬᠳᠣᠷᠯᠠᠭᠣᠯᠬᠣ</unicode>
+    <transcript>ǰoγdurlaγulqu</transcript>
+    <transcript2>yogdorlagolgo</transcript2>
+    <cyrillic>зогдорлуулах</cyrillic>
+  </head>
+  <related_to>
+    <ref>Y4052</ref>
+  </related_to>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠵᠣᠭᠳᠣᠷᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зогдорлуулах</cyrillic>
+      <definition>〔动〕зогдорлох 的使动态.</definition>
+      <page>555</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠵᠣᠬᠳᠣᠷᠯᠠᠭᠣᠯᠬᠣ</unicode>
+      <cyrillic>ЗОГДОРЛУУЛАХ</cyrillic>
+      <definition>зогдорлох-ын үйлдүүл. </definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠵᠣᠭᠳᠣᠷᠯᠠᠭᠤᠯᠬᠤ</unicode>
+      <cyrillic>зогдорлуулах</cyrillic>
+      <definition>зогдорлохын үйлдүүлэх хэв.</definition>
+      <page>272</page>
+    </entry_item>
+  </entries>
+</entry>
