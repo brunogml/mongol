@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q2312">
   <head>
-    <unicode>ᠭᠠᠯᠵᠢᠷᠠ</unicode>
+    <unicode>ᠭᠠᠯᠵᠢᠷ ᠠ</unicode>
     <transcript>γalǰir-a</transcript>
     <transcript2>galcir-a</transcript2>
     <cyrillic>галжир</cyrillic>
-  </head><see_also>
+  </head>
+  <see_also>
     <ref>Q2311</ref>
   </see_also>
   <entries>
@@ -20,14 +21,14 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠠᠯᠵᠢᠷᠠ</unicode>
       <cyrillic>ГАЛЖИР</cyrillic>
-      <definition>III галжраа-г үз. </definition>
+      <definition>III галжраа-г үз.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠭᠠᠯᠵᠢᠷᠠ</unicode>
       <cyrillic>ГАЛЖРАА</cyrillic>
-      <definition>амьт. дикобраз краснобрјхий (похожий на ежа). </definition>
+      <definition>амьт. дикобраз краснобрјхий (похожий на ежа).</definition>
       <page>0</page>
     </entry_item>
   </entries>

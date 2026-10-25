@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q2664">
   <head>
     <unicode>ᠭᠠᠵᠠᠷᠰᠢᠬᠣ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>gacarsigo</transcript2>
     <cyrillic>газарших</cyrillic>
   </head>
+  <related_to>
+    <ref>Q2661</ref>
+  </related_to>
   <derivatives>
     <ref>Q2665</ref>
   </derivatives>
@@ -28,7 +31,7 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠠᠵᠠᠷᠰᠢᠬᠣ</unicode>
       <cyrillic>ГАЗАРШИХ</cyrillic>
-      <definition>акклиматизироваться, привыкать к данному меcту, к данной местности; входить, вступать в жизнь чего-л. </definition>
+      <definition>акклиматизироваться, привыкать к данному меcту, к данной местности; входить, вступать в жизнь чего-л.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -38,8 +41,11 @@
       <definition>орон нутагт идээших, нутагших; говийн мал хангайд барагтайд газаршихгүй.</definition>
       <page>133</page>
     </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>газаршиx</cyrillic>
+      <definition>sich eingewöhnen od einleben od akklimatisieren (in -д)</definition>
+      <page>72</page>
+    </entry_item>
   </entries>
-  <related_to>
-    <ref>Q2661</ref>
-  </related_to>
 </entry>

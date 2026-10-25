@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q2311">
   <head>
     <unicode>ᠭᠠᠯᠵᠢᠷ</unicode>
@@ -43,14 +43,14 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠠᠯᠵᠢᠷ</unicode>
       <cyrillic>ГАЛЖИР</cyrillic>
-      <definition>I 1. искривление, кривизна, инволюционная форма; нумын галжир искривление лука, лук с искривлёнными концами; 2. кривой, согнутый, изогнутый. </definition>
+      <definition>I 1. искривление, кривизна, инволюционная форма; нумын галжир искривление лука, лук с искривлёнными концами; 2. кривой, согнутый, изогнутый.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠭᠠᠯᠵᠢᠷ</unicode>
       <cyrillic>ГАЛЖИР</cyrillic>
-      <definition>II амьт. антилопа рыжая. </definition>
+      <definition>II амьт. антилопа рыжая.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -66,6 +66,13 @@
       <cyrillic>галжир /2</cyrillic>
       <definition>&lt;амьтан&gt;зараатай адил төстэй, хөвчин бие нь гал улаан өнгөтэй нэгэн зүйл амьтан.</definition>
       <page>135</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>галжир</cyrillic>
+      <definition>1. Krümmung f, Biegung f &#13;
+2. gebogen; krumm, schief</definition>
+      <page>73</page>
     </entry_item>
   </entries>
 </entry>

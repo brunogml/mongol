@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q2783">
   <head>
     <unicode>ᠭᠠᠵᠢᠶᠠᠰᠣ</unicode>
@@ -22,7 +22,7 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠠᠵᠢᠶᠠᠰᠣ</unicode>
       <cyrillic>ГАЖААС</cyrillic>
-      <definition>гажиг-ийг үз. </definition>
+      <definition>гажиг-ийг үз.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -31,6 +31,12 @@
       <cyrillic>гажаас</cyrillic>
       <definition>гажаа, гажиг, гажаас нь гараагүй байна.</definition>
       <page>131</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гажааc[ан], гажиг</cyrillic>
+      <definition>Unregelmäßigkeit f, Abweichung f; Schaden m; ~гүй загвар wirklichkeitsgetreues Modell; би нэг ~тай болжзэ, дандаа толгой өвдөг болов mit mir stimmt etwas nicht, ständig habe ich Kopfschmerzen</definition>
+      <page>72</page>
     </entry_item>
   </entries>
 </entry>

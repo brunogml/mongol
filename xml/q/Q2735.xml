@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q2735">
   <head>
     <unicode>ᠭᠠᠵᠢᠭᠣᠯᠬᠣ</unicode>
@@ -6,13 +6,13 @@
     <transcript2>gacigolgo</transcript2>
     <cyrillic>гажуулах</cyrillic>
   </head>
-  <related_to>
-    <ref>Q2711</ref>
-  </related_to>
   <see_also>
     <ref>Q2730</ref>
     <ref>Q2734</ref>
   </see_also>
+  <related_to>
+    <ref>Q2711</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -41,7 +41,7 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠠᠵᠢᠭᠣᠯᠬᠣ</unicode>
       <cyrillic>ГАЖУУЛАХ</cyrillic>
-      <definition>гажих-ийн үйлдүүл., 1) гажаах-ыг үз.; 2) гажуудуулах-ыг үз. </definition>
+      <definition>гажих-ийн үйлдүүл., 1) гажаах-ыг үз.; 2) гажуудуулах-ыг үз.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -50,6 +50,12 @@
       <cyrillic>гажуулах</cyrillic>
       <definition>гажихын үйлдүүлэх хэв; гажихад хүрүүлэх.</definition>
       <page>132</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гажуулах</cyrillic>
+      <definition>Kaus von гажих</definition>
+      <page>72</page>
     </entry_item>
   </entries>
 </entry>

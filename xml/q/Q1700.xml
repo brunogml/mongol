@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q1700">
   <head>
     <unicode>ᠭᠠᠳᠠᠷᠭᠣ</unicode>
@@ -18,11 +18,11 @@
       <examples>
         <example>
           <transcript>delekei jin --</transcript>
-          <definition> Surface of the earth.</definition>
+          <definition>Surface of the earth.</definition>
         </example>
         <example>
           <transcript>kørysyn y -- jin yj-e</transcript>
-          <definition> Topsoil.</definition>
+          <definition>Topsoil.</definition>
         </example>
       </examples>
     </entry_item>
@@ -37,28 +37,28 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠠᠳᠠᠷᠭᠣ</unicode>
       <cyrillic>ГАДАРГА</cyrillic>
-      <definition>хи. гадаргуу-г үз., усны гадарга зеркало, водная гладь; хавтгай гадарга плоскость, плоскостная поверхность; шовгор гадарга тоо. коническая поверхность. </definition>
+      <definition>хи. гадаргуу-г үз., усны гадарга зеркало, водная гладь; хавтгай гадарга плоскость, плоскостная поверхность; шовгор гадарга тоо. коническая поверхность.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠭᠠᠳᠠᠷᠭᠣ</unicode>
       <cyrillic>ГАДАРГУУ</cyrillic>
-      <definition>внешний покров, наружная, внешняя сторона; поверхность; плоскость; кора; план; рельеф; ландшафт; дэлхийн гадаргуу поверхность земли; земная кора; гадаргуу үүсэх рельефообразование. </definition>
+      <definition>внешний покров, наружная, внешняя сторона; поверхность; плоскость; кора; план; рельеф; ландшафт; дэлхийн гадаргуу поверхность земли; земная кора; гадаргуу үүсэх рельефообразование.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠭᠠᠳᠠᠷᠭᠣ</unicode>
       <cyrillic>ГАДАРГУУГИЙН</cyrillic>
-      <definition>гадаргуу-н харьяал., поверхностный, рельефный; хөрсний гадаргуугийн үе газар.суд. поверхностный слой почвы. </definition>
+      <definition>гадаргуу-н харьяал., поверхностный, рельефный; хөрсний гадаргуугийн үе газар.суд. поверхностный слой почвы.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠭᠠᠳᠠᠷᠭᠣ</unicode>
       <cyrillic>ГАДАРГЫН</cyrillic>
-      <definition>гадарга-ын харьяал., поверхностный, наземный; гадаргын зураг авах фотосъёмка ландшафта; гадаргын зураглал наземная съёмка; гадаргын ус поверхностная вода. </definition>
+      <definition>гадарга-ын харьяал., поверхностный, наземный; гадаргын зураг авах фотосъёмка ландшафта; гадаргын зураглал наземная съёмка; гадаргын ус поверхностная вода.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -74,6 +74,18 @@
       <cyrillic>гадаргуу</cyrillic>
       <definition>гадарга: дэлхийн гадаргуу.</definition>
       <page>130</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гадарга, гадаргүй, гадаргуу</cyrillic>
+      <definition>Oberfläche f, Profil n; Kunst Relief n; дэлхийн ~ Erdoberfläche f</definition>
+      <page>71</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гадаргуугийн</cyrillic>
+      <definition>(Gen von гадаргуу) Oberflächen-; ~ хэмжзэ[н] Math Flächeninhalt m</definition>
+      <page>71</page>
     </entry_item>
   </entries>
 </entry>
