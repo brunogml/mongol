@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Y3313">
   <head>
     <unicode>ᠵᠢᠺᠢᠷᠺᠡᠮᠰᠢᠺᠲᠡᠢ</unicode>
@@ -18,7 +18,8 @@
     <entry_item>
       <dico>Kowalewski</dico>
       <unicode>ᠵᠢᠺᠢᠷᠺᠡᠮᠰᠢᠺᠳᠡᠢ ~ ᠵᠢᠺᠢᠷᠺᠡᠮᠰᠢᠳᠦ</unicode>
-      <definition>1 horrible , terrible: 
+      <definition>1 horrible , terrible: &#13;
+&#13;
 2 neuf, nouveau, étrange, bizarre, remarquable.</definition>
       <page>2354</page>
     </entry_item>
@@ -37,4 +38,4 @@
       <page>245</page>
     </entry_item>
   </entries>
-</entry>
+<related_to><ref>Y3311</ref></related_to><see_also><ref>Y3314</ref></see_also></entry>

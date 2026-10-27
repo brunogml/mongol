@@ -22650,7 +22650,7 @@
 <item><ref>Q3804</ref><unicode>ᠭᠣᠣᠳᠠᠬᠴᠢ</unicode><transcript>γoudaγči</transcript><transcript2>goodagci</transcript2><cyrillic>гоодогч</cyrillic></item>
 <item><ref>Q3805</ref><unicode>ᠬᠣᠣᠳᠠᠰᠣ</unicode><transcript>qoudasu</transcript><transcript2>goodaso</transcript2><cyrillic>хуудас</cyrillic></item>
 <item><ref>Q3806</ref><unicode>ᠭᠣᠣᠳᠠᠯ</unicode><transcript>γoudal</transcript><transcript2>goodal</transcript2><cyrillic>гоодол</cyrillic></item>
-<item><ref>Q3806a</ref><unicode>ᠺᠣᠣᠳᠠᠮ</unicode><transcript>γoutam</transcript><transcript2>goodam</transcript2><cyrillic></cyrillic></item>
+<item><ref>Q3806a</ref><unicode>ᠺᠣᠣᠳᠠᠮ</unicode><transcript>goutam</transcript><transcript2>goodam</transcript2><cyrillic></cyrillic></item>
 <item><ref>Q3807</ref><unicode>ᠭᠣᠣᠳᠠᠴᠢᠬᠠᠬᠣ</unicode><transcript>γoudačiqaqu</transcript><transcript2>goodacigago</transcript2><cyrillic>гоодчихох</cyrillic></item>
 <item><ref>Q3808</ref><unicode>ᠭᠣᠣᠳᠠᠷ</unicode><transcript>γoudar</transcript><transcript2>goodar</transcript2><cyrillic></cyrillic></item>
 <item><ref>Q3809</ref><unicode>ᠬᠣᠣᠳᠣ</unicode><transcript>qoudu</transcript><transcript2>goodo</transcript2><cyrillic>хуудуу</cyrillic></item>
@@ -66322,7 +66322,7 @@
 <item><ref>Y1332</ref><unicode>ᠵᠠᠯᠸᠢ</unicode><transcript>ǰalvi</transcript><transcript2>yalvi</transcript2><cyrillic></cyrillic></item>
 <item><ref>Y1333</ref><unicode>ᠵᠠᠯᠸᠢᠴᠢ</unicode><transcript>ǰalviči</transcript><transcript2>yalvici</transcript2><cyrillic></cyrillic></item>
 <item><ref>Y1334</ref><unicode>ᠵᠠᠮ</unicode><transcript>ǰam</transcript><transcript2>yam</transcript2><cyrillic>зам</cyrillic></item>
-<item><ref>Y1335</ref><unicode>ᠶᠠᠮ ᠠ</unicode><transcript>yam-a</transcript><transcript2>yam-a</transcript2><cyrillic>ям</cyrillic></item>
+<item><ref>Y1335</ref><unicode>ᠶᠠᠮ ᠠ</unicode><transcript>yam-a</transcript><transcript2>yam-a</transcript2><cyrillic>ям</cyrillic><variants><v t="unicode">ᠶᠠᠮᠠ</v></variants></item>
 <item><ref>Y1336</ref><unicode>ᠵᠠᠮ ᠠ</unicode><transcript>ǰama</transcript><transcript2>yama</transcript2><cyrillic>замаа</cyrillic><variants><v t="unicode">ᠵᠠᠮᠠ</v></variants></item>
 <item><ref>Y1337</ref><unicode>ᠶᠠᠮᠠᠨᠳᠠᠬ</unicode><transcript>yamandaγ</transcript><transcript2>yamandag</transcript2><cyrillic>ямандаг</cyrillic></item>
 <item><ref>Y1338</ref><unicode>ᠶᠠᠮᠠᠨᠲᠠᠺᠠ</unicode><transcript>yamantaka</transcript><transcript2>yamandaga</transcript2><cyrillic></cyrillic></item>
@@ -68502,7 +68502,7 @@
 <item><ref>Y3310d</ref><unicode>ᠵᠢᠺᠢᠷᠺᠡᠨᠡ</unicode><transcript>ǰigirgene</transcript><transcript2>yigirgene</transcript2><cyrillic>жийргэнэ</cyrillic></item>
 <item><ref>Y3311</ref><unicode>ᠵᠢᠺᠢᠷᠺᠡᠮᠰᠢᠺ</unicode><transcript>ǰigirgemsig</transcript><transcript2>yigirgemsig</transcript2><cyrillic>жийрхэмшиг</cyrillic></item>
 <item><ref>Y3312</ref><unicode>ᠵᠢᠺᠢᠷᠺᠡᠮᠰᠢᠺᠥ</unicode><transcript>ǰigirgemsikü</transcript><transcript2>yigirgemsigö</transcript2><cyrillic>жийрхэмших</cyrillic></item>
-<item><ref>Y3313</ref><unicode>ᠵᠢᠺᠢᠷᠺᠡᠮᠰᠢᠺᠲᠡᠢ</unicode><transcript>ǰigirgemsigtei</transcript><transcript2>yigirgemsigdei</transcript2><cyrillic>жийрхэмшигтэй</cyrillic></item>
+<item><ref>Y3313</ref><unicode>ᠵᠢᠺᠢᠷᠺᠡᠮᠰᠢᠺᠲᠡᠢ</unicode><transcript>ǰigirgemsigtei</transcript><transcript2>yigirgemsigdei</transcript2><cyrillic>жийрхэмшигтэй</cyrillic><variants><v t="unicode">ᠵᠢᠭᠢᠷᠭᠡᠮᠰᠢᠭ ᠎ᠲᠡᠢ</v></variants></item>
 <item><ref>Y3314</ref><unicode>ᠵᠢᠺᠢᠷᠺᠡᠮᠰᠢᠺᠲᠥ</unicode><transcript>ǰigirgemsigtü</transcript><transcript2>yigirgemsigdö</transcript2><cyrillic>жийргэмшигт</cyrillic></item>
 <item><ref>Y3315</ref><unicode>ᠵᠢᠺᠢᠷᠺᠡᠺᠥ</unicode><transcript>ǰigirkekü</transcript><transcript2>yigirgegö</transcript2><cyrillic>жийрхэх</cyrillic></item>
 <item><ref>Y3316</ref><unicode>ᠵᠢᠺᠢᠷᠺᠥ</unicode><transcript>ǰigirkü</transcript><transcript2>yigirgö</transcript2><cyrillic></cyrillic></item>
