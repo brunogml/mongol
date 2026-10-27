@@ -1972,6 +1972,21 @@ if ($ref !== '') {
       border-top: 1px solid var(--rule);
       width: 100%; min-height: 0;
   }
+
+  /* ── Landing page hero image ── */
+  .landing-hero {
+      margin: 2rem 0 1.5rem;
+      text-align: center;
+  }
+  .landing-hero-img {
+      max-width: 100%;
+      height: auto;
+      border: 1px solid var(--rule);
+      border-radius: 12px;
+      box-shadow: 0 4px 24px rgba(15,39,71,.12);
+      display: block;
+      margin: 0 auto;
+  }
 </style>
 </head>
 <body>
@@ -2521,110 +2536,17 @@ if ($entryXml !== null) {
       A cross-dictionary search interface for classical written Mongolian, covering the principal
       Western scholarly dictionaries alongside Asian reference works and Tibetan–Mongolian Buddhist
       glossaries. Entries are keyed by a shared identifier, allowing parallel consultation of all
-      sources for any headword. 
-	  <br>The grammars of Poppe and Schmidt are accessible and fully searchable.
+      sources for any headword.
+      <br>The grammars of Poppe and Schmidt are accessible and fully searchable.
       <br>A reversed search engine has been added for Tibetan entries.
       <br>Use the <strong>?</strong> button above to learn about search options,
       or <strong>ℹ</strong> for detailed descriptions of each resource.
     </p>
-
-    <div class="landing-group-label">Western dictionaries</div>
-    <ul class="landing-cards">
-      <li class="landing-card">
-        <span class="landing-card-title">Lessing — <em>Mongolian-English Dictionary</em></span>
-        <span class="landing-card-badge">Eng</span>
-        <span class="landing-card-meta">Ferdinand D. Lessing · University of California Press, 1960 · The standard Western reference for classical written Mongolian</span>
-      </li>
-      <li class="landing-card">
-        <span class="landing-card-title">Kovalevski — <em>Dictionnaire Mongol-Russe-Français</em></span>
-        <span class="landing-card-badge">Rus / Fr</span>
-        <span class="landing-card-meta">Osip M. Kovalevski · Kazan, 1844–1849 · The most comprehensive 19th-century Mongolian dictionary, ~25,000 headwords</span>
-      </li>
-      <li class="landing-card">
-        <span class="landing-card-title">Schmidt — <em>Mongolisch-Deutsches Wörterbuch</em></span>
-        <span class="landing-card-badge">Ger</span>
-        <span class="landing-card-meta">Isaak J. Schmidt · St. Petersburg, 1835</span>
-      </li>
-      <li class="landing-card">
-        <span class="landing-card-title">Boberg · Bawden · Vietze</span>
-        <span class="landing-card-badge">Eng / Ger</span>
-        <span class="landing-card-meta">Further Western dictionaries covering classical and modern Mongolian</span>
-      </li>
-    </ul>
-
-    <div class="landing-group-label">Asian dictionaries</div>
-    <ul class="landing-cards">
-      <?php foreach (['chinese','chinese2','lamrd'] as $dk):
-          if (!isset($DICO_INFO[$dk])) continue;
-          $info = $DICO_INFO[$dk]; ?>
-      <li class="landing-card">
-        <span class="landing-card-title"><?= h($DICO_LABELS[$dk]) ?> — <em><?= h($info['title']) ?></em></span>
-        <span class="landing-card-meta"><?= h($info['meta']) ?></span>
-      </li>
-      <?php endforeach; ?>
-    </ul>
-
-    <div class="landing-group-label">Mongolian dictionaries</div>
-    <ul class="landing-cards">
-      <?php foreach (['cevel'] as $dk):
-          if (!isset($DICO_INFO[$dk])) continue;
-          $info = $DICO_INFO[$dk]; ?>
-      <li class="landing-card">
-        <span class="landing-card-title"><?= h($DICO_LABELS[$dk]) ?> — <em><?= h($info['title']) ?></em></span>
-        <span class="landing-card-badge">Mng</span>
-        <span class="landing-card-meta"><?= h($info['meta']) ?></span>
-      </li>
-      <?php endforeach; ?>
-    </ul>
-
-    <div class="landing-group-label">Tibetan–Mongolian resources</div>
-    <ul class="landing-cards">
-      <?php foreach (['tibetan','lk4','saran'] as $dk):
-          if (!isset($DICO_INFO[$dk])) continue;
-          $info = $DICO_INFO[$dk]; ?>
-      <li class="landing-card">
-        <span class="landing-card-title"><?= h($DICO_LABELS[$dk]) ?> — <em><?= h($info['title']) ?></em></span>
-        <span class="landing-card-badge">Tib–Mng</span>
-        <span class="landing-card-meta"><?= h($info['meta']) ?></span>
-      </li>
-      <?php endforeach; ?>
-    </ul>
-
-    <div class="landing-group-label">Sanskrit–Mongolian</div>
-    <ul class="landing-cards">
-      <?php foreach (['raghu'] as $dk):
-          if (!isset($DICO_INFO[$dk])) continue;
-          $info = $DICO_INFO[$dk]; ?>
-      <li class="landing-card">
-        <span class="landing-card-title"><?= h($DICO_LABELS[$dk]) ?> — <em><?= h($info['title']) ?></em></span>
-        <span class="landing-card-badge">Skt–Mng</span>
-        <span class="landing-card-meta"><?= h($info['meta']) ?></span>
-      </li>
-      <?php endforeach; ?>
-    </ul>
-
-    <div class="landing-group-label">Grammars</div>
-    <ul class="landing-cards">
-      <li class="landing-card">
-        <span class="landing-card-title">Poppe — <em>Grammar of Written Mongolian</em></span>
-        <span class="landing-card-badge">Eng</span>
-        <span class="landing-card-meta">Nicholas Poppe · Harrassowitz, 1954 · The standard reference grammar of classical written Mongolian</span>
-      </li>
-      <li class="landing-card">
-        <span class="landing-card-title">Schmidt — <em>Grammatik der mongolischen Sprache</em></span>
-        <span class="landing-card-badge">Ger</span>
-        <span class="landing-card-meta">Isaak J. Schmidt · St. Petersburg, 1831</span>
-      </li>
-    </ul>
-
-    <div class="landing-group-label">Tibetan search</div>
-    <ul class="landing-cards">
-      <li class="landing-card">
-        <span class="landing-card-title"><a href="tib.php" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">Search Tibetan entries ↗</a></span>
-        <span class="landing-card-meta">Search across the Tibetan-keyed entries from the Mahāvyutpatti, Lokesh Chandra, and Saran-u Gerel resources directly by Tibetan script or Wylie transliteration</span>
-      </li>
-    </ul>
-
+    <div class="landing-hero">
+      <img src="Mng000.jpg"
+           alt="Mongolian manuscript — opening folio with deity illustrations and red-ink text"
+           class="landing-hero-img">
+    </div>
     <p class="landing-footer landing-footer-note">Further resources will be added step by step.</p>
     <p class="landing-footer landing-footer-note">Contact: Bruno Lainé — <a href="mailto:brunogml@gmail.com" style="color:inherit">brunogml@gmail.com</a></p>
     <p class="landing-footer"><?= count($roots) ?> headwords indexed</p>
