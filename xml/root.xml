@@ -8092,7 +8092,7 @@
 <item><ref>I0420</ref><unicode>ᠢᠲᠠᠺᠠᠺᠥ</unicode><transcript>itegekü</transcript><transcript2>idegegö</transcript2><cyrillic>итгэх</cyrillic></item>
 <item><ref>I0421</ref><unicode>ᠢᠲᠠᠺᠠᠺᠥᠰᠢᠲᠠᠢ</unicode><transcript>itegegüsitei</transcript><transcript2>idegegösidei</transcript2><cyrillic>итгүүштэй</cyrillic></item>
 <item><ref>I0422</ref><unicode>ᠢᠲᠠᠺᠠᠺᠥᠯᠥᠯ</unicode><transcript>itegegülül</transcript><transcript2>idegegölöl</transcript2><cyrillic>итгүүлэл</cyrillic></item>
-<item><ref>I0422a</ref><unicode>ᠢᠲᠠᠺᠠᠺᠥᠯᠥᠺ</unicode><transcript>itegegülüg</transcript><transcript2>idegegölög</transcript2><cyrillic>итгүүлэг</cyrillic></item>
+<item><ref>I0422a</ref><unicode>ᠢᠲᠡᠭᠡᠭᠦᠯᠦᠭ</unicode><transcript>itegegülüg</transcript><transcript2>idegegölög</transcript2><cyrillic>итгүүлэг</cyrillic></item>
 <item><ref>I0423</ref><unicode>ᠢᠲᠠᠺᠠᠺᠥᠯᠺᠥ</unicode><transcript>itegegülkü</transcript><transcript2>idegegölgö</transcript2><cyrillic>итгүүлэх</cyrillic></item>
 <item><ref>I0424</ref><unicode>ᠢᠲᠠᠺᠠᠺᠳᠠᠺᠥ</unicode><transcript>itegegdekü</transcript><transcript2>idegegdegö</transcript2><cyrillic>итгэгдэх</cyrillic></item>
 <item><ref>I0425</ref><unicode>ᠢᠲᠠᠺᠠᠺᠴᠢ</unicode><transcript>itegegči</transcript><transcript2>idegegci</transcript2><cyrillic>итгэгч</cyrillic></item>
@@ -35227,7 +35227,7 @@
 <item><ref>S2179</ref><unicode> ᠰᠡᠳᠭᠢᠳᠡᠭᠥ</unicode><transcript>setgidekü</transcript><transcript2>sedgidegö</transcript2><cyrillic>сэтгэгдэх</cyrillic></item>
 <item><ref>S2180</ref><unicode> ᠰᠡᠳᠭᠢᠯ</unicode><transcript>setgil</transcript><transcript2>sedgil</transcript2><cyrillic>сэтгэл</cyrillic></item>
 <item><ref>S2181</ref><unicode> ᠰᠡᠳᠭᠢᠯᠳᠡᠢ</unicode><transcript>setgiltei</transcript><transcript2>sedgildei</transcript2><cyrillic>сэтгэлтэй</cyrillic></item>
-<item><ref>S2182</ref><unicode> ᠰᠡᠳᠭᠢᠯᠳᠥ</unicode><transcript>setgiltü</transcript><transcript2>sedgildö</transcript2><cyrillic>сэтгэлт</cyrillic></item>
+<item><ref>S2182</ref><unicode>ᠰᠡᠳᠭᠢᠯᠳᠥ</unicode><transcript>setgiltü</transcript><transcript2>sedgildö</transcript2><cyrillic>сэтгэлт</cyrillic><variants><v t="unicode">ᠰᠡᠲᠭᠢᠯ ᠎ᠲᠦ</v></variants></item>
 <item><ref>S2183</ref><unicode> ᠰᠡᠳᠭᠢᠯᠴᠡᠭᠥ</unicode><transcript>setgilčekü</transcript><transcript2>sedgilcegö</transcript2><cyrillic></cyrillic></item>
 <item><ref>S2184</ref><unicode> ᠰᠡᠳᠭᠢᠯᠴᠢᠭᠡᠭᠥ</unicode><transcript>setgilčilekü</transcript><transcript2>sedgilcilegö</transcript2><cyrillic>сэтгэлчлэх</cyrillic></item>
 <item><ref>S2185</ref><unicode> ᠰᠡᠳᠭᠢᠯᠭᠡ</unicode><transcript>setgilge</transcript><transcript2>sedgilge</transcript2><cyrillic>сэтгэлэг</cyrillic></item>
