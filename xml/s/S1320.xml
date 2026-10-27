@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="S1320">
   <head>
     <unicode>ᠰᠠᠮᠪᠠᠭᠠᠨᠠᠬᠣ</unicode>
@@ -9,7 +9,7 @@
   <derivatives>
     <ref>S1321</ref>
     <ref>S1323</ref>
-  </derivatives>
+  <ref>S1322</ref></derivatives>
   <entries>
     <entry_item>
       <dico>Chinese</dico>
@@ -39,4 +39,4 @@
       <page>465</page>
     </entry_item>
   </entries>
-</entry>
+<related_to><ref>S1319</ref></related_to></entry>
