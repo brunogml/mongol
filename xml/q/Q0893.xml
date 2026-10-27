@@ -2,14 +2,16 @@
 <entry ref="Q0893">
   <head>
     <unicode>ᠬᠠᠬᠵᠠᠯᠬᠣ</unicode>
-    <transcript>qaqǰalqu</transcript>
+    <transcript>qaγǰalqu</transcript>
     <transcript2>gagcalgo</transcript2>
     <cyrillic>хагзлах</cyrillic>
-  </head><derivatives>
-    <ref>Q0894</ref>
-  </derivatives><see_also>
+  </head>
+  <see_also>
     <ref>Q0892</ref>
   </see_also>
+  <derivatives>
+    <ref>Q0894</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Chinese</dico>
@@ -22,7 +24,7 @@
       <dico>lamrd</dico>
       <unicode>ᠬᠠᠬᠵᠠᠯᠬᠣ</unicode>
       <cyrillic>ХАГЗЛАХ</cyrillic>
-      <definition>пороть, распарывать, расшивать. </definition>
+      <definition>пороть, распарывать, расшивать.</definition>
       <page>0</page>
     </entry_item>
   </entries>
