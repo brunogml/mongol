@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="E2247">
   <head>
     <unicode>ᠡᠷᠳᠡᠮᠲᠦ</unicode>
@@ -6,6 +6,12 @@
     <transcript2>erdemdö</transcript2>
     <cyrillic>эрдэмт</cyrillic>
   </head>
+  <see_also>
+    <ref>E2245</ref>
+  </see_also>
+  <related_to>
+    <ref>E2244</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -48,7 +54,7 @@
       <dico>lamrd</dico>
       <unicode>ᠡᠷᠳᠠᠮᠲᠥ</unicode>
       <cyrillic>ЭРДЭМТ</cyrillic>
-      <definition>1) учёный, знающий, образованный; 2) достойный, добродетельный; 3) благородный; эрдэмт төмөрлөг благородные металлы. </definition>
+      <definition>1) учёный, знающий, образованный; 2) достойный, добродетельный; 3) благородный; эрдэмт төмөрлөг благородные металлы.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -59,10 +65,4 @@
       <page>883</page>
     </entry_item>
   </entries>
-  <related_to>
-    <ref>E2244</ref>
-  </related_to>
-  <see_also>
-    <ref>E2245</ref>
-  </see_also>
 </entry>

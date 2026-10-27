@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="B2279">
   <head>
     <unicode>ᠪᠢᠯᠠᠺᠥᠥ</unicode>
@@ -8,7 +8,12 @@
   </head>
   <see_also>
     <ref>B2278</ref>
+    <ref>B2281</ref>
+    <ref>B2272</ref>
   </see_also>
+  <derivatives>
+    <ref>B2280</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -22,7 +27,8 @@
     <entry_item>
       <dico>Kowalewski</dico>
       <unicode>ᠪᠢᠯᠡᠭᠦᠦ ~ ᠪᠢᠯᠡᠦ</unicode>
-      <definition>pierre à aiguiser: 2 qllatre étoiles du Taureau</definition>
+      <definition>1 pierre à aiguiser: &#13;
+2 qulatre étoiles du Taureau</definition>
       <page>1142</page>
     </entry_item>
     <entry_item>
@@ -49,7 +55,8 @@
     <entry_item>
       <dico>Vietze</dico>
       <cyrillic>билүү</cyrillic>
-      <definition>1. Schleifstein m, Wetzstein m 
+      <definition>1. Schleifstein m, Wetzstein m &#13;
+&#13;
 2. (Interr von билзэ) war bzw. ist es nicht so, daß ...; өнөөдөр кино гарах ~? wird heute nicht ein Film gespielt?</definition>
       <page>52</page>
     </entry_item>

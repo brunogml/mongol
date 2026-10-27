@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K0202">
   <head>
-    <unicode>ᠺᠠᠨᠠᠲᠳᠠᠯ</unicode>
+    <unicode>ᠭᠡᠨᠡᠳᠳᠡᠯ</unicode>
     <transcript>genetdel</transcript>
     <transcript2>geneddel</transcript2>
     <cyrillic>гэнтэл</cyrillic>
   </head>
+  <related_to>
+    <ref>K0201</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -23,4 +26,4 @@
       <page>2445</page>
     </entry_item>
   </entries>
-<related_to><ref>K0201</ref></related_to></entry>
+</entry>

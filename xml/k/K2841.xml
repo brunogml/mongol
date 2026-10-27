@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K2841">
   <head>
     <unicode>ᠺᠥᠢᠲᠡ</unicode>
@@ -6,6 +6,10 @@
     <transcript2>göide</transcript2>
     <cyrillic>хүйт</cyrillic>
   </head>
+  <see_also>
+    <ref>K2842</ref>
+    <ref>K2862</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>Chinese</dico>
@@ -18,15 +22,13 @@
       <dico>lamrd</dico>
       <unicode>ᠺᠥᠢᠲᠡ</unicode>
       <cyrillic>ХҮЙТ</cyrillic>
-      <definition>холод, мороз, стужа; хүйт авах простудиться; хүйт даах а) леденеть, стынуть от холода; б) морозоустойчивый, холодостойкий; хүйт даах чадал морозоустойчивость; хүйт орох наступление холодного периода. </definition>
+      <definition>холод, мороз, стужа; хүйт авах простудиться; хүйт даах а) леденеть, стынуть от холода; б) морозоустойчивый, холодостойкий; хүйт даах чадал морозоустойчивость; хүйт орох наступление холодного периода.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>Vietze</dico>
       <cyrillic>хүйт[эн]</cyrillic>
-      <definition>Kälte f, Frost m; ~ даах
-1. Kälte spüren
-2. Kälte vertragen; kältebeständig; ~ орох Met kalt werden; ~ тэсвэршил Kältebeständigkeit f; ~ний градус Kältegrad m; ~нийг мэдрэмтгий kälteempfindlich; ~ний туйл Kältepol m; ~нэзр үзэх übertr unfreundlich ansehen; ~нэзр хүлээн авах übertr kühl empfangen; ~энд тэсвэргүй kälteempfindlich</definition>
+      <definition>Kälte f, Frost m; ~ даах 1. Kälte spüren 2. Kälte vertragen; kältebeständig; ~ орох Met kalt werden; ~ тэсвэршил Kältebeständigkeit f; ~ний градус Kältegrad m; ~нийг мэдрэмтгий kälteempfindlich; ~ний туйл Kältepol m; ~нэзр үзэх übertr unfreundlich ansehen; ~нэзр хүлээн авах übertr kühl empfangen; ~энд тэсвэргүй kälteempfindlich</definition>
       <page>333</page>
     </entry_item>
     <entry_item>
