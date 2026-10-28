@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="S4320b">
   <head>
-    <unicode>ᠰᠢᠺᠢᠷᠠᠲᠣ</unicode>
-    <transcript>sikiratu</transcript>
+    <unicode>ᠰᠢᠭᠢᠷᠠᠲᠤ</unicode>
+    <transcript>sigiratu</transcript>
     <transcript2>sigirado</transcript2>
     <cyrillic>шийрт</cyrillic>
-  </head><see_also>
+  </head>
+  <see_also>
     <ref>S4322</ref>
   </see_also>
   <entries>
@@ -20,9 +21,9 @@
         <example>
           <unicode>ᠰᠢᠺᠢᠷᠠᠲᠣ ᠪᠤᠤ</unicode>
           <transcript>-- buu</transcript>
-          <definition> A rifle with a support on which it rests when fired</definition>
+          <definition>A rifle with a support on which it rests when fired</definition>
         </example>
       </examples>
     </entry_item>
   </entries>
-</entry>
+<related_to><ref>S4320a</ref></related_to></entry>

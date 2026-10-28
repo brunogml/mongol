@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="S4321">
   <head>
-    <unicode>ᠰᠢᠺᠢᠷᠠ</unicode>
+    <unicode>ᠰᠢᠭᠢᠷ ᠡ</unicode>
     <transcript>sigir-e</transcript>
     <transcript2>sigir-e</transcript2>
     <cyrillic>шийр</cyrillic>
-  </head><see_also>
+  </head>
+  <see_also>
     <ref>S4320a</ref>
   </see_also>
   <entries>
@@ -33,8 +34,8 @@
       <dico>lamrd</dico>
       <unicode>ᠰᠢᠺᠢᠷᠠ</unicode>
       <cyrillic>ШИЙР</cyrillic>
-      <definition>1) ноги (у животных); голень, копыто; свиные, бараньи ножки, идущие на студень; шийр цувдай хорш. гольё; 2) ножки, ножка; бууны шийр ножки ружья; 3) үл.тоомс. нога, ноги; † нохойн шийр ург. парнолистник. </definition>
+      <definition>1) ноги (у животных); голень, копыто; свиные, бараньи ножки, идущие на студень; шийр цувдай хорш. гольё; 2) ножки, ножка; бууны шийр ножки ружья; 3) үл.тоомс. нога, ноги; † нохойн шийр ург. парнолистник.</definition>
       <page>0</page>
     </entry_item>
   </entries>
-</entry>
+<derivatives><ref>S4324</ref><ref>S4322</ref></derivatives></entry>

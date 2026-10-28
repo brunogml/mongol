@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q0233">
   <head>
     <unicode>ᠭᠠᠨᠵᠣᠭᠠᠯᠠᠭ᠎ᠠ</unicode>
@@ -18,7 +18,7 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠠᠨᠵᠣᠭᠠᠯᠠᠭ᠎ᠠ</unicode>
       <cyrillic>ГАНЗАГАЛАА</cyrillic>
-      <definition>кладь, поклажа, ручной багаж. </definition>
+      <definition>кладь, поклажа, ручной багаж.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -29,4 +29,4 @@
       <page>137</page>
     </entry_item>
   </entries>
-</entry>
+<derivatives><ref>Q0234</ref><ref>Q0235</ref></derivatives><related_to><ref>Q0231</ref></related_to></entry>

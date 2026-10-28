@@ -1,11 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="M0759">
   <head>
-    <unicode>ᠮᠠᠷᠢᠶᠠ</unicode>
+    <unicode>ᠮᠠᠷᠢᠶ ᠠ</unicode>
     <transcript>mariy-a</transcript>
     <transcript2>mariy-a</transcript2>
     <cyrillic>мариа</cyrillic>
   </head>
+  <derivatives>
+    <ref>M0761</ref>
+    <ref>M0762</ref>
+    <ref>M0763</ref>
+    <ref>M0766</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -19,7 +25,7 @@
         <example>
           <unicode>ᠵᠠᠯᠠᠭᠤ ᠮᠠᠷᠢᠶᠠᠨ</unicode>
           <transcript>zalaγu --n</transcript>
-          <definition> Youth, childhood.</definition>
+          <definition>Youth, childhood.</definition>
         </example>
       </examples>
     </entry_item>
@@ -57,14 +63,14 @@
       <dico>lamrd</dico>
       <unicode>ᠮᠠᠷᠢᠶᠠ</unicode>
       <cyrillic>МАРИА</cyrillic>
-      <definition>полнота; мах мариа хорш. полнота, пухлость; мариа муутай худой, тощий; бледный, нездоровый; мариа суух полнеть; мариа шуугдах худеть, тощать. </definition>
+      <definition>полнота; мах мариа хорш. полнота, пухлость; мариа муутай худой, тощий; бледный, нездоровый; мариа суух полнеть; мариа шуугдах худеть, тощать.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠮᠠᠷᠢᠶᠠ</unicode>
       <cyrillic>МАРИАГҮЙ</cyrillic>
-      <definition>худой, тощий. </definition>
+      <definition>худой, тощий.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -81,10 +87,4 @@
       <page>332</page>
     </entry_item>
   </entries>
-  <derivatives>
-    <ref>M0761</ref>
-    <ref>M0762</ref>
-    <ref>M0763</ref>
-    <ref>M0766</ref>
-  </derivatives>
 </entry>

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="S4322">
   <head>
-    <unicode>ᠰᠢᠺᠢᠷᠠᠲᠥ</unicode>
-    <transcript>sikiretü</transcript>
+    <unicode>ᠰᠢᠭᠢᠷᠡᠲᠦ</unicode>
+    <transcript>sigiretü</transcript>
     <transcript2>sigiredö</transcript2>
     <cyrillic>шийрт</cyrillic>
-  </head><see_also>
+  </head>
+  <see_also>
     <ref>S4320b</ref>
   </see_also>
   <entries>
@@ -17,4 +18,4 @@
       <page>1632</page>
     </entry_item>
   </entries>
-</entry>
+<related_to><ref>S4321</ref></related_to></entry>

@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T7719">
   <head>
-    <unicode>ᠳᠣᠷᠣᠨᠠ</unicode>
-    <transcript>doruna</transcript>
+    <unicode>ᠳᠣᠷᠤᠨ ᠠ</unicode>
+    <transcript>dorun-a</transcript>
     <transcript2>dorona</transcript2>
     <cyrillic>дорно</cyrillic>
   </head>
@@ -19,17 +19,17 @@
         <example>
           <unicode>ᠳᠣᠷᠣᠨ᠎ᠠ ᠡᠮᠦᠨ᠎ᠡ</unicode>
           <transcript>-- emyn-e</transcript>
-          <definition> Southeast.</definition>
+          <definition>Southeast.</definition>
         </example>
         <example>
           <unicode>ᠳᠣᠷᠣᠨ᠎ᠠ ᠵᠦᠭ</unicode>
           <transcript>-- zyg</transcript>
-          <definition> East, Orient.</definition>
+          <definition>East, Orient.</definition>
         </example>
         <example>
           <unicode>ᠳᠣᠷᠣᠨ᠎ᠠ ᠵᠦᠭ ᠳᠡᠺᠢ</unicode>
           <transcript>-- zyg deki</transcript>
-          <definition> Eastern, Oriental.</definition>
+          <definition>Eastern, Oriental.</definition>
         </example>
       </examples>
     </entry_item>
@@ -86,27 +86,27 @@
       <dico>lamrd</dico>
       <unicode>ᠳᠣᠷᠣᠨᠠ</unicode>
       <cyrillic>ДОРНО</cyrillic>
-      <definition>1. восток; дорно зүг восток; на восток; в восточном направлении; дорно зүг явах идти на восток; дорно өмнө юго-восток; юго-восточный; дорно умар северо-восток; северо-восточный; 2. восточный; дорно зүгт в восточном направлении; находящийся на востоке; относящийся к востоку; Дорноговь аймаг Восточно-гобийский аймак; дорно дахин а) Восток; б) народы Востока; в) восточный, находящийся на востоке, относящийся к востоку; дорно дахины судлал востоковедение; дорно дахиныг судлаач востоковед, ориенталист; Дорно дахины дээд сургууль институт Востоковедения. </definition>
+      <definition>1. восток; дорно зүг восток; на восток; в восточном направлении; дорно зүг явах идти на восток; дорно өмнө юго-восток; юго-восточный; дорно умар северо-восток; северо-восточный; 2. восточный; дорно зүгт в восточном направлении; находящийся на востоке; относящийся к востоку; Дорноговь аймаг Восточно-гобийский аймак; дорно дахин а) Восток; б) народы Востока; в) восточный, находящийся на востоке, относящийся к востоку; дорно дахины судлал востоковедение; дорно дахиныг судлаач востоковед, ориенталист; Дорно дахины дээд сургууль институт Востоковедения.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠳᠣᠷᠣᠨᠠ</unicode>
       <cyrillic>ДОРНООС</cyrillic>
-      <definition>дорно-ын гарах., с востока. </definition>
+      <definition>дорно-ын гарах., с востока.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠳᠣᠷᠣᠨᠠ</unicode>
       <cyrillic>ДОРНЫН</cyrillic>
-      <definition>дорно-ын харьяал., восточный. </definition>
+      <definition>дорно-ын харьяал., восточный.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>Vietze</dico>
       <cyrillic>дорно</cyrillic>
-      <definition>1. Osten m
+      <definition>1. Osten m&#13;
 2. östlich; Ost-; ~ дахины судлал Orientalistik f; ~ зүгийн орнууд Orient m; ~ зүгт im Osten</definition>
       <page>96</page>
     </entry_item>
@@ -118,4 +118,4 @@
       <page>202</page>
     </entry_item>
   </entries>
-</entry>
+<derivatives><ref>T7720</ref><ref>T7721</ref><ref>T7722</ref><ref>T7723</ref></derivatives></entry>

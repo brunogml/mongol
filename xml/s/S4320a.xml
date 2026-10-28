@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="S4320a">
   <head>
-    <unicode>ᠰᠢᠺᠢᠷᠠ</unicode>
+    <unicode>ᠰᠢᠭᠢᠷᠠ</unicode>
     <transcript>sigira</transcript>
     <transcript2>sigira</transcript2>
     <cyrillic>шийр</cyrillic>
-  </head><see_also>
+  </head>
+  <see_also>
     <ref>S4321</ref>
   </see_also>
   <entries>
@@ -26,4 +27,4 @@
       <page>1432</page>
     </entry_item>
   </entries>
-</entry>
+<derivatives><ref>S4320b</ref></derivatives></entry>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="B0055">
   <head>
     <unicode>ᠫᠠᠨᠴᠠᠯᠠᠬᠣ</unicode>
@@ -9,7 +9,7 @@
   <derivatives>
     <ref>B0056</ref>
     <ref>B0057</ref>
-  </derivatives>
+  <ref>B0056a</ref></derivatives>
   <entries>
     <entry_item>
       <dico>Chinese</dico>
