@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q1241">
   <head>
     <unicode>ᠬᠠᠪᠴᠢᠯᠭ᠎ᠠ</unicode>
@@ -6,6 +6,7 @@
     <transcript2>gabcilga</transcript2>
     <cyrillic>хавчлага</cyrillic>
   </head>
+  
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -19,7 +20,7 @@
         <example>
           <unicode>ᠠᠯᠪᠠᠳᠠᠯᠭ᠎ᠠ ᠬᠠᠪᠴᠢᠯᠭ᠎ᠠ ᠪᠡᠷ</unicode>
           <transcript>albadalγ-a -- ber</transcript>
-          <definition> Coercively, under pressure.</definition>
+          <definition>Coercively, under pressure.</definition>
         </example>
       </examples>
     </entry_item>
@@ -46,28 +47,28 @@
       <dico>lamrd</dico>
       <unicode>ᠬᠠᠪᠴᠢᠯᠭ᠎ᠠ</unicode>
       <cyrillic>ХАВЧЛАГА</cyrillic>
-      <definition>1) сжатие, давление, зажим, преследование; шөргийн хавчлага гнездо мачты; 2) нажим, притеснение, принуждение, ущемление; албадлага хавчлага хорш. принуждение; баячуудын хавчлага гнет буржуазии; хавчлага шахалтаар хийх делать по принуждению, делать что-л. под нажимом; 3) хуучир. ножные колодки для осуждённых; † хавчлага дарах ловить рыбу ночью на огонь. </definition>
+      <definition>1) сжатие, давление, зажим, преследование; шөргийн хавчлага гнездо мачты; 2) нажим, притеснение, принуждение, ущемление; албадлага хавчлага хорш. принуждение; баячуудын хавчлага гнет буржуазии; хавчлага шахалтаар хийх делать по принуждению, делать что-л. под нажимом; 3) хуучир. ножные колодки для осуждённых; † хавчлага дарах ловить рыбу ночью на огонь.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠬᠠᠪᠴᠢᠯᠭ᠎ᠠ</unicode>
       <cyrillic>ХАВЧЛАГААР</cyrillic>
-      <definition>хавчлага-ын үйлдэх., под нажимом, под давлением, по принуждению, принудительно. </definition>
+      <definition>хавчлага-ын үйлдэх., под нажимом, под давлением, по принуждению, принудительно.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠬᠠᠪᠴᠢᠯᠭ᠎ᠠ</unicode>
       <cyrillic>ХАВЧЛАГАГҮЙ</cyrillic>
-      <definition>без принуждения, без нажима, без притеснения; ямар ч хавчлагагүй хийх делать без всякого принуждения. </definition>
+      <definition>без принуждения, без нажима, без притеснения; ямар ч хавчлагагүй хийх делать без всякого принуждения.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠬᠠᠪᠴᠢᠯᠭ᠎ᠠ</unicode>
       <cyrillic>ХАВЧЛАГАГҮЙГЭЭР</cyrillic>
-      <definition>хавчлагагүй-н үйлдэх., без принуждения. </definition>
+      <definition>хавчлагагүй-н үйлдэх., без принуждения.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -84,7 +85,4 @@
       <page>637</page>
     </entry_item>
   </entries>
-  <related_to>
-    <ref>Q1239</ref>
-  </related_to>
-</entry>
+<see_also><ref>Q1242</ref></see_also></entry>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="B4828">
   <head>
     <unicode>ᠪᠥᠺᠰᠠ</unicode>
@@ -6,6 +6,10 @@
     <transcript2>bögse</transcript2>
     <cyrillic>бөгс</cyrillic>
   </head>
+  <derivatives>
+    <ref>B4829</ref>
+    <ref>B4830</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -19,7 +23,7 @@
         <example>
           <unicode>ᠪᠥᠭᠰᠡᠨ ᠪᠡᠶ᠎ᠡ</unicode>
           <transcript>--n bej-e</transcript>
-          <definition> Lower part of trunk, buttocks.</definition>
+          <definition>Lower part of trunk, buttocks.</definition>
         </example>
       </examples>
     </entry_item>
@@ -111,8 +115,4 @@
       <page>96</page>
     </entry_item>
   </entries>
-  <derivatives>
-    <ref>B4829</ref>
-    <ref>B4830</ref>
-  </derivatives>
 </entry>

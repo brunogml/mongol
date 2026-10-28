@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q1242">
   <head>
     <unicode>ᠬᠠᠪᠴᠢᠯᠲᠠ</unicode>
@@ -52,7 +52,5 @@
       <page>637</page>
     </entry_item>
   </entries>
-  <related_to>
-    <ref>Q1239</ref>
-  </related_to>
-</entry>
+  
+<see_also><ref>Q1241</ref></see_also></entry>

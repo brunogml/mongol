@@ -82,7 +82,7 @@ $DICO_LABELS = [
     'boberg'     => 'Boberg',
     'chinese'    => '新蒙汉词典',
     'chinese2'   => '蒙汉词典',
-    'lamrd'      => 'Lamrd',
+    'lamrd'      => 'Большой словарь',
     'bawden'     => 'Bawden',
     'vietze'     => 'Vietze',
     'tibetan'    => 'Mahāvyutpatti',
@@ -158,6 +158,11 @@ $DICO_INFO = [
         'title' => 'Dictionnaire ordos (in progress)',
         'meta'  => 'Antoine Mostaert · Catholic University of America Press, Washington D.C., 1941–1944',
         'body'  => 'A comprehensive French-language dictionary of Ordos Mongolian, a dialect spoken in the Ordos region of Inner Mongolia. Compiled by the Belgian missionary and scholar Antoine Mostaert, it remains a foundational reference for Ordos dialectology and for the study of spoken Mongolian varieties distinct from the classical written tradition.',
+    ],
+    'lamrd' => [
+        'title' => 'Большой академический монгольско-русский словарь (in progress)',
+        'meta'  => 'A. Luvsandendev, T. Tsendamdamb · Moscow, 2001–2002',
+        'body'  => 'The Большой академический монгольско-русский словарь is the most comprehensive Mongolian-to-Russian lexicographic work ever published, containing approximately 70,000 words and expressions of modern Khalkha Mongolian with detailed semantic analysis.  It is widely regarded as the reference standard.',
     ],
     'cevel' => [
         'title' => 'Монгол хэлний товч тайлбар толь',
@@ -2079,6 +2084,7 @@ if ($entryXml !== null) {
 <div class="page-shell">
 
   <nav class="dict-nav" aria-label="Dictionaries">
+    <?php if ($ref !== ''): ?>
     <p class="dict-nav-title">Dictionaries</p>
     <?php
     // Groups: label => array of dico keys
@@ -2133,7 +2139,10 @@ if ($entryXml !== null) {
         <?php endforeach; ?>
       <?php endforeach; ?>
     </ul>
-	    <br><br><p class="dict-nav-title">Grammar</p>
+    <?php endif; // $ref !== '' ?>
+
+	    <?php if ($ref === ''): ?>
+	    <p class="dict-nav-title">Grammar</p>
 		<ul>
 			<li><a href="gramm/gramm.php" target="_blank">🕮</a>
 		</ul>
@@ -2141,6 +2150,7 @@ if ($entryXml !== null) {
 		<ul>
 			<li><a href="tib.php" target="_blank">Search tibetan entries</a>
 		</ul>
+	    <?php endif; ?>
 
   </nav>
 
@@ -2312,8 +2322,9 @@ if ($entryXml !== null) {
       <?php endif; ?>
     </div>
   </div>
-  <a class="links-graph-btn" href="link.html?id=<?= urlencode($ref) ?>">⇢ Word links graph</a>
   <?php endif; ?>
+
+  <a class="links-graph-btn" href="link.html?id=<?= urlencode($ref) ?>">⇢ Word links graph</a>
 
   <?php
     // Group sorted items by dictionary, preserving the desired order.
@@ -2809,9 +2820,22 @@ document.addEventListener('keydown', function (e) {
       <?php endforeach; ?>
     </ul>
 
+    <div class="modal-res-divider" style="margin-top:1.4rem">Russian dictionaries</div>
+    <ul class="modal-resources-list">
+      <?php foreach (['lamrd'] as $dk):
+          if (!isset($DICO_INFO[$dk])) continue;
+          $info = $DICO_INFO[$dk]; ?>
+      <li class="modal-res-item">
+        <div class="modal-res-title"><?= h($info['title']) ?></div>
+        <div class="modal-res-meta"><?= h($info['meta']) ?></div>
+        <div class="modal-res-body"><?= h($info['body']) ?></div>
+      </li>
+      <?php endforeach; ?>
+    </ul>
+
     <div class="modal-res-divider" style="margin-top:1.4rem">Asian dictionaries</div>
     <ul class="modal-resources-list">
-      <?php foreach (['chinese','chinese2','lamrd'] as $dk):
+      <?php foreach (['chinese','chinese2'] as $dk):
           if (!isset($DICO_INFO[$dk])) continue;
           $info = $DICO_INFO[$dk]; ?>
       <li class="modal-res-item">
@@ -2860,6 +2884,21 @@ document.addEventListener('keydown', function (e) {
       </li>
       <?php endforeach; ?>
     </ul>
+
+
+    <div class="modal-res-divider" style="margin-top:1.4rem">Dialectal resources</div>
+    <ul class="modal-resources-list">
+      <?php foreach (['mostaert'] as $dk):
+          if (!isset($DICO_INFO[$dk])) continue;
+          $info = $DICO_INFO[$dk]; ?>
+      <li class="modal-res-item">
+        <div class="modal-res-title"><?= h($info['title']) ?></div>
+        <div class="modal-res-meta"><?= h($info['meta']) ?></div>
+        <div class="modal-res-body"><?= h($info['body']) ?></div>
+      </li>
+      <?php endforeach; ?>
+    </ul>
+
   </div>
 </div>
 

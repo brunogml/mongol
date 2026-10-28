@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q1239">
   <head>
     <unicode>ᠬᠠᠪᠴᠢᠯ</unicode>
@@ -6,11 +6,7 @@
     <transcript2>gabcil</transcript2>
     <cyrillic>хавцал</cyrillic>
   </head>
-  <derivatives>
-    <ref>Q1240</ref>
-    <ref>Q1241</ref>
-    <ref>Q1242</ref>
-  </derivatives>
+  
   <see_also>
     <ref>Q1204</ref>
   </see_also>

@@ -1,10 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K4972">
   <head>
+    <unicode>ᠭᠦᠷᠢᠮᠴᠢ</unicode>
     <transcript>gürimči</transcript>
     <transcript2>görimci</transcript2>
     <cyrillic>гүрэмч</cyrillic>
   </head>
+  <related_to>
+    <ref>K4969</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Chinese</dico>
@@ -16,7 +20,7 @@
     <entry_item>
       <dico>lamrd</dico>
       <cyrillic>ГҮРЭМЧ</cyrillic>
-      <definition>лама, совершающий молебен. </definition>
+      <definition>лама, совершающий молебен.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
