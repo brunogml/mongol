@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T8383">
   <head>
-    <unicode>ᠲᠥᠪᠠᠺ</unicode>
+    <unicode>ᠲᠥᠪᠡᠭ</unicode>
     <transcript>töbeg</transcript>
     <transcript2>döbeg</transcript2>
     <cyrillic>төвөг</cyrillic>
-  </head><see_also>
+  </head>
+  <see_also>
     <ref>T8382</ref>
   </see_also>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
-      <unicode>ᠲᠥᠪᠠᠺ</unicode>
+      <unicode>ᠲᠥᠪᠡᠭ</unicode>
       <uighur>töbeg</uighur>
       <cyrillic>төвөг</cyrillic>
       <transcript>TØBEG</transcript>
@@ -19,19 +20,19 @@
       <page>831</page>
       <examples>
         <example>
-          <unicode>ᠲᠥᠪᠠᠺ ᠪᠡᠷᠺᠡᠰᠢᠶᠡᠯ</unicode>
+          <unicode>ᠲᠥᠪᠡᠭ ᠪᠡᠷᠺᠡᠰᠢᠶᠡᠯ</unicode>
           <transcript>-- berkesijel</transcript>
-          <definition> Obstacle, difficulty, troubles.</definition>
+          <definition>Obstacle, difficulty, troubles.</definition>
         </example>
         <example>
-          <unicode>ᠲᠥᠪᠠᠺ ᠪᠣᠯᠬᠤ</unicode>
+          <unicode>ᠲᠥᠪᠡᠭ ᠪᠣᠯᠬᠤ</unicode>
           <transcript>-- bolxu</transcript>
-          <definition> To be troublesome.</definition>
+          <definition>To be troublesome.</definition>
         </example>
         <example>
-          <unicode>ᠲᠥᠪᠠᠺ ᠦᠭᠡᠢ</unicode>
+          <unicode>ᠲᠥᠪᠡᠭ ᠦᠭᠡᠢ</unicode>
           <transcript>-- ygei</transcript>
-          <definition> There is no trouble or difficulty.</definition>
+          <definition>There is no trouble or difficulty.</definition>
         </example>
       </examples>
     </entry_item>
@@ -60,17 +61,16 @@
     </entry_item>
     <entry_item>
       <dico>Boberg</dico>
-      <unicode>ᠲᠥᠪᠠᠺ</unicode>
+      <unicode>ᠲᠥᠪᠡᠭ</unicode>
       <uighur>tübeg</uighur>
       <definition>n. Troub1e, difficulty. Hardship.</definition>
       <page>1021</page>
-    </entry_item>
-    <entry_item>
-      <dico>Boberg</dico>
-      <unicode>ᠲᠥᠪᠠᠺ</unicode>
-      <uighur>tübeg kikü</uighur>
-      <definition>To make or cause trouble.</definition>
-      <page>1022</page>
+      <examples>
+        <example>
+          <unicode>ᠲᠦᠪᠡᠭ ᠺᠢᠺᠦ</unicode>
+          <definition>To make or cause trouble.</definition>
+        </example>
+      </examples>
     </entry_item>
     <entry_item>
       <dico>Chinese</dico>
@@ -81,24 +81,23 @@
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
-      <unicode>ᠲᠥᠪᠠᠺ</unicode>
+      <unicode>ᠲᠥᠪᠡᠭ</unicode>
       <cyrillic>ТӨВӨГ</cyrillic>
-      <definition>беспокойство, хлопоты, заботы; неприятность; неудобство; яршиг төвөг хорш. помеха, трудности; төвөг болох / төвөг удах создавать хлопоты, причинять беспокойство, быть хлопотным, быть неудобным, мешать кому-л., беспокоить, причинять неприятности; төвөг чирэгдэл хорш. бесконечные хлопоты, неприятности. </definition>
+      <definition>беспокойство, хлопоты, заботы; неприятность; неудобство; яршиг төвөг хорш. помеха, трудности; төвөг болох / төвөг удах создавать хлопоты, причинять беспокойство, быть хлопотным, быть неудобным, мешать кому-л., беспокоить, причинять неприятности; төвөг чирэгдэл хорш. бесконечные хлопоты, неприятности.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
-      <unicode>ᠲᠥᠪᠠᠺ</unicode>
+      <unicode>ᠲᠥᠪᠡᠭ ᠦᠭᠡᠢ</unicode>
       <cyrillic>ТӨВӨГГҮЙ</cyrillic>
-      <definition>нетрудный, лёгкий, несложный; спокойный, не причиняющий хлопот; төвөггүй амар спокойно, не торопясь; без забот, без хлопот. </definition>
+      <definition>нетрудный, лёгкий, несложный; спокойный, не причиняющий хлопот; төвөггүй амар спокойно, не торопясь; без забот, без хлопот.</definition>
       <page>0</page>
     </entry_item>
-  
-  <entry_item>
-    <dico>Vietze</dico>
-    <cyrillic>төвөг</cyrillic>
-    <definition>Schwierigkeit f; Komplikation f; Unannehmlichkeit f; ~ учруулах Schwierigkeiten bereiten (jmdm. -д), belästigen (jmdm. -д; mit etw. -аар); танд ~ удахсан болов уу? würde es Ihnen etwas ausmachen (wenn … …-вал)</definition>
-    <page>233</page>
-  </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>төвөг</cyrillic>
+      <definition>Schwierigkeit f; Komplikation f; Unannehmlichkeit f; ~ учруулах Schwierigkeiten bereiten (jmdm. -д), belästigen (jmdm. -д; mit etw. -аар); танд ~ удахсан болов уу? würde es Ihnen etwas ausmachen (wenn … …-вал)</definition>
+      <page>233</page>
+    </entry_item>
   </entries>
 </entry>

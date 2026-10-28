@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T8120">
   <head>
+    <unicode>ᠲᠦᠢᠮᠡᠷᠢᠳᠳᠡᠺᠦ</unicode>
     <transcript>tüimeritdekü</transcript>
     <transcript2>döimeriddegö</transcript2>
   </head>
@@ -8,8 +9,8 @@
     <entry_item>
       <dico>Kowalewski</dico>
       <unicode>ᠳᠦᠢᠮᠡᠷᠢᠳᠳᠡᠺᠦ</unicode>
-      <definition>brûler, être consumé par l&apos;incendie</definition>
+      <definition>brûler, être consumé par l'incendie</definition>
       <page>1901</page>
     </entry_item>
   </entries>
-</entry>
+<related_to><ref>T8119</ref></related_to></entry>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T2023">
   <head>
     <unicode>ᠲᠠᠮᠢᠷᠵᠢᠬᠣ</unicode>
@@ -9,7 +9,7 @@
   <derivatives>
     <ref>T2024</ref>
     <ref>T2026</ref>
-  </derivatives>
+  <ref>T2025</ref></derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -48,4 +48,4 @@
       <page>518</page>
     </entry_item>
   </entries>
-</entry>
+<related_to><ref>T2015</ref></related_to></entry>
