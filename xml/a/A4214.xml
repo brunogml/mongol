@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="A4214">
   <head>
     <unicode>ᠠᠷᠪᠠᠢ</unicode>
@@ -13,22 +13,23 @@
       <uighur>arbai</uighur>
       <cyrillic>арвай</cyrillic>
       <transcript>ARBAI</transcript>
+      <definition>n. Barley</definition>
       <page>49</page>
       <examples>
         <example>
           <unicode>ᠠᠷᠪᠠᠢ ᠎ᠶᠢᠨ ᠠᠷᠠᠺᠢ</unicode>
           <transcript>-- jin araki</transcript>
-          <definition> Liquor made from barley.</definition>
+          <definition>Liquor made from barley.</definition>
         </example>
         <example>
           <unicode>ᠠᠷᠪᠠᠢ ᠎ᠶᠢᠨ ᠪᠤᠳᠠᠭ᠎ᠠ</unicode>
           <transcript>-- jin budaγ-a</transcript>
-          <definition> Barley groats.</definition>
+          <definition>Barley groats.</definition>
         </example>
         <example>
           <unicode>ᠠᠷᠪᠠᠢ ᠎ᠶᠢᠨ ᠭᠤᠯᠢᠷ</unicode>
           <transcript>-- jin γulir</transcript>
-          <definition> Barley flour.</definition>
+          <definition>Barley flour.</definition>
         </example>
       </examples>
     </entry_item>
@@ -70,7 +71,7 @@
       <definition>n. Barley.</definition>
       <examples>
         <example>
-          <uighur>arbai-yin γulir</uighur>
+          <unicode>ᠠᠷᠪᠠᠢ ᠎ᠶᠢᠨ ᠭᠤᠯᠢᠷ</unicode>
           <definition>n Barley flour.</definition>
         </example>
       </examples>

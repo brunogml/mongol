@@ -688,7 +688,15 @@ function transcriptSortKey(string $transcript): array {
               || $ch === 'j' || $ch === 'c'
               || $ch === 'y':                            $key[] = 13; break;
 
-            case $ch === 'k':                            $key[] = 14; break;
+            // k: back-vowel context → same as q/γ/g-back (8); front-vowel → same as g-front (14)
+            case $ch === 'k':
+                if (in_array($next, $back, true) || in_array($prev, $back, true)) {
+                    $key[] = 8;
+                } else {
+                    $key[] = 14;
+                }
+                break;
+
             case $ch === 'r':                            $key[] = 15; break;
             case $ch === 'h':                            $key[] = 16; break;
 
@@ -707,12 +715,30 @@ function compareSortKeys(array $a, array $b): int {
     return count($a) <=> count($b);
 }
 
+// Strip a word-final 'n' for sort-key purposes, mirroring the trailing-n
+// search expansion: dege and degen are treated as the same stem so they
+// sort adjacently. The full word is kept as a secondary tiebreaker so
+// dege < degen < degener.
+function stripTrailingN(string $t): string {
+    if ($t !== '' && mb_strtolower(mb_substr($t, -1, 1, 'UTF-8'), 'UTF-8') === 'n') {
+        return mb_substr($t, 0, mb_strlen($t, 'UTF-8') - 1, 'UTF-8');
+    }
+    return $t;
+}
+
 // Sort search results by Mongolian alphabet order on the transcript field.
 // Falls back to transcript2 when transcript is empty.
 function sortSearchResults(array $hits): array {
     usort($hits, function (array $a, array $b): int {
         $tA = $a['transcript'] !== '' ? $a['transcript'] : $a['transcript2'];
         $tB = $b['transcript'] !== '' ? $b['transcript'] : $b['transcript2'];
+        // Primary key: ignore trailing n so dege/degen sort as one group
+        $cmp = compareSortKeys(
+            transcriptSortKey(stripTrailingN($tA)),
+            transcriptSortKey(stripTrailingN($tB))
+        );
+        if ($cmp !== 0) return $cmp;
+        // Secondary key: full word, so dege < degen < degener
         return compareSortKeys(transcriptSortKey($tA), transcriptSortKey($tB));
     });
     return $hits;
