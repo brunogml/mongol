@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T8721">
   <head>
-    <unicode>ᠲᠥᠯᠢᠶᠠ</unicode>
+    <unicode>ᠲᠦᠯᠢᠶ ᠡ</unicode>
     <transcript>tüliy-e</transcript>
     <transcript2>döliy-e</transcript2>
     <cyrillic>түлээ</cyrillic>
-  </head><see_also>
+  </head>
+  <see_also>
     <ref>T8686</ref>
-  
     <ref>T8722</ref>
   </see_also>
   <entries>
@@ -22,12 +22,12 @@
         <example>
           <unicode>ᠲᠦᠯᠢᠶ᠎ᠡ ᠲᠡᠭᠦᠭᠴᠢ</unicode>
           <transcript>-- tegygci</transcript>
-          <definition> Firewood gatherer.</definition>
+          <definition>Firewood gatherer.</definition>
         </example>
         <example>
           <unicode>ᠲᠦᠯᠢᠶ᠎ᠡ ᠬᠠᠭᠠᠯᠬᠤ</unicode>
           <transcript>-- xaγalxu</transcript>
-          <definition> To split firewood or kindling.</definition>
+          <definition>To split firewood or kindling.</definition>
         </example>
       </examples>
     </entry_item>
