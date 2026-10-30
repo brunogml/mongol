@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="C0130">
   <head>
+    <unicode>ᠴᠠᠭᠠᠳᠬᠠᠭᠳᠠᠬᠤ</unicode>
     <transcript>čaγatqaγdaqu</transcript>
     <transcript2>cagadgagdago</transcript2>
     <cyrillic>цагаатгагдах</cyrillic>
-  </head><related_to>
+  </head>
+  <related_to>
     <ref>C0128</ref>
   </related_to>
   <entries>
@@ -18,7 +20,7 @@
     <entry_item>
       <dico>lamrd</dico>
       <cyrillic>ЦАГААТГАГДАХ</cyrillic>
-      <definition>цагаатгах-ын үйлдэгд. </definition>
+      <definition>цагаатгах-ын үйлдэгд.</definition>
       <page>0</page>
     </entry_item>
   </entries>

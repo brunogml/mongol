@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="C3708">
   <head>
+    <unicode>ᠴᠥᠭᠡᠳᠭᠡᠴᠢᠺᠡᠺᠦ</unicode>
     <transcript>čögetgečikekü</transcript>
     <transcript2>cögedgecigegö</transcript2>
     <cyrillic>цөөтгөчихөх</cyrillic>
-  </head><related_to>
+  </head>
+  <related_to>
     <ref>C3709</ref>
   </related_to>
   <entries>
     <entry_item>
       <dico>lamrd</dico>
       <cyrillic>ЦӨӨТГӨЧИХӨХ</cyrillic>
-      <definition>цөөтгөх-ийн нэгэнтээ. </definition>
+      <definition>цөөтгөх-ийн нэгэнтээ.</definition>
       <page>0</page>
     </entry_item>
   </entries>
