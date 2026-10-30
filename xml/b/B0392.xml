@@ -1,11 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="B0392">
   <head>
-    <unicode>ᠪᠠᠬᠰᠢᠮᠠ</unicode>
+    <unicode>ᠪᠠᠭᠰᠢᠮ ᠠ</unicode>
     <transcript>baγsim-a</transcript>
     <transcript2>bagsim-a</transcript2>
     <cyrillic>багшим</cyrillic>
   </head>
+  <see_also>
+    <ref>B0392a</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -53,7 +56,7 @@
     <entry_item>
       <dico>Vietze</dico>
       <cyrillic>багшим</cyrillic>
-      <definition>1. zusammengedrängt
+      <definition>1. zusammengedrängt&#13;
 2. eingeduckt</definition>
       <page>41</page>
     </entry_item>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="S1251">
   <head>
     <unicode>ᠰᠠᠮᠠᠳᠢ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>samadi</transcript2>
     <cyrillic>самди</cyrillic>
   </head>
+  <see_also>
+    <ref>S1253</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -31,7 +34,7 @@
     </entry_item>
     <entry_item>
       <dico>Kowalewski</dico>
-      <unicode>ᠰᠠᠮᠠᠳᠢ ~ ᠰᠠᠮᠠᠳᠾᠢ</unicode>
+      <unicode>ᠰᠠᠮᠠᠳᠢ ~ ᠰᠠᠮᠠᡖᠾᠢ</unicode>
       <definition>contemplation, méditation profonde</definition>
       <page>1315</page>
     </entry_item>
@@ -60,14 +63,14 @@
       <dico>lamrd</dico>
       <unicode>ᠰᠠᠮᠠᠳᠢ</unicode>
       <cyrillic>САМДИ</cyrillic>
-      <definition>I шашин. созерцание, размышление; самдид суух сидеть созерцая, предаваться размышлениям. </definition>
+      <definition>I шашин. созерцание, размышление; самдид суух сидеть созерцая, предаваться размышлениям.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠰᠠᠮᠠᠳᠢ</unicode>
       <cyrillic>САМДИ</cyrillic>
-      <definition>II амьт. название мифического зверя, похожего на обезьяну. </definition>
+      <definition>II амьт. название мифического зверя, похожего на обезьяну.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>

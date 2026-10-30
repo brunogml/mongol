@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T3727">
   <head>
     <unicode>ᠲᠠᠰᠪᠥᠷᠢᠲᠠᠢ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>desböridei</transcript2>
     <cyrillic>тэсвэртэй</cyrillic>
   </head>
+  <related_to>
+    <ref>T3726</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -18,15 +21,16 @@
       <examples>
         <example>
           <unicode>ᠭᠠᠯ ᠳ᠋‍‍ᠤ‍ᠷ ᠲᠠᠰᠪᠥᠷᠢᠲᠠᠢ</unicode>
-          <transcript>γal dur -- </transcript>
-          <definition> Fire-resistant, fireproof.</definition>
+          <transcript>γal dur --</transcript>
+          <definition>Fire-resistant, fireproof.</definition>
         </example>
       </examples>
     </entry_item>
     <entry_item>
       <dico>Kowalewski</dico>
       <unicode>ᠳᠡᠰᠪᠦᠷᠢᠳᠡᠢ ~ ᠳᠡᠰᠪᠦᠷᠢᠳᠦ</unicode>
-      <definition>patient, doué d'une patience extrême: 2 fort, robuste.</definition>
+      <definition>1 patient, doué d'une patience extrême: &#13;
+2 fort, robuste.</definition>
       <page>1712</page>
     </entry_item>
     <entry_item>
@@ -47,7 +51,7 @@
       <dico>lamrd</dico>
       <unicode>ᠲᠠᠰᠪᠥᠷᠢᠲᠠᠢ</unicode>
       <cyrillic>ТЭСВЭРТЭЙ</cyrillic>
-      <definition>терпелљвый; выносливый, стойкий; монгол морь тэсвэртэй монгольский конь вынослив; тэсвэртэй хүн терпелљвый человек. </definition>
+      <definition>терпелљвый; выносливый, стойкий; монгол морь тэсвэртэй монгольский конь вынослив; тэсвэртэй хүн терпелљвый человек.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -64,7 +68,4 @@
       <page>580</page>
     </entry_item>
   </entries>
-  <related_to>
-    <ref>T3726</ref>
-  </related_to>
 </entry>

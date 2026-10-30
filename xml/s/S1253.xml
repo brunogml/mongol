@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="S1253">
   <head>
-    <unicode> ᠰᠠᠮᠠᠲᠾᠢ</unicode>
+    <unicode>ᠰᠠᠮᠠᡖᠾᠢ</unicode>
     <transcript>samadhi</transcript>
     <transcript2>samadhi</transcript2>
   </head>
+  <see_also>
+    <ref>S1251</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
-      <unicode> ᠰᠠᠮᠠᠲᠾᠢ</unicode>
+      <unicode>ᠰᠠᠮᠠᡖᠾᠢ</unicode>
       <uighur>samadhi</uighur>
       <transcript>SAMADHI</transcript>
       <definition>See samadi.</definition>
@@ -16,7 +19,7 @@
     </entry_item>
     <entry_item>
       <dico>Kowalewski</dico>
-      <unicode>ᠰᠠᠮᠠᠳᠢ ~ ᠰᠠᠮᠠᠳᠾᠢ</unicode>
+      <unicode>ᠰᠠᠮᠠᠳᠢ ~ ᠰᠠᠮᠠᡖᠾᠢ</unicode>
       <definition>contemplation, méditation profonde</definition>
       <page>1315</page>
     </entry_item>

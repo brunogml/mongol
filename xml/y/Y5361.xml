@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Y5361">
   <head>
     <unicode>ᠵᠥᠺᠡᠯᠡᠷᠡᠺᠥ</unicode>
@@ -9,7 +9,7 @@
   <derivatives>
     <ref>Y5363</ref>
     <ref>Y5360</ref>
-  </derivatives>
+  <ref>Y5359</ref><ref>Y5358</ref></derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>

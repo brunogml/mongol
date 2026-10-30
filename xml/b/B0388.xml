@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="B0388">
   <head>
     <unicode>ᠪᠠᠬᠰᠢᠬᠣ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>bagsigo</transcript2>
     <cyrillic>багших</cyrillic>
   </head>
+  <see_also>
+    <ref>B0388aa</ref>
+  </see_also>
   <derivatives>
     <ref>B0393</ref>
   </derivatives>
@@ -22,7 +25,7 @@
         <example>
           <unicode>ᠮᠣᠳᠤ ᠪᠠᠬᠰᠢᠭᠰᠠᠨ ᠭᠠᠵᠠᠷ</unicode>
           <transcript>modu --γsan γazar</transcript>
-          <definition> Densely wooded area.</definition>
+          <definition>Densely wooded area.</definition>
         </example>
       </examples>
     </entry_item>
@@ -63,7 +66,7 @@
     <entry_item>
       <dico>Vietze</dico>
       <cyrillic>багших</cyrillic>
-      <definition>1. sich zusammendrängen
+      <definition>1. sich zusammendrängen&#13;
 2. intr Reis u. ä. [ein]dicken</definition>
       <page>41</page>
     </entry_item>
