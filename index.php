@@ -2350,8 +2350,7 @@ if ($entryXml !== null) {
   </div>
   <?php endif; ?>
 
-  <a class="links-graph-btn" href="link.html?id=<?= urlencode($ref) ?>">⇢ Word links graph</a>
-
+  
   <?php
     // Group sorted items by dictionary, preserving the desired order.
     $groups = [];
