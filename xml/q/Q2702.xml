@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q2702">
   <head>
     <unicode>ᠭᠠᠴᠢᠬ</unicode>
@@ -23,7 +23,7 @@
         <example>
           <unicode>ᠵᠤᠳ ᠭᠠᠴᠢᠬ</unicode>
           <transcript>zud --</transcript>
-          <definition> Starvation of cattle, murrain.</definition>
+          <definition>Starvation of cattle, murrain.</definition>
         </example>
       </examples>
     </entry_item>
@@ -44,7 +44,7 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠠᠴᠢᠬ</unicode>
       <cyrillic>ГАЧИГ</cyrillic>
-      <definition>1) нужда, нехватка, недостаток; ган гачиг хорш. засуха, голод, бескормица (от засухи); стихийное бедствие; зуд гачиг хорш. голод, бескормица, падёж скота (от гололедицы); гачиг газар скудная земля, бросовые земли; бэдленд; гачиг дан / гачиг зовлон хорш. горе, скорбь; гачиг тохиох сталкиваться с нуждой, переживать трудности и лишения; гачиг цаг трудное время, скудное время; бескормица; 2) бедствие. </definition>
+      <definition>1) нужда, нехватка, недостаток; ган гачиг хорш. засуха, голод, бескормица (от засухи); стихийное бедствие; зуд гачиг хорш. голод, бескормица, падёж скота (от гололедицы); гачиг газар скудная земля, бросовые земли; бэдленд; гачиг дан / гачиг зовлон хорш. горе, скорбь; гачиг тохиох сталкиваться с нуждой, переживать трудности и лишения; гачиг цаг трудное время, скудное время; бескормица; 2) бедствие.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -53,6 +53,12 @@
       <cyrillic>гачиг</cyrillic>
       <definition>гачаал; зуд гачиг; ган гачиг; гачиг тохиолдох.</definition>
       <page>142</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гачаал, гачиг</cyrillic>
+      <definition>Not f, Notlage f, Mangel m; ган ~ Dürre f, Kargheit f; ~ ховор цагт тусламж үзүүлэх in Notzeiten Hilfe leisten (jmdm. -д)</definition>
+      <page>75</page>
     </entry_item>
   </entries>
 </entry>

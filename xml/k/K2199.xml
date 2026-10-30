@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K2199">
   <head>
     <unicode>ᠺᠢᠯᠪᠢᠯᠺᠡᠨ</unicode>
@@ -18,7 +18,7 @@
       <dico>lamrd</dico>
       <unicode>ᠺᠢᠯᠪᠢᠯᠺᠡᠨ</unicode>
       <cyrillic>ГИЛБЭЛГЭЭН</cyrillic>
-      <definition>сверкание, блистание; молния; свет молнии; гилбэлгээн өнгөт блестящий, сверкающий. </definition>
+      <definition>сверкание, блистание; молния; свет молнии; гилбэлгээн өнгөт блестящий, сверкающий.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -27,6 +27,12 @@
       <cyrillic>гилбэлгээн</cyrillic>
       <definition>алсад цахилж байгаа цахилгаан; алсад гилбэлгээн жалбалзаж байв.</definition>
       <page>144</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гилбэлгээн</cyrillic>
+      <definition>Glanz m, Leuchten n, Schein m</definition>
+      <page>76</page>
     </entry_item>
   </entries>
 </entry>

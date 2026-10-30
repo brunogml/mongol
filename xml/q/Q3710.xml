@@ -5,13 +5,14 @@
     <transcript>γarkituqu</transcript>
     <transcript2>gargidogo</transcript2>
     <cyrillic>гархитах</cyrillic>
-  </head><derivatives>
-    <ref>Q3711</ref>
-  
-    <ref>Q3712</ref>
-  </derivatives><see_also>
+  </head>
+  <see_also>
     <ref>Q3206</ref>
   </see_also>
+  <derivatives>
+    <ref>Q3711</ref>
+    <ref>Q3712</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Chinese</dico>
@@ -24,8 +25,14 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠠᠷᠺᠢᠲᠣᠬᠣ</unicode>
       <cyrillic>ГАРХИТАХ</cyrillic>
-      <definition>II † нүд гархитах впадать, ввалиться (о глазах). </definition>
+      <definition>II † нүд гархитах впадать, ввалиться (о глазах).</definition>
       <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гархилах, гархитах</cyrillic>
+      <definition>intr einfallen; hohl werden; нүд нь их гархитсан er hat tiefe Augenringe</definition>
+      <page>75</page>
     </entry_item>
   </entries>
 </entry>

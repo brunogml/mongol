@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K0465">
   <head>
     <unicode>ᠭᠡᠰᠢᠭᠦᠨ</unicode>
@@ -72,8 +72,8 @@
     <entry_item>
       <dico>Kowalewski</dico>
       <unicode>ᠺᠡᠰᠢᠭᠦᠨ ~ ᠺᠡᠰᠢᠭᠦᠦ</unicode>
-      <definition>1 branche: 
-2 membre (du corps): 
+      <definition>1 branche: &#13;
+2 membre (du corps): &#13;
 3 partie intégrante.</definition>
       <page>2460</page>
       <examples>
@@ -131,6 +131,18 @@
       <cyrillic>гишүүн</cyrillic>
       <definition>1. олон нийтийн ямар нэгэн байгууллагад санал зорил нэгдэж сайн дураар элссэн хүн; намын гишүүн; эвлэлийн гишүүн; гишүүний бат илэрхийлэх; гишүүний татвар; гишүүний үүрэг;2. улсын ба олон нийтийн байгууллагүүдын хурал зөвөлгөөнд сонгогдсон хүн; бүгд хурлын гишүүн; коллегийн гишүүн;3. дэлхий дахины ямар нэгэн байгууллагад багтсан улс гүрэн; манай улс бол Нэгдсэн Үндэсний Байгууллагын гишүүн.</definition>
       <page>145</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гишүүн</cyrillic>
+      <definition>Mitglied n, Angehörige m; Teil n, Element n; ~ орон Mitgliedsland n; ~ өгүүлбэр Gramm Nebensatz m; намын ~ Parteimitglied n</definition>
+      <page>77</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гишүүний</cyrillic>
+      <definition>(Gen von гишүүн) Mitglieds-; ~ батлах Mitgliedsausweis m; ~ татвар Mitgliedsbeitrag m</definition>
+      <page>77</page>
     </entry_item>
   </entries>
 </entry>

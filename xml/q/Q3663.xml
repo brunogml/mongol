@@ -5,7 +5,8 @@
     <transcript>γarčaγ-a</transcript>
     <transcript2>garcaga</transcript2>
     <cyrillic>гарцаа</cyrillic>
-  </head><see_also>
+  </head>
+  <see_also>
     <ref>Q3662</ref>
   </see_also>
   <entries>
@@ -20,7 +21,7 @@
         <example>
           <unicode>ᠭᠠᠷᠴᠠᠭ᠎ᠠ ᠦᠭᠡᠢ</unicode>
           <transcript>-- ygei</transcript>
-          <definition> Incontestable[liy] , indisputable[-bly], unquestionable[-bly].</definition>
+          <definition>Incontestable[liy] , indisputable[-bly], unquestionable[-bly].</definition>
         </example>
       </examples>
     </entry_item>
@@ -35,8 +36,14 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠠᠷᠴᠠᠭ᠎ᠠ</unicode>
       <cyrillic>ГАРЦААГҮЙ</cyrillic>
-      <definition>1. непременно, обязательно; 2. неоспоримый, непременный. </definition>
+      <definition>1. непременно, обязательно; 2. неоспоримый, непременный.</definition>
       <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гарцаагүй</cyrillic>
+      <definition>unbedingt, unvermeidlich, unanfechtbar, sicher; ~ хэрэгтэй unentbehrlich</definition>
+      <page>75</page>
     </entry_item>
   </entries>
 </entry>

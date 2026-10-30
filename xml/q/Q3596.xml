@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q3596">
   <head>
     <unicode>ᠭᠠᠷᠰᠢᠬᠣ</unicode>
@@ -6,13 +6,13 @@
     <transcript2>garsigo</transcript2>
     <cyrillic>гарших</cyrillic>
   </head>
+  <see_also>
+    <ref>Q3595</ref>
+  </see_also>
   <derivatives>
     <ref>Q3598</ref>
     <ref>Q3622</ref>
   </derivatives>
-  <see_also>
-    <ref>Q3595</ref>
-  </see_also>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -34,7 +34,7 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠠᠷᠰᠢᠬᠣ</unicode>
       <cyrillic>ГАРШИХ</cyrillic>
-      <definition>привыкать к услугам кого-л.; приобретать сноровку, навык, опыт (в работе). </definition>
+      <definition>привыкать к услугам кого-л.; приобретать сноровку, навык, опыт (в работе).</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -43,6 +43,12 @@
       <cyrillic>гарших</cyrillic>
       <definition>бусдын үйлчлэлд дадаж идээших, үйл ажилд дадаж эрхших.</definition>
       <page>142</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гаршиx</cyrillic>
+      <definition>sich gewöhnen (an -д); vertraut sein (mit -д); би энэ ажилд гаршаагүй ich habe mich noch nicht an diese Arbeit gewöhnt</definition>
+      <page>75</page>
     </entry_item>
   </entries>
 </entry>

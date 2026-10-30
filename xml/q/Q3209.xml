@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q3209">
   <head>
     <unicode>ᠭᠠᠷᠠᠬᠠᠯᠠᠬᠣ</unicode>
@@ -6,20 +6,20 @@
     <transcript2>garagalago</transcript2>
     <cyrillic>гархилах</cyrillic>
   </head>
-  <derivatives>
-    <ref>Q3212</ref>
-  </derivatives>
   <see_also>
     <ref>Q3715</ref>
     <ref>Q3208</ref>
     <ref>Q3210</ref>
   </see_also>
+  <derivatives>
+    <ref>Q3212</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠭᠠᠷᠠᠬᠠᠯᠠᠬᠣ</unicode>
       <cyrillic>ГАРХИЛАХ</cyrillic>
-      <definition>I гархитах I-ыг үз. </definition>
+      <definition>I гархитах I-ыг үз.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -28,6 +28,12 @@
       <cyrillic>гархилах</cyrillic>
       <definition>гархи мэт болох; нүд гархилах.</definition>
       <page>141</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гархилах, гархитах</cyrillic>
+      <definition>intr einfallen; hohl werden; нүд нь их гархитсан er hat tiefe Augenringe</definition>
+      <page>75</page>
     </entry_item>
   </entries>
 </entry>

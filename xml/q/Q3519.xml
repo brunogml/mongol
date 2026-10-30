@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q3519">
   <head>
     <unicode>ᠭᠠᠷᠭᠠᠬᠳᠠᠬᠣ</unicode>
@@ -41,27 +41,27 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠠᠷᠭᠠᠬᠳᠠᠬᠣ</unicode>
       <cyrillic>ГАРГАГДАХ</cyrillic>
-      <definition>гарах-ын үйлдэгд., 1) выдаваться, выставляться, извлекаться, выводиться; 2) быть удобным в чтении, разборчивым. </definition>
+      <definition>гарах-ын үйлдэгд., 1) выдаваться, выставляться, извлекаться, выводиться; 2) быть удобным в чтении, разборчивым.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠭᠠᠷᠭᠠᠬᠳᠠᠬᠣ</unicode>
       <cyrillic>ГАРГАГДАХААРГҮЙ</cyrillic>
-      <definition>гаргагдахгүй-г үз. </definition>
+      <definition>гаргагдахгүй-г үз.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠭᠠᠷᠭᠠᠬᠳᠠᠬᠣ</unicode>
       <cyrillic>ГАРГАГДАХГҮЙ</cyrillic>
-      <definition>быть неразборчивым (о почерке). </definition>
+      <definition>быть неразборчивым (о почерке).</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>Vietze</dico>
       <cyrillic>гаргагдах</cyrillic>
-      <definition>1. Pass von гаргах
+      <definition>1. Pass von гаргах&#13;
 2. leserlich</definition>
       <page>75</page>
     </entry_item>
@@ -71,6 +71,12 @@
       <cyrillic>гаргагдах</cyrillic>
       <definition>1. гаргахын үйлдэгдэх хэв;2. гаргаж болох; гаргагдах бичиг байна.</definition>
       <page>140</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гаргагдахгүй</cyrillic>
+      <definition>unleserlich</definition>
+      <page>75</page>
     </entry_item>
   </entries>
 </entry>
