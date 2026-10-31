@@ -5,13 +5,14 @@
     <transcript>γoyučilaqu</transcript>
     <transcript2>goyocilago</transcript2>
     <cyrillic>гоёчлох</cyrillic>
-  </head><derivatives>
-    <ref>Q6747</ref>
-  </derivatives><see_also>
+  </head>
+  <see_also>
     <ref>Q6463</ref>
-  
     <ref>Q6746a</ref>
   </see_also>
+  <derivatives>
+    <ref>Q6747</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -33,15 +34,21 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠶᠣᠴᠢᠯᠠᠬᠣ</unicode>
       <cyrillic>ГОЁЧЛОХ</cyrillic>
-      <definition>1. 1) приукрашивать, приукрашать, лакировать; болсон явдлыг гоёчлох приукрашать положение; түүхийг гоёчлох приукрашивать историю; гоёчилж ярих заливаться, разливаться соловьём; для красы; гоёчилдоггүй беспристрастно, без прикрас, лакировки; 2) лицемерить, фарисействовать; действовать пристрастно, лицепрятствовать; льстить, фальшивить; 2. гоёчлохуй-г үз.; 3. неискренно. </definition>
+      <definition>1. 1) приукрашивать, приукрашать, лакировать; болсон явдлыг гоёчлох приукрашать положение; түүхийг гоёчлох приукрашивать историю; гоёчилж ярих заливаться, разливаться соловьём; для красы; гоёчилдоггүй беспристрастно, без прикрас, лакировки; 2) лицемерить, фарисействовать; действовать пристрастно, лицепрятствовать; льстить, фальшивить; 2. гоёчлохуй-г үз.; 3. неискренно.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠶᠣᠴᠢᠯᠠᠬᠣ</unicode>
       <cyrillic>ГОЁЧЛОХУЙ</cyrillic>
-      <definition>1) приукрашивание, лакировка; 2) неискренность, лицемерие. </definition>
+      <definition>1) приукрашивание, лакировка; 2) неискренность, лицемерие.</definition>
       <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гоёчлох</cyrillic>
+      <definition>heucheln; beschönigen, schönfärben</definition>
+      <page>77</page>
     </entry_item>
   </entries>
 </entry>

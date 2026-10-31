@@ -23515,7 +23515,7 @@
 <item><ref>Q4596</ref><unicode>ᠬᠣᠬᠵᠢᠷᠠᠬᠣ</unicode><transcript>qoqǰiraqu</transcript><transcript2>gogcirago</transcript2><cyrillic>хогжрох</cyrillic></item>
 <item><ref>Q4597</ref><unicode>ᠬᠣᠬᠵᠢᠷᠠᠭᠣᠯᠬᠣ</unicode><transcript>qoqǰiraγulqu</transcript><transcript2>gogciragolgo</transcript2><cyrillic></cyrillic></item>
 <item><ref>Q4598</ref><unicode>ᠭᠣᠬᠴᠣ</unicode><transcript>γoγču</transcript><transcript2>gogco</transcript2><cyrillic></cyrillic></item>
-<item><ref>Q4599</ref><unicode>ᠭᠣᠬᠴᠣᠭ᠎ᠠ</unicode><transcript>γoγčuγ-a</transcript><transcript2>gogcoga</transcript2><cyrillic>гогцоо</cyrillic></item>
+<item><ref>Q4599</ref><unicode>ᠭᠣᠬᠴᠣᠭ᠎ᠠ</unicode><transcript>γoγčuγ-a</transcript><transcript2>gogcoga</transcript2><cyrillic>гогцоо</cyrillic><variants><v t="unicode">ᠭᠣᠬᠴᠣᠭᠠ</v><v t="unicode">ᠭᠣᠬᠴᠣᠭᠠᠨ</v><v t="cyrillic">гогцоон</v></variants></item>
 <item><ref>Q4600</ref><unicode>ᠭᠣᠬᠴᠣᠭᠠᠪᠴᠢ</unicode><transcript>γoγčuγabči</transcript><transcript2>gogcogabci</transcript2><cyrillic>гогцоовч</cyrillic></item>
 <item><ref>Q4601</ref><unicode>ᠭᠣᠬᠴᠣᠭᠠᠪᠴᠢᠯᠠᠬᠣ</unicode><transcript>γoγčuγabčilaqu</transcript><transcript2>gogcogabcilago</transcript2><cyrillic>гогцоовчлох</cyrillic></item>
 <item><ref>Q4602</ref><unicode>ᠭᠣᠬᠴᠣᠭᠠᠲᠠᠢ</unicode><transcript>γoγčuγatai</transcript><transcript2>gogcogadai</transcript2><cyrillic>гогцоотой</cyrillic></item>
@@ -25718,7 +25718,7 @@
 <item><ref>Q6648</ref><unicode>ᠬᠣᠶᠢᠮᠠᠬ</unicode><transcript>quyimaγ</transcript><transcript2>goyimag</transcript2><cyrillic>хуймаг</cyrillic></item>
 <item><ref>Q6648a</ref><unicode>ᠬᠣᠶᠢᠮᠠᠬ</unicode><transcript>qoyimaγ</transcript><transcript2>goyimag</transcript2><cyrillic>хоймог</cyrillic></item>
 <item><ref>Q6649</ref><unicode>ᠬᠣᠶᠢᠮᠠᠷ</unicode><transcript>qoyimar</transcript><transcript2>goyimar</transcript2><cyrillic>хоймор</cyrillic></item>
-<item><ref>Q6650</ref><unicode>ᠭᠣᠶᠢᠮᠢᠩ</unicode><transcript>γoyiming</transcript><transcript2>goyiming</transcript2><cyrillic>гоймон</cyrillic></item>
+<item><ref>Q6650</ref><unicode>ᠭᠣᠶᠢᠮᠢᠩ</unicode><transcript>γoyiming</transcript><transcript2>goyiming</transcript2><cyrillic>гоймон</cyrillic><variants><v t="cyrillic">гоймонг</v></variants></item>
 <item><ref>Q6651</ref><unicode>ᠭᠣᠶᠢᠮᠣᠩ</unicode><transcript>γoyimung</transcript><transcript2>goyimong</transcript2><cyrillic>гоймон</cyrillic></item>
 <item><ref>Q6652</ref><unicode>ᠭᠣᠶᠢᠮᠣᠩᠰᠠᠬ</unicode><transcript>γoyimungsaγ</transcript><transcript2>goyimongsag</transcript2><cyrillic>гоймонсог</cyrillic></item>
 <item><ref>Q6653</ref><unicode>ᠭᠣᠶᠢᠮᠣᠩᠰᠠᠬᠣ</unicode><transcript>γoyimungsaqu</transcript><transcript2>goyimongsago</transcript2><cyrillic>гоймонсох</cyrillic></item>
@@ -61426,7 +61426,7 @@
 <item><ref>K1965</ref><unicode>ᠺᠢᠲᠠᠷᠣᠣ</unicode><transcript>kitarou</transcript><transcript2>gidaroo</transcript2><cyrillic>хятруу</cyrillic></item>
 <item><ref>K1966</ref><unicode>ᠺᠢᠲᠠᠷᠣᠳᠬᠣ</unicode><transcript>kitarudqu</transcript><transcript2>gidarodgo</transcript2><cyrillic></cyrillic></item>
 <item><ref>K1967</ref><unicode></unicode><transcript>gitardaqu</transcript><transcript2>gidardago</transcript2><cyrillic>гитардах</cyrillic></item>
-<item><ref>K1968</ref><unicode></unicode><transcript>gitarči</transcript><transcript2>gidarci</transcript2><cyrillic>гитарч</cyrillic></item>
+<item><ref>K1968</ref><unicode></unicode><transcript>gitarči</transcript><transcript2>gidarci</transcript2><cyrillic>гитарч</cyrillic><variants><v t="cyrillic">гитарчин</v></variants></item>
 <item><ref>K1969</ref><unicode></unicode><transcript>gitardaγulqu</transcript><transcript2>gidardagolgo</transcript2><cyrillic>гитардуулах</cyrillic></item>
 <item><ref>K1970</ref><unicode>ᠺᠢᠳᠡᠯ</unicode><transcript>kidel</transcript><transcript2>gidel</transcript2><cyrillic>хийдэл</cyrillic></item>
 <item><ref>K1971</ref><unicode>ᠺᠢᠲᠡᠺ</unicode><transcript>kiteg</transcript><transcript2>gideg</transcript2><cyrillic>хитэг</cyrillic></item>

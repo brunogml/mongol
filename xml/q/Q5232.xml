@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q5232">
   <head>
     <unicode>ᠭᠣᠳᠣᠭᠣᠢ</unicode>
@@ -21,7 +21,7 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠳᠣᠭᠣᠢ</unicode>
       <cyrillic>ГОДГОЙ</cyrillic>
-      <definition>кончик, узкий конец хвоста бараньего курдјка. </definition>
+      <definition>кончик, узкий конец хвоста бараньего курдјка.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -30,6 +30,12 @@
       <cyrillic>годгой</cyrillic>
       <definition>хонины сүүлийн нарийн үзүүр, годон ч гэнэ.</definition>
       <page>147</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>годгой</cyrillic>
+      <definition>~ сүүл[эн] Schaf Schwanzspitze f</definition>
+      <page>77</page>
     </entry_item>
   </entries>
 </entry>

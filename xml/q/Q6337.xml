@@ -5,7 +5,8 @@
     <transcript>γoǰuγur</transcript>
     <transcript2>gocogor</transcript2>
     <cyrillic>гожгор</cyrillic>
-  </head><see_also>
+  </head>
+  <see_also>
     <ref>Q6293</ref>
   </see_also>
   <entries>
@@ -21,7 +22,7 @@
         <example>
           <unicode>ᠭᠣᠵᠣᠭᠣᠷ ᠺᠡᠯᠪᠡᠷᠢ</unicode>
           <transcript>-- kelberi</transcript>
-          <definition> Elongated figure or shape.</definition>
+          <definition>Elongated figure or shape.</definition>
         </example>
       </examples>
     </entry_item>
@@ -66,8 +67,14 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠵᠣᠭᠣᠷ</unicode>
       <cyrillic>ГОЗГОР</cyrillic>
-      <definition>1) высокий и худой; 2) торчащий, заострённый, поднимающийся вверх; † горзгор яс скелет. </definition>
+      <definition>1) высокий и худой; 2) торчащий, заострённый, поднимающийся вверх; † горзгор яс скелет.</definition>
       <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гожгор</cyrillic>
+      <definition>lang und dünn od schmal; ~ шил[эн] Chem, Phys Reagenzglas n</definition>
+      <page>77</page>
     </entry_item>
   </entries>
 </entry>

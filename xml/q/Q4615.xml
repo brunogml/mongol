@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q4615">
   <head>
     <unicode>ᠭᠣᠬᠴᠣᠭᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
@@ -21,7 +21,7 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠬᠴᠣᠭᠠᠷᠠᠭᠣᠯᠬᠣ</unicode>
       <cyrillic>ГОГЦООРУУЛАХ</cyrillic>
-      <definition>гогцоорох-ын үйлдүүл. </definition>
+      <definition>гогцоорох-ын үйлдүүл.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -30,6 +30,12 @@
       <cyrillic>гогцооруулах</cyrillic>
       <definition>гогцоорохын үйлдүүлэх хэв.</definition>
       <page>146</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гогцооруулах</cyrillic>
+      <definition>Kaus von горнцоорох</definition>
+      <page>77</page>
     </entry_item>
   </entries>
 </entry>

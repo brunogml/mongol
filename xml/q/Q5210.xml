@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q5210">
   <head>
     <unicode>ᠭᠣᠳᠣᠩ</unicode>
@@ -10,6 +10,9 @@
     <ref>Q5141</ref>
     <ref>Q5209</ref>
   </see_also>
+  <derivatives>
+    <ref>Q5212</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -23,28 +26,28 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠳᠣᠩ</unicode>
       <cyrillic>ГОДОН</cyrillic>
-      <definition>I 1. голохвостый; короткохвостый; болтающийся; годон сүүл болтающийся хвост; хонины годон сүүл овечий хвостик; годон сүүлний нугалам ложный хвостовой позвонок; годон сүүлт хошуухай шувуу. голохвостый малый броненосец; годон хулгайч цахлай шувуу. короткохвостый полгорник; годон чихт жив амьт. остроухая ночница; 2. болтающийся хвост. </definition>
+      <definition>I 1. голохвостый; короткохвостый; болтающийся; годон сүүл болтающийся хвост; хонины годон сүүл овечий хвостик; годон сүүлний нугалам ложный хвостовой позвонок; годон сүүлт хошуухай шувуу. голохвостый малый броненосец; годон хулгайч цахлай шувуу. короткохвостый полгорник; годон чихт жив амьт. остроухая ночница; 2. болтающийся хвост.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠳᠣᠩ</unicode>
       <cyrillic>ГОДОН</cyrillic>
-      <definition>II: гэдэн годон хорш. туда и сюда, из стороны в сторону (качаться, колеб®ться). </definition>
+      <definition>II: гэдэн годон хорш. туда и сюда, из стороны в сторону (качаться, колеб®ться).</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠳᠣᠩ</unicode>
       <cyrillic>ГОДОН</cyrillic>
-      <definition>III чума коз; годрон-г үз. </definition>
+      <definition>III чума коз; годрон-г үз.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠳᠣᠩ</unicode>
       <cyrillic>ГОДОН</cyrillic>
-      <definition>IV годос I-г үз. </definition>
+      <definition>IV годос I-г үз.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -68,8 +71,11 @@
       <definition>гэдэн годон тогтвор суурь муутай;гэрийн хойно гэдэн годон&lt;оньсго&gt;.</definition>
       <page>147</page>
     </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>год[он]</cyrillic>
+      <definition>Fell Balg m; Schlauch m</definition>
+      <page>77</page>
+    </entry_item>
   </entries>
-  <derivatives>
-    <ref>Q5212</ref>
-  </derivatives>
 </entry>

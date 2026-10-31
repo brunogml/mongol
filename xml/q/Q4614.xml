@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q4614">
   <head>
     <unicode>ᠭᠣᠬᠴᠣᠭᠠᠷᠠᠬᠣ</unicode>
@@ -31,14 +31,14 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠬᠴᠣᠭᠠᠷᠠᠬᠣ</unicode>
       <cyrillic>ГОГЦООРОХ</cyrillic>
-      <definition>1. 1) образовываться (о петле); 2) мотаться, наматываться (о нитках на шпульке); 2. гогцоорохуй-г үз.; 3. петлевой; гогцоорсон зам а) петлеобразный путь; б) уул. петлевой съезд. </definition>
+      <definition>1. 1) образовываться (о петле); 2) мотаться, наматываться (о нитках на шпульке); 2. гогцоорохуй-г үз.; 3. петлевой; гогцоорсон зам а) петлеобразный путь; б) уул. петлевой съезд.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠬᠴᠣᠭᠠᠷᠠᠬᠣ</unicode>
       <cyrillic>ГОГЦООРОХУЙ</cyrillic>
-      <definition>1) образование петли; 2) поднырки. </definition>
+      <definition>1) образование петли; 2) поднырки.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -47,6 +47,12 @@
       <cyrillic>гогцоорох</cyrillic>
       <definition>юм ээдэрч гогцоо гарч сэнжтэх; утас гогцоорох; дээс гогцоорох.</definition>
       <page>146</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гогцоорох</cyrillic>
+      <definition>sich verschlingen od winden; Schleifen bilden</definition>
+      <page>77</page>
     </entry_item>
   </entries>
 </entry>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q4622">
   <head>
     <unicode>ᠭᠣᠬᠴᠣᠪᠴᠢ</unicode>
@@ -32,14 +32,14 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠬᠴᠣᠪᠴᠢ</unicode>
       <cyrillic>ГОГЦОВЧ</cyrillic>
-      <definition>гогцоовч-ийг үз. </definition>
+      <definition>гогцоовч-ийг үз.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠬᠴᠣᠪᠴᠢ</unicode>
       <cyrillic>ГОГЦОВЧИЙН</cyrillic>
-      <definition>гогцовч-ийн харьяал. </definition>
+      <definition>гогцовч-ийн харьяал.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -48,6 +48,12 @@
       <cyrillic>гогцовч</cyrillic>
       <definition>утас хэрээсдэслэх хэрэгсэл.</definition>
       <page>146</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гогцовч</cyrillic>
+      <definition>Haspel f, Garnwinde f, Spule f</definition>
+      <page>77</page>
     </entry_item>
   </entries>
 </entry>

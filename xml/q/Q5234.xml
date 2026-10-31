@@ -5,13 +5,14 @@
     <transcript>γoduγunaqu</transcript>
     <transcript2>godogonago</transcript2>
     <cyrillic>годгонох</cyrillic>
-  </head><derivatives>
-    <ref>Q5236</ref>
-  </derivatives><see_also>
+  </head>
+  <see_also>
     <ref>Q5144</ref>
-  
     <ref>Q5233</ref>
   </see_also>
+  <derivatives>
+    <ref>Q5236</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Chinese</dico>
@@ -24,22 +25,28 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠳᠣᠭᠣᠨᠠᠬᠣ</unicode>
       <cyrillic>ГОДГОНОХ</cyrillic>
-      <definition>1. 1) поступать нерешительно, колебаться; 2) двигаться, вертеться (напр. о коротком хвосте); не стоять на одном месте, двигаться из стороны в сторону, “танцевать” (о лошади); сүүл нь годгонох вертеть коротким хвостом; 3) торчать, принимать вертикальное положение, подниматься; часто подниматься (о коротком хвосте); 4) шилж. егозить, быть вертлявым, непоседливым; 5) юлить; кокетничать, заигрывать; аальгүйтэн годгонох хорш. кокетничать, заигрывать; 2. годгонохуй-г үз. </definition>
+      <definition>1. 1) поступать нерешительно, колебаться; 2) двигаться, вертеться (напр. о коротком хвосте); не стоять на одном месте, двигаться из стороны в сторону, “танцевать” (о лошади); сүүл нь годгонох вертеть коротким хвостом; 3) торчать, принимать вертикальное положение, подниматься; часто подниматься (о коротком хвосте); 4) шилж. егозить, быть вертлявым, непоседливым; 5) юлить; кокетничать, заигрывать; аальгүйтэн годгонох хорш. кокетничать, заигрывать; 2. годгонохуй-г үз.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠳᠣᠭᠣᠨᠠᠬᠣ</unicode>
       <cyrillic>ГОДГОНОСОН</cyrillic>
-      <definition>кокетливый; годгоносон аальгүй хүүхэн а) кокетка; б) юла. </definition>
+      <definition>кокетливый; годгоносон аальгүй хүүхэн а) кокетка; б) юла.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠳᠣᠭᠣᠨᠠᠬᠣ</unicode>
       <cyrillic>ГОДГОНОХУЙ</cyrillic>
-      <definition>1) кокетство, кокетливость, игривость; 2) кривлянье, ломанье, выверты. </definition>
+      <definition>1) кокетство, кокетливость, игривость; 2) кривлянье, ломанье, выверты.</definition>
       <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>годгонох</cyrillic>
+      <definition>etw. Kurzes intr wackeln, zappeln, hüpfen, wedeln; übertr unruhig od lebhaft sein</definition>
+      <page>77</page>
     </entry_item>
   </entries>
 </entry>

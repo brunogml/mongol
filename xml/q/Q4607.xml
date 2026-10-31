@@ -5,9 +5,9 @@
     <transcript>γoγčuγalaqu</transcript>
     <transcript2>gogcogalago</transcript2>
     <cyrillic>гогцоолох</cyrillic>
-  </head><derivatives>
+  </head>
+  <derivatives>
     <ref>Q4608</ref>
-  
     <ref>Q4609</ref>
   </derivatives>
   <entries>
@@ -22,8 +22,14 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠬᠴᠣᠭᠠᠯᠠᠬᠣ</unicode>
       <cyrillic>ГОГЦООЛОХ</cyrillic>
-      <definition>1. 1) делать, вязать петли; 2) мотать, наматывать, делать мотки; 2. петлевой; гогцоолсон замаар нээх уул. вскрытие петлевыми съездами. </definition>
+      <definition>1. 1) делать, вязать петли; 2) мотать, наматывать, делать мотки; 2. петлевой; гогцоолсон замаар нээх уул. вскрытие петлевыми съездами.</definition>
       <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гогцоол[д]ох</cyrillic>
+      <definition>spulen, wickeln, winden; eine Schleife binden</definition>
+      <page>77</page>
     </entry_item>
   </entries>
 </entry>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K1899">
   <head>
     <unicode>ᠺᠢᠰᠢ</unicode>
@@ -18,14 +18,14 @@
       <dico>lamrd</dico>
       <unicode>ᠺᠢᠰᠢ</unicode>
       <cyrillic>ГИШ</cyrillic>
-      <definition>: гиш өвс ург. 1. вика; 2. виковый; гишэн хүцэнгэ ург. экспарцет виколистный. </definition>
+      <definition>: гиш өвс ург. 1. вика; 2. виковый; гишэн хүцэнгэ ург. экспарцет виколистный.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠺᠢᠰᠢ</unicode>
       <cyrillic>ГИШИЙН</cyrillic>
-      <definition>гиш-ийн харьяал., виковый. </definition>
+      <definition>гиш-ийн харьяал., виковый.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -34,6 +34,12 @@
       <cyrillic>гиш</cyrillic>
       <definition>&lt;ургамал&gt;буурцагт ургамлын нам, малын тэжээлд хэрэглэдэг нэг зүйл өвс.</definition>
       <page>145</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гиш</cyrillic>
+      <definition>~ өвс[өн] Bot Wicke f</definition>
+      <page>77</page>
     </entry_item>
   </entries>
 </entry>
