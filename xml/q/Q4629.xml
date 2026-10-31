@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q4629">
   <head>
     <unicode>ᠭᠣᠪᠠᠢ</unicode>
@@ -23,7 +23,7 @@
         <example>
           <unicode>ᠭᠣᠪᠠᠢ ᠬᠠᠲᠤᠨ</unicode>
           <transcript>-- xatun</transcript>
-          <definition> Belladonna (plant).</definition>
+          <definition>Belladonna (plant).</definition>
         </example>
       </examples>
     </entry_item>
@@ -59,6 +59,21 @@
       <cyrillic>гувай</cyrillic>
       <definition>эмэгтэй хүний зүс байдал үзэсгэлэнтэй сайхан; гувай хүүхэн; гувай дагина.</definition>
       <page>155</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠭᠤᠪᠠᠢ</unicode>
+      <cyrillic>гувай</cyrillic>
+      <definition>〔形〕俏的，俏丽的，漂亮的，娇美的，美丽的（指妇女）：◊ ~ хатан 〈植〉颠茄，洋茛菪（茄科有毒的草本系植物，可做止痛及放大瞳孔之药）.</definition>
+      <page>318</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гувай</cyrillic>
+      <definition>1. Schönheit f &#13;
+2. hübsch; ~ хүүхэн ein hübsches Mädchen &#13;
+3.: ~ хатан[г] Bot Tollkirsche f</definition>
+      <page>80</page>
     </entry_item>
   </entries>
 </entry>

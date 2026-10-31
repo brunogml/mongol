@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q4525">
   <head>
     <unicode>ᠭᠣᠭᠣᠵᠢᠩᠬᠠᠢ</unicode>
@@ -18,7 +18,7 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠭᠣᠵᠢᠩᠬᠠᠢ</unicode>
       <cyrillic>ГООЖИНХОЙ</cyrillic>
-      <definition>1. 1) дырявый, худой, имеющий течь, текущий (о посуде); протекающий; гоожинхой угаагуур дырявый умывальник; 2) шилж. очень тонкий, тоненький; гоожинхой утас очень тонкая нитка; 2. течь в чём-л., дыра; отверстие, пробоина. </definition>
+      <definition>1. 1) дырявый, худой, имеющий течь, текущий (о посуде); протекающий; гоожинхой угаагуур дырявый умывальник; 2) шилж. очень тонкий, тоненький; гоожинхой утас очень тонкая нитка; 2. течь в чём-л., дыра; отверстие, пробоина.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -27,6 +27,12 @@
       <cyrillic>гоожинхой</cyrillic>
       <definition>сав суулга зэргийн юмны цоорхой; гоожинхой хувин.</definition>
       <page>151</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гоожинхой</cyrillic>
+      <definition>löchrig, abgenutzt; ~ сав[ан] undichtes Gefäß</definition>
+      <page>78</page>
     </entry_item>
   </entries>
 </entry>

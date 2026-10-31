@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q3871">
   <head>
     <unicode>ᠭᠣᠣᠵᠢᠩ</unicode>
@@ -11,14 +11,14 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠣᠵᠢᠩ</unicode>
       <cyrillic>ГООЖИН</cyrillic>
-      <definition>орос. 1) разрешение на рубку леса; 2) плата, налог на рубку леса. </definition>
+      <definition>орос. 1) разрешение на рубку леса; 2) плата, налог на рубку леса.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠣᠵᠢᠩ</unicode>
       <cyrillic>ГООЖИНГИЙН</cyrillic>
-      <definition>гоожин(г)-ийн харьяал., гоожингийн татвар налог на рубку леса. </definition>
+      <definition>гоожин(г)-ийн харьяал., гоожингийн татвар налог на рубку леса.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -27,6 +27,12 @@
       <cyrillic>гоожин</cyrillic>
       <definition>ойгоос мод огтлох тухай зохих газраас олгосон зөвшөөрийн бичиг; модны гоожин авах; гоожингийн татвар.</definition>
       <page>151</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гоожин[г]</cyrillic>
+      <definition>Brennholzgebühr f</definition>
+      <page>78</page>
     </entry_item>
   </entries>
 </entry>

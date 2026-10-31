@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K5156">
   <head>
     <unicode>ᠺᠥᠷᠳᠡᠺᠥᠯᠺᠥ</unicode>
@@ -6,12 +6,12 @@
     <transcript2>gördegölgö</transcript2>
     <cyrillic>гөрдүүлэх</cyrillic>
   </head>
-  <related_to>
-    <ref>K5154</ref>
-  </related_to>
   <see_also>
     <ref>K5157</ref>
   </see_also>
+  <related_to>
+    <ref>K5154</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Chinese</dico>
@@ -24,7 +24,7 @@
       <dico>lamrd</dico>
       <unicode>ᠺᠥᠷᠳᠡᠺᠥᠯᠺᠥ</unicode>
       <cyrillic>ГӨРДҮҮЛЭХ</cyrillic>
-      <definition>1) гөрдөх-ийн үйлдүүл.; 2) быть оклеветанным. </definition>
+      <definition>1) гөрдөх-ийн үйлдүүл.; 2) быть оклеветанным.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -33,6 +33,12 @@
       <cyrillic>гөрдүүлэх</cyrillic>
       <definition>1. гөрдөхийн үйлдүүлэх хэв;2. гөрдөгдөх.</definition>
       <page>154</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гөрдүүлэх</cyrillic>
+      <definition>Kaus von гөрдөх 2. verleumdet werden (von -д)</definition>
+      <page>79</page>
     </entry_item>
   </entries>
 </entry>

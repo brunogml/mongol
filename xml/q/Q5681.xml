@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q5681">
   <head>
     <unicode>ᠭᠣᠯᠭᠣᠬᠣ</unicode>
@@ -24,21 +24,21 @@
         <example>
           <unicode>ᠭᠣᠯᠭᠣᠵᠤ ᠶᠠᠪᠤᠬᠤ</unicode>
           <transcript>--zu jabuxu</transcript>
-          <definition> To crawl, slither (of reptiles).</definition>
+          <definition>To crawl, slither (of reptiles).</definition>
         </example>
         <example>
           <unicode>ᠭᠠᠷ ᠡᠴᠡ ᠭᠣᠯᠭᠣᠬᠤ</unicode>
-          <transcript>γar ece --me </transcript>
+          <transcript>γar ece --me</transcript>
           <definition>To slide from the hand</definition>
         </example>
         <example>
           <unicode>ᠮᠥᠰᠦᠨ ᠳᠡᠭᠡᠷ᠎ᠡ ᠭᠣᠯᠭᠣᠬᠤ</unicode>
-          <transcript>møsyn deger-e --me </transcript>
+          <transcript>møsyn deger-e --me</transcript>
           <definition>To slide or skid on ice.</definition>
         </example>
         <example>
           <unicode>ᠲᠡᠰᠢᠭᠦᠷ ᠢᠶᠡᠷ ᠭᠣᠯᠭᠣᠬᠤ</unicode>
-          <transcript>tesigyr ijer --xu </transcript>
+          <transcript>tesigyr ijer --xu</transcript>
           <definition>To skate</definition>
         </example>
       </examples>
@@ -84,14 +84,14 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠯᠭᠣᠬᠣ</unicode>
       <cyrillic>ГУЛГАХ</cyrillic>
-      <definition>1. 1) скользить, кататься (на коньках, лыжах, санках); мөсөн дээгүүр гулгах скользить по льду; тэшүүрээр гулгах кататься на коньках; чаргаар гулгах кататься на санках; 2) соскальзывать, выскальзывать, скатываться (вниз по скользкому); ехать; гараас гулгах выскальзывать из рук; гулгаж алдагдах ускользать, выскальзывать; скользнуть; гулгаж унах / халтирч унах поскользнуться; 3) вползать; гулгаж явах а) ползать, пресмыкаться; б) пресмыкательство; 4) сползать, спускаться; съезжать; гулгаж буух соскальзывать; сползать, скользя спускаться вниз, сползать; 5) шилж. передаваться; ахын нь хувцас дүүдээ гулгах передать вещи старшего брата младшему; 2. гулгахуй-г үз., 3. 1) оплывной; 2) скользящий; гулгадаг эргэвч тех. скользящий подшипник; гулгах боолт ползучая повязка; гулгах үрэлт тех. трение скольжения; † гулгаж тэшсэн яриа хэлц. а) гибкий язык; б) мерная речь. </definition>
+      <definition>1. 1) скользить, кататься (на коньках, лыжах, санках); мөсөн дээгүүр гулгах скользить по льду; тэшүүрээр гулгах кататься на коньках; чаргаар гулгах кататься на санках; 2) соскальзывать, выскальзывать, скатываться (вниз по скользкому); ехать; гараас гулгах выскальзывать из рук; гулгаж алдагдах ускользать, выскальзывать; скользнуть; гулгаж унах / халтирч унах поскользнуться; 3) вползать; гулгаж явах а) ползать, пресмыкаться; б) пресмыкательство; 4) сползать, спускаться; съезжать; гулгаж буух соскальзывать; сползать, скользя спускаться вниз, сползать; 5) шилж. передаваться; ахын нь хувцас дүүдээ гулгах передать вещи старшего брата младшему; 2. гулгахуй-г үз., 3. 1) оплывной; 2) скользящий; гулгадаг эргэвч тех. скользящий подшипник; гулгах боолт ползучая повязка; гулгах үрэлт тех. трение скольжения; † гулгаж тэшсэн яриа хэлц. а) гибкий язык; б) мерная речь.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠯᠭᠣᠬᠣ</unicode>
       <cyrillic>ГУЛГАХУЙ</cyrillic>
-      <definition>1) катанье, катание, скольжение, соскальзывание; ползком; 2) оползень. </definition>
+      <definition>1) катанье, катание, скольжение, соскальзывание; ползком; 2) оползень.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -100,6 +100,13 @@
       <cyrillic>гулгах</cyrillic>
       <definition>1. гилгэр өө сэвгүй юманд буюу хажуу гултгал газар зэрэгт халтирах гулсах; тэшүүрээр гулгах;2. нэгээс нөгөөд шилжих; ахын хувцас дүүдээ гулгах.</definition>
       <page>157</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гулгах</cyrillic>
+      <definition>1. rutschen, gleiten, rollen, schlittern (auf дэзр, über дзэгүүр, mit -аар); мeсeн дзэгүүр ~ über das Eis schlittern; тэшүүрзэр ~ Schlittschuh laufen &#13;
+2. entgleiten (jmdm. -ын, aus -ааc)</definition>
+      <page>80</page>
     </entry_item>
   </entries>
 </entry>

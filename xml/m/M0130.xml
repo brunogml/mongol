@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="M0130">
   <head>
-    <unicode>ᠮᠠᠨᠵᠣᠰᠢᠷᠢ</unicode>
+    <unicode>ᠮᠠᡛᢋᠤᠱᠢᠷᠢ</unicode>
     <transcript>manǰusiri</transcript>
     <transcript2>mancosiri</transcript2>
     <cyrillic>манзшир</cyrillic>
-  </head><see_also>
+  </head>
+  <see_also>
     <ref>M0131</ref>
   </see_also>
   <entries>
@@ -20,7 +21,7 @@
     <entry_item>
       <dico>Lessing</dico>
       <unicode>ᠮᠠᠨᠵᠣᠰᠢᠷᠢ</unicode>
-      <transcript>MANZUSIRI </transcript>
+      <transcript>MANZUSIRI</transcript>
       <definition>T. Hjam dpal; S. Manjupri. One of the eight Great Bodhisattvas, hypostasis for the belge bilig,one of the three Jeke tørylkiten; his name is translated as Zøgelen coγtu.</definition>
       <page>1175</page>
     </entry_item>
@@ -28,14 +29,14 @@
       <dico>lamrd</dico>
       <unicode>ᠮᠠᠨᠵᠣᠰᠢᠷᠢ</unicode>
       <cyrillic>МАНЗШИР</cyrillic>
-      <definition>I са. благозвучный. </definition>
+      <definition>I са. благозвучный.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠮᠠᠨᠵᠣᠰᠢᠷᠢ</unicode>
       <cyrillic>МАНЗШИР</cyrillic>
-      <definition>II шашин. Манджушир (бодисатва). </definition>
+      <definition>II шашин. Манджушир (бодисатва).</definition>
       <page>0</page>
     </entry_item>
   </entries>

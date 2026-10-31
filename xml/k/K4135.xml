@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K4135">
   <head>
     <unicode>ᠺᠥᠯᠲᠥᠺᠡᠨᠡ</unicode>
@@ -18,14 +18,14 @@
       <dico>lamrd</dico>
       <unicode>ᠺᠥᠯᠲᠥᠺᠡᠨᠡ</unicode>
       <cyrillic>ГӨЛТГӨНӨ</cyrillic>
-      <definition>1. эрдэс алебастр, гипс, жжённый сульфат кальция; барилгын гөлтгөнө строительный гипс; гөлтгөнө аргай гипсобетон; 2. гипсовый; нунтаг гөлтгөнө гипсовая мука, землистый гипс; гөлтгөнө чулуулаг гипсовая порода. </definition>
+      <definition>1. эрдэс алебастр, гипс, жжённый сульфат кальция; барилгын гөлтгөнө строительный гипс; гөлтгөнө аргай гипсобетон; 2. гипсовый; нунтаг гөлтгөнө гипсовая мука, землистый гипс; гөлтгөнө чулуулаг гипсовая порода.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠺᠥᠯᠲᠥᠺᠡᠨᠡ</unicode>
       <cyrillic>ГӨЛТГӨНИЙ</cyrillic>
-      <definition>гөлтгөнө — ий харьяал., гипсовый; гипсовочный; гөлтгөний зуурмаг гипсовое тесто; гөлтгөний өрөө гипсовочная комната; † гөлтгөний сарнай эрдэс. гипсовая роза. </definition>
+      <definition>гөлтгөнө — ий харьяал., гипсовый; гипсовочный; гөлтгөний зуурмаг гипсовое тесто; гөлтгөний өрөө гипсовочная комната; † гөлтгөний сарнай эрдэс. гипсовая роза.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -34,6 +34,12 @@
       <cyrillic>гөлтгөнө</cyrillic>
       <definition>өнгө цагаан, зөөлөн чанарын чулуулаг; шатааж барилга, баримал, эмнэлэг зэрэг зүйлд хэрэглэнэ.</definition>
       <page>153</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гөлтгөнө</cyrillic>
+      <definition>Gips m; Alabaster m; ~н боолт Med Gipsverband m</definition>
+      <page>79</page>
     </entry_item>
   </entries>
 </entry>

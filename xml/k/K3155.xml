@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K3155">
   <head>
     <unicode>ᠺᠥᠨᠵᠢᠺᠥᠯᠺᠥ</unicode>
@@ -21,7 +21,7 @@
       <dico>lamrd</dico>
       <unicode>ᠺᠥᠨᠵᠢᠺᠥᠯᠺᠥ</unicode>
       <cyrillic>ГӨНЖҮҮЛЭХ</cyrillic>
-      <definition>гөнжих-ийн үйлдүүл. </definition>
+      <definition>гөнжих-ийн үйлдүүл.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -30,6 +30,12 @@
       <cyrillic>гөнжүүлэх</cyrillic>
       <definition>1. гөнжихийн үйлдүүлэх хэв;2. гөнжигдөх.</definition>
       <page>154</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гөнжүүлэх</cyrillic>
+      <definition>Kaus von гөнжих</definition>
+      <page>79</page>
     </entry_item>
   </entries>
 </entry>

@@ -5,7 +5,8 @@
     <transcript>γuvaγalaqu</transcript>
     <transcript2>govagalago</transcript2>
     <cyrillic>гуагалах</cyrillic>
-  </head><derivatives>
+  </head>
+  <derivatives>
     <ref>Q7383</ref>
   </derivatives>
   <entries>
@@ -13,22 +14,28 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠸᠠᠭᠠᠯᠠᠬᠣ</unicode>
       <cyrillic>ГУАГАЛАХ</cyrillic>
-      <definition>1. 1) шууд ба шилж. каркать (о воронах); 2) квакать (о лягушке); 2. гуагалахуй-г үз. </definition>
+      <definition>1. 1) шууд ба шилж. каркать (о воронах); 2) квакать (о лягушке); 2. гуагалахуй-г үз.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠸᠠᠭᠠᠯᠠᠬᠣ</unicode>
       <cyrillic>ГУАГАЛАХУЙ</cyrillic>
-      <definition>карканье; кваканье. </definition>
+      <definition>карканье; кваканье.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠸᠠᠭᠠᠯᠠᠬᠣ</unicode>
       <cyrillic>ГУАГЛАХ</cyrillic>
-      <definition>гуагалах-ыг үз. </definition>
+      <definition>гуагалах-ыг үз.</definition>
       <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гуаг[а]лах</cyrillic>
+      <definition>Krähe krächzen; Frosch quaken</definition>
+      <page>80</page>
     </entry_item>
   </entries>
 </entry>

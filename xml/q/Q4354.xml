@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q4354">
   <head>
     <unicode>ᠭᠣᠩᠺᠢᠨᠠᠬᠣ</unicode>
@@ -6,14 +6,14 @@
     <transcript2>gongginago</transcript2>
     <cyrillic>гонгинох</cyrillic>
   </head>
-  <derivatives>
-    <ref>Q4356</ref>
-    <ref>Q4366</ref>
-  </derivatives>
   <see_also>
     <ref>Q4203</ref>
     <ref>Q4353</ref>
   </see_also>
+  <derivatives>
+    <ref>Q4356</ref>
+    <ref>Q4366</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Chinese</dico>
@@ -26,21 +26,21 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠩᠺᠢᠨᠠᠬᠣ</unicode>
       <cyrillic>ГОНГИНОХ</cyrillic>
-      <definition>1. 1) хныкать, плакать, рыдать, реветь, голосить, всхлипывать; хлјпать, нјнить, кричать; гоншигонон гонгинох говорить, произносить в нос; уйлагнан гонгинох говорить сквозь слёзы; битгий гонгино! / бүү гонгино! не хнычь!; 2) жаловаться, скулить, ныть; гонгинон гиншигнэх хорш. ныть; 3) пищать; 4) визжать; верещать; взвизгивать; издавать жалобные однообразные звуки; 2. гонгинохуй-г үз., гонгинох дуу хныканье; улиглан гонгинох надоедливое нытьё; 3. плачущий, слезливый, слёзный; гонгиносон хоолой плачущий голос. </definition>
+      <definition>1. 1) хныкать, плакать, рыдать, реветь, голосить, всхлипывать; хлјпать, нјнить, кричать; гоншигонон гонгинох говорить, произносить в нос; уйлагнан гонгинох говорить сквозь слёзы; битгий гонгино! / бүү гонгино! не хнычь!; 2) жаловаться, скулить, ныть; гонгинон гиншигнэх хорш. ныть; 3) пищать; 4) визжать; верещать; взвизгивать; издавать жалобные однообразные звуки; 2. гонгинохуй-г үз., гонгинох дуу хныканье; улиглан гонгинох надоедливое нытьё; 3. плачущий, слезливый, слёзный; гонгиносон хоолой плачущий голос.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠩᠺᠢᠨᠠᠬᠣ</unicode>
       <cyrillic>ГОНГИНОХУЙ</cyrillic>
-      <definition>1) хныканье, рыдания, рев, вой, стенания; 2) нытьё; сетование, жалоба, стон; скулёж; воздыхание; 3) визжание, визготня, визг, верещание. </definition>
+      <definition>1) хныканье, рыдания, рев, вой, стенания; 2) нытьё; сетование, жалоба, стон; скулёж; воздыхание; 3) визжание, визготня, визг, верещание.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠩᠺᠢᠨᠠᠬᠣ</unicode>
       <cyrillic>ГОНГОНОХ</cyrillic>
-      <definition>гонгинох-г үз . </definition>
+      <definition>гонгинох-г үз .</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -56,6 +56,12 @@
       <cyrillic>гонгинох /2</cyrillic>
       <definition>гонгонох, гон гон хийх, үглэн яншиж гонгинох.</definition>
       <page>150</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гонгинох, гонгонох</cyrillic>
+      <definition>wimmern, winseln, greinen</definition>
+      <page>78</page>
     </entry_item>
   </entries>
 </entry>
