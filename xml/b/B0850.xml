@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="B0850">
   <head>
     <unicode>ᠪᠠᠯᠭᠠᠰᠣ</unicode>
@@ -6,9 +6,6 @@
     <transcript2>balgaso</transcript2>
     <cyrillic>балгас</cyrillic>
   </head>
-  <variants>
-    <variant type="unicode">ᠪᠠᠯᠭᠠᠰᠤᠨ</variant>
-  </variants>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -22,22 +19,22 @@
         <example>
           <unicode>ᠪᠠᠯᠭᠠᠰᠣᠨ ᠤ ᠡᠭᠦᠳᠡ</unicode>
           <transcript>--n u egyde</transcript>
-          <definition> City gate.</definition>
+          <definition>City gate.</definition>
         </example>
         <example>
           <unicode>ᠪᠠᠯᠭᠠᠰᠣᠨ ᠤ ᠨᠣᠶᠠᠨ</unicode>
           <transcript>--n u nojan</transcript>
-          <definition> Head or mayor of a city or town.</definition>
+          <definition>Head or mayor of a city or town.</definition>
         </example>
         <example>
           <unicode>ᠡᠪᠳᠡᠷᠺᠡᠢ ᠪᠠᠯᠭᠠᠰᠣ</unicode>
           <transcript>ebderkei --</transcript>
-          <definition> Ruins of a city or town.</definition>
+          <definition>Ruins of a city or town.</definition>
         </example>
         <example>
           <unicode>ᠬᠠᠭᠠᠨ ᠪᠠᠯᠭᠠᠰᠣ</unicode>
           <transcript>xaγan --</transcript>
-          <definition> Imperial city (hist., formerly the Mongolian name of Peking).</definition>
+          <definition>Imperial city (hist., formerly the Mongolian name of Peking).</definition>
         </example>
       </examples>
     </entry_item>

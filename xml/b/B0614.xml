@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="B0614">
   <head>
-    <unicode>ᠪᠠᠲᠠᠺᠢ</unicode>
-    <transcript>batagi</transcript>
+    <unicode>ᠪᠠᠳᠠᢉᠢ</unicode>
+    <transcript>badagi</transcript>
     <transcript2>badagi</transcript2>
     <cyrillic>бадга</cyrillic>
   </head>
+  <see_also>
+    <ref>B0613</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>Kowalewski</dico>
-      <unicode>ᠪᠠᠳᠠᠺᠢ ᠡᠪᠡᠳᠴᠢᠨ</unicode>
+      <unicode>ᠪᠠᠳᠠᢉᠢ ᠡᠪᠡᠳᠴᠢᠨ</unicode>
       <definition>stagnation du sang, des humeurs; furoncle; phthisie</definition>
       <page>1068</page>
     </entry_item>

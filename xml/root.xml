@@ -3731,7 +3731,7 @@
 <item><ref>A3486</ref><unicode>ᠠᠶᠠᠨᠴᠢ</unicode><transcript>ayanči</transcript><transcript2>ayanci</transcript2><cyrillic>аянч</cyrillic><variants><v t="unicode">ᠠᠶᠠᠨᠴᠢᠨ</v><v t="cyrillic">аянчин</v></variants></item>
 <item><ref>A3486a</ref><unicode>ᠠᠶᠠᠨᠴᠢᠯᠠᠬᠣ</unicode><transcript>ayančilaqu</transcript><transcript2>ayancilago</transcript2><cyrillic>аянчлах</cyrillic></item>
 <item><ref>A3487</ref><unicode>ᠠᠶᠠᠬ</unicode><transcript>ayaγ</transcript><transcript2>ayag</transcript2><cyrillic>аяг</cyrillic></item>
-<item><ref>A3488</ref><unicode>ᠠᠶᠠᠭ᠎ᠠ</unicode><transcript>ayaγ-a</transcript><transcript2>ayaga</transcript2><cyrillic>аяга(н)</cyrillic><variants><v t="unicode">ᠠᠶᠠᠭᠠ</v><v t="unicode">ᠠᠶᠠᠭᠠᠨ</v><v t="cyrillic">аяган</v></variants></item>
+<item><ref>A3488</ref><unicode>ᠠᠶᠠᠭ᠎ᠠ</unicode><transcript>ayaγ-a</transcript><transcript2>ayaga</transcript2><cyrillic>аяга</cyrillic><variants><v t="unicode">ᠠᠶᠠᠭᠠ</v><v t="unicode">ᠠᠶᠠᠭᠠᠨ</v><v t="cyrillic">аяган</v></variants></item>
 <item><ref>A3489</ref><unicode>ᠠᠶᠠᠭᠠᠨᠴᠢᠷ</unicode><transcript>ayaγančir</transcript><transcript2>ayagancir</transcript2><cyrillic>аяганцар</cyrillic></item>
 <item><ref>A3490</ref><unicode>ᠠᠶᠠᠭᠠᠪᠴᠢ</unicode><transcript>ayaγabči</transcript><transcript2>ayagabci</transcript2><cyrillic>аягавч</cyrillic></item>
 <item><ref>A3491</ref><unicode>ᠠᠶᠠᠭᠠᠲᠠᠢ</unicode><transcript>ayaγatai</transcript><transcript2>ayagadai</transcript2><cyrillic>аягатай</cyrillic></item>
@@ -3745,7 +3745,7 @@
 <item><ref>A3499</ref><unicode>ᠠᠶᠠᠭᠠᠴᠢ</unicode><transcript>ayaγači</transcript><transcript2>ayagaci</transcript2><cyrillic>аягач</cyrillic></item>
 <item><ref>A3500</ref><unicode>ᠠᠶᠠᠭᠣᠳ</unicode><transcript>ayaγud</transcript><transcript2>ayagod</transcript2><cyrillic>аягууд</cyrillic></item>
 <item><ref>A3501</ref><unicode>ᠠᠶᠠᠭᠣᠮᠰᠢᠬ</unicode><transcript>ayaγumsiγ</transcript><transcript2>ayagomsig</transcript2><cyrillic></cyrillic></item>
-<item><ref>A3502</ref><unicode>ᠠᠶᠠᠭ ᠭ᠎ᠠ</unicode><transcript>ayaq-q-a</transcript><transcript2>ayag-g-a</transcript2><cyrillic></cyrillic></item>
+<item><ref>A3502</ref><unicode>ᠠᠶᠠᠭ ᠎ᠬ ᠠ</unicode><transcript>ayaγ-q-a</transcript><transcript2>ayag-g-a</transcript2><cyrillic></cyrillic></item>
 <item><ref>A3503</ref><unicode>ᠠᠶᠠᠬᠯᠠᠬᠣ</unicode><transcript>ayaγlaqu</transcript><transcript2>ayaglago</transcript2><cyrillic>аяглах</cyrillic></item>
 <item><ref>A3504</ref><unicode>ᠠᠶᠠᠬᠯᠠᠭᠣᠯᠬᠣ</unicode><transcript>ayaγlaγulqu</transcript><transcript2>ayaglagolgo</transcript2><cyrillic>аяглуулах</cyrillic></item>
 <item><ref>A3505</ref><unicode>ᠠᠶᠠᠬᠯᠠᠬᠳᠠᠬᠣ</unicode><transcript>ayaγlaγdaqu</transcript><transcript2>ayaglagdago</transcript2><cyrillic>аяглагдах</cyrillic></item>
@@ -22284,7 +22284,7 @@
 <item><ref>Q3479</ref><unicode>ᠭᠠᠷᠣᠰᠢ</unicode><transcript>γarusi</transcript><transcript2>garosi</transcript2><cyrillic>гараш</cyrillic></item>
 <item><ref>Q3480</ref><unicode>ᠭᠠᠷᠣᠰᠢᠲᠣ</unicode><transcript>γarusitu</transcript><transcript2>garosido</transcript2><cyrillic></cyrillic></item>
 <item><ref>Q3481</ref><unicode>ᠭᠠᠷᠣᠳᠢ</unicode><transcript>γarudi</transcript><transcript2>garodi</transcript2><cyrillic>гарди</cyrillic></item>
-<item><ref>Q3482</ref><unicode>ᠺᠠᠷᠥᠳᠢ</unicode><transcript>garudi</transcript><transcript2>garodi</transcript2><cyrillic>гарди</cyrillic></item>
+<item><ref>Q3482</ref><unicode>ᢉᠠᠷᠤᠳᠢ</unicode><transcript>garudi</transcript><transcript2>garodi</transcript2><cyrillic>гарди</cyrillic></item>
 <item><ref>Q3483</ref><unicode>ᠭᠠᠷᠣᠯ</unicode><transcript>γarul</transcript><transcript2>garol</transcript2><cyrillic>гарал</cyrillic></item>
 <item><ref>Q3484</ref><unicode>ᠭᠠᠷᠤᠯᠭ ᠠ</unicode><transcript>γarulγ-a</transcript><transcript2>garolga</transcript2><cyrillic>гарлага</cyrillic><variants><v t="unicode">ᠭᠠᠷᠣᠯᠭᠠ</v></variants></item>
 <item><ref>Q3485</ref><unicode>ᠭᠠᠷᠣᠯᠭᠠᠲᠠᠢ</unicode><transcript>γarulγatai</transcript><transcript2>garolgadai</transcript2><cyrillic>гаралгатай</cyrillic></item>
@@ -26641,8 +26641,8 @@
 <item><ref>B0019</ref><unicode>ᠪᠠᠨᠲᠠᠩ</unicode><transcript>bantang</transcript><transcript2>bandang</transcript2><cyrillic>бантан</cyrillic></item>
 <item><ref>B0020</ref><unicode>ᠪᠠᠨᠲᠠᠩᠨᠠᠬᠣ</unicode><transcript>bantangnaqu</transcript><transcript2>bandangnago</transcript2><cyrillic>бантагнах</cyrillic></item>
 <item><ref>B0021</ref><unicode>ᠪᠠᠨᠲᠠᠩᠨᠠᠭᠣᠯᠬᠣ</unicode><transcript>bantangnaγulqu</transcript><transcript2>bandangnagolgo</transcript2><cyrillic>бантагнуулах</cyrillic></item>
-<item><ref>B0022</ref><unicode>ᠪᠠᠨᠳᠠᠭ᠎ᠠ</unicode><transcript>bandaγ-a</transcript><transcript2>bandaga</transcript2><cyrillic>бандга</cyrillic></item>
-<item><ref>B0023</ref><unicode>ᠫᠠᠨᠳᠠᠭ᠎ᠠ</unicode><transcript>pandaγ-a</transcript><transcript2>pandag-a</transcript2><cyrillic>пандга</cyrillic></item>
+<item><ref>B0022</ref><unicode>ᠪᠠᠨᠳᠠᠭ᠎ᠠ</unicode><transcript>bandaγ-a</transcript><transcript2>bandaga</transcript2><cyrillic>бандга</cyrillic><variants><v t="unicode">ᠪᠠᠨᠳᠠᠭᠠ</v></variants></item>
+<item><ref>B0023</ref><unicode>ᠫᠠᠨᠳᠠᠭ᠎ᠠ</unicode><transcript>pandaγ-a</transcript><transcript2>pandag-a</transcript2><cyrillic>пандга</cyrillic><variants><v t="unicode">ᠫᠠᠨᠳᠠᠭᠠ</v></variants></item>
 <item><ref>B0024</ref><unicode>ᠪᠠᠨᠳᠠᠭᠠᠨᠠᠬᠣ</unicode><transcript>bandaγanaqu</transcript><transcript2>bandaganago</transcript2><cyrillic>бандганах</cyrillic></item>
 <item><ref>B0025</ref><unicode>ᠫᠠᠨᠳᠠᠭᠠᠨᠠᠬᠣ</unicode><transcript>pandaγanaqu</transcript><transcript2>pandaganago</transcript2><cyrillic>пандганах</cyrillic></item>
 <item><ref>B0026</ref><unicode>ᠪᠠᠨᠳᠠᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode><transcript>bandaγanaγulqu</transcript><transcript2>bandaganagolgo</transcript2><cyrillic>бандгануулах</cyrillic></item>
@@ -27319,8 +27319,8 @@
 <item><ref>B061a</ref><unicode>ᠪᠠᠲᠠᠴᠢ</unicode><transcript>batači</transcript><transcript2>badaci</transcript2><cyrillic>батач</cyrillic></item>
 <item><ref>B0611</ref><unicode>ᠪᠠᠳᠠᠴᠢᠬᠣ</unicode><transcript>badačiqu</transcript><transcript2>badacigo</transcript2><cyrillic>бадчаа</cyrillic></item>
 <item><ref>B0612</ref><unicode>ᠪᠠᠳᠠᠴᠢᠶᠠ</unicode><transcript>badačiy-a</transcript><transcript2>badaciy-a</transcript2><cyrillic>бадчих</cyrillic></item>
-<item><ref>B0613</ref><unicode>ᠪᠠᠲᠠᠺᠠ</unicode><transcript>bataka</transcript><transcript2>badaga</transcript2><cyrillic></cyrillic></item>
-<item><ref>B0614</ref><unicode>ᠪᠠᠲᠠᠺᠢ</unicode><transcript>batagi</transcript><transcript2>badagi</transcript2><cyrillic>бадга</cyrillic></item>
+<item><ref>B0613</ref><unicode>ᠪᠠᠳᠠᢉᠠ</unicode><transcript>badaga</transcript><transcript2>badaga</transcript2><cyrillic></cyrillic><variants><v t="unicode">ᠪᠠᠳᠠᢉᠠᠨ</v></variants></item>
+<item><ref>B0614</ref><unicode>ᠪᠠᠳᠠᢉᠢ</unicode><transcript>badagi</transcript><transcript2>badagi</transcript2><cyrillic>бадга</cyrillic></item>
 <item><ref>B0614a</ref><unicode>ᠪᠠᠳᠠᠶᠢᠬᠣ</unicode><transcript>badayiqu</transcript><transcript2>badayigo</transcript2><cyrillic>бадайх</cyrillic></item>
 <item><ref>B0615</ref><unicode>ᠪᠠᠳᠠᠶᠢᠷ</unicode><transcript>badayir</transcript><transcript2>badayir</transcript2><cyrillic>бадайр</cyrillic></item>
 <item><ref>B0616</ref><unicode>ᠪᠠᠳᠠᠶᠢᠷᠠᠬᠣ</unicode><transcript>badayiraqu</transcript><transcript2>badayirago</transcript2><cyrillic>бадайрах</cyrillic></item>
@@ -27425,7 +27425,7 @@
 <item><ref>B0701</ref><unicode>ᠪᠠᠲᠣᠷᠰᠢᠲᠣ</unicode><transcript>batursitu</transcript><transcript2>badorsido</transcript2><cyrillic>батрашт</cyrillic></item>
 <item><ref>B0702</ref><unicode>ᠪᠠᠳᠨᠠ</unicode><transcript>badn-a</transcript><transcript2>badn-a</transcript2><cyrillic>бадна</cyrillic></item>
 <item><ref>B0703</ref><unicode>ᠪᠠᠳᠭᠠᠨ</unicode><transcript>badγan</transcript><transcript2>badgan</transcript2><cyrillic>бадган</cyrillic></item>
-<item><ref>B0727</ref><unicode>ᠪᠠᠳᠺᠠᠨ</unicode><transcript>badkan</transcript><transcript2>badgan</transcript2><cyrillic></cyrillic></item>
+<item><ref>B0727</ref><unicode>ᠪᠠᠳᢉᠠᠨ</unicode><transcript>badgan</transcript><transcript2>badgan</transcript2><cyrillic></cyrillic></item>
 <item><ref>B0704</ref><unicode>ᠪᠠᠳᠬᠠᠨ᠎ᠠ</unicode><transcript>badγan-a</transcript><transcript2>badgana</transcript2><cyrillic>бадгана</cyrillic><variants><v t="unicode">ᠪᠠᠳᠭᠠᠨᠠ</v></variants></item>
 <item><ref>B0705</ref><unicode>ᠪᠠᠳᠭᠠᠨᠠᠲᠣᠬᠣ</unicode><transcript>badγanatuqu</transcript><transcript2>badganadogo</transcript2><cyrillic>бадганатах</cyrillic></item>
 <item><ref>B0728</ref><unicode>ᠪᠠᠳᠺᠠᠨᠲᠣ</unicode><transcript>badkantu</transcript><transcript2>badgando</transcript2><cyrillic></cyrillic></item>
@@ -27442,7 +27442,7 @@
 <item><ref>B0715</ref><unicode>ᠪᠠᠳᠯᠠᠬᠣ</unicode><transcript>badlaqu</transcript><transcript2>badlago</transcript2><cyrillic>бадлах</cyrillic></item>
 <item><ref>B0717</ref><unicode>ᠪᠠᠳᠯᠢᠭᠣᠨ</unicode><transcript>badliγun</transcript><transcript2>badligon</transcript2><cyrillic>бадлиун</cyrillic></item>
 <item><ref>B0718</ref><unicode>ᠪᠠᠳᠯᠢᠶᠠ</unicode><transcript>badliy-a</transcript><transcript2>badliy-a</transcript2><cyrillic>бадлиа</cyrillic></item>
-<item><ref>B0719</ref><unicode>ᠪᠠᠳᠮᠠ</unicode><transcript>badm-a</transcript><transcript2>badm-a</transcript2><cyrillic>бадам</cyrillic></item>
+<item><ref>B0719</ref><unicode>ᠪᠠᠳᠮ ᠠ</unicode><transcript>badm-a</transcript><transcript2>badm-a</transcript2><cyrillic>бадам</cyrillic><variants><v t="unicode">ᠪᠠᠳᠮᠠ</v></variants></item>
 <item><ref>B0719a</ref><unicode>ᠪᠠᠳᠮᠠᠨᠢᠩᠪᠣᠣ</unicode><transcript>badmaningbuu</transcript><transcript2>badmaningboo</transcript2><cyrillic>бадмаанямбуу</cyrillic></item>
 <item><ref>B0720</ref><unicode>ᠪᠠᠳᠮᠠᠲᠣᠬᠣ</unicode><transcript>badmatuqu</transcript><transcript2>badmadogo</transcript2><cyrillic>бадматах</cyrillic></item>
 <item><ref>B0721</ref><unicode>ᠪᠠᠳᠮᠠᠯᠠᠬᠣ</unicode><transcript>badmalaqu</transcript><transcript2>badmalago</transcript2><cyrillic>бадмалах</cyrillic></item>
@@ -27453,7 +27453,7 @@
 <item><ref>B0724</ref><unicode>ᠪᠠᠳᠮᠠᠷᠠᠬᠣ</unicode><transcript>badmaraqu</transcript><transcript2>badmarago</transcript2><cyrillic>бадмарах</cyrillic></item>
 <item><ref>B0726</ref><unicode>ᠫᠠᠳᠮᠠᠸᠠᠲᠢ</unicode><transcript>padmavati</transcript><transcript2>padmavadi</transcript2><cyrillic></cyrillic></item>
 <item><ref>B0729</ref><unicode>ᠫᠠᠳᠺᠢᠺᠥ</unicode><transcript>padkikü</transcript><transcript2>padgigö</transcript2><cyrillic>падхийх</cyrillic></item>
-<item><ref>B0730</ref><unicode>ᠪᠠᠳᠷᠠ</unicode><transcript>badr-a</transcript><transcript2>badr-a</transcript2><cyrillic>бадар</cyrillic></item>
+<item><ref>B0730</ref><unicode>ᠪᠠᠳᠷ ᠠ</unicode><transcript>badr-a</transcript><transcript2>badr-a</transcript2><cyrillic>бадар</cyrillic><variants><v t="unicode">ᠪᠠᠳᠷᠠ</v></variants></item>
 <item><ref>B0731</ref><unicode>ᠪᠠᠯ</unicode><transcript>bal</transcript><transcript2>bal</transcript2><cyrillic>бал</cyrillic></item>
 <item><ref>B0732</ref><unicode>ᠫᠠᠯ</unicode><transcript>pal</transcript><transcript2>pal</transcript2><cyrillic>пал</cyrillic></item>
 <item><ref>B0733</ref><unicode>ᠪᠠᠯᠠ</unicode><transcript>bala</transcript><transcript2>bala</transcript2><cyrillic>бал</cyrillic></item>
@@ -27595,7 +27595,7 @@
 <item><ref>B0847</ref><unicode>ᠫᠠᠯᠬᠠᠭᠠᠷᠳᠠᠬᠣ</unicode><transcript>palqaγardaqu</transcript><transcript2>palgagardago</transcript2><cyrillic>палхгардах</cyrillic></item>
 <item><ref>B0848</ref><unicode>ᠫᠠᠯᠬᠠᠭᠠᠷᠳᠠᠭᠣ</unicode><transcript>palqaγardaγu</transcript><transcript2>palgagardago</transcript2><cyrillic>палхгардуу</cyrillic></item>
 <item><ref>B0849</ref><unicode>ᠪᠠᠯᠬᠠᠰ</unicode><transcript>balqas</transcript><transcript2>balgas</transcript2><cyrillic>балхас</cyrillic></item>
-<item><ref>B0850</ref><unicode>ᠪᠠᠯᠭᠠᠰᠣ</unicode><transcript>balγasu</transcript><transcript2>balgaso</transcript2><cyrillic>балгас</cyrillic></item>
+<item><ref>B0850</ref><unicode>ᠪᠠᠯᠭᠠᠰᠣ</unicode><transcript>balγasu</transcript><transcript2>balgaso</transcript2><cyrillic>балгас</cyrillic><variants><v t="unicode">ᠪᠠᠯᠭᠠᠰᠤᠨ</v></variants></item>
 <item><ref>B0851</ref><unicode>ᠪᠠᠯᠭᠠᠰᠣᠴᠢ</unicode><transcript>balγasuči</transcript><transcript2>balgasoci</transcript2><cyrillic>балгасч</cyrillic></item>
 <item><ref>B0852</ref><unicode>ᠪᠠᠯᠭᠠᠳ</unicode><transcript>balγad</transcript><transcript2>balgad</transcript2><cyrillic>балгад</cyrillic></item>
 <item><ref>B0853</ref><unicode>ᠪᠠᠯᠬᠠᠯᠵᠠᠬᠣ</unicode><transcript>balqalǰaqu</transcript><transcript2>balgalcago</transcript2><cyrillic>балхалзах</cyrillic></item>
@@ -72602,4 +72602,14 @@
 <item><ref>S7174</ref><unicode>ᠱᠠᠺᠶᠠᠮᠤᠨᠢ</unicode><transcript>šakyamuni</transcript><transcript2>sakyamuni</transcript2><cyrillic></cyrillic></item>
 <item><ref>E2533</ref><unicode>ᠡᠷᠡᠭᠦᠲᠦ</unicode><transcript>eregütü</transcript><transcript2></transcript2><cyrillic></cyrillic><variants><v t="unicode">ᠡᠷᠡᠭᠦ ᠎ᠲᠦ</v></variants></item>
 <item><ref>A9062</ref><unicode>ᠠᠷᠶᠠ</unicode><transcript>arya</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>A9063</ref><unicode>ᠠᠰᠸᠠᠴᠢ</unicode><transcript>asvači</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>A9064</ref><unicode>ᠠᠸᠠᠯᠣᠺᠢᠲᠡᠰᠸᠠᠷᠠ</unicode><transcript>avalokitesvara</transcript><transcript2></transcript2><cyrillic></cyrillic><variants><v t="unicode">ᠠᠸᠠᠯᠣᠺᠢᠲᠡᠱᠸᠠᠷᠠ</v></variants></item>
+<item><ref>A9065</ref><unicode>ᠠᠸᠠᠯᠣᠺᠢᠲᠡᠰᠸᠠᠷᠢ</unicode><transcript>avalokitesvari</transcript><transcript2></transcript2><cyrillic></cyrillic><variants><v t="unicode">ᠠᠸᠠᠯᠣᠺᠢᠲᠡᠱᠸᠠᠷᠢ</v></variants></item>
+<item><ref>A9066</ref><unicode>ᠠᠶᠤᠭᠴᠢ</unicode><transcript>ayuγči</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>B9033</ref><unicode>ᠪᠠᠳᠢᠮ</unicode><transcript>badim</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>B9034</ref><unicode>ᠪᠠᠺᠠᠯᠢ</unicode><transcript>bakali</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>B9035</ref><unicode>ᠪᠠᠺᠺᠤᠯᠠ</unicode><transcript>bakkula</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>B9036</ref><unicode>ᠪᠠᠨᠠᠪᠠᠰ</unicode><transcript>banabas</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>B9037</ref><unicode>ᠪᠠᠨᠳᠠᠺᠠ</unicode><transcript>bandaka</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>B9038</ref><unicode>ᠪᠠᠨᠳᠡ</unicode><transcript>bande</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
 </list>

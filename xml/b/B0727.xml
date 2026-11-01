@@ -1,33 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="B0727">
   <head>
-    <unicode>ᠪᠠᠳᠺᠠᠨ</unicode>
-    <transcript>badkan</transcript>
+    <unicode>ᠪᠠᠳᢉᠠᠨ</unicode>
+    <transcript>badgan</transcript>
     <transcript2>badgan</transcript2>
-  </head><see_also>
+  </head>
+  <see_also>
     <ref>B0703</ref>
   </see_also>
   <entries>
     <entry_item>
       <dico>Kowalewski</dico>
-      <unicode>ᠪᠠᠳᠺᠠᠨ</unicode>
+      <unicode>ᠪᠠᠳᢉᠠᠨ</unicode>
       <definition>flegme, humeurs, glaire (tib bad kan)</definition>
       <page>1073</page>
       <examples>
         <example>
-          <unicode>ᠪᠠᠳᠺᠠᠨ ᠡᠪᠡᠳᠴᠢᠨ</unicode>
+          <unicode>ᠪᠠᠳᢉᠠᠨ ᠡᠪᠡᠳᠴᠢᠨ</unicode>
           <definition>maladie de l'accumulation de glaire</definition>
         </example>
         <example>
-          <unicode>ᠪᠠᠳᠺᠠᠨ ᠰᠢᠷᠠ</unicode>
+          <unicode>ᠪᠠᠳᢉᠠᠨ ᠰᠢᠷᠠ</unicode>
           <definition>flegme et bile</definition>
         </example>
         <example>
-          <unicode>ᠪᠠᠳᠺᠠᠨ ᠴᠢᠰᠤᠨ</unicode>
+          <unicode>ᠪᠠᠳᢉᠠᠨ ᠴᠢᠰᠤᠨ</unicode>
           <definition>flegme et sang corrompu</definition>
         </example>
         <example>
-          <unicode>ᠪᠠᠳᠺᠠᠨ ᠺᠡᠢ</unicode>
+          <unicode>ᠪᠠᠳᢉᠠᠨ ᠺᠡᠢ</unicode>
           <definition>flegme et vent</definition>
         </example>
       </examples>
