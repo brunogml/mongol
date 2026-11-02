@@ -10751,7 +10751,7 @@
 <item><ref>U1380</ref><unicode>ᠣᠲᠣᠭ ᠠ</unicode><transcript>utuγ-a</transcript><transcript2>odoga</transcript2><cyrillic>утаа</cyrillic><variants><v t="unicode">ᠤᠲᠤᠭᠠ</v><v t="unicode">ᠤᠲᠤᠭᠠᠨ</v><v t="cyrillic">утаан</v></variants></item>
 <item><ref>U1381</ref><unicode>ᠣᠳᠣᠭᠠᠨ</unicode><transcript>uduγan</transcript><transcript2>odogan</transcript2><cyrillic>удган</cyrillic></item>
 <item><ref>U1382</ref><unicode>ᠣᠳᠣᠬᠠᠨ</unicode><transcript>oduqan</transcript><transcript2>odogan</transcript2><cyrillic>одоохон</cyrillic></item>
-<item><ref>U1383</ref><unicode>ᠣᠲᠣᠭᠠᠨ ᠠ</unicode><transcript>utuγana</transcript><transcript2>odogana</transcript2><cyrillic>утаана</cyrillic></item>
+<item><ref>U1383</ref><unicode>ᠣᠲᠣᠭᠠᠨ ᠠ</unicode><transcript>utuγan-a</transcript><transcript2>odogana</transcript2><cyrillic>утаана</cyrillic><variants><v t="unicode">ᠣᠲᠣᠭᠠᠨᠠ</v></variants></item>
 <item><ref>U1384</ref><unicode>ᠣᠲᠣᠭᠠᠬᠣ</unicode><transcript>utuγaqu</transcript><transcript2>odogago</transcript2><cyrillic>утаах</cyrillic></item>
 <item><ref>U1384a</ref><unicode>ᠣᠲᠣᠭᠠᠰᠢᠬᠣ</unicode><transcript>utuγasiqu</transcript><transcript2>odogasigo</transcript2><cyrillic>утааших</cyrillic></item>
 <item><ref>U1385</ref><unicode>ᠣᠲᠣᠭᠠᠲᠠᠢ</unicode><transcript>utuγatai</transcript><transcript2>odogadai</transcript2><cyrillic>утаатай</cyrillic></item>
@@ -16876,7 +16876,7 @@
 <item><ref>N1341</ref><unicode>ᠨᠢᠬ</unicode><transcript>niγ</transcript><transcript2>nig</transcript2><cyrillic>ниг</cyrillic></item>
 <item><ref>N1342</ref><unicode>ᠨᠢᠭᠠᠬᠣ</unicode><transcript>niγaqu</transcript><transcript2>nigago</transcript2><cyrillic>наах</cyrillic></item>
 <item><ref>N1343</ref><unicode>ᠨᠢᠬᠠᠭᠣᠷ</unicode><transcript>niqaγur</transcript><transcript2>nigagor</transcript2><cyrillic>няхуур</cyrillic></item>
-<item><ref>N1344</ref><unicode>ᠨᠢᠭᠠᠯᠳᠣᠭ᠎ᠠ</unicode><transcript>niγalduγ-a</transcript><transcript2>nigaldoga</transcript2><cyrillic></cyrillic></item>
+<item><ref>N1344</ref><unicode>ᠨᠢᠭᠠᠯᠳᠣᠭ᠎ᠠ</unicode><transcript>niγalduγ-a</transcript><transcript2>nigaldoga</transcript2><cyrillic></cyrillic><variants><v t="unicode">ᠨᠢᠭᠠᠯᠳᠣᠭᠠ</v></variants></item>
 <item><ref>N1345</ref><unicode>ᠨᠢᠭᠠᠯᠳᠣᠬᠣ</unicode><transcript>niγalduqu</transcript><transcript2>nigaldogo</transcript2><cyrillic></cyrillic></item>
 <item><ref>N1346</ref><unicode>ᠨᠢᠭᠠᠯᠳᠣᠭᠣᠯᠬᠣ</unicode><transcript>niγalduγulqu</transcript><transcript2>nigaldogolgo</transcript2><cyrillic></cyrillic></item>
 <item><ref>N1347</ref><unicode>ᠨᠢᠭᠣ</unicode><transcript>niγu</transcript><transcript2>nigo</transcript2><cyrillic>нуга</cyrillic></item>
@@ -22235,7 +22235,7 @@
 <item><ref>Q3431</ref><unicode>ᠬᠠᠷᠢᠶᠠᠲᠠᠢ</unicode><transcript>qariyatai</transcript><transcript2>gariyadai</transcript2><cyrillic>харьяатай</cyrillic></item>
 <item><ref>Q3432</ref><unicode>ᠬᠠᠷᠢᠶᠠᠲᠠᠨ</unicode><transcript>qariyatan</transcript><transcript2>gariyadan</transcript2><cyrillic>харьяатан</cyrillic></item>
 <item><ref>Q3432a</ref><unicode>ᠬᠠᠷᠢᠶᠠᠳᠠᠬᠣ</unicode><transcript>qariyadaqu</transcript><transcript2>gariyadago</transcript2><cyrillic>харьяадах</cyrillic></item>
-<item><ref>Q3433</ref><unicode>ᠬᠠᠷᠢᠶᠠᠲᠣ</unicode><transcript>qariyatu</transcript><transcript2>gariyado</transcript2><cyrillic>харьяат</cyrillic></item>
+<item><ref>Q3433</ref><unicode>ᠬᠠᠷᠢᠶᠠᠲᠣ</unicode><transcript>qariyatu</transcript><transcript2>gariyado</transcript2><cyrillic>харьяат</cyrillic><variants><v t="unicode">ᠬᠠᠷᠢᠶ ᠠ ᠎ᠲᠤ</v></variants></item>
 <item><ref>Q3434</ref><unicode>ᠬᠠᠷᠢᠶᠠᠯ</unicode><transcript>qariyal</transcript><transcript2>gariyal</transcript2><cyrillic>хараал</cyrillic></item>
 <item><ref>Q3435</ref><unicode>ᠬᠠᠷᠢᠶᠠᠯᠠᠢ</unicode><transcript>qariyalai</transcript><transcript2>gariyalai</transcript2><cyrillic>хараалай</cyrillic></item>
 <item><ref>Q3436</ref><unicode>ᠬᠠᠷᠢᠶᠠᠯᠠᠬᠣ</unicode><transcript>qariyalaqu</transcript><transcript2>gariyalago</transcript2><cyrillic>харьяалах</cyrillic></item>
@@ -34526,7 +34526,7 @@
 <item><ref>S1541</ref><unicode>ᠰᠠᠺᠢᠴᠢᠬᠠᠬᠣ</unicode><transcript>sakičiqaqu</transcript><transcript2>sagicigago</transcript2><cyrillic>сахичихах</cyrillic></item>
 <item><ref>S1542</ref><unicode>ᠱᠠᠺᠢᠴᠢᠬᠠᠬᠣ</unicode><transcript>šagičiqaqu</transcript><transcript2>sagicigago</transcript2><cyrillic>шаагьчихах</cyrillic></item>
 <item><ref>S1543</ref><unicode>ᠱᠠᠺᠢᠶ ᠠ</unicode><transcript>šakiy-a</transcript><transcript2>sagiy-a</transcript2><cyrillic>шахъяа</cyrillic><variants><v t="unicode">ᠱᠠᠺᠢᠶᠠ</v></variants></item>
-<item><ref>S1544</ref><unicode>ᠰᠠᠺᠢᠶ ᠠ</unicode><transcript>sakiy-a</transcript><transcript2>sagiya</transcript2><cyrillic>сахиа</cyrillic><variants><v t="unicode">ᠰᠠᠺᠢᠶᠠ</v></variants></item>
+<item><ref>S1544</ref><unicode>ᠰᠠᠺᠢᠶ ᠠ</unicode><transcript>sakiy-a</transcript><transcript2>sagiya</transcript2><cyrillic>сахиа</cyrillic><variants><v t="unicode">ᠰᠠᠺᠢᠶᠠ</v><v t="unicode">ᠰᠠᠺᠢᠶᠠᠨ</v><v t="cyrillic">сахиан</v></variants></item>
 <item><ref>S1545</ref><unicode>ᠱᠠᠺᠢᠶᠠᠨ</unicode><transcript>šagiyan</transcript><transcript2>sagiyan</transcript2><cyrillic>шаагиан</cyrillic></item>
 <item><ref>S1546</ref><unicode>ᠱᠠᠺᠢᠶᠠᠨᠲᠠᠢ</unicode><transcript>šagiyantai</transcript><transcript2>sagiyandai</transcript2><cyrillic>шаагиантай</cyrillic></item>
 <item><ref>S1547</ref><unicode>ᠱᠠᠺᠢᠶᠠᠮᠣᠨᠢ</unicode><transcript>šakiyamuni</transcript><transcript2>sagiyamoni</transcript2><cyrillic>шахъяамуни</cyrillic></item>
@@ -38178,8 +38178,8 @@
 <item><ref>S4955</ref><unicode>ᠰᠣᠨᠣᠰᠬᠠᠯᠲᠣ</unicode><transcript>sonusqaltu</transcript><transcript2>sonosgaldo</transcript2><cyrillic></cyrillic></item>
 <item><ref>S4956</ref><unicode>ᠰᠣᠨᠣᠰᠬᠣ</unicode><transcript>sonusqu</transcript><transcript2>sonosgo</transcript2><cyrillic>сонсох</cyrillic></item>
 <item><ref>S4957</ref><unicode>ᠰᠣᠨᠣᠰᠬᠣᠯᠠᠩ</unicode><transcript>sonusqulang</transcript><transcript2>sonosgolang</transcript2><cyrillic>сонсголон</cyrillic></item>
-<item><ref>S4958</ref><unicode>ᠰᠣᠨᠣᠰᠬᠣᠯᠠᠩᠲᠠᠢ</unicode><transcript>sonusqulangtai</transcript><transcript2>sonosgolangdai</transcript2><cyrillic>сонсголонтой</cyrillic></item>
-<item><ref>S4958a</ref><unicode>ᠰᠣᠨᠣᠰᠬᠣᠯᠠᠩᠲᠣ</unicode><transcript>sonusqulangtu</transcript><transcript2>sonosgolangdo</transcript2><cyrillic>сонсголонт</cyrillic></item>
+<item><ref>S4958</ref><unicode>ᠰᠣᠨᠣᠰᠬᠣᠯᠠᠩᠲᠠᠢ</unicode><transcript>sonusqulangtai</transcript><transcript2>sonosgolangdai</transcript2><cyrillic>сонсголонтой</cyrillic><variants><v t="unicode">ᠰᠣᠨᠤᠰᠬᠤᠯᠠᠩ ᠎ᠲᠠᠢ</v></variants></item>
+<item><ref>S4958a</ref><unicode>ᠰᠣᠨᠣᠰᠬᠣᠯᠠᠩᠲᠣ</unicode><transcript>sonusqulangtu</transcript><transcript2>sonosgolangdo</transcript2><cyrillic>сонсголонт</cyrillic><variants><v t="unicode">ᠰᠣᠨᠤᠰᠬᠤᠯᠠᠩ ᠎ᠲᠤ</v></variants></item>
 <item><ref>S4959</ref><unicode>ᠰᠣᠨᠣᠰᠪᠠᠰᠣ</unicode><transcript>sonusbasu</transcript><transcript2>sonosbaso</transcript2><cyrillic>сонсвоос</cyrillic></item>
 <item><ref>S4960</ref><unicode>ᠰᠣᠨᠣᠰᠪᠣᠷᠢ</unicode><transcript>sonusburi</transcript><transcript2>sonosbori</transcript2><cyrillic>сонсвор</cyrillic></item>
 <item><ref>S4961</ref><unicode>ᠰᠣᠨᠣᠰᠳᠠᠬᠣ</unicode><transcript>sonusdaqu</transcript><transcript2>sonosdago</transcript2><cyrillic>сонсдох</cyrillic></item>
@@ -42280,7 +42280,7 @@
 <item><ref>T1417</ref><unicode>ᠲᠠᠰᠣ</unicode><transcript>tasu</transcript><transcript2>daso</transcript2><cyrillic>тас</cyrillic></item>
 <item><ref>T1418</ref><unicode>ᠲᠠᠰᠣᠣ</unicode><transcript>tašou</transcript><transcript2>dasoo</transcript2><cyrillic></cyrillic></item>
 <item><ref>T1419</ref><unicode>ᠲᠠᠰᠣᠬ</unicode><transcript>tasuγ</transcript><transcript2>dasog</transcript2><cyrillic>тасаг</cyrillic></item>
-<item><ref>T1420</ref><unicode>ᠲᠠᠰᠣᠭ᠎ᠠ</unicode><transcript>tasuγ-a</transcript><transcript2>dasoga</transcript2><cyrillic>тасаа</cyrillic></item>
+<item><ref>T1420</ref><unicode>ᠲᠠᠰᠣᠭ᠎ᠠ</unicode><transcript>tasuγ-a</transcript><transcript2>dasoga</transcript2><cyrillic>тасаа</cyrillic><variants><v t="unicode">ᠲᠠᠰᠣᠭᠠ</v></variants></item>
 <item><ref>T1421</ref><unicode>ᠳᠠᠰᠣᠬᠣ</unicode><transcript>dasuqu</transcript><transcript2>dasogo</transcript2><cyrillic></cyrillic></item>
 <item><ref>T1422</ref><unicode>ᠲᠠᠰᠣᠬᠯᠠᠬᠣ</unicode><transcript>tasuγlaqu</transcript><transcript2>dasoglago</transcript2><cyrillic>тасаглах</cyrillic></item>
 <item><ref>T1423</ref><unicode>ᠲᠠᠰᠣᠳᠠᠬᠣ</unicode><transcript>tasudaqu</transcript><transcript2>dasodago</transcript2><cyrillic>тасдах</cyrillic></item>
@@ -55481,7 +55481,7 @@
 <item><ref>C0013</ref><unicode>ᠴᠠᠨᠱᠠ</unicode><transcript>čanša</transcript><transcript2>cansa</transcript2><cyrillic>чанш</cyrillic></item>
 <item><ref>C0014</ref><unicode>ᠴᠠᠨᠱᠠ</unicode><transcript>čanša</transcript><transcript2>cansa</transcript2><cyrillic>цанша</cyrillic></item>
 <item><ref>C0015</ref><unicode>ᠴᠠᠨᠱᠠᠮᠠᠬ</unicode><transcript>čanšamaγ</transcript><transcript2>cansamag</transcript2><cyrillic>чаншмаг</cyrillic></item>
-<item><ref>C0016</ref><unicode>ᠴᠠᠨᠳᠠᠨ</unicode><transcript>čandan</transcript><transcript2>candan</transcript2><cyrillic></cyrillic></item>
+<item><ref>C0016</ref><unicode>ᠴᠠᠨᠳᠠᠨ</unicode><transcript>čandan</transcript><transcript2>candan</transcript2><cyrillic></cyrillic><variants><v t="unicode">ᠽᠠᠨᠳᠠᠨ</v></variants></item>
 <item><ref>Y0037</ref><unicode></unicode><transcript>ǰandan</transcript><transcript2>yandan</transcript2><cyrillic>зандан</cyrillic></item>
 <item><ref>C0017</ref><unicode>ᠴᠠᠨᠳᠠᠨᠠ</unicode><transcript>čandana</transcript><transcript2>candana</transcript2><cyrillic></cyrillic></item>
 <item><ref>C0017a</ref><unicode>ᠴᠠᠨᠳᠠᠨᠰᠢᠬᠣ</unicode><transcript>čandansiqu</transcript><transcript2>candansigo</transcript2><cyrillic>занданших</cyrillic></item>
@@ -61619,7 +61619,7 @@
 <item><ref>K2150</ref><unicode>ᠺᠢᠯᠪᠠᠳᠠᠬ</unicode><transcript>gilbadaγ</transcript><transcript2>gilbadag</transcript2><cyrillic>гялбадаг</cyrillic></item>
 <item><ref>K2151</ref><unicode>ᠺᠢᠯᠪᠠᠳᠠᠰᠣᠨ</unicode><transcript>gilbadasun</transcript><transcript2>gilbadason</transcript2><cyrillic>гялбадас</cyrillic></item>
 <item><ref>K2152</ref><unicode>ᠺᠢᠯᠪᠠᠲᠣ</unicode><transcript>kilbatu</transcript><transcript2>gilbado</transcript2><cyrillic></cyrillic></item>
-<item><ref>K2153</ref><unicode>ᠺᠢᠯᠪᠠᠯᠭ᠎ᠠ</unicode><transcript>gilbalγ-a</transcript><transcript2>gilbalga</transcript2><cyrillic>гялбалаг</cyrillic></item>
+<item><ref>K2153</ref><unicode>ᠺᠢᠯᠪᠠᠯᠭ᠎ᠠ</unicode><transcript>gilbalγ-a</transcript><transcript2>gilbalga</transcript2><cyrillic>гялбалаг</cyrillic><variants><v t="unicode">ᠺᠢᠯᠪᠠᠯᠭᠠ</v></variants></item>
 <item><ref>K2153a</ref><unicode>ᠺᠢᠯᠪᠠᠯᠭᠠᠨ</unicode><transcript>gilbalγan</transcript><transcript2>gilbalgan</transcript2><cyrillic>гялбалгаан</cyrillic></item>
 <item><ref>K2154</ref><unicode>ᠺᠢᠯᠪᠠᠯᠵᠠᠬᠣ</unicode><transcript>gilbalǰaqu</transcript><transcript2>gilbalcago</transcript2><cyrillic>гялбалзах</cyrillic></item>
 <item><ref>K2155</ref><unicode>ᠺᠢᠯᠪᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode><transcript>gilbalǰaγulqu</transcript><transcript2>gilbalcagolgo</transcript2><cyrillic>гялбалзуулах</cyrillic></item>
@@ -65410,7 +65410,7 @@
 <item><ref>Y0482</ref><unicode>ᠵᠠᠭᠠᠷ</unicode><transcript>ǰaγar</transcript><transcript2>yagar</transcript2><cyrillic>заарь</cyrillic></item>
 <item><ref>Y0483</ref><unicode>ᠵᠠᠭᠠᠷ</unicode><transcript>ǰaγar</transcript><transcript2>yagar</transcript2><cyrillic>жагар</cyrillic></item>
 <item><ref>Y1485</ref><unicode></unicode><transcript>ǰakar</transcript><transcript2>yagar</transcript2><cyrillic>загар</cyrillic></item>
-<item><ref>Y1486</ref><unicode></unicode><transcript>ǰakar-a</transcript><transcript2>yagar-a</transcript2><cyrillic>загар</cyrillic></item>
+<item><ref>Y1486</ref><unicode>ᠵᠠᠺᠠᠷ ᠠ</unicode><transcript>ǰakar-a</transcript><transcript2>yagar-a</transcript2><cyrillic>загар</cyrillic><variants><v t="unicode">ᠵᠠᠺᠠᠷᠠ</v></variants></item>
 <item><ref>Y0484</ref><unicode>ᠶᠠᠭᠠᠷᠠᠣ</unicode><transcript>yaγarau</transcript><transcript2>yagarao</transcript2><cyrillic>яаруу</cyrillic></item>
 <item><ref>Y0485</ref><unicode>ᠶᠠᠭᠠᠷᠠᠣᠬᠠᠨ</unicode><transcript>yaγarauqan</transcript><transcript2>yagaraogan</transcript2><cyrillic>яаруухан</cyrillic></item>
 <item><ref>Y0486</ref><unicode>ᠶᠠᠭᠠᠷᠠᠣᠪᠲᠣᠷ</unicode><transcript>yaγaraubtur</transcript><transcript2>yagaraobdor</transcript2><cyrillic>яаруувтар</cyrillic></item>
@@ -67884,7 +67884,7 @@
 <item><ref>Y2756a</ref><unicode>ᠵᠢᠪᠬᠣᠭᠠᠷᠳᠠᠬᠣ</unicode><transcript>ǰibquγardaqu</transcript><transcript2>yibgogardago</transcript2><cyrillic>жавхгардах</cyrillic></item>
 <item><ref>Y2757</ref><unicode>ᠵᠢᠪᠬᠣᠲᠠᠢ</unicode><transcript>ǰibqutai</transcript><transcript2>yibgodai</transcript2><cyrillic>жавхтай</cyrillic></item>
 <item><ref>Y2758</ref><unicode>ᠵᠢᠪᠬᠣᠯᠠᠩ</unicode><transcript>ǰibqulang</transcript><transcript2>yibgolang</transcript2><cyrillic>жавхлан</cyrillic></item>
-<item><ref>Y2759</ref><unicode>ᠵᠢᠪᠬᠣᠯᠠᠩᠲᠠᠢ</unicode><transcript>ǰibqulangtai</transcript><transcript2>yibgolangdai</transcript2><cyrillic>жавхлантай</cyrillic></item>
+<item><ref>Y2759</ref><unicode>ᠵᠢᠪᠬᠣᠯᠠᠩᠲᠠᠢ</unicode><transcript>ǰibqulangtai</transcript><transcript2>yibgolangdai</transcript2><cyrillic>жавхлантай</cyrillic><variants><v t="unicode">ᠵᠢᠪᠬᠤᠯᠠᠩ ᠎ᠲᠠᠢ</v></variants></item>
 <item><ref>Y2760</ref><unicode>ᠵᠢᠪᠬᠣᠯᠠᠩᠲᠣ</unicode><transcript>ǰibqulangtu</transcript><transcript2>yibgolangdo</transcript2><cyrillic>жавхлант</cyrillic><variants><v t="unicode">ᠵᠢᠪᠬᠤᠯᠠᠩ ᠎ᠲᠤ</v></variants></item>
 <item><ref>Y2761</ref><unicode>ᠵᠢᠪᠬᠣᠯᠵᠠᠬᠣ</unicode><transcript>ǰibqulǰaqu</transcript><transcript2>yibgolcago</transcript2><cyrillic>жавхалзах</cyrillic></item>
 <item><ref>Y2762</ref><unicode>ᠵᠢᠪᠬᠣᠯᠵᠠᠭᠣᠯᠬᠣ</unicode><transcript>ǰibqulǰaγulqu</transcript><transcript2>yibgolcagolgo</transcript2><cyrillic>жавхалзуулах</cyrillic></item>
@@ -72612,4 +72612,12 @@
 <item><ref>B9036</ref><unicode>ᠪᠠᠨᠠᠪᠠᠰ</unicode><transcript>banabas</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
 <item><ref>B9037</ref><unicode>ᠪᠠᠨᠳᠠᠺᠠ</unicode><transcript>bandaka</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
 <item><ref>B9038</ref><unicode>ᠪᠠᠨᠳᠡ</unicode><transcript>bande</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>Q7457</ref><unicode>ᠬᠠᠨᠳᠠᠯᠭ ᠠ</unicode><transcript>qandalγ-a</transcript><transcript2></transcript2><cyrillic></cyrillic><variants><v t="unicode">ᠬᠠᠨᠳᠠᠯᠭᠠ</v></variants></item>
+<item><ref>S7175</ref><unicode>ᠰᠣᠴᠢᠮᠠᠭ</unicode><transcript>sočimaγ</transcript><transcript2>socimaq</transcript2><cyrillic></cyrillic></item>
+<item><ref>M2475</ref><unicode>ᠮᠢᠲᠠᠭᠤ</unicode><transcript>mitaγu</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>K5319</ref><unicode>ᠭᠢᠯᠲᠠᠨᠠᠭᠤᠷ</unicode><transcript>giltanaγur</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>K5320</ref><unicode>ᠭᠢᠯᠲᠠᠶᠢᠬᠤ</unicode><transcript>giltayiqu</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>O2257</ref><unicode>ᠦᠯᠳᠡᠪᠦᠷᠢ</unicode><transcript>üldebüri</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>T9656</ref><unicode>ᠳᠥᠩᠭᠡᠲᠦ</unicode><transcript>dönggetü</transcript><transcript2></transcript2><cyrillic></cyrillic><variants><v t="unicode">ᠳᠥᠩᠭᠡ ᠎ᠲᠦ</v></variants></item>
+<item><ref>M2476</ref><unicode>ᠮᠥᠷᠦᠶᠢᠲᠦ</unicode><transcript>mörüyitü</transcript><transcript2></transcript2><cyrillic></cyrillic><variants><v t="unicode">ᠮᠥᠷᠦᠶᠢ ᠎ᠲᠦ</v></variants></item>
 </list>
