@@ -11,6 +11,30 @@ if (strcmp($dic, "lk4") == 0) {
     $p1      = str_pad($pNum - 1, 4, '0', STR_PAD_LEFT);
     $p2      = str_pad($pNum + 1, 4, '0', STR_PAD_LEFT);
     $pDisplay = $pNum;
+} elseif (strcmp($dic, "lamrd") == 0) {
+    // IDs are {volume}-{page}, e.g. 1-1, 2-237
+    $lamrdLastPage = [1 => 486, 2 => 507, 3 => 438, 4 => 506];
+    list($pMaj, $pMin) = explode('-', $p);
+    $pMaj = (int)$pMaj;
+    $pMin = (int)$pMin;
+    // Prev
+    if ($pMin > 1) {
+        $p1 = $pMaj . '-' . ($pMin - 1);
+    } elseif ($pMaj > 1) {
+        $prevVol = $pMaj - 1;
+        $p1 = $prevVol . '-' . $lamrdLastPage[$prevVol];
+    } else {
+        $p1 = '1-1'; // already at the very first page
+    }
+    // Next
+    if ($pMin < $lamrdLastPage[$pMaj]) {
+        $p2 = $pMaj . '-' . ($pMin + 1);
+    } elseif ($pMaj < 4) {
+        $p2 = ($pMaj + 1) . '-1';
+    } else {
+        $p2 = '4-' . $lamrdLastPage[4]; // already at the very last page
+    }
+    $pDisplay = $p;
 } elseif (strcmp($dic, "saran") == 0) {
     // IDs are n-1 or n-2; sequence: 1-1, 1-2, 2-1, 2-2, 3-1, 3-2, ...
     list($pMaj, $pMin) = explode('-', $p);
@@ -125,6 +149,10 @@ if (strcmp($dic, "Mahavyutpatti") == 0) {
 
 if (strcmp($dic, "saran") == 0) {
     osd_viewer('img/saran/' . $p . '.jpg', $sdPath);
+}
+
+if (strcmp($dic, "lamrd") == 0) {
+    osd_viewer('img/lamrd/' . $p . '.jpg', $sdPath);
 }
 
 if (strcmp($dic, "cevel") == 0) {

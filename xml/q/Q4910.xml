@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q4910">
   <head>
     <unicode>ᠬᠣᠪᠴᠠᠰᠣ</unicode>
@@ -6,6 +6,11 @@
     <transcript2>gobcaso</transcript2>
     <cyrillic>хувцас</cyrillic>
   </head>
+  <derivatives>
+    <ref>Q4911</ref>
+    <ref>Q4915</ref>
+    <ref>Q4916</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -19,52 +24,52 @@
         <example>
           <unicode>ᠬᠤᠪᠴᠠᠰᠤ ᠪᠡᠨ ᠰᠣᠯᠢᠵᠤ ᠡᠮᠦᠰᠺᠦ</unicode>
           <transcript>-- ben solizu emysky</transcript>
-          <definition> To change clothes</definition>
+          <definition>To change clothes</definition>
         </example>
         <example>
           <unicode>ᠬᠤᠪᠴᠠᠰᠤ ᠴᠢᠮᠡᠭ</unicode>
           <transcript>-- cimeg</transcript>
-          <definition> Garments and ornaments</definition>
+          <definition>Garments and ornaments</definition>
         </example>
         <example>
           <unicode>ᠬᠤᠪᠴᠠᠰᠤᠨ ᠢ ᠵᠠᠰᠠᠬᠤ</unicode>
           <transcript>--n i zasaxu</transcript>
-          <definition> To straighten out one's clothes; to alter a garment.</definition>
+          <definition>To straighten out one's clothes; to alter a garment.</definition>
         </example>
         <example>
           <unicode>ᠬᠤᠪᠴᠠᠰᠤ ᠣᠶᠤᠭᠴᠢ</unicode>
           <transcript>-- ojuγci</transcript>
-          <definition> Tailor.</definition>
+          <definition>Tailor.</definition>
         </example>
         <example>
           <unicode>ᠬᠤᠪᠴᠠᠰᠤ ᠤᠷᠠᠯᠠᠭᠴᠢ</unicode>
           <transcript>-- uralaγci</transcript>
-          <definition> Tailor.</definition>
+          <definition>Tailor.</definition>
         </example>
         <example>
           <unicode>ᠬᠤᠪᠴᠠᠰᠤ ᠬᠤᠨᠠᠷ = ᠬᠤᠪᠴᠠᠳ ᠬᠤᠨᠠᠷ</unicode>
           <transcript>-- xunar = xubcad xunar</transcript>
-          <definition> Dress, clothes, garments.</definition>
+          <definition>Dress, clothes, garments.</definition>
         </example>
         <example>
           <unicode>ᠠᠪᠠᠨ ᠤ ᠬᠤᠪᠴᠠᠰᠤ</unicode>
-          <transcript>alban u -- </transcript>
-          <definition> Uniform.</definition>
+          <transcript>alban u --</transcript>
+          <definition>Uniform.</definition>
         </example>
         <example>
           <unicode>ᠳᠡᠪᠡᠯ ᠬᠤᠪᠴᠠᠰᠤ</unicode>
-          <transcript>debel -- </transcript>
-          <definition> Dress, clothes.</definition>
+          <transcript>debel --</transcript>
+          <definition>Dress, clothes.</definition>
         </example>
         <example>
           <unicode>ᠶᠣᠰᠤᠲᠤ ᠬᠤᠪᠴᠠᠰᠤ</unicode>
-          <transcript>josutu -- </transcript>
-          <definition> Formal or ceremonial dress.</definition>
+          <transcript>josutu --</transcript>
+          <definition>Formal or ceremonial dress.</definition>
         </example>
         <example>
           <unicode>ᠲᠡᠮᠦᠷ ᠬᠤᠪᠴᠠᠰᠤ</unicode>
-          <transcript>temyr -- </transcript>
-          <definition> Coat of iron mail.</definition>
+          <transcript>temyr --</transcript>
+          <definition>Coat of iron mail.</definition>
         </example>
       </examples>
     </entry_item>
@@ -79,7 +84,7 @@
         <example>
           <unicode>ᠬᠣᠪᠴᠠᠰᠣ ᠬᠤᠨᠠᠷ</unicode>
           <transcript>-- xunar</transcript>
-          <definition> See under xubcasu(n).</definition>
+          <definition>See under xubcasu(n).</definition>
         </example>
       </examples>
     </entry_item>
@@ -168,14 +173,14 @@
       <dico>lamrd</dico>
       <unicode>ᠬᠣᠪᠴᠠᠰᠣ</unicode>
       <cyrillic>ХУВЦАС(АН)</cyrillic>
-      <definition>одежда, платье; костюм; наряд; туалет; гардероб; ажлын хувцас рабочая одежда, спецодежда; албаны хувцас экипировка, форменная одежда, обмундирование; бэлэн хувцас готовое платье; гадуур хувцас верхняя одежда; гоёлын хувцас выходной костюм; гоёмсог хувцас роскошный туалет; давхар хувцас, дотортой хувцас одежда на подкладке; дан хувцас одежда без подкладки; дотуур хувцас нательное бельё; дулаан хувцас тёплая одежда; дээл хувцас хорш. дэли, одежда; ёслолын хувцас парадная одежда, мундир; сайн хувцастай хорошо одетый; сурагчийн хувцас школьная форма; унтлагын хувцас ночная рубашка; уранхай хувцас обноски, рубище; үндэсний хувцас национальный костюм; хаалгачийн хувцас ливрея; цэргийн хувцас военная форма; хувцас хунар хорш. одежда, платье; хувцас хунар ихтэй у него большой гардероб; хувцас бурхан бие чөтгөр хууч. одежда — бог, тело — дьявол; хувцсаа буруулах переодеваться, чтобы не быть узнанным; хувцсаа буруулсан хулгайч переодетый вор; хувцсаа өмсөх а) одеваться; б) носить одежду; дотуур хувцас өмсөх одевать нательное бельё; хувцсаа солих переодеваться; хувцсаа тайлах раздеваться; хувцас тайлах газар раздевалка, раздевальня, гардероб. </definition>
+      <definition>одежда, платье; костюм; наряд; туалет; гардероб; ажлын хувцас рабочая одежда, спецодежда; албаны хувцас экипировка, форменная одежда, обмундирование; бэлэн хувцас готовое платье; гадуур хувцас верхняя одежда; гоёлын хувцас выходной костюм; гоёмсог хувцас роскошный туалет; давхар хувцас, дотортой хувцас одежда на подкладке; дан хувцас одежда без подкладки; дотуур хувцас нательное бельё; дулаан хувцас тёплая одежда; дээл хувцас хорш. дэли, одежда; ёслолын хувцас парадная одежда, мундир; сайн хувцастай хорошо одетый; сурагчийн хувцас школьная форма; унтлагын хувцас ночная рубашка; уранхай хувцас обноски, рубище; үндэсний хувцас национальный костюм; хаалгачийн хувцас ливрея; цэргийн хувцас военная форма; хувцас хунар хорш. одежда, платье; хувцас хунар ихтэй у него большой гардероб; хувцас бурхан бие чөтгөр хууч. одежда — бог, тело — дьявол; хувцсаа буруулах переодеваться, чтобы не быть узнанным; хувцсаа буруулсан хулгайч переодетый вор; хувцсаа өмсөх а) одеваться; б) носить одежду; дотуур хувцас өмсөх одевать нательное бельё; хувцсаа солих переодеваться; хувцсаа тайлах раздеваться; хувцас тайлах газар раздевалка, раздевальня, гардероб.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠬᠣᠪᠴᠠᠰᠣ</unicode>
       <cyrillic>ХУВЦАСНЫ</cyrillic>
-      <definition>хувцас(н)-ы харьяал., платяной; хувцасны өлгүүр вешалка; гардероб; хувцасны сойз платяная щётка; хувцасны шүүгээ платяной шкаф, гардероб. </definition>
+      <definition>хувцас(н)-ы харьяал., платяной; хувцасны өлгүүр вешалка; гардероб; хувцасны сойз платяная щётка; хувцасны шүүгээ платяной шкаф, гардероб.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -192,9 +197,4 @@
       <page>722</page>
     </entry_item>
   </entries>
-  <derivatives>
-    <ref>Q4911</ref>
-    <ref>Q4915</ref>
-    <ref>Q4916</ref>
-  </derivatives>
 </entry>

@@ -6,6 +6,9 @@
     <transcript2>dörölgidö</transcript2>
     <cyrillic>төрөлхт</cyrillic>
   </head>
+  <related_to>
+    <ref>T9345</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -18,8 +21,8 @@
       <examples>
         <example>
           <unicode>ᠥᠨᠳᠦᠷ ᠲᠥᠷᠥᠯᠺᠢᠲᠥ</unicode>
-          <transcript>øndyr -- </transcript>
-          <definition> Of noble birth.</definition>
+          <transcript>øndyr --</transcript>
+          <definition>Of noble birth.</definition>
         </example>
       </examples>
     </entry_item>
@@ -54,4 +57,4 @@
       <page>1041</page>
     </entry_item>
   </entries>
-<related_to><ref>T9345</ref></related_to></entry>
+</entry>

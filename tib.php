@@ -65,8 +65,12 @@ function loadTibetanItems(string $path): array {
     $xml = @simplexml_load_file($path);
     if ($xml === false) return [];
     $out = [];
-    foreach ($xml->item as $item) {
-        $refs = parseRefString((string)$item->ref);
+    foreach ($xml->entry as $item) {
+        $refs = [];
+        foreach ($item->refs->ref ?? [] as $r) {
+            $s = trim((string)$r);
+            if ($s !== '') $refs[] = $s;
+        }
         $out[] = [
             'source' => 'tibetan',
             'coll'   => (string)$item->coll,
