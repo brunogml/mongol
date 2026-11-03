@@ -6,6 +6,13 @@
     <transcript2>ildö</transcript2>
     <cyrillic>илд</cyrillic>
   </head>
+  <derivatives>
+    <ref>I0766</ref>
+    <ref>I0767</ref>
+    <ref>I0768</ref>
+    <ref>I0769</ref>
+    <ref>I0770</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -19,17 +26,17 @@
         <example>
           <unicode>ᠢᠯᠳᠥᠨ ᠤ ᠢᠷ</unicode>
           <transcript>--n y ir</transcript>
-          <definition> Edge of a sword.</definition>
+          <definition>Edge of a sword.</definition>
         </example>
         <example>
           <unicode>ᠢᠯᠳᠥᠨ ᠤ ᠬᠤᠢ</unicode>
           <transcript>--n y xui</transcript>
-          <definition> Sheathe of a sword.</definition>
+          <definition>Sheathe of a sword.</definition>
         </example>
         <example>
           <unicode>ᠢᠯᠳᠥ ᠰᠡᠯᠡᠮ᠎ᠡ</unicode>
           <transcript>-- selem-e</transcript>
-          <definition> Swords in general.</definition>
+          <definition>Swords in general.</definition>
         </example>
       </examples>
     </entry_item>
@@ -119,28 +126,28 @@
       <dico>lamrd</dico>
       <unicode>ᠢᠯᠳᠥ</unicode>
       <cyrillic>ИЛД(ЭН)</cyrillic>
-      <definition>I меч, сабля (тяжелая), палаш; дам илд бердыш, большой меч с широким лезвием и длинной рукояткой; нүцгэн илд обнажённый меч; илд зүүх опоясать мечом; илд сэлэм хорш. сабля, меч; илдээ сугалах обнажить меч. </definition>
+      <definition>I меч, сабля (тяжелая), палаш; дам илд бердыш, большой меч с широким лезвием и длинной рукояткой; нүцгэн илд обнажённый меч; илд зүүх опоясать мечом; илд сэлэм хорш. сабля, меч; илдээ сугалах обнажить меч.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠢᠯᠳᠥ</unicode>
       <cyrillic>ИЛДНИЙ</cyrillic>
-      <definition>илд(н) I-ий харьяал., относящийся к мечу; илдний балдаг рукоятка меча; илдний хуй ножны меча. </definition>
+      <definition>илд(н) I-ий харьяал., относящийся к мечу; илдний балдаг рукоятка меча; илдний хуй ножны меча.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠢᠯᠳᠥ</unicode>
       <cyrillic>ИЛДЭН</cyrillic>
-      <definition>: илдэн арт шувуу. перепел китайский. </definition>
+      <definition>: илдэн арт шувуу. перепел китайский.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠢᠯᠳᠥ</unicode>
       <cyrillic>ЮЛД(ЭН)</cyrillic>
-      <definition>I хуучир. меч; илд-ийг үз., хутга юлд хорш. сабля; цаазын юлд меч правосудия (меч, которым осуществляли казни); өсөхийн нас жаргал ч өтлөхийн жам илд адил иднэ шүү... хоть молодость — счастье, старость подобно мечу своё возьмёт. </definition>
+      <definition>I хуучир. меч; илд-ийг үз., хутга юлд хорш. сабля; цаазын юлд меч правосудия (меч, которым осуществляли казни); өсөхийн нас жаргал ч өтлөхийн жам илд адил иднэ шүү... хоть молодость — счастье, старость подобно мечу своё возьмёт.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -171,4 +178,4 @@
       <page>895</page>
     </entry_item>
   </entries>
-<derivatives><ref>I0766</ref><ref>I0767</ref><ref>I0768</ref><ref>I0769</ref><ref>I0770</ref></derivatives></entry>
+</entry>

@@ -5,9 +5,13 @@
     <transcript>tölgeči</transcript>
     <transcript2>dölgeci</transcript2>
     <cyrillic>төлөгч</cyrillic>
-  </head><see_also>
+  </head>
+  <see_also>
     <ref>T8796</ref>
   </see_also>
+  <related_to>
+    <ref>T8812</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -30,7 +34,7 @@
         <example>
           <unicode>ᠲᠥᠯᠺᠠᠴᠢ ᠡᠪᠡᠰᠦ</unicode>
           <transcript>-- ebesy</transcript>
-          <definition> Siberian mifoil</definition>
+          <definition>Siberian mifoil</definition>
         </example>
       </examples>
     </entry_item>
@@ -70,22 +74,22 @@
       <dico>lamrd</dico>
       <unicode>ᠲᠥᠯᠺᠠᠴᠢ</unicode>
       <cyrillic>ТӨЛГӨЧ</cyrillic>
-      <definition>I гадальщик, гадатель, предсказатель, ворожея. </definition>
+      <definition>I гадальщик, гадатель, предсказатель, ворожея.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠲᠥᠯᠺᠠᠴᠢ</unicode>
       <cyrillic>ТӨЛГӨЧ</cyrillic>
-      <definition>II: төлгөч өвс ург. тысячелљстник сибљрский; төлгөч банчин ург. поповник тысячелљстник. </definition>
+      <definition>II: төлгөч өвс ург. тысячелљстник сибљрский; төлгөч банчин ург. поповник тысячелљстник.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠲᠥᠯᠺᠠᠴᠢ</unicode>
       <cyrillic>ТӨЛӨГЧ</cyrillic>
-      <definition>II төлгөч-ийг үз. </definition>
+      <definition>II төлгөч-ийг үз.</definition>
       <page>0</page>
     </entry_item>
   </entries>
-<related_to><ref>T8812</ref></related_to></entry>
+</entry>

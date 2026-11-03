@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="E2222">
   <head>
     <unicode>ᠡᠷᠳᠡᠨᠢ</unicode>
@@ -10,6 +10,7 @@
     <ref>E2223</ref>
     <ref>E2224</ref>
     <ref>E2227</ref>
+    <ref>E2535</ref>
   </derivatives>
   <entries>
     <entry_item>
@@ -275,7 +276,8 @@
     <entry_item>
       <dico>Vietze</dico>
       <cyrillic>эрдэнэ</cyrillic>
-      <definition>1. Kleinod n, Kostbarkeit f, Schatz m
+      <definition>1. Kleinod n, Kostbarkeit f, Schatz m
+
 2.: ~ шипи Bot Mais m; ~ шишийн залаа[н] Maiskolben m</definition>
       <page>403</page>
     </entry_item>

@@ -2491,7 +2491,7 @@
 <item><ref>A2303</ref><unicode>ᠠᠯᠠᠬᠯᠠᠴᠢᠬᠠᠬᠣ</unicode><transcript>alaγlačiqaqu</transcript><transcript2>alaglacigago</transcript2><cyrillic>алаглачихах</cyrillic></item>
 <item><ref>A2303a</ref><unicode>ᠠᠯᠠᠬᠯᠢᠬ</unicode><transcript>alaγliγ</transcript><transcript2>alaglig</transcript2><cyrillic>алаглаг</cyrillic></item>
 <item><ref>A2304</ref><unicode>ᠠᠯᠠᠬᠴᠢ</unicode><transcript>alaγči</transcript><transcript2>alagci</transcript2><cyrillic>алагч</cyrillic></item>
-<item><ref>A2305</ref><unicode>ᠠᠯᠠᠬᠴᠢ</unicode><transcript>alaγči</transcript><transcript2>alagcin</transcript2><cyrillic>алагч</cyrillic><variants><v t="unicode">ᠠᠯᠠᠬᠴᠢᠨ</v><v t="unicode">алагчин</v></variants></item>
+<item><ref>A2305</ref><unicode>ᠠᠯᠠᠬᠴᠢ</unicode><transcript>alaγči</transcript><transcript2>alagcin</transcript2><cyrillic>алагч</cyrillic><variants><v t="unicode">ᠠᠯᠠᠬᠴᠢᠨ</v><v t="cyrillic">алагчин</v></variants></item>
 <item><ref>A2306</ref><unicode>ᠠᠯᠠᠬᠴᠢᠯᠠᠬᠣ</unicode><transcript>alaγčilaqu</transcript><transcript2>alagcilago</transcript2><cyrillic>алагчлах</cyrillic></item>
 <item><ref>A2307</ref><unicode>ᠠᠯᠠᠬᠴᠢᠯᠠᠭᠣᠯᠬᠣ</unicode><transcript>alaγčilaγulqu</transcript><transcript2>alagcilagolgo</transcript2><cyrillic>алагчлуулах</cyrillic></item>
 <item><ref>A2308</ref><unicode>ᠠᠯᠠᠬᠴᠢᠯᠠᠯ</unicode><transcript>alaγčilal</transcript><transcript2>alagcilal</transcript2><cyrillic>алагчлал</cyrillic></item>
@@ -8466,10 +8466,10 @@
 <item><ref>I0763b</ref><unicode>ᠢᠯᠲᠠᠢ</unicode><transcript>iltei</transcript><transcript2>ildei</transcript2><cyrillic></cyrillic></item>
 <item><ref>I0763b</ref><unicode>ᠢᠯᠳᠠᠺ</unicode><transcript>ildeg</transcript><transcript2>ildeg</transcript2><cyrillic></cyrillic></item>
 <item><ref>I0764</ref><unicode>ᠢᠯᠳᠠᠷᠠᠺᠥ</unicode><transcript>ilderekü</transcript><transcript2>ilderegö</transcript2><cyrillic></cyrillic></item>
-<item><ref>I0765</ref><unicode>ᠢᠯᠳᠥ</unicode><transcript>ildü</transcript><transcript2>ildö</transcript2><cyrillic>илд</cyrillic></item>
+<item><ref>I0765</ref><unicode>ᠢᠯᠳᠥ</unicode><transcript>ildü</transcript><transcript2>ildö</transcript2><cyrillic>илд</cyrillic><variants><v t="unicode">ᠢᠯᠳᠦᠨ</v><v t="cyrillic">илдэн</v></variants></item>
 <item><ref>I0766</ref><unicode>ᠢᠯᠳᠥᠲᠠᠢ</unicode><transcript>ildütei</transcript><transcript2>ildödei</transcript2><cyrillic>илдтэй</cyrillic></item>
 <item><ref>I0767</ref><unicode>ᠢᠯᠳᠥᠲᠠᠨ</unicode><transcript>ildüten</transcript><transcript2>ildöden</transcript2><cyrillic>илдтэн</cyrillic></item>
-<item><ref>I0768</ref><unicode>ᠢᠯᠳᠥᠲᠥ</unicode><transcript>ildütü</transcript><transcript2>ildödö</transcript2><cyrillic>илдэт</cyrillic></item>
+<item><ref>I0768</ref><unicode>ᠢᠯᠳᠥᠲᠥ</unicode><transcript>ildütü</transcript><transcript2>ildödö</transcript2><cyrillic>илдэт</cyrillic><variants><v t="unicode">ᠢᠯᠳᠦ ᠎ᠲᠦ</v></variants></item>
 <item><ref>I0769</ref><unicode>ᠢᠯᠳᠥᠯᠠᠺᠥ</unicode><transcript>ildülekü</transcript><transcript2>ildölegö</transcript2><cyrillic>илдлэх</cyrillic></item>
 <item><ref>I0770</ref><unicode>ᠢᠯᠳᠥᠴᠢ</unicode><transcript>ildüči</transcript><transcript2>ildöci</transcript2><cyrillic>илдэч</cyrillic></item>
 <item><ref>I0771</ref><unicode>ᠢᠯᠮᠠ</unicode><transcript>ilm-a</transcript><transcript2>ilm-a</transcript2><cyrillic>ялма</cyrillic></item>
@@ -16624,8 +16624,8 @@
 <item><ref>N1120</ref><unicode>ᠨᠠᠺᠠᠺᠥᠷᠴᠢ</unicode><transcript>nekegürči</transcript><transcript2>negegörci</transcript2><cyrillic>нэхүүрч</cyrillic></item>
 <item><ref>N1121</ref><unicode>ᠨᠠᠺᠠᠺᠳᠠᠺᠥ</unicode><transcript>nekegdekü</transcript><transcript2>negegdegö</transcript2><cyrillic>нэхэгдэх</cyrillic></item>
 <item><ref>N1122</ref><unicode>ᠨᠠᠺᠠᠺᠳᠠᠺᠥ</unicode><transcript>negegdekü</transcript><transcript2>negegdegö</transcript2><cyrillic>нээгдэх</cyrillic></item>
-<item><ref>N1123</ref><unicode>ᠨᠠᠺᠠᠺᠴᠢ</unicode><transcript>nekegči</transcript><transcript2>negegci</transcript2><cyrillic>нэхэгч</cyrillic></item>
-<item><ref>N1124</ref><unicode>ᠨᠠᠺᠠᠺᠴᠢ</unicode><transcript>negegči</transcript><transcript2>negegci</transcript2><cyrillic></cyrillic></item>
+<item><ref>N1123</ref><unicode>ᠨᠠᠺᠠᠺᠴᠢ</unicode><transcript>nekegči</transcript><transcript2>negegci</transcript2><cyrillic>нэхэгч</cyrillic><variants><v t="unicode">ᠨᠠᠺᠠᠺᠴᠢᠨ</v></variants></item>
+<item><ref>N1124</ref><unicode>ᠨᠠᠺᠠᠺᠴᠢ</unicode><transcript>negegči</transcript><transcript2>negegci</transcript2><cyrillic></cyrillic><variants><v t="unicode">ᠨᠡᠭᠡᠭᠴᠢᠨ</v></variants></item>
 <item><ref>N1124a</ref><unicode>ᠨᠠᠺᠠᠷ</unicode><transcript>neger</transcript><transcript2>neger</transcript2><cyrillic>нэгр</cyrillic></item>
 <item><ref>N1125</ref><unicode>ᠨᠠᠺᠠᠷᠠᠨ</unicode><transcript>negeren</transcript><transcript2>negeren</transcript2><cyrillic>нээрээ</cyrillic></item>
 <item><ref>N1126</ref><unicode>ᠨᠠᠺᠥᠨᠠ</unicode><transcript>negüne</transcript><transcript2>negöne</transcript2><cyrillic>нүүнээ</cyrillic></item>
@@ -20228,8 +20228,8 @@
 <item><ref>Q1533</ref><unicode>ᠬᠠᠳᠠᠭᠠᠯᠠᠮᠵᠢ</unicode><transcript>qadaγalamǰi</transcript><transcript2>gadagalamci</transcript2><cyrillic>хадгаламж</cyrillic></item>
 <item><ref>Q1534</ref><unicode>ᠬᠠᠳᠠᠭᠠᠯᠠᠴᠠᠭᠠᠬᠣ</unicode><transcript>qadaγalačaγaqu</transcript><transcript2>gadagalacagago</transcript2><cyrillic>хадгалцгаах</cyrillic></item>
 <item><ref>Q1535</ref><unicode>ᠬᠠᠳᠠᠭᠠᠯᠠᠴᠢᠬᠠᠬᠣ</unicode><transcript>qadaγalačiqaqu</transcript><transcript2>gadagalacigago</transcript2><cyrillic>хадгалчихах</cyrillic></item>
-<item><ref>Q1536</ref><unicode>ᠬᠠᠲᠠᠭᠠᠯᠭ᠎ᠠ</unicode><transcript>qataγalγ-a</transcript><transcript2>gadagalga</transcript2><cyrillic>хатаалга</cyrillic></item>
-<item><ref>Q1537</ref><unicode>ᠭᠠᠲᠠᠭᠠᠯᠭ᠎ᠠ</unicode><transcript>γataγalγ-a</transcript><transcript2>gadagalga</transcript2><cyrillic>гадаалга</cyrillic></item>
+<item><ref>Q1536</ref><unicode>ᠬᠠᠲᠠᠭᠠᠯᠭ᠎ᠠ</unicode><transcript>qataγalγ-a</transcript><transcript2>gadagalga</transcript2><cyrillic>хатаалга</cyrillic><variants><v t="unicode">ᠬᠠᠲᠠᠭᠠᠯᠭᠠ</v></variants></item>
+<item><ref>Q1537</ref><unicode>ᠭᠠᠲᠠᠭᠠᠯᠭ᠎ᠠ</unicode><transcript>γataγalγ-a</transcript><transcript2>gadagalga</transcript2><cyrillic>гадаалга</cyrillic><variants><v t="unicode">ᠭᠠᠲᠠᠭᠠᠯᠭᠠ</v></variants></item>
 <item><ref>Q1538</ref><unicode>ᠬᠠᠲᠠᠭᠠᠯᠭᠠᠬᠣ</unicode><transcript>qataγalγaqu</transcript><transcript2>gadagalgago</transcript2><cyrillic>хатаалгах</cyrillic></item>
 <item><ref>Q1539</ref><unicode>ᠬᠠᠲᠠᠭᠠᠯᠲᠠ</unicode><transcript>qataγalta</transcript><transcript2>gadagalda</transcript2><cyrillic>хатаалт</cyrillic></item>
 <item><ref>Q1540</ref><unicode>ᠬᠠᠲᠠᠭᠠᠯᠵᠠᠢ</unicode><transcript>qataγalǰai</transcript><transcript2>gadagalcai</transcript2><cyrillic>хатаалзай</cyrillic></item>
@@ -24138,7 +24138,7 @@
 <item><ref>Q5176</ref><unicode>ᠬᠣᠳᠠᠯᠳᠣᠬᠴᠢ</unicode><transcript>qudalduγči</transcript><transcript2>godaldogci</transcript2><cyrillic>худалдагч</cyrillic><variants><v t="unicode">ᠬᠣᠳᠠᠯᠳᠣᠬᠴᠢᠨ</v></variants></item>
 <item><ref>Q5177</ref><unicode>ᠬᠣᠳᠠᠯᠳᠣᠯᠴᠠᠬᠣ</unicode><transcript>qudaldulčaqu</transcript><transcript2>godaldolcago</transcript2><cyrillic></cyrillic></item>
 <item><ref>Q5178</ref><unicode>ᠬᠣᠳᠠᠯᠳᠣᠴᠠᠭᠠᠬᠣ</unicode><transcript>qudaldučaγaqu</transcript><transcript2>godaldocagago</transcript2><cyrillic>худалдацгаах</cyrillic></item>
-<item><ref>Q5179</ref><unicode>ᠬᠣᠳᠠᠯᠳᠣᠴᠢ</unicode><transcript>qudalduči</transcript><transcript2>godaldoci</transcript2><cyrillic></cyrillic></item>
+<item><ref>Q5179</ref><unicode>ᠬᠣᠳᠠᠯᠳᠣᠴᠢ</unicode><transcript>qudalduči</transcript><transcript2>godaldoci</transcript2><cyrillic></cyrillic><variants><v t="unicode">ᠬᠣᠳᠠᠯᠳᠣᠴᠢᠨ</v></variants></item>
 <item><ref>Q5180</ref><unicode>ᠬᠣᠳᠠᠯᠳᠣᠴᠢᠬᠠᠬᠣ</unicode><transcript>qudaldučiqaqu</transcript><transcript2>godaldocigago</transcript2><cyrillic>худалдчихах</cyrillic></item>
 <item><ref>Q5181</ref><unicode>ᠬᠣᠳᠠᠯᠴᠢ</unicode><transcript>qudalči</transcript><transcript2>godalci</transcript2><cyrillic>худалч</cyrillic></item>
 <item><ref>Q5182</ref><unicode>ᠬᠣᠳᠠᠯᠴᠢᠬᠠᠨ</unicode><transcript>qudalčiqan</transcript><transcript2>godalcigan</transcript2><cyrillic>худалчхан</cyrillic></item>
@@ -28011,7 +28011,7 @@
 <item><ref>B1222</ref><unicode>ᠪᠠᠶᠢᠯᠭᠠᠬᠳᠠᠬᠣ</unicode><transcript>bayilγaγdaqu</transcript><transcript2>bayilgagdago</transcript2><cyrillic></cyrillic></item>
 <item><ref>B1223</ref><unicode>ᠪᠠᠶᠢᠯᠲᠠᠢ</unicode><transcript>bayiltai</transcript><transcript2>bayildai</transcript2><cyrillic>байлтай</cyrillic></item>
 <item><ref>B1224</ref><unicode>ᠪᠠᠶᠢᠯᠳᠠᠰᠢ</unicode><transcript>bayildasi</transcript><transcript2>bayildasi</transcript2><cyrillic></cyrillic></item>
-<item><ref>B1225</ref><unicode>ᠪᠠᠶᠢᠯᠳᠤᠭ ᠠ</unicode><transcript>bayilduγ-a</transcript><transcript2>bayildoga</transcript2><cyrillic>байлдаан</cyrillic><variants><v t="unicode">ᠪᠠᠶᠢᠯᠳᠤᠭᠠᠨ</v></variants></item>
+<item><ref>B1225</ref><unicode>ᠪᠠᠶᠢᠯᠳᠤᠭ ᠠ</unicode><transcript>bayilduγ-a</transcript><transcript2>bayildoga</transcript2><cyrillic>байлдаан</cyrillic><variants><v t="unicode">ᠪᠠᠶᠢᠯᠳᠤᠭᠠ</v><v t="unicode">ᠪᠠᠶᠢᠯᠳᠤᠭᠠᠨ</v></variants></item>
 <item><ref>B1225a</ref><unicode>ᠪᠠᠶᠢᠯᠳᠣᠭᠠᠨᠲᠣ</unicode><transcript>bayilduγantu</transcript><transcript2>bayildogando</transcript2><cyrillic></cyrillic></item>
 <item><ref>B1226</ref><unicode>ᠪᠠᠶᠢᠯᠳᠣᠭᠠᠨᠴᠢ</unicode><transcript>bayilduγanči</transcript><transcript2>bayildoganci</transcript2><cyrillic>байлдаанч</cyrillic></item>
 <item><ref>B1227</ref><unicode>ᠪᠠᠶᠢᠯᠳᠣᠬᠣ</unicode><transcript>bayilduqu</transcript><transcript2>bayildogo</transcript2><cyrillic>байлдах</cyrillic></item>
@@ -30525,7 +30525,7 @@
 <item><ref>B3368</ref><unicode>ᠪᠣᠯᠬᠠᠭᠣᠯᠬᠣ</unicode><transcript>bulqaγulqu</transcript><transcript2>bolgagolgo</transcript2><cyrillic>булхуулах</cyrillic></item>
 <item><ref>B3369</ref><unicode>ᠪᠣᠯᠭᠠᠭᠣᠯᠬᠣ</unicode><transcript>bolγaγulqu</transcript><transcript2>bolgagolgo</transcript2><cyrillic></cyrillic></item>
 <item><ref>B3370</ref><unicode>ᠪᠣᠯᠭᠠᠬᠳᠠᠬᠣ</unicode><transcript>bolγaγdaqu</transcript><transcript2>bolgagdago</transcript2><cyrillic></cyrillic></item>
-<item><ref>B3371</ref><unicode>ᠪᠣᠯᠭᠠᠬᠴᠢ</unicode><transcript>bolγaγči</transcript><transcript2>bolgagci</transcript2><cyrillic>бологч</cyrillic></item>
+<item><ref>B3371</ref><unicode>ᠪᠣᠯᠭᠠᠬᠴᠢ</unicode><transcript>bolγaγči</transcript><transcript2>bolgagci</transcript2><cyrillic>бологч</cyrillic><variants><v t="unicode">ᠪᠣᠯᠭᠠᠬᠴᠢᠨ</v></variants></item>
 <item><ref>B3371a</ref><unicode>ᠪᠣᠯᠬᠠᠰ</unicode><transcript>bulqas</transcript><transcript2>bolgas</transcript2><cyrillic>булхас</cyrillic></item>
 <item><ref>B3372</ref><unicode>ᠪᠣᠯᠬᠠᠳᠠᠰᠣ</unicode><transcript>bulqadasu</transcript><transcript2>bolgadaso</transcript2><cyrillic>булхдас</cyrillic></item>
 <item><ref>B3373</ref><unicode>ᠪᠣᠯᠭᠠᠯᠬᠣ</unicode><transcript>bulγalqu</transcript><transcript2>bolgalgo</transcript2><cyrillic>булгалах</cyrillic></item>
@@ -33122,7 +33122,7 @@
 <item><ref>S0233</ref><unicode>ᠰᠠᠩᠭᠣᠷᠴᠠᠬᠯᠠᠬᠣ</unicode><transcript>sangγurčaγlaqu</transcript><transcript2>sanggorcaglago</transcript2><cyrillic>сангарцаглах</cyrillic></item>
 <item><ref>S0234</ref><unicode>ᠱᠠᠩᠱᠠᠩᠳᠢᠣᠠ</unicode><transcript>šangšangdiu-a</transcript><transcript2>sangsangdio-a</transcript2><cyrillic></cyrillic></item>
 <item><ref>S0235</ref><unicode>ᠱᠠᠩᠰᠢ</unicode><transcript>šangsi</transcript><transcript2>sangsi</transcript2><cyrillic>шанш</cyrillic></item>
-<item><ref>S0236</ref><unicode>ᠱᠠᠩᠰᠢᠶᠠ</unicode><transcript>šangsiy-a</transcript><transcript2>sangsiy-a</transcript2><cyrillic>шаншмаа</cyrillic></item>
+<item><ref>S0236</ref><unicode>ᠱᠠᠩᠰᠢᠶ ᠠ</unicode><transcript>šangsiy-a</transcript><transcript2>sangsiy-a</transcript2><cyrillic>шаншмаа</cyrillic><variants><v t="unicode">ᠱᠠᠩᠰᠢᠶᠠ</v></variants></item>
 <item><ref>S0237</ref><unicode>ᠱᠠᠩᠳᠠ</unicode><transcript>šangda</transcript><transcript2>sangda</transcript2><cyrillic>шанд</cyrillic></item>
 <item><ref>S0238</ref><unicode>ᠰᠠᠩᠳᠠᠬ</unicode><transcript>sangdaγ</transcript><transcript2>sangdag</transcript2><cyrillic>сандаг</cyrillic></item>
 <item><ref>S0239</ref><unicode>ᠱᠠᠩᠳᠠᠬᠣ</unicode><transcript>šangdaqu</transcript><transcript2>sangdago</transcript2><cyrillic>шандах</cyrillic></item>
@@ -36598,7 +36598,7 @@
 <item><ref>S3442</ref><unicode>ᠰᠢᠪᠠᠭᠣᠬᠠᠨ</unicode><transcript>sibaγuqan</transcript><transcript2>sibagogan</transcript2><cyrillic></cyrillic></item>
 <item><ref>S3443</ref><unicode>ᠰᠢᠪᠠᠭᠣᠯᠠᠬᠣ</unicode><transcript>sibaγulaqu</transcript><transcript2>sibagolago</transcript2><cyrillic>шувуулах</cyrillic></item>
 <item><ref>S3444</ref><unicode>ᠰᠢᠪᠠᠭᠣᠯᠬᠣ</unicode><transcript>sibaγulqu</transcript><transcript2>sibagolgo</transcript2><cyrillic>шавуулах</cyrillic></item>
-<item><ref>S3445</ref><unicode>ᠰᠢᠪᠠᠭᠣᠴᠢ</unicode><transcript>sibaγuči</transcript><transcript2>sibagoci</transcript2><cyrillic>шувууч</cyrillic></item>
+<item><ref>S3445</ref><unicode>ᠰᠢᠪᠠᠭᠣᠴᠢ</unicode><transcript>sibaγuči</transcript><transcript2>sibagoci</transcript2><cyrillic>шувууч</cyrillic><variants><v t="unicode">ᠰᠢᠪᠠᠭᠤᠴᠢᠨ</v><v t="cyrillic">шувуучин</v></variants></item>
 <item><ref>S3446</ref><unicode>ᠰᠢᠪᠠᠭᠣᠴᠢᠯᠠᠬᠣ</unicode><transcript>sibaγučilaqu</transcript><transcript2>sibagocilago</transcript2><cyrillic>шувуучлах</cyrillic></item>
 <item><ref>S3447</ref><unicode>ᠰᠢᠪᠠᠬᠳᠠᠬᠣ</unicode><transcript>sibaγdaqu</transcript><transcript2>sibagdago</transcript2><cyrillic>шавагдах</cyrillic></item>
 <item><ref>S3448</ref><unicode>ᠰᠢᠪᠠᠬᠯᠠᠬᠣ</unicode><transcript>sibaγlaqu</transcript><transcript2>sibaglago</transcript2><cyrillic>шаваглах</cyrillic></item>
@@ -50468,7 +50468,7 @@
 <item><ref>T8815</ref><unicode>ᠲᠥᠯᠺᠠᠳᠠᠺᠥᠯᠺᠥ</unicode><transcript>tölgedegülkü</transcript><transcript2>dölgedegölgö</transcript2><cyrillic>төлгөдүүлэх</cyrillic></item>
 <item><ref>T8816</ref><unicode>ᠲᠥᠯᠺᠠᠯᠠᠺᠥ</unicode><transcript>tölgelekü</transcript><transcript2>dölgelegö</transcript2><cyrillic>төлгөлөх</cyrillic></item>
 <item><ref>T8817</ref><unicode>ᠲᠥᠯᠺᠠᠯᠠᠺᠥᠯᠺᠥ</unicode><transcript>tölgelegülkü</transcript><transcript2>dölgelegölgö</transcript2><cyrillic>төлгөлүүлэх</cyrillic></item>
-<item><ref>T8818</ref><unicode>ᠲᠥᠯᠺᠠᠴᠢ</unicode><transcript>tölgeči</transcript><transcript2>dölgeci</transcript2><cyrillic>төлөгч</cyrillic></item>
+<item><ref>T8818</ref><unicode>ᠲᠥᠯᠺᠠᠴᠢ</unicode><transcript>tölgeči</transcript><transcript2>dölgeci</transcript2><cyrillic>төлөгч</cyrillic><variants><v t="unicode">ᠲᠥᠯᠺᠠᠴᠢᠨ</v><v t="cyrillic">төлөгчин</v></variants></item>
 <item><ref>T8819</ref><unicode>ᠲᠥᠯᠺᠢᠰᠺᠢᠺᠥ</unicode><transcript>tülkiskikü</transcript><transcript2>dölgisgigö</transcript2><cyrillic>түлхэсхийх</cyrillic></item>
 <item><ref>T8820</ref><unicode>ᠲᠥᠯᠺᠢᠯᠠᠯᠴᠠᠺᠥ</unicode><transcript>tülkilelčekü</transcript><transcript2>dölgilelcegö</transcript2><cyrillic>түлхэлцэх</cyrillic></item>
 <item><ref>T8821</ref><unicode>ᠲᠥᠯᠺᠢᠯᠠᠺᠠ</unicode><transcript>tülkilege</transcript><transcript2>dölgilege</transcript2><cyrillic>түлхэлээ</cyrillic></item>
@@ -50527,8 +50527,8 @@
 <item><ref>T8870</ref><unicode>ᠳᠥᠮᠥᠺ</unicode><transcript>dömüg</transcript><transcript2>dömög</transcript2><cyrillic>дөмөг</cyrillic></item>
 <item><ref>T8871</ref><unicode>ᠲᠥᠮᠥᠺ</unicode><transcript>tömüg</transcript><transcript2>dömög</transcript2><cyrillic>төмөг</cyrillic></item>
 <item><ref>T8872</ref><unicode>ᠲᠥᠮᠥᠺᠠ</unicode><transcript>tömüge</transcript><transcript2>dömöge</transcript2><cyrillic>төмөө</cyrillic></item>
-<item><ref>T8873</ref><unicode>ᠲᠥᠮᠥᠺᠠᠲᠥ</unicode><transcript>tömügetü</transcript><transcript2>dömögedö</transcript2><cyrillic></cyrillic></item>
-<item><ref>T8874</ref><unicode>ᠳᠥᠮᠥᠺᠠᠷ</unicode><transcript>dömüger</transcript><transcript2>dömöger</transcript2><cyrillic>дөмгөр</cyrillic></item>
+<item><ref>T8873</ref><unicode>ᠲᠥᠮᠥᠺᠠᠲᠥ</unicode><transcript>tömügetü</transcript><transcript2>dömögedö</transcript2><cyrillic></cyrillic><variants><v t="unicode">ᠲᠥᠮᠦᠭᠡ ᠎ᠲᠦ</v></variants></item>
+<item><ref>T8874</ref><unicode>ᠳᠥᠮᠦᠭᠡᠷ</unicode><transcript>dömüger</transcript><transcript2></transcript2><cyrillic>дөмгөр</cyrillic></item>
 <item><ref>T8876</ref><unicode>ᠳᠥᠮᠥᠺᠠᠷᠳᠠᠺᠥ</unicode><transcript>dömügerdekü</transcript><transcript2>dömögerdegö</transcript2><cyrillic>дөмгөрдөх</cyrillic></item>
 <item><ref>T8875</ref><unicode>ᠳᠥᠮᠥᠺᠠᠷᠺᠠᠨ</unicode><transcript>dömügerken</transcript><transcript2>dömögergen</transcript2><cyrillic>дөмгөрхөн</cyrillic></item>
 <item><ref>T8877</ref><unicode>ᠳᠥᠮᠥᠺᠥ</unicode><transcript>dömükü</transcript><transcript2>dömögö</transcript2><cyrillic>дөмөх</cyrillic></item>
@@ -54621,7 +54621,7 @@
 <item><ref>M1860</ref><unicode>ᠮᠣᠳᠣᠯᠢᠬᠳᠠᠭᠣ</unicode><transcript>moduliγdaγu</transcript><transcript2>modoligdago</transcript2><cyrillic>модлогдуу</cyrillic></item>
 <item><ref>M1861</ref><unicode>ᠮᠣᠲᠣᠯᠬᠠᠢ</unicode><transcript>motolqai</transcript><transcript2>modolgai</transcript2><cyrillic>мотолхой</cyrillic></item>
 <item><ref>M1861a</ref><unicode>ᠮᠣᠳᠣᠯᠵᠠᠬᠣ</unicode><transcript>modulǰaqu</transcript><transcript2>modolcago</transcript2><cyrillic>модолзох</cyrillic></item>
-<item><ref>M1862</ref><unicode>ᠮᠣᠳᠣᠴᠢ</unicode><transcript>moduči</transcript><transcript2>modoci</transcript2><cyrillic>модоч</cyrillic></item>
+<item><ref>M1862</ref><unicode>ᠮᠣᠳᠣᠴᠢ</unicode><transcript>moduči</transcript><transcript2>modoci</transcript2><cyrillic>модоч</cyrillic><variants><v t="unicode">ᠮᠣᠳᠣᠴᠢᠨ</v><v t="cyrillic">модочин</v></variants></item>
 <item><ref>M1863</ref><unicode>ᠮᠣᠳᠣᠵᠢᠬᠣ</unicode><transcript>moduǰiqu</transcript><transcript2>modocigo</transcript2><cyrillic>моджих</cyrillic></item>
 <item><ref>M1864</ref><unicode>ᠮᠣᠳᠣᠵᠢᠭᠣᠯᠬᠣ</unicode><transcript>moduǰiγulqu</transcript><transcript2>modocigolgo</transcript2><cyrillic>моджуулах</cyrillic></item>
 <item><ref>M1865</ref><unicode>ᠮᠣᠲᠣᠴᠢᠺᠠᠯ</unicode><transcript>motočikel</transcript><transcript2>modocigel</transcript2><cyrillic>мотоцикл</cyrillic></item>
@@ -57374,7 +57374,7 @@
 <item><ref>C1845a</ref><unicode>ᠴᠢᠯᠠᠭᠤᠲᠤᠬᠤ</unicode><transcript>čilaγutuqu</transcript><transcript2>cilagodogo</transcript2><cyrillic>чулуутах</cyrillic></item>
 <item><ref>C1846</ref><unicode>ᠴᠢᠯᠠᠭᠣᠯᠢᠬ</unicode><transcript>čilaγuliγ</transcript><transcript2>cilagolig</transcript2><cyrillic>чулуулаг</cyrillic></item>
 <item><ref>C1847</ref><unicode>ᠴᠢᠯᠠᠭᠣᠯᠬᠣ</unicode><transcript>čilaγulqu</transcript><transcript2>cilagolgo</transcript2><cyrillic></cyrillic></item>
-<item><ref>C1848</ref><unicode>ᠴᠢᠯᠠᠭᠣᠴᠢ</unicode><transcript>čilaγuči</transcript><transcript2>cilagoci</transcript2><cyrillic>чулууч</cyrillic></item>
+<item><ref>C1848</ref><unicode>ᠴᠢᠯᠠᠭᠣᠴᠢ</unicode><transcript>čilaγuči</transcript><transcript2>cilagoci</transcript2><cyrillic>чулууч</cyrillic><variants><v t="unicode">ᠴᠢᠯᠠᠭᠣᠴᠢᠨ</v><v t="cyrillic">чулуучин</v></variants></item>
 <item><ref>C1849</ref><unicode>ᠴᠢᠯᠠᠭᠣᠵᠢᠬᠣ</unicode><transcript>čilaγuǰiqu</transcript><transcript2>cilagocigo</transcript2><cyrillic>чулуужих</cyrillic></item>
 <item><ref>C1850</ref><unicode>ᠴᠢᠯᠠᠭᠣᠵᠢᠭᠣᠯᠬᠣ</unicode><transcript>čilaγuǰiγulqu</transcript><transcript2>cilagocigolgo</transcript2><cyrillic>чулуужуулах</cyrillic></item>
 <item><ref>C1850a</ref><unicode>ᠴᠢᠯᠠᠭᠣᠵᠢᠯ</unicode><transcript>čilaγuǰil</transcript><transcript2>cilagocil</transcript2><cyrillic>чулуужил</cyrillic></item>
@@ -64568,7 +64568,7 @@
 <item><ref>K5071</ref><unicode>ᠺᠥᠷᠥᠺᠡᠯᠲᠡ</unicode><transcript>körügelte</transcript><transcript2>görögelde</transcript2><cyrillic>хөргөлт</cyrillic></item>
 <item><ref>K5072</ref><unicode>ᠺᠥᠷᠥᠺᠡᠯᠴᠢ</unicode><transcript>görügelči</transcript><transcript2>görögelci</transcript2><cyrillic>гөрөөлч</cyrillic></item>
 <item><ref>K5073</ref><unicode>ᠺᠥᠷᠥᠺᠡᠯᠺᠡ</unicode><transcript>körügelge</transcript><transcript2>görögelge</transcript2><cyrillic></cyrillic></item>
-<item><ref>K5074</ref><unicode>ᠭᠥᠷᠦᠭᠡᠴᠢ</unicode><transcript>görügeči</transcript><transcript2>görögeci</transcript2><cyrillic>гөрөөч</cyrillic></item>
+<item><ref>K5074</ref><unicode>ᠭᠥᠷᠦᠭᠡᠴᠢ</unicode><transcript>görügeči</transcript><transcript2>görögeci</transcript2><cyrillic>гөрөөч</cyrillic><variants><v t="unicode">ᠭᠥᠷᠦᠭᠡᠴᠢᠨ</v><v t="cyrillic">гөрөөчин</v></variants></item>
 <item><ref>K5075</ref><unicode>ᠭᠥᠷᠦᠭᠡᠴᠢᠯᠡᠺᠦ</unicode><transcript>görügečilekü</transcript><transcript2>görögecilegö</transcript2><cyrillic>гөрөөчлөх</cyrillic></item>
 <item><ref>K5076</ref><unicode>ᠭᠥᠷᠦᠭᠡᠴᠢᠯᠡᠭᠦᠯᠺᠦ</unicode><transcript>görügečilegülkü</transcript><transcript2>görögecilegölgö</transcript2><cyrillic>гөрөөчлүүлэх</cyrillic></item>
 <item><ref>K5077</ref><unicode>ᠺᠥᠷᠥᠺᠡᠺᠡᠺᠥ</unicode><transcript>körügegekü</transcript><transcript2>görögegegö</transcript2><cyrillic>хөргөөх</cyrillic></item>
@@ -64954,7 +64954,7 @@
 <item><ref>Y0055a</ref><unicode>ᠵᠠᠨᠳᠠᠯᠯᠠᠭ᠎ᠠ</unicode><transcript>ǰandallaγ-a</transcript><transcript2>yandallaga</transcript2><cyrillic>зандаллага</cyrillic></item>
 <item><ref>Y0056</ref><unicode>ᠵᠠᠨᠲᠠᠯᠵᠠᠬᠣ</unicode><transcript>ǰantalǰaqu</transcript><transcript2>yandalcago</transcript2><cyrillic>занталзах</cyrillic></item>
 <item><ref>Y0057</ref><unicode>ᠵᠠᠨᠲᠠᠯᠵᠠᠭᠣᠯᠬᠣ</unicode><transcript>ǰantalǰaγulqu</transcript><transcript2>yandalcagolgo</transcript2><cyrillic>занталзуулах</cyrillic></item>
-<item><ref>Y0058</ref><unicode>ᠵᠠᠨᠳᠠᠯᠴᠢ</unicode><transcript>ǰandalči</transcript><transcript2>yandalci</transcript2><cyrillic>зандалч</cyrillic></item>
+<item><ref>Y0058</ref><unicode>ᠵᠠᠨᠳᠠᠯᠴᠢ</unicode><transcript>ǰandalči</transcript><transcript2>yandalci</transcript2><cyrillic>зандалч</cyrillic><variants><v t="unicode">ᠵᠠᠨᠳᠠᠯᠴᠢᠨ</v></variants></item>
 <item><ref>Y0059</ref><unicode>ᠵᠠᠨᠳᠠᠯᠺᠢᠯᠡᠺᠥ</unicode><transcript>ǰandalkilekü</transcript><transcript2>yandalgilegö</transcript2><cyrillic>зандалхийлэх</cyrillic></item>
 <item><ref>Y0059a</ref><unicode>ᠶᠠᠨᠳᠠᠮᠠᠨᠢ</unicode><transcript>yandamani</transcript><transcript2>yandamani</transcript2><cyrillic></cyrillic></item>
 <item><ref>Y0060</ref><unicode>ᠶᠠᠨᠳᠠᠴᠠᠭᠠᠬᠣ</unicode><transcript>yandačaγaqu</transcript><transcript2>yandacagago</transcript2><cyrillic>яндацгаах</cyrillic></item>
@@ -68679,7 +68679,7 @@
 <item><ref>Y3464a</ref><unicode>ᠵᠢᠷᠣᠬᠠᠯᠠᠬᠣ</unicode><transcript>ǰiruqalaqu</transcript><transcript2>yirogalago</transcript2><cyrillic>зурхаалах</cyrillic></item>
 <item><ref>Y3465</ref><unicode>ᠵᠢᠷᠣᠭᠠᠯᠠᠭᠣᠯᠬᠣ</unicode><transcript>ǰiruγalaγulqu</transcript><transcript2>yirogalagolgo</transcript2><cyrillic>жороолуулах</cyrillic></item>
 <item><ref>Y3466</ref><unicode>ᠵᠢᠷᠣᠭᠠᠯᠠᠴᠢᠬᠠᠬᠣ</unicode><transcript>ǰiruγalačiqaqu</transcript><transcript2>yirogalacigago</transcript2><cyrillic>жороолчихох</cyrillic></item>
-<item><ref>Y3467</ref><unicode>ᠵᠢᠷᠣᠭᠠᠴᠢ</unicode><transcript>ǰiruγači</transcript><transcript2>yirogaci</transcript2><cyrillic>зураач</cyrillic></item>
+<item><ref>Y3467</ref><unicode>ᠵᠢᠷᠣᠭᠠᠴᠢ</unicode><transcript>ǰiruγači</transcript><transcript2>yirogaci</transcript2><cyrillic>зураач</cyrillic><variants><v t="unicode">ᠵᠢᠷᠣᠭᠠᠴᠢᠨ</v><v t="cyrillic">зураачин</v></variants></item>
 <item><ref>Y3468</ref><unicode>ᠵᠢᠷᠣᠬᠠᠶᠢᠲᠣ</unicode><transcript>ǰiruqayitu</transcript><transcript2>yirogayido</transcript2><cyrillic>зурхайт</cyrillic><variants><v t="unicode">ᠵᠢᠷᠤᠬᠠᠢ ᠎ᠲᠤ</v></variants></item>
 <item><ref>Y3469</ref><unicode>ᠵᠢᠷᠣᠬᠠᠶᠢᠴᠢ</unicode><transcript>ǰiruqayiči</transcript><transcript2>yirogayici</transcript2><cyrillic>зурхайч</cyrillic></item>
 <item><ref>Y3470</ref><unicode>ᠵᠢᠷᠣᠬᠠᠶᠢᠴᠢᠯᠠᠬᠣ</unicode><transcript>ǰiruqayičilaqu</transcript><transcript2>yirogayicilago</transcript2><cyrillic>зурхайчлах</cyrillic></item>
@@ -72633,4 +72633,20 @@
 <item><ref>Q7459</ref><unicode>ᠬᠤᠳᠬᠤᠭᠴᠢ</unicode><transcript>qudquγči</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
 <item><ref>B9040</ref><unicode>ᠪᠢᠮᠪᠢᠰᠠᠷᠠ</unicode><transcript>bimbisara</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
 <item><ref>K5321</ref><unicode>ᠺᠢᠷᠢᠺᠢ</unicode><transcript>kiriki</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>K5322</ref><unicode>ᠺᠥᠯᠭᠡᠯᠡᠭᠴᠢ</unicode><transcript>kölgelegči</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>B9041</ref><unicode>ᠪᠠᠨᠳᠠᠳᠠ</unicode><transcript>bandada</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>Y5573</ref><unicode>ᠵᠢᠰᠠᠭᠠᠯᠠᠯ</unicode><transcript>ǰisaγalal</transcript><transcript2>jisaqalal</transcript2><cyrillic></cyrillic></item>
+<item><ref>Q7460</ref><unicode>ᠬᠠᠳᠠᠰᠤᠲᠤ</unicode><transcript>qadasutu</transcript><transcript2></transcript2><cyrillic></cyrillic><variants><v t="unicode">ᠬᠠᠳᠠᠰᠤ ᠎ᠲᠤ</v></variants></item>
+<item><ref>S7177</ref><unicode>ᠰᠢᠭᠦᠷᠳᠡᠭᠴᠢ</unicode><transcript>sigürdegči</transcript><transcript2></transcript2><cyrillic></cyrillic><variants><v t="unicode">ᠰᠢᠭᠦᠷᠳᠡᠭᠴᠢᠨ</v></variants></item>
+<item><ref>T9661</ref><unicode>ᠳᠣᠲᠤᠷᠠᠳᠤ</unicode><transcript>doturadu</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>T9662</ref><unicode>ᠲᠦᠭᠡᠭᠡᠯᠴᠢ</unicode><transcript>tügegelči</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>N2781</ref><unicode>ᠨᠠᠭᠠᠳᠤᠴᠢ</unicode><transcript>naγaduči</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>Q7461</ref><unicode>ᠬᠠᠯᠠᠭᠴᠢ</unicode><transcript>qalaγči</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>E2534</ref><unicode>ᠡᠭᠦᠳᠡᠭᠴᠢ</unicode><transcript>egüdegči</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>M2477</ref><unicode>ᠮᠡᠯᠴᠢᠶᠡᠯᠡᠺᠦ</unicode><transcript>melčiyelekü</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>M2478</ref><unicode>ᠮᠡᠯᠴᠢᠶᠡᠯᠡᠭᠴᠢ</unicode><transcript>melčiyelegči</transcript><transcript2></transcript2><cyrillic></cyrillic><variants><v t="unicode">ᠮᠡᠯᠴᠢᠶᠡᠯᠡᠭᠴᠢᠨ</v></variants></item>
+<item><ref>T9663</ref><unicode>ᠳᠡᠪᠢᠰᠭᠡᠷᠴᠢ</unicode><transcript>debisgerči</transcript><transcript2></transcript2><cyrillic></cyrillic><variants><v t="unicode">ᠳᠡᠪᠢᠰᠭᠡᠷᠴᠢᠨ</v></variants></item>
+<item><ref>K5323</ref><unicode>ᠺᠡᠯᠺᠢᠭᠴᠢ</unicode><transcript>kelkigči</transcript><transcript2></transcript2><cyrillic></cyrillic><variants><v t="unicode">ᠺᠡᠯᠺᠢᠭᠴᠢᠨ</v></variants></item>
+<item><ref>K5324</ref><unicode>ᠺᠦᠷᠡᠯᠴᠢ</unicode><transcript>kürelči</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>E2535</ref><unicode>ᠡᠷᠳᠡᠨᠢᠴᠢ</unicode><transcript>erdeniči</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
 </list>
