@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="B2783">
   <head>
     <unicode>ᠪᠣᠭᠣᠮᠲᠠ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>bogomda</transcript2>
     <cyrillic>боомт</cyrillic>
   </head>
+  <derivatives>
+    <ref>B9042</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>

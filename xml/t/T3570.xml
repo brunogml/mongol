@@ -6,6 +6,9 @@
     <transcript2>debderci</transcript2>
     <cyrillic>дэвтэрч</cyrillic>
   </head>
+  <related_to>
+    <ref>T3562</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -33,8 +36,8 @@
       <dico>lamrd</dico>
       <unicode>ᠳᠠᠪᠲᠠᠷᠴᠢ</unicode>
       <cyrillic>ДЭВТЭРЧ</cyrillic>
-      <definition>архивариус; библиотекарь. </definition>
+      <definition>архивариус; библиотекарь.</definition>
       <page>0</page>
     </entry_item>
   </entries>
-<related_to><ref>T3562</ref></related_to></entry>
+</entry>
