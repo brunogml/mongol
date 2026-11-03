@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K5014">
   <head>
     <unicode>ᠺᠥᠷᠥᠰᠥ</unicode>
@@ -6,6 +6,13 @@
     <transcript2>görösö</transcript2>
     <cyrillic>хөрс</cyrillic>
   </head>
+  <derivatives>
+    <ref>K5015</ref>
+    <ref>K5016</ref>
+    <ref>K5019</ref>
+    <ref>K5021</ref>
+    <ref>K5023</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -78,7 +85,7 @@
     <entry_item>
       <dico>Vietze</dico>
       <cyrillic>хөрс[эн]</cyrillic>
-      <definition>1. Boden m, Erdreich n, Grund m; ~өн нурус[ан] Grundwasser n; ~ сайжруулах ажил Meliorationsarbeiten Pl; ~ судлал Bodenkunde f; ~ судлалч Bodenkundler m; ~ үржилт fruchtbarer Boden
+      <definition>1. Boden m, Erdreich n, Grund m; ~өн нурус[ан] Grundwasser n; ~ сайжруулах ажил Meliorationsarbeiten Pl; ~ судлал Bodenkunde f; ~ судлалч Bodenkundler m; ~ үржилт fruchtbarer Boden&#13;
 2. Häutchen n, Hülle f, Schale f, Kruste f; Belag m</definition>
       <page>322</page>
     </entry_item>
@@ -97,11 +104,4 @@
       <page>717</page>
     </entry_item>
   </entries>
-  <derivatives>
-    <ref>K5015</ref>
-    <ref>K5016</ref>
-    <ref>K5019</ref>
-    <ref>K5021</ref>
-    <ref>K5023</ref>
-  </derivatives>
 </entry>

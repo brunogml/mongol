@@ -24212,7 +24212,7 @@
 <item><ref>Q5245</ref><unicode>ᠭᠣᠳᠣᠭᠣᠳᠠᠬᠣ</unicode><transcript>γoduγudaqu</transcript><transcript2>godogodago</transcript2><cyrillic>годгодох</cyrillic></item>
 <item><ref>Q5246</ref><unicode>ᠭᠣᠳᠣᠭᠣᠳᠠᠭᠣᠯᠬᠣ</unicode><transcript>γoduγudaγulqu</transcript><transcript2>godogodagolgo</transcript2><cyrillic>годгодуулах</cyrillic></item>
 <item><ref>Q5247</ref><unicode>ᠭᠣᠳᠣᠭᠣᠳᠠᠴᠢᠬᠠᠬᠣ</unicode><transcript>γoduγudačiqaqu</transcript><transcript2>godogodacigago</transcript2><cyrillic>годгодчихох</cyrillic></item>
-<item><ref>Q5248</ref><unicode>ᠬᠣᠳᠣᠭᠣᠳᠣ</unicode><transcript>qoduγudu</transcript><transcript2>godogodo</transcript2><cyrillic>ходоод</cyrillic></item>
+<item><ref>Q5248</ref><unicode>ᠬᠣᠳᠣᠭᠣᠳᠣ</unicode><transcript>qoduγudu</transcript><transcript2>godogodo</transcript2><cyrillic>ходоод</cyrillic><variants><v t="unicode">ᠬᠣᠳᠣᠭᠣᠳᠣᠨ</v><v t="cyrillic">ходоодон</v></variants></item>
 <item><ref>Q5249</ref><unicode>ᠭᠣᠲᠣᠭᠣᠯᠬᠣ</unicode><transcript>γutuγulqu</transcript><transcript2>godogolgo</transcript2><cyrillic></cyrillic></item>
 <item><ref>Q5250</ref><unicode>ᠬᠣᠳᠣᠭᠣᠴᠢᠨ</unicode><transcript>qoduγučin</transcript><transcript2>godogocin</transcript2><cyrillic>ходогчин</cyrillic></item>
 <item><ref>Q5251</ref><unicode>ᠭᠣᠳᠣᠭᠣᠴᠢᠨ</unicode><transcript>γoduγučin</transcript><transcript2>godogocin</transcript2><cyrillic>годгочин</cyrillic></item>
@@ -28729,7 +28729,7 @@
 <item><ref>B1832</ref><unicode>ᠪᠠᠯᠺᠠᠺᠠᠨᠠᠺᠥᠯᠺᠥ</unicode><transcript>belkegenegülkü</transcript><transcript2>belgegenegölgö</transcript2><cyrillic>бэлхгэнүүлэх</cyrillic></item>
 <item><ref>B1833</ref><unicode>ᠪᠠᠯᠺᠠᠺᠠᠷ</unicode><transcript>belkeger</transcript><transcript2>belgeger</transcript2><cyrillic>бэлхгэр</cyrillic></item>
 <item><ref>B1833a</ref><unicode>ᠪᠠᠯᠺᠠᠺᠠᠷᠳᠠᠺᠥ</unicode><transcript>belkegerdekü</transcript><transcript2>belgegerdegö</transcript2><cyrillic>бэлхгэрдэх</cyrillic></item>
-<item><ref>B1834</ref><unicode>ᠪᠠᠯᠺᠠᠺᠥᠰᠥ</unicode><transcript>belkegüsü</transcript><transcript2>belgegösö</transcript2><cyrillic>бэлхүүс</cyrillic></item>
+<item><ref>B1834</ref><unicode>ᠪᠠᠯᠺᠠᠺᠥᠰᠥ</unicode><transcript>belkegüsü</transcript><transcript2>belgegösö</transcript2><cyrillic>бэлхүүс</cyrillic><variants><v t="unicode">ᠪᠡᠯᠺᠡᠭᠦᠰᠦᠨ</v><v t="cyrillic">бэлхүүсэн</v></variants></item>
 <item><ref>B1835</ref><unicode>ᠪᠠᠯᠺᠠᠺᠥᠰᠥᠪᠴᠢ</unicode><transcript>belkegüsübči</transcript><transcript2>belgegösöbci</transcript2><cyrillic>бэлхүүсэвч</cyrillic></item>
 <item><ref>B1836</ref><unicode>ᠪᠠᠯᠺᠠᠺᠥᠰᠥᠲᠥ</unicode><transcript>belkegüsütü</transcript><transcript2>belgegösödö</transcript2><cyrillic></cyrillic></item>
 <item><ref>B1837</ref><unicode>ᠪᠠᠯᠺᠠᠺᠥᠰᠥᠯᠠᠺᠥ</unicode><transcript>belkegüsülekü</transcript><transcript2>belgegösölegö</transcript2><cyrillic>бэлхүүслэх</cyrillic></item>
@@ -32102,7 +32102,7 @@
 <item><ref>B4730</ref><unicode>ᠪᠥᠺᠠᠶᠢᠯ</unicode><transcript>bökeyil</transcript><transcript2>bögeyil</transcript2><cyrillic></cyrillic></item>
 <item><ref>B4731</ref><unicode>ᠪᠥᠺᠠᠶᠢᠺᠥ</unicode><transcript>bökeyikü</transcript><transcript2>bögeyigö</transcript2><cyrillic></cyrillic></item>
 <item><ref>B4732</ref><unicode>ᠪᠥᠺᠠᠷ</unicode><transcript>böger</transcript><transcript2>böger</transcript2><cyrillic>бөгөр</cyrillic></item>
-<item><ref>B4733</ref><unicode>ᠪᠥᠭᠡᠷ᠎ᠡ</unicode><transcript>böger-e</transcript><transcript2>böger-e</transcript2><cyrillic>бөөр</cyrillic><variants><v t="unicode">ᠪᠥᠭᠡᠷᠡ</v><v t="unicode">ᠪᠥᠭᠡᠷᠡᠨ</v><v t="unicode">бөөрөн</v></variants></item>
+<item><ref>B4733</ref><unicode>ᠪᠥᠭᠡᠷ᠎ᠡ</unicode><transcript>böger-e</transcript><transcript2>böger-e</transcript2><cyrillic>бөөр</cyrillic><variants><v t="unicode">ᠪᠥᠭᠡᠷᠡ</v><v t="unicode">ᠪᠥᠭᠡᠷᠡᠨ</v><v t="cyrillic">бөөрөн</v></variants></item>
 <item><ref>B4734</ref><unicode>ᠪᠥᠺᠠᠷᠠᠨᠴᠠᠺ</unicode><transcript>bügerenčeg</transcript><transcript2>bögerenceg</transcript2><cyrillic>бөөрөнцөг</cyrillic></item>
 <item><ref>B4735</ref><unicode>ᠪᠥᠺᠠᠷᠠᠩᠺᠠᠢ</unicode><transcript>bügerengkei</transcript><transcript2>bögerenggei</transcript2><cyrillic>бөөрөнхий</cyrillic></item>
 <item><ref>B4736</ref><unicode>ᠪᠥᠺᠠᠷᠠᠩᠺᠠᠶᠢᠳᠠᠺᠥ</unicode><transcript>bügerengkeyidekü</transcript><transcript2>bögerenggeyidegö</transcript2><cyrillic>бөөрөнхийдөх</cyrillic></item>
@@ -37153,7 +37153,7 @@
 <item><ref>S3975</ref><unicode>ᠰᠢᠯᠪᠠᠬᠠᠨ</unicode><transcript>silbaqan</transcript><transcript2>silbagan</transcript2><cyrillic>шалавхан</cyrillic></item>
 <item><ref>S3976</ref><unicode>ᠰᠢᠯᠪᠠᠺᠥᠰᠥᠨ</unicode><transcript>silbegüsün</transcript><transcript2>silbegösön</transcript2><cyrillic></cyrillic></item>
 <item><ref>S3977</ref><unicode>ᠰᠢᠯᠪᠢ</unicode><transcript>silbi</transcript><transcript2>silbi</transcript2><cyrillic>шилэв</cyrillic></item>
-<item><ref>S3978</ref><unicode>ᠰᠢᠯᠪᠢᠲᠥ</unicode><transcript>silbitü</transcript><transcript2>silbidö</transcript2><cyrillic>шилбэт</cyrillic></item>
+<item><ref>S3978</ref><unicode>ᠰᠢᠯᠪᠢᠲᠥ</unicode><transcript>silbitü</transcript><transcript2>silbidö</transcript2><cyrillic>шилбэт</cyrillic><variants><v t="unicode">ᠰᠢᠯᠪᠢ ᠎ᠲᠦ</v></variants></item>
 <item><ref>S3979</ref><unicode>ᠰᠢᠯᠪᠢᠺᠥᠷ</unicode><transcript>silbigür</transcript><transcript2>silbigör</transcript2><cyrillic>шилбүүр</cyrillic></item>
 <item><ref>S3980</ref><unicode>ᠰᠢᠯᠪᠢᠺᠥᠷᠲᠠᠨ</unicode><transcript>silbigürten</transcript><transcript2>silbigörden</transcript2><cyrillic>шилбүүртэн</cyrillic></item>
 <item><ref>S3981</ref><unicode>ᠰᠢᠯᠪᠢᠺᠥᠷᠳᠠᠴᠠᠺᠠᠺᠥ</unicode><transcript>silbigürdečegekü</transcript><transcript2>silbigördecegegö</transcript2><cyrillic>шилбүүрдэцгээх</cyrillic></item>
@@ -45023,7 +45023,7 @@
 <item><ref>T3911</ref><unicode>ᠳᠠᠯᠢᠺᠠᠷ</unicode><transcript>deliger</transcript><transcript2>deliger</transcript2><cyrillic>дэлигэр</cyrillic></item>
 <item><ref>T3912</ref><unicode>ᠲᠠᠯᠢᠺᠥ</unicode><transcript>telikü</transcript><transcript2>deligö</transcript2><cyrillic>тэлэх</cyrillic></item>
 <item><ref>T3913</ref><unicode>ᠳᠠᠯᠢᠺᠥ</unicode><transcript>delikü</transcript><transcript2>deligö</transcript2><cyrillic>дэлэх</cyrillic></item>
-<item><ref>T3914</ref><unicode>ᠳᠠᠯᠢᠺᠥᠥ</unicode><transcript>deligüü</transcript><transcript2>deligöö</transcript2><cyrillic>дэлүү</cyrillic></item>
+<item><ref>T3914</ref><unicode>ᠳᠠᠯᠢᠺᠥᠥ</unicode><transcript>deligüü</transcript><transcript2>deligöö</transcript2><cyrillic>дэлүү</cyrillic><variants><v t="unicode">ᠳᠠᠯᠢᠺᠥᠥᠨ</v><v t="cyrillic">дэлүүн</v></variants></item>
 <item><ref>T3915</ref><unicode>ᠳᠠᠯᠢᠺᠥᠨ</unicode><transcript>deligün</transcript><transcript2>deligön</transcript2><cyrillic>дэлүүн</cyrillic></item>
 <item><ref>T3916</ref><unicode>ᠳᠠᠯᠢᠺᠥᠲᠠᠺᠥ</unicode><transcript>deligütekü</transcript><transcript2>deligödegö</transcript2><cyrillic>дэлүүтэх</cyrillic></item>
 <item><ref>T3917</ref><unicode>ᠳᠠᠯᠢᠺᠥᠳᠠᠺᠥ</unicode><transcript>deligüdekü</transcript><transcript2>deligödegö</transcript2><cyrillic>дэлүүдэх</cyrillic></item>
@@ -64506,7 +64506,7 @@
 <item><ref>K5011</ref><unicode>ᠺᠥᠷᠥᠪᠵᠢᠺᠥᠯᠺᠥ</unicode><transcript>köröbǰigülkü</transcript><transcript2>göröbcigölgö</transcript2><cyrillic>хөрөвжүүлэх</cyrillic></item>
 <item><ref>K5012</ref><unicode>ᠭᠥᠷᠦᠰ</unicode><transcript>görüs</transcript><transcript2>görös</transcript2><cyrillic>гөрш</cyrillic></item>
 <item><ref>K5013</ref><unicode>ᠺᠥᠷᠥᠰᠢ</unicode><transcript>kürüsi</transcript><transcript2>görösi</transcript2><cyrillic>хүрш</cyrillic></item>
-<item><ref>K5014</ref><unicode>ᠺᠥᠷᠥᠰᠥ</unicode><transcript>körüsü</transcript><transcript2>görösö</transcript2><cyrillic>хөрс</cyrillic><variants><v t="unicode">ᠺᠥᠷᠦᠰᠦᠨ</v></variants></item>
+<item><ref>K5014</ref><unicode>ᠺᠥᠷᠥᠰᠥ</unicode><transcript>körüsü</transcript><transcript2>görösö</transcript2><cyrillic>хөрс</cyrillic><variants><v t="unicode">ᠺᠥᠷᠦᠰᠦᠨ</v><v t="cyrillic">хөрсөн</v></variants></item>
 <item><ref>K5015</ref><unicode>ᠺᠥᠷᠦᠰᠦᠲᠡᠢ</unicode><transcript>körüsütei</transcript><transcript2>görösödei</transcript2><cyrillic>хөрстэй</cyrillic></item>
 <item><ref>K5016</ref><unicode>ᠺᠥᠷᠥᠰᠥᠲᠥ</unicode><transcript>körüsütü</transcript><transcript2>görösödö</transcript2><cyrillic>хөрст</cyrillic><variants><v t="unicode">ᠺᠥᠷᠦᠰᠦ ᠎ᠲᠦ</v></variants></item>
 <item><ref>K5017</ref><unicode>ᠺᠥᠷᠥᠰᠥᠯᠡᠯ</unicode><transcript>körüsülel</transcript><transcript2>görösölel</transcript2><cyrillic>хөрслөл</cyrillic></item>
