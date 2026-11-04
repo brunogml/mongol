@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="E0138">
   <head>
     <unicode>ᠡᠩᠭᠡᠷ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>engger</transcript2>
     <cyrillic>энгэр</cyrillic>
   </head>
+  <derivatives>
+    <ref>E2537</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -123,22 +126,26 @@
     <entry_item>
       <dico>Vietze</dico>
       <cyrillic>энгэр</cyrillic>
-      <definition>1. Kleidung Aufschlag m, Revers m; Vorderseite f
+      <definition>1. Kleidung Aufschlag m, Revers m; Vorderseite f
+
 2. Berghang m, Bergseite f; далайн ~ Meeresküste f</definition>
       <page>400</page>
     </entry_item>
     <entry_item>
       <dico>Vietze</dico>
       <cyrillic>энгэр</cyrillic>
-      <definition>1. Kleidung Aufschlag m; Brustlatz m; ~ ярах = энгэдэх 
+      <definition>1. Kleidung Aufschlag m; Brustlatz m; ~ ярах = энгэдэх 
+
 2. Berg Südseite f, Sonnenseite f</definition>
       <page>401</page>
     </entry_item>
     <entry_item>
       <dico>Vietze</dico>
       <cyrillic>энгэрийн</cyrillic>
-      <definition>(Gen von энгэр) 
-1. Kleidung Brustlatz-; ~ зүүлт Verzierungen Pl am Brustlatz; ~ цаг Taschenuhr f 
+      <definition>(Gen von энгэр) 
+
+1. Kleidung Brustlatz-; ~ зүүлт Verzierungen Pl am Brustlatz; ~ цаг Taschenuhr f 
+
 2. Berg Südseiten-; уулын ~ зам der Weg an der Südseite des Berges</definition>
       <page>401</page>
     </entry_item>

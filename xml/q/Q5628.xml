@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q5628">
   <head>
     <unicode>ᠬᠣᠯᠣᠰᠣ</unicode>
@@ -167,5 +167,5 @@
   <derivatives>
     <ref>Q5629</ref>
     <ref>Q5630</ref>
-  </derivatives>
+  <ref>Q7464</ref></derivatives>
 </entry>

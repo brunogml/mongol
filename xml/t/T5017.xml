@@ -1,6 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T5017">
   <head>
+    <unicode>ᠳᠢᠫᠯᠣᠮᠠᠲ</unicode>
     <transcript>diplomat</transcript>
     <transcript2>diplomad</transcript2>
     <cyrillic>дипломат</cyrillic>
@@ -18,7 +19,7 @@
         <example>
           <unicode>ᠳᠢᠫᠯᠣᠮᠠᠲ ᠬᠠᠷᠢᠯᠴᠠᠭ᠎ᠠ</unicode>
           <transcript>-- xarilcaγ-a</transcript>
-          <definition> Diplomatic relations</definition>
+          <definition>Diplomatic relations</definition>
         </example>
       </examples>
     </entry_item>
@@ -32,13 +33,13 @@
     <entry_item>
       <dico>lamrd</dico>
       <cyrillic>ДИПЛОМАТ</cyrillic>
-      <definition>1. 1) дипломат; 2) дипломатия; 2. 1) дипломатический, дипломатичный; дипломат корпусын тэргүүн дуайен; лицо, возглавляющее дипломатический корпус; дипломат төлөөлөгчийн газар дипломатическое представительство; дипломат харилцаа дипломатические отношения; 2) дипломированный; 3. дипломатично, дипломатически. </definition>
+      <definition>1. 1) дипломат; 2) дипломатия; 2. 1) дипломатический, дипломатичный; дипломат корпусын тэргүүн дуайен; лицо, возглавляющее дипломатический корпус; дипломат төлөөлөгчийн газар дипломатическое представительство; дипломат харилцаа дипломатические отношения; 2) дипломированный; 3. дипломатично, дипломатически.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>Vietze</dico>
       <cyrillic>дипломат</cyrillic>
-      <definition>1. Diplomat m
+      <definition>1. Diplomat m&#13;
 2. diplomatisch; ~ халдашгүй эрх diplomatische Immunität; ~ корпус das diplomatische Korps; ~ корпусын ахлагч Doyen m; ~ тeлoolorgчдийн газар diplomatische Vertretung</definition>
       <page>94</page>
     </entry_item>

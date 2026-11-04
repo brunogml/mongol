@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="U2782">
   <head>
     <unicode>ᠣᠷᠣᠰᠢᠯᠲᠠᠢ</unicode>
@@ -9,6 +9,9 @@
   <see_also>
     <ref>U2783</ref>
   </see_also>
+  <related_to>
+    <ref>U2781</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -36,14 +39,14 @@
       <dico>lamrd</dico>
       <unicode>ᠣᠷᠣᠰᠢᠯᠲᠠᠢ</unicode>
       <cyrillic>ОРШИЛТОЙ</cyrillic>
-      <definition>I 1) степенный, спокойный; устойчивый; постоянный, твёрдый (в мыслях), положительный; 2) вместительный; оршилт тэвш вместительная чашка; ваза. </definition>
+      <definition>I 1) степенный, спокойный; устойчивый; постоянный, твёрдый (в мыслях), положительный; 2) вместительный; оршилт тэвш вместительная чашка; ваза.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠣᠷᠣᠰᠢᠯᠲᠠᠢ</unicode>
       <cyrillic>ОРШИЛТОЙ</cyrillic>
-      <definition>II такой, где следует поселиться; оршилтой газар место, где следует поселиться. </definition>
+      <definition>II такой, где следует поселиться; оршилтой газар место, где следует поселиться.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -54,7 +57,4 @@
       <page>426</page>
     </entry_item>
   </entries>
-  <related_to>
-    <ref>U2781</ref>
-  </related_to>
 </entry>
