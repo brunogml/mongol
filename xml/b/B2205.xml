@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="B2205">
   <head>
     <unicode>ᠪᠢᠲᠠᠺᠥᠥ</unicode>
@@ -8,6 +8,7 @@
   </head>
   <see_also>
     <ref>B2246</ref>
+    <ref>B2204</ref>
   </see_also>
   <entries>
     <entry_item>
@@ -169,8 +170,10 @@
     <entry_item>
       <dico>Vietze</dico>
       <cyrillic>битүү</cyrillic>
-      <definition>1. geschlossen; ~ вагон geschlossener Güterwaggon; ~ шарх[ан] geschlossene Wunde 
-2. dicht; dick; ~ манан dichter Nebel; ~ хууз od сахал Vollbart m; ~ цас[ан] dichte Schneedecke 
+      <definition>1. geschlossen; ~ вагон geschlossener Güterwaggon; ~ шарх[ан] geschlossene Wunde 
+
+2. dicht; dick; ~ манан dichter Nebel; ~ хууз od сахал Vollbart m; ~ цас[ан] dichte Schneedecke 
+
 3. geheim, heimlich; ~ үг[эн] Andeutung f, Anspielung f; ~ яриа[н] geheimes Gespräch</definition>
       <page>52</page>
     </entry_item>

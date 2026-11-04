@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T2783">
   <head>
     <unicode>ᠲᠠᠷᠨᠢᠴᠢ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>darnici</transcript2>
     <cyrillic>тарнич</cyrillic>
   </head>
+  <related_to>
+    <ref>T2778</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -19,7 +22,7 @@
     <entry_item>
       <dico>Lessing</dico>
       <unicode>ᠲᠠᠷᠨᠢᠴᠢ</unicode>
-      <transcript>TARNICI </transcript>
+      <transcript>TARNICI</transcript>
       <definition>T. sngags pa; S. mantrin. One versed in the mantras, or magical formulas; sorcerer.</definition>
       <page>1185</page>
     </entry_item>
@@ -40,7 +43,7 @@
       <dico>lamrd</dico>
       <unicode>ᠲᠠᠷᠨᠢᠴᠢ</unicode>
       <cyrillic>ТАРНИЧ</cyrillic>
-      <definition>заклинатель; тарнич лам лама, знающий заклинания, заклинатель. </definition>
+      <definition>заклинатель; тарнич лам лама, знающий заклинания, заклинатель.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -51,7 +54,4 @@
       <page>523</page>
     </entry_item>
   </entries>
-  <related_to>
-    <ref>T2778</ref>
-  </related_to>
 </entry>

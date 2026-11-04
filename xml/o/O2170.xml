@@ -6,6 +6,9 @@
     <transcript2>örgesödei</transcript2>
     <cyrillic>өргөстэй</cyrillic>
   </head>
+  <related_to>
+    <ref>O2169</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -63,8 +66,8 @@
       <dico>lamrd</dico>
       <unicode>ᠥᠷᠺᠠᠰᠥᠲᠠᠢ</unicode>
       <cyrillic>ӨРГӨСТЭЙ</cyrillic>
-      <definition>өргөст-ийг үз. </definition>
+      <definition>өргөст-ийг үз.</definition>
       <page>0</page>
     </entry_item>
   </entries>
-<related_to><ref>O2169</ref></related_to></entry>
+</entry>

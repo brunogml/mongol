@@ -1789,7 +1789,22 @@ if ($ref !== '') {
       }
   }
 
-  /* ── Masthead help / info buttons ── */
+  /* ── Left-nav tool buttons ── */
+  .dict-nav-tools {
+      display: flex; gap: .4rem; flex-wrap: wrap;
+      padding-top: 1.4rem; margin-top: auto;
+  }
+  .nav-tool-btn {
+      border: 1px solid var(--rule); background: transparent;
+      color: var(--ink-soft);
+      font-family: "EB Garamond", serif; font-size: .93rem;
+      padding: .28rem .58rem; cursor: pointer; border-radius: 2px;
+      line-height: 1; transition: color .12s, border-color .12s;
+      flex-shrink: 0;
+  }
+  .nav-tool-btn:hover { color: var(--accent); border-color: var(--accent); }
+
+  /* ── Masthead help / info buttons (kept for backward compat) ── */
   .mast-icon-btn {
       border: 1px solid var(--rule); background: transparent;
       color: var(--ink-soft);
@@ -1799,6 +1814,45 @@ if ($ref !== '') {
       flex-shrink: 0;
   }
   .mast-icon-btn:hover { color: var(--accent); border-color: var(--accent); }
+
+  /* ── Transliteration table in modal ── */
+  .mng-schema-wrap {
+      display: flex; flex-wrap: wrap; gap: 1.4rem 1.8rem;
+      margin-top: .5rem;
+  }
+  .mng-schema-col { flex-shrink: 0; }
+  .mng-schema-head {
+      font-family: "EB Garamond", serif; font-weight: 600;
+      font-size: .78rem; letter-spacing: .1em; text-transform: uppercase;
+      color: var(--ink-soft); margin-bottom: .4rem;
+  }
+  .mng-schema-table {
+      border-collapse: collapse;
+      font-size: .9rem; line-height: 1.5;
+  }
+  .mng-schema-table td {
+      padding: .07rem .45rem .07rem 0;
+      vertical-align: middle;
+  }
+  .mng-schema-table td.sep {
+      font-family: "EB Garamond", serif; font-style: italic;
+      font-size: .72rem; letter-spacing: .08em; text-transform: uppercase;
+      color: var(--ink-soft); padding-top: .45rem; padding-bottom: .1rem;
+      border-top: 1px dotted var(--rule);
+  }
+  .mng-schema-table td.sep:first-child { margin-top: .4rem; }
+  .mng-schema-table .sc {
+      font-family: "Mongolian Baiti", "Noto Sans Mongolian", serif;
+      font-size: 1.05rem; color: var(--ink);
+      writing-mode: vertical-lr; -webkit-writing-mode: vertical-lr;
+      display: inline-block; line-height: 1.1;
+      min-height: 1.4em;
+  }
+  .mng-schema-table .tr {
+      font-family: "EB Garamond", serif; font-size: .97rem;
+      color: var(--accent); padding-left: .5rem;
+      white-space: nowrap;
+  }
 
   /* ── Full-screen modals ── */
   .modal-backdrop {
@@ -2061,12 +2115,6 @@ if ($ref !== '') {
     </div>
 
     <div class="mast-user">
-      <button class="mast-icon-btn" id="btn-search-help"
-              aria-label="Search help" title="How to search"
-              onclick="document.getElementById('modal-search-help').classList.add('open')">?</button>
-      <button class="mast-icon-btn" id="btn-resources"
-              aria-label="About the resources" title="About the resources"
-              onclick="document.getElementById('modal-resources').classList.add('open')">ℹ</button>
       <?php if ($isLoggedIn): ?>
         <?php if ($ref !== ''): ?>
           <a class="mast-edit-link" href="editor/edit.php?ref=<?= urlencode($ref) ?>" title="Edit this entry">✎ Edit</a>
@@ -2179,6 +2227,16 @@ if ($entryXml !== null) {
 			<li><a href="tib.php" target="_blank">Search tibetan entries</a>
 		</ul>
 	    <?php endif; ?>
+
+    <br><br><p class="dict-nav-title">About</p>
+    <div class="dict-nav-tools">
+      <button class="nav-tool-btn" title="How to search"
+              onclick="document.getElementById('modal-search-help').classList.add('open')">?</button>
+      <button class="nav-tool-btn" title="Transliteration table"
+              onclick="document.getElementById('modal-translit').classList.add('open')">Ꭿ</button>
+      <button class="nav-tool-btn" title="About the resources"
+              onclick="document.getElementById('modal-resources').classList.add('open')">ℹ</button>
+    </div>
 
   </nav>
 
@@ -2352,8 +2410,7 @@ if ($entryXml !== null) {
   </div>
   <?php endif; ?>
 
-  <a class="links-graph-btn" href="link.html?id=<?= urlencode($ref) ?>">⇢ Word links graph</a>
-
+ 
   <?php
     // Group sorted items by dictionary, preserving the desired order.
     $groups = [];
@@ -2578,8 +2635,8 @@ if ($entryXml !== null) {
       sources for any headword.
       <br>The grammars of Poppe and Schmidt are accessible and fully searchable.
       <br>A reversed search engine has been added for Tibetan entries.
-      <br>Use the <strong>?</strong> button above to learn about search options,
-      or <strong>ℹ</strong> for detailed descriptions of each resource.
+      <br>Use the <strong>?</strong> button in the left panel to learn about search options,
+      <strong>Ꭿ</strong> for the transcription table, or <strong>ℹ</strong> for detailed descriptions of each resource.
     </p>
     <div class="landing-hero">
       <img src="Mng000.jpg"
@@ -2756,6 +2813,128 @@ document.addEventListener('keydown', function (e) {
   </div>
 </div>
 
+<!-- ── Transliteration modal ── -->
+<div class="modal-backdrop" id="modal-translit" role="dialog" aria-modal="true" aria-labelledby="modal-translit-title">
+  <div class="modal-box" style="max-width:860px;width:95vw;">
+    <button class="modal-close" aria-label="Close" onclick="document.getElementById('modal-translit').classList.remove('open')">✕</button>
+    <h2 class="modal-title" id="modal-translit-title">Transcription</h2>
+    <p class="modal-lead" style="margin-bottom:.9rem;">
+      The site uses a transcription (not a transliteration) of Traditional Mongolian script: each character is rendered by a Roman symbol chosen for readability and practical keyboard entry, rather than a strict one-to-one phonemic mapping. The table below lists every character and its transcription symbol.
+    </p>
+
+    <div class="mng-schema-wrap">
+
+      <div class="mng-schema-col">
+        <div class="mng-schema-head">Vowels</div>
+        <table class="mng-schema-table">
+          <tr><td><span class="sc">ᠠ</span></td><td class="tr">a</td></tr>
+          <tr><td><span class="sc">ᠡ</span></td><td class="tr">e</td></tr>
+          <tr><td><span class="sc">ᠢ</span></td><td class="tr">i</td></tr>
+          <tr><td><span class="sc">ᠣ</span></td><td class="tr">o</td></tr>
+          <tr><td><span class="sc">ᠤ</span></td><td class="tr">u</td></tr>
+          <tr><td><span class="sc">ᠥ</span></td><td class="tr">ö</td></tr>
+          <tr><td><span class="sc">ᠦ</span></td><td class="tr">ü</td></tr>
+          <tr><td><span class="sc">ᠧ</span></td><td class="tr">ê</td></tr>
+        </table>
+      </div>
+
+      <div class="mng-schema-col">
+        <div class="mng-schema-head">Nasals + labials</div>
+        <table class="mng-schema-table">
+          <tr><td class="sep" colspan="2">Nasals</td></tr>
+          <tr><td><span class="sc">ᠨ</span></td><td class="tr">n</td></tr>
+          <tr><td><span class="sc">ᡛ</span></td><td class="tr">ñ</td></tr>
+          <tr><td><span class="sc">ᢏ</span></td><td class="tr">ṇ</td></tr>
+          <tr><td><span class="sc">ᠩ</span></td><td class="tr">ng</td></tr>
+          <tr><td class="sep" colspan="2">Labials</td></tr>
+          <tr><td><span class="sc">ᠪ</span></td><td class="tr">b</td></tr>
+          <tr><td><span class="sc">ᠫ</span></td><td class="tr">p</td></tr>
+          <tr><td><span class="sc">ᢓ</span></td><td class="tr">ph</td></tr>
+          <tr><td><span class="sc">ᠹ</span></td><td class="tr">f</td></tr>
+          <tr><td><span class="sc">ᠮ</span></td><td class="tr">m</td></tr>
+        </table>
+      </div>
+
+      <div class="mng-schema-col">
+        <div class="mng-schema-head">Dentals</div>
+        <table class="mng-schema-table">
+          <tr><td class="sep" colspan="2">Dentals</td></tr>
+          <tr><td><span class="sc">ᠲ</span></td><td class="tr">t</td></tr>
+          <tr><td><span class="sc">ᠳ</span></td><td class="tr">d</td></tr>
+          <tr><td class="sep" colspan="2">Diacritics</td></tr>
+          <tr><td><span class="sc">ᢌ</span></td><td class="tr">ṭ</td></tr>
+          <tr><td><span class="sc">ᢍ</span></td><td class="tr">ṭh</td></tr>
+          <tr><td><span class="sc">ᢎ</span></td><td class="tr">ḍ</td></tr>
+          <tr><td><span class="sc">ᢐ</span></td><td class="tr">ṱ</td></tr>
+          <tr><td><span class="sc">ᢑ</span></td><td class="tr">ḓ</td></tr>
+        </table>
+      </div>
+
+      <div class="mng-schema-col">
+        <div class="mng-schema-head">Sibilants &amp; affricates</div>
+        <table class="mng-schema-table">
+          <tr><td><span class="sc">ᠰ</span></td><td class="tr">s</td></tr>
+          <tr><td><span class="sc">ᠱ</span></td><td class="tr">š</td></tr>
+          <tr><td><span class="sc">ᢔ</span></td><td class="tr">ṣ</td></tr>
+          <tr><td><span class="sc">ᢍ</span></td><td class="tr">ś</td></tr>
+          <tr><td><span class="sc">ᠴ</span></td><td class="tr">č</td></tr>
+          <tr><td><span class="sc">ᠼ</span></td><td class="tr">ç</td></tr>
+          <tr><td><span class="sc">ᠵ</span></td><td class="tr">ǰ</td></tr>
+          <tr><td><span class="sc">ᢖ</span></td><td class="tr">j</td></tr>
+          <tr><td><span class="sc">ᡒ</span></td><td class="tr">ȷ</td></tr>
+          <tr><td><span class="sc">ᠽ</span></td><td class="tr">z</td></tr>
+          <tr><td><span class="sc">ᡜ</span></td><td class="tr">ẓ</td></tr>
+        </table>
+      </div>
+
+      <div class="mng-schema-col">
+        <div class="mng-schema-head">Velars + liquids &amp; glides</div>
+        <table class="mng-schema-table">
+          <tr><td class="sep" colspan="2">Velars / uvulars</td></tr>
+          <tr><td><span class="sc">ᠺ</span></td><td class="tr">k</td></tr>
+          <tr><td><span class="sc">ᠻ</span></td><td class="tr">kh</td></tr>
+          <tr><td><span class="sc">ᠬ</span></td><td class="tr">q</td></tr>
+          <tr><td><span class="sc">ᠭ</span></td><td class="tr">γ</td></tr>
+          <tr><td><span class="sc">ᢉ</span></td><td class="tr">&#x2019;/g</td></tr>
+          <tr><td class="sep" colspan="2">Liquids &amp; glides</td></tr>
+          <tr><td><span class="sc">ᠯ</span></td><td class="tr">l</td></tr>
+          <tr><td><span class="sc">ᡀ</span></td><td class="tr">lh</td></tr>
+          <tr><td><span class="sc">ᠷ</span></td><td class="tr">r</td></tr>
+          <tr><td><span class="sc">ᠶ</span></td><td class="tr">y</td></tr>
+          <tr><td><span class="sc">ᢣ</span></td><td class="tr">ý</td></tr>
+          <tr><td><span class="sc">ᠸ</span></td><td class="tr">w</td></tr>
+        </table>
+      </div>
+
+      <div class="mng-schema-col">
+        <div class="mng-schema-head">Other + special</div>
+        <table class="mng-schema-table">
+          <tr><td class="sep" colspan="2">Other consonants</td></tr>
+          <tr><td><span class="sc">ᠾ</span></td><td class="tr">h</td></tr>
+          <tr><td><span class="sc">ᠿ</span></td><td class="tr">ž</td></tr>
+          <tr><td><span class="sc">ᡁ</span></td><td class="tr">zh</td></tr>
+          <tr><td><span class="sc">ᡂ</span></td><td class="tr">ch</td></tr>
+          <tr><td class="sep" colspan="2">Special</td></tr>
+          <tr><td><span class="sc">ᢀ</span></td><td class="tr">ṃ</td></tr>
+          <tr><td><span class="sc">ᢁ</span></td><td class="tr">ḥ</td></tr>
+        </table>
+      </div>
+
+      <div class="mng-schema-col">
+        <div class="mng-schema-head">Punctuation</div>
+        <table class="mng-schema-table">
+          <tr><td><span class="sc">᠀</span></td><td class="tr">@</td></tr>
+          <tr><td><span class="sc">᠂</span></td><td class="tr">;</td></tr>
+          <tr><td><span class="sc">᠃</span></td><td class="tr">,</td></tr>
+          <tr><td><span class="sc">᠄</span></td><td class="tr">:</td></tr>
+          <tr><td><span class="sc">᠅</span></td><td class="tr">.</td></tr>
+        </table>
+      </div>
+
+    </div><!-- /.mng-schema-wrap -->
+  </div>
+</div>
+
 <!-- ── Search-help modal ── -->
 <div class="modal-backdrop" id="modal-search-help" role="dialog" aria-modal="true" aria-labelledby="modal-search-help-title">
   <div class="modal-box">
@@ -2765,6 +2944,14 @@ document.addEventListener('keydown', function (e) {
       Search matches the <strong>beginning</strong> of the transcript, traditional script, or Cyrillic fields.
       Transcript search is tolerant of the following equivalences — one spelling finds them all:
     </p>
+    <div class="modal-example" style="margin-bottom:1rem;">
+      <strong>No diacritics needed to find a word.</strong>
+      The search engine applies equivalence classes automatically:
+      plain <code>c</code> finds <code>č</code> and <code>ç</code>;
+      <code>g</code> finds <code>γ</code> and <code>q</code> in back-vowel context;
+      <code>s</code> finds <code>š</code>;
+      <code>n</code> finds <code>ñ</code> and <code>ṇ</code>; and so on.
+    </div>
     <ul class="modal-eq-list">
       <li>
         <span class="modal-eq-rule">o ⇔ u &nbsp;|&nbsp; ü ⇔ ö</span>
@@ -2828,7 +3015,7 @@ document.addEventListener('keydown', function (e) {
 <div class="modal-backdrop" id="modal-resources" role="dialog" aria-modal="true" aria-labelledby="modal-resources-title">
   <div class="modal-box">
     <button class="modal-close" aria-label="Close" onclick="document.getElementById('modal-resources').classList.remove('open')">✕</button>
-    <h2 class="modal-title" id="modal-resources-title">Lexicographical Resources for the Mongolian Language</h2>
+    <h2 class="modal-title" id="modal-resources-title">About the resources</h2>
     <p class="modal-lead">
       This platform brings together the principal Western and Asian dictionaries of classical written Mongolian,
       together with Tibetan-Mongolian Buddhist glossaries, searchable in a single interface.
@@ -3083,7 +3270,7 @@ function closeTibDict() {
 
 // Close modals on backdrop click or Escape
 (function () {
-  var modals = ['modal-tib-dict', 'modal-search-help', 'modal-resources', 'modal-translate'];
+  var modals = ['modal-tib-dict', 'modal-search-help', 'modal-translit', 'modal-resources', 'modal-translate'];
   modals.forEach(function (id) {
     var el = document.getElementById(id);
     if (!el) return;
