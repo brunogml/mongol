@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Y4718">
   <head>
     <unicode>ᠵᠣᠺᠢᠰᠲᠣ</unicode>
@@ -9,6 +9,9 @@
   <see_also>
     <ref>Y4716</ref>
   </see_also>
+  <related_to>
+    <ref>Y4709</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -65,7 +68,4 @@
       <page>277</page>
     </entry_item>
   </entries>
-  <related_to>
-    <ref>Y4709</ref>
-  </related_to>
 </entry>
