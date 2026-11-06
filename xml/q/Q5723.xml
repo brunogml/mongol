@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q5723">
   <head>
     <unicode>ᠭᠣᠯᠪᠢᠢᠯᠭᠠᠬᠣ</unicode>
@@ -18,7 +18,7 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠯᠪᠢᠢᠯᠭᠠᠬᠣ</unicode>
       <cyrillic>ГУЛБИЙЛГАХ</cyrillic>
-      <definition>гулбийх-ийн үйлдүүл. </definition>
+      <definition>гулбийх-ийн үйлдүүл.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -27,6 +27,13 @@
       <cyrillic>гулбийлгах</cyrillic>
       <definition>гулбийхын үйлдүүлэх хэв, гулбигар болгох.</definition>
       <page>157</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гулбийлгах</cyrillic>
+      <definition>1. Kaus von гулбийх &#13;
+2. schwächen, verkümmern lassen</definition>
+      <page>80</page>
     </entry_item>
   </entries>
 </entry>

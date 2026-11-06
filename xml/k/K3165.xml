@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K3165">
   <head>
     <unicode>ᠭᠦᠩ</unicode>
@@ -39,10 +39,10 @@
     <entry_item>
       <dico>Kowalewski</dico>
       <unicode>ᠭᠦᠩ</unicode>
-      <definition>1 mines d'or, d'argent, etc. 
-
-2 mérite: 
-
+      <definition>1 mines d'or, d'argent, etc. &#13;
+&#13;
+2 mérite: &#13;
+&#13;
 3 nom d'une dignité [comte?], prince de la 4ème et de la 3ème classe</definition>
       <page>2571</page>
       <examples>
@@ -114,6 +114,12 @@
       <cyrillic>гүн /9</cyrillic>
       <definition>хурцлаг сайн амт; гүн амттай хоол; гүн шөл.</definition>
       <page>165</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гүн[г]</cyrillic>
+      <definition>hist mandschurischer Titel Graf m; Herzog m</definition>
+      <page>83</page>
     </entry_item>
   </entries>
 </entry>

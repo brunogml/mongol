@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q5844">
   <head>
     <unicode>ᠭᠣᠯᠳᠣᠶᠢᠬᠣ</unicode>
@@ -6,13 +6,13 @@
     <transcript2>goldoyigo</transcript2>
     <cyrillic>гулдайх</cyrillic>
   </head>
-  <derivatives>
-    <ref>Q5847</ref>
-  </derivatives>
   <see_also>
     <ref>Q5798</ref>
     <ref>Q5843</ref>
   </see_also>
+  <derivatives>
+    <ref>Q5847</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Chinese</dico>
@@ -25,14 +25,14 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠯᠳᠣᠶᠢᠬᠣ</unicode>
       <cyrillic>ГУЛДАЙХ</cyrillic>
-      <definition>1) валяться, лежать, вытянувшись во весь рост; лежать пластом; лежмя лежать; лежать как колода; гулдайн хэвтэх а) лежать пластом; б) лежать на печи, боку; 2) возлежать, покоиться. </definition>
+      <definition>1) валяться, лежать, вытянувшись во весь рост; лежать пластом; лежмя лежать; лежать как колода; гулдайн хэвтэх а) лежать пластом; б) лежать на печи, боку; 2) возлежать, покоиться.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠯᠳᠣᠶᠢᠬᠣ</unicode>
       <cyrillic>ГУЛДАЙТАЛ</cyrillic>
-      <definition>1) до полусмерти, до потери сознания; 2) шилж. до зелёного змия; гулдайтал нь цохих бить нещадно; живого места не оставить на ком-л.; гулдайтлаа цохиулах быть избитым до полусмерти; гулдайтлаа архидах а) напиться в лёжку; напиться до зелёного змия, до чёртиков; б) беспробудное, беспросыпное пьянство. </definition>
+      <definition>1) до полусмерти, до потери сознания; 2) шилж. до зелёного змия; гулдайтал нь цохих бить нещадно; живого места не оставить на ком-л.; гулдайтлаа цохиулах быть избитым до полусмерти; гулдайтлаа архидах а) напиться в лёжку; напиться до зелёного змия, до чёртиков; б) беспробудное, беспросыпное пьянство.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -41,6 +41,12 @@
       <cyrillic>гулдайх</cyrillic>
       <definition>гулдгар болох,зам дээр гуалин гулдайж хэвтэнэ.</definition>
       <page>157</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гулдайх</cyrillic>
+      <definition>starr u. ausgestreckt liegen; umg herumliegen; зам дэзр гуалин гулдайж хэвтзнэ auf dem Weg liegt ein Balken herum</definition>
+      <page>80</page>
     </entry_item>
   </entries>
 </entry>

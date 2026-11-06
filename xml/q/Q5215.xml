@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q5215">
   <head>
     <unicode>ᠭᠣᠲᠣᠬ</unicode>
@@ -23,7 +23,7 @@
         <example>
           <unicode>ᠭᠣᠲᠣᠬ ᠣᠯᠬᠤ</unicode>
           <transcript>-- olxu</transcript>
-          <definition> To take one's own mistakes to heart.</definition>
+          <definition>To take one's own mistakes to heart.</definition>
         </example>
       </examples>
     </entry_item>
@@ -38,7 +38,7 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠲᠣᠬ</unicode>
       <cyrillic>ГУТАГ</cyrillic>
-      <definition>сокрушение, сожаление; удручённость; гутаг олох раскаиваться, сокрушаться; гутаг суух быть удручённым. </definition>
+      <definition>сокрушение, сожаление; удручённость; гутаг олох раскаиваться, сокрушаться; гутаг суух быть удручённым.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -47,6 +47,12 @@
       <cyrillic>гутаг</cyrillic>
       <definition>1. сэтгэлийн шаналал; гутаг олох;2. биед олсон ямар нэгэн согог; гутаг суух.</definition>
       <page>161</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гутаг</cyrillic>
+      <definition>Betrübnis f, Niedergeschlagenheit f; ~ суух niedergeschlagen sein</definition>
+      <page>81</page>
     </entry_item>
   </entries>
 </entry>

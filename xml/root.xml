@@ -18573,7 +18573,7 @@
 <item><ref>Q0009b</ref><unicode>ᠭᠠᠣᠲᠣ</unicode><transcript>γautu</transcript><transcript2>gaodo</transcript2><cyrillic></cyrillic></item>
 <item><ref>Q0010</ref><unicode>ᠭᠠᠣᠯᠠᠬᠣ</unicode><transcript>γaulaqu</transcript><transcript2>gaolago</transcript2><cyrillic>гуулах</cyrillic></item>
 <item><ref>Q0011</ref><unicode>ᠬᠠᠣᠯᠢ</unicode><transcript>qauli</transcript><transcript2>gaoli</transcript2><cyrillic>хууль</cyrillic></item>
-<item><ref>Q0012</ref><unicode>ᠭᠠᠣᠯᠢ</unicode><transcript>γauli</transcript><transcript2>gaoli</transcript2><cyrillic>гууль</cyrillic></item>
+<item><ref>Q0012</ref><unicode>ᠭᠠᠣᠯᠢ</unicode><transcript>γauli</transcript><transcript2>gaoli</transcript2><cyrillic>гууль</cyrillic><variants><v t="unicode">ᠭᠠᠤᠯᠢᠨ</v><v t="cyrillic">гуулин</v></variants></item>
 <item><ref>Q0013</ref><unicode>ᠬᠠᠣᠯᠢᠰᠢᠬᠣ</unicode><transcript>qaulisiqu</transcript><transcript2>gaolisigo</transcript2><cyrillic>хуульших</cyrillic></item>
 <item><ref>Q0014</ref><unicode>ᠬᠠᠣᠯᠢᠲᠠᠢ</unicode><transcript>qaulitai</transcript><transcript2>gaolidai</transcript2><cyrillic>хуультай</cyrillic></item>
 <item><ref>Q0015</ref><unicode>ᠬᠠᠣᠯᠢᠲᠣ</unicode><transcript>qaulitu</transcript><transcript2>gaolido</transcript2><cyrillic>хуульт</cyrillic></item>
@@ -22569,7 +22569,7 @@
 <item><ref>Q3731a</ref><unicode>ᠺᠣᠢ</unicode><transcript>kui</transcript><transcript2>goi</transcript2><cyrillic></cyrillic></item>
 <item><ref>Q3732</ref><unicode>ᠬᠣᠣ</unicode><transcript>qou</transcript><transcript2>goo</transcript2><cyrillic></cyrillic></item>
 <item><ref>Q3733</ref><unicode>ᠬᠣᠣ</unicode><transcript>qou</transcript><transcript2>goo</transcript2><cyrillic>хуу</cyrillic></item>
-<item><ref>Q3734</ref><unicode>ᠭᠣᠣ</unicode><transcript>γou</transcript><transcript2>goo</transcript2><cyrillic>гуу</cyrillic></item>
+<item><ref>Q3734</ref><unicode>ᠭᠣᠣ</unicode><transcript>γou</transcript><transcript2>goo</transcript2><cyrillic>гуу</cyrillic><variants><v t="cyrillic">гүун</v></variants></item>
 <item><ref>Q3734a</ref><unicode>ᠺᠣᠣ</unicode><transcript>kou</transcript><transcript2>goo</transcript2><cyrillic>хүү</cyrillic></item>
 <item><ref>Q3735</ref><unicode>ᠬᠣᠤ ᠠ</unicode><transcript>qou-a</transcript><transcript2>goo-a</transcript2><cyrillic>хуа</cyrillic><variants><v t="unicode">ᠬᠣᠣᠠ</v></variants></item>
 <item><ref>Q3736</ref><unicode>ᠭᠣᠤ ᠠ</unicode><transcript>γou-a</transcript><transcript2>goo-a</transcript2><cyrillic>гоо</cyrillic><variants><v t="unicode">ᠭᠣᠣᠠ</v></variants></item>
@@ -22837,7 +22837,7 @@
 <item><ref>Q3971a</ref><unicode>ᠭᠣᠨᠠᠳᠠᠬᠴᠢ</unicode><transcript>γunadaγči</transcript><transcript2>gonadagci</transcript2><cyrillic>гунадагч</cyrillic></item>
 <item><ref>Q3971b</ref><unicode>ᠭᠣᠨᠠᠯᠵᠠᠬᠣ</unicode><transcript>γunalǰaqu</transcript><transcript2>gonalcago</transcript2><cyrillic>гуналзах</cyrillic></item>
 <item><ref>Q3972</ref><unicode>ᠭᠣᠨᠠᠴᠢᠨ</unicode><transcript>γunačin</transcript><transcript2>gonacin</transcript2><cyrillic></cyrillic></item>
-<item><ref>Q3973</ref><unicode>ᠭᠣᠨᠠᠵᠢᠨ</unicode><transcript>γunaǰi</transcript><transcript2>gonaci</transcript2><cyrillic>гунж</cyrillic></item>
+<item><ref>Q3973</ref><unicode>ᠭᠣᠨᠠᠵᠢᠨ</unicode><transcript>γunaǰi</transcript><transcript2>gonaci</transcript2><cyrillic>гунж</cyrillic><variants><v t="unicode">ᠭᠤᠨᠠᠵᠢᠨ</v><v t="unicode">гунжин</v></variants></item>
 <item><ref>Q3974</ref><unicode>ᠬᠣᠨᠠᠷ</unicode><transcript>qunar</transcript><transcript2>gonar</transcript2><cyrillic>хунар</cyrillic></item>
 <item><ref>Q3975</ref><unicode>ᠭᠣᠨᠢ</unicode><transcript>γoni</transcript><transcript2>goni</transcript2><cyrillic>гонь</cyrillic></item>
 <item><ref>Q3975a</ref><unicode>ᠭᠣᠨᠢ</unicode><transcript>γuni</transcript><transcript2>goni</transcript2><cyrillic></cyrillic></item>
@@ -23191,7 +23191,7 @@
 <item><ref>Q4294</ref><unicode>ᠭᠣᠩᠰᠠᠷᠠᠯ</unicode><transcript>γungsaral</transcript><transcript2>gongsaral</transcript2><cyrillic>гунсрал</cyrillic></item>
 <item><ref>Q4295</ref><unicode>ᠬᠣᠩᠰᠢ</unicode><transcript>qungsi</transcript><transcript2>gongsi</transcript2><cyrillic>хунш</cyrillic></item>
 <item><ref>Q4296</ref><unicode>ᠬᠣᠩᠰᠢᠣ</unicode><transcript>qungsiu</transcript><transcript2>gongsio</transcript2><cyrillic>хуншуу</cyrillic></item>
-<item><ref>Q4297</ref><unicode>ᠭᠣᠩᠰᠢᠨ</unicode><transcript>γungsin</transcript><transcript2>gongsin</transcript2><cyrillic>гуншин(г)</cyrillic></item>
+<item><ref>Q4297</ref><unicode>ᠭᠣᠩᠰᠢᠨ</unicode><transcript>γungsin</transcript><transcript2>gongsin</transcript2><cyrillic>гуншин</cyrillic><variants><v t="cyrillic">гуншинг</v></variants></item>
 <item><ref>Q4298</ref><unicode>ᠭᠣᠩᠰᠢᠭᠠᠨᠠᠭ᠎ᠠ</unicode><transcript>γongsiγanaγ-a</transcript><transcript2>gongsiganaga</transcript2><cyrillic>гоншгоноо</cyrillic></item>
 <item><ref>Q4299</ref><unicode>ᠭᠣᠩᠰᠢᠭᠠᠨᠠᠬᠣ</unicode><transcript>γongsiγanaqu</transcript><transcript2>gongsiganago</transcript2><cyrillic>гоншгонох</cyrillic></item>
 <item><ref>Q4300</ref><unicode>ᠭᠣᠩᠰᠢᠭᠠᠨᠠᠭᠣᠯᠬᠣ</unicode><transcript>γongsiγanaγulqu</transcript><transcript2>gongsiganagolgo</transcript2><cyrillic>гоншгонуулах</cyrillic></item>
@@ -24149,7 +24149,7 @@
 <item><ref>Q5188</ref><unicode>ᠬᠣᠲᠠᠴᠢᠯᠠᠬᠣ</unicode><transcript>qotačilaqu</transcript><transcript2>godacilago</transcript2><cyrillic>хоточлох</cyrillic></item>
 <item><ref>Q5189</ref><unicode>ᠬᠣᠲᠠᠶᠢᠯᠭᠠᠬᠣ</unicode><transcript>qotayilγaqu</transcript><transcript2>godayilgago</transcript2><cyrillic></cyrillic></item>
 <item><ref>Q5190</ref><unicode>ᠬᠣᠲᠠᠷ</unicode><transcript>qotar</transcript><transcript2>godar</transcript2><cyrillic></cyrillic></item>
-<item><ref>Q5191</ref><unicode>ᠭᠣᠲᠠᠷᠢ</unicode><transcript>γutari</transcript><transcript2>godari</transcript2><cyrillic>гутаар</cyrillic></item>
+<item><ref>Q5191</ref><unicode>ᠭᠣᠲᠠᠷᠢ</unicode><transcript>γutari</transcript><transcript2>godari</transcript2><cyrillic>гутаар</cyrillic><variants><v t="cyrillic">гутаарь</v></variants></item>
 <item><ref>Q5192</ref><unicode>ᠭᠣᠲᠠᠷᠢᠲᠠᠢ</unicode><transcript>γutaritai</transcript><transcript2>godaridai</transcript2><cyrillic></cyrillic></item>
 <item><ref>Q5193</ref><unicode>ᠬᠣᠳᠠᠷᠭ᠎ᠠ</unicode><transcript>qudarγ-a</transcript><transcript2>godarga</transcript2><cyrillic>хударга</cyrillic><variants><v t="unicode">ᠬᠣᠳᠠᠷᠭᠠ</v></variants></item>
 <item><ref>Q5194</ref><unicode>ᠬᠣᠳᠠᠷᠭᠠᠯᠠᠬᠣ</unicode><transcript>qudarγalaqu</transcript><transcript2>godargalago</transcript2><cyrillic>хударгалах</cyrillic></item>
@@ -24550,7 +24550,7 @@
 <item><ref>Q5571</ref><unicode>ᠭᠣᠯᠢᠷᠯᠠᠬᠣ</unicode><transcript>γulirlaqu</transcript><transcript2>golirlago</transcript2><cyrillic>гуриллах</cyrillic></item>
 <item><ref>Q5572</ref><unicode>ᠬᠣᠯᠣ</unicode><transcript>qulu</transcript><transcript2>golo</transcript2><cyrillic>хул</cyrillic></item>
 <item><ref>Q5573</ref><unicode>ᠬᠣᠯᠣᠣ</unicode><transcript>qulou</transcript><transcript2>goloo</transcript2><cyrillic>хулуу</cyrillic></item>
-<item><ref>Q5574</ref><unicode>ᠭᠣᠯᠣᠣᠵᠠ</unicode><transcript>γulouǰa</transcript><transcript2>golooca</transcript2><cyrillic>гулууз</cyrillic></item>
+<item><ref>Q5574</ref><unicode>ᠭᠣᠯᠣᠣᠵᠠ</unicode><transcript>γulouǰa</transcript><transcript2>golooca</transcript2><cyrillic>гулууз</cyrillic><variants><v t="unicode">ᠭᠤᠯᠣᠤᠵᠠᠨ</v><v t="unicode">гулуузан</v></variants></item>
 <item><ref>Q5575</ref><unicode>ᠭᠣᠯᠣᠣᠵᠠᠯᠠᠬᠣ</unicode><transcript>γulouǰalaqu</transcript><transcript2>goloocalago</transcript2><cyrillic>гулуузлах</cyrillic></item>
 <item><ref>Q5576</ref><unicode>ᠬᠣᠯᠣᠨ</unicode><transcript>qulun</transcript><transcript2>golon</transcript2><cyrillic>хулан</cyrillic></item>
 <item><ref>Q5576a</ref><unicode>ᠺᠣᠯᠣᠨᠢ</unicode><transcript>koloni</transcript><transcript2>goloni</transcript2><cyrillic>колони</cyrillic></item>
@@ -24797,7 +24797,7 @@
 <item><ref>Q5800</ref><unicode>ᠬᠣᠯᠲᠣ</unicode><transcript>qultu</transcript><transcript2>goldo</transcript2><cyrillic>хулт</cyrillic></item>
 <item><ref>Q5801</ref><unicode>ᠬᠣᠯᠲᠣ</unicode><transcript>qoltu</transcript><transcript2>goldo</transcript2><cyrillic>холт</cyrillic></item>
 <item><ref>Q5802</ref><unicode>ᠭᠣᠯᠳᠣ</unicode><transcript>γuldu</transcript><transcript2>goldo</transcript2><cyrillic>гулд</cyrillic></item>
-<item><ref>Q5803</ref><unicode>ᠭᠣᠯᠳᠣᠩ</unicode><transcript>γuldung</transcript><transcript2>goldong</transcript2><cyrillic>гулдан</cyrillic></item>
+<item><ref>Q5803</ref><unicode>ᠭᠣᠯᠳᠣᠩ</unicode><transcript>γuldung</transcript><transcript2>goldong</transcript2><cyrillic>гулдан</cyrillic><variants><v t="cyrillic">гулданг</v></variants></item>
 <item><ref>Q5804</ref><unicode>ᠭᠣᠯᠳᠣᠩᠭᠠᠲᠣᠬᠣ</unicode><transcript>γuldungγatuqu</transcript><transcript2>goldonggadogo</transcript2><cyrillic>гулдангатах</cyrillic></item>
 <item><ref>Q5805</ref><unicode>ᠭᠣᠯᠳᠣᠩᠭᠠᠲᠣᠭᠣᠯᠬᠣ</unicode><transcript>γuldungγatuγulqu</transcript><transcript2>goldonggadogolgo</transcript2><cyrillic>гулдангатуулах</cyrillic></item>
 <item><ref>Q5805a</ref><unicode>ᠭᠣᠯᠳᠣᠩᠭᠣ</unicode><transcript>γuldungγu</transcript><transcript2>goldonggo</transcript2><cyrillic>гулданга</cyrillic></item>
@@ -25248,10 +25248,10 @@
 <item><ref>Q6205</ref><unicode>ᠭᠣᠵᠢᠢᠯᠭᠠᠬᠣ</unicode><transcript>γoǰiilγaqu</transcript><transcript2>gociilgago</transcript2><cyrillic>гожийлгох</cyrillic></item>
 <item><ref>Q6206</ref><unicode>ᠬᠣᠵᠢᠢᠴᠢᠬᠠᠬᠣ</unicode><transcript>quǰiičiqaqu</transcript><transcript2>gociicigago</transcript2><cyrillic>хужийчихах</cyrillic></item>
 <item><ref>Q6207</ref><unicode>ᠬᠣᠵᠢᠢᠴᠢᠬᠠᠬᠣ</unicode><transcript>qoǰiičiqaqu</transcript><transcript2>gociicigago</transcript2><cyrillic>хожийчихох</cyrillic></item>
-<item><ref>Q6208</ref><unicode>ᠭᠣᠴᠢᠨ</unicode><transcript>γučin</transcript><transcript2>gocin</transcript2><cyrillic>гучин</cyrillic></item>
+<item><ref>Q6208</ref><unicode>ᠭᠤᠴᠢ</unicode><transcript>γuči</transcript><transcript2>gocin</transcript2><cyrillic>гучин</cyrillic><variants><v t="unicode">ᠭᠣᠴᠢᠨ</v><v t="unicode">гуч</v></variants></item>
 <item><ref>Q6209</ref><unicode>ᠬᠣᠵᠢᠨᠠᠭᠣᠯᠬᠣ</unicode><transcript>qoǰinaγulqu</transcript><transcript2>gocinagolgo</transcript2><cyrillic></cyrillic></item>
 <item><ref>Q6210</ref><unicode> ᠬᠣᠴᠢᠨᠭᠠᠰᠣ</unicode><transcript>qučinγasu</transcript><transcript2>gocingaso</transcript2><cyrillic>хучаас</cyrillic></item>
-<item><ref>Q6211</ref><unicode>ᠭᠣᠴᠢᠨᠲᠠ</unicode><transcript>γučinta</transcript><transcript2>gocinda</transcript2><cyrillic>гучинт</cyrillic></item>
+<item><ref>Q6211</ref><unicode>ᠭᠣᠴᠢᠨᠲᠠ</unicode><transcript>γučinta</transcript><transcript2>gocinda</transcript2><cyrillic>гучинт</cyrillic><variants><v t="cyrillic">гучинтаа</v></variants></item>
 <item><ref>Q6212</ref><unicode>ᠭᠣᠴᠢᠨᠴᠠᠷ</unicode><transcript>γučinčar</transcript><transcript2>gocincar</transcript2><cyrillic>гучинцар</cyrillic></item>
 <item><ref>Q6213</ref><unicode>ᠭᠣᠴᠢᠨᠴᠢᠷ</unicode><transcript>γučinčir</transcript><transcript2>gocincir</transcript2><cyrillic>гучинцар</cyrillic></item>
 <item><ref>Q6214</ref><unicode>ᠭᠣᠵᠢᠭᠠᠬᠠᠢ</unicode><transcript>γoǰiγaqai</transcript><transcript2>gocigagai</transcript2><cyrillic>гожоохой</cyrillic></item>
@@ -26206,7 +26206,7 @@
 <item><ref>Q7123</ref><unicode>ᠬᠣᠷᠬᠣᠶᠢᠬᠣ</unicode><transcript>qorquyiqu</transcript><transcript2>gorgoyigo</transcript2><cyrillic>хорхойх</cyrillic></item>
 <item><ref>Q7124</ref><unicode>ᠬᠣᠷᠬᠣᠶᠢᠯᠭᠠᠬᠣ</unicode><transcript>qorquyilγaqu</transcript><transcript2>gorgoyilgago</transcript2><cyrillic>хорхойлгох</cyrillic></item>
 <item><ref>Q7125</ref><unicode>ᠭᠣᠷᠪᠠᠨ</unicode><transcript>γurban</transcript><transcript2>gorban</transcript2><cyrillic>гурав</cyrillic><variants><v t="unicode">ᠭᠤᠷᠪᠠ</v><v t="cyrillic">гурван</v></variants></item>
-<item><ref>Q7126</ref><unicode>ᠭᠣᠷᠪᠠᠨᠲᠠ</unicode><transcript>γurbanta</transcript><transcript2>gorbanda</transcript2><cyrillic>гурвант</cyrillic></item>
+<item><ref>Q7126</ref><unicode>ᠭᠣᠷᠪᠠᠨᠲᠠ</unicode><transcript>γurbanta</transcript><transcript2>gorbanda</transcript2><cyrillic>гурвант</cyrillic><variants><v t="cyrillic">гурвантаа</v></variants></item>
 <item><ref>Q7127</ref><unicode>ᠭᠣᠷᠪᠠᠨᠲᠠᠢ</unicode><transcript>γurbantai</transcript><transcript2>gorbandai</transcript2><cyrillic>гурвантай</cyrillic></item>
 <item><ref>Q7128</ref><unicode>ᠭᠣᠷᠪᠠᠬᠠᠨ</unicode><transcript>γurbaqan</transcript><transcript2>gorbagan</transcript2><cyrillic>гуравхан</cyrillic></item>
 <item><ref>Q7129</ref><unicode>ᠭᠣᠷᠪᠠᠭᠠᠳ</unicode><transcript>γurbaγad</transcript><transcript2>gorbagad</transcript2><cyrillic>гурваад</cyrillic></item>
@@ -62270,7 +62270,7 @@
 <item><ref>K2877</ref><unicode>ᠺᠥᠢᠯᠺᠡᠨᠡᠺᠥ</unicode><transcript>güilgenekü</transcript><transcript2>göilgenegö</transcript2><cyrillic>гүйлгэнэх</cyrillic></item>
 <item><ref>K2878</ref><unicode>ᠺᠥᠢᠯᠺᠡᠨᠡᠺᠥᠯᠺᠥ</unicode><transcript>güilgenegülkü</transcript><transcript2>göilgenegölgö</transcript2><cyrillic>гүйлгэнүүлэх</cyrillic></item>
 <item><ref>K2879</ref><unicode>ᠺᠥᠢᠯᠺᠡᠯᠡᠺᠥ</unicode><transcript>güilgelekü</transcript><transcript2>göilgelegö</transcript2><cyrillic></cyrillic></item>
-<item><ref>K2880</ref><unicode>ᠭᠦᠢᠯᠭᠡᠭᠡ</unicode><transcript>güilgege</transcript><transcript2>göilgege</transcript2><cyrillic>гүйлгээ</cyrillic></item>
+<item><ref>K2880</ref><unicode>ᠭᠦᠢᠯᠭᠡᠭᠡ</unicode><transcript>güilgege</transcript><transcript2>göilgege</transcript2><cyrillic>гүйлгээ</cyrillic><variants><v t="unicode">ᠭᠦᠢᠯᠭᠡᠭᠡᠨ</v><v t="cyrillic">гүйлгээн</v></variants></item>
 <item><ref>K2881</ref><unicode>ᠺᠥᠢᠯᠺᠡᠺᠡᠲᠡᠢ</unicode><transcript>güilgegetei</transcript><transcript2>göilgegedei</transcript2><cyrillic>гүйлгээтэй</cyrillic></item>
 <item><ref>K2882</ref><unicode>ᠺᠥᠢᠯᠺᠡᠺᠡᠯᠡᠺᠥ</unicode><transcript>güilgegelekü</transcript><transcript2>göilgegelegö</transcript2><cyrillic>гүйлгээлэх</cyrillic></item>
 <item><ref>K2882a</ref><unicode>ᠺᠥᠢᠯᠺᠡᠺᠡᠴᠢ</unicode><transcript>güilgegeči</transcript><transcript2>göilgegeci</transcript2><cyrillic>гүйлгээч</cyrillic></item>
@@ -62570,7 +62570,7 @@
 <item><ref>K3163</ref><unicode>ᠺᠥᠨᠵᠢᠶ ᠠ</unicode><transcript>gönǰiy-e</transcript><transcript2>gönciy-e</transcript2><cyrillic>гөнжөө</cyrillic></item>
 <item><ref>K3163a</ref><unicode>ᠺᠥᠨᠵᠢᠶᠡᠯᠡᠺᠥ</unicode><transcript>gönǰiyelekü</transcript><transcript2>gönciyelegö</transcript2><cyrillic>гөнжөөлөх</cyrillic></item>
 <item><ref>K3164</ref><unicode>ᠺᠥᠩ</unicode><transcript>küng</transcript><transcript2>göng</transcript2><cyrillic>хүн</cyrillic></item>
-<item><ref>K3165</ref><unicode>ᠭᠦᠩ</unicode><transcript>güng</transcript><transcript2>göng</transcript2><cyrillic>гүн</cyrillic></item>
+<item><ref>K3165</ref><unicode>ᠭᠦᠩ</unicode><transcript>güng</transcript><transcript2>göng</transcript2><cyrillic>гүн</cyrillic><variants><v t="cyrillic">гүнг</v></variants></item>
 <item><ref>K3166</ref><unicode>ᠺᠥᠩ</unicode><transcript>göng</transcript><transcript2>göng</transcript2><cyrillic>гөн</cyrillic></item>
 <item><ref>K3167</ref><unicode>ᠺᠥᠩᠭᠠᠷ</unicode><transcript>küngγar</transcript><transcript2>gönggar</transcript2><cyrillic></cyrillic></item>
 <item><ref>K3168</ref><unicode>ᠺᠥᠩᠪᠥᠥ</unicode><transcript>köngbüü</transcript><transcript2>göngböö</transcript2><cyrillic>хөнбүү</cyrillic></item>
@@ -62718,7 +62718,7 @@
 <item><ref>K3305</ref><unicode>ᠺᠥᠪᠡ</unicode><transcript>kübe</transcript><transcript2>göbe</transcript2><cyrillic>хүв</cyrillic></item>
 <item><ref>K3306</ref><unicode>ᠺᠥᠪᠡᠩ</unicode><transcript>köbeng</transcript><transcript2>göbeng</transcript2><cyrillic>хөвөн</cyrillic></item>
 <item><ref>K3307</ref><unicode>ᠺᠥᠪᠡᠯᠡᠩ</unicode><transcript>kübeleng</transcript><transcript2>göbeleng</transcript2><cyrillic></cyrillic></item>
-<item><ref>K3308</ref><unicode>ᠺᠥᠪᠡᠺᠡ</unicode><transcript>gübege</transcript><transcript2>göbege</transcript2><cyrillic>гүвээ</cyrillic></item>
+<item><ref>K3308</ref><unicode>ᠺᠥᠪᠡᠺᠡ</unicode><transcript>gübege</transcript><transcript2>göbege</transcript2><cyrillic>гүвээ</cyrillic><variants><v t="unicode">ᠭᠦᠪᠡᠭᠡᠨ</v><v t="cyrillic">гүвзэн</v></variants></item>
 <item><ref>K3309</ref><unicode>ᠺᠥᠪᠡᠺᠡ</unicode><transcript>köbege</transcript><transcript2>göbege</transcript2><cyrillic>хөвөө</cyrillic></item>
 <item><ref>K3310</ref><unicode>ᠺᠥᠪᠡᠺᠡᠲᠡᠢ</unicode><transcript>gübegetei</transcript><transcript2>göbegedei</transcript2><cyrillic>гүвээтэй</cyrillic></item>
 <item><ref>K3311</ref><unicode>ᠺᠥᠪᠡᠺᠡᠳᠡᠺᠥ</unicode><transcript>köbegedekü</transcript><transcript2>göbegedegö</transcript2><cyrillic>хөвөөдөх</cyrillic></item>
@@ -62975,7 +62975,7 @@
 <item><ref>K3553</ref><unicode>ᠺᠥᠪᠳᠥᠷᠢᠺᠥᠳᠡᠺᠥ</unicode><transcript>göbdürigüdekü</transcript><transcript2>göbdörigödegö</transcript2><cyrillic>гөвдрүүдэх</cyrillic></item>
 <item><ref>K3554</ref><unicode>ᠺᠥᠪᠳᠥᠷᠥ</unicode><transcript>göbdürü</transcript><transcript2>göbdörö</transcript2><cyrillic>гөвдрүү</cyrillic></item>
 <item><ref>K3555</ref><unicode>ᠺᠥᠪᠳᠥᠷᠥᠥ</unicode><transcript>göbdürüü</transcript><transcript2>göbdöröö</transcript2><cyrillic>гөвдрүү</cyrillic></item>
-<item><ref>K3556</ref><unicode>ᠺᠥᠪᠳᠥᠷᠥᠥ</unicode><transcript>gübdürüü</transcript><transcript2>göbdöröö</transcript2><cyrillic>гүвдрүү(н)</cyrillic></item>
+<item><ref>K3556</ref><unicode>ᠺᠥᠪᠳᠥᠷᠥᠥ</unicode><transcript>gübdürüü</transcript><transcript2>göbdöröö</transcript2><cyrillic>гүвдрүү</cyrillic><variants><v t="cyrillic">гүвдрүүн</v></variants></item>
 <item><ref>K3557</ref><unicode>ᠺᠥᠪᠳᠥᠷᠥᠥᠲᠡᠢ</unicode><transcript>göbdürüütei</transcript><transcript2>göbdöröödei</transcript2><cyrillic>гөвдрүүтэй</cyrillic></item>
 <item><ref>K3558</ref><unicode>ᠺᠥᠪᠳᠥᠷᠥᠥᠲᠡᠢ</unicode><transcript>gübdürüütei</transcript><transcript2>göbdöröödei</transcript2><cyrillic>гүвдрүүтэй</cyrillic></item>
 <item><ref>K3559</ref><unicode>ᠺᠥᠪᠳᠥᠷᠥᠥᠲᠥ</unicode><transcript>gübdürüütü</transcript><transcript2>göbdöröödö</transcript2><cyrillic>гүвдрүүт</cyrillic></item>
@@ -63798,7 +63798,7 @@
 <item><ref>K4345</ref><unicode>ᠭᠦᠵᠡᠯᠵᠡᠭᠡᠨᠡ</unicode><transcript>güǰelǰegene</transcript><transcript2>göcelcegene</transcript2><cyrillic>гүзээлзгэнэ</cyrillic></item>
 <item><ref>K4346</ref><unicode>ᠺᠥᠵᠡᠯᠵᠡᠺᠡᠨᠡᠲᠡᠢ</unicode><transcript>güǰelǰegenetei</transcript><transcript2>göcelcegenedei</transcript2><cyrillic>гүзээлзгэнэтэй</cyrillic></item>
 <item><ref>K4347</ref><unicode>ᠺᠥᠵᠡᠯᠵᠡᠺᠡᠨᠡᠺᠡᠢ</unicode><transcript>güǰelǰegenekei</transcript><transcript2>göcelcegenegei</transcript2><cyrillic>гүзээлзгэнэхэй</cyrillic></item>
-<item><ref>K4348</ref><unicode>ᠭᠦᠵᠡᠭᠡ</unicode><transcript>güǰege</transcript><transcript2>göcege</transcript2><cyrillic>гүзээ</cyrillic></item>
+<item><ref>K4348</ref><unicode>ᠭᠦᠵᠡᠭᠡ</unicode><transcript>güǰege</transcript><transcript2>göcege</transcript2><cyrillic>гүзээ</cyrillic><variants><v t="unicode">ᠭᠦᠵᠡᠭᠡᠨ</v><v t="cyrillic">гүззэн</v></variants></item>
 <item><ref>K4349</ref><unicode>ᠺᠥᠵᠡᠺᠡᠲᠡᠢ</unicode><transcript>güǰegetei</transcript><transcript2>göcegedei</transcript2><cyrillic>гүзээтэй</cyrillic></item>
 <item><ref>K4350</ref><unicode>ᠺᠥᠵᠡᠺᠡᠯᠡᠺᠥ</unicode><transcript>güǰegelekü</transcript><transcript2>göcegelegö</transcript2><cyrillic>гүзээлэх</cyrillic></item>
 <item><ref>K4351</ref><unicode>ᠺᠥᠵᠡᠺᠡᠯᠡᠺᠥᠯᠺᠥ</unicode><transcript>güǰegelegülkü</transcript><transcript2>göcegelegölgö</transcript2><cyrillic>гүзээлүүлэх</cyrillic></item>
@@ -72702,4 +72702,5 @@
 <item><ref>B9049</ref><unicode>ᠪᠤᠰᠠᠷᠠᠭᠤᠯᠬᠤ</unicode><transcript>busaraγulqu</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
 <item><ref>Q7471</ref><unicode>ᠬᠠᠯᠬᠠᠯᠠᠭᠳᠠᠯ</unicode><transcript>qalqalaγdal</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
 <item><ref>S7180</ref><unicode>ᠱᠧᠳ</unicode><transcript>šed</transcript><transcript2>sed</transcript2><cyrillic></cyrillic></item>
+<item><ref>Q7472</ref><unicode>ᠭᠤᠷᠠᠩᠬᠤᠯᠠᠬᠤ</unicode><transcript>γurangqulaqu</transcript><transcript2></transcript2><cyrillic>гуринхлах</cyrillic></item>
 </list>

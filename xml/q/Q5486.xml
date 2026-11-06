@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q5486">
   <head>
     <unicode>ᠭᠣᠯᠠᠳᠬᠣ</unicode>
@@ -24,12 +24,12 @@
         <example>
           <unicode>ᠭᠣᠯᠠᠳᠴᠤ ᠦᠺᠦᠺᠦ</unicode>
           <transcript>--cu ykyky</transcript>
-          <definition> To roll into an abyss and die.</definition>
+          <definition>To roll into an abyss and die.</definition>
         </example>
         <example>
           <unicode>ᠭᠣᠯᠠᠳᠤᠨ ᠤᠨᠠᠬᠤ</unicode>
           <transcript>--un unaxu</transcript>
-          <definition> To fall into an abyss.</definition>
+          <definition>To fall into an abyss.</definition>
         </example>
       </examples>
     </entry_item>
@@ -51,6 +51,12 @@
       <cyrillic>гултах</cyrillic>
       <definition>халил буюу халтираа газар, гулсах, гултарих, тэшин унах.</definition>
       <page>158</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гулдах</cyrillic>
+      <definition>чирч ~ tr schleppen, ziehen, schleifen</definition>
+      <page>81</page>
     </entry_item>
   </entries>
 </entry>

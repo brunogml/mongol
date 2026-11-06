@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q7260">
   <head>
     <unicode>ᠭᠣᠷᠮᠣᠰᠣᠨ</unicode>
@@ -23,7 +23,7 @@
         <example>
           <unicode>ᠭᠣᠷᠮᠣᠰᠣᠨ ᠳᠡᠭᠡᠰᠦ</unicode>
           <transcript>-- degesy</transcript>
-          <definition> A cord, a string (of three strands).</definition>
+          <definition>A cord, a string (of three strands).</definition>
         </example>
       </examples>
     </entry_item>
@@ -45,7 +45,7 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠷᠮᠣᠰᠣᠨ</unicode>
       <cyrillic>ГУРМАСАН</cyrillic>
-      <definition>толстая верёвка из трёх прядей; скрученный в три раза; тройной, утроенный (напр. о верёвке). </definition>
+      <definition>толстая верёвка из трёх прядей; скрученный в три раза; тройной, утроенный (напр. о верёвке).</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -54,6 +54,12 @@
       <cyrillic>гурамсан</cyrillic>
       <definition>гурван ширхгээр нь багцалсан буюу нийтгэсэн юм; гурамсан хуйв; гурамсан дээс; гурамсан утас.</definition>
       <page>160</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гурамсан</cyrillic>
+      <definition>dreifach; ~ зохиол Lit Trilogie f</definition>
+      <page>81</page>
     </entry_item>
   </entries>
 </entry>

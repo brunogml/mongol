@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q5686">
   <head>
     <unicode>ᠭᠣᠯᠭᠣᠭᠣᠷ</unicode>
@@ -22,7 +22,7 @@
         <example>
           <unicode>ᠭᠣᠯᠭᠣᠭᠣᠷ ᠵᠠᠩᠲᠠᠢ</unicode>
           <transcript>-- zangtai</transcript>
-          <definition> Having an accommodating or obliging disposition.</definition>
+          <definition>Having an accommodating or obliging disposition.</definition>
         </example>
       </examples>
     </entry_item>
@@ -50,14 +50,14 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠯᠭᠣᠭᠣᠷ</unicode>
       <cyrillic>ГУЛГУУР</cyrillic>
-      <definition>1. 1) каток (ледяной); мөсөн гулгуур каток; 2) горки; 3) коньки (для катания по льду); тэшүүр-ийг үз.; 2. 1) скользящий; гулгуур араа тех. скользящая шестерня; гулгуур завь глиссер; плоскодонное быстроходное судно; гулгуур малталт уул. скат; 2) опорный; гулгуур эс анаг. опорная клетка; гулгуур ялтас тусг. опорная пластинка. </definition>
+      <definition>1. 1) каток (ледяной); мөсөн гулгуур каток; 2) горки; 3) коньки (для катания по льду); тэшүүр-ийг үз.; 2. 1) скользящий; гулгуур араа тех. скользящая шестерня; гулгуур завь глиссер; плоскодонное быстроходное судно; гулгуур малталт уул. скат; 2) опорный; гулгуур эс анаг. опорная клетка; гулгуур ялтас тусг. опорная пластинка.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠯᠭᠣᠭᠣᠷ</unicode>
       <cyrillic>ГУЛГУУРЫН</cyrillic>
-      <definition>гулгуур-ын харьяал., коньковый; тэшүүрийн-г үз. </definition>
+      <definition>гулгуур-ын харьяал., коньковый; тэшүүрийн-г үз.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -66,6 +66,12 @@
       <cyrillic>гулгуур</cyrillic>
       <definition>гулгахад зориулсан газар буюу түүнд хэрэглэх хэрэгсэлгулгуур мод.</definition>
       <page>157</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гулгуур</cyrillic>
+      <definition>zum Rollen, Gleiten Fläche f, Bahn f; мeсeн ~ Eislaufbahn f; ~ын тос[он] Schmierfett n</definition>
+      <page>80</page>
     </entry_item>
   </entries>
 </entry>

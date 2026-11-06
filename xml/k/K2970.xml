@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K2970">
   <head>
     <unicode>ᠭᠦᠨ</unicode>
@@ -62,10 +62,10 @@
     <entry_item>
       <dico>Kowalewski</dico>
       <unicode>ᠭᠦᠨ</unicode>
-      <definition>1 la profondeur, le fond; profonde 
-
-2 foncé (des couleurs): 
-
+      <definition>1 la profondeur, le fond; profonde &#13;
+&#13;
+2 foncé (des couleurs): &#13;
+&#13;
 3 fig. la profondeur d'esprit.</definition>
       <page>2564</page>
       <examples>
@@ -210,6 +210,13 @@
       <cyrillic>гүн /7</cyrillic>
       <definition>утга санаа нууц далд, ойлгоход бэрх; гүн утга; гүн бодлого.</definition>
       <page>165</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гүн</cyrillic>
+      <definition>1. Tiefe f &#13;
+2. tief; ~ ганга[н] Abgrund m; ~ гол tiefer Fluß; ~ нойр[он] Tiefschlaf m; ~ ухаан Philosophie f; ~ ухаантан Philosoph m; ~ эмгэнэл tiefes Bedauern</definition>
+      <page>83</page>
     </entry_item>
   </entries>
 </entry>

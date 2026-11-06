@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K4897">
   <head>
     <unicode>ᠭᠦᠶᠦᠯᠭᠡᠺᠦ</unicode>
@@ -83,8 +83,8 @@
     <entry_item>
       <dico>Kowalewski</dico>
       <unicode>ᠭᠦᠶᠦᠯᠭᠡᠺᠦ</unicode>
-      <definition>1 ordonner de courir, lancer à la course; 
-
+      <definition>1 ordonner de courir, lancer à la course; &#13;
+&#13;
 2 faire circuler, faire le commerce des marchandises</definition>
       <page>2622</page>
     </entry_item>
@@ -115,6 +115,14 @@
       <cyrillic>гүйлгэх /4</cyrillic>
       <definition>дам дамжуулах; туйпуу гүйлгэх; судар гүйлгэх; зоос гүйлгэх; цахилгаан гүйлгэх.</definition>
       <page>164</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гүйлгэх</cyrillic>
+      <definition>1. Kaus von гүйх &#13;
+2. Hdl, Fin in Umlauf bringen od setzen &#13;
+3. Med Durchfall m</definition>
+      <page>82</page>
     </entry_item>
   </entries>
 </entry>

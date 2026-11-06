@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q5191">
   <head>
     <unicode>ᠭᠣᠲᠠᠷᠢ</unicode>
@@ -30,7 +30,7 @@
         <example>
           <unicode>ᠭᠣᠲᠠᠷᠢ ᠵᠢᠭᠠᠰᠤ</unicode>
           <transcript>-- ziγasu</transcript>
-          <definition> Burbot, eel-pout.</definition>
+          <definition>Burbot, eel-pout.</definition>
         </example>
       </examples>
     </entry_item>
@@ -65,7 +65,7 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠲᠠᠷᠢ</unicode>
       <cyrillic>ГУТААРЬ</cyrillic>
-      <definition>загас. налим. </definition>
+      <definition>загас. налим.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -81,6 +81,12 @@
       <cyrillic>гутарь</cyrillic>
       <definition>1. язгуурын сайн хүний сайн явдай эвдрэх; сайн нь саарч гутарь болсон амьтан;2. санаашсан зовних; санааны гутаарь болсон хүн.</definition>
       <page>161</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гутаарь</cyrillic>
+      <definition>Zool Aalquappe f</definition>
+      <page>81</page>
     </entry_item>
   </entries>
 </entry>

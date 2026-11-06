@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q4306">
   <head>
     <unicode>ᠭᠣᠩᠰᠢᠬᠣ</unicode>
@@ -6,13 +6,13 @@
     <transcript2>gongsigo</transcript2>
     <cyrillic>гунших</cyrillic>
   </head>
-  <derivatives>
-    <ref>Q4308</ref>
-  </derivatives>
   <see_also>
     <ref>Q4071</ref>
     <ref>Q4307</ref>
   </see_also>
+  <derivatives>
+    <ref>Q4308</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -48,7 +48,7 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠩᠰᠢᠬᠣ</unicode>
       <cyrillic>ГУНШИХ</cyrillic>
-      <definition>говорить в нос, гнусавить. </definition>
+      <definition>говорить в нос, гнусавить.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -57,6 +57,12 @@
       <cyrillic>гунших</cyrillic>
       <definition>1. гуншаа хүний дуугарах;2. хүний дорой дуугаар нуршин хэлэх; олон үг гунших хэрэггүй.</definition>
       <page>159</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гунших</cyrillic>
+      <definition>näseln; übertr nölen</definition>
+      <page>81</page>
     </entry_item>
   </entries>
 </entry>

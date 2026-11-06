@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K4901">
   <head>
     <unicode>ᠺᠥᠶᠥᠮᠡᠺᠡᠢ</unicode>
@@ -18,14 +18,14 @@
       <dico>lamrd</dico>
       <unicode>ᠺᠥᠶᠥᠮᠡᠺᠡᠢ</unicode>
       <cyrillic>ГҮЙМХИЙ</cyrillic>
-      <definition>I склонный убегать в сторону своего стада или родины; привыкший к родным местам. </definition>
+      <definition>I склонный убегать в сторону своего стада или родины; привыкший к родным местам.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠺᠥᠶᠥᠮᠡᠺᠡᠢ</unicode>
       <cyrillic>ГҮЙМХИЙ</cyrillic>
-      <definition>II бегающий, бегущий (за самкой). </definition>
+      <definition>II бегающий, бегущий (за самкой).</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -41,6 +41,12 @@
       <cyrillic>гүймхий /2</cyrillic>
       <definition>амьтны дур урамшил ихтэй; гүймхий бух; гүймхий нохой.</definition>
       <page>164</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гүймттий, гүймхий</cyrillic>
+      <definition>Tier anhänglich; ~ нохой anhänglicher od treuer Hund</definition>
+      <page>82</page>
     </entry_item>
   </entries>
 </entry>

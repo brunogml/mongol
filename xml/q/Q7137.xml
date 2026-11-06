@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q7137">
   <head>
     <unicode>ᠭᠣᠷᠪᠠᠳᠣᠭᠠᠷ</unicode>
@@ -19,7 +19,7 @@
         <example>
           <unicode>ᠭᠣᠷᠪᠠᠳᠣᠭᠠᠷ ᠢᠨᠲᠡᠷᠨᠠᠴᠢᠣᠨᠠᠯ</unicode>
           <transcript>-- lnternacional</transcript>
-          <definition> The Third International.</definition>
+          <definition>The Third International.</definition>
         </example>
       </examples>
     </entry_item>
@@ -54,7 +54,7 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠷᠪᠠᠳᠣᠭᠠᠷ</unicode>
       <cyrillic>ГУРАВДУГААР</cyrillic>
-      <definition>третий; в третьих; гуравдугаар боть третий том; гуравдугаар зэргийн техникч техник третьего разряда; гуравдугаар интернационал түүх. третий интернационал; гуравдугаар сар март. </definition>
+      <definition>третий; в третьих; гуравдугаар боть третий том; гуравдугаар зэргийн техникч техник третьего разряда; гуравдугаар интернационал түүх. третий интернационал; гуравдугаар сар март.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -69,6 +69,12 @@
       <cyrillic>гуравдугаар</cyrillic>
       <definition>дэс тоо, гуравдахь; гуравдугаар боть; гуравдугаар гурил ; гуравдугаар зэрэг.</definition>
       <page>160</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гуравдугаарт</cyrillic>
+      <definition>drittens</definition>
+      <page>81</page>
     </entry_item>
   </entries>
 </entry>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q7126">
   <head>
     <unicode>ᠭᠣᠷᠪᠠᠨᠲᠠ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>gorbanda</transcript2>
     <cyrillic>гурвант</cyrillic>
   </head>
+  <related_to>
+    <ref>Q7125</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -19,7 +22,7 @@
         <example>
           <unicode>ᠭᠣᠷᠪᠠᠨᠲᠠ ᠪᠡᠷ</unicode>
           <transcript>-- ber</transcript>
-          <definition> Three times ( rare).</definition>
+          <definition>Three times ( rare).</definition>
         </example>
       </examples>
     </entry_item>
@@ -47,7 +50,7 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠷᠪᠠᠨᠲᠠ</unicode>
       <cyrillic>ГУРВАНТАА</cyrillic>
-      <definition>три раза, трижды. </definition>
+      <definition>три раза, трижды.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -57,8 +60,11 @@
       <definition>гурван удаа.</definition>
       <page>160</page>
     </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гурвантаа</cyrillic>
+      <definition>dreifach, dreimal</definition>
+      <page>81</page>
+    </entry_item>
   </entries>
-  <related_to>
-    <ref>Q7125</ref>
-  </related_to>
 </entry>

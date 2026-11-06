@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q6563">
   <head>
     <unicode>ᠭᠣᠶᠢᠪᠢᠯᠵᠠᠬᠣ</unicode>
@@ -6,12 +6,12 @@
     <transcript2>goyibilcago</transcript2>
     <cyrillic>гуйвалзах</cyrillic>
   </head>
-  <derivatives>
-    <ref>Q6564</ref>
-  </derivatives>
   <see_also>
     <ref>Q6538</ref>
   </see_also>
+  <derivatives>
+    <ref>Q6564</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Chinese</dico>
@@ -24,21 +24,21 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠶᠢᠪᠢᠯᠵᠠᠬᠣ</unicode>
       <cyrillic>ГУЙВАЛЗАХ</cyrillic>
-      <definition>1. колебаться, качаться; покачиваться; 2. гуйвалзахуй-г үз. </definition>
+      <definition>1. колебаться, качаться; покачиваться; 2. гуйвалзахуй-г үз.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
-      <unicode>ᠭᠣᠶᠢᠪᠢᠯᠵᠠᠬᠣ</unicode>
+      <unicode>ᠭᠣᠶᠢᠪᠢᠯᠵᠠᠬᠣᠢ</unicode>
       <cyrillic>ГУЙВАЛЗАХУЙ</cyrillic>
-      <definition>качание, раскачивание, покачивание, колебание. </definition>
+      <definition>качание, раскачивание, покачивание, колебание.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
-      <unicode>ᠭᠣᠶᠢᠪᠢᠯᠵᠠᠬᠣ</unicode>
+      <unicode>ᠭᠣᠶᠢᠪᠢᠯᠵᠠᠨ</unicode>
       <cyrillic>ГУЙВАЛЗАН</cyrillic>
-      <definition>гуйвалзах-ын хамж., вперевалку, вразвалку; утицей, уточкой, переваливаясь с боку на бок. </definition>
+      <definition>гуйвалзах-ын хамж., вперевалку, вразвалку; утицей, уточкой, переваливаясь с боку на бок.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -47,6 +47,12 @@
       <cyrillic>гуйвалзах</cyrillic>
       <definition>гуйвгар юмны гуйвас гуйвас хийх.</definition>
       <page>156</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гуйвалзах</cyrillic>
+      <definition>= гуйвганах</definition>
+      <page>80</page>
     </entry_item>
   </entries>
 </entry>

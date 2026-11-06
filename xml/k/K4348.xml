@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K4348">
   <head>
     <unicode>ᠭᠦᠵᠡᠭᠡ</unicode>
@@ -6,6 +6,11 @@
     <transcript2>göcege</transcript2>
     <cyrillic>гүзээ</cyrillic>
   </head>
+  <derivatives>
+    <ref>K4349</ref>
+    <ref>K4350</ref>
+    <ref>K4352</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -64,10 +69,11 @@
       <definition>1. хэвэгч амьтны идсэн юмыг агуулдаг сав;гэдэс гүзээ&lt;хорш&gt;; хонины гүзээ; үхрийн гүзээ;2. гүзээнд хийсэн юм; гүзээ тос; гүзээ сүү.</definition>
       <page>164</page>
     </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гүззэ[н]</cyrillic>
+      <definition>Tier Pansen m; umg Schmerbauch m ◇ ~ шороодох sterben; umg am Ende sein (wörtl mit dem Bauch im Dreck liegen)</definition>
+      <page>82</page>
+    </entry_item>
   </entries>
-  <derivatives>
-    <ref>K4349</ref>
-    <ref>K4350</ref>
-    <ref>K4352</ref>
-  </derivatives>
 </entry>

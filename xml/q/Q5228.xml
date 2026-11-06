@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q5228">
   <head>
     <unicode>ᠭᠣᠲᠣᠬᠣ</unicode>
@@ -6,14 +6,14 @@
     <transcript2>godogo</transcript2>
     <cyrillic>гутах</cyrillic>
   </head>
-  <derivatives>
-    <ref>Q5249</ref>
-  </derivatives>
   <see_also>
     <ref>Q5154</ref>
     <ref>Q5227</ref>
     <ref>Q5229</ref>
   </see_also>
+  <derivatives>
+    <ref>Q5249</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -27,12 +27,12 @@
         <example>
           <unicode>ᠳᠤᠷ᠎ᠠ ᠭᠣᠲᠣᠬᠣ</unicode>
           <transcript>dur-a --xu</transcript>
-          <definition> To lose pleasure or interest.</definition>
+          <definition>To lose pleasure or interest.</definition>
         </example>
         <example>
           <unicode>ᠰᠡᠳᠺᠢᠯ ᠭᠣᠲᠣᠬᠣ</unicode>
           <transcript>sedkil --xu</transcript>
-          <definition> To feel depressed or despondent.</definition>
+          <definition>To feel depressed or despondent.</definition>
         </example>
       </examples>
     </entry_item>
@@ -73,7 +73,7 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠲᠣᠬᠣ</unicode>
       <cyrillic>ГУТАХ</cyrillic>
-      <definition>1) портиться; ухудшаться; срамиться, позориться; өвс гутаж илжирнэ сено, портясь, гниёт; 2) терять надежду, унывать, отчаяться; дур гутах терять интерес, охоту к чему-л.; 3) приходить в замешательство, в смущение; ой гутах брезговать, чувствовать отвращение; сэтгэл гутах быть удручённым; үнэр гутах издавать запах, пахнуть. </definition>
+      <definition>1) портиться; ухудшаться; срамиться, позориться; өвс гутаж илжирнэ сено, портясь, гниёт; 2) терять надежду, унывать, отчаяться; дур гутах терять интерес, охоту к чему-л.; 3) приходить в замешательство, в смущение; ой гутах брезговать, чувствовать отвращение; сэтгэл гутах быть удручённым; үнэр гутах издавать запах, пахнуть.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -82,6 +82,13 @@
       <cyrillic>гутах</cyrillic>
       <definition>1. буурч доройтон зовних; нэр гутах; сэтгэл гутах; өнгө нь гутах;2. юмны чанар муудах; идэшний ногоо муудаж гутах.</definition>
       <page>161</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гутах</cyrillic>
+      <definition>1. sich grämen, bedrückt sein; дур ~ die Lust verlieren (an -д); ой ~ übertr sich ekeln (vor -д); сэтгэл ~ niedergeschlagen sein &#13;
+2.: өнгө ~ Farbe verblassen</definition>
+      <page>81</page>
     </entry_item>
   </entries>
 </entry>

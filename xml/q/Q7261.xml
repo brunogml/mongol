@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q7261">
   <head>
     <unicode>ᠭᠣᠷᠮᠣᠰᠣᠯᠠᠬᠣ</unicode>
@@ -6,12 +6,12 @@
     <transcript2>gormosolago</transcript2>
     <cyrillic>гурамслах</cyrillic>
   </head>
-  <derivatives>
-    <ref>Q7262</ref>
-  </derivatives>
   <see_also>
     <ref>Q7147</ref>
   </see_also>
+  <derivatives>
+    <ref>Q7262</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -25,7 +25,7 @@
         <example>
           <unicode>ᠭᠣᠷᠮᠣᠰᠣᠯᠠᠵᠤ ᠲᠠᠮᠤᠬᠤ</unicode>
           <transcript>--zu tamuxu,</transcript>
-          <definition> To splice three strands.</definition>
+          <definition>To splice three strands.</definition>
         </example>
       </examples>
     </entry_item>
@@ -72,7 +72,7 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠣᠷᠮᠣᠰᠣᠯᠠᠬᠣ</unicode>
       <cyrillic>ГУРМАСЛАХ</cyrillic>
-      <definition>вить верёвку из трёх прядей; сучить в три нитки; утроить, сделать тройным (напр. верёвку). </definition>
+      <definition>вить верёвку из трёх прядей; сучить в три нитки; утроить, сделать тройным (напр. верёвку).</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -81,6 +81,12 @@
       <cyrillic>гурамслах</cyrillic>
       <definition>юмыг гурамсан болгох.</definition>
       <page>160</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гурамслах</cyrillic>
+      <definition>dreifach machen, verdreifachen</definition>
+      <page>81</page>
     </entry_item>
   </entries>
 </entry>

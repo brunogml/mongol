@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q5564">
   <head>
     <unicode>ᠭᠣᠯᠢᠷ</unicode>
@@ -6,6 +6,14 @@
     <transcript2>golir</transcript2>
     <cyrillic>гулир</cyrillic>
   </head>
+  <derivatives>
+    <ref>Q5565</ref>
+    <ref>Q5566</ref>
+    <ref>Q5567</ref>
+    <ref>Q5569</ref>
+    <ref>Q5570</ref>
+    <ref>Q5571</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -159,13 +167,17 @@
       <definition>гурил.</definition>
       <page>158</page>
     </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гурил</cyrillic>
+      <definition>Mehl n; ~ зуурах Teig kneten; ~ татах Mehl mahlen; ~ элдэх Teig ausrollen; зуурсан ~ Teig m; томсний ~ Kartoffelstärke f</definition>
+      <page>81</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гурилын</cyrillic>
+      <definition>(Gen von гурил) Mehl-; ~ комбинат Mehlkombinat n; ~ цох Mehlwurm m</definition>
+      <page>81</page>
+    </entry_item>
   </entries>
-  <derivatives>
-    <ref>Q5565</ref>
-    <ref>Q5566</ref>
-    <ref>Q5567</ref>
-    <ref>Q5569</ref>
-    <ref>Q5570</ref>
-    <ref>Q5571</ref>
-  </derivatives>
 </entry>

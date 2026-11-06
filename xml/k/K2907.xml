@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K2907">
   <head>
     <unicode>ᠭᠦᠢᠴᠡᠭᠡᠺᠦ</unicode>
@@ -44,7 +44,8 @@
     <entry_item>
       <dico>Kowalewski</dico>
       <unicode>ᠭᠦᠢᠴᠡᠭᠡᠺᠦ</unicode>
-      <definition>1 achever, terminer , accomplir, remplir: 
+      <definition>1 achever, terminer , accomplir, remplir: &#13;
+&#13;
 2 compléter</definition>
       <page>2561</page>
       <examples>
@@ -104,6 +105,13 @@
       <cyrillic>гүйцээх</cyrillic>
       <definition>гүйцэхийн үйлдүүлэх хэв, гүйцэд болгох, дутагдалгүй бүрэн болгох; гүйцээж бичнэ; ажлаа гүйцээж байж явна; түргэн гүйцээх хэрэгтэй.</definition>
       <page>165</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гүйцээх</cyrillic>
+      <definition>1. Kaus von гүйцэх &#13;
+2. vollenden, beenden; vervollständigen; би ажлаа гүйцзэж байж явна wenn ich meine Arbeit beendet habe, werde ich gehen</definition>
+      <page>83</page>
     </entry_item>
   </entries>
 </entry>
