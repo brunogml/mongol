@@ -2842,7 +2842,7 @@
 <item><ref>A2634</ref><unicode>ᠠᠯᠳᠠᠷᠰᠢᠴᠢᠬᠠᠬᠣ</unicode><transcript>aldarsičiqaqu</transcript><transcript2>aldarsicigago</transcript2><cyrillic>алдаршчихах</cyrillic></item>
 <item><ref>A2635</ref><unicode>ᠠᠯᠳᠠᠷᠲᠠᠢ</unicode><transcript>aldartai</transcript><transcript2>aldardai</transcript2><cyrillic>алдартай</cyrillic></item>
 <item><ref>A2636</ref><unicode>ᠠᠯᠳᠠᠷᠲᠠᠨ</unicode><transcript>aldartan</transcript><transcript2>aldardan</transcript2><cyrillic>алдартан</cyrillic></item>
-<item><ref>A2637</ref><unicode>ᠠᠯᠳᠠᠷᠲᠣ</unicode><transcript>aldartu</transcript><transcript2>aldardo</transcript2><cyrillic>алдарт</cyrillic></item>
+<item><ref>A2637</ref><unicode>ᠠᠯᠳᠠᠷᠲᠣ</unicode><transcript>aldartu</transcript><transcript2>aldardo</transcript2><cyrillic>алдарт</cyrillic><variants><v t="unicode">ᠠᠯᠳᠠᠷ ᠎ᠲᠤ</v></variants></item>
 <item><ref>A2638</ref><unicode>ᠠᠯᠳᠠᠷᠯᠠᠬᠣ</unicode><transcript>aldarlaqu</transcript><transcript2>aldarlago</transcript2><cyrillic>алдарлах</cyrillic></item>
 <item><ref>A2639</ref><unicode>ᠠᠯᠲᠠᠷᠮᠠᠯ</unicode><transcript>altarmal</transcript><transcript2>aldarmal</transcript2><cyrillic>алтармал</cyrillic></item>
 <item><ref>A2640</ref><unicode>ᠠᠯᠳᠠᠷᠴᠢᠬᠠᠬᠣ</unicode><transcript>aldarčiqaqu</transcript><transcript2>aldarcigago</transcript2><cyrillic>алдарчихах</cyrillic></item>
@@ -72703,4 +72703,6 @@
 <item><ref>Q7471</ref><unicode>ᠬᠠᠯᠬᠠᠯᠠᠭᠳᠠᠯ</unicode><transcript>qalqalaγdal</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
 <item><ref>S7180</ref><unicode>ᠱᠧᠳ</unicode><transcript>šed</transcript><transcript2>sed</transcript2><cyrillic></cyrillic></item>
 <item><ref>Q7472</ref><unicode>ᠭᠤᠷᠠᠩᠬᠤᠯᠠᠬᠤ</unicode><transcript>γurangqulaqu</transcript><transcript2></transcript2><cyrillic>гуринхлах</cyrillic></item>
+<item><ref>B9050</ref><unicode>ᠪᠠᠰᠤᠸᠠᠨᠳᠤ</unicode><transcript>basuvandu</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>K5329</ref><unicode>ᠺᠦᠷᠺᠢᠷᠡᠭᠴᠢ</unicode><transcript>kürkiregči</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
 </list>
