@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T5594">
   <head>
     <unicode>ᠲᠣᠭᠠᠲᠠᠢ</unicode>
@@ -6,13 +6,11 @@
     <transcript2>dogadai</transcript2>
     <cyrillic>тоотой</cyrillic>
   </head>
-  <derivatives>
-    <ref>T5829</ref>
-  </derivatives>
   <see_also>
     <ref>T5593</ref>
     <ref>T5598</ref>
   </see_also>
+  
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -25,17 +23,17 @@
       <examples>
         <example>
           <unicode>ᠲᠣᠭᠠᠲᠠᠢ ᠺᠡᠳᠦᠨ</unicode>
-          <transcript>-- kedyn </transcript>
+          <transcript>-- kedyn</transcript>
           <definition>Only a few</definition>
         </example>
         <example>
-          <unicode>ᠲᠣᠭᠠᠲᠠᠢ ᠺᠡᠳᠦᠨ ᠺᠦᠮᠦᠨ </unicode>
-          <transcript>-- kedyn kymyn </transcript>
+          <unicode>ᠲᠣᠭᠠᠲᠠᠢ ᠺᠡᠳᠦᠨ ᠺᠦᠮᠦᠨ</unicode>
+          <transcript>-- kedyn kymyn</transcript>
           <definition>Only a few people</definition>
         </example>
         <example>
           <unicode>ᠣᠯᠠᠨ ᠲᠣᠭᠠᠲᠠᠢ</unicode>
-          <transcript>olan – </transcript>
+          <transcript>olan –</transcript>
           <definition>Numerous</definition>
         </example>
       </examples>
@@ -71,7 +69,7 @@
       <dico>lamrd</dico>
       <unicode>ᠲᠣᠭᠠᠲᠠᠢ</unicode>
       <cyrillic>ТООТОЙ</cyrillic>
-      <definition>1) большой по колљчеству љли величине; 2) счљтанный, немногочљсленный, в огранљченном колљчестве; зуугаад тоотой в колљчестве около ста; орон тоотой имеющийся по штату, чљслящийся по штату; штатный; имеющий штаты; тогтмол тоотой установленное колљчество; түмэн тоотой десятитысячный; тоотой удаан жил много лет; энэ хэргийн тухай тоотой хүн мэднэ об Їтом событии знают немногие. </definition>
+      <definition>1) большой по колљчеству љли величине; 2) счљтанный, немногочљсленный, в огранљченном колљчестве; зуугаад тоотой в колљчестве около ста; орон тоотой имеющийся по штату, чљслящийся по штату; штатный; имеющий штаты; тогтмол тоотой установленное колљчество; түмэн тоотой десятитысячный; тоотой удаан жил много лет; энэ хэргийн тухай тоотой хүн мэднэ об Їтом событии знают немногие.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -88,4 +86,4 @@
       <page>543</page>
     </entry_item>
   </entries>
-</entry>
+<related_to><ref>T5581</ref></related_to></entry>

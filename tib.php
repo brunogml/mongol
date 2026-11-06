@@ -135,17 +135,26 @@ function loadSaranItems(string $path): array {
 // ── Search ───────────────────────────────────────────────────────
 
 /**
- * Search items whose <tib> field contains the query as a substring.
+ * Search items whose <tib> field matches the query as a complete Wylie word/token.
+ * In Tibetan Wylie, syllables are separated by spaces, so we check that the query
+ * is not surrounded by letters on either side (i.e. word-boundary match).
  * Empty query returns empty array.
  */
 function searchTibetan(string $query, array $items): array {
     $query = trim($query);
     if ($query === '') return [];
+
     $hits   = [];
     $qLower = mb_strtolower($query, 'UTF-8');
+
+    // Build a regex that matches the query only when surrounded by
+    // start-of-string, end-of-string, or a space (Tibetan Wylie word boundary).
+    // This prevents 'khu' from matching inside 'khur' or 'mkhur'.
+    $pattern = '/(^| )' . preg_quote($qLower, '/') . '( |$)/u';
+
     foreach ($items as $item) {
         $tib = mb_strtolower($item['tib'], 'UTF-8');
-        if (mb_strpos($tib, $qLower) !== false) {
+        if (preg_match($pattern, $tib)) {
             $hits[] = $item;
         }
     }

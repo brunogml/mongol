@@ -6,6 +6,10 @@
     <transcript2>nidorga</transcript2>
     <cyrillic>нудрага</cyrillic>
   </head>
+  <derivatives>
+    <ref>N1529a</ref>
+    <ref>N1530</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -59,11 +63,11 @@
       <page>357</page>
       <examples>
         <example>
-          <uighur>nidurγ-a nuγusu</uighur>
+          <unicode>ᠨᠢᠳᠤᠷᠭ ᠠ ᠨᠤᠭᠤᠰᠤ</unicode>
           <definition>n. Water bottle gourd.</definition>
         </example>
         <example>
-          <uighur>nidurγ-a ban ǰanggidqu</uighur>
+          <unicode>ᠨᠢᠳᠤᠷᠭ ᠠ ᠪᠠᠨ ᠵᠠᠩᠭᠢᠳᠬᠤ</unicode>
           <definition>To clench one's fists</definition>
         </example>
       </examples>
@@ -83,4 +87,4 @@
       <page>387</page>
     </entry_item>
   </entries>
-<derivatives><ref>N1529a</ref><ref>N1530</ref></derivatives></entry>
+</entry>
