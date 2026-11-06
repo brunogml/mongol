@@ -2069,7 +2069,7 @@ if ($ref !== '') {
       max-width: 100%;
       height: auto;
       border: 1px solid var(--rule);
-      border-radius: 12px;
+      border-radius: 25px;
       box-shadow: 0 4px 24px rgba(15,39,71,.12);
       display: block;
       margin: 0 auto;
@@ -2640,7 +2640,12 @@ if ($entryXml !== null) {
     </p>
     <div class="landing-hero">
       <img src="Mng000.jpg"
-           alt="Mongolian manuscript — opening folio with deity illustrations and red-ink text"
+           alt="Mongolian manuscript — opening folio with deity illustrations"
+           class="landing-hero-img">
+    </div>
+    <div class="landing-hero">
+      <img src="Mng000a.jpg"
+           alt="Mongolian-Tibetan manuscript — opening folio with deity illustrations"
            class="landing-hero-img">
     </div>
     <p class="landing-footer landing-footer-note">Further resources will be added step by step.</p>
