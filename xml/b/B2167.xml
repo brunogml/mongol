@@ -5,9 +5,10 @@
     <transcript>bisireltü</transcript>
     <transcript2>bisireldö</transcript2>
     <cyrillic>бишрэлт</cyrillic>
-  </head><see_also>
-    <ref>B2165</ref>
-  </see_also>
+  </head>
+  <related_to>
+    <ref>B2164</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -20,12 +21,12 @@
     <entry_item>
       <dico>Lessing</dico>
       <unicode>ᠪᠢᠰᠢᠷᠠᠯᠲᠥ</unicode>
-      <transcript>BISIRELTY </transcript>
+      <transcript>BISIRELTY</transcript>
       <page>1163</page>
       <examples>
         <example>
           <unicode>ᠪᠢᠰᠢᠷᠠᠯᠲᠦ ᠰᠡᠳᠺᠢᠯ</unicode>
-          <transcript>sedkil; </transcript>
+          <transcript>sedkil;</transcript>
           <definition>T. rtse gcid yid; s. cittaigratā. Meditative concentration upon one area.</definition>
         </example>
       </examples>
@@ -54,4 +55,4 @@
       <page>159</page>
     </entry_item>
   </entries>
-</entry>
+<see_also><ref>B2166</ref></see_also></entry>
