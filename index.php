@@ -1310,7 +1310,8 @@ if ($ref !== '') {
   }
   .result-list .meta { padding-top: .1rem; }
   .result-list .trans { font-family: "EB Garamond", serif; font-size: 1.15rem; font-weight: 500; }
-  .result-list .cyr   { font-family: "Noto Serif", serif; color: var(--ink-soft); }
+  .result-list .cyr   { font-family: "Noto Serif", serif; color: var(--ink); font-weight: 500; }
+  .result-list .trans-secondary { font-size: .88rem; font-weight: 400; color: var(--ink-soft); }
   .result-list .refid { font-family: "Courier New", monospace; font-size: .78rem; color: var(--ink-soft); padding-top: .2rem; }
   .no-results {
       font-style: italic; color: var(--ink-soft); padding: 1.5rem 0;
@@ -1368,9 +1369,17 @@ if ($ref !== '') {
       font-size: 1.7rem; font-weight: 500; color: var(--ink);
       letter-spacing: .005em;
   }
+  .entry-head .lemma-trans.lemma-trans-secondary {
+      font-size: 1.1rem; font-weight: 400; color: var(--ink-soft);
+      margin-top: .15rem; letter-spacing: 0;
+  }
   .entry-head .lemma-cyr {
       font-family: "Noto Serif", serif; font-size: 1.1rem;
       color: var(--ink-soft); margin-top: .15rem;
+  }
+  .entry-head .lemma-cyr.lemma-cyr-primary {
+      font-size: 1.7rem; font-weight: 500; color: var(--ink);
+      margin-top: 0;
   }
   .lemma-variant {
       font-size: .78em; font-weight: 400;
@@ -2289,17 +2298,17 @@ if ($entryXml !== null) {
       </div>
     <?php endif; ?>
     <div class="head-body">
-      <?php if ($hTr !== ''): ?>
-        <div class="lemma-trans"><?= h($hTr) ?>
-          <?php foreach ($trVariants as $v): ?>
-            <span class="lemma-variant lemma-variant-tr"><?= h($v['value']) ?></span>
+      <?php if ($hCyr !== ''): ?>
+        <div class="lemma-cyr lemma-cyr-primary"><?= h($hCyr) ?>
+          <?php foreach ($cyrVariants as $v): ?>
+            <span class="lemma-variant lemma-variant-cyr"><?= h($v['value']) ?></span>
           <?php endforeach; ?>
         </div>
       <?php endif; ?>
-      <?php if ($hCyr !== ''): ?>
-        <div class="lemma-cyr"><?= h($hCyr) ?>
-          <?php foreach ($cyrVariants as $v): ?>
-            <span class="lemma-variant lemma-variant-cyr"><?= h($v['value']) ?></span>
+      <?php if ($hTr !== ''): ?>
+        <div class="lemma-trans lemma-trans-secondary"><?= h($hTr) ?>
+          <?php foreach ($trVariants as $v): ?>
+            <span class="lemma-variant lemma-variant-tr"><?= h($v['value']) ?></span>
           <?php endforeach; ?>
         </div>
       <?php endif; ?>
@@ -2612,9 +2621,11 @@ if ($entryXml !== null) {
               <?php endforeach; ?>
             </span>
             <span class="meta">
-              <span class="trans"><?= $contains || $fuzzy ? highlightTranscript($r['transcript'], $query, $contains) : h($r['transcript']) ?></span>
               <?php if ($r['cyrillic'] !== '' || $cyrVariants): ?>
-                &nbsp;&middot;&nbsp;<span class="cyr"><?= h($r['cyrillic']) ?><?php foreach ($cyrVariants as $cv): ?><span class="lemma-variant"><?= h($cv) ?></span><?php endforeach; ?></span>
+                <span class="cyr"><?= h($r['cyrillic']) ?><?php foreach ($cyrVariants as $cv): ?><span class="lemma-variant"><?= h($cv) ?></span><?php endforeach; ?></span>
+              <?php endif; ?>
+              <?php if ($r['transcript'] !== ''): ?>
+                <?php if ($r['cyrillic'] !== '' || $cyrVariants): ?>&nbsp;&middot;&nbsp;<?php endif; ?><span class="trans trans-secondary"><?= $contains || $fuzzy ? highlightTranscript($r['transcript'], $query, $contains) : h($r['transcript']) ?></span>
               <?php endif; ?>
             </span>
             <span class="refid"><?= h($r['ref']) ?></span>

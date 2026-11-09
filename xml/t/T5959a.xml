@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T5959a">
   <head>
-    <unicode>ᠳᠣᠭᠣᠷᠠ</unicode>
-    <transcript>duγura</transcript>
+    <unicode>ᠳᠤᠭᠤᠷ ᠠ</unicode>
+    <transcript>duγur-a</transcript>
     <transcript2>dogora</transcript2>
     <cyrillic>дуур</cyrillic>
-  </head><derivatives>
+  </head>
+  <see_also>
+    <ref>T5958</ref>
+  </see_also>
+  <derivatives>
     <ref>T5966a</ref>
   </derivatives>
+  <entries/>
 </entry>

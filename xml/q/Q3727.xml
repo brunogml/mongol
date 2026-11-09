@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q3727">
   <head>
     <unicode>ᠬᠣ</unicode>
@@ -8,6 +8,9 @@
   </head>
   <see_also>
     <ref>Q3728</ref>
+    <ref>Q3728a</ref>
+    <ref>Q3728b</ref>
+    <ref>Q3728c</ref>
   </see_also>
   <entries>
     <entry_item>
@@ -20,7 +23,7 @@
         <example>
           <unicode>ᠬᠣ ᠬᠠ</unicode>
           <transcript>-- xa</transcript>
-          <definition> Adv. expression describing panting or grasping</definition>
+          <definition>Adv. expression describing panting or grasping</definition>
         </example>
       </examples>
     </entry_item>
@@ -41,14 +44,14 @@
       <dico>lamrd</dico>
       <unicode>ᠬᠣ</unicode>
       <cyrillic>ХУ</cyrillic>
-      <definition>I 1) мера веса, равная 0,377г.; 2) мера измерения длины, равная 0,32мм. </definition>
+      <definition>I 1) мера веса, равная 0,377г.; 2) мера измерения длины, равная 0,32мм.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠬᠣ</unicode>
       <cyrillic>ХУ</cyrillic>
-      <definition>II : ху хаа аялга. ух! (звук, издаваемый продрогшим при морозе); ху хуу крики, которыми поднимают зверей на охоте. </definition>
+      <definition>II : ху хаа аялга. ух! (звук, издаваемый продрогшим при морозе); ху хуу крики, которыми поднимают зверей на охоте.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>

@@ -5,35 +5,37 @@
     <transcript>γo</transcript>
     <transcript2>go</transcript2>
     <cyrillic>го</cyrillic>
-  </head><derivatives>
-    <ref>Q4472</ref>
-  
-    <ref>Q4472a</ref>
-  </derivatives><see_also>
+  </head>
+  <see_also>
     <ref>Q3727</ref>
-  
     <ref>Q3728a</ref>
+    <ref>Q3728b</ref>
+    <ref>Q3728c</ref>
   </see_also>
+  <derivatives>
+    <ref>Q4472</ref>
+    <ref>Q4472a</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠭᠣ</unicode>
       <cyrillic>ГО</cyrillic>
-      <definition>I : го го хорш., аялга. ко, ко, кукареку (подражение кудахтанью кур). </definition>
+      <definition>I : го го хорш., аялга. ко, ко, кукареку (подражение кудахтанью кур).</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠭᠣ</unicode>
       <cyrillic>ГО</cyrillic>
-      <definition>II тө., зурх. антилопья голова (название четвертой звезды из 28 звёзд лунной астрологии); гөрөөсөн толгой / мэргэшир-ийг үз. </definition>
+      <definition>II тө., зурх. антилопья голова (название четвертой звезды из 28 звёзд лунной астрологии); гөрөөсөн толгой / мэргэшир-ийг үз.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠭᠣ</unicode>
       <cyrillic>ГО</cyrillic>
-      <definition>III: манж го түүх. маньчжурская династия. </definition>
+      <definition>III: манж го түүх. маньчжурская династия.</definition>
       <page>0</page>
     </entry_item>
   </entries>
