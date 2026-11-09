@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="S1167">
   <head>
-    <unicode>ᠰᠠᠯᠮᠠ</unicode>
+    <unicode>ᠰᠠᠯᠮ ᠠ</unicode>
     <transcript>salm-a</transcript>
     <transcript2>salm-a</transcript2>
     <cyrillic>салма</cyrillic>
   </head>
+  <see_also>
+    <ref>C0452</ref>
+  </see_also>
+  <derivatives>
+    <ref>S7185</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -39,7 +45,7 @@
       <dico>lamrd</dico>
       <unicode>ᠰᠠᠯᠮᠠ</unicode>
       <cyrillic>САЛМА</cyrillic>
-      <definition>1) петли для ловли оленей, лисиц, зайцев; аркан; цалма-ыг үз.; 2) цалмаа-г үз. </definition>
+      <definition>1) петли для ловли оленей, лисиц, зайцев; аркан; цалма-ыг үз.; 2) цалмаа-г үз.</definition>
       <page>0</page>
     </entry_item>
   </entries>
