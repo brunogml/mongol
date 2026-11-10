@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q1797">
   <head>
     <unicode>ᠬᠠᠳᠬᠣᠯᠳᠣᠬᠣ</unicode>
@@ -19,7 +19,8 @@
     <entry_item>
       <dico>Kowalewski</dico>
       <unicode>ᠬᠠᠳᠬᠣᠯᠳᠣᠬᠤ</unicode>
-      <definition>percer l'un l'autre d'un coup de lance, se battre à coups de sabre, se sabrer; 2 être troublé, embrouiller l'un l'autre</definition>
+      <definition>1 percer l'un l'autre d'un coup de lance, se battre à coups de sabre, se sabrer; &#13;
+2 être troublé, embrouiller l'un l'autre</definition>
       <page>785</page>
       <examples>
         <example>
@@ -39,14 +40,14 @@
       <dico>lamrd</dico>
       <unicode>ᠬᠠᠳᠬᠣᠯᠳᠣᠬᠣ</unicode>
       <cyrillic>ХАТГАЛДАХ</cyrillic>
-      <definition>хатгах-ын үйлдэлд., сражаться. </definition>
+      <definition>хатгах-ын үйлдэлд., сражаться.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>Vietze</dico>
       <cyrillic>хатгалдах</cyrillic>
-      <definition>(Rez von хаттах)
-1. einander stechen (mit etw. -аар)
+      <definition>(Rez von хаттах)&#13;
+1. einander stechen (mit etw. -аар)&#13;
 2. einander aufhetzen</definition>
       <page>298</page>
     </entry_item>
@@ -58,4 +59,4 @@
       <page>670</page>
     </entry_item>
   </entries>
-</entry>
+<related_to><ref>Q1781</ref></related_to><derivatives><ref>Q1796</ref><ref>Q1798</ref></derivatives></entry>

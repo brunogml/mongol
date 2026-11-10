@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="A2901">
   <head>
     <unicode>ᠠᠮᠢᠰᠬᠣᠭᠠᠳᠠᠬᠣ</unicode>
@@ -9,7 +9,7 @@
   <derivatives>
     <ref>A2902</ref>
     <ref>A2905</ref>
-  </derivatives>
+  <ref>A2903</ref><ref>A2904</ref></derivatives>
   <see_also>
     <ref>A2893</ref>
   </see_also>
@@ -43,4 +43,4 @@
       <page>42</page>
     </entry_item>
   </entries>
-</entry>
+<related_to><ref>A2897</ref></related_to></entry>

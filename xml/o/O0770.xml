@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="O0770">
   <head>
-    <unicode>ᠥᠲᠥᠺ</unicode>
+    <unicode>ᠥᠲᠦᠭ</unicode>
     <transcript>ötüg</transcript>
     <transcript2>ödög</transcript2>
     <cyrillic>өтөг(өн)</cyrillic>
-  </head><see_also>
+  </head>
+  <see_also>
     <ref>O0769</ref>
   </see_also>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
-      <unicode>ᠥᠲᠥᠺ</unicode>
+      <unicode>ᠥᠲᠦᠭ</unicode>
       <uighur>ödüg</uighur>
       <cyrillic>өтөг</cyrillic>
       <transcript>ØTYG</transcript>
@@ -19,14 +20,14 @@
       <page>646</page>
       <examples>
         <example>
-          <unicode>ᠥᠲᠥᠺ ᠬᠣᠷᠤᠬᠠᠢ</unicode>
+          <unicode>ᠥᠲᠦᠭ ᠬᠣᠷᠤᠬᠠᠢ</unicode>
           <transcript>-- xoruxai</transcript>
-          <definition> White worms with red heads living in damp places or in manure.</definition>
+          <definition>White worms with red heads living in damp places or in manure.</definition>
         </example>
         <example>
-          <unicode>ᠬᠠᠭᠤᠷᠠᠢ ᠥᠲᠥᠺ</unicode>
-          <transcript>xaγurai -- </transcript>
-          <definition> Dry manure.</definition>
+          <unicode>ᠬᠠᠭᠤᠷᠠᠢ ᠥᠲᠦᠭ</unicode>
+          <transcript>xaγurai --</transcript>
+          <definition>Dry manure.</definition>
         </example>
       </examples>
     </entry_item>
@@ -75,43 +76,43 @@
     </entry_item>
     <entry_item>
       <dico>Boberg</dico>
-      <unicode>ᠥᠲᠥᠺ</unicode>
+      <unicode>ᠥᠲᠦᠭ</unicode>
       <uighur>ütüg</uighur>
       <definition>(öt)n. Dung, manure. Excrement</definition>
       <page>300</page>
       <examples>
         <example>
-          <uighur>üdüg qoruqai</uighur>
+          <unicode>ᠦᠳᠦᠭ ᠬᠣᠷᠤᠬᠠᠢ</unicode>
           <definition>Large maggots.</definition>
         </example>
       </examples>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
-      <unicode>ᠥᠲᠥᠺ</unicode>
+      <unicode>ᠥᠲᠦᠭ</unicode>
       <cyrillic>ӨТӨГ</cyrillic>
-      <definition>I коровий, овечий навоз, назём; их өтөг гурван жил шатдаг зүйр., үгчил. большой навоз три года горит; ~ большому кораблю большое плавание; шар өтөг свежий навоз; өтөг бууц хорш. стойбище, покрытое мелким навозом; өтөг хорхой шавж. навозный червь; өтөг шороо хорш. навозная пыль; газрыг өтгөөр бордох удобрять поля навозом; өтөгний мөөг ург. грибы, растущие на навозе. </definition>
+      <definition>I коровий, овечий навоз, назём; их өтөг гурван жил шатдаг зүйр., үгчил. большой навоз три года горит; ~ большому кораблю большое плавание; шар өтөг свежий навоз; өтөг бууц хорш. стойбище, покрытое мелким навозом; өтөг хорхой шавж. навозный червь; өтөг шороо хорш. навозная пыль; газрыг өтгөөр бордох удобрять поля навозом; өтөгний мөөг ург. грибы, растущие на навозе.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
-      <unicode>ᠥᠲᠥᠺ</unicode>
+      <unicode>ᠥᠲᠦᠭ</unicode>
       <cyrillic>ӨТӨГ</cyrillic>
-      <definition>II гуща; отстой; айргийн өтөг гуща кумыса; шар айргийн өтөг пивная гуща; чихэрлэг шүүсний өтөг отстой сиропа. </definition>
+      <definition>II гуща; отстой; айргийн өтөг гуща кумыса; шар айргийн өтөг пивная гуща; чихэрлэг шүүсний өтөг отстой сиропа.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
-      <unicode>ᠥᠲᠥᠺ</unicode>
+      <unicode>ᠥᠲᠦᠭ</unicode>
       <cyrillic>ӨТӨГ(ӨН)</cyrillic>
-      <definition>III : хөрст алтан дэлхий этүгэн (өтөгөн) эх мину аман.зох. мать – сыра земля (золотая); этүгэн-г үз. </definition>
+      <definition>III : хөрст алтан дэлхий этүгэн (өтөгөн) эх мину аман.зох. мать – сыра земля (золотая); этүгэн-г үз.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
-      <unicode>ᠥᠲᠥᠺ</unicode>
+      <unicode>ᠥᠲᠦᠭ</unicode>
       <cyrillic>ӨТӨГ</cyrillic>
-      <definition>IV старый, старец, старейший; † өтөг боол наследственный раб. </definition>
+      <definition>IV старый, старец, старейший; † өтөг боол наследственный раб.</definition>
       <page>0</page>
     </entry_item>
   </entries>

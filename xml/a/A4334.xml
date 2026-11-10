@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="A4334">
   <head>
     <unicode>ᠠᠷᠰᠢ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>arsi</transcript2>
     <cyrillic>арис</cyrillic>
   </head>
+  <derivatives>
+    <ref>A9070</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>

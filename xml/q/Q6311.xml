@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q6311">
   <head>
     <unicode>ᠬᠣᠵᠢᠷᠲᠠᠢ</unicode>
@@ -9,6 +9,9 @@
   <see_also>
     <ref>Q6312</ref>
   </see_also>
+  <related_to>
+    <ref>Q6304</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -21,17 +24,17 @@
         <example>
           <unicode>ᠬᠣᠵᠢᠷᠲᠠᠢ ᠭᠠᠵᠠᠷ</unicode>
           <transcript>-- γazar</transcript>
-          <definition> Soil covered with salt, saline soil</definition>
+          <definition>Soil covered with salt, saline soil</definition>
         </example>
         <example>
           <unicode>ᠬᠣᠵᠢᠷᠲᠠᠢ ᠤᠨ ᠣᠺᠢ</unicode>
           <transcript>-- un oki</transcript>
-          <definition> Layer of salt on the surface of the soil.</definition>
+          <definition>Layer of salt on the surface of the soil.</definition>
         </example>
         <example>
           <unicode>ᠬᠣᠵᠢᠷᠲᠠᠢ ᠤᠰᠤ</unicode>
           <transcript>-- usu</transcript>
-          <definition> Salty water.</definition>
+          <definition>Salty water.</definition>
         </example>
       </examples>
     </entry_item>
@@ -46,7 +49,7 @@
       <dico>lamrd</dico>
       <unicode>ᠬᠣᠵᠢᠷᠲᠠᠢ</unicode>
       <cyrillic>ХУЖИРТАЙ</cyrillic>
-      <definition>1) содержащий соду (натуральную); 2) солончаковый; хужиртай нуур солончаковое озеро; хужиртай ус солончаковая вода; хужиртай хөрс солончаковые почвы. </definition>
+      <definition>1) содержащий соду (натуральную); 2) солончаковый; хужиртай нуур солончаковое озеро; хужиртай ус солончаковая вода; хужиртай хөрс солончаковые почвы.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>

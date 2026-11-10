@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q6304">
   <head>
     <unicode>ᠬᠣᠵᠢᠷ</unicode>
@@ -6,6 +6,10 @@
     <transcript2>gocir</transcript2>
     <cyrillic>хужир</cyrillic>
   </head>
+  <derivatives>
+    <ref>Q6312</ref>
+    <ref>Q6311</ref>
+  <ref>Q6308</ref><ref>Q6311a</ref><ref>Q6313</ref><ref>Q6315</ref><ref>Q6319</ref><ref>Q6319a</ref><ref>Q6310a</ref></derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>

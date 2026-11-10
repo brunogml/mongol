@@ -5,11 +5,14 @@
     <transcript>quratai</transcript>
     <transcript2>goradai</transcript2>
     <cyrillic>хуртай</cyrillic>
-  </head><see_also>
+  </head>
+  <see_also>
     <ref>Q7194</ref>
-  
     <ref>Q6798</ref>
   </see_also>
+  <related_to>
+    <ref>Q6757</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -24,7 +27,7 @@
       <dico>lamrd</dico>
       <unicode>ᠬᠣᠷᠠᠲᠠᠢ</unicode>
       <cyrillic>ХУРТАЙ</cyrillic>
-      <definition>I обильный атмосферными осадками; дождливый; хуртай үе дождливое время. </definition>
+      <definition>I обильный атмосферными осадками; дождливый; хуртай үе дождливое время.</definition>
       <page>0</page>
     </entry_item>
   </entries>
