@@ -5,13 +5,14 @@
     <transcript>güngǰügeyirekü</transcript>
     <transcript2>göngcögeyiregö</transcript2>
     <cyrillic>гүнзгийрэх</cyrillic>
-  </head><derivatives>
-    <ref>K3181</ref>
-  </derivatives><see_also>
+  </head>
+  <see_also>
     <ref>K3144</ref>
-  
     <ref>K3239</ref>
   </see_also>
+  <derivatives>
+    <ref>K3181</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -21,6 +22,12 @@
       <transcript>GYNGZYGEIRE-</transcript>
       <definition>v. i, To become deep, sink in; to be[come] aggravated.</definition>
       <page>391</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гүнзгийрэх</cyrillic>
+      <definition>sich vertiefen, tiefer werden; хямрал гүнзгийрч байна die Krise vertieft od verschärft sich</definition>
+      <page>83</page>
     </entry_item>
   </entries>
 </entry>

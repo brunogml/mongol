@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K3928">
   <head>
     <unicode>ᠭᠦᠳᠭᠡᠯᠭᠡ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>gödgelge</transcript2>
     <cyrillic>гүтгэлэг</cyrillic>
   </head>
+  <related_to>
+    <ref>K3925</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -36,8 +39,11 @@
       <definition>гүтгэх нь; гүтгэлэг хийх.</definition>
       <page>166</page>
     </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гүтгэлэг</cyrillic>
+      <definition>Verleumdung f, Unterstellung f, falsche Behauptung</definition>
+      <page>83</page>
+    </entry_item>
   </entries>
-  <related_to>
-    <ref>K3925</ref>
-  </related_to>
 </entry>

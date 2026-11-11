@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K1142">
   <head>
     <unicode>ᠺᠠᠺᠠᠨ</unicode>
@@ -21,9 +21,11 @@
     <entry_item>
       <dico>Kowalewski</dico>
       <unicode>ᠺᠡᠺᠡᠨ</unicode>
-      <definition>1 éclat, splendeur, clarté; clair, lumineux; éclatant, brillant: 
-2 figure image (d'un saint); personne vénérable, grave personnage: 
-3 coeur, âme; 
+      <definition>1 éclat, splendeur, clarté; clair, lumineux; éclatant, brillant: &#13;
+2 figure image (d'un saint); personne vénérable, grave personnage: &#13;
+&#13;
+3 coeur, âme; &#13;
+&#13;
 4 titre honoraire d'un grave personnage.</definition>
       <page>2492</page>
       <examples>
@@ -141,6 +143,12 @@
       <cyrillic>гэгээн</cyrillic>
       <definition>1. гэгээ гэрэл;2. гэрэлтэй; гэгээн наран; гэгээн саран;3. маш; гэгээн сэцэн; гэгээн тунгалаг; гэгээн тодорхой;4. шажны ёсны ном номлолд мэрэгжиж алдаршсан хүнд олгох цол.</definition>
       <page>167</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гэгээн</cyrillic>
+      <definition>hell, licht; übertr weise, erleuchtet; ~ цагаан өдөр hellichter Tag ◇ ~ хорвоод мэндлэх das Licht der Welt erblicken</definition>
+      <page>84</page>
     </entry_item>
   </entries>
 </entry>

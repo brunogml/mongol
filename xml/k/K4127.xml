@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K4127">
   <head>
     <unicode>ᠺᠥᠯᠳᠡᠶᠢᠺᠥ</unicode>
@@ -18,7 +18,7 @@
       <dico>lamrd</dico>
       <unicode>ᠺᠥᠯᠳᠡᠶᠢᠺᠥ</unicode>
       <cyrillic>ГҮЛДИЙХ</cyrillic>
-      <definition>гнуть шею (дугообразно); оготно залгисан могой шиг гүлдийгээд согнув шею, как змея, проглотившая мышь. </definition>
+      <definition>гнуть шею (дугообразно); оготно залгисан могой шиг гүлдийгээд согнув шею, как змея, проглотившая мышь.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -27,6 +27,12 @@
       <cyrillic>гүлдийх</cyrillic>
       <definition>гүлдгэр болох; оготно залгисан могой шиг гүлдийж харагдах.</definition>
       <page>165</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гүлдийх</cyrillic>
+      <definition>seinen Hals nach vorn recken</definition>
+      <page>83</page>
     </entry_item>
   </entries>
 </entry>

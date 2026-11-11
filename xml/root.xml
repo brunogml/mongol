@@ -62298,7 +62298,7 @@
 <item><ref>K2902</ref><unicode>ᠺᠥᠢᠴᠡᠯᠳᠥᠺᠥᠯᠺᠥ</unicode><transcript>güičeldügülkü</transcript><transcript2>göiceldögölgö</transcript2><cyrillic>гүйцэлдүүлэх</cyrillic></item>
 <item><ref>K2903</ref><unicode>ᠺᠥᠢᠴᠡᠮᠡᠯ</unicode><transcript>güičemel</transcript><transcript2>göicemel</transcript2><cyrillic>гүйцмэл</cyrillic></item>
 <item><ref>K2904</ref><unicode>ᠺᠥᠢᠴᠡᠴᠢᠺᠡᠺᠥ</unicode><transcript>güičečigekü</transcript><transcript2>göicecigegö</transcript2><cyrillic>гүйцчихэх</cyrillic></item>
-<item><ref>K2905</ref><unicode>ᠺᠥᠢᠴᠡᠺᠡᠳᠥᠢ</unicode><transcript>güičegedüi</transcript><transcript2>göicegedöi</transcript2><cyrillic>гүйцээгүй</cyrillic></item>
+<item><ref>K2905</ref><unicode>ᠺᠥᠢᠴᠡᠺᠡᠭᠥᠢ</unicode><transcript>güičegegüi</transcript><transcript2>göicegedöi</transcript2><cyrillic>гүйцээгүй</cyrillic></item>
 <item><ref>K2906</ref><unicode>ᠺᠥᠢᠴᠡᠺᠡᠯᠺᠡᠺᠥ</unicode><transcript>güičegelgekü</transcript><transcript2>göicegelgegö</transcript2><cyrillic>гүйцээлгэх</cyrillic></item>
 <item><ref>K2907</ref><unicode>ᠭᠦᠢᠴᠡᠭᠡᠺᠦ</unicode><transcript>güičegekü</transcript><transcript2>göicegegö</transcript2><cyrillic>гүйцээх</cyrillic></item>
 <item><ref>K2908</ref><unicode>ᠺᠥᠢᠴᠡᠺᠡᠺᠳᠡᠺᠥ</unicode><transcript>güičegegdekü</transcript><transcript2>göicegegdegö</transcript2><cyrillic></cyrillic></item>
@@ -64404,7 +64404,7 @@
 <item><ref>K4918a</ref><unicode>ᠺᠥᠶᠥᠺᠴᠢ</unicode><transcript>güyügči</transcript><transcript2>göyögci</transcript2><cyrillic>гүйгч</cyrillic></item>
 <item><ref>K4919</ref><unicode>ᠺᠥᠷ</unicode><transcript>kür</transcript><transcript2>gör</transcript2><cyrillic>хүр</cyrillic></item>
 <item><ref>K4920</ref><unicode>ᠺᠥᠷ</unicode><transcript>kör</transcript><transcript2>gör</transcript2><cyrillic>хөөр</cyrillic></item>
-<item><ref>K4921</ref><unicode>ᠭᠦᠷ</unicode><transcript>gür</transcript><transcript2>gör</transcript2><cyrillic>гүүр</cyrillic></item>
+<item><ref>K4921</ref><unicode>ᠭᠦᠷ</unicode><transcript>gür</transcript><transcript2>gör</transcript2><cyrillic>гүүр</cyrillic><variants><v t="unicode">ᠭᠦᠷᠡᠨ</v><v t="cyrillic">гүүрэн</v></variants></item>
 <item><ref>K4922</ref><unicode>ᠺᠥᠷ</unicode><transcript>gör</transcript><transcript2>gör</transcript2><cyrillic>гөр</cyrillic></item>
 <item><ref>K4923</ref><unicode>ᠺᠦᠷ ᠡ</unicode><transcript>kür-e</transcript><transcript2>gör-e</transcript2><cyrillic>хүрээ</cyrillic></item>
 <item><ref>K4923a</ref><unicode>ᠺᠥᠷᠡ</unicode><transcript>göre</transcript><transcript2>göre</transcript2><cyrillic></cyrillic></item>
@@ -64440,7 +64440,7 @@
 <item><ref>K4952</ref><unicode>ᠺᠥᠷᠡᠯᠺᠡᠷᠳᠡᠺᠥᠥ</unicode><transcript>kürelgerdegüü</transcript><transcript2>görelgerdegöö</transcript2><cyrillic>хүрэлгэрдүү</cyrillic></item>
 <item><ref>K4953</ref><unicode>ᠺᠥᠷᠡᠯᠺᠡᠷᠺᠡᠨ</unicode><transcript>kürelgerken</transcript><transcript2>görelgergen</transcript2><cyrillic>хүрэлгэрхэн</cyrillic></item>
 <item><ref>K4954</ref><unicode>ᠺᠥᠷᠡᠴᠢ</unicode><transcript>göreči</transcript><transcript2>göreci</transcript2><cyrillic>гөрч</cyrillic></item>
-<item><ref>K4955</ref><unicode>ᠭᠦᠷᠡᠭᠡ</unicode><transcript>gürege</transcript><transcript2>görege</transcript2><cyrillic>гүрээ</cyrillic></item>
+<item><ref>K4955</ref><unicode>ᠭᠦᠷᠡᠭᠡ</unicode><transcript>gürege</transcript><transcript2>görege</transcript2><cyrillic>гүрээ</cyrillic><variants><v t="unicode">ᠭᠦᠷᠡᠭᠡᠨ</v><v t="unicode">гүрээн</v></variants></item>
 <item><ref>K4956</ref><unicode>ᠺᠥᠷᠡᠺᠡᠷ</unicode><transcript>güreger</transcript><transcript2>göreger</transcript2><cyrillic>гүргэр</cyrillic></item>
 <item><ref>K4957</ref><unicode>ᠺᠥᠷᠡᠺᠥᠯᠺᠥ</unicode><transcript>küregülkü</transcript><transcript2>göregölgö</transcript2><cyrillic>хүрүүлэх</cyrillic></item>
 <item><ref>K4958</ref><unicode>ᠺᠥᠷᠡᠺᠴᠢᠨ</unicode><transcript>küregčin</transcript><transcript2>göregcin</transcript2><cyrillic>хүрэгчин</cyrillic></item>

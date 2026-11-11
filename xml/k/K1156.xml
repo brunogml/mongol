@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K1156">
   <head>
     <unicode>ᠺᠠᠺᠠᠪᠲᠥᠷ</unicode>
@@ -18,7 +18,7 @@
       <dico>lamrd</dico>
       <unicode>ᠺᠠᠺᠠᠪᠲᠥᠷ</unicode>
       <cyrillic>ГЭГЭЭВТЭР</cyrillic>
-      <definition>светловатый. </definition>
+      <definition>светловатый.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -27,6 +27,12 @@
       <cyrillic>гэгээвтэр</cyrillic>
       <definition>гэрэлтэйвтэр, гэрэлтэйхэн.</definition>
       <page>167</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гэгээвтэр</cyrillic>
+      <definition>licht, glänzend, schimmernd</definition>
+      <page>84</page>
     </entry_item>
   </entries>
 </entry>

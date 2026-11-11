@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K0994">
   <head>
     <unicode>ᠺᠠᠮᠲᠥᠺᠥ</unicode>
@@ -6,12 +6,12 @@
     <transcript2>gemdögö</transcript2>
     <cyrillic>гэмтэх</cyrillic>
   </head>
-  <derivatives>
-    <ref>K0995</ref>
-  </derivatives>
   <see_also>
     <ref>K0987</ref>
   </see_also>
+  <derivatives>
+    <ref>K0995</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -25,22 +25,22 @@
         <example>
           <unicode>ᠭᠡᠮᠲᠥᠭᠰᠡᠨ</unicode>
           <transcript>--gsen</transcript>
-          <definition> Defective, hurt, injured.</definition>
+          <definition>Defective, hurt, injured.</definition>
         </example>
         <example>
           <unicode>ᠭᠡᠮᠲᠥᠭᠰᠡᠨ ᠦᠭᠡᠢ</unicode>
           <transcript>--gsen ygei</transcript>
-          <definition> Unhurt, uninjured.</definition>
+          <definition>Unhurt, uninjured.</definition>
         </example>
         <example>
           <unicode>ᠶᠠᠰᠤ ᠭᠡᠮᠲᠥᠺᠥ</unicode>
-          <transcript>jasu --ky </transcript>
+          <transcript>jasu --ky</transcript>
           <definition>For a bone or bones to become injured</definition>
         </example>
         <example>
           <unicode>ᠺᠥᠯ ᠭᠡᠮᠲᠥᠵᠦᠺᠦᠢ</unicode>
-          <transcript>køl --zykyi </transcript>
-          <definition> The foot is injured.</definition>
+          <transcript>køl --zykyi</transcript>
+          <definition>The foot is injured.</definition>
         </example>
       </examples>
     </entry_item>
@@ -55,7 +55,7 @@
       <dico>lamrd</dico>
       <unicode>ᠺᠠᠮᠲᠥᠺᠥ</unicode>
       <cyrillic>ГЭМТЭХ</cyrillic>
-      <definition>1) получать повреждение, увечье; повредиться; терпеть ущерб; яс гэмтэх получить повреждение кости; 2) портиться; эвдэрч гэмтэх быть в неисправности (об оборудовании); † ам гэмтэх анаг. молочница. </definition>
+      <definition>1) получать повреждение, увечье; повредиться; терпеть ущерб; яс гэмтэх получить повреждение кости; 2) портиться; эвдэрч гэмтэх быть в неисправности (об оборудовании); † ам гэмтэх анаг. молочница.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -64,6 +64,12 @@
       <cyrillic>гэмтэх</cyrillic>
       <definition>1. юмны эвдрэх, бэртэх, хэмхрэх, гэмтэх эвдрэх, яс гэмтэх;2. гутах, муудах, гэм олох, ногоо гэмтэх.</definition>
       <page>169</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гэмтэх</cyrillic>
+      <definition>sich verletzen; defekt od schadhaft werden; beschädigt sein; яс ~ sich eine Knochenverletzung zuziehen</definition>
+      <page>84</page>
     </entry_item>
   </entries>
 </entry>

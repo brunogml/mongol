@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K5101">
   <head>
     <unicode>ᠺᠥᠷᠪᠡᠯᠵᠡᠺᠥ</unicode>
@@ -6,12 +6,12 @@
     <transcript2>görbelcegö</transcript2>
     <cyrillic>гүрвэлзэх</cyrillic>
   </head>
-  <derivatives>
-    <ref>K5102</ref>
-  </derivatives>
   <see_also>
     <ref>K5008</ref>
   </see_also>
+  <derivatives>
+    <ref>K5102</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -33,7 +33,7 @@
       <dico>lamrd</dico>
       <unicode>ᠺᠥᠷᠪᠡᠯᠵᠡᠺᠥ</unicode>
       <cyrillic>ГҮРВЭЛЗЭХ</cyrillic>
-      <definition>1. 1) извиваться (о червях); пресмыкаться; 2) трепетать, биться (о рыбе); 2. анаг. перистальтика кишок. </definition>
+      <definition>1. 1) извиваться (о червях); пресмыкаться; 2) трепетать, биться (о рыбе); 2. анаг. перистальтика кишок.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -42,6 +42,12 @@
       <cyrillic>гүрвэлзэх</cyrillic>
       <definition>гүрвэгэр юмны байн байн гүрвэс гүрвэс хийх.</definition>
       <page>166</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гүрвэлзэх</cyrillic>
+      <definition>sich schlängeln od winden; Med Peristaltik f</definition>
+      <page>83</page>
     </entry_item>
   </entries>
 </entry>

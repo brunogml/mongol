@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K2905">
   <head>
-    <unicode>ᠺᠥᠢᠴᠡᠺᠡᠳᠥᠢ</unicode>
-    <transcript>güičegedüi</transcript>
+    <unicode>ᠺᠥᠢᠴᠡᠺᠡᠭᠥᠢ</unicode>
+    <transcript>güičegegüi</transcript>
     <transcript2>göicegedöi</transcript2>
     <cyrillic>гүйцээгүй</cyrillic>
   </head>
@@ -16,9 +16,9 @@
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
-      <unicode>ᠺᠥᠢᠴᠡᠺᠡᠳᠥᠢ</unicode>
+      <unicode>ᠺᠥᠢᠴᠡᠺᠡᠭᠥᠢ</unicode>
       <cyrillic>ГҮЙЦЭЭГҮЙ</cyrillic>
-      <definition>незаконченный. </definition>
+      <definition>незаконченный.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -27,6 +27,12 @@
       <cyrillic>гүйцээгүй</cyrillic>
       <definition>гүйцсэнгүй, хүрсэнгүй, дууссангүй; бичиж гүйцээгүй; идэж гүйцээгүй; санаанд гүйцээгүй; хийж гүйцээгүй.</definition>
       <page>165</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гүйцээгүй</cyrillic>
+      <definition>unvollendet, unfertig</definition>
+      <page>83</page>
     </entry_item>
   </entries>
 </entry>

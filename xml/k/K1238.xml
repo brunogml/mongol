@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K1238">
   <head>
     <unicode>ᠺᠠᠺᠠᠷᠠᠺᠥᠯᠺᠥ</unicode>
@@ -6,12 +6,15 @@
     <transcript2>gegeregölgö</transcript2>
     <cyrillic>гэгээрүүлэх</cyrillic>
   </head>
-  <related_to>
-    <ref>K1235</ref>
-  </related_to>
   <see_also>
     <ref>K1237</ref>
   </see_also>
+  <related_to>
+    <ref>K1235</ref>
+  </related_to>
+  <derivatives>
+    <ref>K1236</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -25,21 +28,21 @@
         <example>
           <unicode>ᠭᠡᠭᠡᠷᠠᠺᠥᠯᠺᠥ ᠎ᠶᠢᠨ ᠠᠵᠢᠯ</unicode>
           <transcript>--ky jin azil</transcript>
-          <definition> -Educational work.</definition>
+          <definition>-Educational work.</definition>
         </example>
         <example>
           <unicode>ᠭᠡᠭᠡᠷᠠᠺᠥᠯᠺᠥ ᠺᠡᠯᠲᠡᠰ</unicode>
           <transcript>--ky keltes</transcript>
-          <definition> Department of education.</definition>
+          <definition>Department of education.</definition>
         </example>
         <example>
           <unicode>ᠠᠷᠠᠳ ᠢ ᠭᠡᠭᠡᠷᠠᠺᠥᠯᠺᠥ</unicode>
           <transcript>arad i --ky</transcript>
-          <definition> To educate the people.</definition>
+          <definition>To educate the people.</definition>
         </example>
         <example>
           <unicode>ᠠᠷᠠᠳ ᠢ ᠭᠡᠭᠡᠷᠠᠺᠥᠯᠺᠥ ᠶᠠᠪᠤᠳᠠᠯ ᠤᠨ ᠶᠠᠮᠤᠨ</unicode>
-          <transcript>arad i --ky [jabudal un] jamun, </transcript>
+          <transcript>arad i --ky [jabudal un] jamun,</transcript>
           <definition>Commissariat or ministry of people's education</definition>
         </example>
       </examples>
@@ -69,14 +72,14 @@
       <dico>lamrd</dico>
       <unicode>ᠺᠠᠺᠠᠷᠠᠺᠥᠯᠺᠥ</unicode>
       <cyrillic>ГЭГЭЭРҮҮЛЭХ</cyrillic>
-      <definition>гэгээрэх-ийн үйлдүүл., 1. дать образование, просвещать; эрдэм соёлд гэгээрүүлэх давать образование, просвещать; 2. гэгээрүүлэхүй-г үз., ардыг гэгээрүүлэх явдал народное просвещение, народное образование. </definition>
+      <definition>гэгээрэх-ийн үйлдүүл., 1. дать образование, просвещать; эрдэм соёлд гэгээрүүлэх давать образование, просвещать; 2. гэгээрүүлэхүй-г үз., ардыг гэгээрүүлэх явдал народное просвещение, народное образование.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠺᠠᠺᠠᠷᠠᠺᠥᠯᠺᠥ</unicode>
       <cyrillic>ГЭГЭЭРҮҮЛЭХҮЙ</cyrillic>
-      <definition>просвещение (в смысле активного воздействия на кого-л.). </definition>
+      <definition>просвещение (в смысле активного воздействия на кого-л.).</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -86,8 +89,12 @@
       <definition>1. гэгээрэхийн үйлдүүлэх хэв;2. бүдүүлэг ёсноос хагацуулах, боловсруулах.</definition>
       <page>167</page>
     </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гэгээрүүлэх</cyrillic>
+      <definition>1. Kaus von гэгзэрэх &#13;
+2. aufklären; Aufklärung f; ~ бодлого Aufklärungspolitik f</definition>
+      <page>84</page>
+    </entry_item>
   </entries>
-  <derivatives>
-    <ref>K1236</ref>
-  </derivatives>
 </entry>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K4115">
   <head>
     <unicode>ᠺᠥᠯᠳᠡᠺᠡᠷ</unicode>
@@ -18,7 +18,7 @@
       <dico>lamrd</dico>
       <unicode>ᠺᠥᠯᠳᠡᠺᠡᠷ</unicode>
       <cyrillic>ГҮЛДГЭР</cyrillic>
-      <definition>с вытянутой вперёд шеей (о человеке). </definition>
+      <definition>с вытянутой вперёд шеей (о человеке).</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -27,6 +27,12 @@
       <cyrillic>гүлдгэр</cyrillic>
       <definition>амьтны хүзүү хэвийн хэмжээнээс өлгөрдүү; гүлдгэр хүзүүтэй.</definition>
       <page>165</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гүлдгэр</cyrillic>
+      <definition>Hals nach vorn gereckt od gestreckt</definition>
+      <page>83</page>
     </entry_item>
   </entries>
 </entry>

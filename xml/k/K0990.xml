@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K0990">
   <head>
     <unicode>ᠺᠠᠮᠲᠥᠯ</unicode>
@@ -9,6 +9,9 @@
   <see_also>
     <ref>K0985</ref>
   </see_also>
+  <derivatives>
+    <ref>K0991</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -21,13 +24,13 @@
       <examples>
         <example>
           <unicode>ᠠᠶᠤᠯ ᠭᠡᠮᠲᠥᠯ</unicode>
-          <transcript>ajul -- </transcript>
+          <transcript>ajul --</transcript>
           <definition>Dangers and calamities</definition>
         </example>
         <example>
           <unicode>ᠠᠵᠤ ᠠᠬᠤᠢ ᠎ᠶᠢᠨ ᠭᠡᠮᠲᠥᠯ</unicode>
           <transcript>azu axui jin --</transcript>
-          <definition> Economic breakdown, crash.</definition>
+          <definition>Economic breakdown, crash.</definition>
         </example>
       </examples>
     </entry_item>
@@ -42,14 +45,14 @@
       <dico>lamrd</dico>
       <unicode>ᠺᠠᠮᠲᠥᠯ</unicode>
       <cyrillic>ГЭМТЭЛ</cyrillic>
-      <definition>повреждение, дефект, ущерб, бедствие; аж ахуйн гэмтэл хозяйственная разруха; дайны гэмтэл сүйдэл военная разруха; хөнгөн гэмтэл лёгкое повреждение; хүнд гэмтэл серьёзное, тяжёлое повреждение; гэмтэл аюул хорш. бедствие; гэмтэл бүхий зурагт радио неисправный телевизор; гэмтэл дутагдал хорш. неисправности и недочёты. </definition>
+      <definition>повреждение, дефект, ущерб, бедствие; аж ахуйн гэмтэл хозяйственная разруха; дайны гэмтэл сүйдэл военная разруха; хөнгөн гэмтэл лёгкое повреждение; хүнд гэмтэл серьёзное, тяжёлое повреждение; гэмтэл аюул хорш. бедствие; гэмтэл бүхий зурагт радио неисправный телевизор; гэмтэл дутагдал хорш. неисправности и недочёты.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠺᠠᠮᠲᠥᠯ</unicode>
       <cyrillic>ГЭМТЭЛГҮЙ</cyrillic>
-      <definition>неповреждённый. </definition>
+      <definition>неповреждённый.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -59,8 +62,17 @@
       <definition>гэмтэх үйлийн нэр, гэмтэл тохиолдох, машины гэмтэл.</definition>
       <page>169</page>
     </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гэмтэл</cyrillic>
+      <definition>Defekt m, Panne f, Schaden m, Beschädigung f; Verletzung f; ~ засах einen Defekt od Schaden beheben</definition>
+      <page>84</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гэмтэлгүй</cyrillic>
+      <definition>heil, intakt, unbeschädigt</definition>
+      <page>84</page>
+    </entry_item>
   </entries>
-  <derivatives>
-    <ref>K0991</ref>
-  </derivatives>
 </entry>

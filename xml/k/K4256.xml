@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K4256">
   <head>
     <unicode>ᠺᠥᠮ</unicode>
@@ -30,7 +30,7 @@
       <dico>lamrd</dico>
       <unicode>ᠺᠥᠮ</unicode>
       <cyrillic>ГҮМ</cyrillic>
-      <definition>: нам гүм хорш. тишина, затишье; тихо; нам гүм аж төрөх вести мирный образ жизни, мирно жить; нам гүм болгох водворять тишину; нам гүм болов стало тихо, наступило затишье; шөнийн нам гүмд явсан бололтой ушли, наверно, в тиши ночной; нам гүмээр тихо, спокойно. </definition>
+      <definition>: нам гүм хорш. тишина, затишье; тихо; нам гүм аж төрөх вести мирный образ жизни, мирно жить; нам гүм болгох водворять тишину; нам гүм болов стало тихо, наступило затишье; шөнийн нам гүмд явсан бололтой ушли, наверно, в тиши ночной; нам гүмээр тихо, спокойно.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -39,6 +39,12 @@
       <cyrillic>гүм</cyrillic>
       <definition>чимээ аниргүй нам жим, нам тайван;нам гүм&lt;хорш&gt;.</definition>
       <page>165</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гүм</cyrillic>
+      <definition>нам ~ 1. Stille f, Ruhe f 2. still, ruhig</definition>
+      <page>83</page>
     </entry_item>
   </entries>
 </entry>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K1446">
   <head>
     <unicode>ᠭᠡᠷ</unicode>
@@ -149,10 +149,14 @@
     <entry_item>
       <dico>Kowalewski</dico>
       <unicode>ᠭᠡᠷ</unicode>
-      <definition>1 maison, demeure, domicile, une tente des nomades: 
-2 épouse; famille: 
-3 étui, fourreau, réceptacle: 
-4 signe zodiacal, mansion du soleil dans le zodiaque: 
+      <definition>1 maison, demeure, domicile, une tente des nomades: &#13;
+&#13;
+2 épouse; famille: &#13;
+&#13;
+3 étui, fourreau, réceptacle: &#13;
+&#13;
+4 signe zodiacal, mansion du soleil dans le zodiaque: &#13;
+&#13;
 5 symb. douze.</definition>
       <page>2503</page>
       <examples>
@@ -370,7 +374,8 @@
     <entry_item>
       <dico>Vietze</dico>
       <cyrillic>гэр</cyrillic>
-      <definition>1. Jurte f; Haus n, Wohnung f; ~ ахуй Haushaltsführung f; ~ ахуйн хэрэгсэл Haushaltsartikel m; ~ бүл Familie f; ~ бул болох heiraten; ~ барих eine Jurte aufstellen; ein Haus bauen; ~ зуурын үг ein familiäres Wort; ~зэс санах Heimweh haben, sich nach Hause sehnen; хар ~ Gefängnis n
+      <definition>1. Jurte f; Haus n, Wohnung f; ~ ахуй Haushaltsführung f; ~ ахуйн хэрэгсэл Haushaltsartikel m; ~ бүл Familie f; ~ бул болох heiraten; ~ барих eine Jurte aufstellen; ein Haus bauen; ~ зуурын үг ein familiäres Wort; ~зэс санах Heimweh haben, sich nach Hause sehnen; хар ~ Gefängnis n&#13;
+&#13;
 2. Gehäuse n, Futteral n, Hülle f; гар бууны ~ Pistolentasche f; нүдний шилний ~ Brillenetui n</definition>
       <page>85</page>
     </entry_item>
@@ -380,6 +385,12 @@
       <cyrillic>гэр</cyrillic>
       <definition>1. хүний оршин суух орон, сууц;гэр орон&lt;хорш&gt;;орон гэр&lt;хорш&gt;; монгол гэр; эсгий гэр; илүү гэр; таван ханатай гэр; арван хоёр ханатай гэр;2. амьтны үр зулзага орших сав хурганы гэр; тугалын гэр;3. юмны гадуурхи хальс бүрээс буюу агуулах сав; нүдний шилний гэр; хорхойн гэр; бууны гэр.</definition>
       <page>169</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>гэрийн</cyrillic>
+      <definition>(Gen von гэр) Jurten-; Haus-; ~ ажил Hausarbeit f; ~ даалгавар Hausaufgabe f; ~ аж ахуй Hauswirtschaft f; ~ тавил od хэрэглэл Hausrat m, Mobiliar n; ~ хошингор Bot Klee m</definition>
+      <page>85</page>
     </entry_item>
   </entries>
 </entry>
