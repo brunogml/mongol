@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="O0008">
   <head>
     <unicode>ᠥᠢᠰᠥᠯᠠᠺᠥ</unicode>
@@ -9,7 +9,7 @@
   <derivatives>
     <ref>O0009</ref>
     <ref>O0007</ref>
-  </derivatives>
+  <ref>O0006</ref></derivatives>
   <entries>
     <entry_item>
       <dico>Chinese</dico>
@@ -40,4 +40,4 @@
       <page>619</page>
     </entry_item>
   </entries>
-</entry>
+<related_to><ref>O0005</ref></related_to></entry>

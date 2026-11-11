@@ -2242,7 +2242,7 @@ if ($entryXml !== null) {
       <button class="nav-tool-btn" title="How to search"
               onclick="document.getElementById('modal-search-help').classList.add('open')">?</button>
       <button class="nav-tool-btn" title="Transliteration table"
-              onclick="document.getElementById('modal-translit').classList.add('open')">Ꭿ</button>
+              onclick="document.getElementById('modal-translit').classList.add('open')">🄼</button>
       <button class="nav-tool-btn" title="About the resources"
               onclick="document.getElementById('modal-resources').classList.add('open')">ℹ</button>
     </div>
@@ -2647,7 +2647,7 @@ if ($entryXml !== null) {
       <br>The grammars of Poppe and Schmidt are accessible and fully searchable.
       <br>A reversed search engine has been added for Tibetan entries.
       <br>Use the <strong>?</strong> button in the left panel to learn about search options,
-      <strong>Ꭿ</strong> for the transcription table, or <strong>ℹ</strong> for detailed descriptions of each resource.
+      🄼 for the transcription table, or <strong>ℹ</strong> for detailed descriptions of each resource.
     </p>
     <div class="landing-hero">
       <img src="Mng000.jpg"
