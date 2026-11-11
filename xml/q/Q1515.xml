@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q1515">
   <head>
     <unicode>ᠬᠠᠳᠠᠭᠠᠰᠣᠲᠠᠢ</unicode>
@@ -9,6 +9,9 @@
   <see_also>
     <ref>Q1516a</ref>
   </see_also>
+  <related_to>
+    <ref>Q1514</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Chinese</dico>
@@ -38,7 +41,4 @@
       <page>640</page>
     </entry_item>
   </entries>
-  <related_to>
-    <ref>Q1514</ref>
-  </related_to>
 </entry>

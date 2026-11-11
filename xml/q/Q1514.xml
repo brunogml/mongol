@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q1514">
   <head>
     <unicode>ᠬᠠᠳᠠᠭᠠᠰᠣ</unicode>
@@ -6,6 +6,17 @@
     <transcript2>gadagaso</transcript2>
     <cyrillic>хадаас</cyrillic>
   </head>
+  <derivatives>
+    <ref>Q1515</ref>
+    <ref>Q1516</ref>
+    <ref>Q1516a</ref>
+    <ref>Q1517</ref>
+    <ref>Q1518</ref>
+    <ref>Q1518a</ref>
+  </derivatives>
+  <see_also>
+    <ref>Q1632</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -19,27 +30,27 @@
         <example>
           <unicode>ᠬᠠᠳᠠᠭᠠᠰᠣᠨ ᠡᠪᠡᠳᠴᠢᠨ</unicode>
           <transcript>--n ebedcin</transcript>
-          <definition> Sheep pox.</definition>
+          <definition>Sheep pox.</definition>
         </example>
         <example>
           <unicode>ᠬᠠᠳᠠᠭᠠᠰᠣᠨ ᠤ ᠮᠠᠯᠠᠭᠠᠢ</unicode>
           <transcript>--n u malaγai</transcript>
-          <definition> Nail head.</definition>
+          <definition>Nail head.</definition>
         </example>
         <example>
           <unicode>ᠬᠠᠳᠠᠭᠠᠰᠣ ᠰᠢᠭᠠᠬᠤ</unicode>
-          <transcript>-- siγaxu </transcript>
+          <transcript>-- siγaxu</transcript>
           <definition>To drive a nail</definition>
         </example>
         <example>
           <unicode>ᠬᠠᠳᠠᠭᠠᠰᠣ ᠬᠠᠳᠠᠬᠤ</unicode>
           <transcript>-- xadaxu</transcript>
-          <definition> To drive a nail.</definition>
+          <definition>To drive a nail.</definition>
         </example>
         <example>
           <unicode>ᠵᠢᠭᠤᠴᠢᠨ ᠬᠠᠳᠠᠭᠠᠰᠣ</unicode>
-          <transcript>ziγucin -- </transcript>
-          <definition> Nail pointed on both ends.</definition>
+          <transcript>ziγucin --</transcript>
+          <definition>Nail pointed on both ends.</definition>
         </example>
       </examples>
     </entry_item>
@@ -103,35 +114,35 @@
       <dico>lamrd</dico>
       <unicode>ᠬᠠᠳᠠᠭᠠᠰᠣ</unicode>
       <cyrillic>ХАДААС(АН)</cyrillic>
-      <definition>I 1) гвоздь; эрэгтэй хадаас шуруп; хадаас тавлах заклепать гвоздь, заклёпывать; хадаасны тав шляпка гвоздя; заклепка; 2) прибивание, прибивка чего-л.; хадаас нь муудаж плохо прибито; хадаасаар хадах прибить гвоздями; заколачивать гвоздями. </definition>
+      <definition>I 1) гвоздь; эрэгтэй хадаас шуруп; хадаас тавлах заклепать гвоздь, заклёпывать; хадаасны тав шляпка гвоздя; заклепка; 2) прибивание, прибивка чего-л.; хадаас нь муудаж плохо прибито; хадаасаар хадах прибить гвоздями; заколачивать гвоздями.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠬᠠᠳᠠᠭᠠᠰᠣ</unicode>
       <cyrillic>ХАДААС</cyrillic>
-      <definition>II 1. запас; 2. запасной; хадаасны мал хуучир. запасной скот; хадаасны хүн хуучир. запасной человек. </definition>
+      <definition>II 1. запас; 2. запасной; хадаасны мал хуучир. запасной скот; хадаасны хүн хуучир. запасной человек.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠬᠠᠳᠠᠭᠠᠰᠣ</unicode>
       <cyrillic>ХАДААС(АН)</cyrillic>
-      <definition>III: хадаасан загас загас. вьюн. </definition>
+      <definition>III: хадаасан загас загас. вьюн.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠬᠠᠳᠠᠭᠠᠰᠣ</unicode>
       <cyrillic>ХАДААС(АН)</cyrillic>
-      <definition>IV: хадаасан цэцэг ург. гвоздика ароматная. </definition>
+      <definition>IV: хадаасан цэцэг ург. гвоздика ароматная.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠬᠠᠳᠠᠭᠠᠰᠣ</unicode>
       <cyrillic>ХАДААС(АН)</cyrillic>
-      <definition>V: хадаасан өвчин мал.эмнэл. овечья оспа, овечья болезнь. </definition>
+      <definition>V: хадаасан өвчин мал.эмнэл. овечья оспа, овечья болезнь.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -169,12 +180,4 @@
       <page>640</page>
     </entry_item>
   </entries>
-  <derivatives>
-    <ref>Q1515</ref>
-    <ref>Q1516</ref>
-    <ref>Q1516a</ref>
-    <ref>Q1517</ref>
-    <ref>Q1518</ref>
-    <ref>Q1518a</ref>
-  </derivatives>
 </entry>

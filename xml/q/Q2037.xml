@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q2037">
   <head>
     <unicode>ᠬᠠᠯᠬᠠᠪᠴᠢ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>galgabci</transcript2>
     <cyrillic>халхавч</cyrillic>
   </head>
+  <derivatives>
+    <ref>Q2038</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -104,7 +107,4 @@
       <page>652</page>
     </entry_item>
   </entries>
-  <derivatives>
-    <ref>Q2038</ref>
-  </derivatives>
 </entry>

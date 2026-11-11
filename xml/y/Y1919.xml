@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Y1919">
   <head>
     <unicode>ᠶᠡᠨᠳᠡᠷ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>yender</transcript2>
     <cyrillic>ендэр</cyrillic>
   </head>
+  <see_also>
+    <ref>I0089</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -37,4 +40,7 @@
       <page>306</page>
     </entry_item>
   </entries>
+  <derivatives>
+    <ref>Y1919a</ref>
+  </derivatives>
 </entry>

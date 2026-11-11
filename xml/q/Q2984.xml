@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q2984">
   <head>
     <unicode>ᠬᠠᠶᠢᠰᠠᠩ</unicode>
@@ -9,6 +9,9 @@
   <see_also>
     <ref>Q2983</ref>
   </see_also>
+  <derivatives>
+    <ref>Q2985</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -22,19 +25,20 @@
         <example>
           <unicode>ᠬᠠᠶᠢᠰᠠᠩ ᠰᠢᠭᠤᠮ</unicode>
           <transcript>-- siγum</transcript>
-          <definition> Border line.</definition>
+          <definition>Border line.</definition>
         </example>
         <example>
           <unicode>ᠬᠣᠲᠠ ᠎ᠶᠢᠨ ᠬᠠᠶᠢᠰᠠᠩ</unicode>
           <transcript>xota jin --</transcript>
-          <definition> Battlements.</definition>
+          <definition>Battlements.</definition>
         </example>
       </examples>
     </entry_item>
     <entry_item>
       <dico>Kowalewski</dico>
       <unicode>ᠬᠠᠶᠢᠰᠠᠩ</unicode>
-      <definition>rempart, parapet, redoute. retranchements. muraille de terre qu'on bâtit autour des campagnes on des maisons; 2 galerie autour d'une maison .</definition>
+      <definition>1 rempart, parapet, redoute. retranchements. muraille de terre qu'on bâtit autour des campagnes on des maisons; &#13;
+2 galerie autour d'une maison .</definition>
       <page>707</page>
       <examples>
         <example>
@@ -69,7 +73,7 @@
       <dico>lamrd</dico>
       <unicode>ᠬᠠᠶᠢᠰᠠᠩ</unicode>
       <cyrillic>ХАЙСАН</cyrillic>
-      <definition>I вал, зубцы городской стены, амбразуры в городской стене; хотын хайсан зубцы городской стены, городской вал, городская стена;† хайсан хар морь вороной конь (үгчил. чёрный как котёл конь). </definition>
+      <definition>I вал, зубцы городской стены, амбразуры в городской стене; хотын хайсан зубцы городской стены, городской вал, городская стена;† хайсан хар морь вороной конь (үгчил. чёрный как котёл конь).</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -80,7 +84,4 @@
       <page>646</page>
     </entry_item>
   </entries>
-  <derivatives>
-    <ref>Q2985</ref>
-  </derivatives>
 </entry>

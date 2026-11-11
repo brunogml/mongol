@@ -6,6 +6,9 @@
     <transcript2>inder</transcript2>
     <cyrillic>индэр</cyrillic>
   </head>
+  <see_also>
+    <ref>Y1919</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -13,23 +16,23 @@
       <uighur>inder</uighur>
       <cyrillic>индэр</cyrillic>
       <transcript>INDER</transcript>
-      <definition>[=jender] n. Stage, pedestal, platform, foundation, elevation, stand; ( instructor&apos;s) chair, pulpit.</definition>
+      <definition>[=jender] n. Stage, pedestal, platform, foundation, elevation, stand; ( instructor's) chair, pulpit.</definition>
       <page>410</page>
       <examples>
         <example>
           <unicode>ᠢᠨᠳᠠᠷ ᠤᠨ ᠺᠥᠯ</unicode>
           <transcript>-- yn køl</transcript>
-          <definition> Support or prop of a platform.</definition>
+          <definition>Support or prop of a platform.</definition>
         </example>
         <example>
           <unicode>ᠢᠨᠳᠠᠷ ᠤᠨ ᠬᠤᠷᠠᠯ</unicode>
           <transcript>-- yn xural</transcript>
-          <definition> Mass meeting.</definition>
+          <definition>Mass meeting.</definition>
         </example>
         <example>
           <unicode>ᠰᠢᠷᠤᠢ ᠎ᠶᠢᠨ ᠢᠨᠳᠠᠷ</unicode>
           <transcript>sirui jin - -</transcript>
-          <definition> Terrace.</definition>
+          <definition>Terrace.</definition>
         </example>
       </examples>
     </entry_item>
@@ -46,12 +49,11 @@
       <definition>〔名〕讲台，观礼台индрийн хурал 群众大会；зохиолчдын уран бүтээлийн гол ~ 作家文艺创作的主要舞台（园地）.</definition>
       <page>616</page>
     </entry_item>
-  
-  <entry_item>
-    <dico>Vietze</dico>
-    <cyrillic>индэр</cyrillic>
-    <definition>Tribüne f; ~ дzэр зогсох auf der Tribüne stehen</definition>
-    <page>134</page>
-  </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>индэр</cyrillic>
+      <definition>Tribüne f; ~ дzэр зогсох auf der Tribüne stehen</definition>
+      <page>134</page>
+    </entry_item>
   </entries>
 </entry>

@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="S2381">
   <head>
-    <unicode>ᠰᠠᠴᠠᠺᠯᠢᠺ</unicode>
+    <unicode>ᠰᠡᠴᠡᠭᠯᠢᠭ</unicode>
     <transcript>sečeglig</transcript>
     <transcript2>seceglig</transcript2>
   </head>
+  <see_also>
+    <ref>C1095</ref>
+  </see_also>
+  <related_to>
+    <ref>S2379</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Kowalewski</dico>
-      <unicode>ᠰᠡᠴᠡᠺᠯᠢᠺ ~ ᠴᠡᠴᠡᠺᠯᠢᠺ ~ ᠰᠡᠴᠡᠷᠯᠢᠺ</unicode>
+      <unicode>ᠰᠡᠴᠡᠭᠯᠢᠭ ~ ᠴᠡᠴᠡᠺᠯᠢᠭ ~ ᠰᠡᠴᠡᠷᠯᠢᠭ</unicode>
       <definition>parterre, jardin fleuriste</definition>
       <page>1359</page>
     </entry_item>
   </entries>
-<related_to><ref>S2379</ref></related_to></entry>
+</entry>
