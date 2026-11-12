@@ -62,7 +62,7 @@ $DICO_INFO = [
     ],
     'boberg' => [
         'title' => 'Mongolian-English Dictionary',
-        'meta'  => 'Inga Boberg · Copenhagen, 1954–1955',
+        'meta'  => 'Folke Boberg · Copenhagen, 1954–1955',
         'body'  => 'Grew out of the Scandinavian missionary linguistic tradition in Mongolia. More attentive to colloquial and spoken Mongolian than the purely philological dictionaries. Provides English glosses, making it directly accessible to anglophone users. A useful complement to Lessing for everyday and practical vocabulary that academic dictionaries underrepresent.',
     ],
 	'bawden' => [
