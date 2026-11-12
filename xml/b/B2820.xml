@@ -6,6 +6,9 @@
     <transcript2>bogorsoglago</transcript2>
     <cyrillic>боорсоглох</cyrillic>
   </head>
+  <see_also>
+    <ref>B2817</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>Kowalewski</dico>
@@ -21,4 +24,7 @@
       <page>0</page>
     </entry_item>
   </entries>
-<related_to><ref>B2819</ref></related_to></entry>
+  <related_to>
+    <ref>B2819</ref>
+  </related_to>
+</entry>

@@ -7,18 +7,16 @@
   </head>
   <entries>
     <entry_item>
-      <dico>Lessing</dico>
-      <unicode>ᠰᠢᠭᠣᠮᠣᠴᠢ</unicode>
-      <uighur>siγumči</uighur>
-      <transcript>SIΓUMCI</transcript>
-      <definition>n. Carpenter.</definition>
-      <page>701</page>
-    </entry_item>
-    <entry_item>
       <dico>Kowalewski</dico>
       <unicode>ᠰᠢᠭᠣᠮᠣᠴᠢ</unicode>
       <definition>charpentier</definition>
       <page>1471</page>
     </entry_item>
   </entries>
+  <related_to>
+    <ref>S3368</ref>
+  </related_to>
+  <see_also>
+    <ref>S3376</ref>
+  </see_also>
 </entry>

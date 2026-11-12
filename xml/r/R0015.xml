@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="R0015">
   <head>
     <unicode>ᠷᠠᠰᠢᠶᠠᠨ</unicode>
@@ -9,6 +9,12 @@
   <see_also>
     <ref>A4342</ref>
   </see_also>
+  <derivatives>
+    <ref>R0017</ref>
+    <ref>R0019</ref>
+    <ref>R0016</ref>
+    <ref>R0090</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -181,9 +187,4 @@
       <page>454</page>
     </entry_item>
   </entries>
-  <derivatives>
-    <ref>R0017</ref>
-    <ref>R0019</ref>
-    <ref>R0016</ref>
-  </derivatives>
 </entry>

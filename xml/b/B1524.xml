@@ -1,14 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="B1524">
   <head>
-    <unicode>ᠪᠠᠷᠣᠷᠠ</unicode>
-    <transcript>barura</transcript>
+    <unicode>ᠪᠠᠷᠣᠷ ᠠ</unicode>
+    <transcript>barur-a</transcript>
     <transcript2>barora</transcript2>
     <cyrillic>барур</cyrillic>
   </head>
-  <variants>
-    <variant type="cyrillic">барүр</variant>
-  </variants>
   <entries>
     <entry_item>
       <dico>Kowalewski</dico>

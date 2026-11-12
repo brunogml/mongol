@@ -2,12 +2,16 @@
 <entry ref="C0853">
   <head>
     <unicode>ᠴᠡᠩᠮ᠎ᠡ</unicode>
-    <transcript>čengme</transcript>
+    <transcript>čengm-e</transcript>
     <transcript2>cengme</transcript2>
     <cyrillic>цэмбэ</cyrillic>
-  </head><see_also>
+  </head>
+  <see_also>
     <ref>C1037</ref>
   </see_also>
+  <derivatives>
+    <ref>C0854</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -69,4 +73,4 @@
       <page>0</page>
     </entry_item>
   </entries>
-<derivatives><ref>C0854</ref></derivatives></entry>
+</entry>

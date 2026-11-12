@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="A0254">
   <head>
-    <unicode>ᠠᠨᠵᠢᠰᠤᠴᠢᠨ</unicode>
+    <unicode>ᠠᠨᠵᠢᠰᠤᠴᠢ</unicode>
     <transcript>anǰisuči</transcript>
     <transcript2>ancisoci</transcript2>
-    <cyrillic>анжисчин</cyrillic>
+    <cyrillic>анжисч</cyrillic>
   </head>
+  <related_to>
+    <ref>A0250</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Chinese</dico>
@@ -15,4 +18,4 @@
       <page>63</page>
     </entry_item>
   </entries>
-<related_to><ref>A0250</ref></related_to></entry>
+</entry>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Y0482">
   <head>
     <unicode>ᠵᠠᠭᠠᠷ</unicode>
@@ -6,13 +6,14 @@
     <transcript2>yagar</transcript2>
     <cyrillic>заарь</cyrillic>
   </head>
-  <derivatives>
-    <ref>Q5884</ref>
-  </derivatives>
   <see_also>
     <ref>Y2597</ref>
     <ref>Y0483</ref>
   </see_also>
+  <derivatives>
+    <ref>Q5884</ref>
+    <ref>Y0514</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>

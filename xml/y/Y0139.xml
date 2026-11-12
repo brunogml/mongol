@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Y0139">
   <head>
     <unicode>ᠵᠠᠩᠭᠣ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>yanggo</transcript2>
     <cyrillic>занга</cyrillic>
   </head>
+  <see_also>
+    <ref>Y0140</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>Lessing</dico>

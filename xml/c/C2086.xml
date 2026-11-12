@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="C2086">
   <head>
     <unicode>ᠴᠢᠴᠠᠷᠭᠠᠨ ᠠ</unicode>
@@ -6,6 +6,10 @@
     <transcript2>cicargana</transcript2>
     <cyrillic>чацаргана</cyrillic>
   </head>
+  <see_also>
+    <ref>C0562</ref>
+    <ref>C0560</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>Lessing</dico>

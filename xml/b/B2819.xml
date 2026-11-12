@@ -6,6 +6,9 @@
     <transcript2>bogorsog</transcript2>
     <cyrillic>боорсог</cyrillic>
   </head>
+  <see_also>
+    <ref>B2816</ref>
+  <ref>B2828</ref></see_also>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -71,4 +74,8 @@
       <page>0</page>
     </entry_item>
   </entries>
-<derivatives><ref>B2820</ref><ref>B2821</ref></derivatives></entry>
+  <derivatives>
+    <ref>B2820</ref>
+    <ref>B2821</ref>
+  </derivatives>
+</entry>

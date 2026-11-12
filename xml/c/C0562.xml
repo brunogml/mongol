@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="C0562">
   <head>
-    <unicode>ᠴᠠᠴᠢᠷᠭᠠᠨᠠ</unicode>
-    <transcript>čačirγana</transcript>
+    <unicode>ᠴᠠᠴᠢᠷᠭᠠᠨ ᠠ</unicode>
+    <transcript>čačirγan-a</transcript>
     <transcript2>cacirgana</transcript2>
   </head>
+  <see_also>
+    <ref>C2086</ref>
+    <ref>C0560</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>Lessing</dico>

@@ -6,6 +6,9 @@
     <transcript2>bogorsogci</transcript2>
     <cyrillic>боорсогч</cyrillic>
   </head>
+  <see_also>
+    <ref>B2818</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -30,4 +33,7 @@
       <page>0</page>
     </entry_item>
   </entries>
-<related_to><ref>B2819</ref></related_to></entry>
+  <related_to>
+    <ref>B2819</ref>
+  </related_to>
+</entry>

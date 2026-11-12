@@ -2231,9 +2231,10 @@ if ($entryXml !== null) {
 		<ul>
 			<li><a href="gramm/gramm.php" target="_blank">🕮</a>
 		</ul>
-	    <br><br><p class="dict-nav-title">Tibetan</p>
+	    <br><br><p class="dict-nav-title">Reversed search</p>
 		<ul>
 			<li><a href="tib.php" target="_blank">Search tibetan entries</a>
+			<li><a href="indices.php" target="_blank">Search in definitions</a>
 		</ul>
 	    <?php endif; ?>
 
@@ -2270,12 +2271,16 @@ if ($entryXml !== null) {
             break;
         }
     }
+    $hExactTr = '';
     if ($entryXml !== null) {
         $head = $entryXml->head;
-        if ((string)$head->unicode    !== '') $hUni = (string)$head->unicode;
-        if ((string)$head->transcript !== '') $hTr  = (string)$head->transcript;
-        if ((string)$head->cyrillic   !== '') $hCyr = (string)$head->cyrillic;
+        if ((string)$head->unicode          !== '') $hUni     = (string)$head->unicode;
+        if ((string)$head->transcript       !== '') $hTr      = (string)$head->transcript;
+        if ((string)$head->exact_transcript !== '') $hExactTr = (string)$head->exact_transcript;
+        if ((string)$head->cyrillic         !== '') $hCyr     = (string)$head->cyrillic;
     }
+    // Use exact_transcript for display if set, otherwise fall back to transcript
+    $hTrDisplay = $hExactTr !== '' ? $hExactTr : $hTr;
 ?>
 
   <a class="backlink" href="?q=<?= urlencode($query) ?><?= $contains ? '&amp;contains=1' : '' ?><?= $fuzzy ? '&amp;fuzzy=1' : '' ?>">← back to results</a>
@@ -2305,8 +2310,8 @@ if ($entryXml !== null) {
           <?php endforeach; ?>
         </div>
       <?php endif; ?>
-      <?php if ($hTr !== ''): ?>
-        <div class="lemma-trans lemma-trans-secondary"><?= h($hTr) ?>
+      <?php if ($hTrDisplay !== ''): ?>
+        <div class="lemma-trans lemma-trans-secondary"><?= h($hTrDisplay) ?>
           <?php foreach ($trVariants as $v): ?>
             <span class="lemma-variant lemma-variant-tr"><?= h($v['value']) ?></span>
           <?php endforeach; ?>

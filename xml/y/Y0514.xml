@@ -5,9 +5,13 @@
     <transcript>ǰaγartu</transcript>
     <transcript2>yagardo</transcript2>
     <cyrillic>заарт</cyrillic>
-  </head><see_also>
+  </head>
+  <see_also>
     <ref>Y2598</ref>
   </see_also>
+  <related_to>
+    <ref>Y0482</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -21,7 +25,7 @@
         <example>
           <unicode>ᠵᠠᠭᠠᠷᠲᠣ ᠮᠣᠳᠤ</unicode>
           <transcript>-- modu</transcript>
-          <definition> Camphor wood.</definition>
+          <definition>Camphor wood.</definition>
         </example>
       </examples>
     </entry_item>
