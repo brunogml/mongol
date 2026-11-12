@@ -14,55 +14,6 @@
  * normalizeTranscript() below.
  */
 
-// ── Authentication ───────────────────────────────────────────────
-$LOGIN_FILE = __DIR__ . '/login.txt';
-
-/**
- * Parse login.txt — one "user###password" pair per line.
- * Lines that don't contain "###" or are blank are ignored.
- */
-function loadLogins(string $path): array {
-    $logins = [];
-    if (!file_exists($path)) return $logins;
-    foreach (file($path, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES) as $line) {
-        $parts = explode('###', $line, 2);
-        if (count($parts) === 2) {
-            $logins[trim($parts[0])] = trim($parts[1]);
-        }
-    }
-    return $logins;
-}
-
-session_start();
-
-// Handle logout
-if (isset($_GET['logout'])) {
-    session_destroy();
-    header('Location: index.php');
-    exit;
-}
-
-// Handle login POST
-$loginError = '';
-if (isset($_POST['login_user'])) {
-    $logins   = loadLogins($LOGIN_FILE);
-    $user     = trim((string)($_POST['login_user'] ?? ''));
-    $password = (string)($_POST['login_pass'] ?? '');
-    if (isset($logins[$user]) && $logins[$user] === $password) {
-        $_SESSION['auth_user'] = $user;
-        // Redirect to the same URL (GET) so a refresh doesn't re-POST
-        $dest = strtok($_SERVER['REQUEST_URI'] ?? 'index.php', '?');
-        $qs   = $_GET;
-        unset($qs['logout']);
-        header('Location: ' . $dest . ($qs ? '?' . http_build_query($qs) : ''));
-        exit;
-    }
-    $loginError = 'Incorrect username or password.';
-}
-
-$isLoggedIn = !empty($_SESSION['auth_user']);
-$authUser   = $isLoggedIn ? (string)$_SESSION['auth_user'] : '';
-
 // ── Configuration ────────────────────────────────────────────────
 $XML_DIR      = __DIR__ . '/xml';
 $ROOT_XML     = $XML_DIR . '/root.xml';
@@ -1060,86 +1011,6 @@ if ($ref !== '') {
       padding: 0 .05em;
   }
 
-  /* ── Masthead user controls ── */
-  .mast-user {
-      display: flex; align-items: center; gap: .85rem;
-      flex-shrink: 0;
-      font-family: "EB Garamond", serif; font-size: .97rem;
-  }
-  .mast-edit-link {
-      display: inline-flex; align-items: center; gap: .25rem;
-      background: var(--accent); color: #fff;
-      font-family: "EB Garamond", serif; font-weight: 600;
-      font-size: .82rem; letter-spacing: .06em; text-transform: uppercase;
-      text-decoration: none;
-      padding: .35rem .75rem; border-radius: 2px;
-      transition: background .15s;
-  }
-  .mast-edit-link:hover { background: #143d6e; }
-  .mast-username {
-      color: var(--ink-soft); font-style: italic;
-  }
-  .mast-logout {
-      color: var(--ink-soft); text-decoration: none;
-      border-bottom: 1px dotted var(--rule);
-      transition: color .12s;
-  }
-  .mast-logout:hover { color: var(--accent); border-color: var(--accent); }
-
-  /* ── Masthead inline sign-in dropdown ── */
-  .mast-login-wrap { position: relative; }
-  .mast-signin-btn {
-      border: 1px solid var(--rule); background: transparent;
-      color: var(--ink-soft);
-      font-family: "EB Garamond", serif; font-size: .97rem;
-      font-style: italic;
-      padding: .3rem .7rem; cursor: pointer; border-radius: 2px;
-      transition: color .12s, border-color .12s, background .12s;
-  }
-  .mast-signin-btn:hover,
-  .mast-signin-btn[aria-expanded="true"] {
-      color: var(--accent); border-color: var(--accent);
-      background: rgba(28,79,139,.05);
-  }
-  .signin-dropdown {
-      position: absolute; top: calc(100% + .5rem); right: 0;
-      width: 240px;
-      background: #fff; border: 1px solid var(--rule);
-      border-radius: 3px;
-      box-shadow: 0 4px 20px rgba(15,39,71,.12);
-      padding: 1.1rem 1.1rem .9rem;
-      z-index: 200;
-  }
-  .signin-dropdown[hidden] { display: none; }
-  .signin-field { margin-bottom: .7rem; }
-  .signin-field label {
-      display: block; font-size: .7rem; font-weight: 600;
-      letter-spacing: .1em; text-transform: uppercase;
-      color: var(--ink-soft); margin-bottom: .25rem;
-      font-style: normal; font-family: "EB Garamond", serif;
-  }
-  .signin-field input {
-      width: 100%; border: 1px solid var(--rule);
-      padding: .4rem .6rem; font: inherit; font-size: .95rem;
-      background: var(--paper); border-radius: 2px;
-      transition: border-color .12s;
-  }
-  .signin-field input:focus { outline: none; border-color: var(--accent); }
-  .signin-submit {
-      width: 100%; margin-top: .2rem;
-      border: 0; background: var(--accent); color: #fff;
-      font: inherit; font-weight: 600; letter-spacing: .05em;
-      padding: .45rem .8rem; cursor: pointer;
-      text-transform: uppercase; font-size: .76rem;
-      border-radius: 2px; transition: background .15s;
-  }
-  .signin-submit:hover { background: #143d6e; }
-  .signin-error {
-      background: #fdf3f3; border-left: 2px solid #b04545;
-      padding: .35rem .6rem; font-size: .85rem; font-style: normal;
-      color: #b04545; margin-bottom: .7rem; border-radius: 1px;
-  }
-
   /* ── Page shell: sidebar + content ── */
   .page-shell {
       max-width: 1060px; margin: 0 auto; padding: 0 1.5rem;
@@ -2123,36 +1994,6 @@ if ($ref !== '') {
       </div>
     </div>
 
-    <div class="mast-user">
-      <?php if ($isLoggedIn): ?>
-        <?php if ($ref !== ''): ?>
-          <a class="mast-edit-link" href="editor/edit.php?ref=<?= urlencode($ref) ?>" title="Edit this entry">✎ Edit</a>
-        <?php endif; ?>
-        <span class="mast-username"><?= h($authUser) ?></span>
-        <a class="mast-logout" href="?logout=1<?= $query !== '' ? '&q='.urlencode($query) : '' ?><?= $ref !== '' ? '&ref='.urlencode($ref) : '' ?>">Sign out</a>
-      <?php else: ?>
-        <div class="mast-login-wrap">
-          <button class="mast-signin-btn" id="signin-toggle" aria-expanded="false" aria-controls="signin-dropdown">Sign in</button>
-          <div class="signin-dropdown" id="signin-dropdown" hidden>
-            <?php if ($loginError !== ''): ?>
-              <div class="signin-error"><?= h($loginError) ?></div>
-            <?php endif; ?>
-            <form method="post" action="<?= h('index.php' . ($_SERVER['QUERY_STRING'] ?? '' ? '?' . $_SERVER['QUERY_STRING'] : '')) ?>">
-              <div class="signin-field">
-                <label for="login_user">Username</label>
-                <input type="text" id="login_user" name="login_user" autocomplete="username"
-                       value="<?= h((string)($_POST['login_user'] ?? '')) ?>">
-              </div>
-              <div class="signin-field">
-                <label for="login_pass">Password</label>
-                <input type="password" id="login_pass" name="login_pass" autocomplete="current-password">
-              </div>
-              <button type="submit" class="signin-submit">Sign in</button>
-            </form>
-          </div>
-        </div>
-      <?php endif; ?>
-    </div>
   </div>
 </header>
 
@@ -2728,48 +2569,6 @@ if ($entryXml !== null) {
   }, { rootMargin: '-10% 0px -80% 0px', threshold: 0 });
 
   sections.forEach(s => observer.observe(s));
-})();
-
-// ── Sign-in dropdown toggle ──────────────────────────────────────
-(function () {
-  const toggle   = document.getElementById('signin-toggle');
-  const dropdown = document.getElementById('signin-dropdown');
-  if (!toggle || !dropdown) return;
-
-  // Open/close on button click
-  toggle.addEventListener('click', function (e) {
-    e.stopPropagation();
-    const open = dropdown.hasAttribute('hidden');
-    dropdown.toggleAttribute('hidden', !open);
-    toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
-    if (open) {
-      const firstInput = dropdown.querySelector('input');
-      if (firstInput) firstInput.focus();
-    }
-  });
-
-  // Close when clicking outside
-  document.addEventListener('click', function (e) {
-    if (!dropdown.hasAttribute('hidden') && !dropdown.contains(e.target)) {
-      dropdown.setAttribute('hidden', '');
-      toggle.setAttribute('aria-expanded', 'false');
-    }
-  });
-
-  // Close on Escape
-  document.addEventListener('keydown', function (e) {
-    if (e.key === 'Escape' && !dropdown.hasAttribute('hidden')) {
-      dropdown.setAttribute('hidden', '');
-      toggle.setAttribute('aria-expanded', 'false');
-      toggle.focus();
-    }
-  });
-
-  // If there was a login error, open the dropdown automatically
-  <?php if ($loginError !== ''): ?>
-  dropdown.removeAttribute('hidden');
-  toggle.setAttribute('aria-expanded', 'true');
-  <?php endif; ?>
 })();
 
 // ── Dictionary info popups ───────────────────────────────────────
