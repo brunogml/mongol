@@ -184,12 +184,13 @@ function loadRoots(string $rootXml): array {
             }
         }
         $out[] = [
-            'ref'         => (string)$it->ref,
-            'unicode'     => (string)$it->unicode,
-            'transcript'  => (string)$it->transcript,
-            'transcript2' => (string)$it->transcript2,
-            'cyrillic'    => (string)$it->cyrillic,
-            'variants'    => $variants,
+            'ref'              => (string)$it->ref,
+            'unicode'          => (string)$it->unicode,
+            'transcript'       => (string)$it->transcript,
+            'exact_transcript' => (string)$it->exact_transcript,
+            'transcript2'      => (string)$it->transcript2,
+            'cyrillic'         => (string)$it->cyrillic,
+            'variants'         => $variants,
         ];
     }
     return $out;
@@ -2470,8 +2471,11 @@ if ($entryXml !== null) {
               <?php if ($r['cyrillic'] !== '' || $cyrVariants): ?>
                 <span class="cyr"><?= h($r['cyrillic']) ?><?php foreach ($cyrVariants as $cv): ?><span class="lemma-variant"><?= h($cv) ?></span><?php endforeach; ?></span>
               <?php endif; ?>
-              <?php if ($r['transcript'] !== ''): ?>
-                <?php if ($r['cyrillic'] !== '' || $cyrVariants): ?>&nbsp;&middot;&nbsp;<?php endif; ?><span class="trans trans-secondary"><?= $contains || $fuzzy ? highlightTranscript($r['transcript'], $query, $contains) : h($r['transcript']) ?></span>
+              <?php
+                $rTrDisplay = $r['exact_transcript'] !== '' ? $r['exact_transcript'] : $r['transcript'];
+              ?>
+              <?php if ($rTrDisplay !== ''): ?>
+                <?php if ($r['cyrillic'] !== '' || $cyrVariants): ?>&nbsp;&middot;&nbsp;<?php endif; ?><span class="trans trans-secondary"><?= $contains || $fuzzy ? highlightTranscript($r['transcript'], $query, $contains) : h($rTrDisplay) ?></span>
               <?php endif; ?>
             </span>
             <span class="refid"><?= h($r['ref']) ?></span>
@@ -2699,11 +2703,11 @@ document.addEventListener('keydown', function (e) {
           <tr><td><span class="sc">ᢍ</span></td><td class="tr">ś</td></tr>
           <tr><td><span class="sc">ᠴ</span></td><td class="tr">č</td></tr>
           <tr><td><span class="sc">ᠼ</span></td><td class="tr">ç</td></tr>
-          <tr><td><span class="sc">ᠵ</span></td><td class="tr">ǰ</td></tr>
           <tr><td><span class="sc">ᢖ</span></td><td class="tr">j</td></tr>
           <tr><td><span class="sc">ᡒ</span></td><td class="tr">ȷ</td></tr>
           <tr><td><span class="sc">ᠽ</span></td><td class="tr">z</td></tr>
           <tr><td><span class="sc">ᡜ</span></td><td class="tr">ẓ</td></tr>
+          <tr><td><span class="sc">ᠵ</span></td><td class="tr">ǰ</td></tr>
         </table>
       </div>
 

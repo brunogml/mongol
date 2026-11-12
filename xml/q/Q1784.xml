@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q1784">
   <head>
     <unicode>ᠬᠠᠳᠬᠣᠭᠣᠷ</unicode>
@@ -6,6 +6,10 @@
     <transcript2>gadgogor</transcript2>
     <cyrillic>хатгуур</cyrillic>
   </head>
+  <see_also>
+    <ref>Q1809</ref>
+    <ref>Q1777</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
