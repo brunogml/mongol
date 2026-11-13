@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Y1991">
   <head>
     <unicode>ᠵᠡᠰ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>yes</transcript2>
     <cyrillic>зэс</cyrillic>
   </head>
+  <see_also>
+    <ref>Y2792</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -142,7 +145,7 @@
     <entry_item>
       <dico>Vietze</dico>
       <cyrillic>зэс</cyrillic>
-      <definition>1. Kupfer n; ~ нь цухуйх idiom sich von der schlechten Seite zeigen; ~ий нь цухуйлгах jmdm. blamieren od bloßstellen
+      <definition>1. Kupfer n; ~ нь цухуйх idiom sich von der schlechten Seite zeigen; ~ий нь цухуйлгах jmdm. blamieren od bloßstellen&#13;
 2. Kupfer-; kupfern; ~ данх[ан] Kupferkanne f; ~ зоос[он] Kupfermünze f</definition>
       <page>131</page>
     </entry_item>

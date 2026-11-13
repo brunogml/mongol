@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="C1990">
   <head>
     <unicode>ᠴᠢᠮᠠᠺᠯᠠᠺᠥ</unicode>
@@ -10,7 +10,7 @@
     <ref>C1991</ref>
     <ref>C1992</ref>
     <ref>C1989</ref>
-  </derivatives>
+  <ref>C1993</ref><ref>C1986</ref><ref>C1988</ref></derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -69,4 +69,4 @@
       <page>819</page>
     </entry_item>
   </entries>
-</entry>
+<related_to><ref>C1968</ref></related_to></entry>

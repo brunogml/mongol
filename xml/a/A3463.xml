@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="A3463">
   <head>
     <unicode>ᠠᠺᠢᠷᠠᠬᠣ</unicode>
@@ -6,12 +6,12 @@
     <transcript2>agirago</transcript2>
     <cyrillic>агирах</cyrillic>
   </head>
-  <derivatives>
-    <ref>A3465</ref>
-  </derivatives>
   <see_also>
     <ref>A3464</ref>
   </see_also>
+  <derivatives>
+    <ref>A3465</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -43,7 +43,7 @@
     </entry_item>
     <entry_item>
       <dico>Boberg</dico>
-      <unicode>ᠠᠺᠢᠷᠠᠬᠣ</unicode>
+      <unicode>ᠠᠺᠢᠷᠠᠨ ᠺᠥᠯᠳᠡᠺᠦ</unicode>
       <uighur>akiran köldekü</uighur>
       <definition>To freeze solid to the bottom.</definition>
       <page>22</page>

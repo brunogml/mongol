@@ -2472,7 +2472,7 @@
     "_item_unicode": "ᠠᠭᠠᠯᠵᠠ ~ ᠠᠭᠠᠯᠵᠠᠢ ~ ᠠᠭᠠᠯᠵᠢ",
     "examples": [
       {
-        "unicode": "",
+        "unicode": "ᠠᠭᠠᠯᠵᠢ ᠎ᠶᠢᠨ ᠦᠭᠡᠰᠢ",
         "def": "toile d'araingée"
       }
     ]
@@ -2876,7 +2876,7 @@
   },
   {
     "ref": "A0740",
-    "transcript": "aqouna",
+    "transcript": "aqoun-a",
     "transcript2": "agoona",
     "unicode": "ᠠᠬᠤᠤᠨ᠎ᠠ",
     "cyrillic": "ахууна",
@@ -188734,7 +188734,7 @@
     "transcript": "šungqu",
     "transcript2": "songgo",
     "unicode": "ᠱᠣᠩᠬᠣ",
-    "cyrillic": "",
+    "cyrillic": "шунх",
     "page": "1536",
     "sense_no": "",
     "def": "vermillon, encre rouge.",
@@ -238450,7 +238450,7 @@
     "ref": "T7767",
     "transcript": "durum-a",
     "transcript2": "dorom-a",
-    "unicode": "ᠳᠣᠷᠣᠮᠠ",
+    "unicode": "ᠳᠤᠷᠤᠮ ᠠ",
     "cyrillic": "",
     "page": "1888",
     "sense_no": "",
@@ -272814,7 +272814,7 @@
     "cyrillic": "чимээ",
     "page": "2169",
     "sense_no": "",
-    "def": "1 son de voix, cri; \n\n2 bruit, rumeur",
+    "def": "1 son de voix, cri; \r\n\r\n2 bruit, rumeur",
     "_item_transcript": "",
     "_item_cyrillic": "",
     "_item_unicode": "ᠴᠢᠮᠡᠭᠡᠨ ~ ᠴᠢᠮᠡᠭᠡ",
@@ -294206,9 +294206,9 @@
   },
   {
     "ref": "K2236",
-    "transcript": "giltügene",
+    "transcript": "giltügen-e",
     "transcript2": "gildögene",
-    "unicode": "ᠺᠢᠯᠲᠥᠺᠡᠨᠡ",
+    "unicode": "ᠭᠢᠯᠲᠦᠭᠡᠨ ᠡ",
     "cyrillic": "гилтгэнэ",
     "page": "2536",
     "sense_no": "",
@@ -294245,9 +294245,9 @@
   },
   {
     "ref": "K2245",
-    "transcript": "giltügüne",
+    "transcript": "giltügün-e",
     "transcript2": "gildögöne",
-    "unicode": "ᠺᠢᠯᠲᠥᠺᠥᠨᠡ",
+    "unicode": "ᠭᠢᠯᠲᠦᠭᠦᠨ ᠡ",
     "cyrillic": "",
     "page": "2536",
     "sense_no": "",
@@ -306368,8 +306368,8 @@
     "_item_unicode": "ᠺᠥᠺᠡᠮᠳᠦᠭ ~ ᠺᠥᠺᠡᠮᠳᠦᠭᠡ ~ ᠺᠥᠺᠡᠮᠳᠡᠭᠡᠢ"
   },
   {
-    "ref": "K4589",
-    "transcript": "kökeče",
+    "ref": "K4590",
+    "transcript": "kögeče",
     "transcript2": "gögece",
     "unicode": "ᠺᠥᠺᠡᠴᠡ",
     "cyrillic": "",
@@ -306420,7 +306420,7 @@
     "cyrillic": "хөгц",
     "page": "2626",
     "sense_no": "",
-    "def": "1 indigo (indigo tinctoria, S. aklikâ, nîla); \n\n2 la charbonnière",
+    "def": "1 indigo (indigo tinctoria, S. aklikâ, nîla); \r\n2 la charbonnière",
     "_item_transcript": "",
     "_item_cyrillic": "",
     "_item_unicode": "ᠺᠥᠺᠡᠴᠡ ~ ᠺᠥᠺᠡᠴᠦ"

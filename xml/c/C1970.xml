@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="C1970">
   <head>
     <unicode>ᠴᠢᠮᠠᠺᠠᠲᠠᠢ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>cimegedei</transcript2>
     <cyrillic>чимээтэй</cyrillic>
   </head>
+  <related_to>
+    <ref>C1969</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -47,7 +50,7 @@
       <dico>lamrd</dico>
       <unicode>ᠴᠢᠮᠠᠺᠠᠲᠠᠢ</unicode>
       <cyrillic>ЧИМЭЭТЭЙ</cyrillic>
-      <definition>1) шумный; звучный; говорливый; 2) вызывающий толки, пересуды (о деле); 3) известный. </definition>
+      <definition>1) шумный; звучный; говорливый; 2) вызывающий толки, пересуды (о деле); 3) известный.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>

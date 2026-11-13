@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="V0063">
   <head>
     <unicode>ᠸᠠᠴᠢᠷ</unicode>
@@ -115,10 +115,14 @@
     <entry_item>
       <dico>Kowalewski</dico>
       <unicode>ᠸᠠᠴᠢᠷ</unicode>
-      <definition>1 diamant;
-2 sceptre;
-3 foudre, tonnerre;
-4 un trait, javelot;
+      <definition>1 diamant;
+
+2 sceptre;
+
+3 foudre, tonnerre;
+
+4 un trait, javelot;
+
 5 fig. toute chose excessivement dure</definition>
       <page>2664</page>
       <examples>
@@ -188,4 +192,4 @@
       <page>127</page>
     </entry_item>
   </entries>
-</entry>
+<derivatives><ref>V0065</ref></derivatives></entry>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="S3166">
   <head>
     <unicode>ᠰᠢᠩᠬᠣ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>singgo</transcript2>
     <cyrillic>шунх</cyrillic>
   </head>
+  <see_also>
+    <ref>S5100</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -19,7 +22,7 @@
         <example>
           <unicode>ᠲᠤᠩᠭᠠᠯᠠᠭ ᠰᠢᠩᠬᠤ</unicode>
           <transcript>tungγalaγ --</transcript>
-          <definition> Light red cinnabar.</definition>
+          <definition>Light red cinnabar.</definition>
         </example>
       </examples>
     </entry_item>
@@ -61,7 +64,7 @@
       <dico>lamrd</dico>
       <unicode>ᠰᠢᠩᠬᠣ</unicode>
       <cyrillic>ШУНХ</cyrillic>
-      <definition>1. киноварь, красная краска; тунгалаг шунх чистая, светлая киноварь; шунхаас төрсөн ёгт. ртуть (үгчил. рождённая от киновари, происшедшая из киновари); 2. красный; шунхан Ганжуур Красный Ганджур (книга); шунхан гүр кровавый железняк; шунхан шумбуур шувуу. красноносая чернеть (птица). </definition>
+      <definition>1. киноварь, красная краска; тунгалаг шунх чистая, светлая киноварь; шунхаас төрсөн ёгт. ртуть (үгчил. рождённая от киновари, происшедшая из киновари); 2. красный; шунхан Ганжуур Красный Ганджур (книга); шунхан гүр кровавый железняк; шунхан шумбуур шувуу. красноносая чернеть (птица).</definition>
       <page>0</page>
     </entry_item>
     <entry_item>

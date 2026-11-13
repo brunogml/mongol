@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K2236">
   <head>
-    <unicode>ᠺᠢᠯᠲᠥᠺᠡᠨᠡ</unicode>
-    <transcript>giltügene</transcript>
+    <unicode>ᠭᠢᠯᠲᠦᠭᠡᠨ ᠡ</unicode>
+    <transcript>giltügen-e</transcript>
     <transcript2>gildögene</transcript2>
     <cyrillic>гилтгэнэ</cyrillic>
   </head>
+  <see_also>
+    <ref>K2245</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -25,7 +28,7 @@
       <dico>lamrd</dico>
       <unicode>ᠺᠢᠯᠲᠥᠺᠡᠨᠡ</unicode>
       <cyrillic>ГИЛТГЭНЭ</cyrillic>
-      <definition>блеск; тугалганы гилтгэнэ свинцовый блеск. </definition>
+      <definition>блеск; тугалганы гилтгэнэ свинцовый блеск.</definition>
       <page>0</page>
     </entry_item>
   </entries>

@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T7767">
   <head>
-    <unicode>ᠳᠣᠷᠣᠮᠠ</unicode>
+    <unicode>ᠳᠤᠷᠤᠮ ᠠ</unicode>
     <transcript>durum-a</transcript>
     <transcript2>dorom-a</transcript2>
   </head>
+  <see_also>
+    <ref>T7969a</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>Lessing</dico>

@@ -6,6 +6,11 @@
     <transcript2>cabao</transcript2>
     <cyrillic>цавуу</cyrillic>
   </head>
+  <see_also>
+    <ref>C1631</ref>
+    <ref>C0294</ref>
+    <ref>C1626</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -115,4 +120,13 @@
       <page>0</page>
     </entry_item>
   </entries>
-<derivatives><ref>C0258</ref><ref>C0260</ref><ref>C0261</ref><ref>C0266</ref><ref>C0267</ref><ref>C0268</ref><ref>C0269</ref></derivatives><see_also><ref>C1631</ref></see_also></entry>
+  <derivatives>
+    <ref>C0258</ref>
+    <ref>C0260</ref>
+    <ref>C0261</ref>
+    <ref>C0266</ref>
+    <ref>C0267</ref>
+    <ref>C0268</ref>
+    <ref>C0269</ref>
+  </derivatives>
+</entry>

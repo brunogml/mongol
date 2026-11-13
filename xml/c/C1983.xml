@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="C1983">
   <head>
     <unicode>ᠴᠢᠮᠠᠺᠲᠠᠢ</unicode>
@@ -6,6 +6,12 @@
     <transcript2>cimegdei</transcript2>
     <cyrillic>чимэгтэй</cyrillic>
   </head>
+  <see_also>
+    <ref>C1985</ref>
+  </see_also>
+  <related_to>
+    <ref>C1968</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -33,7 +39,7 @@
       <dico>lamrd</dico>
       <unicode>ᠴᠢᠮᠠᠺᠲᠠᠢ</unicode>
       <cyrillic>ЧИМЭГТЭЙ</cyrillic>
-      <definition>разукрашенный, нарядный; наряжённый, убранный; баримал чимэгтэй адар лепной потолок; чихэнд чимэгтэй үг приятные на слух слова. </definition>
+      <definition>разукрашенный, нарядный; наряжённый, убранный; баримал чимэгтэй адар лепной потолок; чихэнд чимэгтэй үг приятные на слух слова.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>

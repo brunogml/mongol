@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="C1971">
   <head>
     <unicode>ᠴᠢᠮᠠᠺᠠᠲᠥ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>cimegedö</transcript2>
     <cyrillic>чимээт</cyrillic>
   </head>
+  <related_to>
+    <ref>C1969</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -27,7 +30,7 @@
       <dico>lamrd</dico>
       <unicode>ᠴᠢᠮᠠᠺᠠᠲᠥ</unicode>
       <cyrillic>ЧИМЭЭТ</cyrillic>
-      <definition>чимээтэй-г үз. </definition>
+      <definition>чимээтэй-г үз.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>

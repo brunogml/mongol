@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="C1969">
   <head>
     <unicode>ᠴᠢᠮᠡᠭᠡ</unicode>
@@ -6,6 +6,10 @@
     <transcript2>cimege</transcript2>
     <cyrillic>чимээ</cyrillic>
   </head>
+  <derivatives>
+    <ref>C1970</ref>
+    <ref>C1971</ref>
+  <ref>C1972</ref><ref>C1974</ref><ref>C1977</ref></derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -13,8 +17,10 @@
       <uighur>čimege - čimegen</uighur>
       <cyrillic>чимээ</cyrillic>
       <transcript>CIMEGE(N)</transcript>
-      <definition>[= cim-e] n. 
-a) Sound, noise; hubbub. 
+      <definition>[= cim-e] n. &#13;
+&#13;
+a) Sound, noise; hubbub. &#13;
+&#13;
 b) Rumor, news, report.</definition>
       <page>185</page>
       <examples>
@@ -88,7 +94,8 @@ b) Rumor, news, report.</definition>
     <entry_item>
       <dico>Kowalewski</dico>
       <unicode>ᠴᠢᠮᠡᠭᠡᠨ ~ ᠴᠢᠮᠡᠭᠡ</unicode>
-      <definition>1 son de voix, cri; 
+      <definition>1 son de voix, cri; &#13;
+&#13;
 2 bruit, rumeur</definition>
       <page>2169</page>
       <examples>
