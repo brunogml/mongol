@@ -32316,8 +32316,8 @@
 <item><ref>B4929</ref><unicode>ᠪᠣᠷᠧᠼᠧᠨᠲ</unicode><transcript>bürečent</transcript><transcript2>börecend</transcript2><cyrillic>брезент(эн)</cyrillic><variants><v t="cyrillic">брезентэн</v></variants></item>
 <item><ref>B4930</ref><unicode>ᠪᠥᠷᠢ</unicode><transcript>büri</transcript><transcript2>böri</transcript2><cyrillic>бүр</cyrillic></item>
 <item><ref>B4931</ref><unicode>ᠪᠥᠷᠢᠨ</unicode><transcript>bürin</transcript><transcript2>börin</transcript2><cyrillic>бүрэн</cyrillic></item>
-<item><ref>B4932</ref><unicode>ᠪᠥᠷᠢᠨᠲᠥ</unicode><transcript>bürintü</transcript><transcript2>börindö</transcript2><cyrillic>бүрэнт</cyrillic></item>
-<item><ref>B4933</ref><unicode>ᠪᠥᠷᠢᠨᠠ</unicode><transcript>bürine</transcript><transcript2>börine</transcript2><cyrillic>бүрнээ</cyrillic></item>
+<item><ref>B4932</ref><unicode>ᠪᠥᠷᠢᠨᠲᠥ</unicode><transcript>bürintü</transcript><transcript2>börindö</transcript2><cyrillic>бүрэнт</cyrillic><variants><v t="unicode">ᠪᠦᠷᠢᠨ ᠎ᠲᠦ</v></variants></item>
+<item><ref>B4933</ref><unicode>ᠪᠦᠷᠢᠨ ᠡ</unicode><transcript>bürin-e</transcript><transcript2>börine</transcript2><cyrillic>бүрнээ</cyrillic><variants><v t="unicode">ᠪᠥᠷᠢᠨᠠ</v></variants></item>
 <item><ref>B4934</ref><unicode>ᠪᠥᠷᠢᠳᠥ</unicode><transcript>büridü</transcript><transcript2>böridö</transcript2><cyrillic>бүрд</cyrillic></item>
 <item><ref>B4935</ref><unicode>ᠪᠥᠷᠢᠳᠥᠯ</unicode><transcript>büridül</transcript><transcript2>böridöl</transcript2><cyrillic>бүрдэл</cyrillic></item>
 <item><ref>B4936</ref><unicode>ᠪᠥᠷᠢᠳᠥᠯᠺᠠ</unicode><transcript>büridülge</transcript><transcript2>böridölge</transcript2><cyrillic>бүрдлэг</cyrillic></item>
@@ -55857,7 +55857,7 @@
 <item><ref>C0379</ref><unicode>ᠴᠠᠲᠠᠨ</unicode><transcript>čatan</transcript><transcript2>cadan</transcript2><cyrillic>цаатан</cyrillic></item>
 <item><ref>C0380</ref><unicode>ᠴᠠᠳᠠᠷᠠ</unicode><transcript>čadar-a</transcript><transcript2>cadar-a</transcript2><cyrillic>чадраа</cyrillic></item>
 <item><ref>C0381</ref><unicode>ᠴᠠᠳᠢ</unicode><transcript>čati</transcript><transcript2>cadi</transcript2><cyrillic></cyrillic><variants><v t="unicode">ᠽᠠᠲᠢ</v><v t="unicode">ᡜᠠᠳᠢ</v></variants></item>
-<item><ref>C0382</ref><unicode>ᠴᠠᠳᠢᠭ</unicode><transcript>čadiγ</transcript><transcript2>cadig</transcript2><cyrillic>цадиг</cyrillic></item>
+<item><ref>C0382</ref><unicode>ᠴᠠᠳᠢᠭ</unicode><transcript>čadig</transcript><transcript2>cadig</transcript2><cyrillic>цадиг</cyrillic><variants><v t="unicode">ᠴᠠᠳᠢᢉ</v></variants></item>
 <item><ref>C0383</ref><unicode>ᠴᠠᠳᠢᠭᠭᠦᠢ</unicode><transcript>čadiγgüi</transcript><transcript2>cadiggöi</transcript2><cyrillic>цадиггүй</cyrillic><variants><v t="unicode">ᠴᠠᠳᠢᠭ᠎ᠦᠭᠡᠢ</v></variants></item>
 <item><ref>C0384</ref><unicode>ᠴᠠᠳᠢᠭᠭᠦᠶᠢᠲᠦᠺᠦ</unicode><transcript>čadiγgüyitükü</transcript><transcript2>cadiggöyidögö</transcript2><cyrillic>цадиггүйтэх</cyrillic><variants><v t="unicode">ᠴᠠᠳᠢᠭ᠎ᠦᠭᠡᠢᠲᠡᠬᠦ</v></variants></item>
 <item><ref>C0385</ref><unicode>ᠴᠠᠳᠢᠭᠭᠦᠶᠢᠷᠭᠡᠺᠦ</unicode><transcript>čadiγgüyirkekü</transcript><transcript2>cadiggöyirgegö</transcript2><cyrillic>цадиггүйрхэх</cyrillic><variants><v t="unicode">ᠴᠠᠳᠢᠭ᠎ᠦᠭᠡᠢᠷᠬᠡᠬᠦ</v></variants></item>
@@ -72807,4 +72807,9 @@
 <item><ref>S7189</ref><unicode>ᠰᠪᠤᠭ</unicode><transcript>sbuγ</transcript><transcript2></transcript2><cyrillic></cyrillic><variants><v t="unicode">ᠰᠫᠤᠭ</v></variants></item>
 <item><ref>B9074</ref><unicode>ᠪᠷᠠᠱᠢᠷᠠᢉᠠ</unicode><transcript>brasiraga</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
 <item><ref>Q7492</ref><unicode>ᠺᠤᠷᠤ</unicode><transcript>kuru</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>B9075</ref><unicode>ᠪᠤᠷᠸᠠᠯᠠᠳᠢᠷᠠᠪᠠᠳ</unicode><transcript>burvaladirabad</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>B9076</ref><unicode>ᠪᠤᠷᠸᠠᠯᠠᢉᠤᠨᠢ</unicode><transcript>burvalaguni</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>B9077</ref><unicode>ᠪᠤᠰᠪᠢ</unicode><transcript>busbi</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
+<item><ref>C3894</ref><unicode>ᠴᠢᠳᠠᠭᠳᠠᠭᠴᠢ</unicode><transcript>čidaγdaγči</transcript><transcript2>cidaqdaqci</transcript2><cyrillic></cyrillic></item>
+<item><ref>C3895</ref><unicode>ᠴᠣᠭᠴᠠᠲᠤ</unicode><transcript>čoγčatu</transcript><transcript2>coqcatu</transcript2><cyrillic></cyrillic><variants><v t="unicode">ᠴᠣᠭᠴᠠ ᠎ᠲᠤ</v></variants></item>
 </list>

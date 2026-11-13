@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="C0382">
   <head>
     <unicode>ᠴᠠᠳᠢᠭ</unicode>
-    <transcript>čadiγ</transcript>
+    <transcript>čadig</transcript>
     <transcript2>cadig</transcript2>
     <cyrillic>цадиг</cyrillic>
   </head>
@@ -21,12 +21,12 @@
     </entry_item>
     <entry_item>
       <dico>Kowalewski</dico>
-      <unicode>ᠴᠠᠳᠢᠭ</unicode>
+      <unicode>ᠴᠠᠳᠢᢉ</unicode>
       <definition>généalogie, traité consacré au récit des existences antérieures.</definition>
       <page>2096</page>
       <examples>
         <example>
-          <unicode>ᠦᠯᠢᠭᠡᠷ ᠴᠠᠳᠢᠭ</unicode>
+          <unicode>ᠦᠯᠢᠭᠡᠷ ᠴᠠᠳᠢᢉ</unicode>
           <definition>légende, récit légendaire</definition>
         </example>
       </examples>
@@ -48,8 +48,8 @@
     <entry_item>
       <dico>Vietze</dico>
       <cyrillic>цадиг</cyrillic>
-      <definition>1. Biographie f, Lebensbeschreibung f
-
+      <definition>1. Biographie f, Lebensbeschreibung f&#13;
+&#13;
 2. Grundsatz m, Prinzip n; Fassung f; ~аа алдах die Fassung verlieren</definition>
       <page>351</page>
     </entry_item>

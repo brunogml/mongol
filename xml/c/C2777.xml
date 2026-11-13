@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="C2777">
   <head>
     <unicode>ᠴᠣᠬᠴᠠ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>cogca</transcript2>
     <cyrillic>цогц</cyrillic>
   </head>
+  <derivatives>
+    <ref>C3895</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -65,10 +68,14 @@
     <entry_item>
       <dico>Kowalewski</dico>
       <unicode>ᠴᠤᠬᠴᠠ</unicode>
-      <definition>1 amas, monceau, tas, bûcher; 
-2 édifice, bâtiment: 
-3 masse; assemblé, ramassé, état des parties assemblées en un seul tout, agrégation d'élémens matériels; agrégats, accidents, attributs intellectuels; objet, matière, corps: 
-4 quelquefois on le met comme un pléonasme:
+      <definition>1 amas, monceau, tas, bûcher; 
+
+2 édifice, bâtiment: 
+
+3 masse; assemblé, ramassé, état des parties assemblées en un seul tout, agrégation d'élémens matériels; agrégats, accidents, attributs intellectuels; objet, matière, corps: 
+
+4 quelquefois on le met comme un pléonasme:
+
 5 mot symbolique du nombre cinq</definition>
       <page>2217</page>
       <examples>
@@ -178,7 +185,8 @@
       <dico>lamrd</dico>
       <unicode>ᠴᠣᠬᠴᠠ</unicode>
       <cyrillic>ЦОГЦ</cyrillic>
-      <definition>II 1. 1) комплекс; совокупность; комплект; набор; биеийн цогц телосложение; нэр томъёоны цогц терминология; цогц сэдэв тематика; цогц хэв шинж типаж; амьд цогцын судлал анатомия; 
+      <definition>II 1. 1) комплекс; совокупность; комплект; набор; биеийн цогц телосложение; нэр томъёоны цогц терминология; цогц сэдэв тематика; цогц хэв шинж типаж; амьд цогцын судлал анатомия; 
+
 2) гүн.ух. материя, плоть, тело; цогц зандан шашин. молитвенный текст, читаемый во время торжественных служб; 2. комплексный; цогц эмчилгээ комплексное лечение.</definition>
       <page>0</page>
     </entry_item>
