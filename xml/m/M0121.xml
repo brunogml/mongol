@@ -6,6 +6,12 @@
     <transcript2>mancilga</transcript2>
     <cyrillic>манжилга</cyrillic>
   </head>
+  <derivatives>
+    <ref>M0121a</ref>
+    <ref>M0121b</ref>
+    <ref>M0121c</ref>
+    <ref>M0122</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -18,19 +24,19 @@
     </entry_item>
     <entry_item>
       <dico>Kowalewski</dico>
-      <unicode>ᠮᠠᠨᠵᠢᠯᠭ᠎ᠠ</unicode>
+      <unicode>ᠮᠠᠨᠵᠢᠯᠭᠠ</unicode>
       <definition>pendeloque de soie, aigrette,</definition>
       <page>1976</page>
       <examples>
         <example>
-          <unicode>ᠮᠠᠨᠵᠢᠯᠭ᠎ᠠ ᠡᠷᠳᠡᠨᠢᠲᠦ</unicode>
+          <unicode>ᠮᠠᠨᠵᠢᠯᠭᠠ ᠡᠷᠳᠡᠨᠢᠲᠦ</unicode>
           <definition>nom d'un bôdhisattva</definition>
         </example>
       </examples>
     </entry_item>
     <entry_item>
       <dico>Schmidt</dico>
-      <unicode>ᠮᠠᠨᠵᠢᠯᠭ᠎ᠠ</unicode>
+      <unicode>ᠮᠠᠨᠵᠢᠯᠭᠠ</unicode>
       <uighur>manǰilγa</uighur>
       <definition>herabhängende Altar- oder Tempelfahnen; herabhängender Kopfschmuck</definition>
       <page>210</page>

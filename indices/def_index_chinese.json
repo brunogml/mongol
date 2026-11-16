@@ -208091,19 +208091,6 @@
     "_item_unicode": "ᠪᠢᠯᠢᠶᠠᠷᠳ᠋"
   },
   {
-    "ref": "B2307",
-    "transcript": "bilüčüg",
-    "transcript2": "bilöcög",
-    "unicode": "ᠪᠢᠯᠥᠴᠥᠺ",
-    "cyrillic": "бялжиг",
-    "page": "251",
-    "sense_no": "",
-    "def": "〔名〕戒指.",
-    "_item_transcript": "",
-    "_item_cyrillic": "бялжиг",
-    "_item_unicode": "ᠪᠢᠯᠵᠢᠭ"
-  },
-  {
     "ref": "B2309",
     "transcript": "bilqaγanaqu",
     "transcript2": "bilgaganago",
@@ -230751,9 +230738,9 @@
   },
   {
     "ref": "B4933",
-    "transcript": "bürine",
+    "transcript": "bürin-e",
     "transcript2": "börine",
-    "unicode": "ᠪᠥᠷᠢᠨᠠ",
+    "unicode": "ᠪᠦᠷᠢᠨ ᠡ",
     "cyrillic": "бүрнээ",
     "page": "230",
     "sense_no": "",
@@ -494557,5 +494544,18 @@
     "_item_transcript": "",
     "_item_cyrillic": "оршилт",
     "_item_unicode": "ᠣᠷᠣᠰᠢᠯᠲᠠ"
+  },
+  {
+    "ref": "B9079",
+    "transcript": "bilǰig",
+    "transcript2": "",
+    "unicode": "ᠪᠢᠯᠵᠢᠭ",
+    "cyrillic": "",
+    "page": "251",
+    "sense_no": "",
+    "def": "〔名〕戒指.",
+    "_item_transcript": "",
+    "_item_cyrillic": "бялжиг",
+    "_item_unicode": "ᠪᠢᠯᠵᠢᠭ"
   }
 ]
