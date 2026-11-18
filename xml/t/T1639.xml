@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T1639">
   <head>
     <unicode>ᠲᠠᠯ ᠠ</unicode>
@@ -10,6 +10,10 @@
     <ref>T1637</ref>
     <ref>T1640</ref>
   </see_also>
+  <derivatives>
+    <ref>T1686</ref>
+    <ref>T1685</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -17,7 +21,11 @@
       <uighur>tal-a</uighur>
       <cyrillic>тал</cyrillic>
       <transcript>TAL-A</transcript>
-      <definition>n. and adj. a) Plain, level space, steppe. b) Side; direction; part; faction; page (of a book) c) Favorite, favorable; favor. d) [= tal]. Half; one of a pair.</definition>
+      <definition>n. and adj. &#13;
+a) Plain, level space, steppe. &#13;
+b) Side; direction; part; faction; page (of a book) &#13;
+c) Favorite, favorable; favor. &#13;
+d) [= tal]. Half; one of a pair.</definition>
       <page>771</page>
       <examples>
         <example>
@@ -175,7 +183,11 @@
     <entry_item>
       <dico>Kowalewski</dico>
       <unicode>ᠳᠠᠯᠠ ~ ᢐᠠᠯᠠ</unicode>
-      <definition>steppe, plaine découverte, champ: 2 côté, contrée: 3 page, marge; feuillet de livre: 4 joie, plaisir, satisfaction: reconnaissance, gratitudes 5 S. tâla (ap. Plin.12,6. loco pala leg, tala) palmier, dattier (borassus flagelliformis, corypha taliera),</definition>
+      <definition>1 steppe, plaine découverte, champ: &#13;
+2 côté, contrée: &#13;
+3 page, marge; feuillet de livre: &#13;
+4 joie, plaisir, satisfaction: reconnaissance, gratitudes &#13;
+5 S. tâla (ap. Plin.12,6. loco pala leg, tala) palmier, dattier (borassus flagelliformis, corypha taliera),</definition>
       <page>1629</page>
       <examples>
         <example>
@@ -239,23 +251,23 @@
       <page>916</page>
       <examples>
         <example>
-          <uighur>tal-a ögkü</uighur>
+          <unicode>ᠲᠠᠯ ᠠ ᠥᠭᠺᠦ</unicode>
           <definition>To thank. To be grateful. To express one's thanks.</definition>
         </example>
         <example>
-          <uighur>tal-a büri darqaqu</uighur>
+          <unicode>ᠲᠠᠯ ᠠ ᠪᠦᠷᠢ ᠳᠠᠷᠬᠠᠬᠤ</unicode>
           <definition>v.i. To disperse in all directions</definition>
         </example>
         <example>
-          <uighur>tal-a qaraqu</uighur>
+          <unicode>ᠲᠠᠯ ᠠ ᠬᠠᠷᠠᠬᠤ</unicode>
           <definition>To regard with partiality. To look at a thing only from one side.</definition>
         </example>
         <example>
-          <uighur>tal-a dumda</uighur>
+          <unicode>ᠲᠠᠯ ᠠ ᠳᠤᠮᠳᠠ</unicode>
           <definition>In the midst of the steppe.</definition>
         </example>
         <example>
-          <uighur>tal-a-dur qučuraqu</uighur>
+          <unicode>ᠲᠠᠯ ᠠ ᠳ᠋‍‍ᠤ‍ᠷ ᠬᠤᠴᠤᠷᠠᠬᠤ</unicode>
           <definition>To get lost or be left behind in a steppe. To lose one's way.</definition>
         </example>
       </examples>

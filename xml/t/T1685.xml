@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T1685">
   <head>
     <unicode>ᠲᠠᠯᠠᠲᠠᠢ</unicode>
@@ -9,6 +9,9 @@
   <see_also>
     <ref>T1686</ref>
   </see_also>
+  <related_to>
+    <ref>T1639</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -22,12 +25,12 @@
         <example>
           <unicode>ᠲᠠᠯᠠᠲᠠᠢ ᠰᠠᠷ᠎ᠠ</unicode>
           <transcript>-- sar-a</transcript>
-          <definition> Auspicious month (for weddings,etc.).</definition>
+          <definition>Auspicious month (for weddings,etc.).</definition>
         </example>
         <example>
           <unicode>ᠲᠠᠪᠤᠨ ᠲᠠᠯᠠᠲᠠᠢ</unicode>
-          <transcript>tabun -- </transcript>
-          <definition> Pentagonal.</definition>
+          <transcript>tabun --</transcript>
+          <definition>Pentagonal.</definition>
         </example>
       </examples>
     </entry_item>
@@ -35,28 +38,28 @@
       <dico>lamrd</dico>
       <unicode>ᠲᠠᠯᠠᠲᠠᠢ</unicode>
       <cyrillic>ТАЛТАЙ</cyrillic>
-      <definition>I талт I-ыг үз., имеющий стороны, бока, грани, гранёный; адил талтай равносторонний; ганц талтай үр ург.суд. однодольные семена; дөрвөн талтай тоо. тетраЇдр; олон талтай многосторонний, многогранник; хоёр талтай двусторонний; талтай билүү шестигранный брусок, оселок; талтай сум стрела с четырёхгранным остриём. </definition>
+      <definition>I талт I-ыг үз., имеющий стороны, бока, грани, гранёный; адил талтай равносторонний; ганц талтай үр ург.суд. однодольные семена; дөрвөн талтай тоо. тетраЇдр; олон талтай многосторонний, многогранник; хоёр талтай двусторонний; талтай билүү шестигранный брусок, оселок; талтай сум стрела с четырёхгранным остриём.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠲᠠᠯᠠᠲᠠᠢ</unicode>
       <cyrillic>ТАЛТАЙ</cyrillic>
-      <definition>II имеющий друзей, сторонников; талтай хүн талын чинээ, талгүй хүн алгын чинээ зүйр. у кого много друзей – широк как степь, у кого нет друзей – узок как ладонь; ~ не имей сто рублей, а имей сто друзей. </definition>
+      <definition>II имеющий друзей, сторонников; талтай хүн талын чинээ, талгүй хүн алгын чинээ зүйр. у кого много друзей – широк как степь, у кого нет друзей – узок как ладонь; ~ не имей сто рублей, а имей сто друзей.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠲᠠᠯᠠᠲᠠᠢ</unicode>
       <cyrillic>ТАЛТАЙ</cyrillic>
-      <definition>III благоприятный, подходящий, удобный, соответственный, радостный. </definition>
+      <definition>III благоприятный, подходящий, удобный, соответственный, радостный.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>Vietze</dico>
       <cyrillic>талтай</cyrillic>
-      <definition>1. = талт
-1.;
+      <definition>1. = талт&#13;
+1.;&#13;
 2. mit Freunden; Freunde haben ◇ ~ хүн талын чинзэ, талгүй хүн алгын чинзэ wer Freunde hat, ist so groß wie die Steppe, wer keine Freunde hat, ist so klein wie die Hand</definition>
       <page>218</page>
     </entry_item>
