@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Y0796">
   <head>
     <unicode>ᠵᠠᠪᠰᠠᠷᠯᠠᠬᠣ</unicode>
@@ -6,9 +6,14 @@
     <transcript2>yabsarlago</transcript2>
     <cyrillic>завсарлах</cyrillic>
   </head>
+  <related_to>
+    <ref>Y0782</ref>
+  </related_to>
   <derivatives>
     <ref>Y0797</ref>
     <ref>Y0801</ref>
+    <ref>Y0798</ref>
+    <ref>Y0800</ref>
   </derivatives>
   <entries>
     <entry_item>
@@ -30,9 +35,9 @@
     <entry_item>
       <dico>Kowalewski</dico>
       <unicode>ᠵᠠᠪᠰᠠᠷᠯᠠᠬᠤ</unicode>
-      <definition>1 séparer: séparer par des bornes, fixer les limites, mettre des bornes entre: 
-2 se fendre, se crevasser, se dessouder: 
-3 se séparer de (d'avec ses parents): 
+      <definition>1 séparer: séparer par des bornes, fixer les limites, mettre des bornes entre: &#13;
+2 se fendre, se crevasser, se dessouder: &#13;
+3 se séparer de (d'avec ses parents): &#13;
 4 discontinuer par intervalles, la cessation des douleurs pour un temps.</definition>
       <page>2266</page>
       <examples>

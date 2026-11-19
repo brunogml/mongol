@@ -1080,6 +1080,8 @@ if ($ref !== '') {
       line-height: 1;
   }
   .dict-nav ul li:first-child .dict-nav-group { margin-top: 0; }
+  .dict-nav-group-row { display: flex; align-items: flex-end; }
+  .dict-nav-group-row .dico-info-btn { margin: 0 0 .1rem 0; }
 
   /* ── Content shell ── */
   main {
@@ -1838,6 +1840,21 @@ if ($ref !== '') {
   }
   .tib-dict-btn:hover { color: var(--accent); border-color: var(--accent); }
 
+  /* ── Select part of a Tibetan phrase → search it in tib.php ── */
+  .tib-unicode[data-ewts] { cursor: text; }
+  .tib-sel-pop {
+      position: absolute; z-index: 1000; display: none;
+      font-family: "EB Garamond", serif; font-size: .9rem; line-height: 1.2;
+      padding: .3rem .6rem;
+      color: #fff; background: var(--accent);
+      border-radius: 3px; box-shadow: 0 2px 8px rgba(0,0,0,.25);
+      text-decoration: none; white-space: nowrap;
+      transform: translate(-50%, -100%); margin-top: -6px;
+  }
+  .tib-sel-pop.open { display: block; }
+  .tib-sel-pop:hover { background: #143d6e; }
+  .tib-sel-pop em { font-style: italic; opacity: .9; }
+
   /* ── Google Translate button ── */
   .translate-btn {
       display: inline-block;
@@ -2026,7 +2043,16 @@ if ($entryXml !== null) {
     ?>
     <ul>
       <?php foreach ($NAV_GROUPS as $groupLabel => $groupKeys): ?>
+        <?php if ($groupLabel === 'Tibetan/Sanskrit'): ?>
+        <li class="dict-nav-group-row">
+          <div class="dict-nav-group"><?= h($groupLabel) ?></div>
+          <button type="button" class="dico-info-btn" title="Searching Tibetan terms"
+                  aria-label="How to search Tibetan terms"
+                  onclick="document.getElementById('modal-tib-select').classList.add('open')">?</button>
+        </li>
+        <?php else: ?>
         <li><div class="dict-nav-group"><?= h($groupLabel) ?></div></li>
+        <?php endif; ?>
         <?php foreach ($groupKeys as $dk):
             if (!in_array($dk, $DICO_ORDER, true)) continue;
             $label    = $DICO_LABELS[$dk] ?? ucfirst($dk);
@@ -2308,20 +2334,32 @@ if ($entryXml !== null) {
         </div>
         <?php elseif ($dicoKey === 'saran'): ?>
         <?php $iPgSaran = rtrim($iPg, 'ab'); ?>
-        <div class="entry-item saran-entry">
-          <span class="saran-mng"><?= $iUni !== '' ? h($iUni) : '<span style="opacity:.35">—</span>' ?></span>
-          <span class="saran-tib def" data-ewts="<?= h($iDef) ?>"><?= h($iDef) ?></span>
-          <?php if ($iDef !== ''): ?>
-          <button class="tib-dict-btn"
-                  data-ewts="<?= h($iDef) ?>"
-                  onclick="openTibDict(this.dataset.ewts)"
-                  title="Look up in Tibetan dictionary (Steinert)">🔍 dict</button>
-          <?php endif; ?>
-          <?php if ($iPg !== '' && $iPg !== '0'): ?>
-          <a class="pg"
-             href="img.php?dic=saran&amp;id=<?= urlencode($iPgSaran) ?>"
-             target="_blank" rel="noopener">p.&nbsp;<?= h($iPg) ?></a>
-          <?php endif; ?>
+        <div class="entry-item tib-entry">
+          <div class="mng-group">
+            <?php if ($iUni !== ''): ?>
+            <span class="tib-mng"><?= h($iUni) ?></span>
+            <?php else: ?>
+            <span class="tib-mng tib-mng-empty"><span class="mng-dash">—</span></span>
+            <?php endif; ?>
+          </div><!-- /mng-group -->
+          <div class="entry-body">
+            <?php if ($iDef !== ''): ?>
+              <div class="line">
+                <span class="tib-wylie saran-tib" data-ewts="<?= h($iDef) ?>"><?= h($iDef) ?></span>
+                <button class="tib-dict-btn"
+                        data-ewts="<?= h($iDef) ?>"
+                        onclick="openTibDict(this.dataset.ewts)"
+                        title="Look up in Tibetan dictionary (Steinert)">🔍 dict</button>
+              </div>
+            <?php endif; ?>
+            <?php if ($iPg !== '' && $iPg !== '0'): ?>
+            <div class="line">
+              <a class="pg"
+                 href="img.php?dic=saran&amp;id=<?= urlencode($iPgSaran) ?>"
+                 target="_blank" rel="noopener">p.&nbsp;<?= h($iPg) ?></a>
+            </div>
+            <?php endif; ?>
+          </div>
         </div>
         <?php else: ?>
         <div class="entry-item<?php if ($dicoKey === 'tibetan' || $dicoKey === 'lk4') echo ' tib-entry'; ?>">
@@ -2759,6 +2797,43 @@ document.addEventListener('keydown', function (e) {
   </div>
 </div>
 
+<!-- ── Tibetan selection-search modal ── -->
+<div class="modal-backdrop" id="modal-tib-select" role="dialog" aria-modal="true" aria-labelledby="modal-tib-select-title">
+  <div class="modal-box">
+    <button class="modal-close" aria-label="Close" onclick="document.getElementById('modal-tib-select').classList.remove('open')">✕</button>
+    <h2 class="modal-title" id="modal-tib-select-title">Searching Tibetan terms</h2>
+    <p class="modal-lead">
+      In the results of the <strong>Mahāvyutpatti</strong>, <strong>Lokesh Chandra</strong>
+      and <strong>Saran-u Gerel</strong>, any part of a Tibetan phrase can be looked up
+      across all three Tibetan–Mongolian sources.
+    </p>
+    <ul class="modal-eq-list">
+      <li>
+        <span class="modal-eq-rule">1. Select</span>
+        <span class="modal-eq-note">Select one or more syllables of the Tibetan text with the mouse (or by long-pressing on a touch screen).</span>
+      </li>
+      <li>
+        <span class="modal-eq-rule">2. Click 🔍 search</span>
+        <span class="modal-eq-note">A button appears above the selection, showing the term in Wylie. Clicking it opens the Tibetan search (tib.php) in a new tab.</span>
+      </li>
+      <li>
+        <span class="modal-eq-rule">Whole syllables</span>
+        <span class="modal-eq-note">A partial selection is extended to complete syllables; tsheg and shad at the edges are ignored.</span>
+      </li>
+      <li>
+        <span class="modal-eq-rule">Exact syllables</span>
+        <span class="modal-eq-note">tib.php matches whole syllables only: <code>khu</code> does not find <code>khur</code> or <code>mkhur</code>.</span>
+      </li>
+    </ul>
+    <div class="modal-example" style="margin-top:1rem;">
+      <strong>Tip:</strong> select only the core of a term and leave out genitive and case particles
+      (e.g. <code>de bzhin gshegs pa</code> rather than <code>de bzhin gshegs pa'i</code>)
+      to find more entries. Press <code>Esc</code> to hide the button.
+      The <strong>🔍 dict</strong> button next to each phrase looks up the whole phrase in Christian Steinert's Tibetan dictionary.
+    </div>
+  </div>
+</div>
+
 <!-- ── Search-help modal ── -->
 <div class="modal-backdrop" id="modal-search-help" role="dialog" aria-modal="true" aria-labelledby="modal-search-help-title">
   <div class="modal-box">
@@ -3094,7 +3169,7 @@ function closeTibDict() {
 
 // Close modals on backdrop click or Escape
 (function () {
-  var modals = ['modal-tib-dict', 'modal-search-help', 'modal-translit', 'modal-resources', 'modal-translate'];
+  var modals = ['modal-tib-dict', 'modal-tib-select', 'modal-search-help', 'modal-translit', 'modal-resources', 'modal-translate'];
   modals.forEach(function (id) {
     var el = document.getElementById(id);
     if (!el) return;
@@ -3156,6 +3231,79 @@ function closeTibDict() {
       }
     });
   }
+})();
+</script>
+<!-- ── Select part of a Tibetan phrase → search it in tib.php ── -->
+<a class="tib-sel-pop" id="tib-sel-pop" href="#" target="_blank" rel="noopener"></a>
+<script>
+(function () {
+  if (typeof jsEWTS === 'undefined') return;
+  var pop = document.getElementById('tib-sel-pop');
+
+  // Unicode → Wylie (whichever method this EwtsConverter build provides)
+  function toWylie(uni) {
+    if (typeof jsEWTS.toWylie === 'function') return jsEWTS.toWylie(uni);
+    if (typeof jsEWTS.toEwts  === 'function') return jsEWTS.toEwts(uni);
+    if (typeof jsEWTS.to_ewts === 'function') return jsEWTS.to_ewts(uni);
+    return '';
+  }
+
+  // tsheg, shad & co. = syllable boundaries
+  var BOUND = /[\s\u0F0B\u0F0C\u0F0D-\u0F14]/;
+
+  function hide() { pop.classList.remove('open'); }
+
+  function update() {
+    var sel = window.getSelection();
+    if (!sel || sel.isCollapsed || !sel.rangeCount) { hide(); return; }
+    var range = sel.getRangeAt(0);
+    var node  = range.commonAncestorContainer;
+    if (node.nodeType !== 1) node = node.parentNode;
+    var el = node.closest ? node.closest('.tib-unicode[data-ewts]') : null;
+    if (!el) { hide(); return; }
+
+    // offsets of the selection inside the element's text
+    var pre = document.createRange();
+    pre.selectNodeContents(el);
+    pre.setEnd(range.startContainer, range.startOffset);
+    var text  = el.textContent;
+    var start = pre.toString().length;
+    var end   = start + range.toString().length;
+
+    // snap to whole syllables
+    while (start > 0 && !BOUND.test(text[start - 1])) start--;
+    while (end < text.length && !BOUND.test(text[end])) end++;
+    var uni = text.slice(start, end).replace(/^[\s\u0F0B-\u0F14]+|[\s\u0F0B-\u0F14]+$/g, '');
+    if (!uni) { hide(); return; }
+
+    // whole phrase selected → use the original Wylie, otherwise convert
+    var wylie = (uni === text.replace(/^[\s\u0F0B-\u0F14]+|[\s\u0F0B-\u0F14]+$/g, ''))
+              ? el.dataset.ewts : toWylie(uni);
+    wylie = (wylie || '').replace(/[\/_|]+/g, ' ').replace(/\s+/g, ' ').trim();
+    if (!wylie) { hide(); return; }
+
+    pop.href = 'tib.php?q=' + encodeURIComponent(wylie);
+    pop.innerHTML = '';
+    pop.appendChild(document.createTextNode('🔍 search '));
+    var em = document.createElement('em');
+    em.textContent = wylie;
+    pop.appendChild(em);
+
+    var r = range.getBoundingClientRect();
+    pop.style.left = (r.left + r.width / 2 + window.scrollX) + 'px';
+    pop.style.top  = (r.top + window.scrollY) + 'px';
+    pop.classList.add('open');
+  }
+
+  var t;
+  document.addEventListener('selectionchange', function () {
+    clearTimeout(t);
+    t = setTimeout(update, 150);
+  });
+  // keep the selection when the button is pressed
+  pop.addEventListener('mousedown', function (e) { e.preventDefault(); });
+  pop.addEventListener('click', function () { setTimeout(hide, 0); });
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape') hide(); });
 })();
 </script>
 </body>

@@ -6,6 +6,9 @@
     <transcript2>göiden</transcript2>
     <cyrillic>хүйтэн</cyrillic>
   </head>
+  <see_also>
+    <ref>K2862</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -145,8 +148,8 @@
     <entry_item>
       <dico>Vietze</dico>
       <cyrillic>хүйтэн</cyrillic>
-      <definition>1. Kälte f, Frost m; тэсгим ~ klirrende Kälte, harter Frost; өвлийн ~ Winterkälte f
-2. kalt, frostig; übertr unfreundlich; ~ болох kalt werden; abkühlen; ~ дайн kalter Krieg; ~ зуун[ин] kalte Vorspeis; ~ зэвсэг blanke Waffe; ~ инээд verächtliches od höhnisches Lachen; ~ сэтгэлтэй kaltherzig; ~ харц unfreundlicher od kalter Blick; ~ хөлс[эн] Angstschweiss m, kalter Schweiß; ~ цуст амьтан Zool Kaltblüter m
+      <definition>1. Kälte f, Frost m; тэсгим ~ klirrende Kälte, harter Frost; өвлийн ~ Winterkälte f&#13;
+2. kalt, frostig; übertr unfreundlich; ~ болох kalt werden; abkühlen; ~ дайн kalter Krieg; ~ зуун[ин] kalte Vorspeis; ~ зэвсэг blanke Waffe; ~ инээд verächtliches od höhnisches Lachen; ~ сэтгэлтэй kaltherzig; ~ харц unfreundlicher od kalter Blick; ~ хөлс[эн] Angstschweiss m, kalter Schweiß; ~ цуст амьтан Zool Kaltblüter m&#13;
 3.: ~ өвчин Med Gonorrhoe f, Tripper m; ~ өвчин хүрэх an Gonorrhoe erkranken</definition>
       <page>334</page>
     </entry_item>
@@ -164,5 +167,32 @@
       <definition>хүний бэлгийн эрхтний орчин гарах нэг зүйл халдварт өвчин;заг хүйтэн&lt;хорш&gt;,шүүрэг хүйтэн&lt;хорш&gt;,яр хүйтэн&lt;хорш&gt;.</definition>
       <page>743</page>
     </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠬᠦᠢᠲᠡ</unicode>
+      <cyrillic>хүйт</cyrillic>
+      <definition>〔名〕冷，寒冷，寒气：~ авах 感冒，受凉；~ даах (1)耐寒；(2)感觉寒冷；~ ивээлт ургамал 〈植〉高寒植物；~ орох 入寒；~ оргих 变寒冷，寒冷起来；~ уналт 霜冻；~ үзэхгүй өдөр 无霜期.</definition>
+      <page>1452</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠺᠥᠢᠲᠡ</unicode>
+      <cyrillic>ХҮЙТ</cyrillic>
+      <definition>холод, мороз, стужа; хүйт авах простудиться; хүйт даах а) леденеть, стынуть от холода; б) морозоустойчивый, холодостойкий; хүйт даах чадал морозоустойчивость; хүйт орох наступление холодного периода.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>хүйт[эн]</cyrillic>
+      <definition>Kälte f, Frost m; ~ даах 1. Kälte spüren 2. Kälte vertragen; kältebeständig; ~ орох Met kalt werden; ~ тэсвэршил Kältebeständigkeit f; ~ний градус Kältegrad m; ~нийг мэдрэмтгий kälteempfindlich; ~ний туйл Kältepol m; ~нэзр үзэх übertr unfreundlich ansehen; ~нэзр хүлээн авах übertr kühl empfangen; ~энд тэсвэргүй kälteempfindlich</definition>
+      <page>333</page>
+    </entry_item>
+    <entry_item>
+      <dico>cevel</dico>
+      <unicode>ᠬᠦᠢᠲᠡ</unicode>
+      <cyrillic>хүйт</cyrillic>
+      <definition>хүйтэн.</definition>
+      <page>743</page>
+    </entry_item>
   </entries>
-<see_also><ref>K2841</ref><ref>K2862</ref></see_also></entry>
+</entry>

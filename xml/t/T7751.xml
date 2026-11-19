@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T7751">
   <head>
-    <unicode>ᠲᠣᠷᠣᠰᠬᠠ</unicode>
+    <unicode>ᠲᠤᠷᠤᠰᠬ ᠠ</unicode>
     <transcript>turusqa</transcript>
     <transcript2>dorosga</transcript2>
     <cyrillic>турсага</cyrillic>
-  </head><see_also>
+  </head>
+  <see_also>
     <ref>T7640</ref>
-  
     <ref>ZT0266</ref>
+    <ref>T9678</ref>
   </see_also>
   <entries>
     <entry_item>
@@ -22,7 +23,7 @@
       <dico>lamrd</dico>
       <unicode>ᠲᠣᠷᠣᠰᠬᠠ</unicode>
       <cyrillic>ТУРСАГА</cyrillic>
-      <definition>шкура павшего от голода скота; тусг. тощая шкура. </definition>
+      <definition>шкура павшего от голода скота; тусг. тощая шкура.</definition>
       <page>0</page>
     </entry_item>
   </entries>

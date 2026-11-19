@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="S3719">
   <head>
     <unicode>ᠰᠢᠳᠠᠷ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>sidar</transcript2>
     <cyrillic>шадар</cyrillic>
   </head>
+  <derivatives>
+    <ref>S7196</ref>
+  <ref>S3728</ref><ref>S3732</ref><ref>S3737</ref></derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>

@@ -5,17 +5,23 @@
     <transcript>tusatu</transcript>
     <transcript2>dosado</transcript2>
   </head>
+  <see_also>
+    <ref>T6429</ref>
+  </see_also>
+  <related_to>
+    <ref>T6402</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
       <unicode>ᠲᠣᠰᠠᠲᠣ</unicode>
-      <transcript>TUSATU </transcript>
+      <transcript>TUSATU</transcript>
       <page>1187</page>
       <examples>
         <example>
           <unicode>ᠲᠤᠰᠠᠲᠤ ᠰᠠᠯᠮ᠎ᠠ = ᠲᠤᠰᠠᠲᠤ ᠴᠠᠯᠮ᠎ᠠ</unicode>
           <transcript>salm-a ( calm-a) ;</transcript>
-          <definition> T. Don yod zhags pa; S. Amogha-paça. 'infallible lasso' (for catching demons), a weapon of certain doγsid.</definition>
+          <definition>T. Don yod zhags pa; S. Amogha-paça. 'infallible lasso' (for catching demons), a weapon of certain doγsid.</definition>
         </example>
       </examples>
     </entry_item>
@@ -36,4 +42,4 @@
       </examples>
     </entry_item>
   </entries>
-<related_to><ref>T6402</ref></related_to><see_also><ref>T6429</ref></see_also></entry>
+</entry>

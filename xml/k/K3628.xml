@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K3628">
   <head>
     <unicode>ᠺᠥᠰᠡᠯ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>gösel</transcript2>
     <cyrillic>хүсэл</cyrillic>
   </head>
+  <related_to>
+    <ref>K3646</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -66,8 +69,8 @@
     <entry_item>
       <dico>Kowalewski</dico>
       <unicode>ᠭᠦᠰᠡᠯ</unicode>
-      <definition>1 désir, souhait, envie: 
-2 concupiscence; amour: passion: 
+      <definition>1 désir, souhait, envie: &#13;
+2 concupiscence; amour: passion: &#13;
 3 croyance, confiance.</definition>
       <page>2583</page>
       <examples>

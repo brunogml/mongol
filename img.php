@@ -151,6 +151,11 @@ if (strcmp($dic, "saran") == 0) {
     osd_viewer('img/saran/' . $p . '.jpg', $sdPath);
 }
 
+if (strcmp($dic, "raghu") == 0) {
+    $link = str_pad((int)$p, 3, '0', STR_PAD_LEFT);
+    osd_viewer('img/raghu/' . $link . '.jpg', $sdPath);
+}
+
 if (strcmp($dic, "lamrd") == 0) {
     osd_viewer('img/lamrd/' . $p . '.jpg', $sdPath);
 }

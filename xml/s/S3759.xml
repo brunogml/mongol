@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="S3759">
   <head>
     <unicode>ᠰᠢᠳᠢᠲᠠᠢ</unicode>
@@ -6,6 +6,12 @@
     <transcript2>sididei</transcript2>
     <cyrillic>шидтэй</cyrillic>
   </head>
+  <see_also>
+    <ref>S3761</ref>
+  </see_also>
+  <related_to>
+    <ref>S3757</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Chinese</dico>
@@ -18,7 +24,7 @@
       <dico>lamrd</dico>
       <unicode>ᠰᠢᠳᠢᠲᠠᠢ</unicode>
       <cyrillic>ШИДТЭЙ</cyrillic>
-      <definition>шидэт-ийг үз. </definition>
+      <definition>шидэт-ийг үз.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -35,10 +41,4 @@
       <page>844</page>
     </entry_item>
   </entries>
-  <related_to>
-    <ref>S3757</ref>
-  </related_to>
-  <see_also>
-    <ref>S3761</ref>
-  </see_also>
 </entry>

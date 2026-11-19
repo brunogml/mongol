@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Y0802">
   <head>
     <unicode>ᠵᠠᠪᠰᠠᠷᠴᠢᠯᠠᠬᠣ</unicode>
@@ -26,8 +26,10 @@
     <entry_item>
       <dico>Kowalewski</dico>
       <unicode>ᠵᠠᠪᠰᠠᠷᠴᠢᠯᠠᠬᠤ</unicode>
-      <definition>1 s'informer exactement, demander scrupuleusement, chercher à savoir: 
-2 accorder un délassement: 
+      <definition>1 s'informer exactement, demander scrupuleusement, chercher à savoir: 
+
+2 accorder un délassement: 
+
 3 condescendre</definition>
       <page>2266</page>
       <examples>
@@ -93,4 +95,4 @@
       <page>256</page>
     </entry_item>
   </entries>
-</entry>
+<related_to><ref>Y0782</ref></related_to></entry>
