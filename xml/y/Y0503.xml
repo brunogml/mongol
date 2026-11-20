@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Y0503">
   <head>
     <unicode>ᠶᠠᠭᠠᠷᠠᠯᠲᠠᠢ</unicode>
@@ -9,6 +9,9 @@
   <see_also>
     <ref>Y0504</ref>
   </see_also>
+  <related_to>
+    <ref>Y0502</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -22,7 +25,7 @@
         <example>
           <unicode>ᠶᠠᠭᠠᠷᠠᠯᠲᠠᠢ ᠺᠡᠷᠡᠭ</unicode>
           <transcript>-- kereg</transcript>
-          <definition> A pressing or urgent matter.</definition>
+          <definition>A pressing or urgent matter.</definition>
         </example>
       </examples>
     </entry_item>
@@ -37,14 +40,14 @@
       <dico>lamrd</dico>
       <unicode>ᠶᠠᠭᠠᠷᠠᠯᠲᠠᠢ</unicode>
       <cyrillic>ЯАРАЛТАЙ</cyrillic>
-      <definition>1. спешный, срочный, экстренный, торопливый; онц яаралтай экстренный; яаралтай тусламж экстренная помощь; яаралтай цахилгаан утас срочная телеграмма; 2. спешно, экстренно, срочно; ажлаа яаралтай дуусгах срочно закончить работу; яаралтай хүргэх срочно доставить что-н. </definition>
+      <definition>1. спешный, срочный, экстренный, торопливый; онц яаралтай экстренный; яаралтай тусламж экстренная помощь; яаралтай цахилгаан утас срочная телеграмма; 2. спешно, экстренно, срочно; ажлаа яаралтай дуусгах срочно закончить работу; яаралтай хүргэх срочно доставить что-н.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠶᠠᠭᠠᠷᠠᠯᠲᠠᠢ</unicode>
       <cyrillic>ЯАРАЛТАЙГААР</cyrillic>
-      <definition>яаралтай-н үйлдэх., спешно, срочно; гэнэт яаралтайгаар спешно, экстренно. </definition>
+      <definition>яаралтай-н үйлдэх., спешно, срочно; гэнэт яаралтайгаар спешно, экстренно.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -61,7 +64,4 @@
       <page>897</page>
     </entry_item>
   </entries>
-  <related_to>
-    <ref>Y0502</ref>
-  </related_to>
 </entry>

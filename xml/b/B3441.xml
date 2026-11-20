@@ -5,9 +5,13 @@
     <transcript>bolbasuraltai</transcript>
     <transcript2>bolbasoraldai</transcript2>
     <cyrillic>боловсролтой</cyrillic>
-  </head><see_also>
+  </head>
+  <see_also>
     <ref>B3442</ref>
   </see_also>
+  <related_to>
+    <ref>B3439</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -21,12 +25,12 @@
         <example>
           <unicode>ᠴᠡᠷᠢᠭ ᠤᠨ ᠪᠣᠯᠪᠠᠰᠣᠷᠠᠯᠲᠠᠢ ᠪᠣᠯᠬᠤ</unicode>
           <transcript>cerig yn -- bolxu</transcript>
-          <definition> To receive or have military training.</definition>
+          <definition>To receive or have military training.</definition>
         </example>
         <example>
           <unicode>ᠤᠯᠤᠰ ᠲᠥᠷᠦ ᠎ᠶᠢᠨ ᠪᠣᠯᠪᠠᠰᠣᠷᠠᠯᠲᠠᠢ</unicode>
           <transcript>ulus tøry jin --</transcript>
-          <definition> Politically educated or trained,</definition>
+          <definition>Politically educated or trained,</definition>
         </example>
       </examples>
     </entry_item>
@@ -44,12 +48,11 @@
       <definition>образованный, просвещённый; развитый; культурный, цивилизованный; улс төрийн боловсролтой политический грамотный; боловсролтой хүн образованный человек.</definition>
       <page>0</page>
     </entry_item>
-  
-  <entry_item>
-    <dico>Vietze</dico>
-    <cyrillic>боловсролтой</cyrillic>
-    <definition>gebildet</definition>
-    <page>55</page>
-  </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>боловсролтой</cyrillic>
+      <definition>gebildet</definition>
+      <page>55</page>
+    </entry_item>
   </entries>
-<related_to><ref>B3439</ref></related_to></entry>
+</entry>

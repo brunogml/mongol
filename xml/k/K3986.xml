@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K3986">
   <head>
     <unicode>ᠺᠥᠯᠢᠴᠡᠯᠲᠥ</unicode>
@@ -6,6 +6,12 @@
     <transcript2>göliceldö</transcript2>
     <cyrillic>хүлцэлт</cyrillic>
   </head>
+  <see_also>
+    <ref>K3985</ref>
+  </see_also>
+  <related_to>
+    <ref>K3984</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -47,7 +53,7 @@
       <dico>lamrd</dico>
       <unicode>ᠺᠥᠯᠢᠴᠡᠯᠲᠥ</unicode>
       <cyrillic>ХҮЛЦЭЛТ</cyrillic>
-      <definition>хүлцэнгүй 2.-г үз. </definition>
+      <definition>хүлцэнгүй 2.-г үз.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>

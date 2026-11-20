@@ -6,16 +6,22 @@
     <transcript2>döridö</transcript2>
     <cyrillic>дүрт</cyrillic>
   </head>
+  <related_to>
+    <ref>T9247</ref>
+  </related_to>
+  <see_also>
+    <ref>T9679</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>Kowalewski</dico>
       <unicode>ᠳᠦᠷᠢᠳᠡᠢ ~ ᠳᠦᠷᠢᠳᠦ</unicode>
-      <definition>ayant l&apos;aspect, la forme, la figure, qui est sous la figure.</definition>
+      <definition>ayant l'aspect, la forme, la figure, qui est sous la figure.</definition>
       <page>1936</page>
       <examples>
         <example>
           <unicode>ᠦᠳᠦᠺᠦ ᠳᠦᠷᠢᠳᠦ</unicode>
-          <definition>sous la figure d&apos;une vieille</definition>
+          <definition>sous la figure d'une vieille</definition>
         </example>
       </examples>
     </entry_item>
@@ -37,7 +43,7 @@
       <dico>lamrd</dico>
       <unicode>ᠳᠥᠷᠢᠲᠥ</unicode>
       <cyrillic>ДҮРТ</cyrillic>
-      <definition>1) имеющий облик, вид, наружность, форму, фигуру кого-чего-л.; подобный кому-л.; 2) тоо. фигурный. </definition>
+      <definition>1) имеющий облик, вид, наружность, форму, фигуру кого-чего-л.; подобный кому-л.; 2) тоо. фигурный.</definition>
       <page>0</page>
     </entry_item>
   </entries>

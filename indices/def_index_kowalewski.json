@@ -21098,9 +21098,9 @@
   },
   {
     "ref": "E0219",
-    "transcript": "ebeč",
+    "transcript": "ebeči",
     "transcript2": "ebec",
-    "unicode": "ᠡᠪᠡᠴ",
+    "unicode": "ᠡᠪᠡᠴᠢ",
     "cyrillic": "өвчин",
     "page": "178",
     "sense_no": "",
@@ -33940,9 +33940,9 @@
   },
   {
     "ref": "I0028",
-    "transcript": "inaγungki",
-    "transcript2": "inagonggi",
-    "unicode": "ᠢᠨᠠᠭᠣᠩᠺᠢ",
+    "transcript": "inaγunki",
+    "transcript2": "inagongi",
+    "unicode": "ᠢᠨᠠᠭᠣᠨᠺᠢ",
     "cyrillic": "янагуунхи",
     "page": "275",
     "sense_no": "",
@@ -336805,5 +336805,24 @@
     "_item_transcript": "",
     "_item_cyrillic": "",
     "_item_unicode": "ᠾᠦᠨᠡ ~ ᠺᠦᠨᠡ"
+  },
+  {
+    "ref": "T9679",
+    "transcript": "düritai",
+    "transcript2": "",
+    "unicode": "ᠳᠦᠷᠢᠲᠠᠢ",
+    "cyrillic": "",
+    "page": "1936",
+    "sense_no": "",
+    "def": "ayant l'aspect, la forme, la figure, qui est sous la figure.",
+    "_item_transcript": "",
+    "_item_cyrillic": "",
+    "_item_unicode": "ᠳᠦᠷᠢᠳᠡᠢ ~ ᠳᠦᠷᠢᠳᠦ",
+    "examples": [
+      {
+        "unicode": "ᠺᠦᠮᠦᠨ ᠡᠴᠡ ᠥᠪᠡᠷ ᠡ ᠳᠦᠷᠢᠲᠠᠢ",
+        "def": "qui ne ressemble pas à l'homme"
+      }
+    ]
   }
 ]

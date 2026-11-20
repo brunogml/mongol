@@ -41497,9 +41497,9 @@
   },
   {
     "ref": "E0219",
-    "transcript": "ebeč",
+    "transcript": "ebeči",
     "transcript2": "ebec",
-    "unicode": "ᠡᠪᠡᠴ",
+    "unicode": "ᠡᠪᠡᠴᠢ",
     "cyrillic": "өвчин",
     "page": "833",
     "sense_no": "",
@@ -58173,19 +58173,6 @@
     "_item_transcript": "",
     "_item_cyrillic": "янагуун",
     "_item_unicode": "ᠢᠨᠠᠭᠤᠨ"
-  },
-  {
-    "ref": "I0028",
-    "transcript": "inaγungki",
-    "transcript2": "inagonggi",
-    "unicode": "ᠢᠨᠠᠭᠣᠩᠺᠢ",
-    "cyrillic": "янагуунхи",
-    "page": "1752",
-    "sense_no": "",
-    "def": "〔形・名〕①表面上的，表面性的，现象上的，表象性的，外表上的，肤浅的；②表面性，表象.",
-    "_item_transcript": "",
-    "_item_cyrillic": "янагуунхи",
-    "_item_unicode": "ᠢᠨᠠᠭᠤᠩᠬᠢ"
   },
   {
     "ref": "I0029",
@@ -494557,5 +494544,18 @@
     "_item_transcript": "",
     "_item_cyrillic": "бялжиг",
     "_item_unicode": "ᠪᠢᠯᠵᠢᠭ"
+  },
+  {
+    "ref": "I1341",
+    "transcript": "inaγungki",
+    "transcript2": "",
+    "unicode": "ᠢᠨᠠᠭᠤᠩᠺᠢ",
+    "cyrillic": "янагуунхи",
+    "page": "1752",
+    "sense_no": "",
+    "def": "〔形・名〕①表面上的，表面性的，现象上的，表象性的，外表上的，肤浅的；②表面性，表象.",
+    "_item_transcript": "",
+    "_item_cyrillic": "янагуунхи",
+    "_item_unicode": "ᠢᠨᠠᠭᠤᠩᠬᠢ"
   }
 ]

@@ -18944,19 +18944,6 @@
     "_item_unicode": "ᠢᠨᠠᠬ"
   },
   {
-    "ref": "I0028",
-    "transcript": "inaγungki",
-    "transcript2": "inagonggi",
-    "unicode": "ᠢᠨᠠᠭᠣᠩᠺᠢ",
-    "cyrillic": "янагуунхи",
-    "page": "138",
-    "sense_no": "",
-    "def": "That which is located hitherwards or in this direction. That which is within visible distance",
-    "_item_transcript": "",
-    "_item_cyrillic": "",
-    "_item_unicode": "ᠢᠨᠠᠭᠣᠩᠺᠢ"
-  },
-  {
     "ref": "I0029",
     "transcript": "inaγsi",
     "transcript2": "inagsi",
@@ -182420,5 +182407,18 @@
         "def": "v.t. To promise. To foretell, to predict."
       }
     ]
+  },
+  {
+    "ref": "I1341",
+    "transcript": "inaγungki",
+    "transcript2": "",
+    "unicode": "ᠢᠨᠠᠭᠤᠩᠺᠢ",
+    "cyrillic": "янагуунхи",
+    "page": "138",
+    "sense_no": "",
+    "def": "That which is located hitherwards or in this direction. That which is within visible distance",
+    "_item_transcript": "",
+    "_item_cyrillic": "",
+    "_item_unicode": "ᠢᠨᠠᠭᠣᠩᠺᠢ"
   }
 ]

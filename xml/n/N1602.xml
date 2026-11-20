@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="N1602">
   <head>
     <unicode>ᠨᠢᠯᠪᠣᠰᠣ</unicode>
@@ -9,6 +9,11 @@
   <see_also>
     <ref>N1614</ref>
   </see_also>
+  <derivatives>
+    <ref>N1603</ref>
+    <ref>N1605</ref>
+    <ref>N1606</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -21,18 +26,18 @@
       <examples>
         <example>
           <unicode>ᠨᠢᠯᠪᠤᠰᠤ ᠭᠣᠭᠤᠵᠢᠬᠤ</unicode>
-          <transcript>-- γoγzixu </transcript>
+          <transcript>-- γoγzixu</transcript>
           <definition>To shed tears</definition>
         </example>
         <example>
           <unicode>ᠨᠢᠯᠪᠤᠰᠤ ᠤᠷᠤᠰᠬᠠᠭᠤᠯᠬᠤ</unicode>
           <transcript>-- urusxaγulxu</transcript>
-          <definition> To shed tears.</definition>
+          <definition>To shed tears.</definition>
         </example>
         <example>
           <unicode>ᠨᠢᠳᠦᠨ ᠤ ᠨᠢᠯᠪᠤᠰᠤ</unicode>
-          <transcript>nidyn y -- </transcript>
-          <definition> Tears</definition>
+          <transcript>nidyn y --</transcript>
+          <definition>Tears</definition>
         </example>
       </examples>
     </entry_item>
@@ -82,14 +87,14 @@
       <dico>lamrd</dico>
       <unicode>ᠨᠢᠯᠪᠣᠰᠣ</unicode>
       <cyrillic>НУЛИМС(АН)</cyrillic>
-      <definition>I слеза, слёзы; нулимс алдах / нулимс гаргах / нулимс унагаах ронять слёзы, плакать; прослезиться; нулимсаа арчих утирать слёзы; нулимс асгарах / нулимс гоожих проливать слёзы, слёзы льются; нулимс асгаруулах / нулимс гоожуулах проливать слёзы; нулимс асгаруулах хий слезоточивый газ; нулимс асгаруулан ярих говорить сквозь слёзы; нулимс бүрхэх слёзы заволакивают глаза; нулимс гүйлгэнэх / нулимс цийлэгнэх прослезиться, наполняться слезами; нулимс гүйлгэнэтэл инээх смеяться до слёз; нулимс цувруулах проливать слёзы; нулимсаараа хуурах ёж., яриа. крокодиловы слёзы; хацар дээгүүр нулимс бөмбөрөв по щеке покатилась слеза. </definition>
+      <definition>I слеза, слёзы; нулимс алдах / нулимс гаргах / нулимс унагаах ронять слёзы, плакать; прослезиться; нулимсаа арчих утирать слёзы; нулимс асгарах / нулимс гоожих проливать слёзы, слёзы льются; нулимс асгаруулах / нулимс гоожуулах проливать слёзы; нулимс асгаруулах хий слезоточивый газ; нулимс асгаруулан ярих говорить сквозь слёзы; нулимс бүрхэх слёзы заволакивают глаза; нулимс гүйлгэнэх / нулимс цийлэгнэх прослезиться, наполняться слезами; нулимс гүйлгэнэтэл инээх смеяться до слёз; нулимс цувруулах проливать слёзы; нулимсаараа хуурах ёж., яриа. крокодиловы слёзы; хацар дээгүүр нулимс бөмбөрөв по щеке покатилась слеза.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
-      <unicode>ᠨᠢᠯᠪᠣᠰᠣ</unicode>
+      <unicode>ᠨᠢᠯᠪᠣᠰᠣᠨ ᠤ</unicode>
       <cyrillic>НУЛИМСНЫ</cyrillic>
-      <definition>нулимс(н)-ы харьяал., слёзный; нулимсны булчирхай слёзные железы; нулимсны сав слёзный мешочек. </definition>
+      <definition>нулимс(н)-ы харьяал., слёзный; нулимсны булчирхай слёзные железы; нулимсны сав слёзный мешочек.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -100,9 +105,4 @@
       <page>402</page>
     </entry_item>
   </entries>
-  <derivatives>
-    <ref>N1603</ref>
-    <ref>N1605</ref>
-    <ref>N1606</ref>
-  </derivatives>
 </entry>

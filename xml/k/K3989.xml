@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K3989">
   <head>
     <unicode>ᠺᠥᠯᠢᠴᠡᠺᠥ</unicode>
@@ -9,7 +9,7 @@
   <derivatives>
     <ref>K3990</ref>
     <ref>K3987</ref>
-  </derivatives>
+  <ref>K3984</ref></derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -40,7 +40,8 @@
     <entry_item>
       <dico>Kowalewski</dico>
       <unicode>ᠭᠦᠯᠢᠴᠡᠺᠦ</unicode>
-      <definition>1 souffrir, supporter: 
+      <definition>1 souffrir, supporter: 
+
 2 pardonner. excuser.</definition>
       <page>2600</page>
       <examples>
