@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="A0547">
   <head>
-    <unicode>ᠠᠭᠠᠳᠠᠭ᠋ᠠ</unicode>
+    <unicode>ᠠᠭᠠᠳᠠᠭ ᠠ</unicode>
     <transcript>aγadaγ-a</transcript>
     <transcript2>agadaga</transcript2>
     <cyrillic>аадга</cyrillic>
@@ -22,4 +22,4 @@
       <page>0</page>
     </entry_item>
   </entries>
-</entry>
+<derivatives><ref>A0548</ref><ref>A0550</ref></derivatives></entry>

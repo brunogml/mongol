@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="A0662">
   <head>
     <unicode>ᠠᠭᠠᠵᠢᠮᠳᠠᠭ᠎ᠠ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>agacimdaga</transcript2>
     <cyrillic>аажимдаа</cyrillic>
   </head>
+  <related_to>
+    <ref>A0665</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Chinese</dico>
@@ -30,7 +33,8 @@
     <entry_item>
       <dico>Vietze</dico>
       <cyrillic>аажимдаа</cyrillic>
-      <definition>1. langsam, Schritt für Schritt, im Laufe der Zeit 
+      <definition>1. langsam, Schritt für Schritt, im Laufe der Zeit &#13;
+&#13;
 2. später, irgendwann einmal</definition>
       <page>19</page>
     </entry_item>
@@ -42,7 +46,4 @@
       <page>12</page>
     </entry_item>
   </entries>
-  <related_to>
-    <ref>A0665</ref>
-  </related_to>
 </entry>

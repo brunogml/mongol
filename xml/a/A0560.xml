@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="A0560">
   <head>
     <unicode>ᠠᠭᠠᠳᠠᠢᠢᠬᠤ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>agadayigo</transcript2>
     <cyrillic>аадайх</cyrillic>
   </head>
+  <derivatives>
+    <ref>A0561</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Chinese</dico>

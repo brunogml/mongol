@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="A0617">
   <head>
-    <unicode>ᠠᠭᠠᠵᠠᠭ᠋ᠠ</unicode>
+    <unicode>ᠠᠭᠠᠵᠠᠭ ᠠ</unicode>
     <transcript>aγaǰaγ-a</transcript>
     <transcript2>agacaga</transcript2>
     <cyrillic>аазга</cyrillic>
   </head>
+  <see_also>
+    <ref>A0616</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>Chinese</dico>
