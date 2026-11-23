@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="S6593">
   <head>
     <unicode>ᠰᠥᠰᠥᠺᠲᠠᠢ</unicode>
@@ -6,6 +6,12 @@
     <transcript2>sösögdei</transcript2>
     <cyrillic>сүсэгтэй</cyrillic>
   </head>
+  <see_also>
+    <ref>S6595</ref>
+  </see_also>
+  <related_to>
+    <ref>S6592</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -47,7 +53,7 @@
       <dico>lamrd</dico>
       <unicode>ᠰᠥᠰᠥᠺᠲᠠᠢ</unicode>
       <cyrillic>СҮСЭГТЭЙ</cyrillic>
-      <definition>верующий, набожный, религиозный; сүсэгтэй хүн религиозный человек; мухар сүсэгтэй хүн суеверный человек. </definition>
+      <definition>верующий, набожный, религиозный; сүсэгтэй хүн религиозный человек; мухар сүсэгтэй хүн суеверный человек.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>

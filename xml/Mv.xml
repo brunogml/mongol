@@ -51110,7 +51110,7 @@
     <mng>ᠨᠢᠭᠤᠴᠠ ᠲᠠᠷᠨᠢ</mng>
     <mng2>ᠨᠢᠭᠤᠴᠠ᠎ᠶᠢᠨ ᠲᠠᠷᠨᠢ</mng2>
     <page></page>
-    <skt>mantraḥ [-ram S]</skt>
+    <skt>mantraḥ</skt>
     <tib>gsang sngags</tib>
     <refs>
       <ref>N1378</ref>
@@ -55374,8 +55374,8 @@
   </entry>
   <entry id="mv4622">
     <coll>Mv4622</coll>
-    <mng>qumbiqu</mng>
-    <mng2>quriyaqui</mng2>
+    <mng>ᠬᠤᠮᠪᠢᠬᠤ</mng>
+    <mng2>ᠬᠤᠷᠢᠶᠠᠬᠤᠢ</mng2>
     <page></page>
     <skt>ākuñcanam</skt>
     <tib>bskum pa</tib>
@@ -69721,8 +69721,8 @@
   </entry>
   <entry id="mv5918">
     <coll>Mv5918</coll>
-    <mng>modun buduγ</mng>
-    <mng2>γaratu modu</mng2>
+    <mng>ᠮᠣᠳᠤᠨ ᠪᠤᠳᠤᠭ</mng>
+    <mng2>ᠭᠠᠷᠠᠲᠤ ᠮᠣᠳᠤ</mng2>
     <page></page>
     <skt>pattaṅgaḥ</skt>
     <tib>rma shing</tib>
@@ -78142,53 +78142,67 @@
   </entry>
   <entry id="mv6701">
     <coll>Mv6701</coll>
-    <mng>öngge</mng>
-    <mng2>dürsün</mng2>
+    <mng>ᠥᠩᢉᠡ</mng>
+    <mng2>ᠳᠦᠷᠰᠦᠨ</mng2>
     <page></page>
-    <skt>bimbam [vim- S]</skt>
+    <skt>bimbam</skt>
     <tib>gzugs</tib>
-    <refs/>
+    <refs>
+      <ref>O0368</ref>
+      <ref>T9443</ref>
+    </refs>
   </entry>
   <entry id="mv6702">
     <coll>Mv6702</coll>
-    <mng>keseg buyu keltegei</mng>
-    <mng2>keseg ba qabirγ-a</mng2>
+    <mng>ᠺᠡᠰᠡᢉ ᠪᠤᠶᠤ ᠺᠡᠯᠲᠡᢉᠡᠢ</mng>
+    <mng2>ᠺᠡᠰᠡᢉ ᠪᠠ ᠬᠠᠪᠢᠷᠭ᠎ᠠ</mng2>
     <page></page>
     <skt>śakalikāḥ</skt>
-    <tib>&amp;lt;dum / *'dum N&amp;gt; bu'am zhogs ma</tib>
-    <refs/>
+    <tib>dum bu'am zhogs ma</tib>
+    <refs>
+      <ref>K0438</ref>
+      <ref>K0814</ref>
+      <ref>Q1026</ref>
+    </refs>
   </entry>
   <entry id="mv6703">
     <coll>Mv6703</coll>
-    <mng>nurma-yin öcüken γal</mng>
-    <mng2>nurman γal öcüken</mng2>
+    <mng>ᠨᠤᠷᠮᠠ᠎ᠶᠢᠨ ᠥᠴᠦᠺᠡᠨ ᠭᠠᠯ</mng>
+    <mng2>ᠨᠤᠷᠮᠠᠨ ᠭᠠᠯ ᠥᠴᠦᠺᠡᠨ</mng2>
     <page></page>
     <skt>parittaśakalikāgniḥ</skt>
-    <tib>&amp;lt;sbur / *sngur N&amp;gt; bu ma'i me &amp;lt;chung / *chu L&amp;gt; ngu</tib>
-    <refs/>
+    <tib>sbur bu ma'i me chung ngu</tib>
+    <refs>
+      <ref>N2535</ref>
+    </refs>
   </entry>
   <entry id="mv6704">
     <coll>Mv6704</coll>
-    <mng>gülcekü ba getülkü buyu qarayiqu</mng>
-    <mng2>getülküi ba</mng2>
+    <mng>ᢉᠦᠯᠴᠡᠺᠦ ᠪᠠ ᢉᠡᠲᠦᠯᠺᠦ ᠪᠤᠶᠤ ᠬᠠᠷᠠᠶᠢᠬᠤ</mng>
+    <mng2>ᢉᠡᠲᠦᠯᠺᠦᠢ ᠪᠠ</mng2>
     <page></page>
     <skt>utplutya</skt>
-    <tib>rgal ba'am &amp;lt;mchongs DCL/ 'chongs PN&amp;gt;</tib>
-    <refs/>
+    <tib>rgal ba'am mchongs</tib>
+    <refs>
+      <ref>K4171a</ref>
+      <ref>K0607</ref>
+    </refs>
   </entry>
   <entry id="mv6705">
     <coll>Mv6705</coll>
-    <mng>sedkiküi-yin jüil</mng>
-    <mng2>quriyaqui düri sedkiküi</mng2>
+    <mng>ᠰᠡᠳᠺᠢᠺᠦᠢ᠎ᠶᠢᠨ ᠵᠦᠢᠯ</mng>
+    <mng2>ᠬᠤᠷᠢᠶᠠᠬᠤᠢ ᠳᠦᠷᠢ ᠰᠡᠳᠺᠢᠺᠦᠢ</mng2>
     <page></page>
     <skt>saṁjñāgataḥ</skt>
     <tib>'du shes kyi rnam pa</tib>
-    <refs/>
+    <refs>
+      <ref>S2189</ref>
+    </refs>
   </entry>
   <entry id="mv6706">
     <coll>Mv6706</coll>
-    <mng>ese ügülegsen buyu ülü γarγaqu</mng>
-    <mng2>ese ügülegsen ba bolqu ügei</mng2>
+    <mng>ᠡᠰᠡ ᠦᢉᠦᠯᠡᢉᠰᠡᠨ ᠪᠤᠶᠤ ᠦᠯᠦ ᠭᠠᠷᠭᠠᠬᠤ</mng>
+    <mng2>ᠡᠰᠡ ᠦᢉᠦᠯᠡᢉᠰᠡᠨ ᠪᠠ ᠪᠣᠯᠬᠤ ᠦᢉᠡᠢ</mng2>
     <page></page>
     <skt>nāmnāyate</skt>
     <tib>ma brjod pa'am mi 'byung</tib>
@@ -78196,98 +78210,121 @@
   </entry>
   <entry id="mv6707">
     <coll>Mv6707</coll>
-    <mng>ebücekü</mng>
-    <mng2>tebcigsen</mng2>
+    <mng>ᠡᠪᠦᠴᠡᠺᠦ</mng>
+    <mng2>ᠲᠡᠪᠴᠢᢉᠰᠡᠨ</mng2>
     <page></page>
     <skt>āliṅgitam</skt>
-    <tib>&amp;lt;'khyud pa DCP/ *khyud pa L/ *'byung ba N&amp;gt;</tib>
-    <refs/>
+    <tib>'khyud pa</tib>
+    <refs>
+      <ref>E0328</ref>
+      <ref>T3599</ref>
+    </refs>
   </entry>
   <entry id="mv6708">
     <coll>Mv6708</coll>
-    <mng>bariqu buyu bariγsan</mng>
-    <mng2>bariqui (TEXT:baraqui) ba ebüceldügsen</mng2>
+    <mng>ᠪᠠᠷᠢᠬᠤ ᠪᠤᠶᠤ ᠪᠠᠷᠢᠭᠰᠠᠨ</mng>
+    <mng2>ᠪᠠᠷᠢᠬᠤᠢ ᠪᠠ ᠡᠪᠦᠴᠡᠯᠳᠦᢉᠰᠡᠨ</mng2>
     <page></page>
     <skt>avalambanam</skt>
-    <tib>&amp;lt;'jus PNL/ *'jungs DC&amp;gt; pa'am &amp;lt;spyangs pa PL/ spyang ba N/ sbyangs pa DC&amp;gt;</tib>
-    <refs/>
+    <tib>'jus pa'am spyangs pa</tib>
+    <refs>
+      <ref>E0327</ref>
+    </refs>
   </entry>
   <entry id="mv6709">
     <coll>Mv6709</coll>
-    <mng>comcuyin saγuqu</mng>
-    <mng2>comcayin (DIC:comcuyin) saγuγsan</mng2>
+    <mng>ᠴᠣᠮᠴᠤᠶᠢᠨ ᠰᠠᠭᠤᠬᠤ</mng>
+    <mng2>ᠴᠣᠮᠴᠠᠶᠢᠨ ᠰᠠᠭᠤᠭᠰᠠᠨ</mng2>
     <page></page>
     <skt>utkuṭukāsanam</skt>
-    <tib>&amp;lt;tsog / *cog P&amp;gt; tsog &amp;lt;pur L/ por N/ bor DCP&amp;gt; 'dug</tib>
-    <refs/>
+    <tib>tsog tsog pur 'dug</tib>
+    <refs>
+      <ref>C3122</ref>
+    </refs>
   </entry>
   <entry id="mv6710">
     <coll>Mv6710</coll>
-    <mng>ariγun</mng>
-    <mng2>ariγun</mng2>
+    <mng>ᠠᠷᠢᠭᠤᠨ</mng>
+    <mng2>ᠠᠷᠢᠭᠤᠨ</mng2>
     <page></page>
     <skt>medhyaḥ</skt>
-    <tib>&amp;lt;gtsang ma DC/ gtsang ba PN/ *gtsong ma L&amp;gt;</tib>
-    <refs/>
+    <tib>gtsang ma</tib>
+    <refs>
+      <ref>A3964</ref>
+    </refs>
   </entry>
   <entry id="mv6711">
     <coll>Mv6711</coll>
-    <mng>unaγsan</mng>
-    <mng2>unaqui</mng2>
+    <mng>ᠤᠨᠠᠭᠰᠠᠨ</mng>
+    <mng2>ᠤᠨᠠᠬᠤᠢ</mng2>
     <page></page>
     <skt>patati</skt>
     <tib>ltung</tib>
-    <refs/>
+    <refs>
+      <ref>U0106</ref>
+    </refs>
   </entry>
   <entry id="mv6712">
     <coll>Mv6712</coll>
-    <mng>oruqu</mng>
-    <mng2>oruqui</mng2>
+    <mng>ᠣᠷᠤᠬᠤ</mng>
+    <mng2>ᠣᠷᠤᠬᠤᠢ</mng2>
     <page></page>
     <skt>viśati</skt>
     <tib>'jug</tib>
-    <refs/>
+    <refs>
+      <ref>U2720</ref>
+    </refs>
   </entry>
   <entry id="mv6713">
     <coll>Mv6713</coll>
-    <mng>mungqaraγsan</mng>
-    <mng2>mungqaraγsan</mng2>
+    <mng>ᠮᠤᠩᠬᠠᠷᠠᠭᠰᠠᠨ</mng>
+    <mng2>ᠮᠤᠩᠬᠠᠷᠠᠭᠰᠠᠨ</mng2>
     <page></page>
     <skt>mūḍhaḥ</skt>
-    <tib>rmongs &amp;lt;pa'am rmong -L&amp;gt; pa</tib>
-    <refs/>
+    <tib>rmongs pa'am rmong pa</tib>
+    <refs>
+      <ref>M1634</ref>
+    </refs>
   </entry>
   <entry id="mv6714">
     <coll>Mv6714</coll>
-    <mng>dayuriyaqu buyu qaldaqu</mng>
-    <mng2>qaldaγsan bujarlaγsan</mng2>
+    <mng>ᠳᠠᠭᠤᠷᠢᠶᠠᠬᠤ ᠪᠤᠶᠤ ᠬᠠᠯᠳᠠᠬᠤ</mng>
+    <mng2>ᠬᠠᠯᠳᠠᠭᠰᠠᠨ ᠪᠤᠵᠠᠷᠯᠠᠭᠰᠠᠨ</mng2>
     <page></page>
     <skt>paribhāvitaḥ</skt>
     <tib>bsgres pa'am sbags pa</tib>
-    <refs/>
+    <refs>
+      <ref>T0790</ref>
+      <ref>Q2140</ref>
+      <ref>B3707</ref>
+    </refs>
   </entry>
   <entry id="mv6715">
     <coll>Mv6715</coll>
-    <mng>sin-e yar-a</mng>
-    <mng2>sin-e yar-a (TEXT:yin)</mng2>
+    <mng>ᠰᠢᠨ᠎ᠡ ᠶᠠᠷ᠎ᠠ</mng>
+    <mng2>ᠰᠢᠨ᠎ᠡ ᠶᠠᠷ᠎ᠠ</mng2>
     <page></page>
     <skt>taruṇavraṇaḥ</skt>
     <tib>rma sar pa</tib>
-    <refs/>
+    <refs>
+      <ref>Y1734</ref>
+    </refs>
   </entry>
   <entry id="mv6716">
     <coll>Mv6716</coll>
-    <mng>γurban keseg</mng>
-    <mng2>γurban keseg</mng2>
+    <mng>ᠭᠤᠷᠪᠠᠨ ᠺᠡᠰᠡᢉ</mng>
+    <mng2>ᠭᠤᠷᠪᠠᠨ ᠺᠡᠰᠡᢉ</mng2>
     <page></page>
     <skt>trikāṇḍakaḥ</skt>
     <tib>dum bu gsum pa</tib>
-    <refs/>
+    <refs>
+      <ref>K0438</ref>
+    </refs>
   </entry>
   <entry id="mv6717">
     <coll>Mv6717</coll>
-    <mng>nigen qamtu yabudal</mng>
-    <mng2>qamtu nigen yabudal</mng2>
+    <mng>ᠨᠢᢉᠡᠨ ᠬᠠᠮᠲᠤ ᠶᠠᠪᠤᠳᠠᠯ</mng>
+    <mng2>ᠬᠠᠮᠲᠤ ᠨᠢᢉᠡᠨ ᠶᠠᠪᠤᠳᠠᠯ</mng2>
     <page></page>
     <skt>sāhacaryam</skt>
     <tib>lhan cig spyod pa</tib>
@@ -78295,26 +78332,31 @@
   </entry>
   <entry id="mv6718">
     <coll>Mv6718</coll>
-    <mng>taγalal un</mng>
-    <mng2>taγalaqun u</mng2>
+    <mng>ᠲᠠᠭᠠᠯᠠᠯ᠎ᠤᠨ</mng>
+    <mng2>ᠲᠠᠭᠠᠯᠠᠬᠤᠨ᠎ᠤ</mng2>
     <page></page>
     <skt>ābhiprāyikaḥ</skt>
     <tib>dgongs pa'i</tib>
-    <refs/>
+    <refs>
+      <ref>T0475</ref>
+      <ref>T0467</ref>
+    </refs>
   </entry>
   <entry id="mv6719">
     <coll>Mv6719</coll>
-    <mng>bulanggir tu</mng>
-    <mng2>bulanggir tu</mng2>
+    <mng>ᠪᠤᠯᠠᠩᢉᠢᠷ᠎ᠲᠤ</mng>
+    <mng2>ᠪᠤᠯᠠᠩᢉᠢᠷ᠎ᠲᠤ</mng2>
     <page></page>
     <skt>āvilam</skt>
-    <tib>rnyog pa &amp;lt;can -PN&amp;gt;</tib>
-    <refs/>
+    <tib>rnyog pa can</tib>
+    <refs>
+      <ref>B3198</ref>
+    </refs>
   </entry>
   <entry id="mv6720">
     <coll>Mv6720</coll>
-    <mng>daγun-dur mergen</mng>
-    <mng2>daγun-dur mergen</mng2>
+    <mng>ᠳᠠᠭᠤᠨ᠎ᠳᠤᠷ ᠮᠡᠷᢉᠡᠨ</mng>
+    <mng2>ᠳᠠᠭᠤᠨ᠎ᠳᠤᠷ ᠮᠡᠷᢉᠡᠨ</mng2>
     <page></page>
     <skt>sābdikaḥ</skt>
     <tib>sgra la mkhas pa</tib>
@@ -78322,44 +78364,55 @@
   </entry>
   <entry id="mv6696">
     <coll>Mv6696</coll>
-    <mng>siltaγan u ürgülji</mng>
-    <mng2>siltaγan u ürgülji</mng2>
+    <mng>ᠰᠢᠯᠲᠠᠭᠠᠨ᠎ᠤ ᠦᠷᢉᠦᠯᠵᠢ</mng>
+    <mng2>ᠰᠢᠯᠲᠠᠭᠠᠨ᠎ᠤ ᠦᠷᢉᠦᠯᠵᠢ</mng2>
     <page></page>
     <skt>kāraṇasrotaḥ</skt>
     <tib>rgyu'i rgyun</tib>
-    <refs/>
+    <refs>
+      <ref>O2218</ref>
+    </refs>
   </entry>
   <entry id="mv6721">
     <coll>Mv6721</coll>
-    <mng>jergeber nayiraγulqu</mng>
-    <mng2>jerge busud-tur barildurulqui</mng2>
+    <mng>ᠵᠡᠷᢉᠡᠪᠡᠷ ᠨᠠᠶᠢᠷᠠᠭᠤᠯᠬᠤ</mng>
+    <mng2>ᠵᠡᠷᢉᠡ ᠪᠤᠰᠤᠳ᠎ᠲᠤᠷ ᠪᠠᠷᠢᠯᠳᠤᠭᠤᠯᠬᠤᠢ</mng2>
     <page></page>
     <skt>bhinnakramaḥ</skt>
-    <tib>&amp;lt;rim -D&amp;gt; pa &amp;lt;bzhin PNL/ gzhan DC&amp;gt; du sbyar ba</tib>
-    <refs/>
+    <tib>rim pa bzhin du sbyar ba</tib>
+    <refs>
+      <ref>N0772</ref>
+      <ref>B1434</ref>
+    </refs>
   </entry>
   <entry id="mv6722">
     <coll>Mv6722</coll>
-    <mng>jabsarlaqu</mng>
-    <mng2>jabsar tasulqui</mng2>
+    <mng>ᠵᠠᠪᠰᠠᠷᠯᠠᠬᠤ</mng>
+    <mng2>ᠵᠠᠪᠰᠠᠷ ᠲᠠᠰᠤᠯᠬᠤᠢ</mng2>
     <page></page>
     <skt>kṛtāvadhiḥ</skt>
-    <tib>&amp;lt;mtshams / 'tshams L&amp;gt; bcad &amp;lt;+ pa P&amp;gt;</tib>
-    <refs/>
+    <tib>mtshams bcad pa</tib>
+    <refs>
+      <ref>Y0796</ref>
+    </refs>
   </entry>
   <entry id="mv6723">
     <coll>Mv6723</coll>
-    <mng>göbsin askiqu buyu unaqu</mng>
-    <mng2>keltürin yuladcu unaqui (TEXT:uqaqui)</mng2>
+    <mng>ᢉᠥᠪᠰᠢᠨ ᠠᠰᠺᠢᠬᠤ ᠪᠤᠶᠤ ᠤᠨᠠᠬᠤ</mng>
+    <mng2>ᠺᠡᠯᠲᠦᠷᠢᠨ ᠭᠤᠯᠠᠳᠴᠤ ᠤᠨᠠᠬᠤᠢ</mng2>
     <page></page>
     <skt>prapatitaḥ</skt>
-    <tib>&amp;lt;rdeg DCL/ *brtegs P/ *brteg N&amp;gt; 'chos pa'am &amp;lt;lhung / ltung N&amp;gt; ba</tib>
-    <refs/>
+    <tib>rdeg 'chos pa'am lhung ba</tib>
+    <refs>
+      <ref>K3504</ref>
+      <ref>K0844</ref>
+      <ref>Q5486</ref>
+    </refs>
   </entry>
   <entry id="mv6724">
     <coll>Mv6724</coll>
-    <mng>büü ayurtun</mng>
-    <mng2>büü ayuuγad</mng2>
+    <mng>ᠪᠦᠦ ᠠᠶᠤᠭᠲᠤᠨ</mng>
+    <mng2>ᠪᠦᠦ ᠠᠶᠤᠤᠭᠠᠳ</mng2>
     <page></page>
     <skt>mā bhaiṣṭa</skt>
     <tib>ma 'jigs shig</tib>
@@ -78367,134 +78420,165 @@
   </entry>
   <entry id="mv6725">
     <coll>Mv6725</coll>
-    <mng>bürin ügei ber ügei</mng>
-    <mng2>ese büridügsen ügei</mng2>
+    <mng>ᠪᠦᠷᠢᠨ ᠦᢉᠡᠢ ᠪᠡᠷ ᠦᢉᠡᠢ</mng>
+    <mng2>ᠡᠰᠡ ᠪᠦᠷᠢᠳᠦᢉᠰᠡᠨ ᠦᢉᠡᠢ</mng2>
     <page></page>
     <skt>avikalaḥ</skt>
-    <tib>ma &amp;lt;tshang / *chang N&amp;gt; ba med pa</tib>
-    <refs/>
+    <tib>ma tshang ba med pa</tib>
+    <refs>
+      <ref>B4947</ref>
+    </refs>
   </entry>
   <entry id="mv6726">
     <coll>Mv6726</coll>
-    <mng>nigen-ece nigen-dür kemekü buyu ündüsülegsen</mng>
-    <mng2>nigen-ece nigen-dür kemekül ba ündüsü- legsen</mng2>
+    <mng>ᠨᠢᢉᠡᠨ᠎ᠡᠴᠡ ᠨᠢᢉᠡᠨ᠎ᠳᠦᠷ ᠺᠡᠮᠡᠺᠦ ᠪᠤᠶᠤ ᠦᠨᠳᠦᠰᠦᠯᠡᢉᠰᠡᠨ</mng>
+    <mng2>ᠨᠢᢉᠡᠨ᠎ᠡᠴᠡ ᠨᠢᢉᠡᠨ᠎ᠳᠦᠷ ᠺᠡᠮᠡᠺᠦᠯ ᠪᠠ ᠦᠨᠳᠦᠰᠦᠯᠡᢉᠰᠡᠨ</mng2>
     <page></page>
     <skt>pāramparyeṇa</skt>
-    <tib>gcig nas gcig &amp;lt;tu / du L&amp;gt; zhe'am brgyud pa</tib>
-    <refs/>
+    <tib>gcig nas gcig tu zhe'am brgyud pa</tib>
+    <refs>
+      <ref>O0294</ref>
+    </refs>
   </entry>
   <entry id="mv6727">
     <coll>Mv6727</coll>
-    <mng>nomuqan orusil</mng>
-    <mng2>nomuqan aqui</mng2>
+    <mng>ᠨᠣᠮᠤᠬᠠᠨ ᠣᠷᠤᠰᠢᠯ</mng>
+    <mng2>ᠨᠣᠮᠤᠬᠠᠨ ᠠᠬᠤᠢ</mng2>
     <page></page>
     <skt>damathāḥ</skt>
     <tib>dul ba'i gnas</tib>
-    <refs/>
+    <refs>
+      <ref>N2289</ref>
+      <ref>U2781</ref>
+    </refs>
   </entry>
   <entry id="mv6728">
     <coll>Mv6728</coll>
-    <mng>qariy-a tu</mng>
-    <mng2>qariy-a tu</mng2>
+    <mng>ᠬᠠᠷᠢᠶ᠎ᠠ᠎ᠲᠤ</mng>
+    <mng2>ᠬᠠᠷᠢᠶ᠎ᠠ᠎ᠲᠤ</mng2>
     <page></page>
     <skt>paryāpannaḥ</skt>
     <tib>gtogs pa</tib>
-    <refs/>
+    <refs>
+      <ref>Q3433</ref>
+    </refs>
   </entry>
   <entry id="mv6729">
     <coll>Mv6729</coll>
-    <mng>nigen lang</mng>
-    <mng2>nigen lang</mng2>
+    <mng>ᠨᠢᢉᠡᠨ ᠯᠠᠩ</mng>
+    <mng2>ᠨᠢᢉᠡᠨ ᠯᠠᠩ</mng2>
     <page></page>
     <skt>palam ekam</skt>
-    <tib>srang &amp;lt;gcig PNL/ *cig DC&amp;gt;</tib>
-    <refs/>
+    <tib>srang gcig</tib>
+    <refs>
+      <ref>L0027</ref>
+    </refs>
   </entry>
   <entry id="mv6730">
     <coll>Mv6730</coll>
-    <mng>qaγas lang</mng>
-    <mng2>lang un jarim</mng2>
+    <mng>ᠬᠠᠭᠠᠰ ᠯᠠᠩ</mng>
+    <mng2>ᠯᠠᠩ᠎ᠤᠨ ᠵᠠᠷᠢᠮ</mng2>
     <page></page>
     <skt>ardhapalam</skt>
     <tib>srang phyed</tib>
-    <refs/>
+    <refs>
+      <ref>L0027</ref>
+    </refs>
   </entry>
   <entry id="mv6731">
     <coll>Mv6731</coll>
-    <mng>niγaqu</mng>
-    <mng2>siqaqui (TEXT:siyaqui)</mng2>
+    <mng>ᠨᠢᠭᠠᠬᠤ</mng>
+    <mng2>ᠰᠢᠬᠠᠬᠤᠢ</mng2>
     <page></page>
     <skt>saṁśliṣyamāṇaḥ</skt>
     <tib>'byar ba</tib>
-    <refs/>
+    <refs>
+      <ref>N1342</ref>
+      <ref>S3256</ref>
+    </refs>
   </entry>
   <entry id="mv6732">
     <coll>Mv6732</coll>
-    <mng>körüs dörben qubi bar ügei</mng>
-    <mng2>körüs ün sitügen qubi ügei</mng2>
+    <mng>ᠺᠥᠷᠦᠰ ᠳᠥᠷᠪᠡᠨ ᠬᠤᠪᠢ ᠪᠠᠷ ᠦᢉᠡᠢ</mng>
+    <mng2>ᠺᠥᠷᠦᠰ᠎ᠤᠨ ᠰᠢᠲᠦᢉᠡᠨ ᠬᠤᠪᠢ ᠦᢉᠡᠢ</mng2>
     <page></page>
     <skt>pādonakrośaḥ</skt>
-    <tib>rgyang grags kyi &amp;lt;bzhi PNL/ *gzhi DC&amp;gt; char med pa</tib>
-    <refs/>
+    <tib>rgyang grags kyi bzhi char med pa</tib>
+    <refs>
+      <ref>K5012</ref>
+    </refs>
   </entry>
   <entry id="mv6733">
     <coll>Mv6733</coll>
-    <mng>nigen nigen ba jarim ud</mng>
-    <mng2>jarim ba nigen nigen</mng2>
+    <mng>ᠨᠢᢉᠡᠨ ᠨᠢᢉᠡᠨ ᠪᠠ ᠵᠠᠷᠢᠮ᠎ᠤᠳ</mng>
+    <mng2>ᠵᠠᠷᠢᠮ ᠪᠠ ᠨᠢᢉᠡᠨ ᠨᠢᢉᠡᠨ</mng2>
     <page></page>
     <skt>ekatyaḥ</skt>
-    <tib>&amp;lt;kha DCL/ *khang PN&amp;gt; cig gam la la</tib>
-    <refs/>
+    <tib>kha cig gam la la</tib>
+    <refs>
+      <ref>Y1782</ref>
+    </refs>
   </entry>
   <entry id="mv6734">
     <coll>Mv6734</coll>
-    <mng>doluγan gesigün sayitur orusiyγsan</mng>
-    <mng2>doluγan gesigün sayitur orusiyγsan</mng2>
+    <mng>ᠳᠣᠯᠤᠭᠠᠨ ᢉᠡᠰᠢᢉᠦᠨ ᠰᠠᠶᠢᠲᠤᠷ ᠣᠷᠤᠰᠢᠭᠰᠠᠨ</mng>
+    <mng2>ᠳᠣᠯᠤᠭᠠᠨ ᢉᠡᠰᠢᢉᠦᠨ ᠰᠠᠶᠢᠲᠤᠷ ᠣᠷᠤᠰᠢᠭᠰᠠᠨ</mng2>
     <page></page>
     <skt>saptāṅgasupatiṣṭhitaḥ</skt>
     <tib>yan lag bdun legs par gnas pa</tib>
-    <refs/>
+    <refs>
+      <ref>K0465</ref>
+    </refs>
   </entry>
   <entry id="mv6735">
     <coll>Mv6735</coll>
-    <mng>dotarsi (DIC:dotursi) üjebei</mng>
-    <mng2>dotursi qanduγsan</mng2>
+    <mng>ᠳᠣᠲᠠᠭᠰᠢ ᠦᠵᠡᠪᠡᠢ</mng>
+    <mng2>ᠳᠣᠲᠤᠭᠰᠢ ᠬᠠᠨᠳᠤᠭᠰᠠᠨ</mng2>
     <page></page>
     <skt>antarmukhapravṛttam</skt>
-    <tib>nang du &amp;lt;blta ba / ltas L&amp;gt;</tib>
-    <refs/>
+    <tib>nang du blta ba</tib>
+    <refs>
+      <ref>T6675</ref>
+      <ref>Q0207</ref>
+    </refs>
   </entry>
   <entry id="mv6736">
     <coll>Mv6736</coll>
-    <mng>sunγaqu</mng>
-    <mng2>sunuyaqui (TEXT:sunaγaqui)</mng2>
+    <mng>ᠰᠤᠩᠭᠠᠬᠤ</mng>
+    <mng2>ᠰᠤᠩᠭᠠᠬᠤᠢ</mng2>
     <page></page>
     <skt>prasāritaḥ</skt>
     <tib>brkyang ba</tib>
-    <refs/>
+    <refs>
+      <ref>S5085</ref>
+    </refs>
   </entry>
   <entry id="mv6737">
     <coll>Mv6737</coll>
-    <mng>quriyaqu</mng>
-    <mng2>quriyaqui</mng2>
+    <mng>ᠬᠤᠷᠢᠶᠠᠬᠤ</mng>
+    <mng2>ᠬᠤᠷᠢᠶᠠᠬᠤᠢ</mng2>
     <page></page>
     <skt>saṁkūñcanam</skt>
     <tib>bskum pa</tib>
-    <refs/>
+    <refs>
+      <ref>Q6940</ref>
+    </refs>
   </entry>
   <entry id="mv6738">
     <coll>Mv6738</coll>
-    <mng>jaγun jüil buduγ</mng>
-    <mng2>jaγun jüil buduγ **Page 319 (Mv-361)**</mng2>
+    <mng>ᠵᠠᠭᠤᠨ ᠵᠦᠢᠯ ᠪᠤᠳᠤᠭ</mng>
+    <mng2>ᠵᠠᠭᠤᠨ ᠵᠦᠢᠯ ᠪᠤᠳᠤᠭ</mng2>
     <page></page>
     <skt>dhātuśatam</skt>
-    <tib>&amp;lt;tshon / *chon N&amp;gt; sna brgya</tib>
-    <refs/>
+    <tib>tshon sna brgya</tib>
+    <refs>
+      <ref>B3080</ref>
+    </refs>
   </entry>
   <entry id="mv6739">
     <coll>Mv6739</coll>
-    <mng>ene inu cinu ene inu minu kemen</mng>
-    <mng2>ene kemebesü ene inu (?) (TEXT:yin) kemebesü minükei kemekü</mng2>
+    <mng>ᠡᠨᠡ ᠢᠨᠤ ᠴᠢᠨᠤ ᠡᠨᠡ ᠢᠨᠤ ᠮᠢᠨᠤ ᠺᠡᠮᠡᠨ</mng>
+    <mng2>ᠡᠨᠡ ᠺᠡᠮᠡᠪᠡᠰᠦ ᠡᠨᠡ ᠢᠨᠤ ᠺᠡᠮᠡᠪᠡᠰᠦ ᠮᠢᠨᠦᠺᠡᠢ ᠺᠡᠮᠡᠺᠦ</mng2>
     <page></page>
     <skt>idaṁ tavedaṁ mameti</skt>
     <tib>'di ni khyod kyi 'di ni nga'i zhes</tib>
@@ -78502,8 +78586,8 @@
   </entry>
   <entry id="mv6740">
     <coll>Mv6740</coll>
-    <mng>ai-a yw oi</mng>
-    <mng2>ai-adaγudaqu</mng2>
+    <mng>ᠠᠢ᠎ᠠ ᠶᠸ ᠣᠢ</mng>
+    <mng2>ᠠᠢ᠎ᠠᠳᠠᠭᠤᠳᠠᠬᠤ</mng2>
     <page></page>
     <skt>bhoh, he, re</skt>
     <tib>kye</tib>
@@ -78511,80 +78595,92 @@
   </entry>
   <entry id="mv6743">
     <coll>Mv6743</coll>
-    <mng>ai-a yw oi</mng>
+    <mng>ᠠᠢ᠎ᠠ ᠶᠸ ᠣᠢ</mng>
     <mng2></mng2>
     <page></page>
     <skt>are</skt>
-    <tib>&amp;lt;kva'i DCL/ kvayi P/ kraye N&amp;gt;</tib>
+    <tib>kwa'i</tib>
     <refs/>
   </entry>
   <entry id="mv6744">
     <coll>Mv6744</coll>
-    <mng>qoyisi tere metü buu üiled</mng>
-    <mng2>qoyinaγsida tere metü buu üiledkün</mng2>
+    <mng>ᠬᠣᠶᠢᠰᠢ ᠲᠡᠷᠡ ᠮᠡᠲᠦ ᠪᠤᠤ ᠦᠢᠯᠡᠳ</mng>
+    <mng2>ᠬᠣᠶᠢᠨᠠᠭᠰᠢᠳᠠ ᠲᠡᠷᠡ ᠮᠡᠲᠦ ᠪᠤᠤ ᠦᠢᠯᠡᠳᠺᠦᠨ</mng2>
     <page></page>
     <skt>mā bhūya evaṁ kariṣyatha</skt>
-    <tib>&amp;lt;phyin / *phrin N&amp;gt; &amp;lt;chad / *cad L&amp;gt; de ltar ma byed cig</tib>
-    <refs/>
+    <tib>phyin chad de ltar ma byed cig</tib>
+    <refs>
+      <ref>Q6583</ref>
+      <ref>Q6489</ref>
+    </refs>
   </entry>
   <entry id="mv6745">
     <coll>Mv6745</coll>
-    <mng>nigen-e quriγaju</mng>
-    <mng2>nigen-e quriγaju</mng2>
+    <mng>ᠨᠢᢉᠡᠨ᠎ᠡ ᠬᠤᠷᠢᠶᠠᠵᠤ</mng>
+    <mng2>ᠨᠢᢉᠡᠨ᠎ᠡ ᠬᠤᠷᠢᠶᠠᠵᠤ</mng2>
     <page></page>
     <skt>ekadhyamabhisaṁkṣipya</skt>
-    <tib>gcig &amp;lt;tu / du L&amp;gt; bsdus te</tib>
-    <refs/>
+    <tib>gcig tu bsdus te</tib>
+    <refs>
+      <ref>Q6940</ref>
+    </refs>
   </entry>
   <entry id="mv6746">
     <coll>Mv6746</coll>
-    <mng>inaγsi uduridun</mng>
-    <mng2>inaγsi tataqui</mng2>
+    <mng>ᠢᠨᠠᠭᠰᠢ ᠤᠳᠤᠷᠢᠳᠤᠨ</mng>
+    <mng2>ᠢᠨᠠᠭᠰᠢ ᠲᠠᠲᠠᠬᠤᠢ</mng2>
     <page></page>
     <skt>ākarṣayati</skt>
     <tib>tshur 'dren</tib>
-    <refs/>
+    <refs>
+      <ref>U1461</ref>
+    </refs>
   </entry>
   <entry id="mv6747">
     <coll>Mv6747</coll>
-    <mng>cinaγsi kötülün</mng>
-    <mng2>cinaγsi tataqui</mng2>
+    <mng>ᠴᠢᠨᠠᠭᠰᠢ ᠺᠥᠲᠦᠯᠦᠨ</mng>
+    <mng2>ᠴᠢᠨᠠᠭᠰᠢ ᠲᠠᠲᠠᠬᠤᠢ</mng2>
     <page></page>
     <skt>parākarṣayati</skt>
     <tib>phar 'dren</tib>
-    <refs/>
+    <refs>
+      <ref>K3903</ref>
+    </refs>
   </entry>
   <entry id="mv6748">
     <coll>Mv6748</coll>
-    <mng>masida dulduyidqu</mng>
-    <mng2>masida sitüküi</mng2>
+    <mng>ᠮᠠᠰᠢᠳᠠ ᠳᠤᠯᠳᠤᠶᠢᠳᠬᠤ</mng>
+    <mng2>ᠮᠠᠰᠢᠳᠠ ᠰᠢᠲᠦᠺᠦᠢ</mng2>
     <page></page>
     <skt>sujuṣṭaḥ</skt>
-    <tib>shin &amp;lt;tu / du L&amp;gt; &amp;lt;bsten PNL/ *bstan DC&amp;gt;</tib>
-    <refs/>
+    <tib>shin tu bsten</tib>
+    <refs>
+      <ref>T7045</ref>
+      <ref>S3800</ref>
+    </refs>
   </entry>
   <entry id="mv6749">
     <coll>Mv6749</coll>
-    <mng>üjekü luγ-a tegülder</mng>
-    <mng2>üjeküldürtegüsügsen</mng2>
+    <mng>ᠦᠵᠡᠺᠦ᠎ᠯᠤᠭ᠎ᠠ ᠲᠡᢉᠦᠯᠳᠡᠷ</mng>
+    <mng2>ᠦᠵᠡᠺᠦᠢ᠎ᠳᠦᠷ ᠲᠡᢉᠦᠰᠦᢉᠰᠡᠨ</mng2>
     <page></page>
     <skt>avekṣāvān</skt>
-    <tib>&amp;lt;blta PNL/ lta DC&amp;gt; ba dang ldan pa</tib>
+    <tib>blta ba dang ldan pa</tib>
     <refs/>
   </entry>
   <entry id="mv6750">
     <coll>Mv6750</coll>
-    <mng>qubi luγ-a selte buyu qubi luγ-a sacaγu</mng>
-    <mng2>qubi kiged selte ba tegsi qubi tu</mng2>
+    <mng>ᠬᠤᠪᠢ᠎ᠯᠤᠭ᠎ᠠ ᠰᠡᠯᠲᠡ ᠪᠤᠶᠤ ᠬᠤᠪᠢ᠎ᠯᠤᠭ᠎ᠠ ᠰᠠᠴᠠᠭᠤ</mng>
+    <mng2>ᠬᠤᠪᠢ ᠺᠢᢉᠡᠳ ᠰᠡᠯᠲᠡ ᠪᠠ ᠲᠡᢉᠰᠢ ᠬᠤᠪᠢ᠎ᠲᠤ</mng2>
     <page></page>
     <skt>sahabhavyatā</skt>
-    <tib>skal ba dang bcas pa'am skal ba &amp;lt;mnyam DCL/ *snyam PN&amp;gt; pa</tib>
+    <tib>skal ba dang bcas pa'am skal ba mnyam pa</tib>
     <refs/>
   </entry>
   <entry id="mv6751">
     <coll>Mv6751</coll>
-    <mng>ed tavar luγ-a selte</mng>
-    <mng2>ed lüge selte</mng2>
+    <mng>ᠡᠳ᠋ ᠲᠠᠸᠠᠷ᠎ᠯᠤᠭ᠎ᠠ ᠰᠡᠯᠲᠡ</mng>
+    <mng2>ᠡᠳ᠋᠎ᠯᠦᠭᠡ ᠰᠡᠯᠲᠡ</mng2>
     <page></page>
     <skt>sāmiṣaḥ</skt>
     <tib>zang zing dang bcas pa</tib>
@@ -78592,8 +78688,8 @@
   </entry>
   <entry id="mv6752">
     <coll>Mv6752</coll>
-    <mng>ed tavar ügei</mng>
-    <mng2>ed ügei</mng2>
+    <mng>ᠡᠳ᠋ ᠲᠠᠸᠠᠷ ᠦᢉᠡᠢ</mng>
+    <mng2>ᠡᠳ᠋ ᠦᢉᠡᠢ</mng2>
     <page></page>
     <skt>nirāmiṣaḥ</skt>
     <tib>zang zing med pa</tib>
@@ -78601,8 +78697,8 @@
   </entry>
   <entry id="mv6753">
     <coll>Mv6753</coll>
-    <mng>ed tavar buyu miq-a buyu idegen</mng>
-    <mng2>ed ba miq-a ba idegen</mng2>
+    <mng>ᠡᠳ᠋ ᠲᠠᠸᠠᠷ ᠪᠤᠶᠤ ᠮᠢᠬ᠎ᠠ ᠪᠤᠶᠤ ᠢᠳᠡᢉᠡᠨ</mng>
+    <mng2>ᠡᠳ᠋ ᠪᠠ ᠮᠢᠬ᠎ᠠ ᠪᠠ ᠢᠳᠡᢉᠡᠨ</mng2>
     <page></page>
     <skt>āmiṣā</skt>
     <tib>zang zing ngam sha'am zas</tib>
@@ -78610,327 +78706,398 @@
   </entry>
   <entry id="mv6754">
     <coll>Mv6754</coll>
-    <mng>baγuqubuyuciqulayabuqu</mng>
-    <mng2>irekül ba oyir-a odqui</mng2>
+    <mng>ᠪᠠᠭᠤᠬᠤ ᠪᠤᠶᠤ ᠴᠢᠬᠤᠯᠠ ᠶᠠᠪᠤᠬᠤ</mng>
+    <mng2>ᠢᠷᠡᠺᠦᠢ ᠪᠠ ᠣᠶᠢᠷ᠎ᠠ ᠣᠳᠬᠤᠢ</mng2>
     <page></page>
     <skt>upayāti</skt>
-    <tib>'bab &amp;lt;bam / pa'am L&amp;gt; &amp;lt;nye bar DCL/ nye P/ *nya N&amp;gt; 'gro</tib>
+    <tib>'bab bam nye bar 'gro</tib>
     <refs/>
   </entry>
   <entry id="mv6755">
     <coll>Mv6755</coll>
-    <mng>maγad γarqui-dur sitügsen</mng>
-    <mng2>maγadan bolqui-dur sitüküi</mng2>
+    <mng>ᠮᠠᠭᠠᠳ ᠭᠠᠷᠬᠤᠢ᠎ᠳᠤᠷ ᠰᠢᠲᠦᢉᠰᠡᠨ</mng>
+    <mng2>ᠮᠠᠭᠠᠳᠠᠨ ᠪᠣᠯᠬᠤᠢ᠎ᠳᠤᠷ ᠰᠢᠲᠦᠺᠦᠢ</mng2>
     <page></page>
     <skt>naiṣkramyāśritaḥ</skt>
-    <tib>&amp;lt;+ nges par 'byung ba la brten pa L&amp;gt;</tib>
+    <tib>nges par 'byung ba la brten pa</tib>
     <refs/>
   </entry>
   <entry id="mv6756">
     <coll>Mv6756</coll>
-    <mng>sün cuburiqu</mng>
-    <mng2>sün cuburiqu</mng2>
+    <mng>ᠰᠦᠨ ᠴᠤᠪᠤᠷᠢᠬᠤ</mng>
+    <mng2>ᠰᠦᠨ ᠴᠤᠪᠤᠷᠢᠬᠤ</mng2>
     <page></page>
     <skt>kṣīraṁ syandate</skt>
     <tib>'o ma 'dzag</tib>
-    <refs/>
+    <refs>
+      <ref>C2865</ref>
+      <ref>S6456</ref>
+    </refs>
   </entry>
   <entry id="mv6757">
     <coll>Mv6757</coll>
-    <mng>ebür</mng>
-    <mng2>ulus</mng2>
+    <mng>ᠡᠪᠦᠷ</mng>
+    <mng2>ᠤᠯᠤᠰ</mng2>
     <page></page>
     <skt>utsaṅgaḥ</skt>
-    <tib>&amp;lt;pang pa DCL/ *bang ba P/ *sang pa N&amp;gt;</tib>
-    <refs/>
+    <tib>pang pa</tib>
+    <refs>
+      <ref>E0353</ref>
+    </refs>
   </entry>
   <entry id="mv6758">
     <coll>Mv6758</coll>
-    <mng>bayilduγan</mng>
-    <mng2>bayilduγan</mng2>
+    <mng>ᠪᠠᠶᠢᠯᠳᠤᠭᠠᠨ</mng>
+    <mng2>ᠪᠠᠶᠢᠯᠳᠤᠭᠠᠨ</mng2>
     <page></page>
     <skt>saṁgrāmaḥ</skt>
-    <tib>g-yul</tib>
-    <refs/>
+    <tib>g.yul</tib>
+    <refs>
+      <ref>B1225</ref>
+    </refs>
   </entry>
   <entry id="mv6759">
     <coll>Mv6759</coll>
-    <mng>bey-e ba üge luγ-a nayiraγulqu</mng>
-    <mng2>bey-e ba üy-e bariiduqui</mng2>
+    <mng>ᠪᠡᠶ᠎ᠡ ᠪᠠ ᠦᢉᠡ᠎ᠯᠤᠭ᠎ᠠ ᠨᠠᠶᠢᠷᠠᠭᠤᠯᠬᠤ</mng>
+    <mng2>ᠪᠡᠶ᠎ᠡ ᠪᠠ ᠦᠶ᠎ᠡ ᠪᠠᠷᠢᠯᠳᠤᠬᠤᠢ</mng2>
     <page></page>
     <skt>vigrahaḥ</skt>
-    <tib>lus &amp;lt;sam -L&amp;gt; tshig sbyor ba</tib>
+    <tib>lus sam tshig sbyor ba</tib>
     <refs/>
   </entry>
   <entry id="mv6760">
     <coll>Mv6760</coll>
-    <mng>üy-e jerg-e</mng>
-    <mng2>jerg-e aqui</mng2>
+    <mng>ᠦᠶ᠎ᠡ ᠵᠡᠷᢉ᠎ᠡ</mng>
+    <mng2>ᠵᠡᠷᢉ᠎ᠡ ᠠᠬᠤᠢ</mng2>
     <page></page>
     <skt>pariṣaṇḍaḥ</skt>
     <tib>bang rim</tib>
-    <refs/>
+    <refs>
+      <ref>Y2417</ref>
+    </refs>
   </entry>
   <entry id="mv6761">
     <coll>Mv6761</coll>
-    <mng>jabsar aγuu</mng>
-    <mng2>jabsar</mng2>
+    <mng>ᠵᠠᠪᠰᠠᠷ ᠠᠭᠤᠤ</mng>
+    <mng2>ᠵᠠᠪᠰᠠᠷ</mng2>
     <page></page>
     <skt>markaṭajāiam</skt>
-    <tib>&amp;lt;(?) bar L/ bang DC/ ba PN&amp;gt; rgya</tib>
-    <refs/>
+    <tib>bar rgya</tib>
+    <refs>
+      <ref>Y0782</ref>
+    </refs>
   </entry>
   <entry id="mv6762">
     <coll>Mv6762</coll>
-    <mng>quriyanγui</mng>
-    <mng2>quriyaγsan</mng2>
+    <mng>ᠬᠤᠷᠢᠶᠠᠨᠭᠤᠢ</mng>
+    <mng2>ᠬᠤᠷᠢᠶᠠᠭᠰᠠᠨ</mng2>
     <page></page>
-    <skt>yojakaḥ (?)[ecakaḥ D/ ocakaḥ O]</skt>
+    <skt>yojakaḥ</skt>
     <tib>bsdus pa</tib>
-    <refs/>
+    <refs>
+      <ref>Q6934</ref>
+      <ref>Q6940</ref>
+    </refs>
   </entry>
   <entry id="mv6763">
     <coll>Mv6763</coll>
-    <mng>qaγurai boluju</mng>
-    <mng2>qataγu boluγsan</mng2>
+    <mng>ᠬᠠᠭᠤᠷᠠᠢ ᠪᠣᠯᠤᠵᠤ</mng>
+    <mng2>ᠬᠠᠲᠠᠭᠤ ᠪᠣᠯᠤᠭᠰᠠᠨ</mng2>
     <page></page>
     <skt>ucchuṣyate</skt>
     <tib>skam par 'gyur</tib>
-    <refs/>
+    <refs>
+      <ref>Q0762</ref>
+      <ref>Q1551</ref>
+    </refs>
   </entry>
   <entry id="mv6764">
     <coll>Mv6764</coll>
-    <mng>ebdekü ba qaγalaqu</mng>
-    <mng2>daruqui ba qaγalaqui --- **Page 320 (Mv-362)**</mng2>
+    <mng>ᠡᠪᠳᠡᠺᠦ ᠪᠠ ᠬᠠᠭᠠᠯᠠᠬᠤ</mng>
+    <mng2>ᠳᠠᠷᠤᠬᠤᠢ ᠪᠠ ᠬᠠᠭᠠᠯᠠᠬᠤᠢ</mng2>
     <page></page>
     <skt>avadiryante</skt>
-    <tib>&amp;lt;gzhom / *gzhol N&amp;gt; pa'am dral ba</tib>
-    <refs/>
+    <tib>gzhom pa'am dral ba</tib>
+    <refs>
+      <ref>E0412</ref>
+      <ref>Q0568</ref>
+    </refs>
   </entry>
   <entry id="mv6765">
     <coll>Mv6765</coll>
-    <mng>burtaγ</mng>
-    <mng2>burtaγ</mng2>
+    <mng>ᠪᠤᠷᠲᠠᠭ</mng>
+    <mng2>ᠪᠤᠷᠲᠠᠭ</mng2>
     <page></page>
     <skt>saṁnidhikāraḥ</skt>
-    <tib>&amp;lt;stsogs pa L/ sogs pa DCPN&amp;gt;</tib>
-    <refs/>
+    <tib>stsogs pa</tib>
+    <refs>
+      <ref>B4024</ref>
+    </refs>
   </entry>
   <entry id="mv6767">
     <coll>Mv6767</coll>
-    <mng>taraγ</mng>
-    <mng2>taraγ (TEXT:qaraγ)</mng2>
+    <mng>ᠲᠠᠷᠠᠭ</mng>
+    <mng2>ᠲᠠᠷᠠᠭ</mng2>
     <page></page>
     <skt>karṣaḥ</skt>
     <tib>zho</tib>
-    <refs/>
+    <refs>
+      <ref>T2576</ref>
+    </refs>
   </entry>
   <entry id="mv6766">
     <coll>Mv6766</coll>
-    <mng>suularγ-a (DIC:sarulyγ-a)</mng>
+    <mng>ᠰᠤᠤᠯᠠᠭ᠎ᠠ</mng>
     <mng2></mng2>
     <page></page>
     <skt>droṇaḥ</skt>
-    <tib>&amp;lt;bre bo DCL/ bre'o PN&amp;gt;</tib>
-    <refs/>
+    <tib>bre bo</tib>
+    <refs>
+      <ref>S0508</ref>
+    </refs>
   </entry>
   <entry id="mv6768">
     <coll>Mv6768</coll>
-    <mng>köl aγulbasu nam tusqu</mng>
-    <mng2>köl geskibesü (DIC:giśkibesü) cögereküi (TEXT:cöngerekül) boluγad</mng2>
+    <mng>ᠺᠥᠯ ᠠᠭᠤᠯᠪᠠᠰᠤ ᠨᠠᠮ ᠲᠤᠰᠬᠤ</mng>
+    <mng2>ᠺᠥᠯ ᢉᠡᠰᠺᠢᠪᠡᠰᠦ ᠴᠥᢉᠡᠷᠡᠺᠦᠢ ᠪᠣᠯᠤᠭᠠᠳ</mng2>
     <page></page>
     <skt>nikṣipte pāde 'vanamati</skt>
-    <tib>&amp;lt;rkang pa / *brkang ba N&amp;gt; bzhag na &amp;lt;(?) nem DC/ nems L/ ne ma P/ na ma N&amp;gt; &amp;lt;zhes / shes L&amp;gt; byed</tib>
+    <tib>rkang pa bzhag na nem zhes byed</tib>
     <refs/>
   </entry>
   <entry id="mv6769">
     <coll>Mv6769</coll>
-    <mng>kölergübesü köbkelkü</mng>
-    <mng2>köl ergübesü dobuyiqui bolai</mng2>
+    <mng>ᠺᠥᠯ ᠡᠷᢉᠦᠪᠡᠰᠦ ᠺᠥᠪᠺᠡᠯᠺᠦ</mng>
+    <mng2>ᠺᠥᠯ ᠡᠷᢉᠦᠪᠡᠰᠦ ᠳᠣᠪᠤᠶᠢᠬᠤᠢ ᠪᠣᠯᠠᠢ</mng2>
     <page></page>
     <skt>utkṣipte pāde unnamati</skt>
-    <tib>rkang pa &amp;lt;bteg / *btag N&amp;gt; na &amp;lt;(?) spar zhes / par ces L&amp;gt; byed</tib>
-    <refs/>
+    <tib>rkang pa bteg na spar zhes byed</tib>
+    <refs>
+      <ref>E2505</ref>
+      <ref>K3598</ref>
+    </refs>
   </entry>
   <entry id="mv6770">
     <coll>Mv6770</coll>
-    <mng>toγusq-a</mng>
-    <mng2>toγusq-a</mng2>
+    <mng>ᠲᠣᠭᠤᠰᠬ᠎ᠠ</mng>
+    <mng2>ᠲᠣᠭᠤᠰᠬ᠎ᠠ</mng2>
     <page></page>
     <skt>iṣṭakaḥ</skt>
     <tib>so phag</tib>
-    <refs/>
+    <refs>
+      <ref>T5783</ref>
+    </refs>
   </entry>
   <entry id="mv6771">
     <coll>Mv6771</coll>
-    <mng>ügülel cögen bolju</mng>
-    <mng2>öcüken ügüleküi boluγsan</mng2>
+    <mng>ᠦᢉᠦᠯᠡᠯ ᠴᠥᢉᠡᠨ ᠪᠣᠯᠵᠤ</mng>
+    <mng2>ᠥᠴᠦᠺᠡᠨ ᠦᢉᠦᠯᠡᠺᠦᠢ ᠪᠣᠯᠤᠭᠰᠠᠨ</mng2>
     <page></page>
-    <skt>mandamantraevābhūt</skt>
-    <tib>brjod pa nyung bar &amp;lt;gyur DCL/ 'gyur PN&amp;gt;</tib>
+    <skt>mandamantra evābhūt</skt>
+    <tib>brjod pa nyung bar gyur</tib>
     <refs/>
   </entry>
   <entry id="mv6772">
     <coll>Mv6772</coll>
-    <mng>tuslan abqui</mng>
-    <mng2>kiciyen abqui</mng2>
+    <mng>ᠲᠤᠰᠯᠠᠨ ᠠᠪᠬᠤᠢ</mng>
+    <mng2>ᠺᠢᠴᠢᠶᠡᠨ ᠠᠪᠬᠤᠢ</mng2>
     <page></page>
     <skt>paramaḥ</skt>
     <tib>lhur len pa</tib>
-    <refs/>
+    <refs>
+      <ref>T6579</ref>
+    </refs>
   </entry>
   <entry id="mv6773">
     <coll>Mv6773</coll>
-    <mng>baγtaqu (TEXT:baγtuqu)</mng>
-    <mng2>quriγaqui</mng2>
+    <mng>ᠪᠠᠭᠲᠠᠬᠤ</mng>
+    <mng2>ᠬᠤᠷᠢᠶᠠᠬᠤᠢ</mng2>
     <page></page>
     <skt>gurukaḥ</skt>
     <tib>gdu ba</tib>
-    <refs/>
+    <refs>
+      <ref>B0432</ref>
+      <ref>Q6940</ref>
+    </refs>
   </entry>
   <entry id="mv6774">
     <coll>Mv6774</coll>
-    <mng>masi cingda sayitur</mng>
-    <mng2>masi cingda masi</mng2>
+    <mng>ᠮᠠᠰᠢ ᠴᠢᠩᠳᠠ ᠰᠠᠶᠢᠲᠤᠷ</mng>
+    <mng2>ᠮᠠᠰᠢ ᠴᠢᠩᠳᠠ ᠮᠠᠰᠢ</mng2>
     <page></page>
     <skt>atyartham, bhrśam</skt>
-    <tib>shin &amp;lt;tu te bor / du de bor L&amp;gt; rab tu</tib>
-    <refs/>
+    <tib>shin tu te bor rab tu</tib>
+    <refs>
+      <ref>C1527</ref>
+    </refs>
   </entry>
   <entry id="mv6776">
     <coll>Mv6776</coll>
-    <mng>batu ba qataγu ba cigiray yeke kücir</mng>
-    <mng2>degedü ba dorsin (TEXT:dorsun) ba qataγu ba urimaγ (?) yeke jabsar</mng2>
+    <mng>ᠪᠠᠲᠤ ᠪᠠ ᠬᠠᠲᠠᠭᠤ ᠪᠠ ᠴᠢᢉᠢᠷᠠᠭ ᠶᠡᠺᠡ ᠺᠦᠴᠢᠷ</mng>
+    <mng2>ᠳᠡᢉᠡᠳᠦ ᠪᠠ ᠳᠣᠷᠰᠢᠨ ᠪᠠ ᠬᠠᠲᠠᠭᠤ ᠪᠠ ᠤᠷᠢᠮᠠᠭ ᠶᠡᠺᠡ ᠵᠠᠪᠰᠠᠷ</mng2>
     <page></page>
     <skt>bādham</skt>
-    <tib>dam &amp;lt;pa'am / *pa'i N&amp;gt; drag &amp;lt;pa'am / *pa'i N&amp;gt; sra ba'am &amp;lt;te bor ram DC/ te phor ram P/ *te phar N/ -L&amp;gt; tshabs che ba DC/ pa'am rtsal che ba L/ pa PN&amp;gt;</tib>
+    <tib>dam pa'am drag pa'am sra ba'am te bor ram tshabs che ba</tib>
     <refs/>
   </entry>
   <entry id="mv6777">
     <coll>Mv6777</coll>
-    <mng>masi ba gegen buyu gerel</mng>
-    <mng2>gegen ba gerel tü</mng2>
+    <mng>ᠮᠠᠰᠢ ᠪᠠ ᢉᠡᢉᠡᠨ ᠪᠤᠶᠤ ᢉᠡᠷᠡᠯ</mng>
+    <mng2>ᢉᠡᢉᠡᠨ ᠪᠠ ᢉᠡᠷᠡᠯ᠎ᠲᠦ</mng2>
     <page></page>
     <skt>dyutiḥ</skt>
-    <tib>&amp;lt;te por ram L&amp;gt; snang ba'am 'od</tib>
-    <refs/>
+    <tib>snang ba'am 'od</tib>
+    <refs>
+      <ref>K1142</ref>
+    </refs>
   </entry>
   <entry id="mv6778">
     <coll>Mv6778</coll>
-    <mng>jegüku buyu bariqu</mng>
-    <mng2>jegüküi ba bariqui</mng2>
+    <mng>ᠵᠡᢉᠦᠺᠦ ᠪᠤᠶᠤ ᠪᠠᠷᠢᠬᠤ</mng>
+    <mng2>ᠵᠡᢉᠦᠺᠦᠢ ᠪᠠ ᠪᠠᠷᠢᠬᠤᠢ</mng2>
     <page></page>
-    <skt>dhāri [dhāriḥ D]</skt>
+    <skt>dhāri</skt>
     <tib>'chang ba'am 'dzin pa</tib>
-    <refs/>
+    <refs>
+      <ref>Y2307</ref>
+    </refs>
   </entry>
   <entry id="mv6779">
     <coll>Mv6779</coll>
-    <mng>ilikü</mng>
-    <mng2>eldeküi (?) (TEXT:telreküi)</mng2>
+    <mng>ᠢᠯᠢᠺᠦ</mng>
+    <mng2>ᠡᠯᠳᠡᠺᠦᠢ</mng2>
     <page></page>
     <skt>parimardanasaṁvāhanam</skt>
     <tib>mnye ba</tib>
-    <refs/>
+    <refs>
+      <ref>I0628</ref>
+    </refs>
   </entry>
   <entry id="mv6780">
     <coll>Mv6780</coll>
-    <mng>ugiyaqu</mng>
-    <mng2>ugiyaqui</mng2>
+    <mng>ᠤᢉᠢᠶᠠᠬᠤ</mng>
+    <mng2>ᠤᢉᠢᠶᠠᠬᠤᠢ</mng2>
     <page></page>
-    <skt>snāpanam [sna- D]</skt>
+    <skt>snāpanam</skt>
     <tib>bkru ba</tib>
-    <refs/>
+    <refs>
+      <ref>U2185</ref>
+    </refs>
   </entry>
   <entry id="mv6781">
     <coll>Mv6781</coll>
-    <mng>ebdekü</mng>
-    <mng2>arciqui</mng2>
+    <mng>ᠡᠪᠳᠡᠺᠦ</mng>
+    <mng2>ᠠᠷᠴᠢᠬᠤᠢ</mng2>
     <page></page>
-    <skt>utsādanam [-sada- OD]</skt>
+    <skt>utsādanam</skt>
     <tib>dril ba</tib>
-    <refs/>
+    <refs>
+      <ref>E0412</ref>
+      <ref>A4443</ref>
+    </refs>
   </entry>
   <entry id="mv6784">
     <coll>Mv6784</coll>
-    <mng>maγu ünür ügei buyu ünür mitaqu ügei</mng>
-    <mng2>maγui ünür ügei ba ünür ün orun ügei</mng2>
+    <mng>ᠮᠠᠭᠤ ᠦᠨᠦᠷ ᠦᢉᠡᠢ ᠪᠤᠶᠤ ᠦᠨᠦᠷ ᠮᠢᠲᠠᠬᠤ ᠦᢉᠡᠢ</mng>
+    <mng2>ᠮᠠᠭᠤᠢ ᠦᠨᠦᠷ ᠦᢉᠡᠢ ᠪᠠ ᠦᠨᠦᠷ ᠦᠨ ᠣᠷᠤᠨ ᠦᢉᠡᠢ</mng2>
     <page></page>
     <skt>nirāmagandhāḥ</skt>
-    <tib>dri nga ba med pa'am dri &amp;lt;bshul DCF/ shul N/ *bshum L&amp;gt; ba med pa</tib>
-    <refs/>
+    <tib>dri nga ba med pa'am dri bshul ba med pa</tib>
+    <refs>
+      <ref>O0239</ref>
+      <ref>M1383</ref>
+    </refs>
   </entry>
   <entry id="mv6782">
     <coll>Mv6782</coll>
-    <mng>üg-e ba öndür eng ba degedü orun ba alqui</mng>
-    <mng2>üy-e ba qutur ba degedü orun dotur-a baγuqu</mng2>
+    <mng>ᠦᢉ᠎ᠡ ᠪᠠ ᠥᠨᠳᠦᠷ ᠡᠩ ᠪᠠ ᠳᠡᢉᠡᠳᠦ ᠣᠷᠤᠨ ᠪᠠ ᠠᠯᠬᠤᠢ</mng>
+    <mng2>ᠦᠶ᠎ᠡ ᠪᠠ ᠬᠤᠲᠤᠭ ᠪᠠ ᠳᠡᢉᠡᠳᠦ ᠣᠷᠤᠨ ᠳᠣᠲᠤᠷ᠎ᠠ ᠪᠠᠭᠤᠬᠤ</mng2>
     <page></page>
     <skt>padam</skt>
-    <tib>tshig gam go &amp;lt;phang ngam PL/ 'phang ngam DC/ *sa 'ngam N&amp;gt; gnas sam gom pa</tib>
-    <refs/>
+    <tib>tshig gam go phang ngam gnas sam gom pa</tib>
+    <refs>
+      <ref>O0312</ref>
+    </refs>
   </entry>
   <entry id="mv6783">
     <coll>Mv6783</coll>
-    <mng>nam baγulaqu</mng>
+    <mng>ᠨᠠᠮ ᠪᠠᠭᠤᠯᠠᠬᠤ</mng>
     <mng2></mng2>
     <page></page>
     <skt>saṁvāhanam</skt>
-    <tib>&amp;lt;cam du 'debs pa L/ tsham du 'bebs pa DC/ -PN&amp;gt;</tib>
-    <refs/>
+    <tib>cam du 'debs pa</tib>
+    <refs>
+      <ref>N0409</ref>
+      <ref>B0324</ref>
+    </refs>
   </entry>
   <entry id="mv6785">
     <coll>Mv6785</coll>
-    <mng>arciqu</mng>
-    <mng2>arciqui</mng2>
+    <mng>ᠠᠷᠴᠢᠬᠤ</mng>
+    <mng2>ᠠᠷᠴᠢᠬᠤᠢ</mng2>
     <page></page>
     <skt>sammārjanam</skt>
-    <tib>&amp;lt;phyag / 'phyag L&amp;gt; pa</tib>
-    <refs/>
+    <tib>phyag pa</tib>
+    <refs>
+      <ref>A4443</ref>
+    </refs>
   </entry>
   <entry id="mv6786">
     <coll>Mv6786</coll>
-    <mng>uγtulyγ-a</mng>
-    <mng2>uγtulqui</mng2>
+    <mng>ᠤᠭᠲᠤᠯᠭ᠎ᠠ</mng>
+    <mng2>ᠤᠭᠲᠤᠯᠬᠤᠢ</mng2>
     <page></page>
     <skt>pratyudgamanam</skt>
-    <tib>bsu &amp;lt;ba -DC&amp;gt;</tib>
-    <refs/>
+    <tib>bsu ba</tib>
+    <refs>
+      <ref>U0899</ref>
+      <ref>U0902a</ref>
+    </refs>
   </entry>
   <entry id="mv6787">
     <coll>Mv6787</coll>
-    <mng>uγtuju üiledkü</mng>
-    <mng2>uγtun üiledküi</mng2>
+    <mng>ᠤᠭᠲᠤᠵᠤ ᠦᠢᠯᠡᠳᠺᠦ</mng>
+    <mng2>ᠤᠭᠲᠤᠨ ᠦᠢᠯᠡᠳᠺᠦᠢ</mng2>
     <page></page>
     <skt>pratyudgamya</skt>
-    <tib>bsu &amp;lt;nas DCL/ *gnas PN&amp;gt;</tib>
-    <refs/>
+    <tib>bsu nas</tib>
+    <refs>
+      <ref>U0864</ref>
+    </refs>
   </entry>
   <entry id="mv6788">
     <coll>Mv6788</coll>
-    <mng>buyu biraman</mng>
-    <mng2>babiraman</mng2>
+    <mng>ᠪᠤᠶᠤ ᠪᠢᠷᠠᠮᠠᠨ</mng>
+    <mng2>ᠪᠠ ᠪᠢᠷᠠᠮᠠᠨ</mng2>
     <page></page>
     <skt>dvijāḥ</skt>
     <tib>bya'am bram ze</tib>
-    <refs/>
+    <refs>
+      <ref>B2493</ref>
+    </refs>
   </entry>
   <entry id="mv6789">
     <coll>Mv6789</coll>
-    <mng>ayimaγ buyu bülüg</mng>
-    <mng2>ayimaγ ba bülüg</mng2>
+    <mng>ᠠᠶᠢᠮᠠᠭ ᠪᠤᠶᠤ ᠪᠦᠯᠦᢉ</mng>
+    <mng2>ᠠᠶᠢᠮᠠᠭ ᠪᠠ ᠪᠦᠯᠦᢉ</mng2>
     <page></page>
     <skt>vargaḥ</skt>
-    <tib>sde'am &amp;lt;tshan PNL/ chan DC&amp;gt;</tib>
-    <refs/>
+    <tib>sde'am tshan</tib>
+    <refs>
+      <ref>B4455</ref>
+    </refs>
   </entry>
   <entry id="mv6790">
     <coll>Mv6790</coll>
-    <mng>niγuca</mng>
-    <mng2>niγuγsan</mng2>
+    <mng>ᠨᠢᠭᠤᠴᠠ</mng>
+    <mng2>ᠨᠢᠭᠤᠭᠰᠠᠨ</mng2>
     <page></page>
     <skt>guhyam</skt>
     <tib>gsang ba</tib>
-    <refs/>
+    <refs>
+      <ref>N1378</ref>
+      <ref>N1350</ref>
+    </refs>
   </entry>
   <entry id="mv6791">
     <coll>Mv6791</coll>
@@ -78943,341 +79110,422 @@
   </entry>
   <entry id="mv6792">
     <coll>Mv6792</coll>
-    <mng>egün ü ger bariqu caγ kürcü</mng>
-    <mng2>egüni ger bariqui-yin caγ-tur kürügsen</mng2>
+    <mng>ᠡᢉᠦᠨ᠎ᠤ ᢉᠡᠷ ᠪᠠᠷᠢᠬᠤ ᠴᠠᠭ ᠺᠦᠷᠴᠦ</mng>
+    <mng2>ᠡᢉᠦᠨᠢ ᢉᠡᠷ ᠪᠠᠷᠢᠬᠤᠢ᠎ᠶᠢᠨ ᠴᠠᠭ᠎ᠲᠤᠷ ᠺᠦᠷᠦᢉᠰᠡᠨ</mng2>
     <page></page>
     <skt>samayo 'sya niveśanadharmam kartum</skt>
-    <tib>'di'i khyim &amp;lt;dbub DCL/ phub P/ *bug N&amp;gt; pa'i dus la bab</tib>
+    <tib>'di'i khyim dbub pa'i dus la bab</tib>
     <refs/>
   </entry>
   <entry id="mv6793">
     <coll>Mv6793</coll>
-    <mng>asaraqu buyu qayiralaqu sedkil buyu masi inaγlaqu</mng>
-    <mng2>asaraqui ba jobacan sedkiküi ba bayasqui</mng2>
+    <mng>ᠠᠰᠠᠷᠠᠬᠤ ᠪᠤᠶᠤ ᠬᠠᠶᠢᠷᠠᠯᠠᠬᠤ ᠰᠡᠳᠺᠢᠯ ᠪᠤᠶᠤ ᠮᠠᠰᠢ ᠢᠨᠠᠭᠯᠠᠬᠤ</mng>
+    <mng2>ᠠᠰᠠᠷᠠᠬᠤᠢ ᠪᠠ ᠵᠣᠪᠠᠴᠠᠨ ᠰᠡᠳᠺᠢᠺᠦᠢ ᠪᠠ ᠪᠠᠶᠠᠰᠬᠤᠢ</mng2>
     <page></page>
     <skt>vatsalaḥ</skt>
-    <tib>&amp;lt;byams DCL/ *byas PN&amp;gt; pa'am sdug par sems &amp;lt;pa'am / *dpa'am N&amp;gt; mnyes &amp;lt;gshin / *bshin L&amp;gt; pa</tib>
-    <refs/>
+    <tib>byams pa'am sdug par sems pa'am mnyes gshin pa</tib>
+    <refs>
+      <ref>A1764</ref>
+      <ref>I0042</ref>
+    </refs>
   </entry>
   <entry id="mv6794">
     <coll>Mv6794</coll>
-    <mng>tulγan u jerge ba kiritei</mng>
-    <mng2>öber-e baγulyaqui ba cineglekü</mng2>
+    <mng>ᠲᠤᠯᠭᠠᠨ᠎ᠤ ᠵᠡᠷᢉᠡ ᠪᠠ ᠺᠢᠷᠢᠲᠡᠢ</mng>
+    <mng2>ᠥᠪᠡᠷ᠎ᠡ ᠪᠠᠭᠤᠯᠭᠠᠬᠤᠢ ᠪᠠ ᠴᠢᠨᠡᢉᠯᠡᠺᠦ</mng2>
     <page></page>
     <skt>pratirūpaḥ</skt>
-    <tib>(?) thab &amp;lt;rir / rim L&amp;gt; &amp;lt;bab / ba N&amp;gt; pa'am &amp;lt;'tsham DCL/ mtsham P/ mtshams N&amp;gt; pa</tib>
-    <refs/>
+    <tib>thab rir bab pa'am 'tsham pa</tib>
+    <refs>
+      <ref>T6956</ref>
+      <ref>K2611</ref>
+      <ref>B0326</ref>
+    </refs>
   </entry>
   <entry id="mv6795">
     <coll>Mv6795</coll>
-    <mng>ger ün sidar küriy-e süm-e ba subuγ-a-yin üy-e tü ciγulγaqu γajar üy-e orcin-a nereyidkü</mng>
-    <mng2>ger ün küriy-e süm-e ba suburγan u ucir-tur engke ba ergikül orun ba oyir-a orcin-i nereyidküi</mng2>
+    <mng>ᢉᠡᠷ᠎ᠤᠨ ᠰᠢᠳᠠᠷ ᠺᠦᠷᠢᠶ᠎ᠡ ᠰᠦᠮ᠎ᠡ ᠪᠠ ᠰᠤᠪᠤᠭ᠎ᠠ᠎ᠶᠢᠨ ᠦᠶ᠎ᠡ᠎ᠲᠦ ᠴᠢᠭᠤᠯᠭᠠᠬᠤ ᠭᠠᠵᠠᠷ ᠦᠶ᠎ᠡ ᠣᠷᠴᠢᠨ᠎ᠠ ᠨᠡᠷᠡᠶᠢᠳᠺᠦ</mng>
+    <mng2>ᢉᠡᠷ᠎ᠤᠨ ᠺᠦᠷᠢᠶ᠎ᠡ ᠰᠦᠮ᠎ᠡ ᠪᠠ ᠰᠤᠪᠤᠷᠭᠠᠨ᠎ᠤ ᠤᠴᠢᠷ᠎ᠲᠤᠷ ᠡᠩᠺᠡ ᠪᠠ ᠡᠷᢉᠢᠺᠦᠯ ᠣᠷᠤᠨ ᠪᠠ ᠣᠶᠢᠷ᠎ᠠ ᠣᠷᠴᠢᠨ᠎ᠢ ᠨᠡᠷᠡᠶᠢᠳᠺᠦᠢ</mng2>
     <page></page>
     <skt>gṛhāṅganam</skt>
-    <tib>{+ khyim gyi &amp;lt;dang PN/ gting L2&amp;gt; &amp;lt;ra PN/ ra' L&amp;gt; -DC} lha khang ngam mchod rten gyi skabs su ni &amp;lt;ang DCL/ an PN&amp;gt; ga na 'khor &amp;lt;sa'am DCL/ ba'am PN&amp;gt; nye 'khor du gdags</tib>
+    <tib>khyim gyi dang ra lha khang ngam mchod rten gyi skabs su ni ang ga na 'khor sa'am nye 'khor du gdags</tib>
     <refs/>
   </entry>
   <entry id="mv6796">
     <coll>Mv6796</coll>
-    <mng>dalai-yin töb buyu qaγaly-a ba gegün ü aman</mng>
-    <mng2>dalai-yin soi toki (?) qaγalyγ-a ba gegün ü aman</mng2>
+    <mng>ᠳᠠᠯᠠᠢ᠎ᠶᠢᠨ ᠲᠥᠪ ᠪᠤᠶᠤ ᠬᠠᠭᠠᠯᠭ᠎ᠠ ᠪᠠ ᢉᠡᢉᠦᠨ᠎ᠤ ᠠᠮᠠᠨ</mng>
+    <mng2>ᠳᠠᠯᠠᠢ᠎ᠶᠢᠨ ᠰᠣᠢ ᠲᠣᠺᠢ ᠬᠠᠭᠠᠯᠭ᠎ᠠ ᠪᠠ ᢉᠡᢉᠦᠨ᠎ᠤ ᠠᠮᠠᠨ</mng2>
     <page></page>
-    <skt>vaḍabāmukhāḥ [-vā- S]</skt>
-    <tib>&amp;lt;+ khyim gyi dgar DC&amp;gt; rgya mtsho'i klong &amp;lt;+ gi DC&amp;gt; &amp;lt;grong gi / *ngam L&amp;gt; &amp;lt;sgo'am / *sgo'i P&amp;gt; rta &amp;lt;rgod / *rkod N&amp;gt; ma'i kha</tib>
-    <refs/>
+    <skt>vaḍabāmukhāḥ</skt>
+    <tib>khyim gyi dgar rgya mtsho'i klong gi grong gi sgo'am rta rgod ma'i kha</tib>
+    <refs>
+      <ref>Q0581</ref>
+      <ref>K1261</ref>
+    </refs>
   </entry>
   <entry id="mv6797">
     <coll>Mv6797</coll>
-    <mng>quduγ-a</mng>
-    <mng2>quduγ-a</mng2>
+    <mng>ᠬᠤᠳᠤᠷᠭ᠎ᠠ</mng>
+    <mng2>ᠬᠤᠳᠤᠷᠭ᠎ᠠ</mng2>
     <page></page>
     <skt>kulaśūlkam</skt>
     <tib>gnyod</tib>
-    <refs/>
+    <refs>
+      <ref>Q5372</ref>
+    </refs>
   </entry>
   <entry id="mv6798">
     <coll>Mv6798</coll>
-    <mng>qajiyar un jiluγ-a</mng>
-    <mng2>cilbur jiluγ-a</mng2>
+    <mng>ᠬᠠᠵᠢᠶᠠᠷ᠎ᠤᠨ ᠵᠢᠯᠤᠭ᠎ᠠ</mng>
+    <mng2>ᠴᠢᠯᠪᠤᠷ ᠵᠢᠯᠤᠭ᠎ᠠ</mng2>
     <page></page>
     <skt>raśnmiḥ, pragrahaḥ</skt>
     <tib>srab skyogs</tib>
-    <refs/>
+    <refs>
+      <ref>Q2788</ref>
+      <ref>Y3026</ref>
+    </refs>
   </entry>
   <entry id="mv6800">
     <coll>Mv6800</coll>
-    <mng>türügülen</mng>
-    <mng2>orui bar qadquγsan</mng2>
+    <mng>ᠲᠦᠷᠦᢉᠦᠯᠡᠨ</mng>
+    <mng2>ᠣᠷᠤᠢ ᠪᠠᠷ ᠬᠠᠳᠬᠤᠭᠰᠠᠨ</mng2>
     <page></page>
     <skt>avamūrdhakāḥ</skt>
-    <tib>spyi'u &amp;lt;tshugs / *chugs N&amp;gt;</tib>
-    <refs/>
+    <tib>spyi'u tshugs</tib>
+    <refs>
+      <ref>T9369</ref>
+    </refs>
   </entry>
   <entry id="mv6801">
     <coll>Mv6801</coll>
-    <mng>cibiltü</mng>
-    <mng2>kilince tü</mng2>
+    <mng>ᠴᠢᠪᠢᠯᠲᠦ</mng>
+    <mng2>ᠺᠢᠯᠢᠨᠴᠡ᠎ᠲᠦ</mng2>
     <page></page>
     <skt>pātakī</skt>
-    <tib>sdig to &amp;lt;can DC/ pa L/ -PN&amp;gt;</tib>
-    <refs/>
+    <tib>sdig to can</tib>
+    <refs>
+      <ref>C1643</ref>
+      <ref>K2047</ref>
+    </refs>
   </entry>
   <entry id="mv6802">
     <coll>Mv6802</coll>
-    <mng>olangkin</mng>
-    <mng2>qaracus eke</mng2>
+    <mng>ᠣᠯᠠᠩᠺᠢᠨ</mng>
+    <mng2>ᠬᠠᠷᠠᠴᠤᠰ ᠡᠺᠡ</mng2>
     <page></page>
     <skt>vṛṣalī</skt>
-    <tib>&amp;lt;dmangs / *dmang L&amp;gt; mo</tib>
-    <refs/>
+    <tib>dmangs mo</tib>
+    <refs>
+      <ref>U1525</ref>
+      <ref>Q3324</ref>
+    </refs>
   </entry>
   <entry id="mv6803">
     <coll>Mv6803</coll>
-    <mng>üsügtümodun</mng>
-    <mng2>bicig ün modun</mng2>
+    <mng>ᠦᠰᠦᢉᠲᠦ ᠮᠣᠳᠤᠨ</mng>
+    <mng2>ᠪᠢᠴᠢᢉ᠎ᠤᠨ ᠮᠣᠳᠤᠨ</mng2>
     <page></page>
     <skt>lipīphalākaḥ</skt>
-    <tib>&amp;lt;yi PNL/ *mi DC&amp;gt; ge shing</tib>
+    <tib>yi ge shing</tib>
     <refs/>
   </entry>
   <entry id="mv6804">
     <coll>Mv6804</coll>
-    <mng>belge buyu iru-a</mng>
-    <mng2>belge ba iru-a</mng2>
+    <mng>ᠪᠡᠯᢉᠡ ᠪᠤᠶᠤ ᠢᠷᠤ᠎ᠠ</mng>
+    <mng2>ᠪᠡᠯᢉᠡ ᠪᠠ ᠢᠷᠤ᠎ᠠ</mng2>
     <page></page>
     <skt>nimittam</skt>
     <tib>mtshan ma'am ltas</tib>
-    <refs/>
+    <refs>
+      <ref>I1132</ref>
+    </refs>
   </entry>
   <entry id="mv6805">
     <coll>Mv6805</coll>
-    <mng>berke cidal tan buyu nisvanis tu</mng>
-    <mng2>berke-yi cidarci ba nisvanis</mng2>
+    <mng>ᠪᠡᠷᠺᠡ ᠴᠢᠳᠠᠯ-ᠲᠠᠨ ᠪᠤᠶᠤ ᠨᠢᠰᠸᠠᠨᠢᠰ᠎ᠲᠤ</mng>
+    <mng2>ᠪᠡᠷᠺᠡ᠎ᠶᠢ ᠴᠢᠳᠠᠭᠴᠢ ᠪᠠ ᠨᠢᠰᠸᠠᠨᠢᠰ</mng2>
     <page></page>
     <skt>tapasvi</skt>
     <tib>dka' thub can nam nyon mongs pa</tib>
-    <refs/>
+    <refs>
+      <ref>N1488</ref>
+      <ref>C1748</ref>
+    </refs>
   </entry>
   <entry id="mv6806">
     <coll>Mv6806</coll>
-    <mng>γatulqu berke ba dabaqu berke</mng>
+    <mng>ᠭᠠᠲᠤᠯᠬᠤ ᠪᠡᠷᠺᠡ ᠪᠠ ᠳᠠᠪᠠᠬᠤ ᠪᠡᠷᠺᠡ</mng>
     <mng2></mng2>
     <page></page>
     <skt>duḥsamatikramaḥ</skt>
-    <tib>&amp;lt;rgal DCL/ *rngal P/ *rnal N&amp;gt; &amp;lt;dka' -L&amp;gt; ba'am 'da' bar dka' ba</tib>
-    <refs/>
+    <tib>rgal dka' ba'am 'da' bar dka' ba</tib>
+    <refs>
+      <ref>Q1750</ref>
+    </refs>
   </entry>
   <entry id="mv6807">
     <coll>Mv6807</coll>
-    <mng>teke</mng>
-    <mng2>γoq-a</mng2>
+    <mng>ᠲᠡᠺᠡ</mng>
+    <mng2>ᠭᠣᠬ᠎ᠠ</mng2>
     <page></page>
     <skt>badiśaḥ [-śam S]</skt>
     <tib>mchil pa</tib>
-    <refs/>
+    <refs>
+      <ref>T4241</ref>
+      <ref>Q4398</ref>
+    </refs>
   </entry>
   <entry id="mv6808">
     <coll>Mv6808</coll>
-    <mng>sedkil-ece boluγsan buyu uyidqar</mng>
-    <mng2>sedkil cökegsen ba γuniqui</mng2>
+    <mng>ᠰᠡᠳᠺᠢᠯ᠎ᠡᠴᠡ ᠪᠣᠯᠤᠭᠰᠠᠨ ᠪᠤᠶᠤ ᠤᠶᠢᠳᠬᠠᠷ</mng>
+    <mng2>ᠰᠡᠳᠺᠢᠯ ᠴᠥᠺᠡᢉᠰᠡᠨ ᠪᠠ ᠭᠤᠨᠢᠬᠤᠢ</mng2>
     <page></page>
     <skt>udvignamānasaḥ</skt>
-    <tib>yid &amp;lt;'byung / byung L&amp;gt; ba'am skyo ba</tib>
-    <refs/>
+    <tib>yid 'byung ba'am skyo ba</tib>
+    <refs>
+      <ref>U2331</ref>
+      <ref>Q3990</ref>
+    </refs>
   </entry>
   <entry id="mv6809">
     <coll>Mv6809</coll>
-    <mng>qamuγ-a uyidqar</mng>
-    <mng2>qamuγ-a γuniqui</mng2>
+    <mng>ᠬᠠᠮᠤᠭ᠎ᠠ ᠤᠶᠢᠳᠬᠠᠷ</mng>
+    <mng2>ᠬᠠᠮᠤᠭ᠎ᠠ ᠭᠤᠨᠢᠬᠤᠢ</mng2>
     <page></page>
     <skt>saṁvegaḥ</skt>
-    <tib>kun &amp;lt;tu PN/ du DCL&amp;gt; skyo ba</tib>
-    <refs/>
+    <tib>kun tu skyo ba</tib>
+    <refs>
+      <ref>U2331</ref>
+      <ref>Q3990</ref>
+    </refs>
   </entry>
   <entry id="mv6810">
     <coll>Mv6810</coll>
-    <mng>sedkil-ece boluγsan</mng>
-    <mng2>sedkil tü boluγsan</mng2>
+    <mng>ᠰᠡᠳᠺᠢᠯ᠎ᠡᠴᠡ ᠪᠣᠯᠤᠭᠰᠠᠨ</mng>
+    <mng2>ᠰᠡᠳᠺᠢᠯ᠎ᠲᠦ ᠪᠣᠯᠤᠭᠰᠠᠨ</mng2>
     <page></page>
     <skt>nirvit</skt>
-    <tib>yid &amp;lt;'byung / byung L&amp;gt; ba --- **Page 322 (Mv-364)**</tib>
+    <tib>yid 'byung ba</tib>
     <refs/>
   </entry>
   <entry id="mv6811">
     <coll>Mv6811</coll>
-    <mng>sedkil uyidqar tu</mng>
+    <mng>ᠰᠡᠳᠺᠢᠯ ᠤᠶᠢᠳᠬᠠᠷ᠎ᠲᠤ</mng>
     <mng2></mng2>
     <page></page>
     <skt>udvegaḥ</skt>
-    <tib>&amp;lt;+ yid L&amp;gt; skyo &amp;lt;ba / bo N&amp;gt;</tib>
-    <refs/>
+    <tib>yid skyo ba</tib>
+    <refs>
+      <ref>U2337</ref>
+    </refs>
   </entry>
   <entry id="mv6812">
     <coll>Mv6812</coll>
-    <mng>oγuγata uyidqar buyu ülü bayasqu</mng>
-    <mng2>ülü bayasqui ba uyaraqui</mng2>
+    <mng>ᠣᠭᠤᠭᠠᠲᠠ ᠤᠶᠢᠳᠬᠠᠷ ᠪᠤᠶᠤ ᠦᠯᠦ ᠪᠠᠶᠠᠰᠬᠤ</mng>
+    <mng2>ᠦᠯᠦ ᠪᠠᠶᠠᠰᠬᠤᠢ ᠪᠠ ᠤᠶᠠᠷᠠᠬᠤᠢ</mng2>
     <page></page>
     <skt>parikhedaḥ</skt>
     <tib>yongs su skyo ba'am mi dga' ba</tib>
-    <refs/>
+    <refs>
+      <ref>U2331</ref>
+      <ref>U2275</ref>
+    </refs>
   </entry>
   <entry id="mv6813">
     <coll>Mv6813</coll>
-    <mng>oγuγata sedkil ülü tasuraqu</mng>
-    <mng2>oγuγata sedkil tasural ügei</mng2>
+    <mng>ᠣᠭᠤᠭᠠᠲᠠ ᠰᠡᠳᠺᠢᠯ ᠦᠯᠦ ᠲᠠᠰᠤᠷᠠᠬᠤ</mng>
+    <mng2>ᠣᠭᠤᠭᠠᠲᠠ ᠰᠡᠳᠺᠢᠯ ᠲᠠᠰᠤᠷᠠᠯ ᠦᢉᠡᠢ</mng2>
     <page></page>
     <skt>na paritasyati</skt>
-    <tib>yongs su &amp;lt;yi / *yam N&amp;gt; mi &amp;lt;chad pa DC/ chad PN/ 'chad L&amp;gt;</tib>
-    <refs/>
+    <tib>yongs su yi mi chad pa</tib>
+    <refs>
+      <ref>T1465</ref>
+    </refs>
   </entry>
   <entry id="mv6814">
     <coll>Mv6814</coll>
-    <mng>icenggüritü</mng>
-    <mng2>icenggüritü</mng2>
+    <mng>ᠢᠴᠡᠩᢉᠦᠷᠢᠲᠦ</mng>
+    <mng2>ᠢᠴᠡᠩᢉᠦᠷᠢᠲᠦ</mng2>
     <page></page>
-    <skt>hrepaṇam [-ṇaḥ S]</skt>
+    <skt>hrepaṇam</skt>
     <tib>ngo tsha ba</tib>
-    <refs/>
+    <refs>
+      <ref>I1342</ref>
+    </refs>
   </entry>
   <entry id="mv6815">
     <coll>Mv6815</coll>
-    <mng>oruqui buyu yabuqui buyu</mng>
-    <mng2>oruqui ba odqui ba</mng2>
+    <mng>ᠣᠷᠤᠬᠤᠢ ᠪᠤᠶᠤ ᠶᠠᠪᠤᠬᠤᠢ ᠪᠤᠶᠤ</mng>
+    <mng2>ᠣᠷᠤᠬᠤᠢ ᠪᠠ ᠣᠳᠬᠤᠢ ᠪᠠ</mng2>
     <page></page>
-    <skt>praskandhāḥ [-skandaḥ S]</skt>
+    <skt>praskandhāḥ</skt>
     <tib>'jug pa'am 'gro ba'am skem pa</tib>
     <refs/>
   </entry>
   <entry id="mv6816">
     <coll>Mv6816</coll>
-    <mng>ijilidkü</mng>
-    <mng2>qadaqui daduγsan</mng2>
+    <mng>ᠢᠵᠢᠯᠢᠳᠺᠦ</mng>
+    <mng2>ᠬᠠᠳᠠᠬᠤᠢ ᠳᠠᠳᠤᠭᠰᠠᠨ</mng2>
     <page></page>
     <skt>saṁstutaḥ</skt>
-    <tib>&amp;lt;'dris DCL/ 'gris PN&amp;gt; pa</tib>
-    <refs/>
+    <tib>'dris pa</tib>
+    <refs>
+      <ref>I0996</ref>
+    </refs>
   </entry>
   <entry id="mv6817">
     <coll>Mv6817</coll>
-    <mng>kimuγaγsan</mng>
-    <mng2>bayilduqu</mng2>
+    <mng>ᠺᠢᠮᠤᠷᠠᠭᠰᠠᠨ</mng>
+    <mng2>ᠪᠠᠶᠢᠯᠳᠤᠬᠤ</mng2>
     <page></page>
     <skt>kṣubdhaḥ</skt>
-    <tib>&amp;lt;'khrugs PNL/ 'khrug DC&amp;gt; pa</tib>
-    <refs/>
+    <tib>'khrugs pa</tib>
+    <refs>
+      <ref>K2328</ref>
+    </refs>
   </entry>
   <entry id="mv6819">
     <coll>Mv6819</coll>
-    <mng>qudqularγsan buyu samuγaγsan</mng>
-    <mng2>qadququi ba negciküi (?)</mng2>
+    <mng>ᠬᠤᠳᠬᠤᠯᠠᠭᠰᠠᠨ ᠪᠤᠶᠤ ᠰᠠᠮᠤᠷᠠᠭᠰᠠᠨ</mng>
+    <mng2>ᠬᠠᠳᠬᠤᠬᠤᠢ ᠪᠠ ᠨᠡᢉᠴᠢᠺᠦᠢ</mng2>
     <page></page>
     <skt>luditaḥ</skt>
-    <tib>dkrugs pa'am &amp;lt;(?) glongs pa DCL/ glong ba PN&amp;gt;</tib>
-    <refs/>
+    <tib>dkrugs pa'am glongs pa</tib>
+    <refs>
+      <ref>Q5395</ref>
+      <ref>S1278</ref>
+    </refs>
   </entry>
   <entry id="mv6820">
     <coll>Mv6820</coll>
-    <mng>caγ urbaqu</mng>
-    <mng2>caγ egüdkeküi</mng2>
+    <mng>ᠴᠠᠭ ᠤᠷᠪᠠᠬᠤ</mng>
+    <mng2>ᠴᠠᠭ ᠡᢉᠦᠳᠺᠡᠺᠦᠢ</mng2>
     <page></page>
-    <skt>rtuparivartaḥ</skt>
+    <skt>ṛtuparivartaḥ</skt>
     <tib>dus 'gyur</tib>
-    <refs/>
+    <refs>
+      <ref>U2981</ref>
+    </refs>
   </entry>
   <entry id="mv6821">
     <coll>Mv6821</coll>
-    <mng>ülü bolqu buyu ülü dutaqu buyu ülü saγuqu buyu ürgülji tasuraqu ügei</mng>
-    <mng2>ülü urbaqui ba ülü torqui ügei ba ülü saγuqu ba ürgülji tasural ügei</mng2>
+    <mng>ᠦᠯᠦ ᠪᠣᠯᠬᠤ ᠪᠤᠶᠤ ᠦᠯᠦ ᠳᠤᠲᠠᠬᠤ ᠪᠤᠶᠤ ᠦᠯᠦ ᠰᠠᠭᠤᠬᠤ ᠪᠤᠶᠤ ᠦᠷᢉᠦᠯᠵᠢ ᠲᠠᠰᠤᠷᠠᠬᠤ ᠦᢉᠡᠢ</mng>
+    <mng2>ᠦᠯᠦ ᠤᠷᠪᠠᠬᠤᠢ ᠪᠠ ᠦᠯᠦ ᠲᠣᠷᠬᠤᠢ ᠦᢉᠡᠢ ᠪᠠ ᠦᠯᠦ ᠰᠠᠭᠤᠬᠤ ᠪᠠ ᠦᠷᢉᠦᠯᠵᠢ ᠲᠠᠰᠤᠷᠠᠯ ᠦᢉᠡᠢ</mng2>
     <page></page>
     <skt>na viṣṭhihati</skt>
-    <tib>mi 'gyur ram mi thogs sam &amp;lt;mi / *ma L&amp;gt; &amp;lt;sdod DCL/ *bstod PN&amp;gt; dam rgyun mi &amp;lt;'chad DCP/ chad NL&amp;gt; pa</tib>
+    <tib>mi 'gyur ram mi thogs sam mi sdod dam rgyun mi 'chad</tib>
     <refs/>
   </entry>
   <entry id="mv6822">
     <coll>Mv6822</coll>
-    <mng>edüi tedüi süsüg</mng>
-    <mng2>edüi tedüiken süsüg tü</mng2>
+    <mng>ᠡᠳᠦᠢ ᠲᠡᠳᠦᠢ ᠰᠦᠰᠦᢉ</mng>
+    <mng2>ᠡᠳᠦᠢ ᠲᠡᠳᠦᠢᠺᠡᠨ ᠰᠦᠰᠦᢉ᠎ᠲᠦ</mng2>
     <page></page>
     <skt>avaramātrakaprasādaḥ</skt>
-    <tib>ngan &amp;lt;ngon / ngan N&amp;gt; tsam &amp;lt;gyi PNL/ *gyis DC&amp;gt; dad pa</tib>
-    <refs/>
+    <tib>ngan ngon tsam gyi dad pa</tib>
+    <refs>
+      <ref>S6592</ref>
+      <ref>S6595</ref>
+    </refs>
   </entry>
   <entry id="mv6823">
     <coll>Mv6823</coll>
-    <mng>medejü süsüglekü</mng>
-    <mng2>medeküi süsüg</mng2>
+    <mng>ᠮᠡᠳᠡᠵᠦ ᠰᠦᠰᠦᢉᠯᠡᠺᠦ</mng>
+    <mng2>ᠮᠡᠳᠡᠺᠦᠢ ᠰᠦᠰᠦᢉ</mng2>
     <page></page>
     <skt>avetyaprasādaḥ</skt>
-    <tib>&amp;lt;shes / *shas N&amp;gt; nas dad pa</tib>
-    <refs/>
+    <tib>shes nas dad pa</tib>
+    <refs>
+      <ref>S6592</ref>
+      <ref>S6599</ref>
+    </refs>
   </entry>
   <entry id="mv6824">
     <coll>Mv6824</coll>
-    <mng>qaγacal ügei süsüg</mng>
-    <mng2>ebderei ügei süsüg</mng2>
+    <mng>ᠬᠠᠭᠠᠴᠠᠯ ᠦᢉᠡᠢ ᠰᠦᠰᠦᢉ</mng>
+    <mng2>ᠡᠪᠳᠡᠷᠡᠯ ᠦᢉᠡᠢ ᠰᠦᠰᠦᢉ</mng2>
     <page></page>
     <skt>abhedyaprasādaḥ</skt>
     <tib>dad pa mi phyed pa</tib>
-    <refs/>
+    <refs>
+      <ref>Q0607</ref>
+      <ref>S6592</ref>
+      <ref>E0420</ref>
+    </refs>
   </entry>
   <entry id="mv6825">
     <coll>Mv6825</coll>
-    <mng>jabsarlaqu</mng>
-    <mng2>jabsar tasulqui</mng2>
+    <mng>ᠵᠠᠪᠰᠠᠷᠯᠠᠬᠤ</mng>
+    <mng2>ᠵᠠᠪᠰᠠᠷ ᠲᠠᠰᠤᠯᠬᠤᠢ</mng2>
     <page></page>
     <skt>simābandhāḥ</skt>
     <tib>mtshams bcad pa</tib>
-    <refs/>
+    <refs>
+      <ref>Y0796</ref>
+    </refs>
   </entry>
   <entry id="mv6826">
     <coll>Mv6826</coll>
-    <mng>duran luγ-a jokistu</mng>
-    <mng2>duran durjokistu</mng2>
+    <mng>ᠳᠤᠷᠠᠨ᠎ᠯᠤᠭ᠎ᠠ ᠵᠣᠺᠢᠰᠲᠤ</mng>
+    <mng2>ᠳᠤᠷᠠᠨ᠎ᠳᠤᠷ ᠵᠣᠺᠢᠰᠲᠤ</mng2>
     <page></page>
     <skt>mano'nukūlam</skt>
-    <tib>yid dang &amp;lt;'thad / *thad N&amp;gt; pa</tib>
-    <refs/>
+    <tib>yid dang 'thad pa</tib>
+    <refs>
+      <ref>T7598</ref>
+    </refs>
   </entry>
   <entry id="mv6827">
     <coll>Mv6827</coll>
-    <mng>taγalamjitu</mng>
-    <mng2>sedkill-dür oruqui</mng2>
+    <mng>ᠲᠠᠭᠠᠯᠠᠮᠵᠢᠲᠤ</mng>
+    <mng2>ᠰᠡᠳᠺᠢᠯ᠎ᠳᠦᠷ ᠣᠷᠤᠬᠤᠢ</mng2>
     <page></page>
     <skt>manāpaḥ</skt>
     <tib>yid du 'ong ba</tib>
-    <refs/>
+    <refs>
+      <ref>T0486</ref>
+    </refs>
   </entry>
   <entry id="mv6828">
     <coll>Mv6828</coll>
-    <mng>buyan u sadun bisirekü</mng>
-    <mng2>buyan u nökür baγsi-yin bisiregdeküi</mng2>
+    <mng>ᠪᠤᠶᠠᠨ᠎ᠤ ᠰᠠᠳᠤᠨ ᠪᠢᠰᠢᠷᠡᠺᠦ</mng>
+    <mng2>ᠪᠤᠶᠠᠨ᠎ᠤ ᠨᠥᠺᠦᠷ ᠪᠠᠭᠰᠢ᠎ᠶᠢᠨ ᠪᠢᠰᠢᠷᠡᢉᠳᠡᠺᠦᠢ</mng2>
     <page></page>
     <skt>kalyāṇamitrārāgaṇam</skt>
-    <tib>dge ba'i &amp;lt;bshes / *gshes L&amp;gt; gnyen &amp;lt;la mgu L/ mgu DC/ *la 'gu PN&amp;gt; bar bya ba</tib>
-    <refs/>
+    <tib>dge ba'i bshes gnyen la mgu bar bya ba</tib>
+    <refs>
+      <ref>B2172</ref>
+      <ref>B2174</ref>
+    </refs>
   </entry>
   <entry id="mv6829">
     <coll>Mv6829</coll>
-    <mng>öglige-yin orun</mng>
-    <mng2>öglige-yin orun</mng2>
+    <mng>ᠥᢉᠯᠢᢉᠡ᠎ᠶᠢᠨ ᠣᠷᠤᠨ</mng>
+    <mng2>ᠥᢉᠯᠢᢉᠡ᠎ᠶᠢᠨ ᠣᠷᠤᠨ</mng2>
     <page></page>
     <skt>dakṣiṇlyaḥ</skt>
     <tib>sbyin gnas</tib>
-    <refs/>
+    <refs>
+      <ref>O1715</ref>
+    </refs>
   </entry>
   <entry id="mv6830">
     <coll>Mv6830</coll>
-    <mng>maγad buruγu cinar tu</mng>
-    <mng2>buruγu bar maγadlaγsan</mng2>
+    <mng>ᠮᠠᠭᠠᠳ ᠪᠤᠷᠤᠭᠤ ᠴᠢᠨᠠᠷ᠎ᠲᠤ</mng>
+    <mng2>ᠪᠤᠷᠤᠭᠤ ᠪᠠᠷ ᠮᠠᠭᠠᠳᠯᠠᠭᠰᠠᠨ</mng2>
     <page></page>
     <skt>mithyātvaniyataḥ</skt>
     <tib>log pa nyid du nges pa</tib>
-    <refs/>
+    <refs>
+      <ref>B3915</ref>
+      <ref>M0265</ref>
+    </refs>
   </entry>
   <entry id="mv6831">
     <coll>Mv6831</coll>
-    <mng>üneker sayitur bayasqan üiledkü</mng>
-    <mng2>üneker sayitur bayasqan üiledküi</mng2>
+    <mng>ᠦᠨᠡᠺᠡᠷ ᠰᠠᠶᠢᠲᠤᠷ ᠪᠠᠶᠠᠰᠬᠠᠨ ᠦᠢᠯᠡᠳᠺᠦ</mng>
+    <mng2>ᠦᠨᠡᠺᠡᠷ ᠰᠠᠶᠢᠲᠤᠷ ᠪᠠᠶᠠᠰᠬᠠᠨ ᠦᠢᠯᠡᠳᠺᠦᠢ</mng2>
     <page></page>
     <skt>saṁpraharṣaṇam</skt>
     <tib>yang dag par rab tu dga' bar byed pa</tib>
@@ -79285,89 +79533,109 @@
   </entry>
   <entry id="mv6832">
     <coll>Mv6832</coll>
-    <mng>üneker qangγran üiledkü</mng>
-    <mng2>üneker qanun üiledküi</mng2>
+    <mng>ᠦᠨᠡᠺᠡᠷ ᠬᠠᠩᠭᠠᠨ ᠦᠢᠯᠡᠳᠺᠦ</mng>
+    <mng2>ᠦᠨᠡᠺᠡᠷ ᠬᠠᠨᠤᠨ ᠦᠢᠯᠡᠳᠺᠦᠢ</mng2>
     <page></page>
     <skt>saṁtosaγati</skt>
-    <tib>yang dag par tshim par byed &amp;lt;pa -PN&amp;gt;</tib>
-    <refs/>
+    <tib>yang dag par tshim par byed pa</tib>
+    <refs>
+      <ref>Q0289</ref>
+      <ref>Q0152</ref>
+    </refs>
   </entry>
   <entry id="mv6833">
     <coll>Mv6833</coll>
-    <mng>üneker bariγulqui buyu üiledkegülkü</mng>
-    <mng2>üneker bariγulqui ba üiledkegülküi</mng2>
+    <mng>ᠦᠨᠡᠺᠡᠷ ᠪᠠᠷᠢᠭᠤᠯᠬᠤᠢ ᠪᠤᠶᠤ ᠦᠢᠯᠡᠳᠺᠡᢉᠦᠯᠺᠦ</mng>
+    <mng2>ᠦᠨᠡᠺᠡᠷ ᠪᠠᠷᠢᠭᠤᠯᠬᠤᠢ ᠪᠠ ᠦᠢᠯᠡᠳᠺᠡᢉᠦᠯᠺᠦᠢ</mng2>
     <page></page>
     <skt>samādāpayati</skt>
-    <tib>yang dag par 'dzin du 'jug gam byed du 'jug &amp;lt;+ pa L2&amp;gt;</tib>
+    <tib>yang dag par 'dzin du 'jug gam byed du 'jug pa</tib>
     <refs/>
   </entry>
   <entry id="mv6834">
     <coll>Mv6834</coll>
-    <mng>üneker öndüridkekü (TEXT:ödüridkekü)</mng>
-    <mng2>üneker degejilegülküi (TEXT: degjigülküi)</mng2>
+    <mng>ᠦᠨᠡᠺᠡᠷ ᠥᠨᠳᠦᠷᠢᠳᠺᠡᠺᠦ</mng>
+    <mng2>ᠦᠨᠡᠺᠡᠷ ᠳᠡᢉᠡᠵᠢᠯᠡᢉᠦᠯᠺᠦᠢ</mng2>
     <page></page>
     <skt>samuttejanam</skt>
-    <tib>yang dag par &amp;lt;gzengs bstod DCN/ gzeng --- **Page 323 (Mv-365)** bstod P/ gzeng stod L&amp;gt;</tib>
-    <refs/>
+    <tib>yang dag par gzengs bstod</tib>
+    <refs>
+      <ref>O0315</ref>
+      <ref>T4336</ref>
+    </refs>
   </entry>
   <entry id="mv6835">
     <coll>Mv6835</coll>
-    <mng>üneker duradqu</mng>
-    <mng2>üneker duradqui</mng2>
+    <mng>ᠦᠨᠡᠺᠡᠷ ᠳᠤᠷᠠᠳᠬᠤ</mng>
+    <mng2>ᠦᠨᠡᠺᠡᠷ ᠳᠤᠷᠠᠳᠬᠤᠢ</mng2>
     <page></page>
     <skt>saṁcodanam</skt>
-    <tib>yang dag par &amp;lt;bskul / *bkul N&amp;gt; &amp;lt;+ ba L&amp;gt;</tib>
-    <refs/>
+    <tib>yang dag par bskul ba</tib>
+    <refs>
+      <ref>T7670</ref>
+    </refs>
   </entry>
   <entry id="mv6836">
     <coll>Mv6836</coll>
-    <mng>sir-a üsün ü nüken</mng>
-    <mng2>sir-a üsün ü nüke</mng2>
+    <mng>ᠰᠢᠷ᠎ᠠ ᠦᠰᠦᠨ᠎ᠤ ᠨᠦᠺᠡᠨ</mng>
+    <mng2>ᠰᠢᠷ᠎ᠠ ᠦᠰᠦᠨ᠎ᠤ ᠨᠦᠺᠡ</mng2>
     <page></page>
     <skt>romakūpaḥ</skt>
     <tib>ba spu'i khung bu</tib>
-    <refs/>
+    <refs>
+      <ref>N2645</ref>
+    </refs>
   </entry>
   <entry id="mv6837">
     <coll>Mv6837</coll>
-    <mng>qongγurcaγ buyu tobciraγu (TEXT:--γuu)</mng>
-    <mng2>ür-e ba qongγurcaγ</mng2>
+    <mng>ᠬᠣᠩᠭᠤᠷᠴᠠᠭ ᠪᠤᠶᠤ ᠲᠣᠪᠴᠢᠷᠠᠭᠤ</mng>
+    <mng2>ᠦᠷ᠎ᠡ ᠪᠠ ᠬᠣᠩᠭᠤᠷᠴᠠᠭ</mng2>
     <page></page>
     <skt>mañjari</skt>
-    <tib>snye ma'am &amp;lt;dog DCL/ *dogs PN&amp;gt; pa</tib>
-    <refs/>
+    <tib>snye ma'am dog pa</tib>
+    <refs>
+      <ref>Q4280</ref>
+      <ref>T6391</ref>
+    </refs>
   </entry>
   <entry id="mv6838">
     <coll>Mv6838</coll>
-    <mng>nomlaγsan buyu tegügsen buyu belgedegsen ba teyin büged ilyaqu</mng>
-    <mng2>ügüleküi ba quriyaqui ba belgedeküi ba teyin büged negekül</mng2>
+    <mng>ᠨᠣᠮᠯᠠᠭᠰᠠᠨ ᠪᠤᠶᠤ ᠲᠡᢉᠦᢉᠰᠡᠨ ᠪᠤᠶᠤ ᠪᠡᠯᢉᠡᠳᠡᢉᠰᠡᠨ ᠪᠠ ᠲᠡᠶᠢᠨ ᠪᠦᢉᠡᠳ ᠢᠯᠭᠠᠬᠤ</mng>
+    <mng2>ᠦᢉᠦᠯᠡᠺᠦᠢ ᠪᠠ ᠬᠤᠷᠢᠶᠠᠬᠤᠢ ᠪᠠ ᠪᠡᠯᢉᠡᠳᠡᠺᠦᠢ ᠪᠠ ᠲᠡᠶᠢᠨ ᠪᠦᢉᠡᠳ ᠨᠡᢉᠡᠺᠦᠢ</mng2>
     <page></page>
     <skt>vicitaḥ</skt>
-    <tib>&amp;lt;bdams pa'am DC/ gdams pa'am L/ *'dam ba'am P/ *'dams pa'am N&amp;gt; btus pa'am brtags pa'am rnam par &amp;lt;phye DPN/ *phyi C/ *dphye L&amp;gt; ba</tib>
+    <tib>bdams pa'am btus pa'am brtags pa'am rnam par phye ba</tib>
     <refs/>
   </entry>
   <entry id="mv6839">
     <coll>Mv6839</coll>
-    <mng>quriyaγsan</mng>
-    <mng2>dabqurliγ</mng2>
+    <mng>ᠬᠤᠷᠢᠶᠠᠭᠰᠠᠨ</mng>
+    <mng2>ᠳᠠᠪᠬᠤᠷᠯᠢᠭ</mng2>
     <page></page>
     <skt>nicitaḥ</skt>
-    <tib>&amp;lt;bsags / bstsags L&amp;gt; pa</tib>
-    <refs/>
+    <tib>bsags pa</tib>
+    <refs>
+      <ref>Q6940</ref>
+      <ref>T1190</ref>
+    </refs>
   </entry>
   <entry id="mv6840">
     <coll>Mv6840</coll>
-    <mng>tügekü buyu tügemel buyu delgerekü</mng>
-    <mng2>örbidküi ba tügemel ba delgerenggüi</mng2>
+    <mng>ᠲᠦᢉᠡᠺᠦ ᠪᠤᠶᠤ ᠲᠦᢉᠡᠮᠡᠯ ᠪᠤᠶᠤ ᠳᠡᠯᢉᠡᠷᠡᠺᠦ</mng>
+    <mng2>ᠥᠷᠪᠢᠳᠺᠦᠢ ᠪᠠ ᠲᠦᢉᠡᠮᠡᠯ ᠪᠠ ᠳᠡᠯᢉᠡᠷᠡᠩᢉᠦᠢ</mng2>
     <page></page>
     <skt>prasāritaḥ</skt>
-    <tib>&amp;lt;mched PL/ *mchod DC/ *mchad N&amp;gt; pa'am &amp;lt;khyab L/ khebs DCPN&amp;gt; pa'am rgyas pa</tib>
-    <refs/>
+    <tib>mched pa'am khyab pa'am rgyas pa</tib>
+    <refs>
+      <ref>T8999</ref>
+      <ref>T8989</ref>
+      <ref>O2064</ref>
+    </refs>
   </entry>
   <entry id="mv6841">
     <coll>Mv6841</coll>
-    <mng>teyin büged aldarsiqu</mng>
-    <mng2>teyin büged aldersiyγsan</mng2>
+    <mng>ᠲᠡᠶᠢᠨ ᠪᠦᢉᠡᠳ ᠠᠯᠳᠠᠷᠰᠢᠬᠤ</mng>
+    <mng2>ᠲᠡᠶᠢᠨ ᠪᠦᢉᠡᠳ ᠠᠯᠳᠠᠷᠰᠢᠭᠰᠠᠨ</mng2>
     <page></page>
     <skt>vighuṣṭaḥ, vikhyātaḥ</skt>
     <tib>rnam par grags pa</tib>
@@ -79375,26 +79643,26 @@
   </entry>
   <entry id="mv6843">
     <coll>Mv6843</coll>
-    <mng>üneker bütügsen buyu oluγsan</mng>
+    <mng>ᠦᠨᠡᠺᠡᠷ ᠪᠦᠲᠦᢉᠰᠡᠨ ᠪᠤᠶᠤ ᠣᠯᠤᠭᠰᠠᠨ</mng>
     <mng2></mng2>
     <page></page>
     <skt>samudāgamaḥ</skt>
-    <tib>yang dag par &amp;lt;'grub / *grub L2&amp;gt; pa'am &amp;lt;'thob / *thob L&amp;gt; pa</tib>
+    <tib>yang dag par 'grub pa'am 'thob pa</tib>
     <refs/>
   </entry>
   <entry id="mv6844">
     <coll>Mv6844</coll>
-    <mng>üneker bütükü buyu olqu</mng>
-    <mng2>üneker bütügsen ba oluγsan</mng2>
+    <mng>ᠦᠨᠡᠺᠡᠷ ᠪᠦᠲᠦᠺᠦ ᠪᠤᠶᠤ ᠣᠯᠬᠤ</mng>
+    <mng2>ᠦᠨᠡᠺᠡᠷ ᠪᠦᠲᠦᢉᠰᠡᠨ ᠪᠠ ᠣᠯᠤᠭᠰᠠᠨ</mng2>
     <page></page>
     <skt>samudgataḥ</skt>
-    <tib>yang dag par &amp;lt;grub / *'grub L&amp;gt; pa'am &amp;lt;thob / *'thob L&amp;gt; pa</tib>
+    <tib>yang dag par grub pa'am thob pa</tib>
     <refs/>
   </entry>
   <entry id="mv6845">
     <coll>Mv6845</coll>
-    <mng>yirtincü ebderekü</mng>
-    <mng2>yirtincü ebdeküi</mng2>
+    <mng>ᠶᠢᠷᠲᠢᠨᠴᠦ ᠡᠪᠳᠡᠷᠡᠺᠦ</mng>
+    <mng2>ᠶᠢᠷᠲᠢᠨᠴᠦ ᠡᠪᠳᠡᠺᠦᠢ</mng2>
     <page></page>
     <skt>lokavibhavaḥ</skt>
     <tib>'jig rten 'jig pa</tib>
@@ -79402,8 +79670,8 @@
   </entry>
   <entry id="mv6846">
     <coll>Mv6846</coll>
-    <mng>yirtincüegüdkü</mng>
-    <mng2>yirtincü boluγsan</mng2>
+    <mng>ᠶᠢᠷᠲᠢᠨᠴᠦ ᠡᢉᠦᠳᠺᠦ</mng>
+    <mng2>ᠶᠢᠷᠲᠢᠨᠴᠦ ᠪᠣᠯᠤᠭᠰᠠᠨ</mng2>
     <page></page>
     <skt>lokasaṁbhavaḥ</skt>
     <tib>'jig rten 'byung ba</tib>
@@ -79411,89 +79679,108 @@
   </entry>
   <entry id="mv6847">
     <coll>Mv6847</coll>
-    <mng>tngri tayiqu</mng>
-    <mng2>tngri-dür sacuqui</mng2>
+    <mng>ᠲᠩᠷᠢ ᠲᠠᠶᠢᠬᠤ</mng>
+    <mng2>ᠲᠩᠷᠢ᠎ᠳᠦᠷ ᠰᠠᠴᠤᠬᠤᠢ</mng2>
     <page></page>
     <skt>havyam</skt>
     <tib>lha la gtor ba</tib>
-    <refs/>
+    <refs>
+      <ref>T2366</ref>
+    </refs>
   </entry>
   <entry id="mv6848">
     <coll>Mv6848</coll>
-    <mng>onγud tayiqu</mng>
-    <mng2>ongγud-tur sacuraγsan</mng2>
+    <mng>ᠣᠩᠭᠤᠳ ᠲᠠᠶᠢᠬᠤ</mng>
+    <mng2>ᠣᠩᠭᠤᠳ᠎ᠲᠤᠷ ᠰᠠᠴᠤᠷᠠᠭᠰᠠᠨ</mng2>
     <page></page>
     <skt>kavyam</skt>
     <tib>mtshun la gtor ba</tib>
-    <refs/>
+    <refs>
+      <ref>U0475</ref>
+    </refs>
   </entry>
   <entry id="mv6849">
     <coll>Mv6849</coll>
-    <mng>deledkü</mng>
-    <mng2>janciqui</mng2>
+    <mng>ᠳᠡᠯᠡᠳᠺᠦ</mng>
+    <mng2>ᠵᠠᠨᠴᠢᠬᠤᠢ</mng2>
     <page></page>
     <skt>saṁkuṭṭakā</skt>
     <tib>brdung ba</tib>
-    <refs/>
+    <refs>
+      <ref>Y0078</ref>
+    </refs>
   </entry>
   <entry id="mv6850">
     <coll>Mv6850</coll>
-    <mng>yeketürgenbuyuyekequrdun</mng>
-    <mng2>yeke türgen ba yeke qurdun</mng2>
+    <mng>ᠶᠡᠺᠡ ᠲᠦᠷᢉᠡᠨ ᠪᠤᠶᠤ ᠶᠡᠺᠡ ᠬᠤᠷᠳᠤᠨ</mng>
+    <mng2>ᠶᠡᠺᠡ ᠲᠦᠷᢉᠡᠨ ᠪᠠ ᠶᠡᠺᠡ ᠬᠤᠷᠳᠤᠨ</mng2>
     <page></page>
     <skt>kṣiprataram</skt>
-    <tib>ches myur ba'am ches &amp;lt;mgyogs / 'gyogs P&amp;gt; pa</tib>
-    <refs/>
+    <tib>ches myur ba'am ches mgyogs pa</tib>
+    <refs>
+      <ref>T9530</ref>
+      <ref>Q7203</ref>
+    </refs>
   </entry>
   <entry id="mv6851">
     <coll>Mv6851</coll>
-    <mng>kücün buyu qurdun</mng>
-    <mng2>türgen qurdun ba alγun (?)</mng2>
+    <mng>ᠺᠦᠴᠦᠨ ᠪᠤᠶᠤ ᠬᠤᠷᠳᠤᠨ</mng>
+    <mng2>ᠲᠦᠷᢉᠡᠨ ᠬᠤᠷᠳᠤᠨ ᠪᠠ ᠠᠯᠭᠤᠨ</mng2>
     <page></page>
     <skt>vegaḥ</skt>
-    <tib>shugs sam &amp;lt;mgyogs / 'gyogs P&amp;gt; pa</tib>
-    <refs/>
+    <tib>shugs sam mgyogs pa</tib>
+    <refs>
+      <ref>Q7203</ref>
+    </refs>
   </entry>
   <entry id="mv6852">
     <coll>Mv6852</coll>
-    <mng>kücün-iyer buyu qurdun u tula</mng>
+    <mng>ᠺᠦᠴᠦᠨ᠎ᠢᠶᠡᠷ ᠪᠤᠶᠤ ᠬᠤᠷᠳᠤᠨ᠎ᠤ ᠲᠤᠯᠠ</mng>
     <mng2></mng2>
     <page></page>
     <skt>tarasā</skt>
-    <tib>shugs &amp;lt;kyis sam / *sam gyis sam L&amp;gt; &amp;lt;mgyogs / 'gyogs P&amp;gt; &amp;lt;pas L/ pa DCPN&amp;gt;</tib>
-    <refs/>
+    <tib>shugs kyis sam mgyogs pas</tib>
+    <refs>
+      <ref>Q7203</ref>
+    </refs>
   </entry>
   <entry id="mv6853">
     <coll>Mv6853</coll>
-    <mng>türgen</mng>
-    <mng2>=</mng2>
+    <mng>ᠲᠦᠷᢉᠡᠨ</mng>
+    <mng2></mng2>
     <page></page>
     <skt>āśu</skt>
     <tib>myur ba</tib>
-    <refs/>
+    <refs>
+      <ref>T9530</ref>
+    </refs>
   </entry>
   <entry id="mv6854">
     <coll>Mv6854</coll>
-    <mng>türgen</mng>
-    <mng2>=</mng2>
+    <mng>ᠲᠦᠷᢉᠡᠨ</mng>
+    <mng2></mng2>
     <page></page>
     <skt>śīghram</skt>
     <tib>myur ba</tib>
-    <refs/>
+    <refs>
+      <ref>T9530</ref>
+    </refs>
   </entry>
   <entry id="mv6855">
     <coll>Mv6855</coll>
-    <mng>qurdun</mng>
-    <mng2>=</mng2>
+    <mng>ᠬᠤᠷᠳᠤᠨ</mng>
+    <mng2></mng2>
     <page></page>
     <skt>javaḥ</skt>
     <tib>mgyogs pa</tib>
-    <refs/>
+    <refs>
+      <ref>Q7203</ref>
+    </refs>
   </entry>
   <entry id="mv6856">
     <coll>Mv6856</coll>
-    <mng>kücün buyu joriγsan</mng>
-    <mng2>kücün ba oγuraqui</mng2>
+    <mng>ᠺᠦᠴᠦᠨ ᠪᠤᠶᠤ ᠵᠣᠷᠢᠭᠰᠠᠨ</mng>
+    <mng2>ᠺᠦᠴᠦᠨ ᠪᠠ ᠣᠭᠤᠷᠠᠬᠤᠢ</mng2>
     <page></page>
     <skt>ākṣepaḥ</skt>
     <tib>shugs sam 'phen pa</tib>
@@ -79501,8 +79788,8 @@
   </entry>
   <entry id="mv6857">
     <coll>Mv6857</coll>
-    <mng>kücün buyu joriγsan</mng>
-    <mng2>kücün ba oγuraqui --- **Page 324 (Mv-366)**</mng2>
+    <mng>ᠺᠦᠴᠦᠨ ᠪᠤᠶᠤ ᠵᠣᠷᠢᠭᠰᠠᠨ</mng>
+    <mng2>ᠺᠦᠴᠦᠨ ᠪᠠ ᠣᠭᠤᠷᠠᠬᠤᠢ</mng2>
     <page></page>
     <skt>āvedhaḥ</skt>
     <tib>shugs sam 'phen pa</tib>
@@ -79510,84 +79797,106 @@
   </entry>
   <entry id="mv6858">
     <coll>Mv6858</coll>
-    <mng>kiciy-e üiledügsen buyu niγurlaγsan</mng>
-    <mng2>kiciyeküi ba nebterekül</mng2>
+    <mng>ᠺᠢᠴᠢᠶ᠎ᠡ ᠦᠢᠯᠡᠳᠦᢉᠰᠡᠨ ᠪᠤᠶᠤ ᠨᠢᠭᠤᠷᠯᠠᠭᠰᠠᠨ</mng>
+    <mng2>ᠺᠢᠴᠢᠶᠡᠺᠦᠢ ᠪᠠ ᠨᠡᠪᠲᠡᠷᠡᠺᠦᠢ</mng2>
     <page></page>
     <skt>prasabham</skt>
-    <tib>nan gyis sam ngo &amp;lt;'thon PL/ mthon DC/ *mton N&amp;gt;</tib>
-    <refs/>
+    <tib>nan gyis sam ngo 'thon</tib>
+    <refs>
+      <ref>K2467</ref>
+      <ref>N1393</ref>
+      <ref>N0954</ref>
+    </refs>
   </entry>
   <entry id="mv6859">
     <coll>Mv6859</coll>
-    <mng>daγurisqaγsan buyu ügülegsen</mng>
-    <mng2>aldarsiqui ba ügüleküi</mng2>
+    <mng>ᠳᠠᠭᠤᠷᠢᠰᠬᠠᠭᠰᠠᠨ ᠪᠤᠶᠤ ᠦᢉᠦᠯᠡᢉᠰᠡᠨ</mng>
+    <mng2>ᠠᠯᠳᠠᠷᠰᠢᠬᠤᠢ ᠪᠠ ᠦᢉᠦᠯᠡᠺᠦᠢ</mng2>
     <page></page>
     <skt>āmnātaḥ</skt>
     <tib>grags pa'am brjod pa</tib>
-    <refs/>
+    <refs>
+      <ref>T0777</ref>
+      <ref>A2628</ref>
+    </refs>
   </entry>
   <entry id="mv6860">
     <coll>Mv6860</coll>
-    <mng>bayasqan durasiqu buyu ciγulqu quraqu</mng>
-    <mng2>bayasqui durasiqu (TEXT:dursiqui) ciqula quraqui</mng2>
+    <mng>ᠪᠠᠶᠠᠰᠬᠠᠨ ᠳᠤᠷᠠᠰᠢᠬᠤ ᠪᠤᠶᠤ ᠴᠢᠭᠤᠯᠬᠤ ᠬᠤᠷᠠᠬᠤ</mng>
+    <mng2>ᠪᠠᠶᠠᠰᠬᠤᠢ ᠳᠤᠷᠠᠰᠢᠬᠤ ᠴᠢᠬᠤᠯᠠ ᠬᠤᠷᠠᠬᠤᠢ</mng2>
     <page></page>
     <skt>gosthī</skt>
-    <tib>&amp;lt;dge / *dga' L&amp;gt; 'dun nam tshogs &amp;lt;shing PNL/ *zhing DC&amp;gt; 'du ba</tib>
-    <refs/>
+    <tib>dge 'dun nam tshogs shing 'du ba</tib>
+    <refs>
+      <ref>T7627</ref>
+      <ref>Q6788</ref>
+    </refs>
   </entry>
   <entry id="mv6861">
     <coll>Mv6861</coll>
-    <mng>ijilidkü</mng>
-    <mng2>neyileküi</mng2>
+    <mng>ᠢᠵᠢᠯᠢᠳᠺᠦ</mng>
+    <mng2>ᠨᠡᠶᠢᠯᠡᠺᠦᠢ</mng2>
     <page></page>
     <skt>paricayaḥ</skt>
-    <tib>&amp;lt;'dris DCL/ *sbris P/ *spros N&amp;gt; pa</tib>
-    <refs/>
+    <tib>'dris pa</tib>
+    <refs>
+      <ref>I0996</ref>
+      <ref>N1215</ref>
+    </refs>
   </entry>
   <entry id="mv6862">
     <coll>Mv6862</coll>
-    <mng>janggidγusanbuyuqaldaγsan</mng>
-    <mng2>janggidqui baqubcasun</mng2>
+    <mng>ᠵᠠᠩᢉᠢᠳᠤᠭᠰᠠᠨ ᠪᠤᠶᠤ ᠬᠠᠯᠳᠠᠭᠰᠠᠨ</mng>
+    <mng2>ᠵᠠᠩᢉᠢᠳᠬᠤᠢ ᠪᠠ ᠬᠤᠪᠴᠠᠰᠤᠨ</mng2>
     <page></page>
     <skt>granthaḥ</skt>
     <tib>mdud pa'am gos</tib>
-    <refs/>
+    <refs>
+      <ref>Y0297</ref>
+    </refs>
   </entry>
   <entry id="mv6863">
     <coll>Mv6863</coll>
-    <mng>ilaγuγsan belge buyu aldarsiyγsan</mng>
-    <mng2>tuγ ba aldarsiyγsan</mng2>
+    <mng>ᠢᠯᠠᠭᠤᠭᠰᠠᠨ ᠪᠡᠯᢉᠡ ᠪᠤᠶᠤ ᠠᠯᠳᠠᠷᠰᠢᠭᠰᠠᠨ</mng>
+    <mng2>ᠲᠤᠭ ᠪᠠ ᠠᠯᠳᠠᠷᠰᠢᠭᠰᠠᠨ</mng2>
     <page></page>
     <skt>lalāmaḥ</skt>
     <tib>rgyal mtshan nam grags pa</tib>
-    <refs/>
+    <refs>
+      <ref>A2628</ref>
+    </refs>
   </entry>
   <entry id="mv6864">
     <coll>Mv6864</coll>
-    <mng>ekener ün bey-e-yin ecüs boluγsan</mng>
-    <mng2>ecüs ekener ün bey-e (TEXT:bar-a) boluγsan</mng2>
+    <mng>ᠡᠺᠡᠨᠡᠷ᠎ᠤᠨ ᠪᠡᠶ᠎ᠡ᠎ᠶᠢᠨ ᠡᠴᠦᠰ ᠪᠣᠯᠤᠭᠰᠠᠨ</mng>
+    <mng2>ᠡᠴᠦᠰ ᠡᠺᠡᠨᠡᠷ᠎ᠤᠨ ᠪᠡᠶ᠎ᠡ ᠪᠣᠯᠤᠭᠰᠠᠨ</mng2>
     <page></page>
     <skt>antimamātṛgrāmabhāvaḥ</skt>
-    <tib>bud med kyi lus kyi &amp;lt;tha / mtha' L&amp;gt; mar gyur pa</tib>
-    <refs/>
+    <tib>bud med kyi lus kyi tha mar gyur pa</tib>
+    <refs>
+      <ref>E1404</ref>
+    </refs>
   </entry>
   <entry id="mv6865">
     <coll>Mv6865</coll>
-    <mng>kübegün-ece kübegün bolqu-yin yosuγar</mng>
-    <mng2>kübegün-ece kübegün bolqu-yin yosun</mng2>
+    <mng>ᠺᠦᠪᠡᢉᠦᠨ᠎ᠡᠴᠡ ᠺᠦᠪᠡᢉᠦᠨ ᠪᠣᠯᠬᠤ᠎ᠶᠢᠨ ᠶᠣᠰᠤᠭᠠᠷ</mng>
+    <mng2>ᠺᠦᠪᠡᢉᠦᠨ᠎ᠡᠴᠡ ᠺᠦᠪᠡᢉᠦᠨ ᠪᠣᠯᠬᠤ᠎ᠶᠢᠨ ᠶᠣᠰᠤᠨ</mng2>
     <page></page>
     <skt>āṇipratyāṇinirhārayogeṇa</skt>
-    <tib>&amp;lt;khye'us -PN&amp;gt; khye'u 'byung ba'i tshul du</tib>
+    <tib>khye'us khye'u 'byung ba'i tshul du</tib>
     <refs/>
   </entry>
   <entry id="mv6866">
     <coll>Mv6866</coll>
-    <mng>bir-a luγ-a ese tobcilabasu bayatur tobcilabasu jiruketü buyu yeke kücütü</mng>
-    <mng2>bey-e kiged ese janggilabasu bayatur janggilabasu cidamarai yeke kücütü</mng2>
+    <mng>ᠪᠢᠷ᠎ᠠ᠎ᠯᠤᠭ᠎ᠠ ᠡᠰᠡ ᠲᠣᠪᠴᠢᠯᠠᠪᠠᠰᠤ ᠪᠠᠭᠠᠲᠤᠷ ᠲᠣᠪᠴᠢᠯᠠᠪᠠᠰᠤ ᠵᠢᠷᠦᠺᠡᠲᠦ ᠪᠤᠶᠤ ᠶᠡᠺᠡ ᠺᠦᠴᠦᠲᠦ</mng>
+    <mng2>ᠪᠡᠶ᠎ᠡ ᠺᠢᢉᠡᠳ ᠡᠰᠡ ᠵᠠᠩᢉᠢᠯᠠᠪᠠᠰᠤ ᠪᠠᠭᠠᠲᠤᠷ ᠵᠠᠩᢉᠢᠯᠠᠪᠠᠰᠤ ᠴᠢᠳᠠᠮᠠᠷᠠᠢ ᠶᠡᠺᠡ ᠺᠦᠴᠦᠲᠦ</mng2>
     <page></page>
     <skt>śūraḥ</skt>
-    <tib>&amp;lt;bi / 'bi L&amp;gt; ra dang ma &amp;lt;'dom DCL/ 'doms PN&amp;gt; na dpa' ba 'dom na &amp;lt;rtul che ba DC/ pa'am rtsal che ba L/ pa PN&amp;gt;</tib>
-    <refs/>
+    <tib>bi ra dang ma 'dom na dpa' ba 'dom na rtul che ba</tib>
+    <refs>
+      <ref>B2484</ref>
+      <ref>Y0303</ref>
+    </refs>
   </entry>
   <entry id="mv6867">
     <coll>Mv6867</coll>
