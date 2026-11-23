@@ -13611,7 +13611,7 @@
 <item><ref>O0628</ref><unicode>ᠥᠰᠥᠺᠠᠶᠢᠯᠳᠥᠺᠥᠯᠺᠥ</unicode><transcript>ösügeyildügülkü</transcript><transcript2>ösögeyildögölgö</transcript2><cyrillic>өсгийлдүүлэх</cyrillic></item>
 <item><ref>O0629</ref><unicode>ᠥᠰᠥᠺᠥ</unicode><transcript>üsükü</transcript><transcript2>ösögö</transcript2><cyrillic>үсэх</cyrillic></item>
 <item><ref>O0630</ref><unicode>ᠥᠰᠥᠺᠲᠠᠢ</unicode><transcript>üsügtei</transcript><transcript2>ösögdei</transcript2><cyrillic>үсэгтэй</cyrillic></item>
-<item><ref>O0631</ref><unicode>ᠥᠰᠥᠺᠲᠥ</unicode><transcript>üsügtü</transcript><transcript2>ösögdö</transcript2><cyrillic>үсэгт</cyrillic></item>
+<item><ref>O0631</ref><unicode>ᠥᠰᠥᠺᠲᠥ</unicode><transcript>üsügtü</transcript><transcript2>ösögdö</transcript2><cyrillic>үсэгт</cyrillic><variants><v t="unicode">ᠦᠰᠦᠭ ᠎ᠲᠦ</v></variants></item>
 <item><ref>O0632</ref><unicode>ᠥᠰᠥᠺᠯᠠᠯ</unicode><transcript>üsüglel</transcript><transcript2>ösöglel</transcript2><cyrillic>үсэглэл</cyrillic></item>
 <item><ref>O0633</ref><unicode>ᠥᠰᠥᠺᠯᠠᠴᠠᠺᠠᠺᠥ</unicode><transcript>üsüglečegekü</transcript><transcript2>ösöglecegegö</transcript2><cyrillic>үсэглэцгээх</cyrillic></item>
 <item><ref>O0634</ref><unicode>ᠥᠰᠥᠺᠯᠠᠴᠢᠺᠠᠺᠥ</unicode><transcript>üsüglečikekü</transcript><transcript2>ösöglecigegö</transcript2><cyrillic>үсэглэчихэх</cyrillic></item>
@@ -56348,8 +56348,8 @@
 <item><ref>C0853</ref><unicode>ᠴᠡᠩᠮ᠎ᠡ</unicode><transcript>čengm-e</transcript><transcript2>cengme</transcript2><cyrillic>цэмбэ</cyrillic><variants><v t="unicode">ᠴᠡᠩᠮᠡ</v><v t="unicode">ᠴᠡᠩᠮᠡᠨ</v><v t="cyrillic">цэмбэн</v></variants></item>
 <item><ref>C0854</ref><unicode>ᠴᠠᠩᠮᠠᠴᠢ</unicode><transcript>čengmeči</transcript><transcript2>cengmeci</transcript2><cyrillic></cyrillic></item>
 <item><ref>C0855</ref><unicode>ᠴᠠᠩᠺᠠᠯ</unicode><transcript>čenggel</transcript><transcript2>cenggel</transcript2><cyrillic>цэнгэл</cyrillic></item>
-<item><ref>C0856</ref><unicode>ᠴᠠᠩᠺᠠᠯᠲᠠᠢ</unicode><transcript>čenggeltei</transcript><transcript2>cenggeldei</transcript2><cyrillic>цэнгэлтэй</cyrillic></item>
-<item><ref>C0857</ref><unicode>ᠴᠠᠩᠺᠠᠯᠲᠥ</unicode><transcript>čenggeltü</transcript><transcript2>cenggeldö</transcript2><cyrillic>цэнгэлт</cyrillic></item>
+<item><ref>C0856</ref><unicode>ᠴᠠᠩᠺᠠᠯᠲᠠᠢ</unicode><transcript>čenggeltei</transcript><transcript2>cenggeldei</transcript2><cyrillic>цэнгэлтэй</cyrillic><variants><v t="unicode">ᠴᠡᠩᠭᠡᠯ ᠎ᠲᠡᠢ</v></variants></item>
+<item><ref>C0857</ref><unicode>ᠴᠠᠩᠺᠠᠯᠲᠥ</unicode><transcript></transcript><transcript2>cenggeldö</transcript2><cyrillic>цэнгэлт</cyrillic><variants><v t="unicode">ᠴᠡᠩᠭᠡᠯ ᠎ᠲᠦ</v></variants></item>
 <item><ref>C0858</ref><unicode>ᠴᠠᠩᠺᠠᠯᠳᠥᠯᠳᠥᠺᠥ</unicode><transcript>čenggeldüldükü</transcript><transcript2>cenggeldöldögö</transcript2><cyrillic></cyrillic></item>
 <item><ref>C0858</ref><unicode>ᠴᠠᠩᠺᠠᠯᠳᠥᠯᠳᠥᠺᠥ</unicode><transcript>čenggeldüldükü</transcript><transcript2>cenggeldöldögö</transcript2><cyrillic></cyrillic></item>
 <item><ref>C0859</ref><unicode>ᠴᠠᠩᠺᠠᠯᠳᠥᠯᠴᠠᠺᠥ</unicode><transcript>čenggeldülčekü</transcript><transcript2>cenggeldölcegö</transcript2><cyrillic></cyrillic></item>
@@ -56584,7 +56584,7 @@
 <item><ref>C1083</ref><unicode>ᠴᠠᠴᠠᠺᠲᠠᠢ</unicode><transcript>čečegtei</transcript><transcript2>cecegdei</transcript2><cyrillic>цэцэгтэй</cyrillic></item>
 <item><ref>C1084</ref><unicode>ᠴᠠᠴᠠᠺᠲᠠᠨ</unicode><transcript>čečegten</transcript><transcript2>cecegden</transcript2><cyrillic>цэцэгтэн</cyrillic></item>
 <item><ref>C1085</ref><unicode>ᠴᠠᠴᠠᠺᠲᠠᠺᠥ</unicode><transcript>čečegtekü</transcript><transcript2>cecegdegö</transcript2><cyrillic>цэцэгтэх</cyrillic></item>
-<item><ref>C1086</ref><unicode>ᠴᠠᠴᠠᠺᠲᠥ</unicode><transcript>čečegtü</transcript><transcript2>cecegdö</transcript2><cyrillic>цэцэгт</cyrillic></item>
+<item><ref>C1086</ref><unicode>ᠴᠠᠴᠠᠺᠲᠥ</unicode><transcript>čečegtü</transcript><transcript2>cecegdö</transcript2><cyrillic>цэцэгт</cyrillic><variants><v t="unicode">ᠴᠡᠴᠡᠭ ᠎ᠲᠦ</v></variants></item>
 <item><ref>C1087</ref><unicode>ᠴᠠᠴᠠᠺᠲᠥᠺᠥ</unicode><transcript>čečegtükü</transcript><transcript2>cecegdögö</transcript2><cyrillic>цэцэгтэх</cyrillic></item>
 <item><ref>C1088</ref><unicode>ᠴᠠᠴᠠᠺᠲᠥᠺᠥᠯᠺᠥ</unicode><transcript>čečegtügülkü</transcript><transcript2>cecegdögölgö</transcript2><cyrillic>цэцэгтүүлэх</cyrillic></item>
 <item><ref>C1089</ref><unicode>ᠴᠠᠴᠠᠺᠯᠠᠯ</unicode><transcript>čečeglel</transcript><transcript2>ceceglel</transcript2><cyrillic>цэцэглэл</cyrillic></item>
@@ -58112,7 +58112,7 @@
 <item><ref>C2554</ref><unicode>ᠴᠣᠩᠺᠢᠶᠠᠯ</unicode><transcript>čongkiyal</transcript><transcript2>conggiyal</transcript2><cyrillic>цонхиол</cyrillic></item>
 <item><ref>C2555</ref><unicode>ᠴᠣᠩᠺᠢᠷ</unicode><transcript>čongkir</transcript><transcript2>conggir</transcript2><cyrillic>цонхир</cyrillic></item>
 <item><ref>C2556</ref><unicode>ᠴᠣᠩᠺᠢᠷᠲᠣᠬᠣ</unicode><transcript>čongkirtuqu</transcript><transcript2>conggirdogo</transcript2><cyrillic>цонхиртох</cyrillic></item>
-<item><ref>C2557</ref><unicode>ᠴᠣᠬ</unicode><transcript>čoq</transcript><transcript2>cog</transcript2><cyrillic>цог</cyrillic></item>
+<item><ref>C2557</ref><unicode>ᠴᠣᠬ</unicode><transcript>čoγ</transcript><transcript2>cog</transcript2><cyrillic>цог</cyrillic></item>
 <item><ref>C2558</ref><unicode>ᠴᠣᠬ</unicode><transcript>čuγ</transcript><transcript2>cog</transcript2><cyrillic>цуг</cyrillic></item>
 <item><ref>C2559</ref><unicode>ᠴᠤᠬ ᠠ</unicode><transcript>čuq-a</transcript><transcript2>coga</transcript2><cyrillic></cyrillic><variants><v t="unicode">ᠴᠣᠬᠠ</v></variants></item>
 <item><ref>C2560</ref><unicode>ᠴᠣᠬᠠᠬ</unicode><transcript>čuqaγ</transcript><transcript2>cogag</transcript2><cyrillic>чухаг</cyrillic></item>
@@ -72860,4 +72860,10 @@
 <item><ref>Y5583</ref><unicode>ᠵᠠᠮᠪᠾᠠᠯᠠ</unicode><transcript>ǰambhala</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
 <item><ref>V0105</ref><unicode>ᠸᠠᠷᠠᠺᠢ</unicode><transcript>varaki</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
 <item><ref>I1342</ref><unicode>ᠢᠴᠡᠩᠭᠦᠷᠢᠲᠦ</unicode><transcript>ičenggüritü</transcript><transcript2></transcript2><cyrillic></cyrillic><variants><v t="unicode">ᠢᠴᠡᠩᠭᠦᠷᠢ ᠎ᠲᠦ</v></variants></item>
+<item><ref>S7198</ref><unicode>ᠰᠠᠯᠮᠠᠴᠢ</unicode><transcript>salmači</transcript><transcript2>salamci</transcript2><cyrillic></cyrillic></item>
+<item><ref>C3896</ref><unicode>ᠴᠠᠮᠤᠨᠳᠠᠷᠢ</unicode><transcript>čamundari</transcript><transcript2>camundari</transcript2><cyrillic></cyrillic></item>
+<item><ref>C3897</ref><unicode>ᠴᠠᠨᠳᠢᠺᠠ</unicode><transcript>čandika</transcript><transcript2>candika</transcript2><cyrillic></cyrillic></item>
+<item><ref>C3898</ref><unicode>ᠴᠠᠶᠢᠲᠢᠷ</unicode><transcript>čayitir</transcript><transcript2>cayitir</transcript2><cyrillic></cyrillic></item>
+<item><ref>C3899</ref><unicode>ᠴᠠᠶᠢᠲᠤᠷ</unicode><transcript>čayitur</transcript><transcript2>cayitur</transcript2><cyrillic></cyrillic></item>
+<item><ref>Q7499</ref><unicode>ᠬᠠᠷᠢᠭᠤᠯᠤᠭᠴᠢ</unicode><transcript>qariγuluγči</transcript><transcript2></transcript2><cyrillic></cyrillic></item>
 </list>

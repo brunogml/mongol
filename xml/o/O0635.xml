@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="O0635">
   <head>
     <unicode>ᠥᠰᠥᠺᠯᠠᠺᠥ</unicode>
@@ -10,7 +10,7 @@
     <ref>O0637</ref>
     <ref>O0638</ref>
     <ref>O0634</ref>
-  </derivatives>
+  <ref>O0632</ref><ref>O0633</ref></derivatives>
   <see_also>
     <ref>O0636</ref>
   </see_also>
@@ -80,4 +80,4 @@
       <page>627</page>
     </entry_item>
   </entries>
-</entry>
+<related_to><ref>O0617</ref></related_to></entry>
