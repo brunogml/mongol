@@ -7,6 +7,7 @@
   </head>
   <derivatives>
     <ref>C3890</ref>
+    <ref>C3900</ref>
   </derivatives>
   <entries>
     <entry_item>
@@ -31,4 +32,8 @@
       <page>1332</page>
     </entry_item>
   </entries>
-<see_also><ref>C1076</ref><ref>S2379</ref></see_also></entry>
+  <see_also>
+    <ref>C1076</ref>
+    <ref>S2379</ref>
+  </see_also>
+</entry>

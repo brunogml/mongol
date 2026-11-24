@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K2616">
   <head>
     <unicode>ᠺᠢᠷᠢᠯᠡᠺᠥ</unicode>
@@ -8,7 +8,7 @@
   </head>
   <derivatives>
     <ref>K2617</ref>
-  </derivatives>
+  <ref>K2615</ref></derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -34,9 +34,12 @@
     <entry_item>
       <dico>Kowalewski</dico>
       <unicode>ᠺᠢᠷᠢᠯᠡᠺᠦ</unicode>
-      <definition>1 égaliser, proportionner: 
-2 être modéré, tempéré, sobre: 
-3 déterminer le lieu, le temps: 
+      <definition>1 égaliser, proportionner: 
+
+2 être modéré, tempéré, sobre: 
+
+3 déterminer le lieu, le temps: 
+
 4 apprécier, évaluer.</definition>
       <page>2549</page>
       <examples>
@@ -107,4 +110,4 @@
       <page>678</page>
     </entry_item>
   </entries>
-</entry>
+<related_to><ref>K2608</ref></related_to></entry>

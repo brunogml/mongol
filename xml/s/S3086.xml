@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="S3086">
   <head>
     <unicode>ᠰᠢᠨᠣᠯᠲᠠᠢ</unicode>
@@ -9,6 +9,9 @@
   <see_also>
     <ref>S3087</ref>
   </see_also>
+  <related_to>
+    <ref>S3085</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -21,8 +24,8 @@
       <examples>
         <example>
           <unicode>ᠠᠷᠢᠶᠠᠲᠠᠨ ᠴᠢᠨᠤ᠎ᠠ ᠮᠡᠲᠦ ᠰᠢᠨᠣᠯᠲᠠᠢ</unicode>
-          <transcript>arijatan cinu-a mety -- </transcript>
-          <definition> As greedy as a rapacious wolf.</definition>
+          <transcript>arijatan cinu-a mety --</transcript>
+          <definition>As greedy as a rapacious wolf.</definition>
         </example>
       </examples>
     </entry_item>
@@ -37,7 +40,7 @@
       <dico>lamrd</dico>
       <unicode>ᠰᠢᠨᠣᠯᠲᠠᠢ</unicode>
       <cyrillic>ШУНАЛТАЙ</cyrillic>
-      <definition>1. шуналт-ыг үз., эдийн шуналтай падкий на вещи; шуналтай загасчин страстный рыбак; шуналтай харц жадный взор; 2. жадно; страстно; шуналтай унших зачитываться. </definition>
+      <definition>1. шуналт-ыг үз., эдийн шуналтай падкий на вещи; шуналтай загасчин страстный рыбак; шуналтай харц жадный взор; 2. жадно; страстно; шуналтай унших зачитываться.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -54,7 +57,4 @@
       <page>859</page>
     </entry_item>
   </entries>
-  <related_to>
-    <ref>S3085</ref>
-  </related_to>
 </entry>
