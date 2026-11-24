@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q5545">
   <head>
     <unicode>ᠬᠣᠯᠢᠴᠠᠭ᠎ᠠ</unicode>
@@ -19,12 +19,12 @@
         <example>
           <unicode>ᠬᠣᠯᠢᠴᠠᠭ᠎ᠠ ᠨᠡᠶᠢᠯᠡᠺᠦ</unicode>
           <transcript>-- neileky</transcript>
-          <definition> To mix blend.</definition>
+          <definition>To mix blend.</definition>
         </example>
         <example>
           <unicode>ᠬᠣᠯᠢᠴᠠᠭ᠎ᠠ ᠦᠭᠡᠢ</unicode>
           <transcript>-- ygei</transcript>
-          <definition> Without admixture, unadulterated, pure.</definition>
+          <definition>Without admixture, unadulterated, pure.</definition>
         </example>
       </examples>
     </entry_item>
@@ -59,14 +59,14 @@
       <dico>lamrd</dico>
       <unicode>ᠬᠣᠯᠢᠴᠠᠭ᠎ᠠ</unicode>
       <cyrillic>ХОЛЬЦОО</cyrillic>
-      <definition>примесь, смесь; сплав; лигатура; хольцоо ихтэй алт низкопробное золото. </definition>
+      <definition>примесь, смесь; сплав; лигатура; хольцоо ихтэй алт низкопробное золото.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠬᠣᠯᠢᠴᠠᠭ᠎ᠠ</unicode>
       <cyrillic>ХОЛЬЦООГҮЙ</cyrillic>
-      <definition>без примеси, не имеющий примеси, несмешанный, чистый, в чистом виде. </definition>
+      <definition>без примеси, не имеющий примеси, несмешанный, чистый, в чистом виде.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -83,4 +83,4 @@
       <page>687</page>
     </entry_item>
   </entries>
-</entry>
+<derivatives><ref>Q5546</ref><ref>Q5547</ref><ref>Q5548</ref></derivatives></entry>

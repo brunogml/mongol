@@ -5,11 +5,14 @@
     <transcript>taγalaltu</transcript>
     <transcript2>dagalaldo</transcript2>
     <cyrillic>таалалт</cyrillic>
-  </head><see_also>
+  </head>
+  <see_also>
     <ref>T0476</ref>
-  
     <ref>T0477</ref>
   </see_also>
+  <related_to>
+    <ref>T0475</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Kowalewski</dico>
@@ -24,4 +27,4 @@
       </examples>
     </entry_item>
   </entries>
-<related_to><ref>T0475</ref></related_to></entry>
+</entry>

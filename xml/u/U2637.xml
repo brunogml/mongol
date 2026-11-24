@@ -1,11 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="U2637">
   <head>
-    <unicode>ᠣᠷᠢᠶᠠᠩᠭᠣᠲᠣᠬᠣ</unicode>
-    <transcript>oriyangγutuqu</transcript>
-    <transcript2>oriyanggodogo</transcript2>
-    <cyrillic>ороонготох</cyrillic>
+    <unicode>ᠣᠷᠢᠶᠠᠩᠭᠣ</unicode>
+    <transcript>oriyangγu</transcript>
+    <transcript2>oriyanggo</transcript2>
+    <cyrillic>ороонго</cyrillic>
   </head>
+  <derivatives>
+    <ref>U2637c</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -19,12 +22,12 @@
         <example>
           <unicode>ᠠᠯᠲᠠᠨ ᠣᠷᠢᠶᠠᠩᠭᠣ ᠴᠡᠴᠡᠭ</unicode>
           <transcript>altan -- ceceg</transcript>
-          <definition> Kind of climbing plant (Tecoma grandiflora, Ch. ling-hsiao-hua).</definition>
+          <definition>Kind of climbing plant (Tecoma grandiflora, Ch. ling-hsiao-hua).</definition>
         </example>
         <example>
           <unicode>ᠦᠵᠦᠮ ᠤᠨ ᠣᠷᠢᠶᠠᠩᠭᠣ</unicode>
           <transcript>yzym yn --</transcript>
-          <definition> Grapevine.</definition>
+          <definition>Grapevine.</definition>
         </example>
       </examples>
     </entry_item>
@@ -49,24 +52,10 @@
       <page>820</page>
     </entry_item>
     <entry_item>
-      <dico>Chinese</dico>
-      <unicode>ᠣᠷᠢᠶᠠᠩᠭᠤᠲᠤᠬᠤ</unicode>
-      <cyrillic>ороонготох</cyrillic>
-      <definition>〔动〕缠绕，拉蔓.</definition>
-      <page>820</page>
-    </entry_item>
-    <entry_item>
-      <dico>lamrd</dico>
-      <unicode>ᠣᠷᠢᠶᠠᠩᠭᠣ</unicode>
-      <cyrillic>ОРООНГО</cyrillic>
-      <definition>1) вьющиеся цветочные растения; алтан ороонго ург. бегония; нангиад ороонго ург. повилика китайская; ороонго зэл ползучие растения; ороонго шар ург. повилика; 2) лоза; үзмийн ороонго виноградная лоза. </definition>
-      <page>0</page>
-    </entry_item>
-    <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠣᠷᠢᠶᠠᠩᠭᠣ</unicode>
       <cyrillic>ОРООНГУУ</cyrillic>
-      <definition>ороонго-ыг үз. </definition>
+      <definition>ороонго-ыг үз.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -82,6 +71,13 @@
       <cyrillic>ороонгуу</cyrillic>
       <definition>ороонго.</definition>
       <page>424</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠣᠷᠢᠶᠠᠩᠭᠣ</unicode>
+      <cyrillic>ОРООНГО</cyrillic>
+      <definition>1) вьющиеся цветочные растения; алтан ороонго ург. бегония; нангиад ороонго ург. повилика китайская; ороонго зэл ползучие растения; ороонго шар ург. повилика; 2) лоза; үзмийн ороонго виноградная лоза.</definition>
+      <page>0</page>
     </entry_item>
   </entries>
 </entry>

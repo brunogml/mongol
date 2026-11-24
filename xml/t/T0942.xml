@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T0942">
   <head>
     <unicode>ᠳᠠᠫᠠᠭᠠᠯᠠᠬᠣ</unicode>
@@ -8,7 +8,7 @@
   </head>
   <derivatives>
     <ref>T0943</ref>
-  </derivatives>
+  <ref>T0941</ref><ref>T0944</ref></derivatives>
   <entries>
     <entry_item>
       <dico>Chinese</dico>
@@ -32,4 +32,4 @@
       <page>174</page>
     </entry_item>
   </entries>
-</entry>
+<related_to><ref>T0932</ref></related_to></entry>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q5549">
   <head>
     <unicode>ᠬᠣᠯᠢᠴᠠᠬᠣ</unicode>
@@ -8,7 +8,7 @@
   </head>
   <derivatives>
     <ref>Q5550</ref>
-  </derivatives>
+  <ref>Q5552</ref></derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>

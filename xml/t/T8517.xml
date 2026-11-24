@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T8517">
   <head>
     <unicode>ᠲᠥᠰᠢᠯᠺᠠᠲᠠᠢ</unicode>
@@ -6,6 +6,12 @@
     <transcript2>dösilgedei</transcript2>
     <cyrillic>түшлэгтэй</cyrillic>
   </head>
+  <see_also>
+    <ref>T8518</ref>
+  </see_also>
+  <related_to>
+    <ref>T8516</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -19,7 +25,7 @@
         <example>
           <unicode>ᠲᠥᠰᠢᠯᠺᠠᠲᠠᠢ ᠰᠠᠨᠳᠠᠯᠢ</unicode>
           <transcript>-- sandali</transcript>
-          <definition> Chair with aback rest.</definition>
+          <definition>Chair with aback rest.</definition>
         </example>
       </examples>
     </entry_item>
@@ -34,7 +40,7 @@
       <dico>lamrd</dico>
       <unicode>ᠲᠥᠰᠢᠯᠺᠠᠲᠠᠢ</unicode>
       <cyrillic>ТҮШЛЭГТЭЙ</cyrillic>
-      <definition>имеющий спљнку; имеющий подпорку, опору, поддержку; со спљнкой; түшлэгтэй сандал кресло. </definition>
+      <definition>имеющий спљнку; имеющий подпорку, опору, поддержку; со спљнкой; түшлэгтэй сандал кресло.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>

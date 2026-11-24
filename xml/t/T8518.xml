@@ -6,6 +6,12 @@
     <transcript2>dösilgedö</transcript2>
     <cyrillic>түшлэгт</cyrillic>
   </head>
+  <see_also>
+    <ref>T8517</ref>
+  </see_also>
+  <related_to>
+    <ref>T8516</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -18,7 +24,7 @@
     <entry_item>
       <dico>Kowalewski</dico>
       <unicode>ᠳᠦᠰᠢᠯᠺᠡᠳᠤ</unicode>
-      <definition>avec un soutien, avec un appui: 2 fig. celui sur lequel on peut s&apos;appuyer ou compter.</definition>
+      <definition>avec un soutien, avec un appui: 2 fig. celui sur lequel on peut s'appuyer ou compter.</definition>
       <page>1912</page>
       <examples>
         <example>
@@ -27,7 +33,7 @@
         </example>
         <example>
           <unicode>ᠳᠦᠰᠢᠯᠺᠡᠳᠤ ᠳᠡᠪᠢᠰᠭᠡᠷ</unicode>
-          <definition>le dossier du fauteuil sur lequel on s&apos;appuie</definition>
+          <definition>le dossier du fauteuil sur lequel on s'appuie</definition>
         </example>
       </examples>
     </entry_item>
@@ -49,15 +55,14 @@
       <dico>lamrd</dico>
       <unicode>ᠲᠥᠰᠢᠯᠺᠠᠲᠥ</unicode>
       <cyrillic>ТҮШЛЭГТ</cyrillic>
-      <definition>1) түшлэгтэй-г үз.; 2) түшигтэй-г үз. </definition>
+      <definition>1) түшлэгтэй-г үз.; 2) түшигтэй-г үз.</definition>
       <page>0</page>
     </entry_item>
-  
-  <entry_item>
-    <dico>Vietze</dico>
-    <cyrillic>түшлэгт</cyrillic>
-    <definition>= тушигтэй</definition>
-    <page>246</page>
-  </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>түшлэгт</cyrillic>
+      <definition>= тушигтэй</definition>
+      <page>246</page>
+    </entry_item>
   </entries>
 </entry>

@@ -5,9 +5,13 @@
     <transcript>dangsatu</transcript>
     <transcript2>dangsado</transcript2>
     <cyrillic>данст</cyrillic>
-  </head><see_also>
+  </head>
+  <see_also>
     <ref>T0232</ref>
   </see_also>
+  <related_to>
+    <ref>T0230</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -38,4 +42,4 @@
       <page>390</page>
     </entry_item>
   </entries>
-<related_to><ref>T0230</ref></related_to></entry>
+</entry>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T1016">
   <head>
     <unicode>ᠲᠠᠪᠠᠺᠥᠶᠢᠷᠠᠺᠥ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>dabagöyiregö</transcript2>
     <cyrillic>тавгүйрэх</cyrillic>
   </head>
+  <related_to>
+    <ref>T1013</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Chinese</dico>
@@ -18,7 +21,7 @@
       <dico>lamrd</dico>
       <unicode>ᠲᠠᠪᠠᠺᠥᠶᠢᠷᠠᠺᠥ</unicode>
       <cyrillic>ТАВГҮЙРЭХ</cyrillic>
-      <definition>становљться капрљзным, беспокойным. </definition>
+      <definition>становљться капрљзным, беспокойным.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>

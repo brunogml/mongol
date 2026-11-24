@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T1013">
   <head>
     <unicode>ᠲᠠᠪᠠᠺᠥᠢ</unicode>
@@ -6,6 +6,13 @@
     <transcript2>dabagöi</transcript2>
     <cyrillic>тавгүй</cyrillic>
   </head>
+  <derivatives>
+    <ref>T1015</ref>
+    <ref>T1014</ref>
+    <ref>T1014b</ref>
+    <ref>T1016</ref>
+    <ref>T1017</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Chinese</dico>
@@ -18,7 +25,7 @@
       <dico>lamrd</dico>
       <unicode>ᠲᠠᠪᠠᠺᠥᠢ</unicode>
       <cyrillic>ТАВГҮЙ</cyrillic>
-      <definition>1. неудобный, неподходящий, неприятный, некстати, не вовремя; беспокойный, лишённый спокойствия; тавгүй цагаар ирэв не вовремя пришёл; 2. плохо себя чувствовать. </definition>
+      <definition>1. неудобный, неподходящий, неприятный, некстати, не вовремя; беспокойный, лишённый спокойствия; тавгүй цагаар ирэв не вовремя пришёл; 2. плохо себя чувствовать.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>

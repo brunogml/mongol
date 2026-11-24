@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T0230">
   <head>
     <unicode>ᠳᠠᠩᠰᠠ</unicode>
@@ -9,6 +9,12 @@
   <see_also>
     <ref>T0231</ref>
   </see_also>
+  <derivatives>
+    <ref>T0232</ref>
+    <ref>T0233</ref>
+    <ref>T0234</ref>
+    <ref>T0238</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -22,61 +28,61 @@
         <example>
           <unicode>ᠳᠠᠩᠰᠠ ᠪᠠᠷᠢᠬᠤ</unicode>
           <transcript>-- barixu</transcript>
-          <definition> To keep books or accounts.</definition>
+          <definition>To keep books or accounts.</definition>
         </example>
         <example>
           <unicode>ᠳᠠᠩᠰᠠ ᠪᠢᠴᠢᠭ</unicode>
           <transcript>-- bicig</transcript>
-          <definition> Register, catalog, list.</definition>
+          <definition>Register, catalog, list.</definition>
         </example>
         <example>
           <unicode>ᠳᠠᠩᠰᠠ ᠺᠥᠲᠦᠯᠦᠭᠴᠢ</unicode>
           <transcript>-- køtylygci</transcript>
-          <definition> Bookkeeper, clerk.</definition>
+          <definition>Bookkeeper, clerk.</definition>
         </example>
         <example>
           <unicode>ᠳᠠᠩᠰᠠᠨ ᠳ᠋‍‍ᠤ‍ᠷ ᠲᠡᠮᠳᠡᠭᠯᠡᠺᠦ</unicode>
           <transcript>--n dur temdegleky</transcript>
-          <definition> To register.</definition>
+          <definition>To register.</definition>
         </example>
         <example>
           <unicode>ᠳᠠᠩᠰᠠ ᠨᠡᠭᠡᠭᠡᠺᠦ</unicode>
           <transcript>-- negegeky</transcript>
-          <definition> To open an account.</definition>
+          <definition>To open an account.</definition>
         </example>
         <example>
           <unicode>ᠳᠠᠩᠰᠠ ᠲᠡᠮᠳᠡᠭᠯᠡᠺᠦ ᠲᠦᠰᠢᠮᠡᠯ</unicode>
           <transcript>-- temdegleky tysimel</transcript>
-          <definition> Archivist, recorder (obs.)</definition>
+          <definition>Archivist, recorder (obs.)</definition>
         </example>
         <example>
           <unicode>ᠳᠠᠩᠰᠠ ᠬᠠᠳᠠᠭᠠᠯᠭᠴᠢ ᠲᠦᠰᠢᠮᠡᠯ</unicode>
           <transcript>-- xadaγalaγci tysimel</transcript>
-          <definition> Archivist, recorder (obs.)</definition>
+          <definition>Archivist, recorder (obs.)</definition>
         </example>
         <example>
           <unicode>ᠠᠰᠢᠬ ᠪᠠ ᠠᠯᠳᠠᠪᠤᠷᠢ ᠎ᠶᠢᠨ ᠳᠠᠩᠰᠠ</unicode>
-          <transcript>asiγ [ba] aldaburi jin -- </transcript>
-          <definition> Account of balance of gains and losses</definition>
+          <transcript>asiγ [ba] aldaburi jin --</transcript>
+          <definition>Account of balance of gains and losses</definition>
         </example>
         <example>
           <unicode>ᠡᠳ ᠬᠣᠭᠰᠢᠯ ᠤᠨ ᠳᠠᠩᠰᠠ</unicode>
-          <transcript>ed xoγsil un -- </transcript>
-          <definition> Inventory.</definition>
+          <transcript>ed xoγsil un --</transcript>
+          <definition>Inventory.</definition>
         </example>
         <example>
           <unicode>ᠡᠺᠡ ᠰᠡᠷᠦᠩᠺᠡᠢ ᠳᠠᠩᠰᠠ</unicode>
-          <transcript>eke [jeryngkei] -- </transcript>
-          <definition> Ledger (in bookkeeping)</definition>
+          <transcript>eke [jeryngkei] --</transcript>
+          <definition>Ledger (in bookkeeping)</definition>
         </example>
         <example>
           <unicode>ᠮᠥᠩᠭᠤᠨ ᠤ ᠳᠠᠩᠰᠠ</unicode>
-          <transcript>mønggyn y – </transcript>
+          <transcript>mønggyn y –</transcript>
           <definition>Cash account</definition>
         </example>
         <example>
           <unicode>ᠵᠠᠷᠤᠯᠭ᠎ᠠ ᠎ᠶᠢᠨ ᠳᠠᠩᠰᠠ</unicode>
-          <transcript>zarulγ-a jin – </transcript>
+          <transcript>zarulγ-a jin –</transcript>
           <definition>Account of expenses or expenditures</definition>
         </example>
       </examples>
@@ -139,21 +145,21 @@
       <dico>lamrd</dico>
       <unicode>ᠳᠠᠩᠰᠠ</unicode>
       <cyrillic>ДАНС(АН)</cyrillic>
-      <definition>книга (бухгалтерская, кассовая, инвентарная); журнал (канцелярский); реестр, ведомость, список; счёт; дело; ашиг алдварын данс счёт прибылей и убытков; зээлдэн авсан зүйлийн данс счета кредиторов; зээлдэн өгсөн зүйлийн данс счета дебиторов; мөнгөний данс кассовая книга; хүүтэй хадгалсан мөнгөний данс счета переходящих сумм; нэрийн данс именной список; орлого зарлагын данс смета приходов и расходов; приходо-расходная книга, смета, бюджет; төсөвлөсөн данс смета, бюджет; үнэт цаасны данс счета ценных бумаг; хар данс хорш. а) книги, журналы (канцелярские, бухгалтерские); б) шилж. личные счета; харилцах данс текущий счёт; тусгай харилцах данс счёт особых поступлений; эд хогшлын данс инвентарная книга; данс бодох а) свести счёты; б) шилж. свести счёты с кем-л.; данс бүртгэл хорш. отчётность; санхүүгийн данс бүртгэл финансовая отчётность; данс дугуйлах а) закрывать счёт (үгчил. счета закруглить); б) шилж. кончать, завершать дело; расстаться, освободиться от кого-л., прекратить, порвать связи с кем-л.; покончить счёты с кем-л.; данс нээх открывать счета, книги; дансанд оруулах зачислять; записывать, включать в книгу; данс тайлан бухгалтерский отчёт; данс хар хам. бухгалтерские, канцелярские книги; данс хөтлөх вести книгу; регистрировать; данс хөтлөгч счетовод; дансаар төлөх платить по счёту; дансаар хүлээж авах принимать по описи; данснаас хасах исключить из списка. </definition>
+      <definition>книга (бухгалтерская, кассовая, инвентарная); журнал (канцелярский); реестр, ведомость, список; счёт; дело; ашиг алдварын данс счёт прибылей и убытков; зээлдэн авсан зүйлийн данс счета кредиторов; зээлдэн өгсөн зүйлийн данс счета дебиторов; мөнгөний данс кассовая книга; хүүтэй хадгалсан мөнгөний данс счета переходящих сумм; нэрийн данс именной список; орлого зарлагын данс смета приходов и расходов; приходо-расходная книга, смета, бюджет; төсөвлөсөн данс смета, бюджет; үнэт цаасны данс счета ценных бумаг; хар данс хорш. а) книги, журналы (канцелярские, бухгалтерские); б) шилж. личные счета; харилцах данс текущий счёт; тусгай харилцах данс счёт особых поступлений; эд хогшлын данс инвентарная книга; данс бодох а) свести счёты; б) шилж. свести счёты с кем-л.; данс бүртгэл хорш. отчётность; санхүүгийн данс бүртгэл финансовая отчётность; данс дугуйлах а) закрывать счёт (үгчил. счета закруглить); б) шилж. кончать, завершать дело; расстаться, освободиться от кого-л., прекратить, порвать связи с кем-л.; покончить счёты с кем-л.; данс нээх открывать счета, книги; дансанд оруулах зачислять; записывать, включать в книгу; данс тайлан бухгалтерский отчёт; данс хар хам. бухгалтерские, канцелярские книги; данс хөтлөх вести книгу; регистрировать; данс хөтлөгч счетовод; дансаар төлөх платить по счёту; дансаар хүлээж авах принимать по описи; данснаас хасах исключить из списка.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠳᠠᠩᠰᠠ</unicode>
       <cyrillic>ДАНСГҮЙ</cyrillic>
-      <definition>незарегистрированный, не значащийся в списках, не оприходованный. </definition>
+      <definition>незарегистрированный, не значащийся в списках, не оприходованный.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠳᠠᠩᠰᠠ</unicode>
       <cyrillic>ДАНСНЫ</cyrillic>
-      <definition>данс(н)-ы харьяал., регистрационный, инвентарный; бичиг дансны анги бухгалтерско-расчётный отдел; бичиг дансны ажил канцелярский, конторский труд; дансны бичээч конторщик; дансны үдээсэнд орох отложить дело в долгий ящик; положить под сукно (үгчил. в подшивку канцелярской книги ввести); дансны үлдэгдэл сальдо счёта; остаток счёта; дансны хуулбар выписка из счёта, бордеро. </definition>
+      <definition>данс(н)-ы харьяал., регистрационный, инвентарный; бичиг дансны анги бухгалтерско-расчётный отдел; бичиг дансны ажил канцелярский, конторский труд; дансны бичээч конторщик; дансны үдээсэнд орох отложить дело в долгий ящик; положить под сукно (үгчил. в подшивку канцелярской книги ввести); дансны үлдэгдэл сальдо счёта; остаток счёта; дансны хуулбар выписка из счёта, бордеро.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -170,10 +176,4 @@
       <page>187</page>
     </entry_item>
   </entries>
-  <derivatives>
-    <ref>T0232</ref>
-    <ref>T0233</ref>
-    <ref>T0234</ref>
-    <ref>T0238</ref>
-  </derivatives>
 </entry>

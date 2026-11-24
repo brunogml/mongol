@@ -4516,12 +4516,25 @@
     "transcript2": "agag",
     "unicode": "ᠠᠭᠠᠭ",
     "cyrillic": "ааг",
-    "page": "2",
+    "page": "1",
     "sense_no": "6",
-    "def": "〔名〕参见 ааг; архины ~ 酒劲儿.",
+    "def": "〔形〕懦弱的，软弱无能的，没勇气的，胆量小的，不坚強的.",
     "_item_transcript": "",
-    "_item_cyrillic": "аагь",
-    "_item_unicode": "ᠠᠭᠠᠭ"
+    "_item_cyrillic": "ааггүй /1",
+    "_item_unicode": "ᠠᠭᠠᠭ᠎ᠦᠭᠡᠢ"
+  },
+  {
+    "ref": "A0479",
+    "transcript": "aγaγ",
+    "transcript2": "agag",
+    "unicode": "ᠠᠭᠠᠭ",
+    "cyrillic": "ааг",
+    "page": "1",
+    "sense_no": "7",
+    "def": "〔形〕（饮料）浓度小的，不浓的，劲小的：ааггүй цай 淡茶.",
+    "_item_transcript": "",
+    "_item_cyrillic": "ааггүй /2",
+    "_item_unicode": "ᠠᠭᠠᠭ᠎ᠦᠭᠡᠢ"
   },
   {
     "ref": "A0481",
@@ -4769,6 +4782,32 @@
     "_item_transcript": "",
     "_item_cyrillic": "ахмадхан",
     "_item_unicode": "ᠠᠬᠠᠮᠠᠳᠬᠠᠨ"
+  },
+  {
+    "ref": "A0509",
+    "transcript": "aγaqǰiqu",
+    "transcript2": "agagcigo",
+    "unicode": "ᠠᠭᠠᠭᠵᠢᠬᠤ",
+    "cyrillic": "аагжих",
+    "page": "2",
+    "sense_no": "",
+    "def": "〔动〕力量增长起来，能力增加；胆大起来.",
+    "_item_transcript": "",
+    "_item_cyrillic": "аагжих /1",
+    "_item_unicode": "ᠠᠭᠠᠭᠵᠢᠬᠤ"
+  },
+  {
+    "ref": "A0509",
+    "transcript": "aγaqǰiqu",
+    "transcript2": "agagcigo",
+    "unicode": "ᠠᠭᠠᠭᠵᠢᠬᠤ",
+    "cyrillic": "аагжих",
+    "page": "2",
+    "sense_no": "2",
+    "def": "〔动〕（饮料）浓度增加，味道浓起来，劲加大.",
+    "_item_transcript": "",
+    "_item_cyrillic": "аагжих /2",
+    "_item_unicode": "ᠠᠭᠠᠭᠵᠢᠬᠤ"
   },
   {
     "ref": "A0512",
@@ -5138,7 +5177,7 @@
     "ref": "A0547",
     "transcript": "aγadaγ-a",
     "transcript2": "agadaga",
-    "unicode": "ᠠᠭᠠᠳᠠᠭ᠋ᠠ",
+    "unicode": "ᠠᠭᠠᠳᠠᠭ ᠠ",
     "cyrillic": "аадга",
     "page": "2",
     "sense_no": "",
@@ -5354,6 +5393,19 @@
     "_item_transcript": "",
     "_item_cyrillic": "аат",
     "_item_unicode": "ᠠᠭᠠᠲᠤ"
+  },
+  {
+    "ref": "A0569",
+    "transcript": "aγadmaγ",
+    "transcript2": "agadmag",
+    "unicode": "ᠠᠭᠠᠳᠮᠠᠭ",
+    "cyrillic": "аадмаг",
+    "page": "2",
+    "sense_no": "",
+    "def": "〔名〕干奶酪，奶干.",
+    "_item_transcript": "",
+    "_item_cyrillic": "аадмаг",
+    "_item_unicode": "ᠠᠭᠠᠳᠮᠠᠭ"
   },
   {
     "ref": "A0571",
@@ -5970,7 +6022,7 @@
     "ref": "A0617",
     "transcript": "aγaǰaγ-a",
     "transcript2": "agacaga",
-    "unicode": "ᠠᠭᠠᠵᠠᠭ᠋ᠠ",
+    "unicode": "ᠠᠭᠠᠵᠠᠭ ᠠ",
     "cyrillic": "аазга",
     "page": "3",
     "sense_no": "",
@@ -87660,29 +87712,16 @@
   },
   {
     "ref": "U2637",
-    "transcript": "oriyangγutuqu",
-    "transcript2": "oriyanggodogo",
-    "unicode": "ᠣᠷᠢᠶᠠᠩᠭᠣᠲᠣᠬᠣ",
-    "cyrillic": "ороонготох",
+    "transcript": "oriyangγu",
+    "transcript2": "oriyanggo",
+    "unicode": "ᠣᠷᠢᠶᠠᠩᠭᠣ",
+    "cyrillic": "ороонго",
     "page": "820",
     "sense_no": "",
     "def": "〔名〕①〈植〉缠绕的植物，卷绕的植物：~ дэнс 藤；~ зэл 蔓生植物；~ ургамал 〈植〉藤本植物；ороонгын овог 〈植〉菟丝子科；~ шар 〈植〉（旋花科）菟丝子；②（葡萄等之）蔓，藤：үзмийн ~ 葡萄蔓；~ од 〈天〉藤蛇星.",
     "_item_transcript": "",
     "_item_cyrillic": "ороонго",
     "_item_unicode": "ᠣᠷᠢᠶᠠᠩᠭᠤ"
-  },
-  {
-    "ref": "U2637",
-    "transcript": "oriyangγutuqu",
-    "transcript2": "oriyanggodogo",
-    "unicode": "ᠣᠷᠢᠶᠠᠩᠭᠣᠲᠣᠬᠣ",
-    "cyrillic": "ороонготох",
-    "page": "820",
-    "sense_no": "2",
-    "def": "〔动〕缠绕，拉蔓.",
-    "_item_transcript": "",
-    "_item_cyrillic": "ороонготох",
-    "_item_unicode": "ᠣᠷᠢᠶᠠᠩᠭᠤᠲᠤᠬᠤ"
   },
   {
     "ref": "U2639a",
@@ -385386,7 +385425,7 @@
   },
   {
     "ref": "C0857",
-    "transcript": "čenggeltü",
+    "transcript": "",
     "transcript2": "cenggeldö",
     "unicode": "ᠴᠠᠩᠺᠠᠯᠲᠥ",
     "cyrillic": "цэнгэлт",
@@ -441899,7 +441938,7 @@
     "ref": "K5255",
     "transcript": "gšan",
     "transcript2": "gsan",
-    "unicode": "ᠺᠱᠠᠨ",
+    "unicode": "ᠭᠱᠠᠨ",
     "cyrillic": "агшин",
     "page": "21",
     "sense_no": "",
@@ -494557,5 +494596,18 @@
     "_item_transcript": "",
     "_item_cyrillic": "янагуунхи",
     "_item_unicode": "ᠢᠨᠠᠭᠤᠩᠬᠢ"
+  },
+  {
+    "ref": "U2637c",
+    "transcript": "oriyangγutuqu",
+    "transcript2": "",
+    "unicode": "ᠣᠷᠢᠶᠠᠩᠭᠤᠲᠤᠬᠤ",
+    "cyrillic": "ороонготох",
+    "page": "820",
+    "sense_no": "",
+    "def": "〔动〕缠绕，拉蔓.",
+    "_item_transcript": "",
+    "_item_cyrillic": "ороонготох",
+    "_item_unicode": "ᠣᠷᠢᠶᠠᠩᠭᠤᠲᠤᠬᠤ"
   }
 ]
