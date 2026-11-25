@@ -20847,8 +20847,8 @@
     "ref": "A3909",
     "transcript": "aralǰiy-a",
     "transcript2": "aralciy-a",
-    "unicode": "ᠠᠷᠠᠯᠵᠢᠶᠠ",
-    "cyrillic": "аралжаан",
+    "unicode": "ᠠᠷᠠᠯᠵᠢᠶ ᠠ",
+    "cyrillic": "аралжаа",
     "page": "49",
     "sense_no": "",
     "def": "See aralziγ-a(n)",
@@ -32726,7 +32726,7 @@
   },
   {
     "ref": "E1205",
-    "transcript": "emgeniltü",
+    "transcript": "",
     "transcript2": "emgenildö",
     "unicode": "ᠡᠮᠭᠡᠨᠢᠯᠲᠦ",
     "cyrillic": "эмгэнэлт",
@@ -84919,7 +84919,7 @@
   },
   {
     "ref": "O1263",
-    "transcript": "üǰeltei",
+    "transcript": "",
     "transcript2": "öceldei",
     "unicode": "ᠥᠵᠠᠯᠲᠠᠢ",
     "cyrillic": "үзэлтэй",
@@ -167603,7 +167603,7 @@
     "ref": "B1486",
     "transcript": "bariy-a",
     "transcript2": "bariy-a",
-    "unicode": "ᠪᠠᠷᠢᠶᠠ",
+    "unicode": "ᠪᠠᠷᠢᠶ ᠠ",
     "cyrillic": "бариа",
     "page": "87",
     "sense_no": "",
@@ -179158,14 +179158,14 @@
     "ref": "B3177",
     "transcript": "bodgali",
     "transcript2": "bodgali",
-    "unicode": "ᠪᠣᠳᠻᠠᠯᠢ",
+    "unicode": "ᠪᠤᠳᢉᠠᠯᠢ",
     "cyrillic": "бодгаль",
     "page": "1164",
     "sense_no": "",
     "def": "; T. gang zag; S. pudgala. Individual, person (so called )soul . ED 347 a.",
     "_item_transcript": "BODGALI",
     "_item_cyrillic": "",
-    "_item_unicode": "ᠪᠣᠳᠻᠠᠯᠢ"
+    "_item_unicode": "ᠪᠤᠳᢉᠠᠯᠢ"
   },
   {
     "ref": "B3176a",
@@ -287746,7 +287746,7 @@
       },
       {
         "unicode": "ᠯᠠᠪ ᠦᠭᠡᠢ",
-        "def": ". Not certain, not sure."
+        "def": "Not certain, not sure."
       }
     ]
   },
@@ -390772,21 +390772,21 @@
     "ref": "Y5209",
     "transcript": "ǰülge",
     "transcript2": "yölge",
-    "unicode": "ᠵᠥᠯᠺᠡ",
+    "unicode": "ᠵᠦᠯᠭᠡ",
     "cyrillic": "зүлэг",
     "page": "1085",
     "sense_no": "",
     "def": "n. Soft lawn, meadow, grass; sward.",
     "_item_transcript": "ZYLGE",
     "_item_cyrillic": "зүлэг",
-    "_item_unicode": "ᠵᠥᠯᠺᠡ",
+    "_item_unicode": "ᠵᠦᠯᠭᠡ",
     "examples": [
       {
-        "unicode": "ᠵᠥᠯᠺᠡ ᠎ᠶᠢᠨ ᠺᠦᠵᠢ",
+        "unicode": "ᠵᠦᠯᠭᠡ ᠎ᠶᠢᠨ ᠺᠦᠵᠢ",
         "def": "Indian nard, valeriana jatamansi; milfoil; spikenard."
       },
       {
-        "unicode": "ᠵᠥᠯᠺᠡ ᠎ᠶᠢᠨ ᠨᠣᠭᠤᠭ᠎ᠠ",
+        "unicode": "ᠵᠦᠯᠭᠡ ᠎ᠶᠢᠨ ᠨᠣᠭᠤᠭ᠎ᠠ",
         "def": "Meadow grass"
       }
     ]

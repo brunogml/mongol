@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Y5209">
   <head>
-    <unicode>ᠵᠥᠯᠺᠡ</unicode>
+    <unicode>ᠵᠦᠯᠭᠡ</unicode>
     <transcript>ǰülge</transcript>
     <transcript2>yölge</transcript2>
     <cyrillic>зүлэг</cyrillic>
@@ -9,10 +9,17 @@
   <see_also>
     <ref>Y5209a</ref>
   </see_also>
+  <derivatives>
+    <ref>Y5210</ref>
+    <ref>Y5213</ref>
+    <ref>Y5215</ref>
+    <ref>Y5218</ref>
+    <ref>Y5219</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
-      <unicode>ᠵᠥᠯᠺᠡ</unicode>
+      <unicode>ᠵᠦᠯᠭᠡ</unicode>
       <uighur>ǰülke</uighur>
       <cyrillic>зүлэг</cyrillic>
       <transcript>ZYLGE</transcript>
@@ -20,12 +27,12 @@
       <page>1085</page>
       <examples>
         <example>
-          <unicode>ᠵᠥᠯᠺᠡ ᠎ᠶᠢᠨ ᠺᠦᠵᠢ</unicode>
+          <unicode>ᠵᠦᠯᠭᠡ ᠎ᠶᠢᠨ ᠺᠦᠵᠢ</unicode>
           <transcript>-- jin kyzi</transcript>
           <definition>Indian nard, valeriana jatamansi; milfoil; spikenard.</definition>
         </example>
         <example>
-          <unicode>ᠵᠥᠯᠺᠡ ᠎ᠶᠢᠨ ᠨᠣᠭᠤᠭ᠎ᠠ</unicode>
+          <unicode>ᠵᠦᠯᠭᠡ ᠎ᠶᠢᠨ ᠨᠣᠭᠤᠭ᠎ᠠ</unicode>
           <transcript>-- jin noγuγ-a</transcript>
           <definition>Meadow grass</definition>
         </example>
@@ -33,7 +40,7 @@
     </entry_item>
     <entry_item>
       <dico>Kowalewski</dico>
-      <unicode>ᠵᠦᠯᠺᠡ</unicode>
+      <unicode>ᠵᠦᠯᠭᠡ</unicode>
       <definition>1 une jeune herbe, verdure, gazon; &#13;
 &#13;
 2 pré, prairie.</definition>
@@ -59,22 +66,22 @@
     </entry_item>
     <entry_item>
       <dico>Boberg</dico>
-      <unicode>ᠵᠥᠯᠺᠡ</unicode>
+      <unicode>ᠵᠦᠯᠭᠡ</unicode>
       <page>1263</page>
       <examples>
         <example>
-          <uighur>ǰölke nuγuγ-a</uighur>
+          <unicode>ᠵᠦᠯᠭᠡ ᠨᠤᠭᠤᠭ ᠠ</unicode>
           <definition>Fresh tender plants, herbs and vegetables.</definition>
         </example>
         <example>
-          <uighur>ǰölke γaǰar</uighur>
+          <unicode>ᠵᠦᠯᠭᠡ ᠭᠠᠵᠠᠷ</unicode>
           <definition>Good grassland with water</definition>
         </example>
       </examples>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
-      <unicode>ᠵᠥᠯᠺᠡ</unicode>
+      <unicode>ᠵᠦᠯᠭᠡ</unicode>
       <cyrillic>ЗҮЛЭГ</cyrillic>
       <definition>зелёный луг, мурава, лужайка; дёрн, газон; намаг зүлэг хорш. сырое место; болото; ногоон зүлэг зелёная трава, лужайка; зелёный газон; ровная травянистая степь; зүлгийн ногоо луговая трава; зүлгэн дээгүүр бүү яв не ходить по газонам, по газонам ходить воспрещается; зүлгэн дээр суух сидеть на зелёной траве; зүлэг суулгах сеять траву на газонах; покрывать дёрном.</definition>
       <page>0</page>

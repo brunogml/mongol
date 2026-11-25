@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="U1767">
   <head>
     <unicode>ᠣᠯᠣᠮᠲᠠᠢ</unicode>
@@ -9,6 +9,9 @@
   <see_also>
     <ref>U1768</ref>
   </see_also>
+  <related_to>
+    <ref>U1766</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -43,14 +46,14 @@
       <dico>lamrd</dico>
       <unicode>ᠣᠯᠣᠮᠲᠠᠢ</unicode>
       <cyrillic>ОЛОМТОЙ</cyrillic>
-      <definition>неглубокий, переходимый в брод; оломтой гол мелкая река. </definition>
+      <definition>неглубокий, переходимый в брод; оломтой гол мелкая река.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>Vietze</dico>
       <cyrillic>оломтой</cyrillic>
-      <definition>(Kom von олом[он])
-1. seicht, mit einer Furt
+      <definition>(Kom von олом[он])&#13;
+1. seicht, mit einer Furt&#13;
 2. mit Sattelgurt</definition>
       <page>169</page>
     </entry_item>
@@ -69,7 +72,4 @@
       <page>413</page>
     </entry_item>
   </entries>
-  <related_to>
-    <ref>U1766</ref>
-  </related_to>
 </entry>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T1932">
   <head>
     <unicode>ᠲᠠᠯᠮᠢᠶᠠᠲᠣᠬᠣ</unicode>
@@ -7,9 +7,9 @@
     <cyrillic>талимаатах</cyrillic>
   </head>
   <derivatives>
-    <ref>T1933</ref>
+    
     <ref>T1934</ref>
-  </derivatives>
+  <ref>T1933</ref></derivatives>
   <entries>
     <entry_item>
       <dico>Chinese</dico>

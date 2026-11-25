@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="B3013">
   <head>
     <unicode>ᠪᠣᠳᠠᠲᠣ</unicode>
@@ -9,6 +9,9 @@
   <see_also>
     <ref>B3012</ref>
   </see_also>
+  <related_to>
+    <ref>B2983</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>

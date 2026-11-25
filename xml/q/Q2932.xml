@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q2932">
   <head>
     <unicode>ᠭᠠᠶᠢᠬᠠᠮᠰᠢᠬᠲᠠᠢ</unicode>
@@ -9,6 +9,9 @@
   <see_also>
     <ref>Q2933</ref>
   </see_also>
+  <related_to>
+    <ref>Q2931</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -42,7 +45,7 @@
       <dico>lamrd</dico>
       <unicode>ᠭᠠᠶᠢᠬᠠᠮᠰᠢᠬᠲᠠᠢ</unicode>
       <cyrillic>ГАЙХАМШИГТАЙ</cyrillic>
-      <definition>гайхамшигт-ийг үз. </definition>
+      <definition>гайхамшигт-ийг үз.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -53,7 +56,4 @@
       <page>134</page>
     </entry_item>
   </entries>
-  <related_to>
-    <ref>Q2931</ref>
-  </related_to>
 </entry>

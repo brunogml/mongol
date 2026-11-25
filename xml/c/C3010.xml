@@ -2,22 +2,23 @@
 <entry ref="C3010">
   <head>
     <unicode>ᠴᠣᠯᠴᠢᠷᠠᠬᠣ</unicode>
-    <transcript>čulčiraqu</transcript>
+    <transcript>čolčiraqu</transcript>
     <transcript2>colcirago</transcript2>
     <cyrillic>цолчрох</cyrillic>
-  </head><derivatives>
-    <ref>C3011</ref>
-  </derivatives><see_also>
+  </head>
+  <see_also>
     <ref>C3002</ref>
-  
     <ref>C3030</ref>
   </see_also>
+  <derivatives>
+    <ref>C3011</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠴᠣᠯᠴᠢᠷᠠᠬᠣ</unicode>
       <cyrillic>ЦОЛЧРОХ</cyrillic>
-      <definition>говорить невнятно, бормотать. </definition>
+      <definition>говорить невнятно, бормотать.</definition>
       <page>0</page>
     </entry_item>
   </entries>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Y1265">
   <head>
     <unicode>ᠵᠠᠯᠭᠠᠮᠵᠢᠯᠠᠬᠣ</unicode>
@@ -10,7 +10,7 @@
     <ref>Y1266</ref>
     <ref>Y1267</ref>
     <ref>Y1272</ref>
-  </derivatives>
+  <ref>Y1268</ref><ref>Y1269</ref><ref>Y1271</ref></derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -51,8 +51,10 @@
     <entry_item>
       <dico>Kowalewski</dico>
       <unicode>ᠵᠠᠯᠭᠠᠮᠵᠢᠯᠠᠬᠤ</unicode>
-      <definition>1 suivre l'un après l'autre: 
-2 succéder (à ses ancêtres dans la charge dont ils étaient revêtue), prendre la place de (son père dans les emplois): 
+      <definition>1 suivre l'un après l'autre: 
+
+2 succéder (à ses ancêtres dans la charge dont ils étaient revêtue), prendre la place de (son père dans les emplois): 
+
 3 continuer, poursuivre.</definition>
       <page>2288</page>
       <examples>
@@ -118,4 +120,4 @@
       <page>261</page>
     </entry_item>
   </entries>
-</entry>
+<related_to><ref>Y1263</ref></related_to></entry>

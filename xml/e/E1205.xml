@@ -2,10 +2,15 @@
 <entry ref="E1205">
   <head>
     <unicode>ᠡᠮᠭᠡᠨᠢᠯᠲᠦ</unicode>
-    <transcript>emgeniltü</transcript>
     <transcript2>emgenildö</transcript2>
     <cyrillic>эмгэнэлт</cyrillic>
   </head>
+  <see_also>
+    <ref>E1204</ref>
+  </see_also>
+  <related_to>
+    <ref>E1203</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -32,15 +37,14 @@
       <dico>lamrd</dico>
       <unicode>ᠠᠮᠺᠠᠨᠢᠯᠲᠥ</unicode>
       <cyrillic>ЭМГЭНЭЛТ</cyrillic>
-      <definition>1. траурный, скорбный, печальный; трагичный, трагический; причиняющий горе, горестный; эмгэнэлт аялгуу реквием; эмгэнэлт жүжиг трагедия; эмгэнэлт хошин жүжиг трагикомедия; эмгэнэлт жүжгийн зохиолч трагик; эмгэнэлт жүжгийн (жүжигт тоглогч) жүжигчин трагический актёр; эмгэнэлт жүжгийн зохиолч трагик; эмгэнэлт явдал трагизм; 2. трагичность; эмгэнэлт байдал трагичность положения; үнэхээр эмгэнэлт байдал царайнд нь илт лицо его изобразило неподдельную скорбь. </definition>
+      <definition>1. траурный, скорбный, печальный; трагичный, трагический; причиняющий горе, горестный; эмгэнэлт аялгуу реквием; эмгэнэлт жүжиг трагедия; эмгэнэлт хошин жүжиг трагикомедия; эмгэнэлт жүжгийн зохиолч трагик; эмгэнэлт жүжгийн (жүжигт тоглогч) жүжигчин трагический актёр; эмгэнэлт жүжгийн зохиолч трагик; эмгэнэлт явдал трагизм; 2. трагичность; эмгэнэлт байдал трагичность положения; үнэхээр эмгэнэлт байдал царайнд нь илт лицо его изобразило неподдельную скорбь.</definition>
       <page>0</page>
     </entry_item>
-  
-  <entry_item>
-    <dico>Vietze</dico>
-    <cyrillic>эмгэнэлт</cyrillic>
-    <definition>traurig; tragisch; ~ жүжиг Theat Tragödie f; ~ явдал od тохиолдол Unglück n, tragisches Ereignis</definition>
-    <page>399</page>
-  </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>эмгэнэлт</cyrillic>
+      <definition>traurig; tragisch; ~ жүжиг Theat Tragödie f; ~ явдал od тохиолдол Unglück n, tragisches Ereignis</definition>
+      <page>399</page>
+    </entry_item>
   </entries>
 </entry>

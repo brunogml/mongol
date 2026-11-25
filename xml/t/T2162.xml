@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T2162">
   <head>
     <unicode>ᠳᠠᠮᠵᠢᠬᠲᠠᠢ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>damcigdai</transcript2>
     <cyrillic>дамжигтай</cyrillic>
   </head>
+  <related_to>
+    <ref>T2146</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -18,8 +21,8 @@
       <examples>
         <example>
           <unicode>ᠳᠠᠮ ᠤᠨ ᠦᠭᠡ ᠳᠠᠮᠵᠢᠬᠲᠠᠢ</unicode>
-          <transcript>dam un yge -- </transcript>
-          <definition> Words transmitted indirectly are unreliable.</definition>
+          <transcript>dam un yge --</transcript>
+          <definition>Words transmitted indirectly are unreliable.</definition>
         </example>
       </examples>
     </entry_item>
@@ -48,7 +51,7 @@
       <dico>lamrd</dico>
       <unicode>ᠳᠠᠮᠵᠢᠬᠲᠠᠢ</unicode>
       <cyrillic>ДАМЖИГТАЙ</cyrillic>
-      <definition>1. сомнительный, вызывающий чувство недоверия; дамын үг дамжигтай хууч. слухи всегда сомнительны (вызывают сомнения); 2. сомнительно. </definition>
+      <definition>1. сомнительный, вызывающий чувство недоверия; дамын үг дамжигтай хууч. слухи всегда сомнительны (вызывают сомнения); 2. сомнительно.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>

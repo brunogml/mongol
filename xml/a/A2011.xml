@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="A2011">
   <head>
     <unicode>ᠠᠳᠠᠯᠢᠳᠬᠠᠰᠢᠭᠥᠢ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>adalidgasigöi</transcript2>
     <cyrillic>адилтгашгүй</cyrillic>
   </head>
+  <related_to>
+    <ref>A2010</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Chinese</dico>

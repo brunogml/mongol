@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="K1483">
   <head>
     <unicode>ᠺᠠᠷᠠᠯᠳᠥᠺᠥ</unicode>
@@ -9,7 +9,7 @@
   <derivatives>
     <ref>K1487</ref>
     <ref>K1481</ref>
-  </derivatives>
+  <ref>K1473</ref></derivatives>
   <see_also>
     <ref>K1482</ref>
   </see_also>

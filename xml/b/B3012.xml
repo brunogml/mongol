@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="B3012">
   <head>
     <unicode>ᠪᠣᠳᠠᠲᠠᠢ</unicode>
@@ -9,6 +9,9 @@
   <see_also>
     <ref>B3013</ref>
   </see_also>
+  <related_to>
+    <ref>B2983</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -22,30 +25,30 @@
         <example>
           <unicode>ᠪᠣᠳᠠᠲᠠᠢ ᠪᠣᠯᠬᠤ</unicode>
           <transcript>-- bolxu</transcript>
-          <definition> To materialize; become real.</definition>
+          <definition>To materialize; become real.</definition>
         </example>
         <example>
           <unicode>ᠪᠣᠳᠠᠲᠠᠢ ᠢᠯᠡ ᠪᠣᠳᠠᠲᠠᠢ</unicode>
           <transcript>-- ile --</transcript>
-          <definition> Tangible, manifest.</definition>
+          <definition>Tangible, manifest.</definition>
         </example>
       </examples>
     </entry_item>
     <entry_item>
       <dico>Lessing</dico>
       <unicode>ᠪᠣᠳᠠᠲᠠᠢ</unicode>
-      <transcript>BODATAI </transcript>
-      <definition>T. dngos can; vāstava. Material, substantial </definition>
+      <transcript>BODATAI</transcript>
+      <definition>T. dngos can; vāstava. Material, substantial</definition>
       <page>1164</page>
       <examples>
         <example>
           <unicode>ᠪᠣᠳᠠᠲᠠᠢ ᠰᠢᠲᠦᠭᠡᠨ</unicode>
-          <transcript>+++ -- sitygen </transcript>
-          <definition>A tangible image (of a Bu. ). </definition>
+          <transcript>+++ -- sitygen</transcript>
+          <definition>A tangible image (of a Bu. ).</definition>
         </example>
         <example>
           <unicode>ᠪᠣᠳᠠᠲᠠᠢ ᠤᠴᠢᠷᠠᠭᠰᠠᠨ</unicode>
-          <transcript>+++ -- uciraγsan; </transcript>
+          <transcript>+++ -- uciraγsan;</transcript>
           <definition>T. rnal hbyor pa; S yogācārya . A teacher or master of yoga (religious contemplation).</definition>
         </example>
       </examples>

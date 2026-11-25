@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="Q4756">
   <head>
     <unicode>ᠬᠣᠪᠢᠶᠠᠯᠭᠠᠬᠣ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>gobiyalgago</transcript2>
     <cyrillic>хуваалгах</cyrillic>
   </head>
+  <derivatives>
+    <ref>Q7501</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>

@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="A3909">
   <head>
-    <unicode>ᠠᠷᠠᠯᠵᠢᠶᠠ</unicode>
+    <unicode>ᠠᠷᠠᠯᠵᠢᠶ ᠠ</unicode>
     <transcript>aralǰiy-a</transcript>
     <transcript2>aralciy-a</transcript2>
-    <cyrillic>аралжаан</cyrillic>
+    <cyrillic>аралжаа</cyrillic>
   </head>
+  <derivatives>
+    <ref>A3910</ref>
+    <ref>A3911</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -18,7 +22,7 @@
     <entry_item>
       <dico>Kowalewski</dico>
       <unicode>ᠠᠷᠠᠯᠵᠢᠶ᠎ᠠ</unicode>
-      <definition>troc, échange, commerce d&apos;échange</definition>
+      <definition>troc, échange, commerce d'échange</definition>
       <page>142</page>
     </entry_item>
     <entry_item>
