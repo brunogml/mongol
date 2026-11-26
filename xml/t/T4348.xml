@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T4348">
   <head>
     <unicode>ᠲᠠᠺᠠᠺᠠᠪᠥᠷᠢᠯᠠᠺᠥ</unicode>
@@ -7,10 +7,10 @@
     <cyrillic>тээвэрлэх</cyrillic>
   </head>
   <derivatives>
-    <ref>T4349</ref>
+    
     <ref>T4350</ref>
     <ref>T4347</ref>
-  </derivatives>
+  <ref>T4346</ref><ref>T4348a</ref><ref>T4351</ref><ref>T4349</ref><ref>T4345</ref></derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -43,4 +43,4 @@
       <page>581</page>
     </entry_item>
   </entries>
-</entry>
+<related_to><ref>T4344</ref></related_to></entry>

@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T2978">
   <head>
     <unicode>ᠲᠠᠷᠴᠢᠬ</unicode>
-    <transcript>tarčiq</transcript>
+    <transcript>tarčiγ</transcript>
     <transcript2>darcig</transcript2>
     <cyrillic>тарчиг</cyrillic>
   </head>
@@ -19,7 +19,7 @@
         <example>
           <unicode>ᠲᠠᠷᠴᠢᠬ ᠬᠣᠭᠤᠯᠠ</unicode>
           <transcript>-- xoγula</transcript>
-          <definition> Meager food.</definition>
+          <definition>Meager food.</definition>
         </example>
       </examples>
     </entry_item>
@@ -27,14 +27,14 @@
       <dico>lamrd</dico>
       <unicode>ᠲᠠᠷᠴᠢᠬ</unicode>
       <cyrillic>ТАРЧИГ</cyrillic>
-      <definition>I 1. скудный; бедный; өвс ногоогоор тарчиг жил скудный травой год; тарчиг залуугаас тартай хөгшин дээр шог., үгчил. чем хљлый молодой человек, лучше крепкий старљк; ~ стар, да дюж; тарчиг хоол скудная еда; тарчиг цаг скудное время; 2. скудно, бедно; тарчиг амь зуух бедно жить, жить в недостатке. </definition>
+      <definition>I 1. скудный; бедный; өвс ногоогоор тарчиг жил скудный травой год; тарчиг залуугаас тартай хөгшин дээр шог., үгчил. чем хљлый молодой человек, лучше крепкий старљк; ~ стар, да дюж; тарчиг хоол скудная еда; тарчиг цаг скудное время; 2. скудно, бедно; тарчиг амь зуух бедно жить, жить в недостатке.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠲᠠᠷᠴᠢᠬ</unicode>
       <cyrillic>ТАРЧИГ</cyrillic>
-      <definition>II: тарчиг тарчиг хорш. тарчигнах-ыг үз. </definition>
+      <definition>II: тарчиг тарчиг хорш. тарчигнах-ыг үз.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -51,4 +51,4 @@
       <page>524</page>
     </entry_item>
   </entries>
-</entry>
+<derivatives><ref>T2983</ref><ref>T2984</ref></derivatives></entry>

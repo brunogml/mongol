@@ -6,6 +6,12 @@
     <transcript2>deresödei</transcript2>
     <cyrillic>дэрстэй</cyrillic>
   </head>
+  <see_also>
+    <ref>T4810</ref>
+  </see_also>
+  <related_to>
+    <ref>T4807</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -27,8 +33,8 @@
       <dico>lamrd</dico>
       <unicode>ᠳᠠᠷᠠᠰᠥᠲᠠᠢ</unicode>
       <cyrillic>ДЭРСТЭЙ</cyrillic>
-      <definition>обильный ковылём. </definition>
+      <definition>обильный ковылём.</definition>
       <page>0</page>
     </entry_item>
   </entries>
-<related_to><ref>T4807</ref></related_to><see_also><ref>T4810</ref></see_also></entry>
+</entry>

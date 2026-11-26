@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T4112">
   <head>
     <unicode>ᠳᠠᠮᠠᠶᠢᠷᠠᠺᠥ</unicode>
@@ -8,8 +8,8 @@
   </head>
   <derivatives>
     <ref>T4113</ref>
-    <ref>T4111</ref>
-  </derivatives>
+    
+  <ref>T4109</ref><ref>T4110</ref><ref>T4111</ref></derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>

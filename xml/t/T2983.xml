@@ -2,7 +2,7 @@
 <entry ref="T2983">
   <head>
     <unicode>ᠲᠠᠷᠴᠢᠬᠬᠠᠨ</unicode>
-    <transcript>tarčiqqan</transcript>
+    <transcript>tarčiγqan</transcript>
     <transcript2>darciggan</transcript2>
     <cyrillic>тарчигхан</cyrillic>
   </head>
@@ -18,8 +18,8 @@
       <dico>lamrd</dico>
       <unicode>ᠲᠠᠷᠴᠢᠬᠬᠠᠨ</unicode>
       <cyrillic>ТАРЧИГХАН</cyrillic>
-      <definition>тарчиг-ийн багас., довольно скудный. </definition>
+      <definition>тарчиг-ийн багас., довольно скудный.</definition>
       <page>0</page>
     </entry_item>
   </entries>
-</entry>
+<related_to><ref>T2978</ref></related_to></entry>

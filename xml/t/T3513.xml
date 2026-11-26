@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T3513">
   <head>
     <unicode>ᠳᠠᠪᠥᠷᠠ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>deböre</transcript2>
     <cyrillic>дэвэр</cyrillic>
   </head>
+  <derivatives>
+    <ref>T3513a</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>

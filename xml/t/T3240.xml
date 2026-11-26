@@ -6,6 +6,12 @@
     <transcript2>dengselgedei</transcript2>
     <cyrillic>дэнсэлгтэй</cyrillic>
   </head>
+  <see_also>
+    <ref>T3241</ref>
+  </see_also>
+  <related_to>
+    <ref>T3239</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -19,7 +25,7 @@
         <example>
           <unicode>ᠳᠠᠩᠰᠠᠯᠺᠠᠲᠠᠢ ᠲᠡᠷᠭᠡ</unicode>
           <transcript>-- terge</transcript>
-          <definition> Swaying, jolting cart.</definition>
+          <definition>Swaying, jolting cart.</definition>
         </example>
       </examples>
     </entry_item>
@@ -33,7 +39,7 @@
       <dico>lamrd</dico>
       <unicode>ᠳᠠᠩᠰᠠᠯᠺᠠᠲᠠᠢ</unicode>
       <cyrillic>ДЭНСЭЛГЭЭТЭЙ</cyrillic>
-      <definition>тряский (о телеге). </definition>
+      <definition>тряский (о телеге).</definition>
       <page>0</page>
     </entry_item>
   </entries>

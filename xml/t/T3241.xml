@@ -6,13 +6,16 @@
     <transcript2>dengselgedö</transcript2>
     <cyrillic>дэнсэлгээт</cyrillic>
   </head>
+  <see_also>
+    <ref>T3240</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠳᠠᠩᠰᠠᠯᠺᠠᠲᠥ</unicode>
       <cyrillic>ДЭНСЭЛГЭЭТ</cyrillic>
-      <definition>тряский, ухабистый. </definition>
+      <definition>тряский, ухабистый.</definition>
       <page>0</page>
     </entry_item>
   </entries>
-</entry>
+<related_to><ref>T3239</ref></related_to></entry>

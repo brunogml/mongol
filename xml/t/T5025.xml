@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T5025">
   <head>
     <unicode>ᠲᠢᠲᠢᠮ</unicode>
@@ -89,10 +89,10 @@
     </entry_item>
   </entries>
   <derivatives>
-    <ref>T5026</ref>
+    
     <ref>T5027</ref>
     <ref>T5029</ref>
     <ref>T5031a</ref>
-    <ref>T5028</ref>
-  </derivatives>
+    
+  <ref>T5026</ref></derivatives>
 </entry>

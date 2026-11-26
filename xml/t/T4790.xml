@@ -6,6 +6,9 @@
     <transcript2>deyirölde</transcript2>
     <cyrillic>тийрэлт</cyrillic>
   </head>
+  <derivatives>
+    <ref>T4791</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Chinese</dico>
@@ -21,12 +24,11 @@
       <definition>1) лягание; 2) отдача (о ружьё). </definition>
       <page>0</page>
     </entry_item>
-  
-  <entry_item>
-    <dico>Vietze</dico>
-    <cyrillic>тийрэлт</cyrillic>
-    <definition>Waffe Rückschlag m, Rückstoß m</definition>
-    <page>225</page>
-  </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>тийрэлт</cyrillic>
+      <definition>Waffe Rückschlag m, Rückstoß m</definition>
+      <page>225</page>
+    </entry_item>
   </entries>
 </entry>

@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mongolian Script — Character Reference</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,500;1,400&display=swap">
+<style>
+:root {
+  --bg:      #1a1e24;
+  --bg2:     #22272f;
+  --bg3:     #2b3140;
+  --ink:     #e8e2d6;
+  --ink-dim: #9ba4b0;
+  --gold:    #c8a96e;
+  --rule:    #333a46;
+  --mono:    "Courier New", monospace;
+  --mng:     "Mongolian Baiti", "Noto Sans Mongolian", serif;
+  --serif:   "Noto Serif", Georgia, serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { background: var(--bg); color: var(--ink); font-family: var(--serif); min-height: 100vh; }
+
+body {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2.4rem 1.5rem 4rem;
+}
+
+/* ── Header ── */
+header {
+  margin-bottom: 2.6rem;
+  padding-bottom: 1.1rem;
+  border-bottom: 1px solid var(--rule);
+  display: flex;
+  align-items: baseline;
+  gap: 1.2rem;
+  flex-wrap: wrap;
+}
+header h1 {
+  font-family: var(--serif);
+  font-size: 1.15rem;
+  font-weight: 500;
+  letter-spacing: .01em;
+  color: var(--ink);
+}
+header .subtitle {
+  font-size: .82rem;
+  color: var(--ink-dim);
+  font-style: italic;
+}
+
+/* ── Grid of group cards ── */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.1rem;
+  align-items: start;
+}
+
+/* ── Group card ── */
+.group {
+  background: var(--bg2);
+  border-radius: 3px;
+  overflow: hidden;
+}
+.group-label {
+  font-family: var(--serif);
+  font-size: .68rem;
+  font-weight: 500;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--gold);
+  padding: .55rem .8rem .4rem;
+  background: var(--bg3);
+}
+
+/* ── Row ── */
+.row {
+  display: grid;
+  grid-template-columns: 3.4rem 1fr;
+  align-items: center;
+  gap: .5rem;
+  padding: .3rem .8rem .3rem .6rem;
+  border-bottom: 1px solid var(--rule);
+  cursor: default;
+  transition: background .1s;
+}
+.row:last-child { border-bottom: none; }
+.row:hover { background: rgba(200,169,110,.07); }
+
+/* ── Mongolian glyph ── */
+.mng {
+  font-family: var(--mng);
+  font-size: 2rem;
+  line-height: 1;
+  color: var(--ink);
+  writing-mode: vertical-lr;
+  -webkit-writing-mode: vertical-lr;
+  min-height: 2.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* nudge slightly — Mongolian Baiti has generous leading */
+  padding: .15rem 0;
+}
+
+/* ── Transcript label ── */
+.tr {
+  font-family: var(--mono);
+  font-size: .95rem;
+  color: var(--ink-dim);
+  letter-spacing: .01em;
+}
+
+/* ── Punctuation rows: glyph shown horizontal ── */
+.row.punct .mng {
+  writing-mode: horizontal-tb;
+  -webkit-writing-mode: horizontal-tb;
+  font-size: 1.5rem;
+  min-height: auto;
+  font-family: var(--serif);  /* punctuation renders fine in serif fallback */
+}
+
+/* ── Responsive ── */
+@media (max-width: 540px) {
+  .grid { grid-template-columns: 1fr; }
+  .mng { font-size: 1.7rem; }
+}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Mongolian Script — Character Reference</h1>
+  <span class="subtitle">rKTs transliteration</span>
+</header>
+
+<div class="grid">
+
+  <!-- Vowels -->
+  <div class="group">
+    <div class="group-label">Vowels</div>
+    <div class="row"><span class="mng">ᠠ</span><span class="tr">a</span></div>
+    <div class="row"><span class="mng">ᠡ</span><span class="tr">e</span></div>
+    <div class="row"><span class="mng">ᠢ</span><span class="tr">i</span></div>
+    <div class="row"><span class="mng">ᠣ</span><span class="tr">o</span></div>
+    <div class="row"><span class="mng">ᠤ</span><span class="tr">u</span></div>
+    <div class="row"><span class="mng">ᠥ</span><span class="tr">ö</span></div>
+    <div class="row"><span class="mng">ᠦ</span><span class="tr">ü</span></div>
+    <div class="row"><span class="mng">ᠧ</span><span class="tr">ê</span></div>
+  </div>
+
+  <!-- Nasals -->
+  <div class="group">
+    <div class="group-label">Nasals</div>
+    <div class="row"><span class="mng">ᠨ</span><span class="tr">n</span></div>
+    <div class="row"><span class="mng">ᡛ</span><span class="tr">ñ</span></div>
+    <div class="row"><span class="mng">ᢏ</span><span class="tr">ṇ</span></div>
+    <div class="row"><span class="mng">ᠩ</span><span class="tr">ng</span></div>
+  </div>
+
+  <!-- Labials -->
+  <div class="group">
+    <div class="group-label">Labials</div>
+    <div class="row"><span class="mng">ᠪ</span><span class="tr">b</span></div>
+    <div class="row"><span class="mng">ᠫ</span><span class="tr">p</span></div>
+    <div class="row"><span class="mng">ᢓ</span><span class="tr">ph</span></div>
+    <div class="row"><span class="mng">ᠹ</span><span class="tr">f</span></div>
+    <div class="row"><span class="mng">ᠮ</span><span class="tr">m</span></div>
+  </div>
+
+  <!-- Dentals -->
+  <div class="group">
+    <div class="group-label">Dentals</div>
+    <div class="row"><span class="mng">ᠲ</span><span class="tr">t</span></div>
+    <div class="row"><span class="mng">ᠳ</span><span class="tr">d</span></div>
+    <div class="group-label" style="background:transparent;padding-top:.7rem;font-size:.62rem;opacity:.7">Diacritics</div>
+    <div class="row"><span class="mng">ᢌ</span><span class="tr">ṭ</span></div>
+    <div class="row"><span class="mng">ᢍ</span><span class="tr">ṭh</span></div>
+    <div class="row"><span class="mng">ᢎ</span><span class="tr">ḍ</span></div>
+    <div class="row"><span class="mng">ᢐ</span><span class="tr">ṱ</span></div>
+    <div class="row"><span class="mng">ᢑ</span><span class="tr">ḓ</span></div>
+  </div>
+
+  <!-- Sibilants & affricates -->
+  <div class="group">
+    <div class="group-label">Sibilants &amp; affricates</div>
+    <div class="row"><span class="mng">ᠰ</span><span class="tr">s</span></div>
+    <div class="row"><span class="mng">ᠱ</span><span class="tr">š</span></div>
+    <div class="row"><span class="mng">ᢔ</span><span class="tr">ṣ</span></div>
+    <div class="row"><span class="mng">ᢍ</span><span class="tr">ś</span></div>
+    <div class="row"><span class="mng">ᠴ</span><span class="tr">č</span></div>
+    <div class="row"><span class="mng">ᠼ</span><span class="tr">ç</span></div>
+    <div class="row"><span class="mng">ᢖ</span><span class="tr">j</span></div>
+    <div class="row"><span class="mng">ᡒ</span><span class="tr">ȷ</span></div>
+    <div class="row"><span class="mng">ᠽ</span><span class="tr">z</span></div>
+    <div class="row"><span class="mng">ᢋ</span><span class="tr">ẓ</span></div>
+    <div class="row"><span class="mng">ᠵ</span><span class="tr">ǰ</span></div>
+  </div>
+
+  <!-- Velars / uvulars -->
+  <div class="group">
+    <div class="group-label">Velars / uvulars</div>
+    <div class="row"><span class="mng">ᠺ</span><span class="tr">k</span></div>
+    <div class="row"><span class="mng">ᠻ</span><span class="tr">kh</span></div>
+    <div class="row"><span class="mng">ᠬ</span><span class="tr">q</span></div>
+    <div class="row"><span class="mng">ᠭ</span><span class="tr">γ</span></div>
+    <div class="row"><span class="mng">ᢉ</span><span class="tr">'</span></div>
+  </div>
+
+  <!-- Liquids & glides -->
+  <div class="group">
+    <div class="group-label">Liquids &amp; glides</div>
+    <div class="row"><span class="mng">ᠯ</span><span class="tr">l</span></div>
+    <div class="row"><span class="mng">ᡀ</span><span class="tr">lh</span></div>
+    <div class="row"><span class="mng">ᠷ</span><span class="tr">r</span></div>
+    <div class="row"><span class="mng">ᠶ</span><span class="tr">y</span></div>
+    <div class="row"><span class="mng">ᢣ</span><span class="tr">ý</span></div>
+    <div class="row"><span class="mng">ᠸ</span><span class="tr">w</span></div>
+  </div>
+
+  <!-- Other consonants -->
+  <div class="group">
+    <div class="group-label">Other consonants</div>
+    <div class="row"><span class="mng">ᠾ</span><span class="tr">h</span></div>
+    <div class="row"><span class="mng">ᠿ</span><span class="tr">ž</span></div>
+    <div class="row"><span class="mng">ᡁ</span><span class="tr">zh</span></div>
+    <div class="row"><span class="mng">ᡂ</span><span class="tr">ch</span></div>
+    <div class="group-label" style="background:transparent;padding-top:.7rem;font-size:.62rem;opacity:.7">Special</div>
+    <div class="row"><span class="mng">ᢀ</span><span class="tr">ṃ</span></div>
+    <div class="row"><span class="mng">ᢁ</span><span class="tr">ḥ</span></div>
+  </div>
+
+  <!-- Punctuation -->
+  <div class="group">
+    <div class="group-label">Punctuation</div>
+    <div class="row punct"><span class="mng">᠀</span><span class="tr">@</span></div>
+    <div class="row punct"><span class="mng">᠂</span><span class="tr">;</span></div>
+    <div class="row punct"><span class="mng">᠃</span><span class="tr">,</span></div>
+    <div class="row punct"><span class="mng">᠄</span><span class="tr">:</span></div>
+    <div class="row punct"><span class="mng">᠅</span><span class="tr">.</span></div>
+  </div>
+
+</div>
+
+</body>
+</html>
