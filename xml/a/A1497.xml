@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="A1497">
   <head>
     <unicode>ᠠᠪᠣᠮᠠᠲᠠᠭᠠᠢ</unicode>
@@ -8,6 +8,7 @@
   </head>
   <see_also>
     <ref>A1501</ref>
+    <ref>A1496</ref>
   </see_also>
   <entries>
     <entry_item>
@@ -36,6 +37,13 @@
       <cyrillic>авамтгай</cyrillic>
       <definition>авамгай.</definition>
       <page>14</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠪᠤᠮᠠᠲᠠᠭᠠᠢ</unicode>
+      <cyrillic>авамтгай</cyrillic>
+      <definition>〔形〕参见 авамгай.</definition>
+      <page>7</page>
     </entry_item>
   </entries>
 </entry>

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="A4502">
   <head>
-    <unicode>ᠠᠸᠠᠩᠭ᠋ᠠᠷᠳ</unicode>
+    <unicode>ᠠᠸᠠᠩᠭᠠᠷᠳ᠋</unicode>
     <transcript>avangγard</transcript>
     <transcript2>avanggard</transcript2>
     <cyrillic>авангард</cyrillic>
-  </head><see_also>
+  </head>
+  <see_also>
     <ref>A4503</ref>
   </see_also>
   <entries>
@@ -14,6 +15,13 @@
       <cyrillic>авангард</cyrillic>
       <definition>Avantgarde f</definition>
       <page>20</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠸᠠᠩᠭᠠᠷᠳ᠋</unicode>
+      <cyrillic>авангард</cyrillic>
+      <definition>〔名〕先锋，先锋队，前卫（队），先头部队.</definition>
+      <page>7</page>
     </entry_item>
   </entries>
 </entry>

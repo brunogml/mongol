@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry ref="A4504">
   <head>
-    <unicode>ᠠᠸᠠᠨᠭᠠᠷᠳᠯᠠᠬᠣ</unicode>
+    <unicode>ᠠᠸᠠᠩᠭᠠᠷᠳ᠋ᠯᠠᠬᠤ</unicode>
     <transcript>avangγardlaqu</transcript>
     <transcript2>avanggardlago</transcript2>
     <cyrillic>авангардлах</cyrillic>
-  </head><see_also>
+  </head>
+  <see_also>
     <ref>A4505</ref>
   </see_also>
+  <derivatives>
+    <ref>A9078</ref>
+  </derivatives>
+  <entries>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠸᠠᠩᠭᠠᠷᠳ᠋ᠯᠠᠬᠤ</unicode>
+      <cyrillic>авангардлах</cyrillic>
+      <definition>〔动〕打先锋，率先，率领.</definition>
+      <page>7</page>
+    </entry_item>
+  </entries>
 </entry>

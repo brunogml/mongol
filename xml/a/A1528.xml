@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="A1528">
   <head>
     <unicode>ᠠᠪᠣᠷᠢ</unicode>
@@ -129,7 +129,8 @@
     <entry_item>
       <dico>Vietze</dico>
       <cyrillic>авир</cyrillic>
-      <definition>1. auch зан ~ Charakter m; Benehmen n, Haltung f 
+      <definition>1. auch зан ~ Charakter m; Benehmen n, Haltung f 
+
 2.: ~ шивэр heimlich; ~ шивэр яриа[н] Tuschelei f</definition>
       <page>21</page>
     </entry_item>
@@ -139,6 +140,13 @@
       <cyrillic>авир</cyrillic>
       <definition>зан ааль, аашлах байдал.</definition>
       <page>16</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠪᠤᠷᠢ</unicode>
+      <cyrillic>авир /1</cyrillic>
+      <definition>〔名〕性格，脾气，品性，癖性：сайн зан авир 优良的品性.</definition>
+      <page>9</page>
     </entry_item>
   </entries>
 </entry>

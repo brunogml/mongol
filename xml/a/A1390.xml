@@ -1,17 +1,20 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="A1390">
   <head>
     <unicode>ᠠᠪᠢᠳᠠᠷᠮ᠎ᠠ</unicode>
-    <transcript>abidarma</transcript>
+    <transcript>abidarm-a</transcript>
     <transcript2>abidarma</transcript2>
     <cyrillic>авидарма</cyrillic>
   </head>
+  <derivatives>
+    <ref>A1390a</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
       <unicode>ᠠᠪᠢᠳᠠᠷᠮ᠎ᠠ</unicode>
       <transcript>ABIDARMA</transcript>
-      <definition> T. chos mngon pa; S. abhidharma. Name of the tird section of the Bu. basic scriptures, constituting a systematization of Buddhist doctrine. See aimaγ saba.</definition>
+      <definition>T. chos mngon pa; S. abhidharma. Name of the tird section of the Bu. basic scriptures, constituting a systematization of Buddhist doctrine. See aimaγ saba.</definition>
       <page>1159</page>
     </entry_item>
     <entry_item>
@@ -38,7 +41,7 @@
     <entry_item>
       <dico>Bawden</dico>
       <cyrillic>авидарма</cyrillic>
-      <definition>Abidharma, metaphysics (the third section of the Buddhist canon) </definition>
+      <definition>Abidharma, metaphysics (the third section of the Buddhist canon)</definition>
       <page>3</page>
     </entry_item>
     <entry_item>
@@ -49,7 +52,4 @@
       <page>16</page>
     </entry_item>
   </entries>
-  <derivatives>
-    <ref>A1390a</ref>
-  </derivatives>
 </entry>

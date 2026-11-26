@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="A1445">
   <head>
     <unicode>ᠠᠪᠣᠭᠠᠯ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>abogal</transcript2>
     <cyrillic>аваал</cyrillic>
   </head>
+  <see_also>
+    <ref>A1498</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>Chinese</dico>

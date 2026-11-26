@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="A1518">
   <head>
     <unicode>ᠠᠪᠣᠷᠠᠬᠴᠢ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>aboragci</transcript2>
     <cyrillic>аврагч</cyrillic>
   </head>
+  <see_also>
+    <ref>A1515</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>Lessing</dico>

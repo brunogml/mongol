@@ -14,8 +14,8 @@
 <item><ref>A0011</ref><unicode>ᠠᠤᠢᠲ᠋ᠤ᠋</unicode><transcript>auto</transcript><transcript2>aodo</transcript2><cyrillic>авто</cyrillic></item>
 <item><ref>A0012</ref><unicode>ᠠᠤᠢᠲ᠋ᠤᠨᠤᠮᠢ</unicode><transcript>autonomi</transcript><transcript2>aodonomi</transcript2><cyrillic>автономи</cyrillic></item>
 <item><ref>A0013</ref><unicode>ᠠᠤᠢᠲ᠋ᠤᠨᠤᠮᠢᠳᠤ</unicode><transcript>autonomitu</transcript><transcript2>aodonomido</transcript2><cyrillic>автономит</cyrillic></item>
-<item><ref>A0014</ref><unicode>ᠠᠤᠢᠲ᠋ᠤᠪᠠᠽ</unicode><transcript>autobač</transcript><transcript2>aodobac</transcript2><cyrillic>автобааз</cyrillic><variants><v t="cyrillic">автобаз</v></variants></item>
-<item><ref>A0015</ref><unicode>ᠠᠤᠢᠲ᠋ᠤᠪᠤᠢᠰ</unicode><transcript>autobüs</transcript><transcript2>aodobös</transcript2><cyrillic>автобус</cyrillic></item>
+<item><ref>A0014</ref><unicode>ᠠᠤᠢᠲ᠋ᠤᠪᠠᠽ</unicode><transcript>autobač</transcript><exact_transcript>autobaz</exact_transcript><transcript2>aodobac</transcript2><cyrillic>автобааз</cyrillic><variants><v t="cyrillic">автобаз</v></variants></item>
+<item><ref>A0015</ref><unicode>ᠠᠦ᠋ᠲ᠋ᠣᠪᠦ᠋ᠰ</unicode><transcript>autobüs</transcript><transcript2>aodobös</transcript2><cyrillic>автобус</cyrillic></item>
 <item><ref>A0016</ref><unicode>ᠠᠤᠢᠲ᠋ᠤᠳ᠋ᠡᠭᠡᠪᠥᠷᠢ</unicode><transcript>autodegegebüri</transcript><transcript2>aododegegeböri</transcript2><cyrillic>автотээвэр</cyrillic></item>
 <item><ref>A0017</ref><unicode>ᠠᠤᠢᠲ᠋ᠤᠳ᠋ᠣᠰᠣ</unicode><transcript>autotusu</transcript><transcript2>aododoso</transcript2><cyrillic>автотос</cyrillic></item>
 <item><ref>A0018</ref><unicode>ᠠᠤᠢᠲ᠋ᠤᠮᠠᠱᠢᠨ</unicode><transcript>automasin</transcript><transcript2>aodomasin</transcript2><cyrillic>автомашин</cyrillic><variants><v t="unicode">ᠠᠦ᠋ᠲ᠋ᠣ᠋ ᠮᠠᠰᠢᠨ</v></variants></item>
@@ -1422,7 +1422,6 @@
 <item><ref>A1305</ref><unicode>ᠠᠪᠠᠭᠠᠬᠠᠢ</unicode><transcript>abaγaqai</transcript><transcript2>abagagai</transcript2><cyrillic></cyrillic></item>
 <item><ref>A1308</ref><unicode>ᠠᠪᠠᠭᠠᠯᠢ</unicode><transcript>abaγali</transcript><transcript2>abagali</transcript2><cyrillic>авгааль</cyrillic></item>
 <item><ref>A1307</ref><unicode>ᠠᠪᠠᠭᠠᠯᠳᠠᠢ</unicode><transcript>abaγaldai</transcript><transcript2>abagaldai</transcript2><cyrillic>авгалдай</cyrillic></item>
-<item><ref>A1309</ref><unicode>ᠠᠪᠠᠭᠠᠯᠳᠠᠢ</unicode><transcript>abaγaldai</transcript><transcript2>abagaldai</transcript2><cyrillic>авгалдай</cyrillic></item>
 <item><ref>A1310</ref><unicode>ᠠᠪᠠᠭᠠᠯᠳᠠᠶᠢᠯᠠᠬᠣ</unicode><transcript>abaγaldayilaqu</transcript><transcript2>abagaldayilago</transcript2><cyrillic>авгалдайлах</cyrillic></item>
 <item><ref>A1311</ref><unicode>ᠠᠪᠠᠭᠠᠯᠳᠠᠶᠢᠷᠠᠬᠣ</unicode><transcript>abaγaldayiraqu</transcript><transcript2>abagaldayirago</transcript2><cyrillic>авгалдайрхуу</cyrillic></item>
 <item><ref>A1312</ref><unicode>ᠠᠪᠠᠺᠠᠮ᠎ᠠ</unicode><transcript>abaγam-a</transcript><transcript2>abagam-a</transcript2><cyrillic></cyrillic></item>
@@ -1483,7 +1482,7 @@
 <item><ref>A1364</ref><unicode>ᠠᠪᠠᠷᠢᠰᠢ</unicode><transcript>abarisi</transcript><transcript2>abarisi</transcript2><cyrillic>авирш</cyrillic></item>
 <item><ref>A1365</ref><unicode>ᠠᠪᠠᠷᠢᠯᠠᠯ</unicode><transcript>abarilal</transcript><transcript2>abarilal</transcript2><cyrillic>авирлал</cyrillic></item>
 <item><ref>A1366</ref><unicode>ᠠᠪᠠᠷᠢᠯᠠᠯᠲᠠ</unicode><transcript>abarilalta</transcript><transcript2>abarilalda</transcript2><cyrillic>авирлалт</cyrillic></item>
-<item><ref>A1367</ref><unicode>ᠠᠪᠠᠷᠢᠯᠭ᠎ᠠ</unicode><transcript>abarilγ-a</transcript><transcript2>abarilga</transcript2><cyrillic>авирлага</cyrillic></item>
+<item><ref>A1367</ref><unicode>ᠠᠪᠠᠷᠢᠯᠭ᠎ᠠ</unicode><transcript>abarilγ-a</transcript><transcript2>abarilga</transcript2><cyrillic>авирлага</cyrillic><variants><v t="unicode">ᠠᠪᠠᠷᠢᠯᠭᠠ</v></variants></item>
 <item><ref>A1368</ref><unicode>ᠠᠪᠠᠷᠢᠯᠲᠠ</unicode><transcript>abarilta</transcript><transcript2>abarilda</transcript2><cyrillic>авиралт</cyrillic></item>
 <item><ref>A1369</ref><unicode>ᠠᠪᠠᠷᠢᠯᠳᠣᠬᠣ</unicode><transcript>abarilduqu</transcript><transcript2>abarildogo</transcript2><cyrillic>авиралдах</cyrillic></item>
 <item><ref>A1370</ref><unicode>ᠠᠪᠠᠷᠢᠯᠴᠠᠬᠣ</unicode><transcript>abarilčaqu</transcript><transcript2>abarilcago</transcript2><cyrillic>авиралцах</cyrillic></item>
@@ -1508,7 +1507,7 @@
 <item><ref>A1387</ref><unicode>ᠠᠪᠢᠳ</unicode><transcript>abid</transcript><transcript2>abid</transcript2><cyrillic></cyrillic></item>
 <item><ref>A1388</ref><unicode>ᠠᠪᠢᠳᠠ</unicode><transcript>abida</transcript><transcript2>abida</transcript2><cyrillic>авид</cyrillic><variants><v t="cyrillic">авида</v></variants></item>
 <item><ref>A1389</ref><unicode>ᠠᠪᠢᠳᠠᠶ᠎ᠠ</unicode><transcript>abiday-a</transcript><transcript2>abiday-a</transcript2><cyrillic></cyrillic></item>
-<item><ref>A1390</ref><unicode>ᠠᠪᠢᠳᠠᠷᠮ᠎ᠠ</unicode><transcript>abidarma</transcript><transcript2>abidarma</transcript2><cyrillic>авидарма</cyrillic></item>
+<item><ref>A1390</ref><unicode>ᠠᠪᠢᠳᠠᠷᠮ᠎ᠠ</unicode><transcript>abidarm-a</transcript><transcript2>abidarma</transcript2><cyrillic>авидарма</cyrillic></item>
 <item><ref>A1390a</ref><unicode>ᠠᠪᠢᠳᠠᠷᠮᠠᠴᠢ</unicode><transcript>abidarmači</transcript><transcript2>abidarmaci</transcript2><cyrillic></cyrillic></item>
 <item><ref>A1391</ref><unicode>ᠠᠪᠢᠳᠰᠢ</unicode><transcript>abidsi</transcript><transcript2>abidsi</transcript2><cyrillic></cyrillic></item>
 <item><ref>A1391a</ref><unicode>ᠠᠪᠢᠳᠯᠠᠬᠣ</unicode><transcript>abidlaqu</transcript><transcript2>abidlago</transcript2><cyrillic>авидлах</cyrillic></item>
@@ -1516,9 +1515,9 @@
 <item><ref>A1391c</ref><unicode>ᠠᠪᠢᠳᠯᠠᠯ</unicode><transcript>abidlal</transcript><transcript2>abidlal</transcript2><cyrillic>авидлал</cyrillic></item>
 <item><ref>A1391d</ref><unicode>ᠠᠪᠢᠯᠠᠬ</unicode><transcript>abilaγ</transcript><transcript2>abilag</transcript2><cyrillic></cyrillic></item>
 <item><ref>A1391e</ref><unicode>ᠠᠪᠢᠯᠳᠠᠬᠣ</unicode><transcript>abildaqu</transcript><transcript2>abildago</transcript2><cyrillic></cyrillic></item>
-<item><ref>A1392</ref><unicode>ᠠᠪᠢᠼᠢ</unicode><transcript>abiči</transcript><transcript2>abici</transcript2><cyrillic>авиз</cyrillic><variants><v t="cyrillic">авизий</v></variants></item>
+<item><ref>A1392</ref><unicode>ᠠᠪᠢᠽᠢ</unicode><transcript>abiči</transcript><exact_transcript>abizi</exact_transcript><transcript2>abici</transcript2><cyrillic>авиз</cyrillic><variants><v t="cyrillic">авизий</v></variants></item>
 <item><ref>A1392a</ref><unicode>ᠠᠪᠢᠴᠢ</unicode><transcript>abiči</transcript><transcript2>abici</transcript2><cyrillic>авьч</cyrillic></item>
-<item><ref>A1393</ref><unicode>ᠠᠪᠢᠶ᠎ᠠ</unicode><transcript>abiya</transcript><transcript2>abiya</transcript2><cyrillic>авиа</cyrillic><variants><v t="cyrillic">авиан</v></variants></item>
+<item><ref>A1393</ref><unicode>ᠠᠪᠢᠶ᠎ᠠ</unicode><transcript>abiya</transcript><transcript2>abiya</transcript2><cyrillic>авиа</cyrillic><variants><v t="cyrillic">авиан</v><v t="unicode">ᠠᠪᠢᠶᠠ</v><v t="unicode">ᠠᠪᠢᠶᠠᠨ</v></variants></item>
 <item><ref>A1394</ref><unicode>ᠠᠪᠢᠶᠠᠨᠵᠣᠢ</unicode><transcript>abiyanǰui</transcript><transcript2>abiyancoi</transcript2><cyrillic>авианзүй</cyrillic></item>
 <item><ref>A1395</ref><unicode>ᠠᠪᠢᠶᠠᠨᠵᠣᠶᠢᠴᠢ</unicode><transcript>abiyanǰuyiči</transcript><transcript2>abiyancoyici</transcript2><cyrillic>авианзүйч</cyrillic></item>
 <item><ref>A1396</ref><unicode>ᠠᠪᠢᠶᠠᠩᠷᠢᠳ</unicode><transcript>abiyankrit</transcript><transcript2>abiyangrid</transcript2><cyrillic>авъяакрит</cyrillic></item>
@@ -1541,8 +1540,8 @@
 <item><ref>A1413</ref><unicode>ᠠᠪᠢᠶᠠᠰᠯᠠᠬᠳᠠᠬᠣ</unicode><transcript>abiyaslaγdaqu</transcript><transcript2>abiyaslagdago</transcript2><cyrillic>авьяаслагдах</cyrillic></item>
 <item><ref>A1414</ref><unicode>ᠠᠪᠢᠶᠠᠰᠯᠢᠬ</unicode><transcript>abiyasliγ</transcript><transcript2>abiyaslig</transcript2><cyrillic>авьяаслаг</cyrillic><variants><v t="cyrillic">авьяслаг</v></variants></item>
 <item><ref>A1415</ref><unicode>ᠠᠪᠢᠶᠠᠰᠵᠢᠬᠣ</unicode><transcript>abiyasǰiqu</transcript><transcript2>abiyascigo</transcript2><cyrillic>авьяасжих</cyrillic></item>
-<item><ref>A1416</ref><unicode>ᠠᠪᠢᠶᠠᠲᠠᠢ</unicode><transcript>abiyatai</transcript><transcript2>abiyadai</transcript2><cyrillic>авиатай</cyrillic></item>
-<item><ref>A1417</ref><unicode>ᠠᠪᠢᠶᠠᠲᠣ</unicode><transcript>abiyatu</transcript><transcript2>abiyado</transcript2><cyrillic>авиат</cyrillic></item>
+<item><ref>A1416</ref><unicode>ᠠᠪᠢᠶᠠᠲᠠᠢ</unicode><transcript>abiyatai</transcript><transcript2>abiyadai</transcript2><cyrillic>авиатай</cyrillic><variants><v t="unicode">ᠠᠪᠢᠶ ᠠ ᠎ᠲᠠᠢ</v></variants></item>
+<item><ref>A1417</ref><unicode>ᠠᠪᠢᠶᠠᠲᠣ</unicode><transcript>abiyatu</transcript><transcript2>abiyado</transcript2><cyrillic>авиат</cyrillic><variants><v t="unicode">ᠠᠪᠢᠶ ᠠ ᠎ᠲᠤ</v></variants></item>
 <item><ref>A1418</ref><unicode>ᠠᠪᠢᠶᠠᠯᠠᠬᠣ</unicode><transcript>abiyalaqu</transcript><transcript2>abiyalago</transcript2><cyrillic>авиалах</cyrillic></item>
 <item><ref>A1419</ref><unicode>ᠠᠪᠢᠶᠠᠯᠠᠭᠣᠷ</unicode><transcript>abiyalaγur</transcript><transcript2>abiyalagor</transcript2><cyrillic>авиалуур</cyrillic></item>
 <item><ref>A1421</ref><unicode>ᠠᠪᠢᠶᠠᠯᠠᠪᠣᠷᠢ</unicode><transcript>abiyalaburi</transcript><transcript2>abiyalabori</transcript2><cyrillic>авиалбар</cyrillic></item>
@@ -1561,7 +1560,7 @@
 <item><ref>A1432a</ref><unicode>ᠠᠪᠢᠷᠠᠳᠠᠬ</unicode><transcript>abiradaγ</transcript><transcript2>abiradag</transcript2><cyrillic></cyrillic></item>
 <item><ref>A1433</ref><unicode>ᠠᠪᠢᠷᠠᠯᠴᠠᠬᠣ</unicode><transcript>abiralčaqu</transcript><transcript2>abiralcago</transcript2><cyrillic></cyrillic></item>
 <item><ref>A1433a</ref><unicode>ᠠᠪᠢᠷᠢ</unicode><transcript>abiri</transcript><transcript2>abiri</transcript2><cyrillic></cyrillic></item>
-<item><ref>A1434</ref><unicode>ᠠᠪᠣ</unicode><transcript>abu</transcript><transcript2>abo</transcript2><cyrillic>аав</cyrillic></item>
+<item><ref>A1434</ref><unicode>ᠠᠪᠣ</unicode><transcript>abu</transcript><transcript2>abo</transcript2><cyrillic>аав</cyrillic><variants><v t="cyrillic">ав</v></variants></item>
 <item><ref>A1435</ref><unicode>ᠠᠪᠣᠨ</unicode><transcript>abun</transcript><transcript2>abon</transcript2><cyrillic>аван</cyrillic></item>
 <item><ref>A1436</ref><unicode>ᠠᠪᠣᠩᠬᠠᠢ</unicode><transcript>abungqai</transcript><transcript2>abonggai</transcript2><cyrillic>аванхай</cyrillic></item>
 <item><ref>A1437</ref><unicode>ᠠᠪᠣᠩᠬᠠᠶᠢᠯᠠᠬᠣ</unicode><transcript>abungqayilaqu</transcript><transcript2>abonggayilago</transcript2><cyrillic>аванхайлах</cyrillic></item>
@@ -1570,7 +1569,7 @@
 <item><ref>A1440</ref><unicode>ᠠᠪᠣᠩᠬᠠᠶᠢᠯᠠᠴᠢᠬᠠᠬᠣ</unicode><transcript>abungqayilačiqaqu</transcript><transcript2>abonggayilacigago</transcript2><cyrillic>аванхайлчихах</cyrillic></item>
 <item><ref>A1441</ref><unicode>ᠠᠪᠣᠩᠭᠠᠷ</unicode><transcript>abungγar</transcript><transcript2>abonggar</transcript2><cyrillic>авангаар</cyrillic></item>
 <item><ref>A1441a</ref><unicode>ᠠᠪᠣᠩᠭᠠᠷᠯᠠᠬᠣ</unicode><transcript>abungγarlaqu</transcript><transcript2>abonggarlago</transcript2><cyrillic>авангарлах</cyrillic></item>
-<item><ref>A1442</ref><unicode>ᠠᠪᠣᠭ᠎ᠠ</unicode><transcript>abuγ-a</transcript><transcript2>aboga</transcript2><cyrillic>абга</cyrillic></item>
+<item><ref>A1442</ref><unicode>ᠠᠪᠣᠭ᠎ᠠ</unicode><transcript>abuγ-a</transcript><transcript2>aboga</transcript2><cyrillic>абга</cyrillic><variants><v t="unicode">ᠠᠪᠣᠭᠠ</v></variants></item>
 <item><ref>A1443</ref><unicode>ᠠᠪᠣᠭᠠᠢ</unicode><transcript>abuγai</transcript><transcript2>abogai</transcript2><cyrillic>авгай</cyrillic></item>
 <item><ref>A1306</ref><unicode>ᠠᠪᠣᠭᠠᠳ</unicode><transcript>abuγad</transcript><transcript2>abogad</transcript2><cyrillic>аваад</cyrillic></item>
 <item><ref>A1444</ref><unicode>ᠠᠪᠣᠭᠠᠲᠠᠢ</unicode><transcript>abuγatai</transcript><transcript2>abogadai</transcript2><cyrillic>аваатай</cyrillic></item>
@@ -1580,7 +1579,7 @@
 <item><ref>A1448</ref><unicode>ᠠᠪᠣᠭᠠᠴᠢᠬᠣ</unicode><transcript>abuγačiqu</transcript><transcript2>abogacigo</transcript2><cyrillic></cyrillic></item>
 <item><ref>A1449</ref><unicode>ᠠᠪᠣᠭᠠᠵᠢᠶᠠᠷ</unicode><transcript>abuγaǰiyar</transcript><transcript2>abogaciyar</transcript2><cyrillic>аваажаар</cyrillic></item>
 <item><ref>A1450</ref><unicode>ᠠᠪᠣᠭᠠᠶᠢᠰᠠᠬ</unicode><transcript>abuγayisaγ</transcript><transcript2>abogayisag</transcript2><cyrillic>авгайсаг</cyrillic></item>
-<item><ref>A1451</ref><unicode>ᠠᠪᠣᠭᠠᠶᠢᠲᠠᠢ</unicode><transcript>abuγayitai</transcript><transcript2>abogayidai</transcript2><cyrillic>авгайтай</cyrillic></item>
+<item><ref>A1451</ref><unicode>ᠠᠪᠣᠭᠠᠶᠢᠲᠠᠢ</unicode><transcript>abuγayitai</transcript><transcript2>abogayidai</transcript2><cyrillic>авгайтай</cyrillic><variants><v t="unicode">ᠠᠪᠤᠭᠠᠢ ᠎ᠲᠠᠢ</v></variants></item>
 <item><ref>A1452</ref><unicode>ᠠᠪᠣᠭᠠᠶᠢᠯᠠᠬᠣ</unicode><transcript>abuγayilaqu</transcript><transcript2>abogayilago</transcript2><cyrillic>авгайлах</cyrillic></item>
 <item><ref>A1453</ref><unicode>ᠠᠪᠣᠭᠠᠶᠢᠴᠣᠣᠯ</unicode><transcript>abuγayičoul</transcript><transcript2>abogayicool</transcript2><cyrillic>авгайцуул</cyrillic></item>
 <item><ref>A1453a</ref><unicode>ᠠᠪᠣᠭᠠᠶᠢᠷᠠᠬᠣ</unicode><transcript>abuγayiraqu</transcript><transcript2>abogayirago</transcript2><cyrillic>авгайрах</cyrillic></item>
@@ -1602,13 +1601,13 @@
 <item><ref>A1467</ref><unicode>ᠠᠪᠣᠯᠠᠯᠳᠣᠬᠣ</unicode><transcript>abulalduqu</transcript><transcript2>abolaldogo</transcript2><cyrillic>авлалдах</cyrillic></item>
 <item><ref>A1468</ref><unicode>ᠠᠪᠣᠯᠠᠯᠴᠠᠬᠣ</unicode><transcript>abulalčaqu</transcript><transcript2>abolalcago</transcript2><cyrillic>авлалцах</cyrillic></item>
 <item><ref>A1469</ref><unicode>ᠠᠪᠣᠯᠭ᠎ᠠ</unicode><transcript>abulγ-a</transcript><transcript2>abolga</transcript2><cyrillic>авлага</cyrillic><variants><v t="unicode">ᠠᠪᠣᠯᠭᠠ</v></variants></item>
-<item><ref>A1470</ref><unicode>ᠠᠪᠣᠯᠭᠠᠲᠠᠢ</unicode><transcript>abulγatai</transcript><transcript2>abolgadai</transcript2><cyrillic>авлагатай</cyrillic></item>
+<item><ref>A1470</ref><unicode>ᠠᠪᠣᠯᠭᠠᠲᠠᠢ</unicode><transcript>abulγatai</transcript><transcript2>abolgadai</transcript2><cyrillic>авлагатай</cyrillic><variants><v t="unicode">ᠠᠪᠤᠯᠭ ᠠ ᠎ᠲᠠᠢ</v></variants></item>
 <item><ref>A1471</ref><unicode>ᠠᠪᠣᠯᠭᠠᠯᠠᠬᠣ</unicode><transcript>abulγalaqu</transcript><transcript2>abolgalago</transcript2><cyrillic>авалгалах</cyrillic></item>
 <item><ref>A1472</ref><unicode>ᠠᠪᠣᠯᠭᠠᠴᠢ</unicode><transcript>abulγači</transcript><transcript2>abolgaci</transcript2><cyrillic>авлагач</cyrillic></item>
 <item><ref>A1473</ref><unicode>ᠠᠪᠣᠯᠭᠠᠺᠥᠢ</unicode><transcript>abulγagüi</transcript><transcript2>abolgagöi</transcript2><cyrillic>авлагагүй</cyrillic></item>
 <item><ref>A1474</ref><unicode>ᠠᠪᠣᠯᠲᠠ</unicode><transcript>abulta</transcript><transcript2>abolda</transcript2><cyrillic>авалт</cyrillic></item>
 <item><ref>A1475</ref><unicode>ᠠᠪᠣᠯᠲᠠᠢ</unicode><transcript>abultai</transcript><transcript2>aboldai</transcript2><cyrillic>авалтай</cyrillic></item>
-<item><ref>A1476</ref><unicode>ᠠᠪᠣᠯᠲᠠᠬᠣ</unicode><transcript>abultaqu</transcript><transcript2>aboldago</transcript2><cyrillic></cyrillic></item>
+<item><ref>A1476</ref><unicode>ᠠᠪᠣᠯᠲᠠᠬᠣ</unicode><transcript>abuldaqu</transcript><transcript2>aboldago</transcript2><cyrillic>авалдах</cyrillic></item>
 <item><ref>A1477</ref><unicode>ᠠᠪᠣᠯᠳᠣᠭ᠎ᠠ</unicode><transcript>abulduγ-a</transcript><transcript2>aboldoga</transcript2><cyrillic>авалдаа</cyrillic></item>
 <item><ref>A1478</ref><unicode>ᠠᠪᠣᠯᠳᠣᠭᠠᠲᠠᠢ</unicode><transcript>abulduγatai</transcript><transcript2>aboldogadai</transcript2><cyrillic>авалдаатай</cyrillic></item>
 <item><ref>A1479</ref><unicode>ᠠᠪᠣᠯᠳᠣᠭᠠᠳᠥᠢ</unicode><transcript>abulduγadüi</transcript><transcript2>aboldogadöi</transcript2><cyrillic>авалдаадүй</cyrillic></item>
@@ -1635,7 +1634,7 @@
 <item><ref>A1500</ref><unicode>ᠠᠪᠣᠮᠬᠠᠢ</unicode><transcript>abumqai</transcript><transcript2>abomgai</transcript2><cyrillic>авамхай</cyrillic></item>
 <item><ref>A1501</ref><unicode>ᠠᠪᠣᠮᠲᠠᠭᠠᠢ</unicode><transcript>abumtaγai</transcript><transcript2>abomdagai</transcript2><cyrillic>авамтгай</cyrillic></item>
 <item><ref>A1502</ref><unicode>ᠠᠪᠣᠮᠵᠢ</unicode><transcript>abumǰi</transcript><transcript2>abomci</transcript2><cyrillic>авамж</cyrillic></item>
-<item><ref>A1503</ref><unicode>ᠠᠪᠣᠮᠺᠥᠢ</unicode><transcript>abumgüi</transcript><transcript2>abomgöi</transcript2><cyrillic>авамгүй</cyrillic></item>
+<item><ref>A1503</ref><unicode>ᠠᠪᠣᠮᠠᠺᠥᠢ</unicode><transcript>abumagüi</transcript><transcript2>abomgöi</transcript2><cyrillic>авамгүй</cyrillic></item>
 <item><ref>A1504</ref><unicode>ᠠᠪᠣᠴᠠ</unicode><transcript>abuča</transcript><transcript2>aboca</transcript2><cyrillic>авц</cyrillic></item>
 <item><ref>A1505</ref><unicode>ᠠᠪᠣᠴᠠᠭ᠎ᠠ</unicode><transcript>abučaγ-a</transcript><transcript2>abocaga</transcript2><cyrillic>авцаа</cyrillic><variants><v t="unicode">ᠠᠪᠤᠴᠠᠭᠠᠨ</v><v t="cyrillic">авцаан</v></variants></item>
 <item><ref>A1506</ref><unicode>ᠠᠪᠣᠴᠠᠭᠠᠢ</unicode><transcript>abučaγai</transcript><transcript2>abocagai</transcript2><cyrillic>авцгай</cyrillic></item>
@@ -1653,9 +1652,9 @@
 <item><ref>A1518</ref><unicode>ᠠᠪᠣᠷᠠᠬᠴᠢ</unicode><transcript>aburaγči</transcript><transcript2>aboragci</transcript2><cyrillic>аврагч</cyrillic></item>
 <item><ref>A1518a</ref><unicode>ᠠᠪᠣᠷᠠᠳᠠᠬ</unicode><transcript>aburadaγ</transcript><transcript2>aboradag</transcript2><cyrillic></cyrillic></item>
 <item><ref>A1519</ref><unicode>ᠠᠪᠣᠷᠠᠯ</unicode><transcript>abural</transcript><transcript2>aboral</transcript2><cyrillic>аврал</cyrillic></item>
-<item><ref>A1520</ref><unicode>ᠠᠪᠣᠷᠠᠯᠲᠠᠢ</unicode><transcript>aburaltai</transcript><transcript2>aboraldai</transcript2><cyrillic>авралтай</cyrillic></item>
+<item><ref>A1520</ref><unicode>ᠠᠪᠣᠷᠠᠯᠲᠠᠢ</unicode><transcript>aburaltai</transcript><transcript2>aboraldai</transcript2><cyrillic>авралтай</cyrillic><variants><v t="unicode">ᠠᠪᠤᠷᠠᠯ ᠎ᠲᠠᠢ</v></variants></item>
 <item><ref>A1520a</ref><unicode>ᠠᠪᠣᠷᠠᠯᠲᠠᠨ</unicode><transcript>aburaltan</transcript><transcript2>aboraldan</transcript2><cyrillic>авралтан</cyrillic></item>
-<item><ref>A1521</ref><unicode>ᠠᠪᠣᠷᠠᠯᠲᠣ</unicode><transcript>aburaltu</transcript><transcript2>aboraldo</transcript2><cyrillic>авралт</cyrillic></item>
+<item><ref>A1521</ref><unicode>ᠠᠪᠣᠷᠠᠯᠲᠣ</unicode><transcript>aburaltu</transcript><transcript2>aboraldo</transcript2><cyrillic>авралт</cyrillic><variants><v t="unicode">ᠠᠪᠤᠷᠠᠯ ᠎ᠲᠤ</v></variants></item>
 <item><ref>A1522</ref><unicode>ᠠᠪᠣᠷᠠᠯᠳᠣᠬᠣ</unicode><transcript>aburalduqu</transcript><transcript2>aboraldogo</transcript2><cyrillic>авралдах</cyrillic></item>
 <item><ref>A1523</ref><unicode>ᠠᠪᠣᠷᠠᠯᠴᠠᠬᠣ</unicode><transcript>aburalčaqu</transcript><transcript2>aboralcago</transcript2><cyrillic>авралцах</cyrillic></item>
 <item><ref>A1524</ref><unicode>ᠠᠪᠣᠷᠠᠮᠠᠬᠠᠢ</unicode><transcript>aburamaqai</transcript><transcript2>aboramagai</transcript2><cyrillic>аврамхай</cyrillic></item>
@@ -1664,11 +1663,11 @@
 <item><ref>A1527</ref><unicode>ᠠᠪᠣᠷᠠᠴᠢᠬᠠᠬᠣ</unicode><transcript>aburačiqaqu</transcript><transcript2>aboracigago</transcript2><cyrillic>аварчихах</cyrillic></item>
 <item><ref>A1528</ref><unicode>ᠠᠪᠣᠷᠢ</unicode><transcript>aburi</transcript><transcript2>abori</transcript2><cyrillic>авир</cyrillic></item>
 <item><ref>A1529</ref><unicode>ᠠᠪᠣᠷᠢᠳᠠ</unicode><transcript>aburida</transcript><transcript2>aborida</transcript2><cyrillic>авирд</cyrillic><variants><v t="cyrillic">аврид</v><v t="cyrillic">авуурид</v><v t="cyrillic">авуурьд</v></variants></item>
-<item><ref>A1530</ref><unicode>ᠠᠪᠣᠷᠢᠲᠠᠢ</unicode><transcript>aburitai</transcript><transcript2>aboridai</transcript2><cyrillic>авиртай</cyrillic></item>
+<item><ref>A1530</ref><unicode>ᠠᠪᠣᠷᠢᠲᠠᠢ</unicode><transcript>aburitai</transcript><transcript2>aboridai</transcript2><cyrillic>авиртай</cyrillic><variants><v t="unicode">ᠠᠪᠤᠷᠢ ᠎ᠲᠠᠢ</v></variants></item>
 <item><ref>A1530a</ref><unicode>ᠠᠪᠣᠷᠢᠲᠠᠨ</unicode><transcript>aburitan</transcript><transcript2>aboridan</transcript2><cyrillic>авиртан</cyrillic></item>
 <item><ref>A1531</ref><unicode>ᠠᠪᠣᠷᠢᠳᠠᠬᠣ</unicode><transcript>aburidaqu</transcript><transcript2>aboridago</transcript2><cyrillic>авирдах</cyrillic></item>
 <item><ref>A1532</ref><unicode>ᠠᠪᠣᠷᠢᠳᠠᠭᠣ</unicode><transcript>aburidaγu</transcript><transcript2>aboridago</transcript2><cyrillic>авирдуу</cyrillic></item>
-<item><ref>A1533</ref><unicode>ᠠᠪᠣᠷᠢᠲᠣ</unicode><transcript>aburitu</transcript><transcript2>aborido</transcript2><cyrillic>авирт</cyrillic></item>
+<item><ref>A1533</ref><unicode>ᠠᠪᠣᠷᠢᠲᠣ</unicode><transcript>aburitu</transcript><transcript2>aborido</transcript2><cyrillic>авирт</cyrillic><variants><v t="unicode">ᠠᠪᠤᠷᠢ ᠎ᠲᠤ</v></variants></item>
 <item><ref>A1534</ref><unicode>ᠠᠪᠣᠷᠢᠯᠠᠬᠣ</unicode><transcript>aburilaqu</transcript><transcript2>aborilago</transcript2><cyrillic>авирлах</cyrillic></item>
 <item><ref>A1535</ref><unicode>ᠠᠪᠣᠷᠢᠯᠠᠭᠣᠯᠬᠣ</unicode><transcript>aburilaγulqu</transcript><transcript2>aborilagolgo</transcript2><cyrillic>авирлуулах</cyrillic></item>
 <item><ref>A1536</ref><unicode>ᠠᠪᠣᠷᠢᠯᠠᠯ</unicode><transcript>aburilal</transcript><transcript2>aborilal</transcript2><cyrillic>авирлал</cyrillic></item>
@@ -1679,7 +1678,7 @@
 <item><ref>A1541</ref><unicode>ᠠᠪᠣᠷᠢᠭᠥᠶᠢ᠍ᠳᠡᠭᠥᠥ</unicode><transcript>aburigyüidegüü</transcript><transcript2>aborigyöidegöö</transcript2><cyrillic>авиргүйдүү</cyrillic></item>
 <item><ref>A1542</ref><unicode>ᠠᠪᠣᠷᠢᠭᠥᠶᠢ᠍ᠳᠥᠭᠥ</unicode><transcript>aburigyüitükü</transcript><transcript2>aborigyöidögö</transcript2><cyrillic>авиргүйтэх</cyrillic></item>
 <item><ref>A1543</ref><unicode>ᠠᠪᠣᠷᠢᠭᠥᠶᠢ᠍ᠭᠡᠨ</unicode><transcript>aburigyüiken</transcript><transcript2>aborigyöigen</transcript2><cyrillic>авиргүйхэн</cyrillic></item>
-<item><ref>A1544</ref><unicode>ᠠᠪᠣᠷᠭ᠎ᠠ</unicode><transcript>aburγ-a</transcript><transcript2>aborga</transcript2><cyrillic>аварга</cyrillic></item>
+<item><ref>A1544</ref><unicode>ᠠᠪᠣᠷᠭ᠎ᠠ</unicode><transcript>aburγ-a</transcript><transcript2>aborga</transcript2><cyrillic>аварга</cyrillic><variants><v t="unicode">ᠠᠪᠣᠷᠭᠠ</v></variants></item>
 <item><ref>A1545</ref><unicode>ᠠᠪᠣᠷᠬᠠᠬ</unicode><transcript>aburqaγ</transcript><transcript2>aborgag</transcript2><cyrillic>аавархаг</cyrillic></item>
 <item><ref>A1545a</ref><unicode>ᠠᠪᠣᠷᠬᠠᠬᠣ</unicode><transcript>aburqaqu</transcript><transcript2>aborgago</transcript2><cyrillic>аавархах</cyrillic></item>
 <item><ref>A1546</ref><unicode>ᠠᠪᠣᠷᠭᠣ</unicode><transcript>aburγu</transcript><transcript2>aborgo</transcript2><cyrillic>аврага</cyrillic><variants><v t="cyrillic">аварга</v></variants></item>
@@ -1761,7 +1760,7 @@
 <item><ref>A1621</ref><unicode>ᠠᠪᠳᠠᠷᠠᠯᠠᠮᠠᠲᠠᠭᠠᠢ</unicode><transcript>abdaralamataγai</transcript><transcript2>abdaralamadagai</transcript2><cyrillic>авдарламтгай</cyrillic></item>
 <item><ref>A1622</ref><unicode>ᠠᠪᠳᠠᠷᠠᠯᠠᠴᠢᠬᠠᠬᠣ</unicode><transcript>abdaralačiqaqu</transcript><transcript2>abdaralacigago</transcript2><cyrillic>авдарлачихах</cyrillic></item>
 <item><ref>A1623</ref><unicode>ᠠᠪᠳᠠᠷᠠᠯᠵᠠᠭᠠᠬᠣ</unicode><transcript>abdaralǰaγaqu</transcript><transcript2>abdaralcagago</transcript2><cyrillic>авдарлацгаах</cyrillic></item>
-<item><ref>A1624</ref><unicode>ᠠᠪᠳᠠᠷᠠᠴᠢ</unicode><transcript>abdarači</transcript><transcript2>abdaraci</transcript2><cyrillic>авдарч(ин)</cyrillic></item>
+<item><ref>A1624</ref><unicode>ᠠᠪᠳᠠᠷᠠᠴᠢ</unicode><transcript>abdarači</transcript><transcript2>abdaraci</transcript2><cyrillic>авдарч</cyrillic><variants><v t="unicode">ᠠᠪᠳᠠᠷᠠᠴᠢᠨ</v><v t="cyrillic">авдарчин</v></variants></item>
 <item><ref>A1625</ref><unicode>ᠠᠪᠳᠠᠷᠯᠠᠬᠣ</unicode><transcript>abdarlaqu</transcript><transcript2>abdarlago</transcript2><cyrillic>авдарлах</cyrillic></item>
 <item><ref>A1626</ref><unicode>ᠠᠫᠲ᠋ᠧᠺ</unicode><transcript>aptek</transcript><transcript2>apdeg</transcript2><cyrillic>аптек</cyrillic></item>
 <item><ref>A1627</ref><unicode>ᠠᠪᠯᠠᠬᠣ</unicode><transcript>ablaqu</transcript><transcript2>ablago</transcript2><cyrillic></cyrillic></item>
@@ -1773,11 +1772,11 @@
 <item><ref>A1633</ref><unicode>ᠠᠪᠯᠢᠭᠠᠴᠢᠯᠠᠬᠣ</unicode><transcript>abliγačilaqu</transcript><transcript2>abligacilago</transcript2><cyrillic>авлигачлах</cyrillic></item>
 <item><ref>A1634</ref><unicode>ᠠᠪᠯᠢᠰ</unicode><transcript>ablis</transcript><transcript2>ablis</transcript2><cyrillic>авлис</cyrillic></item>
 <item><ref>A1635</ref><unicode>ᠠᠪᠴᠠ</unicode><transcript>abča</transcript><transcript2>abca</transcript2><cyrillic>абц</cyrillic></item>
-<item><ref>A1636</ref><unicode>ᠠᠪᠴᠠᠭ᠎ᠠ</unicode><transcript>abčaγ-a</transcript><transcript2>abcaga</transcript2><cyrillic>абцаа</cyrillic></item>
-<item><ref>A1637</ref><unicode>ᠠᠪᠵᠠᠭ᠎ᠠ</unicode><transcript>abǰaγ-a</transcript><transcript2>abcaga</transcript2><cyrillic>авзаа</cyrillic></item>
+<item><ref>A1636</ref><unicode>ᠠᠪᠴᠠᠭ᠎ᠠ</unicode><transcript>abčaγ-a</transcript><transcript2>abcaga</transcript2><cyrillic>абцаа</cyrillic><variants><v t="unicode">ᠠᠪᠴᠠᠭᠠ</v></variants></item>
+<item><ref>A1637</ref><unicode>ᠠᠪᠵᠠᠭ᠎ᠠ</unicode><transcript>abǰaγ-a</transcript><transcript2>abcaga</transcript2><cyrillic>авзаа</cyrillic><variants><v t="unicode">ᠠᠪᠵᠠᠭᠠ</v></variants></item>
 <item><ref>A1638</ref><unicode>ᠠᠪᠴᠠᠭᠠᠬᠣ</unicode><transcript>abčaγaqu</transcript><transcript2>abcagago</transcript2><cyrillic>авцгаах</cyrillic></item>
-<item><ref>A1639</ref><unicode>ᠠᠪᠴᠠᠭᠠᠲᠠᠢ</unicode><transcript>abčaγatai</transcript><transcript2>abcagadai</transcript2><cyrillic>авцаатай</cyrillic></item>
-<item><ref>A1640</ref><unicode>ᠠᠪᠵᠠᠭᠠᠲᠠᠢ</unicode><transcript>abǰaγatai</transcript><transcript2>abcagadai</transcript2><cyrillic>авзаатай</cyrillic></item>
+<item><ref>A1639</ref><unicode>ᠠᠪᠴᠠᠭᠠᠲᠠᠢ</unicode><transcript>abčaγatai</transcript><transcript2>abcagadai</transcript2><cyrillic>авцаатай</cyrillic><variants><v t="unicode">ᠠᠪᠴᠠᠭᠠ ᠎ᠲᠠᠢ</v></variants></item>
+<item><ref>A1640</ref><unicode>ᠠᠪᠵᠠᠭᠠᠲᠠᠢ</unicode><transcript>abǰaγatai</transcript><transcript2>abcagadai</transcript2><cyrillic>авзаатай</cyrillic><variants><v t="unicode">ᠠᠪᠵᠠᠭᠠ ᠎ᠲᠠᠢ</v></variants></item>
 <item><ref>A1641</ref><unicode>ᠠᠪᠴᠠᠭᠠᠯᠠᠬᠣ</unicode><transcript>abčaγalaqu</transcript><transcript2>abcagalago</transcript2><cyrillic>авчаалах</cyrillic></item>
 <item><ref>A1642</ref><unicode>ᠠᠪᠵᠠᠭᠠᠯᠠᠬᠣ</unicode><transcript>abǰaγalaqu</transcript><transcript2>abcagalago</transcript2><cyrillic>авзаалах</cyrillic></item>
 <item><ref>A1643</ref><unicode>ᠠᠪᠵᠠᠭᠠᠯᠠᠯᠳᠣᠬᠣ</unicode><transcript>abǰaγalalduqu</transcript><transcript2>abcagalaldogo</transcript2><cyrillic>авзаалалдах</cyrillic></item>
@@ -4810,9 +4809,9 @@
 <item><ref>A4498</ref><unicode>ᠠᠷᠺᠢᠸᠯᠠᠬᠳᠠᠬᠣ</unicode><transcript>arkivlaγdaqu</transcript><transcript2>argivlagdago</transcript2><cyrillic>архивлагдах</cyrillic></item>
 <item><ref>A4500a</ref><unicode>ᠠᠷᠺᠳᠢᠺ</unicode><transcript>arktik</transcript><transcript2>argdig</transcript2><cyrillic>арктик</cyrillic></item>
 <item><ref>A4501</ref><unicode>ᠠᠷᠸᠢᠰ</unicode><transcript>arvis</transcript><transcript2>arvis</transcript2><cyrillic>арвиc</cyrillic></item>
-<item><ref>A4502</ref><unicode>ᠠᠸᠠᠩᠭ᠋ᠠᠷᠳ</unicode><transcript>avangγard</transcript><transcript2>avanggard</transcript2><cyrillic>авангард</cyrillic></item>
+<item><ref>A4502</ref><unicode>ᠠᠸᠠᠩᠭᠠᠷᠳ᠋</unicode><transcript>avangγard</transcript><transcript2>avanggard</transcript2><cyrillic>авангард</cyrillic></item>
 <item><ref>A4503</ref><unicode>ᠠᠸᠠᠨᠭᠠᠷᠳᠠ</unicode><transcript>avangγarda</transcript><transcript2>avanggarda</transcript2><cyrillic>авангард</cyrillic></item>
-<item><ref>A4504</ref><unicode>ᠠᠸᠠᠨᠭᠠᠷᠳᠯᠠᠬᠣ</unicode><transcript>avangγardlaqu</transcript><transcript2>avanggardlago</transcript2><cyrillic>авангардлах</cyrillic></item>
+<item><ref>A4504</ref><unicode>ᠠᠸᠠᠩᠭᠠᠷᠳ᠋ᠯᠠᠬᠤ</unicode><transcript>avangγardlaqu</transcript><transcript2>avanggardlago</transcript2><cyrillic>авангардлах</cyrillic></item>
 <item><ref>A4505</ref><unicode>ᠠᠸᠠᠨᠭᠠᠷᠳᠠᠯᠠᠬᠣ</unicode><transcript>avangγardalaqu</transcript><transcript2>avanggardalago</transcript2><cyrillic>авангардлах</cyrillic></item>
 <item><ref>A4506</ref><unicode>ᠠᠸᠠᠳᠠᠮ</unicode><transcript>avadam</transcript><transcript2>avadam</transcript2><cyrillic></cyrillic></item>
 <item><ref>A4507</ref><unicode>ᠠᠸᠠᠲᠠᠷᠠ</unicode><transcript>avatar-a</transcript><transcript2>avadar-a</transcript2><cyrillic></cyrillic></item>
@@ -71666,14 +71665,14 @@
 <item><ref>X0016</ref><unicode>ᠠᠳ᠋ᠷᠧᠨᠠᠯᠢᠨ</unicode><transcript>adrenalin</transcript><transcript2>adrenalin</transcript2><cyrillic>адреналин</cyrillic></item>
 <item><ref>X0017</ref><unicode>ᠠᠳ᠋ᠷᠧᠰᠯᠠᠵᠠᠭᠠᠬᠤ</unicode><transcript>adreslaǰaγaqu</transcript><transcript2>adreslacagago</transcript2><cyrillic>адресалцгаах</cyrillic></item>
 <item><ref>X0018</ref><unicode>ᠠᠳ᠋ᠷᠧᠰᠯᠠᠭᠤᠯᠬᠤ</unicode><transcript>adreslaγulqu</transcript><transcript2>adreslagolgo</transcript2><cyrillic>адреслуулах</cyrillic></item>
-<item><ref>X0019</ref><unicode>ᠠᠪᠯᠢᠶᠠᠼ</unicode><transcript>abliyač</transcript><transcript2>abliyac</transcript2><cyrillic>абляц</cyrillic></item>
+<item><ref>X0019</ref><unicode>ᠠᠪᠯᠢᠶᠠᠼ</unicode><transcript>abliyač</transcript><exact_transcript>abliyaç</exact_transcript><transcript2>abliyac</transcript2><cyrillic>абляц</cyrillic></item>
 <item><ref>X0020</ref><unicode>ᠠᠪᠣᠷᠲ᠋</unicode><transcript>abort</transcript><transcript2>abord</transcript2><cyrillic>аборт</cyrillic></item>
-<item><ref>X0021</ref><unicode>ᠠᠪᠷᠠᠽ</unicode><transcript>abrač</transcript><transcript2>abrac</transcript2><cyrillic>абраз</cyrillic></item>
+<item><ref>X0021</ref><unicode>ᠠᠪᠷᠠᠽ</unicode><transcript>abrač</transcript><exact_transcript>abraz</exact_transcript><transcript2>abrac</transcript2><cyrillic>абраз</cyrillic></item>
 <item><ref>X0022</ref><unicode>ᠠᠪᠷᠢᠺᠣᠰ</unicode><transcript>abrikos</transcript><transcript2>abrigos</transcript2><cyrillic>абрикос</cyrillic></item>
 <item><ref>X0023</ref><unicode>ᠠᠪᠰᠣᠯᠶᠦ᠋ᠲ᠋ᠢᠰᠮ</unicode><transcript>absolyutism</transcript><transcript2>absolyodism</transcript2><cyrillic>абсолютизм</cyrillic></item>
 <item><ref>X0024</ref><unicode>ᠠᠪᠰᠲ᠋ᠷᠠᠺᠲ᠋</unicode><transcript>abstrakt</transcript><transcript2>absdragd</transcript2><cyrillic>абстракт</cyrillic></item>
-<item><ref>X0025</ref><unicode>ᠠᠪᠰᠲ᠋ᠷᠠᠺᠼ</unicode><transcript>abstrakč</transcript><transcript2>absdragc</transcript2><cyrillic>абстракц</cyrillic></item>
-<item><ref>X0026</ref><unicode>ᠠᠪᠰᠲ᠋ᠷᠠᠺᠼᠢᠣᠨᠢᠰᠮ</unicode><transcript>abstrakčionism</transcript><transcript2>absdragcionism</transcript2><cyrillic>абстракционизм</cyrillic></item>
+<item><ref>X0025</ref><unicode>ᠠᠪᠰᠲ᠋ᠷᠠᠺᠼ</unicode><transcript>abstrakč</transcript><exact_transcript>abstrakç</exact_transcript><transcript2>absdragc</transcript2><cyrillic>абстракц</cyrillic></item>
+<item><ref>X0026</ref><unicode>ᠠᠪᠰᠲ᠋ᠷᠠᠺᠼᠢᠣᠨᠢᠰᠮ</unicode><transcript>abstrakčionism</transcript><exact_transcript>abstrakçionism</exact_transcript><transcript2>absdragcionism</transcript2><cyrillic>абстракционизм</cyrillic></item>
 <item><ref>X0027</ref><unicode>ᠠᠪᠤᠳᠠᠢ</unicode><transcript>abudai</transcript><transcript2>abodai</transcript2><cyrillic>абуудай</cyrillic></item>
 <item><ref>X0028</ref><unicode>ᠠᠪᠡᠭᠡᠯᠢ</unicode><transcript>abegeli</transcript><transcript2>abegeli</transcript2><cyrillic>абээл</cyrillic></item>
 <item><ref>X0029</ref><unicode>ᠠᠪᠠᠭᠠᠷᠠᠯᠳᠤᠬᠤ</unicode><transcript>abaγaralduqu</transcript><transcript2>abagaraldogo</transcript2><cyrillic>авааралдах</cyrillic></item>
@@ -71681,18 +71680,18 @@
 <item><ref>X0031</ref><unicode>ᠠᠸᠠᠩᠲ᠋ᠶᠦ᠋ᠷᠢᠰᠮ</unicode><transcript>avangtyurism</transcript><transcript2>avangdyorism</transcript2><cyrillic>авантюризм</cyrillic></item>
 <item><ref>X0032</ref><unicode>ᠠᠸᠭᠢᠲ᠋ᠢᠲ᠋</unicode><transcript>avgitit</transcript><transcript2>avgidid</transcript2><cyrillic>авгитит</cyrillic></item>
 <item><ref>X0033</ref><unicode>ᠠᠸᠭᠦ᠋ᠷ</unicode><transcript>avgür</transcript><transcript2>avgör</transcript2><cyrillic>авгур</cyrillic></item>
-<item><ref>X0034</ref><unicode>ᠠᠪᠢᠶᠠᠼ</unicode><transcript>abiyač</transcript><transcript2>abiyac</transcript2><cyrillic>авиац</cyrillic></item>
+<item><ref>X0034</ref><unicode>ᠠᠪᠢᠶᠠᠼ</unicode><transcript>abiyač</transcript><exact_transcript>abiyaç</exact_transcript><transcript2>abiyac</transcript2><cyrillic>авиац</cyrillic></item>
 <item><ref>X0035</ref><unicode>ᠠᠪᠯᠢᠭᠠᠭᠴᠢ</unicode><transcript>abliγaγči</transcript><transcript2>abligagci</transcript2><cyrillic>авилгагч</cyrillic></item>
 <item><ref>X0036</ref><unicode>ᠠᠪᠤᠷᠢᠭᠦᠢᠲᠦᠭᠦᠯᠬᠦ</unicode><transcript>aburigüyitügülkü</transcript><transcript2>aborigöyidögölgö</transcript2><cyrillic>авиргүйтүүлэх</cyrillic></item>
 <item><ref>X0037</ref><unicode>ᠠᠪᠤᠷᠭᠤᠯᠬᠤ</unicode><transcript>aburγulqu</transcript><transcript2>aborgolgo</transcript2><cyrillic>аврагалах</cyrillic></item>
 <item><ref>X0038</ref><unicode>ᠠᠪᠤᠷᠠᠭᠴᠢᠳ</unicode><transcript>aburaγčid</transcript><transcript2>aboragcid</transcript2><cyrillic>аврагчид</cyrillic></item>
 <item><ref>X0039</ref><unicode>ᠠᠦ᠋ᠲ᠋ᠣᠪᠠᠲ᠋ᠯᠢᠶᠣᠨ</unicode><transcript>autobataliyon</transcript><transcript2>aodobadaliyon</transcript2><cyrillic>автобатальон</cyrillic></item>
 <item><ref>X0040</ref><unicode>ᠠᠦ᠋ᠲ᠋ᠣᠭᠠᠷᠠᠰᠢ</unicode><transcript>autoγarasi</transcript><transcript2>aodogarasi</transcript2><cyrillic>автогараш</cyrillic></item>
-<item><ref>X0041</ref><unicode>ᠠᠦ᠋ᠲ᠋ᠣᠭᠷᠧᠢᠳᠧᠷ</unicode><transcript>autogreyider</transcript><transcript2>aodogreyider</transcript2><cyrillic>автогрейдер</cyrillic></item>
-<item><ref>X0042</ref><unicode>ᠠᠦ᠋ᠲ᠋ᠣᠳ᠋ᠷᠧᠽᠢᠨ</unicode><transcript>autodrečin</transcript><transcript2>aododrecin</transcript2><cyrillic>автодрезин</cyrillic></item>
+<item><ref>X0041</ref><unicode>ᠠᠦ᠋ᠲ᠋ᠣᠺᠷᠧᠢᠳᠧᠷ</unicode><transcript>autogreyider</transcript><exact_transcript>autoγrêyidêr</exact_transcript><transcript2>aodogreyider</transcript2><cyrillic>автогрейдер</cyrillic></item>
+<item><ref>X0042</ref><unicode>ᠠᠦ᠋ᠲ᠋ᠣᠳ᠋ᠷᠧᠽᠢᠨ</unicode><transcript>autodrečin</transcript><exact_transcript>autodrêzin</exact_transcript><transcript2>aododrecin</transcript2><cyrillic>автодрезин</cyrillic></item>
 <item><ref>X0043</ref><unicode>ᠠᠦ᠋ᠲ᠋ᠣᠳ᠋ᠷᠣᠮ</unicode><transcript>autodrom</transcript><transcript2>aododrom</transcript2><cyrillic>автодром</cyrillic></item>
 <item><ref>X0044</ref><unicode>ᠠᠦ᠋ᠲ᠋ᠣᠵᠢᠯᠣᠭᠣᠴᠢ</unicode><transcript>autoǰiluγuči</transcript><transcript2>aodocilogoci</transcript2><cyrillic>автожолооч</cyrillic></item>
-<item><ref>X0045</ref><unicode>ᠠᠦ᠋ᠲ᠋ᠣᠺᠠᠮᠧᠷ</unicode><transcript>autokamer</transcript><transcript2>aodogamer</transcript2><cyrillic>автокамер</cyrillic></item>
+<item><ref>X0045</ref><unicode>ᠠᠦ᠋ᠲ᠋ᠣᠺᠠᠮᠧᠷ</unicode><transcript>autokamer</transcript><exact_transcript>autokamêr</exact_transcript><transcript2>aodogamer</transcript2><cyrillic>автокамер</cyrillic></item>
 <item><ref>X0046</ref><unicode>ᠠᠦ᠋ᠲ᠋ᠣᠺᠯᠠᠸ</unicode><transcript>autoklav</transcript><transcript2>aodoglav</transcript2><cyrillic>автоклав</cyrillic></item>
 <item><ref>X0047</ref><unicode>ᠠᠦ᠋ᠲ᠋ᠣᠯ</unicode><transcript>autol</transcript><transcript2>aodol</transcript2><cyrillic>автол</cyrillic></item>
 <item><ref>X0048</ref><unicode>ᠠᠦ᠋ᠲ᠋ᠣᠮᠠᠲ᠋ᠵᠢᠯᠲᠠ</unicode><transcript>automatǰilta</transcript><transcript2>aodomadcilda</transcript2><cyrillic>автоматжилт</cyrillic></item>
@@ -71711,7 +71710,7 @@
 <item><ref>X0061</ref><unicode>ᠠᠦ᠋ᠲ᠋ᠣᠼᠧᠰᠲ᠋ᠢᠷᠩ</unicode><transcript>autočestirng</transcript><transcript2>aodocesdirng</transcript2><cyrillic>автоцестирн</cyrillic></item>
 <item><ref>X0062</ref><unicode>ᠠᠦ᠋ᠲ᠋ᠣᠱᠲ᠋ᠦ᠋ᠷᠮᠠᠨ</unicode><transcript>autoštürman</transcript><transcript2>aodošdörman</transcript2><cyrillic>автоштурман</cyrillic></item>
 <item><ref>X0063</ref><unicode>ᠠᠪᠴᠢᠷᠠᠵᠠᠭᠠᠬᠤ</unicode><transcript>abčiraǰaγaqu</transcript><transcript2>abciracagago</transcript2><cyrillic>авчирцгаах</cyrillic></item>
-<item><ref>X0064</ref><unicode>ᠠᠪᠢᠽ</unicode><transcript>abič</transcript><transcript2>abic</transcript2><cyrillic>авьз</cyrillic></item>
+<item><ref>X0064</ref><unicode>ᠠᠪᠢᠽ</unicode><transcript>abič</transcript><exact_transcript>abiz</exact_transcript><transcript2>abic</transcript2><cyrillic>авьз</cyrillic></item>
 <item><ref>X0065</ref><unicode>ᠠᠭᠠᠷᠯᠠᠭᠤᠯᠭ᠎ᠠ</unicode><transcript>aγarlaγulγ-a</transcript><transcript2>agarlagolg-a</transcript2><cyrillic>агаарлуулга</cyrillic></item>
 <item><ref>X0066</ref><unicode>ᠠᠭᠢᠯᠢᠭ</unicode><transcript>aγilig</transcript><transcript2>agilig</transcript2><cyrillic>агилаг</cyrillic></item>
 <item><ref>X0067</ref><unicode>ᠠᠳᠦ᠋ᠯᠶᠠᠷ</unicode><transcript>adülyar</transcript><transcript2>adölyar</transcript2><cyrillic>адуляр</cyrillic></item>
@@ -72875,4 +72874,9 @@
 <item><ref>A9075</ref><unicode>ᠠᠨᠳᠠ</unicode><transcript>anda</transcript><transcript2></transcript2><cyrillic>аандаа</cyrillic></item>
 <item><ref>A9076</ref><unicode>ᠠᠷ</unicode><transcript>ar</transcript><transcript2></transcript2><cyrillic>аар</cyrillic></item>
 <item><ref>A9077</ref><unicode>ᠠᠱᠠᠷ ᠠ</unicode><transcript>ašar-a</transcript><transcript2></transcript2><cyrillic>аашаар</cyrillic></item>
+<item><ref>A9078</ref><unicode>ᠠᠸᠠᠩᠭᠠᠷᠳ᠋ᠯᠠᠭᠤᠯᠬᠤ</unicode><transcript>avangγardlaγulqu</transcript><transcript2></transcript2><cyrillic>авангардлуулах</cyrillic></item>
+<item><ref>A9079</ref><unicode>ᠠᠪᠠᠭᠠᠶᠢᠴᠣᠤᠯ</unicode><transcript>abaγayičoul</transcript><transcript2></transcript2><cyrillic>авгайцуул</cyrillic></item>
+<item><ref>A9080</ref><unicode>ᠠᠸᠭᠢᠲ᠋ᠢᠲ᠋</unicode><transcript>avgitit</transcript><transcript2></transcript2><cyrillic>авгитит</cyrillic></item>
+<item><ref>A9081</ref><unicode>ᠠᠸᠭᠦ᠋ᠷ</unicode><transcript>avgür</transcript><transcript2></transcript2><cyrillic>авгур</cyrillic></item>
+<item><ref>A9082</ref><unicode>ᠠᠦ᠋ᠲ᠋ᠣᠵᠠᠪᠤᠳ᠋</unicode><transcript>autojabud</transcript><transcript2></transcript2><cyrillic>автозавод</cyrillic></item>
 </list>

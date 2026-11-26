@@ -2,9 +2,13 @@
 <entry ref="A1476">
   <head>
     <unicode>ᠠᠪᠣᠯᠲᠠᠬᠣ</unicode>
-    <transcript>abultaqu</transcript>
+    <transcript>abuldaqu</transcript>
     <transcript2>aboldago</transcript2>
+    <cyrillic>авалдах</cyrillic>
   </head>
+  <see_also>
+    <ref>A1480</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>Schmidt</dico>
@@ -19,6 +23,13 @@
       <uighur>abuldaqu</uighur>
       <definition>To wrestle, to fight. To pull and drag one another.</definition>
       <page>15</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠪᠤᠯᠳᠠᠬᠤ</unicode>
+      <cyrillic>авалдах</cyrillic>
+      <definition>〔动〕авах 的互动态.</definition>
+      <page>6</page>
     </entry_item>
   </entries>
 </entry>

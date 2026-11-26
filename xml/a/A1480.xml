@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="A1480">
   <head>
     <unicode>ᠠᠪᠣᠯᠳᠣᠬᠣ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>aboldogo</transcript2>
     <cyrillic>авалдах</cyrillic>
   </head>
+  <see_also>
+    <ref>A1476</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -22,13 +25,6 @@
       <uighur>abulduqu - abulčaqu</uighur>
       <definition>venir aux mains, lutter, combattre; 2 être collé ensemble; se joindre, se réunir: 3 prendre, recevoir, accepter, obtenir ensemble avec les autres</definition>
       <page>45</page>
-    </entry_item>
-    <entry_item>
-      <dico>Chinese</dico>
-      <unicode>ᠠᠪᠤᠯᠳᠠᠬᠤ</unicode>
-      <cyrillic>авалдах</cyrillic>
-      <definition>〔动〕авах 的互动态.</definition>
-      <page>6</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
