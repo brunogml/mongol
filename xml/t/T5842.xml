@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T5842">
   <head>
     <unicode>ᠳᠣᠭᠣᠯᠭᠠᠷᠲᠠᠢ</unicode>
@@ -6,9 +6,7 @@
     <transcript2>dogolgardai</transcript2>
     <cyrillic>дуулгартай</cyrillic>
   </head>
-  <related_to>
-    <ref>T5667</ref>
-  </related_to>
+  
   <entries>
     <entry_item>
       <dico>Chinese</dico>
@@ -32,4 +30,4 @@
       <page>214</page>
     </entry_item>
   </entries>
-</entry>
+<related_to><ref>T5841</ref></related_to></entry>

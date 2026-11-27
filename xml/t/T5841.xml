@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T5841">
   <head>
     <unicode>ᠳᠣᠭᠣᠯᠭᠠᠷ</unicode>
@@ -6,9 +6,7 @@
     <transcript2>dogolgar</transcript2>
     <cyrillic>дуулгар</cyrillic>
   </head>
-  <related_to>
-    <ref>T5665</ref>
-  </related_to>
+  
   <see_also>
     <ref>T5161</ref>
   </see_also>
@@ -42,4 +40,4 @@
       <page>214</page>
     </entry_item>
   </entries>
-</entry>
+<derivatives><ref>T5842</ref></derivatives></entry>

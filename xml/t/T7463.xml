@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T7463">
   <head>
     <transcript>doktor</transcript>
@@ -7,7 +7,7 @@
   </head>
   <see_also>
     <ref>T6188</ref>
-  </see_also>
+  <ref>T6187</ref><ref>T6187a</ref></see_also>
   <entries>
     <entry_item>
       <dico>Chinese</dico>

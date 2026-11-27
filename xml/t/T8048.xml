@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T8048">
   <head>
     <unicode>ᠳᠥᠢᠩᠺᠢ</unicode>
@@ -9,6 +9,9 @@
   <see_also>
     <ref>T8055</ref>
   </see_also>
+  <derivatives>
+    <ref>T8050</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>lamrd</dico>

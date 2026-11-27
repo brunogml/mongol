@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T6381">
   <head>
-    <unicode>ᠲᠣᠪᠴᠢᠶᠠ</unicode>
+    <unicode>ᠲᠣᠪᠴᠢᠶ ᠠ</unicode>
     <transcript>tobčiy-a</transcript>
     <transcript2>dobciy-a</transcript2>
     <cyrillic>товчоо</cyrillic>
@@ -21,33 +21,33 @@
       <examples>
         <example>
           <unicode>ᠯᠠᠪᠯᠠᠬᠤ ᠲᠣᠪᠴᠢᠶ᠎ᠠ</unicode>
-          <transcript>lablaxu -- </transcript>
-          <definition> Information office or desk (to answer queries).</definition>
+          <transcript>lablaxu --</transcript>
+          <definition>Information office or desk (to answer queries).</definition>
         </example>
         <example>
           <unicode>ᠮᠡᠳᠡᠭᠡᠯᠡᠺᠦ ᠲᠣᠪᠴᠢᠶ᠎ᠠ</unicode>
-          <transcript>medegeleky -- </transcript>
-          <definition> Information bureau (governmental)</definition>
+          <transcript>medegeleky --</transcript>
+          <definition>Information bureau (governmental)</definition>
         </example>
         <example>
           <unicode>ᠲᠣᠪᠴᠢᠶ᠎ᠠ ᠪᠡᠷ</unicode>
           <transcript>-- ber</transcript>
-          <definition> Inbrief, briefly.</definition>
+          <definition>Inbrief, briefly.</definition>
         </example>
         <example>
           <unicode>ᠲᠣᠪᠴᠢᠶ᠎ᠠ ᠮᠡᠳᠡᠭᠡ</unicode>
           <transcript>-- medege</transcript>
-          <definition> News in brief, summary of news or information</definition>
+          <definition>News in brief, summary of news or information</definition>
         </example>
         <example>
           <unicode>ᠮᠣᠩᠭᠤᠯ ᠤᠨ ᠨᠢᠭᠤᠴᠠ ᠲᠣᠪᠴᠢᠶᠠᠨ</unicode>
           <transcript>mongγul un niγuca --n</transcript>
-          <definition> 'The Secret History of the Mongols' (name of the earliest Mongol chronicl composed in the 13th century)</definition>
+          <definition>'The Secret History of the Mongols' (name of the earliest Mongol chronicl composed in the 13th century)</definition>
         </example>
         <example>
           <unicode>ᠭᠤᠷᠪᠠᠨ ᠶᠡᠺᠡ ᠲᠣᠪᠴᠢᠶ᠎ᠠ</unicode>
-          <transcript>γurban jeke -- </transcript>
-          <definition> The three great bonds, namely between emperor and his subject[s], fathers and sons, husbands and wives (Ch. san-kang)</definition>
+          <transcript>γurban jeke --</transcript>
+          <definition>The three great bonds, namely between emperor and his subject[s], fathers and sons, husbands and wives (Ch. san-kang)</definition>
         </example>
       </examples>
     </entry_item>
@@ -71,27 +71,27 @@
       <dico>lamrd</dico>
       <unicode>ᠲᠣᠪᠴᠢᠶᠠ</unicode>
       <cyrillic>ТОВЧОО(Н)</cyrillic>
-      <definition>I бюро; мэдээлэх товчоо информационное бюро; намын үүрийн товчоо бюро партљйной ячейки; намын хорооны товчоо бюро партљйного комитета; улс төрийн товчоо политљческое бюро, политбюро; товчооны бүрэлдэхүүн состав бюро; товчооны гишүүн член бюро. </definition>
+      <definition>I бюро; мэдээлэх товчоо информационное бюро; намын үүрийн товчоо бюро партљйной ячейки; намын хорооны товчоо бюро партљйного комитета; улс төрийн товчоо политљческое бюро, политбюро; товчооны бүрэлдэхүүн состав бюро; товчооны гишүүн член бюро.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠲᠣᠪᠴᠢᠶᠠ</unicode>
       <cyrillic>ТОВЧОО(Н)</cyrillic>
-      <definition>II 1) сокращённое изложение; резюме; конспект; 2) сводка, данные, сумма, итог (напр. выборов, переписи и т.д.). </definition>
+      <definition>II 1) сокращённое изложение; резюме; конспект; 2) сводка, данные, сумма, итог (напр. выборов, переписи и т.д.).</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠲᠣᠪᠴᠢᠶᠠ</unicode>
       <cyrillic>ТОВЧОО</cyrillic>
-      <definition>III край сети, невода. </definition>
+      <definition>III край сети, невода.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>Vietze</dico>
       <cyrillic>товчоо[н]</cyrillic>
-      <definition>1. Büro n; лавлах ~ Auskunftsbüro n; улс тɵрийн ~ Politbüro n
+      <definition>1. Büro n; лавлах ~ Auskunftsbüro n; улс тɵрийн ~ Politbüro n&#13;
 2. Zusammenfassung f</definition>
       <page>225</page>
     </entry_item>
@@ -110,4 +110,4 @@
       <page>532</page>
     </entry_item>
   </entries>
-</entry>
+<derivatives><ref>T6383</ref><ref>T6384</ref></derivatives></entry>

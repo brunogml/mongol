@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T6147">
   <head>
     <unicode>ᠲᠣᠬᠳᠣᠭᠣᠨᠠᠬᠣ</unicode>
@@ -7,9 +7,9 @@
     <cyrillic>тогдгонох</cyrillic>
   </head>
   <derivatives>
-    <ref>T6149</ref>
+    
     <ref>T6150</ref>
-  </derivatives>
+  <ref>T6149</ref></derivatives>
   <see_also>
     <ref>T6148</ref>
   </see_also>

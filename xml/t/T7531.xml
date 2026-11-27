@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T7531">
   <head>
     <unicode>ᠲᠣᠶᠢᠪᠣᠲᠠᠢ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>doyibodai</transcript2>
     <cyrillic>тойвтой</cyrillic>
   </head>
+  <related_to>
+    <ref>T7528</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Chinese</dico>
@@ -18,7 +21,7 @@
       <dico>lamrd</dico>
       <unicode>ᠲᠣᠶᠢᠪᠣᠲᠠᠢ</unicode>
       <cyrillic>ТОЙВТОЙ</cyrillic>
-      <definition>громоздкий. </definition>
+      <definition>громоздкий.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>

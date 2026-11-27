@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T5980">
   <head>
     <unicode>ᠲᠣᠭᠣᠷᠠᠶᠢᠲᠣ</unicode>
@@ -30,7 +30,7 @@
       <dico>lamrd</dico>
       <unicode>ᠲᠣᠭᠣᠷᠠᠶᠢᠲᠣ</unicode>
       <cyrillic>ТУУРАЙТ</cyrillic>
-      <definition>копытный, имеющий копыто; † туурайт хулгана амьт. землеройка, полевая мышь. </definition>
+      <definition>копытный, имеющий копыто; † туурайт хулгана амьт. землеройка, полевая мышь.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -41,4 +41,4 @@
       <page>561</page>
     </entry_item>
   </entries>
-</entry>
+<related_to><ref>T5960</ref></related_to></entry>

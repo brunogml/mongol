@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T6102">
   <head>
     <unicode>ᠲᠣᠬᠲᠠᠭᠣᠷᠢᠲᠠᠢ</unicode>
@@ -6,6 +6,12 @@
     <transcript2>dogdagoridai</transcript2>
     <cyrillic>тогтуурьтай</cyrillic>
   </head>
+  <see_also>
+    <ref>T6103</ref>
+  </see_also>
+  <related_to>
+    <ref>T6101</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Chinese</dico>
@@ -18,7 +24,7 @@
       <dico>lamrd</dico>
       <unicode>ᠲᠣᠬᠲᠠᠭᠣᠷᠢᠲᠠᠢ</unicode>
       <cyrillic>ТОГТУУРЬТАЙ</cyrillic>
-      <definition>1) устойчивый, постоянный; прочный, основательный; стабљльный, благонадёжный; 2) спокойный. </definition>
+      <definition>1) устойчивый, постоянный; прочный, основательный; стабљльный, благонадёжный; 2) спокойный.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -29,7 +35,4 @@
       <page>534</page>
     </entry_item>
   </entries>
-  <related_to>
-    <ref>T6101</ref>
-  </related_to>
 </entry>

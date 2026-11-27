@@ -5,11 +5,17 @@
     <transcript>durasqaltu</transcript>
     <transcript2>dorasgaldo</transcript2>
     <cyrillic>дурсгалт</cyrillic>
-  </head><see_also>
+  </head>
+  <see_also>
     <ref>T7644</ref>
-  
     <ref>T7645</ref>
   </see_also>
+  <related_to>
+    <ref>T7643</ref>
+  </related_to>
+  <derivatives>
+    <ref>T7645</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -23,7 +29,7 @@
         <example>
           <unicode>ᠳᠣᠷᠠᠰᠬᠠᠯᠲᠣ ᠡᠳᠦᠷ</unicode>
           <transcript>-- edyr</transcript>
-          <definition> Memorial day; memorable day.</definition>
+          <definition>Memorial day; memorable day.</definition>
         </example>
       </examples>
     </entry_item>

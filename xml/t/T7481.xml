@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T7481">
   <head>
     <unicode>ᠲᠣᠶᠠᠭᠠᠷᠠᠬᠣ</unicode>
@@ -9,7 +9,7 @@
   <derivatives>
     <ref>T7482</ref>
     <ref>T7484</ref>
-  </derivatives>
+  <ref>T7483</ref></derivatives>
   <see_also>
     <ref>T7485</ref>
   </see_also>
@@ -52,4 +52,4 @@
       <page>562</page>
     </entry_item>
   </entries>
-</entry>
+<related_to><ref>T7466</ref></related_to></entry>

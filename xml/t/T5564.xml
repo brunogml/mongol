@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T5564">
   <head>
-    <unicode>ᠳᠣᠩᠺᠢᠶᠠ</unicode>
+    <unicode>ᠳᠣᠩᠭᠢᠶ ᠠ</unicode>
     <transcript>donggiy-a</transcript>
     <transcript2>donggiy-a</transcript2>
     <cyrillic>донгио</cyrillic>
@@ -18,7 +18,7 @@
       <dico>lamrd</dico>
       <unicode>ᠳᠣᠩᠺᠢᠶᠠ</unicode>
       <cyrillic>ДОНГИО</cyrillic>
-      <definition>1) тупой, несообразительный; 2) жалкий; 3) необщительный, замкнутый, нелюдимый, дикий. </definition>
+      <definition>1) тупой, несообразительный; 2) жалкий; 3) необщительный, замкнутый, нелюдимый, дикий.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -35,4 +35,4 @@
       <page>199</page>
     </entry_item>
   </entries>
-</entry>
+<derivatives><ref>T5565</ref><ref>T5566</ref><ref>T5567</ref><ref>T5570</ref><ref>T5571a</ref><ref>T5572</ref><ref>T5572a</ref></derivatives></entry>

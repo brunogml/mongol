@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T6101">
   <head>
     <unicode>ᠲᠣᠬᠲᠠᠭᠣᠷᠢ</unicode>
@@ -66,5 +66,5 @@
   </entries>
   <derivatives>
     <ref>T6102</ref>
-  </derivatives>
+  <ref>T6103</ref></derivatives>
 </entry>

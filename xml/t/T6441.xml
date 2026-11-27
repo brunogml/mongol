@@ -6,6 +6,9 @@
     <transcript2>dosalamcidai</transcript2>
     <cyrillic>тусламжтай</cyrillic>
   </head>
+  <related_to>
+    <ref>T6440</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -19,7 +22,7 @@
         <example>
           <unicode>ᠲᠣᠰᠠᠯᠠᠮᠵᠢᠲᠠᠢ ᠪᠡᠷ</unicode>
           <transcript>-- ber</transcript>
-          <definition> With the assistance of .</definition>
+          <definition>With the assistance of .</definition>
         </example>
       </examples>
     </entry_item>
@@ -31,4 +34,4 @@
       <page>1120</page>
     </entry_item>
   </entries>
-<related_to><ref>T6440</ref></related_to></entry>
+</entry>

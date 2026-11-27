@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T5665">
   <head>
     <unicode>ᠳᠣᠭᠠᠷ</unicode>
@@ -6,10 +6,7 @@
     <transcript2>dogar</transcript2>
     <cyrillic>дугаар</cyrillic>
   </head>
-  <derivatives>
-    <ref>Q5813</ref>
-    <ref>T5841</ref>
-  </derivatives>
+  
   <see_also>
     <ref>T5664</ref>
     <ref>T5665a</ref>

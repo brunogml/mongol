@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T5407">
   <head>
     <unicode>ᠳᠣᠩᠬᠠᠭᠠᠷ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>donggagar</transcript2>
     <cyrillic>дунхгар</cyrillic>
   </head>
+  <derivatives>
+    <ref>T5408</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Chinese</dico>

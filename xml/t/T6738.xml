@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T6738">
   <head>
     <unicode>ᠲᠣᠳᠣᠷᠬᠠᠶᠢᠯᠠᠯ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>dodorgayilal</transcript2>
     <cyrillic>тодорхойлол</cyrillic>
   </head>
+  <derivatives>
+    <ref>T6739</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -44,4 +47,4 @@
       <page>535</page>
     </entry_item>
   </entries>
-</entry>
+<related_to><ref>T6733</ref></related_to></entry>

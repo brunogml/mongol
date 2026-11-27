@@ -5,9 +5,13 @@
     <transcript>tobčitai</transcript>
     <transcript2>dobcidai</transcript2>
     <cyrillic>товчтой</cyrillic>
-  </head><see_also>
+  </head>
+  <see_also>
     <ref>T6367</ref>
   </see_also>
+  <related_to>
+    <ref>T6355</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -29,15 +33,15 @@
       <dico>lamrd</dico>
       <unicode>ᠲᠣᠪᠴᠢᠲᠠᠢ</unicode>
       <cyrillic>ТОВЧТОЙ</cyrillic>
-      <definition>I имеющий пуговицы, с пуговицами. </definition>
+      <definition>I имеющий пуговицы, с пуговицами.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
       <dico>lamrd</dico>
       <unicode>ᠲᠣᠪᠴᠢᠲᠠᠢ</unicode>
       <cyrillic>ТОВЧТОЙ</cyrillic>
-      <definition>II краткий. </definition>
+      <definition>II краткий.</definition>
       <page>0</page>
     </entry_item>
   </entries>
-<related_to><ref>T6355</ref></related_to></entry>
+</entry>

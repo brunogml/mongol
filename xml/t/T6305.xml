@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T6305">
   <head>
     <unicode>ᠲᠣᠪᠣᠷᠣᠣᠲᠣ</unicode>
@@ -33,7 +33,7 @@
       <dico>lamrd</dico>
       <unicode>ᠲᠣᠪᠣᠷᠣᠣᠲᠣ</unicode>
       <cyrillic>ТОВРУУТ</cyrillic>
-      <definition>1) имеющий круглую выпуклую бляху; 2) выпуклый; со шляпкой (о гвозде); товруут хадаас гвоздь с выпуклой шляпкой; 3) резной, орнаментљрованный, с орнаментом. </definition>
+      <definition>1) имеющий круглую выпуклую бляху; 2) выпуклый; со шляпкой (о гвозде); товруут хадаас гвоздь с выпуклой шляпкой; 3) резной, орнаментљрованный, с орнаментом.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>
@@ -44,4 +44,4 @@
       <page>531</page>
     </entry_item>
   </entries>
-</entry>
+<related_to><ref>T6303</ref></related_to></entry>

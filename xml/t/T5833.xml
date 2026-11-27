@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T5833">
   <head>
     <unicode>ᠲᠣᠭᠣᠯᠭᠠᠲᠣ</unicode>
@@ -10,6 +10,9 @@
     <ref>T5834</ref>
     <ref>T5828</ref>
   </see_also>
+  <related_to>
+    <ref>T5823</ref>
+  </related_to>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -31,7 +34,7 @@
       <dico>lamrd</dico>
       <unicode>ᠲᠣᠭᠣᠯᠭᠠᠲᠣ</unicode>
       <cyrillic>ТУГАЛГАТ</cyrillic>
-      <definition>содержащий олово, свинец. </definition>
+      <definition>содержащий олово, свинец.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>

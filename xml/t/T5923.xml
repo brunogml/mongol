@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T5923">
   <head>
     <unicode>ᠳᠣᠭᠣᠶᠢᠲᠠᠢ</unicode>
@@ -6,6 +6,9 @@
     <transcript2>dogoyidai</transcript2>
     <cyrillic>дугуйтай</cyrillic>
   </head>
+  <see_also>
+    <ref>T5926</ref>
+  </see_also>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -19,7 +22,7 @@
         <example>
           <unicode>ᠳᠣᠭᠣᠶᠢᠲᠠᠢ ᠺᠦᠮᠦᠨ</unicode>
           <transcript>-- kymyn</transcript>
-          <definition> Bicyclist.</definition>
+          <definition>Bicyclist.</definition>
         </example>
       </examples>
     </entry_item>
@@ -34,7 +37,7 @@
       <dico>lamrd</dico>
       <unicode>ᠳᠣᠭᠣᠶᠢᠲᠠᠢ</unicode>
       <cyrillic>ДУГУЙТАЙ</cyrillic>
-      <definition>1) имеющий колесо, велосипед; дөрвөн дугуйтай тэрэг а) четырёхколёсная телега; б) машина; төмөр дугуйтай на железном ходу; хоёр дугуйтай тэрэг двуколка; дугуйтай тэнхлэг колёсная ось; ход; дугуйтай тэшүүр ролики; дугуйтай тэшүүрээр тэших кататься на роликах; дугуйтай явах ездить на велосипеде; 2) колёсный, велосипедный; дугуйтай хөсөг колёсный обоз; дугуйтай хүн велосипедист. </definition>
+      <definition>1) имеющий колесо, велосипед; дөрвөн дугуйтай тэрэг а) четырёхколёсная телега; б) машина; төмөр дугуйтай на железном ходу; хоёр дугуйтай тэрэг двуколка; дугуйтай тэнхлэг колёсная ось; ход; дугуйтай тэшүүр ролики; дугуйтай тэшүүрээр тэших кататься на роликах; дугуйтай явах ездить на велосипеде; 2) колёсный, велосипедный; дугуйтай хөсөг колёсный обоз; дугуйтай хүн велосипедист.</definition>
       <page>0</page>
     </entry_item>
     <entry_item>

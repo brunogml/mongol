@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="T6274">
   <head>
     <unicode>ᠲᠣᠪᠣᠭᠣᠷᠳᠠᠬᠣ</unicode>
@@ -9,10 +9,10 @@
   <derivatives>
     <ref>T6277</ref>
     <ref>T6278</ref>
-  </derivatives>
+  <ref>T6276</ref></derivatives>
   <see_also>
     <ref>T6275</ref>
-  </see_also>
+  <ref>T6276</ref></see_also>
   <entries>
     <entry_item>
       <dico>Chinese</dico>
@@ -36,4 +36,4 @@
       <page>531</page>
     </entry_item>
   </entries>
-</entry>
+<related_to><ref>T6270</ref></related_to></entry>
