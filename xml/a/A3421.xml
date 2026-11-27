@@ -5,9 +5,7 @@
     <transcript>agent</transcript>
     <transcript2>agend</transcript2>
     <cyrillic>агент</cyrillic>
-  </head><see_also>
-    <ref>A3420</ref>
-  </see_also>
+  </head>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -21,7 +19,7 @@
         <example>
           <unicode>ᠬᠤᠳᠠᠯᠳᠤᠭᠠᠨ ᠤ ᠠᠭᠡᠨᠲ</unicode>
           <transcript>xudalduγan u --</transcript>
-          <definition> Commercial agent.</definition>
+          <definition>Commercial agent.</definition>
         </example>
       </examples>
     </entry_item>
@@ -31,6 +29,26 @@
       <cyrillic>агент</cyrillic>
       <definition>〔名〕①代理人，代办人，经纪人：худалдааны ~ 代理商；经纪人；②奸细，间谍，侦探；③走狗，爪牙.</definition>
       <page>17</page>
+    </entry_item>
+    <entry_item>
+      <dico>Vietze</dico>
+      <cyrillic>агент</cyrillic>
+      <definition>Agent m; худалдааны ~ Handelsagent m</definition>
+      <page>22</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠡᠨᠲ</unicode>
+      <cyrillic>АГЕНТ</cyrillic>
+      <definition>агент; худалдааны агент торговый агент; агентад арьс тушаах сдать торговому агенту шкуры.</definition>
+      <page>0</page>
+    </entry_item>
+    <entry_item>
+      <dico>lamrd</dico>
+      <unicode>ᠠᠭᠡᠨᠲ ᠤᠨ</unicode>
+      <cyrillic>АГЕНТЫН</cyrillic>
+      <definition>агент–ын харьяал., агентский; агентурный; агентын ажил агентурная деятельность; агентура; агентын газар агентство; агентын мэдээ агентурные сведения.</definition>
+      <page>0</page>
     </entry_item>
   </entries>
 </entry>

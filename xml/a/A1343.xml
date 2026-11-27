@@ -5,16 +5,19 @@
     <transcript>abačiqu</transcript>
     <transcript2>abacigo</transcript2>
     <cyrillic>аваачих</cyrillic>
-  </head><derivatives>
-    <ref>A1344</ref>
-  
-    <ref>A1345</ref>
-  
-    <ref>A1347</ref>
-  <ref>A1346</ref></derivatives>
+  </head>
   <see_also>
     <ref>A1313</ref>
   </see_also>
+  <related_to>
+    <ref>A1339</ref>
+  </related_to>
+  <derivatives>
+    <ref>A1344</ref>
+    <ref>A1345</ref>
+    <ref>A1347</ref>
+    <ref>A1346</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Lessing</dico>
@@ -120,4 +123,4 @@
       <page>2</page>
     </entry_item>
   </entries>
-<related_to><ref>A1339</ref></related_to></entry>
+</entry>

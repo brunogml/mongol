@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="A1559">
   <head>
     <unicode>ᠠᠪᠬᠠᠯᠵᠢᠲᠠᠢ</unicode>
@@ -8,7 +8,11 @@
   </head>
   <see_also>
     <ref>A1560a</ref>
+    <ref>A1561</ref>
   </see_also>
+  <derivatives>
+    <ref>A1560</ref>
+  </derivatives>
   <entries>
     <entry_item>
       <dico>Chinese</dico>
