@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="A0878">
   <head>
     <unicode>ᠠᠭᠣᠯᠵᠠᠭᠣᠷ</unicode>
@@ -23,6 +23,13 @@
       <cyrillic>уулзуур</cyrillic>
       <definition>уулзар, уулзвар.</definition>
       <page>606</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠭᠤᠯᠵᠠᠭᠤᠷ</unicode>
+      <cyrillic>агуулзуур</cyrillic>
+      <definition>〔名〕〈植〉萝摩科.</definition>
+      <page>20</page>
     </entry_item>
   </entries>
 </entry>

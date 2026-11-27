@@ -1,9 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entry ref="A3419">
   <head>
     <unicode>ᠠᠺᠠ</unicode>
     <transcript>age</transcript>
     <transcript2>age</transcript2>
+    <cyrillic>агь</cyrillic>
   </head>
   <entries>
     <entry_item>
@@ -26,6 +27,12 @@
       <cyrillic>агь /2</cyrillic>
       <definition>хаад ноёдын хүү.</definition>
       <page>22</page>
+    </entry_item>
+    <entry_item>
+      <dico>Chinese</dico>
+      <unicode>ᠠᠺᠠ</unicode>
+      <cyrillic>агь</cyrillic>
+      <definition>〔名〕〈陈〉公子，少爷.</definition>
     </entry_item>
   </entries>
 </entry>
